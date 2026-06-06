@@ -1,0 +1,17 @@
+{:paths ["src" "resources"]
+
+ :deps
+ {org.clojure/clojure {:mvn/version "1.12.0"}
+  babashka/fs {:mvn/version "0.5.24"}
+  cheshire/cheshire {:mvn/version "5.13.0"}
+  hato/hato {:mvn/version "1.0.0"}
+  org.clj-commons/hickory {:mvn/version "0.7.7"}
+  org.apache.pdfbox/pdfbox {:mvn/version "3.0.5"}}
+
+ :aliases
+ {:openmevzuat
+  {:main-opts ["-m" "openmevzuat.core"]}
+
+  :test
+  {:extra-paths ["test"]
+   :main-opts ["-m" "openmevzuat.test-runner"]}}}

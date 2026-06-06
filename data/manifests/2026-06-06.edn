@@ -1,0 +1,37 @@
+{:snapshot/date "2026-06-06",
+ :snapshot/generated-at #inst "2026-06-06T11:07:36.025-00:00",
+ :generator/name "openmevzuat",
+ :generator/version "0.1.0",
+ :documents
+ [{:document/id "constitution/1982",
+   :document/title "Türkiye Cumhuriyeti Anayasası",
+   :document/path
+   "data/canonical/constitution/2709-turkiye-cumhuriyeti-anayasasi",
+   :metadata/path
+   "data/metadata/constitution/2709-turkiye-cumhuriyeti-anayasasi.edn",
+   :document/sha256
+   "715829fef78621fcae98af3ae68f860d736dc34cfc3c4c2b83c9a830483693ff"}
+  {:document/id "law/5237",
+   :document/title "Türk Ceza Kanunu",
+   :document/path "data/canonical/laws/5237-turk-ceza-kanunu",
+   :metadata/path "data/metadata/laws/5237-turk-ceza-kanunu.edn",
+   :document/sha256
+   "14c561ee66bbf14ea3dec2375e6d96caba70d510fb1b8aa43e88a13bde72f204"}
+  {:document/id "law/6102",
+   :document/title "Türk Ticaret Kanunu",
+   :document/path "data/canonical/laws/6102-turk-ticaret-kanunu",
+   :metadata/path "data/metadata/laws/6102-turk-ticaret-kanunu.edn",
+   :document/sha256
+   "cb0dcfb66fd31da45b82f68d1cae18483623111da6d467ed6f27a754b0eda848"}
+  {:document/id "law/6098",
+   :document/title "Türk Borçlar Kanunu",
+   :document/path "data/canonical/laws/6098-turk-borclar-kanunu",
+   :metadata/path "data/metadata/laws/6098-turk-borclar-kanunu.edn",
+   :document/sha256
+   "d14f52d1a73b54c698e07614638a55ad4bb6428f94e0ac69109541c74edebc62"}
+  {:document/id "law/4721",
+   :document/title "Türk Medeni Kanunu",
+   :document/path "data/canonical/laws/4721-turk-medeni-kanunu",
+   :metadata/path "data/metadata/laws/4721-turk-medeni-kanunu.edn",
+   :document/sha256
+   "039b7412c826e2454809b115dec27852bb0f8737c67ce921d04fbb03da295251"}]}

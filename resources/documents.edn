@@ -1,0 +1,36 @@
+{:documents
+ [{:document/id "constitution/1982"
+   :document/type :constitution
+   :document/number "2709"
+   :document/title "Türkiye Cumhuriyeti Anayasası"
+   :source/id :mevzuat-gov-tr
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf"}
+
+  {:document/id "law/5237"
+   :document/type :law
+   :document/number "5237"
+   :document/title "Türk Ceza Kanunu"
+   :source/id :mevzuat-gov-tr
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf"}
+
+  {:document/id "law/6102"
+   :document/type :law
+   :document/number "6102"
+   :document/title "Türk Ticaret Kanunu"
+   :source/id :mevzuat-gov-tr
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6102.pdf"}
+
+  {:document/id "law/6098"
+   :document/type :law
+   :document/number "6098"
+   :document/title "Türk Borçlar Kanunu"
+   :source/id :mevzuat-gov-tr
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6098.pdf"}
+
+  {:document/id "law/4721"
+   :document/type :law
+   :document/number "4721"
+   :document/title "Türk Medeni Kanunu"
+   :source/id :mevzuat-gov-tr
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"}]}
+

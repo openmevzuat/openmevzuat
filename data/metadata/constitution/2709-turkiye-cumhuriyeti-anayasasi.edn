@@ -1,0 +1,1416 @@
+{:document/id "constitution/1982",
+ :document/type :constitution,
+ :document/number "2709",
+ :document/title "Türkiye Cumhuriyeti Anayasası",
+ :document/slug "2709-turkiye-cumhuriyeti-anayasasi",
+ :document/path
+ "data/canonical/constitution/2709-turkiye-cumhuriyeti-anayasasi",
+ :document/sha256
+ "715829fef78621fcae98af3ae68f860d736dc34cfc3c4c2b83c9a830483693ff",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf",
+ :source/fetched-at #inst "2026-06-06T11:07:36.031-00:00",
+ :openmevzuat/baseline-date "2026-06-06",
+ :openmevzuat/generated-at #inst "2026-06-06T11:07:36.025-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "constitution/1982/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "I. Devletin şekli",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5ab54cf21aced8f6574d2b7afff756be03ed75aea904606b60b948fbaabac58e"}
+  {:article/id "constitution/1982/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "II. Cumhuriyetin nitelikleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "554d9598e32464de7aa3e12a8ee216663101593bfce21072ad0f34b69f92718d"}
+  {:article/id "constitution/1982/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "III. Devletin bütünlüğü, Resmî dili, bayrağı, milli marşı ve başkenti",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6775b977be41117cad811d2a78260d62f6d1b2fbba5faae1b61661f37e28c196"}
+  {:article/id "constitution/1982/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "IV. Değiştirilemeyecek hükümler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4803d335bcf019a6ccda352f1a792adad80ce9d5855df4670a92c4641a4ed40f"}
+  {:article/id "constitution/1982/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "7813f227a111fa4e09545256d3736701cb20c84751e181dc17368e33e230547a"}
+  {:article/id "constitution/1982/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "VI. Egemenlik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a9044b3552c9dbc34d922d63799daf57e95dc02b8d685c156f5c6b92a9159c87"}
+  {:article/id "constitution/1982/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "VII. Yasama yetkisi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "38d9b9955bd7b35b2de67b0138e52877ad5b6dd3e1078f4827d6226dc918f4f5"}
+  {:article/id "constitution/1982/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "VIII. Yürütme yetkisi ve görevi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "96891e51116112e50708b179e0102040aa9f1fe5831c21ef755e1450ffa89663"}
+  {:article/id "constitution/1982/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "IX. Yargı yetkisi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1296a0cb574396d0c1ed43052bcbef0eb0b8728c7745a475cc2886cd788880df"}
+  {:article/id "constitution/1982/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c159459f9e9ee563d4619f5780a5bd523d9d5594c036517d90f901c1290ea84c"}
+  {:article/id "constitution/1982/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "b096a2bf8e3e66b77d12820963cefdeaf4ffee81ad5933d0238ed99ecd6568af"}
+  {:article/id "constitution/1982/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "d2e0f827ded655b6c1652f55b101a5181fa840b2d87e97f7d3fb9b5f8f936e53"}
+  {:article/id "constitution/1982/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "II. Temel hak ve hürriyetlerin sınırlanması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "fc04e5015ac5fc36b05b4000eb2322592a73968ae15cccb0fa248b89115a24f7"}
+  {:article/id "constitution/1982/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "III. Temel hak ve hürriyetlerin kötüye kullanılamaması",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "33af975314030b0c8ff17eeb1494223f44e5ba8a1a540435b579a5904519a5b7"}
+  {:article/id "constitution/1982/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "fb11b2d58d9266a08ec77394eacf560c8eab0a94aa4397d87286a551e8042e73"}
+  {:article/id "constitution/1982/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "V. Yabancıların durumu",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "99e31af9254af152049981ebc52069dbc3bbd3c57c6348ff190d9f8bbc83337e"}
+  {:article/id "constitution/1982/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "35bb2cee9862e0b09b776c527a8933884e790ab761d4d6c03a02b524e0892eed"}
+  {:article/id "constitution/1982/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "d3e623e7e4d1725a381bf122747f0e647e0807f8ffc7478d1d547229ed9a8868"}
+  {:article/id "constitution/1982/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "III. Kişi hürriyeti ve güvenliği",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "1407ac3a70e6a2ed664f93e93f2e17b634fa81cd784b767260e2c3534273f51f"}
+  {:article/id "constitution/1982/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "7571771f784e593d4b9db9b3b5f893be94d30e489ad74b7074695acf509be3ed"}
+  {:article/id "constitution/1982/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "B. Konut dokunulmazlığı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "c5ef548b870ae4a74c615c30750db949db7eadd2603abb324e095f49c587d81c"}
+  {:article/id "constitution/1982/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "088dc873f6edbf26c0b728393d705c4f1af6b2388455ee46c38aa364c18e4c56"}
+  {:article/id "constitution/1982/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "V. Yerleşme ve seyahat hürriyeti",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "af97bc8c712d19aa84d9b07d655502f485c3ae65767a196b1e92c3acf73b4653"}
+  {:article/id "constitution/1982/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "VI. Din ve vicdan hürriyeti",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "0424f1c6e864080d5a3223ea7dda7493f5e7c92d33b1ea476d1c8d9a28f93dd0"}
+  {:article/id "constitution/1982/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "VII. Düşünce ve kanaat hürriyeti",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "f3a6bb9f286c20e9ca5dddd9b426034cd113b7dedfd4bd3e6ad253e1dc54c680"}
+  {:article/id "constitution/1982/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "3f7198ffc6b0adb35bf12200bc62abfd5f44c6e502c9650caaf605cc1f638994"}
+  {:article/id "constitution/1982/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "IX. Bilim ve sanat hürriyeti",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "3a708c2f49cf48a3096a9c80a98a6ef70fb62b0d6428b806f9ffd989155e6a3d"}
+  {:article/id "constitution/1982/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "44f186ef72d77603a8df0844eec0f8d7b13692eb55c6c4f15f13fad566aa8a57"}
+  {:article/id "constitution/1982/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "B. Süreli ve süresiz yayın hakkı",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "4c9539b5e3c8e5a4e72ec0c15023bbbe934adbeeee0b905e023529ecb0798f15"}
+  {:article/id "constitution/1982/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "C. Basın araçlarının korunması",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "78fc11427193c4c70fd0ef3ed4fa9599531afb46259f6ef0e264e39e821ed180"}
+  {:article/id "constitution/1982/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "02892a1930dfcc34c597a514bf1368638637789b40bfcc7af0129502502f6340"}
+  {:article/id "constitution/1982/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "E. Düzeltme ve cevap hakkı",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "60a4786de76680f2b024100d7e593e71fda722584037adc1f4152443afad364a"}
+  {:article/id "constitution/1982/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "8f90d9a9a24424b76b0602254d9ca7c550cc9c4306625567f6ae033f5ec2da90"}
+  {:article/id "constitution/1982/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "B. Toplantı ve gösteri yürüyüşü düzenleme hakkı",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "ad639f99a08b1afbc28d5aff94af2debba4f8d675f6e866129faaebab94aaddc"}
+  {:article/id "constitution/1982/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "XII. Mülkiyet hakkı",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "bf493a9954946562bde38638bef3a6daf428e4b1bf102fefd0f1249984b304a4"}
+  {:article/id "constitution/1982/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "1835bbb4196c8ae540479d258437e96e8837ce7d3a5017e14487a2cdfd2b32da"}
+  {:article/id "constitution/1982/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "B. Kanuni hakim güvencesi",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "10a9d40a41d283b41184ed578860b512c7cc8add3f2348eed947ecce06942bd8"}
+  {:article/id "constitution/1982/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "C. Suç ve cezalara ilişkin esaslar",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "e853a066eda2926d4cc24fe404010299f757b6003e3c0781616c94edcf94bfc9"}
+  {:article/id "constitution/1982/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "XIV. İspat hakkı",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "4cbe2f78cc3e2196b4b5f30b3d01a57ceec58129f7f30de75289ba833f26ce52"}
+  {:article/id "constitution/1982/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "XV. Temel hak ve hürriyetlerin korunması",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "29424f95fa46b55d346777070857ac9d4ce2506527416efab07291337243d432"}
+  {:article/id "constitution/1982/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "cd16efbe6bea59e92747505c7ab5fc520c54e28296c4bdaba9521700dbfef8b2"}
+  {:article/id "constitution/1982/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "5321d5f8c990cddf88900cb03742bcec70b075fc3eb95431a26d225833a74126"}
+  {:article/id "constitution/1982/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "65aac8f03694be97f243b28b4a05049b50b5e38028873ce41e97e2aac0a18462"}
+  {:article/id "constitution/1982/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "B. Toprak mülkiyeti",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "b2ed13738a6ea522115104a4abb48ed46b05aff19c35285a11fc80f9b89345ca"}
+  {:article/id "constitution/1982/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title
+   "C. Tarım, hayvancılık ve bu üretim dallarında çalışanların korunması",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "15b7710b5c4334dd440db67fd6da6874282f61e3fbcf04e84b443f74183c7205"}
+  {:article/id "constitution/1982/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "D. Kamulaştırma",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "a83eb8304bef9910397e513c4b2deb5dc399b52dfc86d846f4f18187edf79096"}
+  {:article/id "constitution/1982/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "E. Devletleştirme ve Özelleştirme19",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "8d6bb264c743b1bec182f2ede3cd390d39d7a93cc141cfe64147ffc21352ea65"}
+  {:article/id "constitution/1982/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "IV. Çalışma ve sözleşme hürriyeti",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "bc8abe973f9d9eb7c4cdb0167b2b1f9852b3293dcfaea11d3ed1a3ee2e9d631b"}
+  {:article/id "constitution/1982/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "14b7efdd37210f89240ba6f40a71ae8e5d572295fd9cc34196fbeb15fb663d0f"}
+  {:article/id "constitution/1982/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "B. Çalışma şartları ve dinlenme hakkı",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "a5a4d676588750e278264cff1f423d89bee574a8d740ee11e6aca228698b924c"}
+  {:article/id "constitution/1982/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "C. Sendika kurma hakkı",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "306a3acb076280f12dbe2880992096e631c96145843cd68f9c7951f3152e085a"}
+  {:article/id "constitution/1982/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "D. Sendikal faaliyet",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "f48e86ae6dc97df70000235efc33dabc054a37d00f4652e927e431af446ff8b9"}
+  {:article/id "constitution/1982/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title nil,
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "d97008c31e8fcd2248e133d41840f98ac42a89594062534181979522a53dcbae"}
+  {:article/id "constitution/1982/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "B. Grev hakkı ve lokavt",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "d2542a1752feab08d5a6c8bbb526a92bb9cce482c3924ecfc23d54cd525f9b7a"}
+  {:article/id "constitution/1982/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "VII. Ücrette adalet sağlanması",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "c0561d8aced3028e86845ca4f84866175d4768efd1ade615aa3769243078d0b4"}
+  {:article/id "constitution/1982/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "c6bd85ac1f5485b7d34bfaef3c451017a6108d88e5bd83a3bcc8f94469a328dd"}
+  {:article/id "constitution/1982/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "B. Konut hakkı",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "4ff8fbd956c40edf81b1f28f716cc404d2c4073dff6fa1e6a6a1c609f8472ce5"}
+  {:article/id "constitution/1982/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title nil,
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "d469c93ee2fde957dc85858ec3550e443d3d1760dbc410bed8218776a318fbdd"}
+  {:article/id "constitution/1982/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "B. Sporun geliştirilmesi ve tahkim 21",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "b48e36c2820ed7262088c1ebb5eccad56ec3860678e266b9dedeeb0062985774"}
+  {:article/id "constitution/1982/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title nil,
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "1bb006e674a2f11ae2a5bf41f43c11799eaf945eb276219bfd98f4cfecef6b9d"}
+  {:article/id "constitution/1982/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title nil,
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "56d57a9bca0a491c04da96e42a7a372ffa16c8a5c89ab551e35d2d30343bc2c9"}
+  {:article/id "constitution/1982/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "C. Yabancı ülkelerde çalışan Türk vatandaşları",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "35b576dca700f03b24663e9a7e0d5fb3c769d2c01f33565e52b1e71cdb7b454c"}
+  {:article/id "constitution/1982/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title
+   "XI. Tarih, kültür ve tabiat varlıklarının korunması",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "4b70b3553c20c5bfeb79626a8b08442eded8758cb5f8a7dfcf90dfd520301ace"}
+  {:article/id "constitution/1982/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "21d0cc7bc0e9027e0d89a372bceebf3d4e24d9783afe614a1d989e64395aa86f"}
+  {:article/id "constitution/1982/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title
+   "XIII. Devletin iktisadi ve sosyal ödevlerinin sınırları 22",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "acc4e9c55b71e59c2f3714a7f529f720840299f4290e6e779943e820d23e0008"}
+  {:article/id "constitution/1982/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title nil,
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "c2f52ff20aa758bd8d57046283ebe95e803444bc4f08f0c05f576928ddfb7822"}
+  {:article/id "constitution/1982/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title
+   "II. Seçme, seçilme ve siyasi faaliyette bulunma hakları",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "6c2c9ae8e327a31e0aae49887e523097714683d7a55958d5e581e19324c9b6b7"}
+  {:article/id "constitution/1982/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title nil,
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "0d9344ff11b7403e9fd56d5a54cacda14618a904b7de5cc7ddfefd653ab2a4dc"}
+  {:article/id "constitution/1982/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title nil,
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "65bf4c98fb03c7a08548c77ae6f5e919a865603dbd92839c222c0ab2029ddae1"}
+  {:article/id "constitution/1982/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title nil,
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "bb7c66d7b40215d15247610fda4614f5d092dcdd6ae2ced0a13b230be624a1aa"}
+  {:article/id "constitution/1982/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "B. Mal bildirimi",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "8712e4cce4f14de9b80084f9ac93d5c2bad7d00cc716b2aa48b3bdd3222c29e4"}
+  {:article/id "constitution/1982/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "V. Vatan hizmeti",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "6f6f1537f24c61935c895c9a0c4d20ffd0079e3d1056fc28f95801f45afe32cd"}
+  {:article/id "constitution/1982/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title "VI. Vergi ödevi",
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "3151e97b717e5ebbb05d51c0c64a8a73669510eabc60f0119c9a1db2ac81c1f7"}
+  {:article/id "constitution/1982/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title nil,
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "33de075ecf09f2d0d7814cdc7e959d6675310421e074144ecb8830792ca654d8"}
+  {:article/id "constitution/1982/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title nil,
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "b89ef187140903b16769ffc87521286c42e0f66fe1b4dbc8b91383459947107c"}
+  {:article/id "constitution/1982/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title nil,
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "b3ef090176be4d25ed2c45fc0d30ed9fe2d5a1837d9acf98ec7c4a61ffe2d849"}
+  {:article/id "constitution/1982/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title
+   "C. Türkiye Büyük Millet Meclisi ve Cumhurbaşkanının seçim dönemi 33",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "cbfde397a60d748b1d5670bd09ffd1b17bb2192cb77dd17499b6d17c795acd3e"}
+  {:article/id "constitution/1982/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title
+   "D. Seçimlerin geriye bırakılması ve ara seçimler 34",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "ffbc3067d9455ace2c3235ea0ba3bd27c0b0bfd3a1a85203a0cb206ca4bd3afb"}
+  {:article/id "constitution/1982/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "E. Seçimlerin genel yönetim ve denetimi",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "151da8acb819bbe60bf0cc13c778d403b64a7600e5ea61dab0e82d0f31caf29c"}
+  {:article/id "constitution/1982/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title nil,
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "cb6fd3eca1fe82a365170122de0a120341853a7aff6fa3e3b1b2cc544cabf60a"}
+  {:article/id "constitution/1982/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title nil,
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "27299a3705187264fe71527534280389cadb60928aae4b1fe7a36a288583894c"}
+  {:article/id "constitution/1982/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title nil,
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "d43c60c8366e24ba4ad27e5990be622e70beef96a15f518c2ed85846dc402377"}
+  {:article/id "constitution/1982/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title nil,
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "41aa89a5271cb9fb3183e4784a38300aa411ae6c5f1be2d78c9d208e61007b61"}
+  {:article/id "constitution/1982/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title nil,
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "bf28a823ea6df6095baf66bb96eae075cd60b377034858740cd1a1c5114fa477"}
+  {:article/id "constitution/1982/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title nil,
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "2bf4d23410e3872fb2cc63546a30a9350fbea08b6ddf18d5c34f565dcbc4f0bc"}
+  {:article/id "constitution/1982/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title nil,
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "bab4c6829ef77b2f5972f5e97d47811a61faa8bb947de446c42eb396f0dba646"}
+  {:article/id "constitution/1982/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title nil,
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "fb0bc538420510e5eaece247e8b7f256df08aafa685ab6a22f83ad2150b58f30"}
+  {:article/id "constitution/1982/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title nil,
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "785b7fee39767d5f81d392b7ce4f8919fec5f171c345bde3fad85f0a5686a46b"}
+  {:article/id "constitution/1982/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title "C. Kanunların Cumhurbaşkanınca yayımlanması",
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "8f7bc0cb73aef2c515b6f214125e8bb2b0c7f80fb8c984c1274a9ff7897c3480"}
+  {:article/id "constitution/1982/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title "D. Milletlerarası andlaşmaları uygun bulma",
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "2d5f60d1cc0b92d73df5eb6ecdd97fdead6bf5c3232bbeb90ea9b9fb1e4b6c8d"}
+  {:article/id "constitution/1982/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title "E. Kanun hükmünde kararname çıkarma yetkisi verme",
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "d68813eaf047f85864390eeb3867d8d6b82cde9ab6fa0f9c89175adab4f55d77"}
+  {:article/id "constitution/1982/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title
+   "F. Savaş hali ilanı ve silahlı kuvvet kullanılmasına izin verme",
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "da1a5fffe81edd3e06567ee301503b463f8f105e1fd307aae511e67c99a14734"}
+  {:article/id "constitution/1982/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title nil,
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "16a457744d88562a0e3d9ee390e78bd24886972a175ac93f29a8af273663ac9c"}
+  {:article/id "constitution/1982/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title "B. Başkanlık Divanı",
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "6e4bcb52bbfb00b1f1338fdad50ebda1c3309ccd58a937df8c8107c392a054bf"}
+  {:article/id "constitution/1982/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title "C. İçtüzük siyasi parti grupları ve kolluk işleri",
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "c43e4fa90b5a7304712f7b8906bd8baa295cb8647937b6242ec4b3bdde6a07b6"}
+  {:article/id "constitution/1982/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title "D. Toplantı ve karar yeter sayısı",
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "2b96e37ab88e95b4833fd08ebab2ab8049efd7030304f6420f8dcb90143d84ab"}
+  {:article/id "constitution/1982/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title "E. Görüşmelerin açıklığı ve yayımlanması",
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "6a0e184332ec73e82502bfb553f70de5db98f4c0f867acb6321e7274a1a416f6"}
+  {:article/id "constitution/1982/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title nil,
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "20b75f40086e40ad53fc5a7819167c0aa43ac64cea320a19092813d7f9d67658"}
+  {:article/id "constitution/1982/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title "B. Gensoru",
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "ae304075d1b63bb375bc9097c5004458c2d40990c96917fd09de8060522fb31a"}
+  {:article/id "constitution/1982/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title "C. Meclis soruşturması",
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "74d61d3143c179fd971bea759de1aa433c5fd514fb264fbc339163537e108277"}
+  {:article/id "constitution/1982/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title nil,
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "8a74eb87712c2b3b3b99610c1c34b4f867a2af08d90039ffd80bc5f1b5f5b9dc"}
+  {:article/id "constitution/1982/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title "B. Seçimi",
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "17960416a21efa0840cc491844e95f575862d397e294d823df11a024fa0a412f"}
+  {:article/id "constitution/1982/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title "C. Andiçmesi",
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "f835ddc205f3fd76731939059b03aed41c05c6b3964752be70aee24a9c85f09c"}
+  {:article/id "constitution/1982/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title nil,
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "9d28c645678c98492c4c7824e8477dbbe5efd0db84e4d71c1f384c4a157cdd57"}
+  {:article/id "constitution/1982/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title "E. Cumhurbaşkanının cezai sorumluluğu 48",
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "d9cad3d61dd34d9da7bafe0202d85dd712c66c4e6bddd29ed482abee5e5aa314"}
+  {:article/id "constitution/1982/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title
+   "F. Cumhurbaşkanı yardımcıları, Cumhurbaşkanına vekâlet ve bakanlar 49",
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "d787d4cd0b513367a9931dae0c96d3e1a32a77c923458c3339c675dbfb624fb3"}
+  {:article/id "constitution/1982/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title "G. Cumhurbaşkanı Genel Sekreterliği",
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "1d9e703e8dbb649c898839579b10109fea33cdb9e9ee620cfebae6ad394b0d86"}
+  {:article/id "constitution/1982/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title "H. Devlet Denetleme Kurulu",
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "6937e7552935696f42b0ad582cb1816552dd9dcc2b5210907ac18608459f022c"}
+  {:article/id "constitution/1982/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title nil,
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "b43b80de8dd71a498f37471b48d11afc3984ff39dc87e4c908065ffde238b8c7"}
+  {:article/id "constitution/1982/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title "B. Göreve başlama ve güvenoyu",
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "06d283204b7c80edcbee46aefc03746ce56aedcc0f156e84d7e1c9a62195e744"}
+  {:article/id "constitution/1982/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title "C. Görev sırasında güvenoyu",
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "b98fc14dc3af4fe96f31742db4066442bcdaffbc7e63011640c2e356f279fdcb"}
+  {:article/id "constitution/1982/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title "D. Görev ve siyasi sorumluluk",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "019d32625ccfacbb63f011b469f2018f7337a266ba4d4ae21e3e79e93ca95e36"}
+  {:article/id "constitution/1982/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title "E. Bakanlıkların kurulması ve bakanlar",
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "8a5ca8a9a5a0f3ffd1afb1cd5dafa0f3776b9b28d2bb6ea11eebef266c8f1e5e"}
+  {:article/id "constitution/1982/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title "F. Seçimlerde geçici Bakanlar Kurulu",
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "afbef4c195ac2c2e9561d5285d2bca4f74fd8e6224f85c0c9bd5839dda27c610"}
+  {:article/id "constitution/1982/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title "G. Tüzükler",
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "4f35003ab67445957330cec97d801b5d09e157075138ecf090ec6fb1586baa94"}
+  {:article/id "constitution/1982/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title
+   "H. Türkiye Büyük Millet Meclisi ve Cumhurbaşkanı seçimlerinin yenilenmesi 54",
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "41c8fad8a12f5aa4c347dd55615cfd849934b059c4576efcdfa4bf77f647cad1"}
+  {:article/id "constitution/1982/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title nil,
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "05aa79862332ccdd634ffddbae1931a1839da4f7adaad03718b9aa3d00d82da8"}
+  {:article/id "constitution/1982/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title nil,
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "fa6d03e57a18dbb9e786d610ed8641c370fd1295de33e9babd4f389011f4eeca"}
+  {:article/id "constitution/1982/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title nil,
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "5b8c019fc6de322efaad7b595504052199514e1a66f08bb266109e42b4fa5068"}
+  {:article/id "constitution/1982/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title nil,
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "90188ee63e1bf6d583b21a783f2f4b2e8e23f12713185d44d421fe29a420266b"}
+  {:article/id "constitution/1982/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title nil,
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "4b5629e4949cd1127ad09d3e33bcdb5be97c9964b1877b00c5f1789d58ea4fb9"}
+  {:article/id "constitution/1982/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title "B. Sıkıyönetim, seferberlik ve savaş hali",
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "230b7ce8ba98819d646c5fe9bbe70df480797a06de44c68b8be592e7830864ab"}
+  {:article/id "constitution/1982/article/123",
+   :article/type :normal,
+   :article/no "123",
+   :article/title nil,
+   :article/path "articles/madde-123.md",
+   :article/sha256
+   "e3e9ae5b3491fef35dcade692fa33416d51573e8ef3cadc896d0a9e62c990802"}
+  {:article/id "constitution/1982/article/124",
+   :article/type :normal,
+   :article/no "124",
+   :article/title nil,
+   :article/path "articles/madde-124.md",
+   :article/sha256
+   "7aa37225a0c7abf520e89ccc4fc4779b3b77f34dbdb088a79c6096a3b8e14551"}
+  {:article/id "constitution/1982/article/125",
+   :article/type :normal,
+   :article/no "125",
+   :article/title "B. Yargı yolu",
+   :article/path "articles/madde-125.md",
+   :article/sha256
+   "5d97ecb016498d3632ae3c3d0e25d2659ea9fe6c1b4985d635812bd554a9f591"}
+  {:article/id "constitution/1982/article/126",
+   :article/type :normal,
+   :article/no "126",
+   :article/title nil,
+   :article/path "articles/madde-126.md",
+   :article/sha256
+   "f124d76314a9534758fabb70c4ea7b4e567e657cdcdd9029afe288de94d211f6"}
+  {:article/id "constitution/1982/article/127",
+   :article/type :normal,
+   :article/no "127",
+   :article/title nil,
+   :article/path "articles/madde-127.md",
+   :article/sha256
+   "38ea944f38441fa0ee66c26e3fbb29a7bad85186376a09cff4801a538b32bbfd"}
+  {:article/id "constitution/1982/article/128",
+   :article/type :normal,
+   :article/no "128",
+   :article/title nil,
+   :article/path "articles/madde-128.md",
+   :article/sha256
+   "fcdf87bb63f3c2a2298a6bfef3f7cee82f8fbf5dd0436d2fc7f76aca6a33d077"}
+  {:article/id "constitution/1982/article/129",
+   :article/type :normal,
+   :article/no "129",
+   :article/title nil,
+   :article/path "articles/madde-129.md",
+   :article/sha256
+   "ea7c42b206e28014330f1466f0d49fa15214c91c50df33fd7b7aec28c3b6e558"}
+  {:article/id "constitution/1982/article/130",
+   :article/type :normal,
+   :article/no "130",
+   :article/title nil,
+   :article/path "articles/madde-130.md",
+   :article/sha256
+   "70de6defa0d160d7fdb6627d92730c32154ab0d2f2eb576d6f5323dab28119a0"}
+  {:article/id "constitution/1982/article/131",
+   :article/type :normal,
+   :article/no "131",
+   :article/title nil,
+   :article/path "articles/madde-131.md",
+   :article/sha256
+   "711688164f9db7893e1f8b0f201f707d8490490fda014e1cd08ee34c988e71ff"}
+  {:article/id "constitution/1982/article/132",
+   :article/type :normal,
+   :article/no "132",
+   :article/title nil,
+   :article/path "articles/madde-132.md",
+   :article/sha256
+   "8a8f9ebaa018052072526946d3684596388acaaace8f95963512bf86e79a551d"}
+  {:article/id "constitution/1982/article/133",
+   :article/type :normal,
+   :article/no "133",
+   :article/title nil,
+   :article/path "articles/madde-133.md",
+   :article/sha256
+   "e86148df3326276a271d58ac21c9e08ecd6c0f33c8f1a9a58128c1defe9828f5"}
+  {:article/id "constitution/1982/article/134",
+   :article/type :normal,
+   :article/no "134",
+   :article/title "G. Atatürk Kültür, Dil ve Tarih Yüksek Kurumu",
+   :article/path "articles/madde-134.md",
+   :article/sha256
+   "52ed43de89becdd1f6e6b70ef74d536c86ffc42aea3de1ff1e17479d8c6b3b63"}
+  {:article/id "constitution/1982/article/135",
+   :article/type :normal,
+   :article/no "135",
+   :article/title "H. Kamu kurumu niteliğindeki meslek kuruluşları",
+   :article/path "articles/madde-135.md",
+   :article/sha256
+   "758dd29cb48b1885255165b40611b799a5da950d946af93dfedffbcdadf764d9"}
+  {:article/id "constitution/1982/article/136",
+   :article/type :normal,
+   :article/no "136",
+   :article/title "İ. Diyanet İşleri Başkanlığı",
+   :article/path "articles/madde-136.md",
+   :article/sha256
+   "b5ce0bf76302a413a2ba9f3b5e6feb99f4ee75f77067246ba833c04d32a427f2"}
+  {:article/id "constitution/1982/article/137",
+   :article/type :normal,
+   :article/no "137",
+   :article/title nil,
+   :article/path "articles/madde-137.md",
+   :article/sha256
+   "b90994b5c16bd91878c69bf9c55f1d4ddf2ee30f8cbddc2803e74eb2dc688032"}
+  {:article/id "constitution/1982/article/138",
+   :article/type :normal,
+   :article/no "138",
+   :article/title nil,
+   :article/path "articles/madde-138.md",
+   :article/sha256
+   "4df2b67b05284c28df368dbc7a1016c3b288fb2640ab3f4051a29f9cf1f88c9b"}
+  {:article/id "constitution/1982/article/139",
+   :article/type :normal,
+   :article/no "139",
+   :article/title "B. Hakimlik ve savcılık teminatı",
+   :article/path "articles/madde-139.md",
+   :article/sha256
+   "519a74799679774509a72c49643a0d85a3701de0744e06f06f0793d97beb2a80"}
+  {:article/id "constitution/1982/article/140",
+   :article/type :normal,
+   :article/no "140",
+   :article/title nil,
+   :article/path "articles/madde-140.md",
+   :article/sha256
+   "44a7b23cbd0e9c1baaeda1437bc4092337a6a4df8ca96389a364bf2cf1d5e953"}
+  {:article/id "constitution/1982/article/141",
+   :article/type :normal,
+   :article/no "141",
+   :article/title
+   "D. Duruşmaların açık ve kararların gerekçeli olması",
+   :article/path "articles/madde-141.md",
+   :article/sha256
+   "f1f53934652761f95d35a8d0688cf2e8b76e4520698afb34f5bb287ad25f43a4"}
+  {:article/id "constitution/1982/article/142",
+   :article/type :normal,
+   :article/no "142",
+   :article/title "E. Mahkemelerin kuruluşu",
+   :article/path "articles/madde-142.md",
+   :article/sha256
+   "c4eb3ee80b13534142ebfbb1d09afd7190acc8228a3847d13369ea4cc6ecf53c"}
+  {:article/id "constitution/1982/article/143",
+   :article/type :normal,
+   :article/no "143",
+   :article/title "F. Devlet Güvenlik Mahkemeleri",
+   :article/path "articles/madde-143.md",
+   :article/sha256
+   "40825d6c9f44821e14d16624fafc66a711ce63eef8901d66aa4a455ea3be1c05"}
+  {:article/id "constitution/1982/article/144",
+   :article/type :normal,
+   :article/no "144",
+   :article/title "G. Adalet hizmetlerinin denetimi 76",
+   :article/path "articles/madde-144.md",
+   :article/sha256
+   "0f8fa5bfa1cf40c481a34f273e00b04086d2dbe312ec30bd9e5c18a253b7a15f"}
+  {:article/id "constitution/1982/article/145",
+   :article/type :normal,
+   :article/no "145",
+   :article/title "H. Askeri yargı",
+   :article/path "articles/madde-145.md",
+   :article/sha256
+   "1af9b0c406bcc08f8dc657f9fcbd868066410706b1b7710b0953b4ddb003d1ba"}
+  {:article/id "constitution/1982/article/146",
+   :article/type :normal,
+   :article/no "146",
+   :article/title nil,
+   :article/path "articles/madde-146.md",
+   :article/sha256
+   "0bf3fd106136e585e7a42b66dcdeb90985a0f3b4006e360d59c9d8a0cce1b925"}
+  {:article/id "constitution/1982/article/147",
+   :article/type :normal,
+   :article/no "147",
+   :article/title nil,
+   :article/path "articles/madde-147.md",
+   :article/sha256
+   "bc738be207337127671400ec6a756766f5bd8ce7ecf6389199d66672bee5f56d"}
+  {:article/id "constitution/1982/article/148",
+   :article/type :normal,
+   :article/no "148",
+   :article/title nil,
+   :article/path "articles/madde-148.md",
+   :article/sha256
+   "6229c1b38ad87175462e2bc248b571983b34103a6693a593d4d6d66612ba46fe"}
+  {:article/id "constitution/1982/article/149",
+   :article/type :normal,
+   :article/no "149",
+   :article/title nil,
+   :article/path "articles/madde-149.md",
+   :article/sha256
+   "da42f5626d764ca570aac487e947defb2c523cff1c491fb394caafc87aeb77cc"}
+  {:article/id "constitution/1982/article/150",
+   :article/type :normal,
+   :article/no "150",
+   :article/title nil,
+   :article/path "articles/madde-150.md",
+   :article/sha256
+   "c79a12a62dc5f0f5942d61ac92821a6e64255311e3095bfa60c8086324b64671"}
+  {:article/id "constitution/1982/article/151",
+   :article/type :normal,
+   :article/no "151",
+   :article/title nil,
+   :article/path "articles/madde-151.md",
+   :article/sha256
+   "96fa8aef1abfd1c0e9ec6cf355c8eb6833173d970128ded6f23f0bec56384b7e"}
+  {:article/id "constitution/1982/article/152",
+   :article/type :normal,
+   :article/no "152",
+   :article/title nil,
+   :article/path "articles/madde-152.md",
+   :article/sha256
+   "fe2bc4d3f7ef26cb60f3f6dbcc930591ee66e87ddb45ece70c451850e73ed13f"}
+  {:article/id "constitution/1982/article/153",
+   :article/type :normal,
+   :article/no "153",
+   :article/title nil,
+   :article/path "articles/madde-153.md",
+   :article/sha256
+   "f6e166ec1ca35aa3457ac566c39441da9c05892379768d60cf58e02cdf9c3778"}
+  {:article/id "constitution/1982/article/154",
+   :article/type :normal,
+   :article/no "154",
+   :article/title "B. Yargıtay",
+   :article/path "articles/madde-154.md",
+   :article/sha256
+   "4e27d79227d6b62b81c046cc8f5446bbcdd2e31159ddd29dda5426aaa38e18a3"}
+  {:article/id "constitution/1982/article/155",
+   :article/type :normal,
+   :article/no "155",
+   :article/title "C. Danıştay",
+   :article/path "articles/madde-155.md",
+   :article/sha256
+   "3b5bf50e249abc7a5d6e35bae68fdac702d369ff1c3f0f26c4e9e4d2a38dc1b5"}
+  {:article/id "constitution/1982/article/156",
+   :article/type :normal,
+   :article/no "156",
+   :article/title "D. Askeri Yargıtay",
+   :article/path "articles/madde-156.md",
+   :article/sha256
+   "6fbcabe473af3d1738132b8c04d8bca3ed61f4c1eb3af491d5d1e5ae5c1fc0f1"}
+  {:article/id "constitution/1982/article/157",
+   :article/type :normal,
+   :article/no "157",
+   :article/title "E. Askeri Yüksek İdare Mahkemesi",
+   :article/path "articles/madde-157.md",
+   :article/sha256
+   "abddb2a5105a5c696617fb9ff6862dc3d2fffe376748e5b56985a9741aab0dcb"}
+  {:article/id "constitution/1982/article/158",
+   :article/type :normal,
+   :article/no "158",
+   :article/title "F. Uyuşmazlık Mahkemesi",
+   :article/path "articles/madde-158.md",
+   :article/sha256
+   "1179b2df895022c2ce43d843b6c6a43fd56a0ec0d4c52be2a48bfaf4ba202dd5"}
+  {:article/id "constitution/1982/article/159",
+   :article/type :normal,
+   :article/no "159",
+   :article/title "III. Hakimler ve Savcılar (…)102 Kurulu",
+   :article/path "articles/madde-159.md",
+   :article/sha256
+   "7482ffa06ea19831906dc77bfd92da1b8d582ced5a1ba745fcbffb9c1d1b55cd"}
+  {:article/id "constitution/1982/article/160",
+   :article/type :normal,
+   :article/no "160",
+   :article/title nil,
+   :article/path "articles/madde-160.md",
+   :article/sha256
+   "617728189e75aaeb8b4c4e864bb8a75c5bde419823c0b9ec233885be402b6270"}
+  {:article/id "constitution/1982/article/161",
+   :article/type :normal,
+   :article/no "161",
+   :article/title nil,
+   :article/path "articles/madde-161.md",
+   :article/sha256
+   "023bb9ceab20de4594253e4f6e133504c1d8d13ded74d8cf923504822e2891ad"}
+  {:article/id "constitution/1982/article/162",
+   :article/type :normal,
+   :article/no "162",
+   :article/title "B. Bütçenin görüşülmesi",
+   :article/path "articles/madde-162.md",
+   :article/sha256
+   "861a87472126cb0e9b6fecb328b8a6ead8e4e651d2c0826114a3a579523c5e55"}
+  {:article/id "constitution/1982/article/163",
+   :article/type :normal,
+   :article/no "163",
+   :article/title "C. Bütçelerde değişiklik yapılabilme esasları",
+   :article/path "articles/madde-163.md",
+   :article/sha256
+   "1234db67129ec9d9ef35451cb1ab401055da5f595ab8700a33fb536df96ce4b1"}
+  {:article/id "constitution/1982/article/164",
+   :article/type :normal,
+   :article/no "164",
+   :article/title "D. Kesinhesap",
+   :article/path "articles/madde-164.md",
+   :article/sha256
+   "20297aa923152283446249cf51b7dd2e928657924946dc0c2b7e75ff6f246204"}
+  {:article/id "constitution/1982/article/165",
+   :article/type :normal,
+   :article/no "165",
+   :article/title "E. Kamu iktisadi teşebbüslerinin denetimi",
+   :article/path "articles/madde-165.md",
+   :article/sha256
+   "a78e65ae81b841f591dacdb47b5c4f529b3e5f53a7f6c24914fbd9a78c4ff1f4"}
+  {:article/id "constitution/1982/article/166",
+   :article/type :normal,
+   :article/no "166",
+   :article/title nil,
+   :article/path "articles/madde-166.md",
+   :article/sha256
+   "e643fb01f279c32da3c523f27d894a209a89f1383de0937903c64a803f563009"}
+  {:article/id "constitution/1982/article/167",
+   :article/type :normal,
+   :article/no "167",
+   :article/title nil,
+   :article/path "articles/madde-167.md",
+   :article/sha256
+   "3aaa7b160e9ac85fd9ad26c655141d55490ab5e37c152e593ae5f62ed62ceba4"}
+  {:article/id "constitution/1982/article/168",
+   :article/type :normal,
+   :article/no "168",
+   :article/title nil,
+   :article/path "articles/madde-168.md",
+   :article/sha256
+   "9e25a2d7be00dcc31481d355fb13276c7e652d8bcf29d3eaeeb167208d455fdd"}
+  {:article/id "constitution/1982/article/169",
+   :article/type :normal,
+   :article/no "169",
+   :article/title nil,
+   :article/path "articles/madde-169.md",
+   :article/sha256
+   "a85cfd442e5ff997e6050307e3dc5cfa02005fb1e7eb6045831293a66c5faeeb"}
+  {:article/id "constitution/1982/article/170",
+   :article/type :normal,
+   :article/no "170",
+   :article/title "B. Orman köylüsünün korunması",
+   :article/path "articles/madde-170.md",
+   :article/sha256
+   "bb9c1a462f0758e072f629e9b7e97b32c4c378cf6ebbfb8290181c4c16842961"}
+  {:article/id "constitution/1982/article/171",
+   :article/type :normal,
+   :article/no "171",
+   :article/title "V. Kooperatifçiliğin geliştirilmesi",
+   :article/path "articles/madde-171.md",
+   :article/sha256
+   "e65e6409e3ddb187b5578e3b43b0ba2dce0d21d2d51412b5bf657b87dfe7f967"}
+  {:article/id "constitution/1982/article/172",
+   :article/type :normal,
+   :article/no "172",
+   :article/title nil,
+   :article/path "articles/madde-172.md",
+   :article/sha256
+   "e11be41e8dcdd370b60e9bc8076e898b826a1547026afe941dc33924939cbee4"}
+  {:article/id "constitution/1982/article/173",
+   :article/type :normal,
+   :article/no "173",
+   :article/title "B. Esnaf ve sanatkarların korunması",
+   :article/path "articles/madde-173.md",
+   :article/sha256
+   "5feaf6984eefc9d736a08f5d02c84cf98f794044fd93e9cef170134c7918eca2"}
+  {:article/id "constitution/1982/article/174",
+   :article/type :normal,
+   :article/no "174",
+   :article/title nil,
+   :article/path "articles/madde-174.md",
+   :article/sha256
+   "6c13f2e8afc9f1e19af14bf7358b0b2876befe54a6fd26e47b773e721f370d4b"}
+  {:article/id "constitution/1982/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ff2d8a0ac3162d04f5f9acb42bca00fa55aa567ca1b9265f7e2d4606da6df704"}
+  {:article/id "constitution/1982/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "bdf55e72bb9bf74ca104acabe5205242ee978dce789902aaf404215d683274d7"}
+  {:article/id "constitution/1982/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "92973cd85d96a7b3e20a8bb7fd00a59856955b0743ebb49aa2ffb895fa6fdd4a"}
+  {:article/id "constitution/1982/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "085d7ce57fd60da72f595130db7afb6cb5337f663be912242f498fc557c07187"}
+  {:article/id "constitution/1982/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "776fccbf48cc34f61f930ba8ffbcf2fca35fa062fcca736110bd399a1015010f"}
+  {:article/id "constitution/1982/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "e7245b7ef7a1f808f42cbdc36a12a293f007c194d115fdda0b5a1dbd203597a2"}
+  {:article/id "constitution/1982/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "08447feaed08e2476c71abf3710f16fc7f2a49cc030c46256fe6c743f64f47f3"}
+  {:article/id "constitution/1982/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "242f748c51374aed6864ee772c3c41a20fdfaa568f2660a73fbeee1440477cc8"}
+  {:article/id "constitution/1982/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "d230e4c71e40b52551d33245ce0d362b8a5f81c7ef26adc39584c2e7c470ce79"}
+  {:article/id "constitution/1982/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "651d8d08efa22368cf9293f4805b12fcc7dbb4403cce330e4a0c42fefb10780d"}
+  {:article/id "constitution/1982/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "35b264738bd3a06ee459e89d9def582113f9f435d4528e686005a0cf639151ec"}
+  {:article/id "constitution/1982/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "747a9415a6038bf73db56a857f92f4f208a4910b00c6d775784a8078e5d4ce90"}
+  {:article/id "constitution/1982/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "f901b13935635072274694329bb87a09000ec0543d84c16a247f6cae8cc151d2"}
+  {:article/id "constitution/1982/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "7f6fc6dc89bfe727a104334debb7395ee84a802668d120fbca8381f6da5aaee7"}
+  {:article/id "constitution/1982/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "44d8239d4b08fcea976b5c096bb3b32d5b679283b248ec7e82944d29308964d3"}
+  {:article/id "constitution/1982/article/16",
+   :article/type :temporary,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/gecici-madde-016.md",
+   :article/sha256
+   "2c88443c84a001964c5b619f5428ff9ebfb9b0f9adaa08b12e8bff5e55447739"}
+  {:article/id "constitution/1982/article/17",
+   :article/type :temporary,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/gecici-madde-017.md",
+   :article/sha256
+   "9d2f4ccb59de23dd698bfb5fe0640dbd828b759dea8dbfb6d62b30311ac6ffbf"}
+  {:article/id "constitution/1982/article/18",
+   :article/type :temporary,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/gecici-madde-018.md",
+   :article/sha256
+   "ad8c3953cc9881d104c2b54ac1b674ef27df2c550b2154a709aab8cd12da0219"}
+  {:article/id "constitution/1982/article/19",
+   :article/type :temporary,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/gecici-madde-019.md",
+   :article/sha256
+   "9f46fc105f1ccf5987352f0cdff9996defdc9301d547b6245f78442ebc2a5e2f"}
+  {:article/id "constitution/1982/article/20",
+   :article/type :temporary,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/gecici-madde-020.md",
+   :article/sha256
+   "a9cd2089934ad3dd13d4f2da7ca5806cf7f75e9664c012d2f380e76a6938a929"}
+  {:article/id "constitution/1982/article/21",
+   :article/type :temporary,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/gecici-madde-021.md",
+   :article/sha256
+   "ae31c8ed576a4714509fc7acca8b3a2448f2de973be355c844cd0770f78cc26d"}
+  {:article/id "constitution/1982/article/175",
+   :article/type :normal,
+   :article/no "175",
+   :article/title nil,
+   :article/path "articles/madde-175.md",
+   :article/sha256
+   "33f1681908aab1e8c190666bb50961a03c96c7e41342746fa25ae644a1093a0a"}
+  {:article/id "constitution/1982/article/176",
+   :article/type :normal,
+   :article/no "176",
+   :article/title "II. Başlangıç ve kenar başlıklar",
+   :article/path "articles/madde-176.md",
+   :article/sha256
+   "21abeb22d1d1aba8e18359d3e368a1e6a27026be4205ef39bebcbf7484a58017"}
+  {:article/id "constitution/1982/article/177",
+   :article/type :normal,
+   :article/no "177",
+   :article/title "III. Anayasanın yürürlüğe girmesi",
+   :article/path "articles/madde-177.md",
+   :article/sha256
+   "cae0e1936694d49b4a582ea6a6530b5d4872bf0aeaee26639ff2b279f984a781"}]}

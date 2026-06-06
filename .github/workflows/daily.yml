@@ -1,0 +1,45 @@
+name: Daily update
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Clojure
+        uses: DeLaGuardo/setup-clojure@13.2
+        with:
+          cli: latest
+
+      - name: Run OpenMevzuat update
+        run: clojure -M:openmevzuat update
+
+      - name: Create pull request if changed
+        run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            BRANCH="update/$(date +%F)"
+            git config user.name "openmevzuat-bot"
+            git config user.email "openmevzuat-bot@users.noreply.github.com"
+            git checkout -b "$BRANCH"
+            git add data derived
+            git commit -m "Update canonical legislation snapshot $(date +%F)"
+            git push origin "$BRANCH"
+
+            gh pr create \
+              --title "Update legislation snapshot — $(date +%F)" \
+              --body "Automated OpenMevzuat update from official public sources."
+          else
+            echo "No changes."
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}

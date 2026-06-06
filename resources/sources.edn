@@ -1,0 +1,7 @@
+{:sources
+ [{:source/id :mevzuat-gov-tr
+   :source/name "Mevzuat Bilgi Sistemi"
+   :source/type :canonical-consolidated
+   :source/base-url "https://www.mevzuat.gov.tr"
+   :source/enabled? true}]}
+
