@@ -2,6 +2,21 @@
 
 OpenMevzuat is experimental and intentionally small in v0.1.
 
+## Türkçe Özet
+
+OpenMevzuat'a katkı gönderen kişiler, `CONTRIBUTOR_LICENSE.md` dosyasındaki katkı lisansı politikasını kabul etmiş sayılır.
+
+Bu politika şunu sağlar:
+
+- katkılar AGPL-3.0-only altında açık kaynak olarak yayınlanabilir;
+- proje geliştiricisi katkıları ileride ayrı bir ticari lisans kapsamında da kullanabilir;
+- katkı sahibi telif hakkını korur;
+- telif hakkı devri yapılmaz, yalnızca lisans hakkı verilir.
+
+Bu politikayı kabul etmiyorsanız pull request göndermeyin.
+
+Kural basittir: katkı lisansı kabul edilmeden PR merge edilmez.
+
 ## Principles
 
 - Do not use AI to generate or rewrite canonical law text.

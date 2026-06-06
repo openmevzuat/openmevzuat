@@ -1,5 +1,20 @@
 # Contributor License Policy
 
+## Türkçe Özet
+
+OpenMevzuat AGPL-3.0-only lisansı ile yayınlanır.
+
+Bu projeye pull request, patch veya başka bir katkı gönderdiğinizde:
+
+1. katkınızın AGPL-3.0-only altında yayınlanmasını kabul edersiniz;
+2. proje geliştiricisine katkınızı OpenMevzuat kapsamında kullanma, değiştirme, dağıtma, alt lisanslama ve ileride ayrı bir ticari lisans altında yeniden lisanslama hakkı verirsiniz;
+3. katkıyı gönderme hakkına sahip olduğunuzu beyan edersiniz;
+4. katkınız üzerindeki telif hakkını korursunuz.
+
+Bu telif hakkı devri değildir. Katkı sahibi olarak hak sahipliğiniz devam eder.
+
+Bu politikayı kabul etmiyorsanız katkı göndermeyin.
+
 OpenMevzuat is licensed under AGPL-3.0-only.
 
 The project maintainer may offer separate commercial licenses in the future.
@@ -41,4 +56,3 @@ The additional contributor license allows the maintainer to:
 Do not submit a contribution.
 
 Pull requests from contributors who do not agree to this policy must not be merged.
-

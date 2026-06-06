@@ -4,9 +4,23 @@ Versioned Turkish legislation from official public sources.
 
 OpenMevzuat stores legislation as human-readable, article-level Markdown files with EDN metadata.
 
+## Türkçe Açıklama
+
+OpenMevzuat, Türkiye mevzuatını resmi kamu kaynaklarından çekip madde bazlı, okunabilir ve Git ile versiyonlanabilir dosyalar halinde saklayan açık kaynak bir projedir.
+
+Bu proje resmi kaynak değildir ve hukuki tavsiye sunmaz. Nihai kaynaklar mevzuat.gov.tr, Resmî Gazete ve Türkiye Büyük Millet Meclisi gibi resmi kurumlardır.
+
 ## Status
 
 Experimental. Not an official source.
+
+## Scope
+
+OpenMevzuat focuses on Turkish legislation.
+
+It does not aim to become a multi-country legal data platform.
+
+**Türkçe:** OpenMevzuat yalnızca Türkiye mevzuatına odaklanır. Çok ülkeli bir hukuk veri platformu olmayı hedeflemez.
 
 ## Goals
 
@@ -62,4 +76,3 @@ Fixture mode is not a substitute for official-source canonical data.
 ## License and Data
 
 Project code and project-specific structured data are licensed under the repository license unless otherwise noted. Official legal texts remain attributable to their official public sources.
-

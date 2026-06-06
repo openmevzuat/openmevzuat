@@ -31,3 +31,10 @@ Source URL:
 
 Notes:
 
+## Türkçe Not
+
+Bu pull request'i göndererek `CONTRIBUTOR_LICENSE.md` dosyasındaki katkı lisansı politikasını kabul ettiğinizi beyan edersiniz.
+
+Canonical mevzuat metni AI tarafından üretilmemeli veya anlamsal olarak yeniden yazılmamalıdır.
+
+Canonical metin değiştiriliyorsa resmi kaynak URL'si ve değişikliğin nedeni belirtilmelidir.

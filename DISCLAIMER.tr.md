@@ -1,16 +1,4 @@
-# Disclaimer
-
-OpenMevzuat is not an official source.
-
-OpenMevzuat does not provide legal advice.
-
-Official sources such as mevzuat.gov.tr, Resmî Gazete, and TBMM remain authoritative.
-
-Machine-generated or automatically parsed content may contain errors.
-
-Users must verify all legal texts against official sources before relying on them.
-
-## Türkçe
+# Feragatname
 
 OpenMevzuat resmi kaynak değildir.
 
@@ -21,5 +9,3 @@ mevzuat.gov.tr, Resmî Gazete ve Türkiye Büyük Millet Meclisi gibi resmi kayn
 Makine tarafından üretilen, otomatik ayrıştırılan veya türetilen içerikler hata içerebilir.
 
 Kullanıcılar herhangi bir mevzuat metnine güvenmeden önce resmi kaynaklardan doğrulama yapmalıdır.
-
-Full Turkish disclaimer: `DISCLAIMER.tr.md`.
