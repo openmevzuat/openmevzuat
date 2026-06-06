@@ -3,7 +3,7 @@
             [openmevzuat.slug :as slug]))
 
 (def heading-pattern
-  #"(?iu)^\s*(GEÇİCİ\s+MADDE|GECICI\s+MADDE|EK\s+MADDE|MADDE)\s+([0-9]+(?:/[A-Z])?)\s*(?:([-–—.])\s*(.*?))?\s*$")
+  #"(?iu)^\s*(GEÇİCİ\s+MADDE|GECICI\s+MADDE|EK\s+MADDE|MADDE)\s+([0-9]+(?:/[A-Z])?)\s*(?:([-‐‑‒–—.])\s*(.*?))?\s*$")
 
 (def stop-marker-patterns
   [#"(?imu)^.*SAYILI\s+KANUNA\s+İŞLENEME[YZ]EN\s+HÜKÜMLER.*$"
@@ -30,7 +30,7 @@
 (defn- inline-body? [separator rest]
   (and (not-empty rest)
        (or (not= "—" separator)
-           (re-find #"^\s*(?:[-–—]|\(|\d)" rest))))
+           (re-find #"^\s*(?:[-‐‑‒–—]|\(|\d)" rest))))
 
 (defn- last-nonblank-index [lines]
   (first

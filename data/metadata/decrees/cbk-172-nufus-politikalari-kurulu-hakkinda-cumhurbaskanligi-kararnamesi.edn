@@ -1,0 +1,69 @@
+{:document/id "decree/cbk-172",
+ :document/type :decree,
+ :document/number "172",
+ :document/title
+ "Nüfus Politikaları Kurulu Hakkında Cumhurbaşkanlığı Kararnamesi",
+ :document/slug
+ "cbk-172-nufus-politikalari-kurulu-hakkinda-cumhurbaskanligi-kararnamesi",
+ :document/path
+ "data/canonical/decrees/cbk-172-nufus-politikalari-kurulu-hakkinda-cumhurbaskanligi-kararnamesi",
+ :document/sha256
+ "33c0b2420466fcbef1cdabbd90ab93ea32d57383099235ace60b841fdf668995",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.172.pdf",
+ :source/fetched-at #inst "2026-06-06T15:33:48.344-00:00",
+ :openmevzuat/baseline-date "2026-06-06",
+ :openmevzuat/generated-at #inst "2026-06-06T15:33:24.124-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-172/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "607c20e38c6136876bb40883a570b845f717c93f6494edea5ed3b0b9e3506dd0"}
+  {:article/id "decree/cbk-172/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ce4000f5e53fe495170c233c732135274debc2b9164fde5139a0ac72cde5b78d"}
+  {:article/id "decree/cbk-172/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kurul",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "adc3a0838c0b5c2b3474b280c54a483463aac8bd1e3b661eaf786e9a87823bbe"}
+  {:article/id "decree/cbk-172/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kurulun görev ve yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4f17803dd48b8c04d5a56d9e78ea8da2187e45fc346d2d8018e3dc842d4a4d8a"}
+  {:article/id "decree/cbk-172/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sekretarya",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e8b5f434b388b8d9bd69156abe8209896dc1b6ac8c156c19ccced9f912cad1b"}
+  {:article/id "decree/cbk-172/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "41a31e85e24c92dff11a6f863e0402153395c9cac64f4c62660b4b31dfcca380"}
+  {:article/id "decree/cbk-172/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a1f42c86c8ee944c7bfaef6293226280451d48ec3000d94440cb15e178b36797"}]}

@@ -43,7 +43,7 @@
              articles))))
   (testing "hyphenated inline legal text remains in the body"
     (let [articles (parse/parse-articles
-                    "MADDE 1- (1) Body starts here.\n\nBody continues.")]
+                    "MADDE 1 ‒ (1) Body starts here.\n\nBody continues.")]
       (is (= [{:article/type :normal
                :article/no "1"
                :article/title nil

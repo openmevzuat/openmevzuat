@@ -1,0 +1,125 @@
+{:document/id "decree/cbk-177",
+ :document/type :decree,
+ :document/number "177",
+ :document/title
+ "Siber Güvenlik Başkanlığı Hakkında Cumhurbaşkanlığı Kararnamesi",
+ :document/slug
+ "cbk-177-siber-guvenlik-baskanligi-hakkinda-cumhurbaskanligi-kararnamesi",
+ :document/path
+ "data/canonical/decrees/cbk-177-siber-guvenlik-baskanligi-hakkinda-cumhurbaskanligi-kararnamesi",
+ :document/sha256
+ "1b357452ffe869928a2db9fa47893c623d3b4687d971e082af1a4ac129605ab5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.177.pdf",
+ :source/fetched-at #inst "2026-06-06T15:33:46.416-00:00",
+ :openmevzuat/baseline-date "2026-06-06",
+ :openmevzuat/generated-at #inst "2026-06-06T15:33:24.124-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-177/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ccf3aa54a29283adf974b359adb9dff5430f7eae63a36f2ec16ccdbc334d3275"}
+  {:article/id "decree/cbk-177/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9b548e06cfa0ce4be513a07d5d9cb0fe06ad6c7ca78daa97c107accf0ab1819c"}
+  {:article/id "decree/cbk-177/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c2776e0dee256e0c6b8683f6993121180be4772dc41fdcdb1e79f58ba59c5e0f"}
+  {:article/id "decree/cbk-177/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Başkanlığın görev ve yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "66a8451c047d83691af40aa90980f13566f46efc4201274397f12aa7323cf7df"}
+  {:article/id "decree/cbk-177/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c0bf600b4a7f8f17499cf0c1f9ae3b941920fb74167a58285a1b05992a5e7454"}
+  {:article/id "decree/cbk-177/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Başkan",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "7086d34902bdcc74d93d38f1e32277a5edfc193fdc28d8be526aaf20e73601ff"}
+  {:article/id "decree/cbk-177/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Hizmet birimleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fbc7eac3f3c618cf99501ad1ef0c5e083221d8a27fbffc8162efef6bf8cb337a"}
+  {:article/id "decree/cbk-177/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "de41b2c8cb46e9c1cd052922b379d79dfb49fd8ad4871f38896702c0825a0c3a"}
+  {:article/id "decree/cbk-177/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Düzenleme görev ve yetkisi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "07eb28e27c949cda4c7a51f91d1d2a856ed37a309be3c871a201b97d2c67aab7"}
+  {:article/id "decree/cbk-177/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yetki devri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "865d4b965de610d550a27b60e832be8f801f279b167ea6d24bd7927ed762c017"}
+  {:article/id "decree/cbk-177/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Kadro ihdası",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "008dd2c8e14c8cf3cf0a7ae1ef5d00360e09fd413c9c258e8ef03d87ee6a5a10"}
+  {:article/id "decree/cbk-177/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "71794c951911ea1c0da2e6e2d6b62082f358bbcdc5a0dac15bb476e122fab508"}
+  {:article/id "decree/cbk-177/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a9143d41dadd92753a1a5a510393c5bd27fa74386721ff640d4658c097a778ee"}
+  {:article/id "decree/cbk-177/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9a5529553ad5176754e87bffc3be944e88f9055a0a380da1bbe7c70f2689c8f4"}
+  {:article/id "decree/cbk-177/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "f4f4b4bce3e0d457557dbbfb86a6c6fdf22cccb305e99a06e7b1c8ced59b8869"}]}

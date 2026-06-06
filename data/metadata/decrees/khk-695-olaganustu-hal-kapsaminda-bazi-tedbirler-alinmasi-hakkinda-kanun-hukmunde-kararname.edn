@@ -1,0 +1,70 @@
+{:document/id "decree/khk-695",
+ :document/type :decree,
+ :document/number "695",
+ :document/title
+ "Olağanüstü Hal Kapsamında Bazı Tedbirler Alınması Hakkında Kanun Hükmünde Kararname",
+ :document/slug
+ "khk-695-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-695-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "fea51ac6455e3a183ed7a5eabe1450c7e10e5aee7300555bd0edf5edac20b640",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.695.pdf",
+ :source/fetched-at #inst "2026-06-06T15:36:09.821-00:00",
+ :openmevzuat/baseline-date "2026-06-06",
+ :openmevzuat/generated-at #inst "2026-06-06T15:35:47.744-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-695/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3e40b8bb38b93e64fdc854195d61f43527e14bff06b225d27c60cacd4f0c69d5"}
+  {:article/id "decree/khk-695/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "99ca7acc5e04e75b3432fbc9d509c683930dcab7ed345921ac86383945e6a2af"}
+  {:article/id "decree/khk-695/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Rütbesi alınan emekli Türk Silahlı Kuvvetleri personeli",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6268690f872af93c39814d698577efa131e3111c5739c2859cb22d62a76d867d"}
+  {:article/id "decree/khk-695/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kurum ve kuruluşlara ilişkin tedbirler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7c4f421de82ff99674d9d4d42bb1f4a0c0aae78851bc56170b8c00729772c6c6"}
+  {:article/id "decree/khk-695/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yurtdışında öğrenim görenler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "abdd9ba572fff6a280ac8e3417138f8e68f9edaa1781ea8b21d43814e06120fd"}
+  {:article/id "decree/khk-695/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1609ff8b4b7bccdcb38e80494ec07ae178cf62788358f4e2d0953e13c938f635"}
+  {:article/id "decree/khk-695/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "837adae4a155c253de857396f28c9314a3c7ba121b84ca584313c34b4376f21a"}]}

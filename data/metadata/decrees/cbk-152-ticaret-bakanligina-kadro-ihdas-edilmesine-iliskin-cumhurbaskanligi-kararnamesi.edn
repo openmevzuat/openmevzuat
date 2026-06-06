@@ -1,0 +1,42 @@
+{:document/id "decree/cbk-152",
+ :document/type :decree,
+ :document/number "152",
+ :document/title
+ "Ticaret Bakanlığına Kadro İhdas Edilmesine İlişkin Cumhurbaşkanlığı Kararnamesi",
+ :document/slug
+ "cbk-152-ticaret-bakanligina-kadro-ihdas-edilmesine-iliskin-cumhurbaskanligi-kararnamesi",
+ :document/path
+ "data/canonical/decrees/cbk-152-ticaret-bakanligina-kadro-ihdas-edilmesine-iliskin-cumhurbaskanligi-kararnamesi",
+ :document/sha256
+ "2ee7158752e7237ca34777ea68f478b38f56b647d630cdb2e3f7489c089517b6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.152.pdf",
+ :source/fetched-at #inst "2026-06-06T15:33:50.680-00:00",
+ :openmevzuat/baseline-date "2026-06-06",
+ :openmevzuat/generated-at #inst "2026-06-06T15:33:24.124-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-152/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 25/10/2023-32290",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2001ee8d6a28d4dac07d968d5de2c5d2a24aa4996c68e2694c3b6aed16c4573f"}
+  {:article/id "decree/cbk-152/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d80c93a151c4193d3b6a698228f20f5ad0d3de3247c7328af0c2c59954ee7b9e"}
+  {:article/id "decree/cbk-152/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "badfc453bc2949360cff1233c407742c151b6b2fa007f2d334c9677204c3cbff"}]}
