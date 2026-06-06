@@ -1,4 +1,11 @@
-{:documents
+{:document/types [:constitution :law :decree]
+ :decree/subtypes [:khk :cbk]
+ :decree/id-format {:khk "decree/khk-{number}"
+                    :cbk "decree/cbk-{number}"}
+ :decree/slug-format {:khk "khk-{number}-{slugified-title}"
+                      :cbk "cbk-{number}-{slugified-title}"}
+
+ :documents
  [{:document/id "constitution/1982"
    :document/type :constitution
    :document/number "2709"
@@ -33,4 +40,3 @@
    :document/title "Türk Medeni Kanunu"
    :source/id :mevzuat-gov-tr
    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf"}]}
-

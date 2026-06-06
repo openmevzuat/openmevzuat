@@ -72,6 +72,26 @@
   (is (= "madde-123-a.md"
          (store/article-filename {:article/type :normal :article/no "123/A"}))))
 
+(deftest decree-path-generation
+  (let [khk {:document/id "decree/khk-700"
+             :document/type :decree
+             :decree/subtype :khk
+             :document/number "700"
+             :document/title "Örnek Kanun Hükmünde Kararname"}
+        cbk {:document/id "decree/cbk-1"
+             :document/type :decree
+             :decree/subtype :cbk
+             :document/number "1"
+             :document/title "Örnek Cumhurbaşkanlığı Kararnamesi"}]
+    (is (= "khk-700-ornek-kanun-hukmunde-kararname"
+           (store/document-slug khk)))
+    (is (= "cbk-1-ornek-cumhurbaskanligi-kararnamesi"
+           (store/document-slug cbk)))
+    (is (= "data/canonical/decrees/khk-700-ornek-kanun-hukmunde-kararname"
+           (store/canonical-document-path khk)))
+    (is (= "data/metadata/decrees/cbk-1-ornek-cumhurbaskanligi-kararnamesi.edn"
+           (store/metadata-path cbk)))))
+
 (deftest markdown-rendering
   (is (= "# MADDE 81 — Kasten öldürme\n\nBody\n"
          (render/render-article {:article/type :normal

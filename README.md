@@ -20,7 +20,20 @@ OpenMevzuat focuses on Turkish legislation.
 
 It does not aim to become a multi-country legal data platform.
 
-**Türkçe:** OpenMevzuat yalnızca Türkiye mevzuatına odaklanır. Çok ülkeli bir hukuk veri platformu olmayı hedeflemez.
+Supported document types:
+
+- `constitution`
+- `law`
+- `decree`
+
+Supported decree subtypes:
+
+- `khk` — Kanun Hükmünde Kararname
+- `cbk` — Cumhurbaşkanlığı Kararnamesi
+
+Regulations are not in scope yet.
+
+**Türkçe:** OpenMevzuat yalnızca Türkiye mevzuatına odaklanır. Anayasa, kanunlar, Kanun Hükmünde Kararnameler ve Cumhurbaşkanlığı Kararnameleri kapsam içindedir. Yönetmelikler henüz kapsamda değildir. Çok ülkeli bir hukuk veri platformu olmayı hedeflemez.
 
 ## Goals
 
@@ -53,6 +66,48 @@ Derived files can be deleted and rebuilt:
 derived/full-text/**/*.md
 derived/search/*.jsonl
 derived/diffs/**/*.edn
+```
+
+Document folders are grouped by type:
+
+```text
+data/canonical/constitution/
+data/canonical/laws/
+data/canonical/decrees/
+
+data/metadata/constitution/
+data/metadata/laws/
+data/metadata/decrees/
+```
+
+## Document IDs and Slugs
+
+Document IDs:
+
+```text
+constitution/1982
+law/{number}
+decree/khk-{number}
+decree/cbk-{number}
+```
+
+Decree slugs:
+
+```text
+khk-{number}-{slugified-title}
+cbk-{number}-{slugified-title}
+```
+
+Example:
+
+```clojure
+{:document/id "decree/cbk-1"
+ :document/type :decree
+ :decree/subtype :cbk
+ :document/number "1"
+ :document/title "Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesi"
+ :document/slug "cbk-1-cumhurbaskanligi-teskilati-hakkinda-cumhurbaskanligi-kararnamesi"
+ :document/path "data/canonical/decrees/cbk-1-cumhurbaskanligi-teskilati-hakkinda-cumhurbaskanligi-kararnamesi"}
 ```
 
 ## CLI

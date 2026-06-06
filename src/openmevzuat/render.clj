@@ -20,12 +20,21 @@
   (case (:document/type document)
     :constitution "Anayasa"
     :law "Kanun"
+    :decree (case (:decree/subtype document)
+              :khk "Kanun Hükmünde Kararname"
+              :cbk "Cumhurbaşkanlığı Kararnamesi"
+              "Kararname")
     (name (:document/type document))))
+
+(defn document-number-label [document]
+  (case (:document/type document)
+    :decree "Kararname No"
+    "Kanun No"))
 
 (defn render-readme [document]
   (let [articles (:articles document)]
     (str "# " (:document/title document) "\n\n"
-         "**Kanun No:** " (:document/number document) "  \n"
+         "**" (document-number-label document) ":** " (:document/number document) "  \n"
          "**Tür:** " (document-type-label document) "  \n"
          "**Kaynak:** " (or (:source/name document) "mevzuat.gov.tr") "  \n"
          "**OpenMevzuat ID:** " (:document/id document) "  \n\n"
@@ -42,11 +51,10 @@
 
 (defn render-full-text [document]
   (str "# " (:document/title document) "\n\n"
-       "**Kanun No:** " (:document/number document) "  \n"
+       "**" (document-number-label document) ":** " (:document/number document) "  \n"
        "**Kaynak:** " (or (:source/name document) "mevzuat.gov.tr") "  \n"
        "**OpenMevzuat ID:** " (:document/id document) "  \n\n"
        (str/join "\n\n"
                  (map #(str (article-heading %) "\n\n" (str/trim (or (:article/body %) "")))
                       (:articles document)))
        "\n"))
-

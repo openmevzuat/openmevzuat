@@ -35,13 +35,25 @@
                  "madde")]
     (str prefix "-" (article-number-token (:article/no article)) ".md")))
 
+(defn decree-subtype-prefix [document]
+  (case (:decree/subtype document)
+    :khk "khk"
+    :cbk "cbk"
+    (when-let [[_ prefix] (re-find #"^decree/(khk|cbk)-" (or (:document/id document) ""))]
+      prefix)))
+
 (defn document-slug [document]
-  (str (:document/number document) "-" (slug/slugify (:document/title document))))
+  (if (= :decree (:document/type document))
+    (str (or (decree-subtype-prefix document) "decree")
+         "-" (:document/number document)
+         "-" (slug/slugify (:document/title document)))
+    (str (:document/number document) "-" (slug/slugify (:document/title document)))))
 
 (defn canonical-kind-dir [document]
   (case (:document/type document)
     :constitution "constitution"
     :law "laws"
+    :decree "decrees"
     "laws"))
 
 (defn canonical-document-path [document]
@@ -77,5 +89,6 @@
       (fs/delete-tree path)))
   (fs/create-dirs "derived/full-text/constitution")
   (fs/create-dirs "derived/full-text/laws")
+  (fs/create-dirs "derived/full-text/decrees")
   (fs/create-dirs "derived/search")
   (fs/create-dirs "derived/diffs"))
