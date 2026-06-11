@@ -164,8 +164,21 @@
 (defn- origin-key [url]
   (let [uri (URI/create url)]
     (str (.getScheme uri) "://" (.getHost uri)
-         (when-let [port (pos? (.getPort uri))]
-           (str ":" port)))))
+         (let [port (.getPort uri)]
+           (when (pos? port)
+             (str ":" port))))))
+
+(defn- source-unreachable-data [data]
+  (assoc data
+         :openmevzuat/error :source-unreachable
+         :source/unreachable? true))
+
+(defn source-unreachable? [e]
+  (= :source-unreachable (:openmevzuat/error (ex-data e))))
+
+(defn- maybe-source-unreachable-data [data connection?]
+  (cond-> data
+    connection? source-unreachable-data))
 
 (defn- cause-chain [e]
   (take-while some? (iterate #(.getCause ^Throwable %) e)))
@@ -189,12 +202,13 @@
     (when (and (pos? threshold)
                (>= (:connection-failures state 0) threshold))
       (ex-info "Source connection circuit breaker is open"
-               {:url url
-                :source/origin key
-                :connection-failures (:connection-failures state)
-                :last-error (:last-error state)
-                :circuit-breaker/threshold threshold
-                :circuit-breaker/reason "connection could not be established"}))))
+               (source-unreachable-data
+                {:url url
+                 :source/origin key
+                 :connection-failures (:connection-failures state)
+                 :last-error (:last-error state)
+                 :circuit-breaker/threshold threshold
+                 :circuit-breaker/reason "connection could not be established"})))))
 
 (defn- record-circuit-success! [url]
   (swap! source-circuit-state dissoc (origin-key url)))
@@ -272,10 +286,13 @@
     (if (instance? clojure.lang.ExceptionInfo exception)
       exception
       (ex-info "Failed to fetch source URL after retries"
-               {:url url
-                :attempt attempt
-                :attempts (:attempts config)
-                :cause (exception-summary exception)}
+               (maybe-source-unreachable-data
+                {:url url
+                 :attempt attempt
+                 :attempts (:attempts config)
+                 :cause (exception-summary exception)
+                 :connection? (:connection? result)}
+                (:connection? result))
                exception))
     (ex-info (:message result "Failed to fetch source URL after retries")
              (assoc (:data result)
@@ -363,13 +380,16 @@
                        (sleep-ms! delay-ms)
                        (recur (inc attempt)))
                      (throw
-                      (ex-info "Source preflight failed"
-                               {:source/id (:source/id source)
-                                :source/name (:source/name source)
-                                :source/base-url url
-                                :attempt attempt
-                                :attempts attempts
-                                :reason (:reason result)}
+                     (ex-info "Source preflight failed"
+                               (maybe-source-unreachable-data
+                                {:source/id (:source/id source)
+                                 :source/name (:source/name source)
+                                 :source/base-url url
+                                 :attempt attempt
+                                 :attempts attempts
+                                 :reason (:reason result)
+                                 :connection? (:connection? result)}
+                                (:connection? result))
                                (:exception result))))))))))))))
 
 (defn preflight-sources! [sources]

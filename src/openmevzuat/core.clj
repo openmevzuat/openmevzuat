@@ -25,6 +25,9 @@
   (or (not-empty (System/getenv "OPENMEVZUAT_SNAPSHOT_DATE"))
       (str (LocalDate/now ZoneOffset/UTC))))
 
+(defn env-true? [name]
+  (#{"true" "1" "yes"} (some-> (System/getenv name) str/lower-case str/trim)))
+
 (defn edn-str [value]
   (binding [*print-namespace-maps* false]
     (with-out-str (pprint/pprint value))))
@@ -215,13 +218,29 @@
      :search search-write
      :manifest manifest-write}))
 
+(defn update-or-skip-unreachable! []
+  (try
+    (update!)
+    (catch Exception e
+      (if (and (env-true? "OPENMEVZUAT_SKIP_UNREACHABLE_SOURCES")
+               (fetch/source-unreachable? e))
+        (let [data (ex-data e)]
+          (println "OpenMevzuat update skipped")
+          (println "Reason: official source is unreachable from this runner.")
+          (println "Source:" (or (:source/base-url data) (:url data) (:source/origin data)))
+          (println "Last error:" (or (:last-error data) (:reason data) (:cause data) (.getMessage e)))
+          {:skipped? true
+           :reason :source-unreachable
+           :source (or (:source/base-url data) (:url data) (:source/origin data))})
+        (throw e)))))
+
 (defn usage []
   (println "Usage: clojure -M:openmevzuat <update|build|clean-derived>"))
 
 (defn -main [& args]
   (case (first args)
-    "update" (update!)
-    "build" (update!)
+    "update" (update-or-skip-unreachable!)
+    "build" (update-or-skip-unreachable!)
     "clean-derived" (do (store/clean-derived!)
                         (println "Derived files cleaned."))
     (do (usage)

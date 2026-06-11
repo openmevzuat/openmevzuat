@@ -143,7 +143,10 @@
         (#'fetch/record-circuit-failure! url "first failure")
         (is (nil? (#'fetch/circuit-open-error url config)))
         (#'fetch/record-circuit-failure! url "second failure")
-        (is (some? (#'fetch/circuit-open-error url config)))
+        (let [error (#'fetch/circuit-open-error url config)]
+          (is (some? error))
+          (is (fetch/source-unreachable? error))
+          (is (= :source-unreachable (:openmevzuat/error (ex-data error)))))
         (finally
           (reset! state {}))))))
 
