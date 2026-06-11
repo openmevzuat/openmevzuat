@@ -37,7 +37,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: |
-            .tooling/m2/repository
+            ~/.m2/repository
+            ~/.gitlibs
             .cpcache
           key: ${{ runner.os }}-clojure-${{ hashFiles('deps.edn', '.tooling/home/.clojure/deps.edn') }}
           restore-keys: |
@@ -48,13 +49,31 @@ jobs:
         with:
           cli: latest
 
+      - name: Prefetch dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for attempt in 1 2 3; do
+            if timeout 10m clojure -P -M:openmevzuat; then
+              exit 0
+            fi
+
+            if [[ "$attempt" -lt 3 ]]; then
+              echo "Dependency prefetch failed on attempt $attempt, retrying..."
+            fi
+          done
+
+          echo "Dependency prefetch failed after 3 attempts."
+          exit 1
+
       - name: Run OpenMevzuat update
         shell: bash
         run: |
           set -euo pipefail
 
           for attempt in 1 2 3; do
-            if clojure -M:openmevzuat update; then
+            if timeout 30m clojure -M:openmevzuat update; then
               exit 0
             fi
 
@@ -63,6 +82,7 @@ jobs:
             fi
           done
 
+          echo "Update failed after 3 attempts."
           exit 1
 
       - name: Create pull request if changed
