@@ -137,7 +137,7 @@ jobs:
 
             if [[ -f "$VPN_DIR/openvpn.pid" ]] && ! sudo pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
               echo "OpenVPN exited before connecting."
-              sudo tail -n 80 "$VPN_DIR/openvpn.log" || true
+              echo "OpenVPN log is stored on the runner at $VPN_DIR/openvpn.log and is not printed to avoid exposing VPN metadata."
               exit 1
             fi
 
@@ -145,7 +145,7 @@ jobs:
           done
 
           echo "OpenVPN did not connect within timeout."
-          sudo tail -n 80 "$VPN_DIR/openvpn.log" || true
+          echo "OpenVPN log is stored on the runner at $VPN_DIR/openvpn.log and is not printed to avoid exposing VPN metadata."
           exit 1
 
       - name: Run OpenMevzuat update
