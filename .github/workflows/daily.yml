@@ -16,13 +16,37 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Cache Clojure dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            .tooling/m2/repository
+            .cpcache
+          key: ${{ runner.os }}-clojure-${{ hashFiles('deps.edn', '.tooling/home/.clojure/deps.edn') }}
+          restore-keys: |
+            ${{ runner.os }}-clojure-
+
       - name: Set up Clojure
         uses: DeLaGuardo/setup-clojure@13.2
         with:
           cli: latest
 
       - name: Run OpenMevzuat update
-        run: clojure -M:openmevzuat update
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for attempt in 1 2 3; do
+            if clojure -M:openmevzuat update; then
+              exit 0
+            fi
+
+            if [[ "$attempt" -lt 3 ]]; then
+              echo "Update failed on attempt $attempt, retrying..."
+            fi
+          done
+
+          exit 1
 
       - name: Create pull request if changed
         run: |
