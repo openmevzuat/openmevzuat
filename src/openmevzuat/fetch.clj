@@ -3,6 +3,9 @@
             [clojure.string :as str]
             [hato.client :as http])
   (:import [java.nio.charset StandardCharsets]
+           [java.nio.channels ClosedChannelException UnresolvedAddressException]
+           [java.net ConnectException NoRouteToHostException SocketTimeoutException URI UnknownHostException]
+           [java.net.http HttpConnectTimeoutException HttpTimeoutException]
            [java.time Instant ZonedDateTime]
            [java.time.format DateTimeFormatter]
            [java.util Date]
@@ -10,16 +13,20 @@
            [org.apache.pdfbox.text PDFTextStripper]))
 
 (def default-fetch-config
-  {:attempts 4
-   :request-delay-ms 1000
-   :backoff-ms 1500
-   :max-backoff-ms 20000
-   :connect-timeout-ms 15000
-   :timeout-ms 180000})
+  {:attempts 6
+   :request-delay-ms 2500
+   :backoff-ms 5000
+   :max-backoff-ms 120000
+   :connect-timeout-ms 60000
+   :timeout-ms 300000
+   :preflight? true
+   :preflight-attempts 2
+   :circuit-breaker-failures 3})
 
 (def retriable-statuses #{408 425 429 500 502 503 504})
 
 (defonce last-request-at-ms (atom 0))
+(defonce source-circuit-state (atom {}))
 
 (defn now-date []
   (Date/from (Instant/now)))
@@ -33,6 +40,16 @@
 (defn- env-long [name fallback minimum]
   (max minimum
        (parse-long-value (System/getenv name) fallback)))
+
+(defn- env-bool [name fallback]
+  (case (some-> (System/getenv name) str/lower-case str/trim)
+    "true" true
+    "1" true
+    "yes" true
+    "false" false
+    "0" false
+    "no" false
+    fallback))
 
 (defn fetch-config []
   {:attempts (env-long "OPENMEVZUAT_FETCH_ATTEMPTS"
@@ -52,7 +69,15 @@
                                  1)
    :timeout-ms (env-long "OPENMEVZUAT_FETCH_TIMEOUT_MS"
                          (:timeout-ms default-fetch-config)
-                         1)})
+                         1)
+   :preflight? (env-bool "OPENMEVZUAT_PREFLIGHT_ENABLED"
+                         (:preflight? default-fetch-config))
+   :preflight-attempts (env-long "OPENMEVZUAT_PREFLIGHT_ATTEMPTS"
+                                 (:preflight-attempts default-fetch-config)
+                                 1)
+   :circuit-breaker-failures (env-long "OPENMEVZUAT_CIRCUIT_BREAKER_FAILURES"
+                                       (:circuit-breaker-failures default-fetch-config)
+                                       1)})
 
 (defn- sleep-ms! [ms]
   (when (pos? ms)
@@ -136,6 +161,56 @@
                  :redirect-policy :normal
                  :version :http-1.1}})
 
+(defn- origin-key [url]
+  (let [uri (URI/create url)]
+    (str (.getScheme uri) "://" (.getHost uri)
+         (when-let [port (pos? (.getPort uri))]
+           (str ":" port)))))
+
+(defn- cause-chain [e]
+  (take-while some? (iterate #(.getCause ^Throwable %) e)))
+
+(defn- connection-exception? [e]
+  (boolean
+   (some #(or (instance? HttpConnectTimeoutException %)
+              (instance? HttpTimeoutException %)
+              (instance? ConnectException %)
+              (instance? SocketTimeoutException %)
+              (instance? NoRouteToHostException %)
+              (instance? UnknownHostException %)
+              (instance? UnresolvedAddressException %)
+              (instance? ClosedChannelException %))
+         (cause-chain e))))
+
+(defn- circuit-open-error [url config]
+  (let [key (origin-key url)
+        state (get @source-circuit-state key)
+        threshold (:circuit-breaker-failures config)]
+    (when (and (pos? threshold)
+               (>= (:connection-failures state 0) threshold))
+      (ex-info "Source connection circuit breaker is open"
+               {:url url
+                :source/origin key
+                :connection-failures (:connection-failures state)
+                :last-error (:last-error state)
+                :circuit-breaker/threshold threshold
+                :circuit-breaker/reason "connection could not be established"}))))
+
+(defn- record-circuit-success! [url]
+  (swap! source-circuit-state dissoc (origin-key url)))
+
+(defn- record-circuit-failure! [url reason]
+  (let [key (origin-key url)]
+    (get
+     (swap! source-circuit-state
+            (fn [state]
+              (update state key
+                      (fn [entry]
+                        {:connection-failures (inc (:connection-failures entry 0))
+                         :last-error reason
+                         :last-failed-at (Date/from (Instant/now))}))))
+     key)))
+
 (defn- response-action [url {:keys [status body headers]}]
   (cond
     (contains? retriable-statuses status)
@@ -213,6 +288,8 @@
    (fetch-url url (fetch-config)))
   ([url config]
    (loop [attempt 1]
+     (when-let [e (circuit-open-error url config)]
+       (throw e))
      (let [result (try
                     (throttle! (:request-delay-ms config))
                     (let [response (http/get url (request-options config))
@@ -226,19 +303,83 @@
                         {:ok? false
                          :action :retry
                          :reason (exception-summary e)
+                         :connection? (connection-exception? e)
                          :exception e}
                         {:ok? false
                          :action :fail
                          :exception e})))]
        (if (:ok? result)
-         (:text result)
-         (if (and (= :retry (:action result))
-                  (< attempt (:attempts config)))
-           (let [delay-ms (retry-delay-ms config attempt result)]
-             (log-retry! url attempt (:attempts config) (:reason result) delay-ms)
-             (sleep-ms! delay-ms)
-             (recur (inc attempt)))
-           (throw (final-fetch-error url config attempt result))))))))
+         (do
+           (record-circuit-success! url)
+           (:text result))
+         (do
+           (when (:connection? result)
+             (record-circuit-failure! url (:reason result)))
+           (if-let [e (circuit-open-error url config)]
+             (throw e)
+             (if (and (= :retry (:action result))
+                      (< attempt (:attempts config)))
+               (let [delay-ms (retry-delay-ms config attempt result)]
+                 (log-retry! url attempt (:attempts config) (:reason result) delay-ms)
+                 (sleep-ms! delay-ms)
+                 (recur (inc attempt)))
+               (throw (final-fetch-error url config attempt result))))))))))
+
+(defn preflight-source!
+  ([source]
+   (preflight-source! source (fetch-config)))
+  ([source config]
+   (when (and (:preflight? config)
+              (not (fixture-mode?)))
+     (let [url (:source/base-url source)
+           attempts (:preflight-attempts config)]
+       (when (not-empty url)
+         (loop [attempt 1]
+           (when-let [e (circuit-open-error url config)]
+             (throw e))
+           (let [result (try
+                          (throttle! (:request-delay-ms config))
+                          (let [response (http/get url (request-options config))]
+                            {:ok? true :status (:status response)})
+                          (catch Exception e
+                            {:ok? false
+                             :reason (exception-summary e)
+                             :connection? (connection-exception? e)
+                             :exception e}))]
+             (if (:ok? result)
+               (do
+                 (record-circuit-success! url)
+                 result)
+               (do
+                 (when (:connection? result)
+                   (record-circuit-failure! url (:reason result)))
+                 (if-let [e (circuit-open-error url config)]
+                   (throw e)
+                   (if (< attempt attempts)
+                     (let [delay-ms (retry-delay-ms config attempt result)]
+                       (log-retry! url attempt attempts
+                                   (str "source preflight failed: " (:reason result))
+                                   delay-ms)
+                       (sleep-ms! delay-ms)
+                       (recur (inc attempt)))
+                     (throw
+                      (ex-info "Source preflight failed"
+                               {:source/id (:source/id source)
+                                :source/name (:source/name source)
+                                :source/base-url url
+                                :attempt attempt
+                                :attempts attempts
+                                :reason (:reason result)}
+                               (:exception result))))))))))))))
+
+(defn preflight-sources! [sources]
+  (let [config (fetch-config)]
+    (when (and (:preflight? config)
+               (not (fixture-mode?)))
+      (doseq [source (->> sources
+                          (filter :source/enabled?)
+                          (distinct))]
+        (preflight-source! source config)))))
 
 (defn fetch-document [document source]
   (let [fetched-at (now-date)

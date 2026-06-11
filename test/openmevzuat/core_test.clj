@@ -131,7 +131,21 @@
                    "https://example.test/source.pdf"
                    {:status 200
                     :headers {"content-type" "text/html"}
-                    :body (.getBytes "<html>not a pdf</html>" "UTF-8")})))))
+                    :body (.getBytes "<html>not a pdf</html>" "UTF-8")}))))
+  (testing "connection failures can open the source circuit"
+    (let [state @#'fetch/source-circuit-state
+          url "https://example.test/source.pdf"
+          config {:circuit-breaker-failures 2}]
+      (try
+        (reset! state {})
+        (is (#'fetch/connection-exception? (java.net.ConnectException. "blocked")))
+        (is (nil? (#'fetch/circuit-open-error url config)))
+        (#'fetch/record-circuit-failure! url "first failure")
+        (is (nil? (#'fetch/circuit-open-error url config)))
+        (#'fetch/record-circuit-failure! url "second failure")
+        (is (some? (#'fetch/circuit-open-error url config)))
+        (finally
+          (reset! state {}))))))
 
 (deftest write-if-changed-behavior
   (let [dir (Files/createTempDirectory "openmevzuat-test"
