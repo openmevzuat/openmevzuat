@@ -67,6 +67,87 @@ jobs:
           echo "Dependency prefetch failed after 3 attempts."
           exit 1
 
+      - name: Install OpenVPN when configured
+        shell: bash
+        env:
+          OPENVPN_CONFIG: ${{ secrets.OPENVPN_CONFIG }}
+          OPENVPN_CONFIG_B64: ${{ secrets.OPENVPN_CONFIG_B64 }}
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${OPENVPN_CONFIG:-}" && -z "${OPENVPN_CONFIG_B64:-}" ]]; then
+            echo "No OpenVPN config secret configured; skipping VPN install."
+            exit 0
+          fi
+
+          sudo apt-get update
+          sudo apt-get install -y openvpn
+
+      - name: Connect OpenVPN when configured
+        shell: bash
+        env:
+          OPENVPN_CONFIG: ${{ secrets.OPENVPN_CONFIG }}
+          OPENVPN_CONFIG_B64: ${{ secrets.OPENVPN_CONFIG_B64 }}
+          OPENVPN_USERNAME: ${{ secrets.OPENVPN_USERNAME }}
+          OPENVPN_PASSWORD: ${{ secrets.OPENVPN_PASSWORD }}
+        run: |
+          set -euo pipefail
+
+          if [[ -z "${OPENVPN_CONFIG:-}" && -z "${OPENVPN_CONFIG_B64:-}" ]]; then
+            echo "No OpenVPN config secret configured; running without VPN."
+            exit 0
+          fi
+
+          VPN_DIR="$RUNNER_TEMP/openvpn"
+          mkdir -p "$VPN_DIR"
+          chmod 700 "$VPN_DIR"
+
+          if [[ -n "${OPENVPN_CONFIG_B64:-}" ]]; then
+            printf '%s' "$OPENVPN_CONFIG_B64" | base64 --decode > "$VPN_DIR/client.ovpn"
+          else
+            printf '%s' "$OPENVPN_CONFIG" > "$VPN_DIR/client.ovpn"
+          fi
+
+          AUTH_ARGS=()
+          if [[ -n "${OPENVPN_USERNAME:-}" || -n "${OPENVPN_PASSWORD:-}" ]]; then
+            if [[ -z "${OPENVPN_USERNAME:-}" || -z "${OPENVPN_PASSWORD:-}" ]]; then
+              echo "OPENVPN_USERNAME and OPENVPN_PASSWORD must both be set when VPN auth is used."
+              exit 1
+            fi
+
+            printf '%s\n%s\n' "$OPENVPN_USERNAME" "$OPENVPN_PASSWORD" > "$VPN_DIR/auth.txt"
+            AUTH_ARGS=(--auth-user-pass "$VPN_DIR/auth.txt")
+          fi
+
+          chmod 600 "$VPN_DIR/client.ovpn"
+          [[ ! -f "$VPN_DIR/auth.txt" ]] || chmod 600 "$VPN_DIR/auth.txt"
+
+          sudo openvpn \
+            --config "$VPN_DIR/client.ovpn" \
+            "${AUTH_ARGS[@]}" \
+            --daemon \
+            --writepid "$VPN_DIR/openvpn.pid" \
+            --log "$VPN_DIR/openvpn.log"
+
+          for attempt in {1..45}; do
+            if grep -q "Initialization Sequence Completed" "$VPN_DIR/openvpn.log"; then
+              echo "OpenVPN connected."
+              exit 0
+            fi
+
+            if [[ -f "$VPN_DIR/openvpn.pid" ]] && ! pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
+              echo "OpenVPN exited before connecting."
+              tail -n 80 "$VPN_DIR/openvpn.log" || true
+              exit 1
+            fi
+
+            sleep 2
+          done
+
+          echo "OpenVPN did not connect within timeout."
+          tail -n 80 "$VPN_DIR/openvpn.log" || true
+          exit 1
+
       - name: Run OpenMevzuat update
         shell: bash
         env:
@@ -95,6 +176,20 @@ jobs:
 
           echo "Update failed after 3 attempts."
           exit 1
+
+      - name: Disconnect OpenVPN
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          VPN_DIR="$RUNNER_TEMP/openvpn"
+          if [[ -f "$VPN_DIR/openvpn.pid" ]] && pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
+            sudo kill "$(cat "$VPN_DIR/openvpn.pid")" || true
+            echo "OpenVPN disconnected."
+          else
+            echo "No OpenVPN process to disconnect."
+          fi
 
       - name: Create pull request if changed
         run: |
