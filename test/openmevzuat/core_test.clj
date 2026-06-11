@@ -1,6 +1,7 @@
 (ns openmevzuat.core-test
   (:require [babashka.fs :as fs]
             [clojure.test :refer [deftest is testing]]
+            [openmevzuat.fetch :as fetch]
             [openmevzuat.hash :as hash]
             [openmevzuat.parse :as parse]
             [openmevzuat.render :as render]
@@ -114,6 +115,23 @@
 (deftest sha256-hashing
   (is (= "ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad"
          (hash/sha256-str "abc"))))
+
+(deftest fetch-resilience-helpers
+  (is (#'fetch/pdf-bytes? (.getBytes "%PDF-1.7\nbody" "US-ASCII")))
+  (is (false? (#'fetch/pdf-bytes? (.getBytes "<html></html>" "UTF-8"))))
+  (is (= 2000 (#'fetch/retry-after-ms {"retry-after" "2"})))
+  (is (= :retry
+         (:action (#'fetch/response-action
+                   "https://example.test/source.pdf"
+                   {:status 429
+                    :headers {"retry-after" "2"}
+                    :body (.getBytes "Too Many Requests" "UTF-8")}))))
+  (is (= :fail
+         (:action (#'fetch/response-action
+                   "https://example.test/source.pdf"
+                   {:status 200
+                    :headers {"content-type" "text/html"}
+                    :body (.getBytes "<html>not a pdf</html>" "UTF-8")})))))
 
 (deftest write-if-changed-behavior
   (let [dir (Files/createTempDirectory "openmevzuat-test"
