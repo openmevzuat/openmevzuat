@@ -86,6 +86,9 @@
         fetched-at (if stable-content?
                      (or (:source/fetched-at existing) (:source/fetched-at document) run-at)
                      (or (:source/fetched-at document) run-at))
+        stable-baseline-date (if stable-content?
+                               (or (:openmevzuat/baseline-date existing) baseline-date)
+                               baseline-date)
         generated-at (if stable-content?
                        (or (:openmevzuat/generated-at existing) run-at)
                        run-at)]
@@ -100,7 +103,7 @@
      :source/name (or (:source/name document) "mevzuat.gov.tr")
      :source/url (:source/url document)
      :source/fetched-at fetched-at
-     :openmevzuat/baseline-date baseline-date
+     :openmevzuat/baseline-date stable-baseline-date
      :openmevzuat/generated-at generated-at
      :content/language "tr"
      :content/format :markdown

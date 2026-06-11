@@ -41,6 +41,14 @@
                :article/title "Main"
                :article/body "Body"}]
              articles))))
+  (testing "split appendix stop markers are not parsed as canonical articles"
+    (let [articles (parse/parse-articles
+                    "MADDE 138\n\nBody\n\n18/10/1983 TARİHLİ VE 2918 SAYILI ANA KANUNA\nİŞLENEMEYEN HÜKÜMLER\n\nGEÇİCİ MADDE 1\n\nAppendix body")]
+      (is (= [{:article/type :normal
+               :article/no "138"
+               :article/title nil
+               :article/body "Body"}]
+             articles))))
   (testing "hyphenated inline legal text remains in the body"
     (let [articles (parse/parse-articles
                     "MADDE 1 ‒ (1) Body starts here.\n\nBody continues.")]

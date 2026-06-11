@@ -6,7 +6,9 @@
   #"(?iu)^\s*(GEÇİCİ\s+MADDE|GECICI\s+MADDE|EK\s+MADDE|MADDE)\s+([0-9]+(?:/[A-Z])?)\s*(?:([-‐‑‒–—.])\s*(.*?))?\s*$")
 
 (def stop-marker-patterns
-  [#"(?imu)^.*SAYILI\s+KANUNA\s+İŞLENEME[YZ]EN\s+HÜKÜMLER.*$"
+  [#"(?imu)^.*SAYILI.*KANUNA\s*\R\s*İŞLENEME[YZ]EN\s+HÜKÜMLER.*$"
+   #"(?imu)^.*SAYILI\s+KANUNA\s+İŞLENEME[YZ]EN\s+HÜKÜMLER.*$"
+   #"(?imu)^.*İŞLENEME[YZ]EN\s+HÜKÜMLER.*$"
    #"(?imu)^.*SAYILI\s+KANUNA\s+EK\s+VE\s+DEĞİŞİKLİK\s+GETİREN\s+MEVZUAT.*$"])
 
 (defn- marker-index [text pattern]
