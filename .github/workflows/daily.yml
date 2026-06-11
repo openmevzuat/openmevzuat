@@ -130,14 +130,14 @@ jobs:
             --log "$VPN_DIR/openvpn.log"
 
           for attempt in {1..45}; do
-            if grep -q "Initialization Sequence Completed" "$VPN_DIR/openvpn.log"; then
+            if sudo grep -q "Initialization Sequence Completed" "$VPN_DIR/openvpn.log"; then
               echo "OpenVPN connected."
               exit 0
             fi
 
-            if [[ -f "$VPN_DIR/openvpn.pid" ]] && ! pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
+            if [[ -f "$VPN_DIR/openvpn.pid" ]] && ! sudo pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
               echo "OpenVPN exited before connecting."
-              tail -n 80 "$VPN_DIR/openvpn.log" || true
+              sudo tail -n 80 "$VPN_DIR/openvpn.log" || true
               exit 1
             fi
 
@@ -145,7 +145,7 @@ jobs:
           done
 
           echo "OpenVPN did not connect within timeout."
-          tail -n 80 "$VPN_DIR/openvpn.log" || true
+          sudo tail -n 80 "$VPN_DIR/openvpn.log" || true
           exit 1
 
       - name: Run OpenMevzuat update
@@ -184,8 +184,8 @@ jobs:
           set -euo pipefail
 
           VPN_DIR="$RUNNER_TEMP/openvpn"
-          if [[ -f "$VPN_DIR/openvpn.pid" ]] && pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
-            sudo kill "$(cat "$VPN_DIR/openvpn.pid")" || true
+          if [[ -f "$VPN_DIR/openvpn.pid" ]] && sudo pgrep -F "$VPN_DIR/openvpn.pid" >/dev/null 2>&1; then
+            sudo kill "$(sudo cat "$VPN_DIR/openvpn.pid")" || true
             echo "OpenVPN disconnected."
           else
             echo "No OpenVPN process to disconnect."
