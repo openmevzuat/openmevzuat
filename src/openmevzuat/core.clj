@@ -195,6 +195,13 @@
     {:path path
      :write (store/write-if-changed! path (edn-str manifest))}))
 
+(defn skip-manifest [date]
+  {:path (str "data/manifests/" date ".edn")
+   :write {:path (str "data/manifests/" date ".edn")
+           :changed? false
+           :skipped? true
+           :reason :no-content-changes}})
+
 (defn update! []
   (let [run-at (now)
         date (snapshot-date)
@@ -205,14 +212,20 @@
         prepared (mapv #(prepare-document % run-at date) documents)
         document-writes (mapv write-document! prepared)
         search-write (write-search! prepared)
-        manifest-write (write-manifest! prepared run-at date)
+        content-changed-files (changed-count [document-writes search-write])
+        manifest-write (if (pos? content-changed-files)
+                         (write-manifest! prepared run-at date)
+                         (skip-manifest date))
         articles-written (count (filter :changed? (mapcat :article-writes document-writes)))
-        changed-files (changed-count [document-writes search-write (:write manifest-write)])]
+        changed-files (+ content-changed-files
+                         (changed-count [(:write manifest-write)]))]
     (println "OpenMevzuat update")
     (println "Documents:" (count prepared))
     (println "Articles written:" articles-written)
     (println "Changed files:" changed-files)
-    (println "Manifest:" (:path manifest-write))
+    (println "Manifest:" (if (get-in manifest-write [:write :skipped?])
+                           (str (:path manifest-write) " (skipped; no content changes)")
+                           (:path manifest-write)))
     {:documents prepared
      :writes document-writes
      :search search-write

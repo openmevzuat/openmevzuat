@@ -1,6 +1,7 @@
 (ns openmevzuat.core-test
   (:require [babashka.fs :as fs]
             [clojure.test :refer [deftest is testing]]
+            [openmevzuat.core :as core]
             [openmevzuat.fetch :as fetch]
             [openmevzuat.hash :as hash]
             [openmevzuat.parse :as parse]
@@ -149,6 +150,16 @@
           (is (= :source-unreachable (:openmevzuat/error (ex-data error)))))
         (finally
           (reset! state {}))))))
+
+(deftest manifest-skip-behavior
+  (let [manifest (core/skip-manifest "2026-06-12")]
+    (is (= "data/manifests/2026-06-12.edn" (:path manifest)))
+    (is (= {:path "data/manifests/2026-06-12.edn"
+            :changed? false
+            :skipped? true
+            :reason :no-content-changes}
+           (:write manifest)))
+    (is (zero? (core/changed-count [(:write manifest)])))))
 
 (deftest write-if-changed-behavior
   (let [dir (Files/createTempDirectory "openmevzuat-test"
