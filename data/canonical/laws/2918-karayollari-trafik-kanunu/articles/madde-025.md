@@ -10,12 +10,12 @@ araçlara geçici tescil plakası verilmesi şartları ile diğer esaslar yönet
 madde hükümlerine aykırı olarak araçları karayolunda kullanan sürücülere 46.000 Türk lirası
 idari para cezası uygulanır. Ayrıca, trafik zabıtasınca bu geçici belge ve plakalar iptal edilerek
 araçlar otuz gün süre ile trafikten menedilir. Son ihlalin gerçekleştiği tarihten itibaren geriye
-doğru bir yıl içinde iki veya daha fazla bu madde hükmüne uymayan sürücülere her seferinde
-140.000 Türk lirası idari para cezası uygulanır ve araç altmış gün süre ile trafikten
 
-25 2/1/2017 tarihli ve 680 sayılı KHK’nin 53 üncü maddesiyle bu madde başlığı ‘’Trafik belgesi verilmesi
+26 2/1/2017 tarihli ve 680 sayılı KHK’nin 53 üncü maddesiyle bu madde başlığı ‘’Trafik belgesi verilmesi
 için zorunlu belgeler’’ iken ‘’ Araç muayene raporu’’ şeklinde değiştirilmiş, daha sonra bu hüküm
 1/2/2018 tarihli ve 7072 sayılı Kanunun 52 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-menedilir.26
+doğru bir yıl içinde iki veya daha fazla bu madde hükmüne uymayan sürücülere her seferinde
+140.000 Türk lirası idari para cezası uygulanır ve araç altmış gün süre ile trafikten
+menedilir.27
 
 Araçlara ait trafik ayırım işaretleri ve diğer işaretler:

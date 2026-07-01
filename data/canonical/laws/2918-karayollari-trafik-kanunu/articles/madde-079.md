@@ -1,4 +1,4 @@
-# MADDE 79 — Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:67
+# MADDE 79 — Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:68
 
 (Değişik: 31/5/2012-6321/2 md.)
 Karayolu üzeri park yerindeki araçlar için park ücreti, yetki ve sorumluluk alanına

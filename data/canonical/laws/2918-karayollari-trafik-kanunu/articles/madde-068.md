@@ -1,16 +1,6 @@
 # MADDE 68
 
 Yayaların uyacakları kurallar aşağıda belirtilmiştir.
-
-58 Anayasa Mahkemesinin 14/3/2019 tarihli ve E.: 2019/1, K.: 2019/14 sayılı Kararı ile, bu fıkranın
-üçüncü cümlesi “Sürücünün araç sahibi olmadığı hâl” yönünden iptal edilmiştir.
-59 12/2/2026 tarihli ve 7574 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “5.010” ibaresi
-“140.000” şeklinde değiştirilmiştir.
-60 12/2/2026 tarihli ve 7574 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Belgesi iptal
-edilenlerin” ibaresi “Sürücü belgesi iptal edilenlerin” şeklinde değiştirilmiş, fıkraya “eğitime
-başlayabilmeleri için” ibaresinden sonra gelmek üzere “sürücü belgesinin iptal edildiği tarihten
-itibaren iptal nedenlerinde yer alan geri alma süreleri kadar zamanın geçmiş olması, bu Kanun
-kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması ve” ibaresi eklenmştir.
 a) Yayalar, aşağıda sayılan haller dışında, taşıt yolu bitişiğinde ve yakınında yaya
 yolu, banket veya alan varsa burada yürümek zorundadır.
 1. Yönetmelikte belirtilen tedbirler alınmak şartı ile diğer yayalar için ciddi rahatsızlık
@@ -21,7 +11,7 @@ kafileleri taşıt yolu üzerinde yürüyebilirler.
 2. Yayaların yürümesine ayrılmış kısımların kullanılmasının mümkün olmaması veya
 bulunmaması hallerinde yayalar, bisiklet trafiğine engel olmamak şartı ile bisiklet yolunda
 veya şeridinde; bisiklet yolu veya bisiklet şeridi yoksa taşıt yolu üzerinde, imkan oranında
-taşıt yolu kenarına yakın olmak şartı ile yürüyebilirler.61
+taşıt yolu kenarına yakın olmak şartı ile yürüyebilirler.62
 3. Her iki tarafında, yaya yolu ve banket bulunmayan veya kullanılır durumda
 olmayan iki yönlü trafiğin kullanıldığı karayollarında yaya kafileleri dışındaki yayalar, taşıt
 yolunun sol kenarını izlemek zorundadır.

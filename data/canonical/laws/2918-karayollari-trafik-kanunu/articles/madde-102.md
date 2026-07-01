@@ -10,6 +10,6 @@ dolayı sorumluluğunu da kapsar.
 yaptırılarak tüm katarın en az zorunlu mali sorumluluk sigortası tutarlarının kapsamına
 girmesi sağlanmadıkça, trafiğe çıkarılamaz.
 
-76 14/4/2016 tarihli ve 6704 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “kaza veya zarara
+77 14/4/2016 tarihli ve 6704 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “kaza veya zarara
 ilişkin tespit tutanağını veya bilirkişi raporunu” ibaresi “zorunlu mali sorumluluk sigortası genel
 şartlarıyla belirlenen belgeleri” şeklinde değiştirilmiştir.

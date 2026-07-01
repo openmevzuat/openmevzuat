@@ -5,7 +5,7 @@ a) Bir il sınırı içindeki karayolları üzerinde yapılacak yarış ve koşu
 valiliğinden,
 b) Birden fazla il sınırları içindeki şehirlerarası karayolları üzerinde yapılacak milli ve
 milletlerarası yarış ve koşular için İçişleri Bakanlığından izin alınması zorunludur. Bu izin
-verilirken Ulaştırma ve Altyapı Bakanlığının uygun görüşü alınır.63
+verilirken Ulaştırma ve Altyapı Bakanlığının uygun görüşü alınır.64
 İzinsiz yapılan yarış ve koşular görevlilerce derhal durdurulur.
 Yarış ve koşularda trafik güvenliği yönünden uygulanacak usul ve şartlar yönetmelikte
 gösterilir.
