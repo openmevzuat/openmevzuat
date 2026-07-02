@@ -1,4 +1,4 @@
-# MADDE 66 — Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücüleri ile ilgili kurallar:56
+# MADDE 66 — Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücüleri ile ilgili kurallar:57
 
 Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücülerine
 aşağıdaki kurallar uygulanır.
@@ -10,7 +10,7 @@ Bunlardan ikiden fazlasının taşıt yolunun bir şeridinde yan yana,
 sürülmesi yasaktır.
 b) Bisiklet sürenlerin en az bir elleri, elektrikli skuter ve motorlu bisiklet sürenlerin
 manevra için işaret verme hali dışında iki elleri ve motosiklet sürenlerin devamlı iki eller ile
-taşıtlarını sürmeleri ve yönetmelikte belirtilen güvenlik şartlarına uymaları zorunludur.56
+taşıtlarını sürmeleri ve yönetmelikte belirtilen güvenlik şartlarına uymaları zorunludur.57
 c) Bisiklet, motorlu bisiklet ve sepetsiz motosiklet sürücülerinin, sürücü arkasında
 yeterli bir oturma yeri olmadıkça başka kişileri bindirmeleri ve yönetmelikte belirtilen
 sınırdan fazla yük taşımaları yasaktır.
@@ -21,14 +21,14 @@ azami hız sınırı 50 km/s üzerinde olan karayollarında kullanılamaz.
 f) (Ek:12/2/2026-7574/20 md.) Motorlu bisiklet ve motosiklet cinsi araçların, izin
 alınarak yapılan gösteriler dışında tek tekerlek üzerinde, sele üzerine yatarak, sele üzerinde
 ayağa kalkarak, kendi etrafında döndürülerek, tekerleği kaydırılarak, sürüş güvenliğini
-olumsuz yönde etkileyecek benzeri akrobatik hareketler yapılarak sürülmesi yasaktır.
-(Ek fıkra:12/2/2026-7574/20 md.) Birinci fıkranın (a), (b), (c), (d) ve (e) bentleri ile
-beşinci fıkra hükümlerine uymayan sürücülere 5.000 Türk lirası idari para cezası uygulanır.
 
-56 24/12/2020 tarihli ve 7261 sayılı Kanunun 26 ncı maddesiyle, bu madde başlığına ve birinci
+57 24/12/2020 tarihli ve 7261 sayılı Kanunun 26 ncı maddesiyle, bu madde başlığına ve birinci
 fıkranın birinci cümlesine “Bisiklet,” ibarelerinden sonra gelmek üzere “elektrikli skuter,” ibareleri
 eklenmiş, fıkranın (b) bendine “en az bir elleri,” ibaresinden sonra gelmek üzere “elektrikli skuter ve”
 ibaresi eklenmiştir.
+olumsuz yönde etkileyecek benzeri akrobatik hareketler yapılarak sürülmesi yasaktır.
+(Ek fıkra:12/2/2026-7574/20 md.) Birinci fıkranın (a), (b), (c), (d) ve (e) bentleri ile
+beşinci fıkra hükümlerine uymayan sürücülere 5.000 Türk lirası idari para cezası uygulanır.
 Birinci fıkranın (f) bendi hükümlerine uymayan sürücülere 46.000 Türk lirası idari para cezası
 uygulanarak sürücü belgeleri altmış gün süreyle geri alınır ve araç altmış gün süre ile trafikten
 menedilir. Bu şekilde geri alınan sürücü belgeleri, geri alma süresi sonunda sürücünün psiko-
@@ -56,6 +56,6 @@ alması zorunludur. Yetki belgesi almadan faaliyette bulunanlara 86.900 Türk li
 cezası uygulanır.
 (Ek fıkra: 24/12/2020-7261/26 md.) Elektrikli skuter ve kullanımına ilişkin diğer
 hususlar İçişleri Bakanlığı, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Ulaştırma ve
-Altyapı Bakanlığı tarafından müştereken çıkarılan yönetmelikle belirlenir.57
+Altyapı Bakanlığı tarafından müştereken çıkarılan yönetmelikle belirlenir.58
 
 Araç manevralarını düzenleyen kurallar:

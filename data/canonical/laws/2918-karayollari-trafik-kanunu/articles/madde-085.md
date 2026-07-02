@@ -13,7 +13,7 @@ kaydı üzerine şerh düşülmesi arasında geçen süreler içinde kötü niye
 hükümsüz sayılır. Şerhin konulduğu tarihten itibaren bir ay içerisinde, şerhin kaldırıldığına veya
 devamına ilişkin mahkeme kararı ibraz edilmediği takdirde bu şerh hükümsüz sayılır.
 
-69 Sekizinci Kısım Birinci Bölüm başlığı ile 85 inci maddenin madde başlığı 17/10/1996 tarih ve 4199
+70 Sekizinci Kısım Birinci Bölüm başlığı ile 85 inci maddenin madde başlığı 17/10/1996 tarih ve 4199
 sayılı Kanunun 28 inci maddesiyle değiştirilmiştir.
 İşletilme halinde olmayan bir motorlu aracın sebep olduğu trafik kazasından dolayı
 işletenin sorumlu tutulabilmesi için, zarar görenin, kazanın oluşumunda işleten veya eylemlerinden
@@ -30,4 +30,4 @@ sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin ku
 gibi sorumludur.
 
 İşletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin, sorumluluktan
-kurtulması veya sorumluluğun azaltılması:70
+kurtulması veya sorumluluğun azaltılması:71

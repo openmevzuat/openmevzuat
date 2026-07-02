@@ -28,11 +28,11 @@ ilişkin geçici belgeyi basmak ve araç sahibine vermek üzere kamu kurum veya 
 gerçek veya özel hukuk tüzel kişilerini yetkilendirebilir. Yetkilendirilen bu gerçek veya özel
 hukuk tüzel kişileri, yapacakları işlemleri aralarında düzenleyecekleri protokol çerçevesinde
 başka gerçek veya özel hukuk tüzel kişilerine de yaptırabilirler. Araca ait kişiselleştirilen
+
+25 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “2.018” ibaresi
+“46.000” şeklinde değiştirilmiştir.
 belgelerin basımı ve ilgililerine elden veya posta yoluyla teslimi, Emniyet Genel Müdürlüğü
 tarafından belirlenen kamu kurum veya kuruluşları ile özel hukuk tüzel kişilerine de
-
-24 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “2.018” ibaresi
-“46.000” şeklinde değiştirilmiştir.
 yaptırılabilir. Bu işlemlerin yapılmasına dair usûl ve esaslar yönetmelikte belirlenir.
 (Ek fıkra: 13/2/2011-6111/57 md.) Tescil belgesinin bir ay içinde teslim edilememesi
 hâlinde, buna ilişkin olarak araç sahibine sorumluluk yüklenemez.

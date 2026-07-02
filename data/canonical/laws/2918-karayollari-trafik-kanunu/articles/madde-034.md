@@ -6,13 +6,13 @@ ekonomik yapıları da, dikkate alınmak suretiyle belirli zamanlarda muayene ed
 sorumluluk sigortası geçerli teminat tutarları üzerinden yaptırılmamış araçlar, muayeneye
 alınmazlar.
 Motorlu araçların muayenelerinin, yönetmelikte belirtilen süreler içinde yaptırılması
+
+33 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu madde başlığına “yükler”
+ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
+34 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu fıkraya “yüklerin taşınması”
+ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
 zorunludur.
 (Değişik:25/6/1988 - KHK-330/3 md.; Aynen kabul : 31/10/1990 - 3672/2 md.)
-
-32 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu madde başlığına “yükler”
-ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
-33 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu fıkraya “yüklerin taşınması”
-ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
 Muayene süresi dolmadan kazaya karışması sonucu yetkili zabıtaca muayenesi gerekli
 görülenler ile üzerinde değişiklik yapılan araçların ayrıca özel muayenesi zorunludur. Bu
 muayeneler öncelikle yapılır.
