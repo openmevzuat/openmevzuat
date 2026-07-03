@@ -1,9 +1,9 @@
-# MADDE 33 — Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar:32
+# MADDE 33 — Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar:33
 
 Ağırlık ve boyutları bakımından özelliği olan, başka ulaşım sistemleri ile
 taşınması olmayan ve taşıma sınırını aşıp da taşınması zorunlu olan yüklerin taşınması ile
 trafiğe çıkışları özel izne bağlı araçlar için, Karayolları Genel Müdürlüğünden izin alınması
-zorunludur.33
+zorunludur.34
 (Ek fıkra:12/2/2026-7574/8 md.) Özel yüklerin taşınması ile trafiğe çıkışları özel izne
 bağlı araçlardan yolun yapım, bakım ve işletilmesinden sorumlu kurum/kuruluşça karayolu
 kullanım bedeli alınır. Karayolu kullanım bedeli; dingil başına tonaj miktarı, dingil sayısı,

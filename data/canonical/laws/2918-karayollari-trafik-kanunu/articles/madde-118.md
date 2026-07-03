@@ -1,4 +1,4 @@
-# MADDE 118 — geri alınması:85
+# MADDE 118 — geri alınması:86
 
 Bu Kanunun suç saydığı bir fiilden dolayı haklarında ceza uygulanan
 sürücülere, aldıkları her ceza, için esasları yönetmelikte belirlenen ceza puanları verilir.

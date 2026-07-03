@@ -32,11 +32,11 @@ yazılan yazılar sildirilir veya takılan donanımlar bütün giderler ve sorum
 üzere söktürülür. (Ek cümle:21/11/2024-7533/25 md.) Ayrıca ikinci fıkra kapsamındaki
 cihazlara mülki amir tarafından el konulur ve mülki amir tarafından mülkiyetinin kamuya
 geçirilmesine karar verilir.
+
+27 Bu maddenin üçüncü ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun dördüncü
+maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiştir.
 (Ek fıkra:21/11/2024-7533/25 md.) Sürücü belgesi geri alma işlemleri bu Kanunun
 6 ncı maddesinde sayılan görevliler tarafından yapılır. Altmış gün süre ile sürücü belgesi geri
-
-26 Bu maddenin üçüncü ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun dördüncü
-maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiştir.
 alınanların sürücü belgeleri psiko-teknik değerlendirme ve psikiyatri uzmanının
 muayenesinden geçirilerek sürücü belgesi almasına mâni hâli olmadığının anlaşılması halinde
 iade edilir. Bu madde kapsamında geri alınan sürücü belgeleri bu Kanun kapsamında verilen

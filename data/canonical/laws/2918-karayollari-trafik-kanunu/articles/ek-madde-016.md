@@ -11,7 +11,7 @@ tutar, izleyen ayın sonuna kadar Emniyet Genel Müdürlüğü bütçesinden ilg
 sistem kullanımı hizmet bedeli olarak ödenir. (Ek cümle: 20/8/2016-6745/30 md.) Elektronik
 sistemlerin belediyeler tarafından hasılat paylaşımı yoluyla kurdurulması ve işlettirilmesi
 hâlinde belediyelere ödenecek tutar, elektronik sistemlerin yatırım maliyetine ulaşıncaya
-kadar %30, sonrasında %15 olarak uygulanır.88
+kadar %30, sonrasında %15 olarak uygulanır.89
 Bu madde kapsamında hizmetinden yararlanılacak elektronik sistemlerin taşıması
 gereken teknik özellikler, kurulması gereken yerler ve belediyelerle yapılacak protokollere
 ilişkin diğer şartlar ile maddenin uygulamasına ilişkin usul ve esaslar Maliye Bakanlığı ve

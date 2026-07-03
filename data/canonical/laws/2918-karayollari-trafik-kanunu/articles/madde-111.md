@@ -10,4 +10,4 @@ Adli Kovuşturma ve Cezaların Uygulanması
 
 BİRİNCİ BÖLÜM
 Adli Kovuşturma
-Sürücü belgelerinin geri alınmasında ve iptalinde yetki:80
+Sürücü belgelerinin geri alınmasında ve iptalinde yetki:81
