@@ -3,9 +3,9 @@
 Geçiş üstünlüğüne sahip araçlar öncelik sırasıyla şunlardır:
 a) Cankurtaran araçları, yaralı veya acil hasta taşıyan araçlar,
 
-63 12/2/2026 tarihli ve 7574 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “Bayındırlık”
+64 12/2/2026 tarihli ve 7574 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “Bayındırlık”
 ibaresi “Ulaştırma ve Altyapı” şeklinde değiştirilmiştir.
-b) İtfaiye araçları, orman yangınlarıyla mücadele eden araçlar,64
+b) İtfaiye araçları, orman yangınlarıyla mücadele eden araçlar,65
 c) Hükümlü veya sanığı takip eden veya emniyet ve asayişi korumak için acele olay
 yerine giden zabıta araçları,
 d) Bir trafik suçu işleyerek kaçan aracı takip eden veya trafik güvenliğini koruma veya
@@ -24,7 +24,7 @@ Bunların birbirleriyle karşılaşmalarında birinin diğerine göre geçiş ü
 yazılı olan sıraya göredir.
 Zorunluluk olmadığı hallerde geçiş üstünlüğünü kullanmak yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Zorunluluk olmadığı halde geçiş üstünlüğü hakkını
-kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır.65
+kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır.66
 (Ek fıkra: 6/12/2019-7196/42 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar İçişleri Bakanlığınca çıkarılan yönetmelikte belirlenir.
 

@@ -7,7 +7,7 @@ b) Kazada ölen, yaralanan veya maddi hasar var ise bu kaza trafiği, can ve mal
 güvenliğini etkilemiyorsa, sorumluluğun saptanmasında yararlı olacak kanıt ve izler dahil,
 kaza yerindeki durumu değiştirmemek,
 c) Kazaya karışan kişiler tarafından istendiği takdirde kimliğini, adresini, sürücü ve
-tescil belgesi ile sigorta poliçe tarih ve numarasını bildirmek ve göstermek,68
+tescil belgesi ile sigorta poliçe tarih ve numarasını bildirmek ve göstermek,69
 d) Kazayı; yetkili ve görevli memurlara bildirmek, bunlar gelinceye kadar veya
 bunların iznini almadan kaza yerinden ayrılmamak,
 e) Sürücüsü, mal sahibi veya ilgili kişilerin bulunmadığı sırada araç, eşya veya yüklere

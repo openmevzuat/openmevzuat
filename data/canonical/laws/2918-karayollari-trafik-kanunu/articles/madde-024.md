@@ -1,4 +1,4 @@
-# MADDE 24 — Araç muayene raporu:25
+# MADDE 24 — Araç muayene raporu:26
 
 (Değişik: 2/1/2017 – KHK-680/53 md.; Aynen kabul: 1/2/2018-
 7072/52 md.)

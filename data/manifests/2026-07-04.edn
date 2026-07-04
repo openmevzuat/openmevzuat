@@ -1,0 +1,80 @@
+{:snapshot/date "2026-07-04",
+ :snapshot/generated-at #inst "2026-07-04T07:35:02.455-00:00",
+ :generator/name "openmevzuat",
+ :generator/version "0.1.0",
+ :documents
+ [{:document/id "constitution/1982",
+   :document/title "Türkiye Cumhuriyeti Anayasası",
+   :document/path
+   "data/canonical/constitution/2709-turkiye-cumhuriyeti-anayasasi",
+   :metadata/path
+   "data/metadata/constitution/2709-turkiye-cumhuriyeti-anayasasi.edn",
+   :document/sha256
+   "715829fef78621fcae98af3ae68f860d736dc34cfc3c4c2b83c9a830483693ff"}
+  {:document/id "law/5237",
+   :document/title "Türk Ceza Kanunu",
+   :document/path "data/canonical/laws/5237-turk-ceza-kanunu",
+   :metadata/path "data/metadata/laws/5237-turk-ceza-kanunu.edn",
+   :document/sha256
+   "14c561ee66bbf14ea3dec2375e6d96caba70d510fb1b8aa43e88a13bde72f204"}
+  {:document/id "law/6102",
+   :document/title "Türk Ticaret Kanunu",
+   :document/path "data/canonical/laws/6102-turk-ticaret-kanunu",
+   :metadata/path "data/metadata/laws/6102-turk-ticaret-kanunu.edn",
+   :document/sha256
+   "cb0dcfb66fd31da45b82f68d1cae18483623111da6d467ed6f27a754b0eda848"}
+  {:document/id "law/6098",
+   :document/title "Türk Borçlar Kanunu",
+   :document/path "data/canonical/laws/6098-turk-borclar-kanunu",
+   :metadata/path "data/metadata/laws/6098-turk-borclar-kanunu.edn",
+   :document/sha256
+   "d14f52d1a73b54c698e07614638a55ad4bb6428f94e0ac69109541c74edebc62"}
+  {:document/id "law/4721",
+   :document/title "Türk Medeni Kanunu",
+   :document/path "data/canonical/laws/4721-turk-medeni-kanunu",
+   :metadata/path "data/metadata/laws/4721-turk-medeni-kanunu.edn",
+   :document/sha256
+   "039b7412c826e2454809b115dec27852bb0f8737c67ce921d04fbb03da295251"}
+  {:document/id "law/2918",
+   :document/title "Karayolları Trafik Kanunu",
+   :document/path "data/canonical/laws/2918-karayollari-trafik-kanunu",
+   :metadata/path
+   "data/metadata/laws/2918-karayollari-trafik-kanunu.edn",
+   :document/sha256
+   "1ed45e5b5f85863caafd724c9cece13dea4aa6a65ecd2668215b5376085c1885"}
+  {:document/id "decree/khk-703",
+   :document/title
+   "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+   :document/path
+   "data/canonical/decrees/khk-703-anayasada-yapilan-degisikliklere-uyum-saglanmasi-amaciyla-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+   :metadata/path
+   "data/metadata/decrees/khk-703-anayasada-yapilan-degisikliklere-uyum-saglanmasi-amaciyla-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname.edn",
+   :document/sha256
+   "4cff7a3026ffda369d27fece71b37bf00df83daa452f3a8543cdd4ea9a9ead28"}
+  {:document/id "decree/khk-700",
+   :document/title
+   "Anayasada Yapılan Değişikliklere Uyum Sağlanması Amacıyla Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname",
+   :document/path
+   "data/canonical/decrees/khk-700-anayasada-yapilan-degisikliklere-uyum-saglanmasi-amaciyla-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+   :metadata/path
+   "data/metadata/decrees/khk-700-anayasada-yapilan-degisikliklere-uyum-saglanmasi-amaciyla-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname.edn",
+   :document/sha256
+   "dbb6a950987d30a4f8f41445ae11644945ca954b7cb2a020d04ec5af0547f5ac"}
+  {:document/id "decree/cbk-177",
+   :document/title
+   "Siber Güvenlik Başkanlığı Hakkında Cumhurbaşkanlığı Kararnamesi",
+   :document/path
+   "data/canonical/decrees/cbk-177-siber-guvenlik-baskanligi-hakkinda-cumhurbaskanligi-kararnamesi",
+   :metadata/path
+   "data/metadata/decrees/cbk-177-siber-guvenlik-baskanligi-hakkinda-cumhurbaskanligi-kararnamesi.edn",
+   :document/sha256
+   "1b357452ffe869928a2db9fa47893c623d3b4687d971e082af1a4ac129605ab5"}
+  {:document/id "decree/cbk-172",
+   :document/title
+   "Nüfus Politikaları Kurulu Hakkında Cumhurbaşkanlığı Kararnamesi",
+   :document/path
+   "data/canonical/decrees/cbk-172-nufus-politikalari-kurulu-hakkinda-cumhurbaskanligi-kararnamesi",
+   :metadata/path
+   "data/metadata/decrees/cbk-172-nufus-politikalari-kurulu-hakkinda-cumhurbaskanligi-kararnamesi.edn",
+   :document/sha256
+   "33c0b2420466fcbef1cdabbd90ab93ea32d57383099235ace60b841fdf668995"}]}

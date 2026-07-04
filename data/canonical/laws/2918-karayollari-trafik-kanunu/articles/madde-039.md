@@ -1,6 +1,6 @@
 # MADDE 39
 
-(Değişik: 12/7/2013-6495/16 md.)37
+(Değişik: 12/7/2013-6495/16 md.)38
 Sürücü belgesi sahiplerinin, sürücü belgelerinin sınıfına göre sürmeye yetkili oldukları
 araçlar ile Türk vatandaşlarının ve yabancıların dış ülkelerden aldıkları sürücü belgelerinin
 ülkemiz sürücü belgeleri ile değiştirilmesine ve dış ülkelerden aldıkları sürücü belgeleriyle

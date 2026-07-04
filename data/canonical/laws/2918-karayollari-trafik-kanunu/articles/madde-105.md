@@ -13,7 +13,7 @@ Motorlu araçlar için yapılacak sigortalarda en az sigorta tutarları zorunlu 
 sigortasındaki tutarlardan az olamaz. Bu Kanunun zarar görenin doğrudan doğruya sigortacıyı
 dava edebilmesine ilişkin 97 nci maddesi hükümleri ile zarar görenlerin birden çok olması
 
-77 12/2/2026 tarihli ve 7574 sayılı Kanunun 28 inci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
+78 12/2/2026 tarihli ve 7574 sayılı Kanunun 28 inci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
 üzere bu maddede değişiklikler yapılmıştır. Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat
 Bilgi Sistemine işlenecek olup mezkur düzenlemeyi görmek için 27/2/2026 tarihli ve 33181 sayılı
 Resmî Gazete’ye bakınız.

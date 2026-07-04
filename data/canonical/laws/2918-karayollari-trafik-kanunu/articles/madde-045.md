@@ -1,4 +1,4 @@
-# MADDE 45 — Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:39
+# MADDE 45 — Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:40
 
 (Değişik: 12/7/2013-6495/19 md.)
 Sürücü belgesi sahibi kişide sağlığı bakımından sürücülüğe engel aşikar bir değişikliğin
