@@ -1,23 +1,23 @@
-# MADDE 65 — Yüklü ve yüksüz araçlar:48
+# MADDE 65 — Yüklü ve yüksüz araçlar:49
 
 (Değişik: 25/6/2010-6001/36 md.)
-Yüklü ve yüksüz araçlarda, yönetmeliklerle belirlenen ölçü ve esaslara aykırı olarak;49
+Yüklü ve yüksüz araçlarda, yönetmeliklerle belirlenen ölçü ve esaslara aykırı olarak;50
 a) Taşıma sınırı üstünde yolcu alınması,
 b) Azami yüklü ağırlığın veya izin verilen azami yüklü ağırlığın aşılması,
 c) (b) bendindeki ağırlıklar aşılmamış olsa bile azami dingil ağırlıkları aşılacak şekilde
 yüklenmesi,
 d) Karayolu yapısı ve kapasitesi ile trafik güvenliği bakımından tehlikeli olabilecek
 tarzda yükleme yapılması,
-e) Tehlikeli ve zararlı maddelerin gerekli izin ve tedbirler alınmadan taşınması,
-f) Ağırlık ve boyutları bakımından taşınması özel izne bağlı olan yükün izin alınmadan ya
-da izin belgesinde belirtilen şartlar sağlanmadan taşınması ve taşıttırılması,49
 
-48 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu madde başlığı “Araçların
+49 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu madde başlığı “Araçların
 yüklenmesi:” iken metne işlendiği şekilde değiştirilmiştir.
-49 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “Araçların
+50 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “Araçların
 yüklenmesinde” ibaresi “Yüklü ve yüksüz araçlarda” şeklinde ve fıkranın (f) bendinde yer alan
 “eşyanın izin alınmadan yüklenmesi,” ibaresi “yükün izin alınmadan ya da izin belgesinde belirtilen
 şartlar sağlanmadan” şeklinde değiştirilmiştir.
+e) Tehlikeli ve zararlı maddelerin gerekli izin ve tedbirler alınmadan taşınması,
+f) Ağırlık ve boyutları bakımından taşınması özel izne bağlı olan yükün izin alınmadan ya
+da izin belgesinde belirtilen şartlar sağlanmadan taşınması ve taşıttırılması,50
 g) Gabari dışı yük yüklenmesi, taşınan yük üzerine veya araç dışına yolcu bindirilmesi,
 h) (Değişik:12/2/2026-7574/18 md.) Yükün uygun bağlama ve sabitleme yapılmayarak
 karayoluna değecek, düşecek, dökülecek, saçılacak, sızacak, akacak, kayacak, gürültü çıkaracak,
@@ -60,14 +60,14 @@ Azami yüklü ağırlığın % 20’den fazla aşılması halinde fazla yük, bi
 bendine uygun hale getirilmeden yola devam etmesine izin verilmez.
 Milletlerarası taşımalarda yabancı plakalı araçların birinci fıkraya uymayan işleten ve
 gönderenlerine verilen idari para cezaları tahsil olunmadan anılan araçların ülkeyi terk etmelerine
-izin verilmez.50
+izin verilmez.51
 İşleten ile gönderenin aynı olması halinde birinci fıkraya uymayan işletene idari para
-cezası uygulanır.5152
-Gönderenin birden fazla olması (…)53 halinde birinci fıkraya uymayan işleten ve
-gönderen için uygulanacak idarî para cezalarının toplamı işletene uygulanır.54
+cezası uygulanır.5253
+Gönderenin birden fazla olması (…)54 halinde birinci fıkraya uymayan işleten ve
+gönderen için uygulanacak idarî para cezalarının toplamı işletene uygulanır.55
 Araçların yüklenmesine ilişkin ölçü ve usuller, ağırlık, boyut ve yükleme kontrolü usul
 ve esasları ile tartı toleransları Ulaştırma ve Altyapı Bakanlığı tarafından yönetmelikle
-belirlenir.55
+belirlenir.56
 Uluslararası yük ve yolcu taşımacılığına ilişkin konularda ikili ve çok taraflı anlaşma
 hükümleri saklıdır.
 Tarım alanlarına yapılacak yük ve yolcu taşımacılığına ilişkin esas ve usuller yönetmelikte
