@@ -1,4 +1,4 @@
-# MADDE 42 — Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:38
+# MADDE 42 — Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:39
 
 (Değişik: 12/7/2013-6495/18 md.)
 Sürücü kurslarında teorik eğitimini tamamlayan sürücü adaylarının teorik sınavları
@@ -17,11 +17,11 @@ sürücüsü ihtiyacını karşılamak üzere belirli eğitim programları çer�
 belirtilen esas ve şartlara uygun olarak, illerde valinin onayı, merkez teşkilatı için Emniyet
 Genel Müdürünün onayı ile Emniyet Genel Müdürlüğü personeline ve Emniyet Genel
 Müdürlüğüne bağlı eğitim ve öğretim kurumlarında öğrenim görenlere sürücü belgesine
+
+39 Bu madde başlığı “Sürücülerin sınavları ve sürücü belgelerinin verilmesi esasları:” iken, 12/7/2013
+tarihli ve 6495 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 dönüştürülmek üzere motorlu taşıt sürücüsü sertifikası verilir. Bunların sınavları, nitelikleri
 Emniyet Genel Müdürlüğünce belirlenen sınav sorumluları tarafından yapılır.
-
-38 Bu madde başlığı “Sürücülerin sınavları ve sürücü belgelerinin verilmesi esasları:” iken, 12/7/2013
-tarihli ve 6495 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (Değişik fıkra:6/12/2019-7196/41 md.) Jandarma teşkilatının motorlu araç sürücüsü
 ihtiyacını karşılamak üzere belirli eğitim programları çerçevesinde ve yönetmelikte belirtilen
 esas ve şartlara uygun olarak, illerde valinin onayı, merkez teşkilatı için Jandarma Genel

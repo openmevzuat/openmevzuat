@@ -1,4 +1,4 @@
-# MADDE 77 — Çocuk, hasta ve engelli taşıtları, gözleri görmeyen yayalar, yürüyüş kolları:66
+# MADDE 77 — Çocuk, hasta ve engelli taşıtları, gözleri görmeyen yayalar, yürüyüş kolları:67
 
 Bu Kanun açısından;
 a) Çocuk, hasta ve engellilere ait motorsuz taşıtların sürücülerine, yayalarla ilgili

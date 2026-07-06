@@ -1,4 +1,4 @@
-# MADDE 51 — Hız sınırlarına uyma zorunluluğu:45
+# MADDE 51 — Hız sınırlarına uyma zorunluluğu:46
 
 (Değişik:12/2/2026-7574/14 md.)
 Sürücüler, aksine bir karar alınıp işaretlenmemişse yönetmelikte belirtilen hız
@@ -27,13 +27,13 @@ b) Yerleşim yeri dışında;
 9) 71 km/s ve daha fazla aşanlara 30.000 Türk lirası,
 idari para cezası verilir.
 Sürücüler tarafından bu maddenin ikinci fıkrasının (a) bendinin;
+
+46 18/10/2018 tarihli ve 7148 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “Hız sınırlarına
+uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 a) (7) numaralı alt bendinin ihlali halinde her seferinde 30 gün,
 b) (8) numaralı alt bendinin ihlali halinde her seferinde 60 gün,
 c) (9) numaralı alt bendinin ihlali halinde ise her seferinde 90 gün,
 süre ile sürücülerin sürücü belgeleri geri alınır.
-
-45 18/10/2018 tarihli ve 7148 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “Hız sınırlarına
-uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 Sürücüler tarafından bu maddenin ikinci fıkrasının (b) bendinin;
 a) (7) numaralı alt bendinin ihlali halinde her seferinde 30 gün,
 b) (8) numaralı alt bendinin ihlali halinde her seferinde 60 gün,

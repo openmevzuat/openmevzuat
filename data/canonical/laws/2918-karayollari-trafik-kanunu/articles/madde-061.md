@@ -20,7 +20,7 @@ l) Park etmek için tespit edilen süre ve şeklin dışında,
 m) Belirli kişi, kurum ve kuruluşlara ait araçlara, yönetmelikteki esaslara göre ayrılmış
 ve bir işaret levhası ile belirlenmiş park yerlerinde,
 n) Ayrıca yönetmelikte belirtilen haller dışında yaya yollarda,
-o) (Ek: 1/7/2005-5378/31 md.) Engellilerin araçları için ayrılmış park yerlerinde,47
+o) (Ek: 1/7/2005-5378/31 md.) Engellilerin araçları için ayrılmış park yerlerinde,48
 Park etmek yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar. (Ek cümle: 1/7/2005-5378/31 md.) (o) bendinin ihlâli hâlinde
