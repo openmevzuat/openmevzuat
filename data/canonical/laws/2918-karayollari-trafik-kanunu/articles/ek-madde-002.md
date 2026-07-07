@@ -18,7 +18,7 @@ alınır. (Ek cümleler:12/2/2026-7574/32 md.) Son ihlalin gerçekleştiği tari
 bir yıl içerisinde bu fıkranın tekrar ihlal edilmesi hâlinde idari para cezaları iki kat olarak
 uygulanır. Sürücü belgesi geri alma işlemleri bu Kanunun 6 ncı maddesinde sayılan görevliler
 tarafından yapılır. Bu şekilde geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun
-kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır.87
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır.88
 İşleteni veya sahibi, sürücüsünün kendisi olup olmadığına bakılmaksızın aracın bu
 maddenin üçüncü fıkrasına aykırı olarak kullanılmaması hususunda gerekli tedbirleri almak
 ve denetimini yapmakla yükümlüdür. Araç, bu maddenin üçüncü fıkrasının;
@@ -32,7 +32,7 @@ süreyle trafikten menedilir.
 menedilir.
 Ayırıcı işareti bulunmayan üçüncü fıkra kapsamındaki araçlardan taşımacılık hizmeti
 
-87 12/2/2026 tarihli ve 7574 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “5.010” ibaresi
+88 12/2/2026 tarihli ve 7574 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “5.010” ibaresi
 “100.000” şeklinde, “2.018” ibaresi “46.000” şeklinde, “1.002” ibaresi “20.000” şeklinde
 değiştirilmiştir.
 alanlara da 334 Türk lirası idari para cezası uygulanır.

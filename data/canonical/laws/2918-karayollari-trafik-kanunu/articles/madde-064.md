@@ -2,12 +2,12 @@
 
 Araçların sürülmesi sırasındaki zorunluluk ve yasaklar aşağıda gösterilmiştir.
 a) Zorunluluklar:
+
+48 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlülerin”
+ibaresi “Engellilerin” şeklinde değiştirilmiştir.
 1. (Değişik: 17/10/1996-4199 - 24 md.) Yerleşim birimleri dışındaki karayollarında
 geceleri seyrederken, yeterince aydınlatılmamış tünellere girerken, benzeri yer ve hallerde
 uzağı gösteren ışıkların yakılması,
-
-47 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlülerin”
-ibaresi “Engellilerin” şeklinde değiştirilmiştir.
 2. (Değişik: 17/10/1996-4199 - 24 md.) Geceleri, yerleşim birimleri dışında
 karayollarındaki karşılaşmalarda, bir aracı takip ederken, bir aracı geçerken yan yana
 gelinceye kadar ve yerleşim birimleri içinde, gündüzleri ise görüşü azaltan sisli, yağışlı ve
