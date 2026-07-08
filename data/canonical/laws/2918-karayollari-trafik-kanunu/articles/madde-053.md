@@ -37,7 +37,7 @@ uymakla birlikte, orta ada etrafında dönerken gireceği yola yaklaşıncaya ka
 muhafaza etmeye de zorunludurlar.
 Sağa ve sola dönüşlerde, sürücüler kurallara uygun olarak geçiş yapan yayalara, varsa
 bisiklet yolundaki ve bisiklet şeridindeki bisiklet ve elektrikli skuter kullananlara ve sola
-dönüşlerde sağdan ve karşıdan gelen trafiğe ilk geçiş hakkını vermek zorundadırlar.46
+dönüşlerde sağdan ve karşıdan gelen trafiğe ilk geçiş hakkını vermek zorundadırlar.47
 Gidişe ayrılmış birden fazla şeridi bulunan yollarda, en sağdaki veya soldaki şerit
 işaretlenmek suretiyle sadece dönüşlere ayrılabilir, ayrılmış bu şeritlere bitişik diğer
 şeritlerden de işaretlenmek suretiyle sağa veya sola dönüşlerde izin verilebilir.

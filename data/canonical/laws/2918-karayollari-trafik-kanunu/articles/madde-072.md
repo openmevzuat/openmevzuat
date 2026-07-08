@@ -11,9 +11,9 @@ Bu fıkra hükümlerine uymayanlara 21.000 Türk lirası idari para cezası uygu
 araçlar otuz gün süreyle trafikten menedilir.
 Kanun ve yönetmelikte belirtilen şartlara uymayan ses, müzik, görüntü ve haberleşme
 
-64 19/4/2018 tarihli ve 7139 sayılı Kanunun 25 inci maddesiyle, bu maddenin birinci fıkrasının (b)
+65 19/4/2018 tarihli ve 7139 sayılı Kanunun 25 inci maddesiyle, bu maddenin birinci fıkrasının (b)
 bendine “orman yangınlarıyla mücadele eden araçlar,” ibaresi eklenmiştir.
-65 12/2/2026 tarihli ve 7574 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “gereksiz geçiş
+66 12/2/2026 tarihli ve 7574 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “gereksiz geçiş
 üstünlüğü hakkını kullanan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar” ibaresi “geçiş
 üstünlüğü hakkını kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır” şeklinde
 değiştirilmiştir.

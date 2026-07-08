@@ -4,10 +4,10 @@
 Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş ve işlemler, bu
 Kanunun 131 inci maddesi hükümleri saklı kalmak üzere, Türkiye Noterler Birliği koordinesinde
 
-88 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
+89 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
 cümlesinde yer alan “Belediyelerce” ibaresinden sonra gelmek üzere “veya sermayesinin tamamı
 belediyelere ait şirketler tarafından” ibaresi eklenmiştir.
-89 Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2025/28, K.: 2025/139 sayılı Kararı ile bu fıkrada
+90 Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2025/28, K.: 2025/139 sayılı Kararı ile bu fıkrada
 yer alan “sürücü belgelerinin iptal edilme” ibaresi iptal edilmiştir. Bu değişiklik yayımlanmasından
 başlayarak dokuz ay sonra (2/9/2026) tarihinde yürürlüğe girer.
 noterliklere devredilebilir. Bu durumda;
@@ -15,7 +15,7 @@ a) Araç tescil işlemlerine ilişkin olarak noterliklere devredilen iş ve işl
 mevzuatta Emniyet birimlerine yapılmış olan atıflar, noterliklere yapılmış sayılır.
 b) Araç sicil ve tescil sistemi veri tabanı Türkiye Noterler Birliğince tutulur ve bu
 kuruluşça yönetimi ve güvenliği sağlanır. Veri tabanında yer alan bilgiler anlık olarak Emniyet
-Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.90
+Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.91
 c) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret, araç tescil
 hizmetlerine ilişkin iş ve işlemler ile bu maddenin uygulanmasına ilişkin usul ve esaslar;
 Bilim, Sanayi ve Teknoloji Bakanlığı, Maliye Bakanlığı ve Ulaştırma, Denizcilik ve
