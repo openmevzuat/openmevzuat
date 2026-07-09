@@ -4,11 +4,8 @@
 Uyuşturucu veya uyarıcı maddeleri almış olan sürücüler ile alkollü olan sürücülerin
 karayolunda araç sürmeleri yasaktır.
 Uyuşturucu veya uyarıcı maddelerin kullanılıp kullanılmadığı ya da alkolün kandaki
-miktarını tespit amacıyla, kollukça teknik cihazlar/test kitleri kullanılır.42
+miktarını tespit amacıyla, kollukça teknik cihazlar/test kitleri kullanılır.43
 Kişinin yaralanmalı veya ölümlü ya da kollukça müdahil olunan maddi hasarlı trafik
-
-42 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazlar”
-ibaresi “teknik cihazlar/test kitleri” şeklinde değiştirilmiştir.
 kazasına karışması hâlinde, ikinci fıkrada belirtilen muayeneye tabi tutulması zorunludur.
 Teknik cihaz ile yapılan ölçüme itiraz eden veya bu cihaz ile ölçüm yapılmasına müsaade
 etmeyen bu sürücüler, en yakın adli tıp kurumuna veya adli tabipliğe veya Sağlık Bakanlığına
@@ -28,7 +25,7 @@ itibaren geriye doğru beş yıl içinde; ikinci defasında 50.000 Türk lirası
 ve sürücü belgeleri iki yıl süreyle, üç veya üçten fazlasında ise, 150.000 Türk lirası idari para
 cezası verilir ve sürücü belgeleri her seferinde beşer yıl süreyle geri alınır. Sürücü belgelerinin
 herhangi bir nedenle geçici olarak geri alınmış olması hâlinde belirtilen süreler, geçici alma
-süresinin bitiminde başlar.43
+süresinin bitiminde başlar.44
 Yapılan tespit sonucunda, 1.00 promilin üzerinde alkollü olduğu tespit edilen sürücüler
 hakkında ayrıca Türk Ceza Kanununun 179 uncu maddesinin üçüncü fıkrası hükümleri uygulanır.
 Hususi otomobil sürücüleri bakımından 0.50 promilin, diğer araç sürücüleri bakımından
@@ -42,14 +39,16 @@ kurslarına devam etmeleri ve yapılan sınavlarda başarılı olarak motorlu ta
 sertifikası almaları gerekir. Bu kişilerin sürücü kurslarında eğitime başlayabilmeleri için;
 belgenin iptal edildiği tarihten itibaren en az beş yıl geçmiş olması, bu Kanun kapsamında
 verilen idari para cezalarının tamamının tahsil edilmiş olması, sürücülerin psiko-teknik
+
+43 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazlar”
+ibaresi “teknik cihazlar/test kitleri” şeklinde değiştirilmiştir.
+44 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “700 Türk Lirası”
+ibaresi “25.000 Türk lirası” şeklinde, “877 Türk Lirası” ibaresi “50.000 Türk lirası” şeklinde,
+“1.407 Türk Lirası” ibaresi “150.000 Türk lirası” şeklinde değiştirilmiştir.
 değerlendirmeden geçmesi ve resmî sağlık kurumlarından sürücülüğe engel hâli
 bulunmadığını gösteren sağlık kurulu raporunun sürücü kursuna ibrazı zorunludur.
 (Değişik dokuzuncu fıkra:12/2/2026-7574/12 md.) Uyuşturucu veya uyarıcı
 maddelerin kullanılıp kullanılmadığının ya da alkolün kandaki miktarının kolluk tarafından
-
-43 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “700 Türk Lirası”
-ibaresi “25.000 Türk lirası” şeklinde, “877 Türk Lirası” ibaresi “50.000 Türk lirası” şeklinde,
-“1.407 Türk Lirası” ibaresi “150.000 Türk lirası” şeklinde değiştirilmiştir.
 tespit edilmesi için ölçüm yaptırmayan sürücülere 150.000 Türk lirası idari para cezası verilir
 ve sürücü belgesi beş yıl süreyle geri alınır.
 Sürücünün uyuşturucu veya uyarıcı madde kullandığından şüphe edilmesi hâlinde
@@ -78,6 +77,6 @@ kurumlarından sürücülüğe engel hâli bulunmadığını gösteren sağlık 
 kursuna ibrazı zorunludur.
 Alkol, uyuşturucu veya uyarıcı maddelerin tespiti için kullanılacak teknik
 cihazların/test kitlerinin sahip olacağı asgari koşullar ile diğer usul ve esaslar yönetmelikte
-gösterilir.44
+gösterilir.45
 
 Taşıt kullanma sürelerine uyma zorunluluğu:

@@ -3,7 +3,7 @@
 Sigortacılar, hak sahibinin zorunlu mali sorumluluk sigortası genel
 şartlarıyla belirlenen belgeleri, sigortacının merkez veya kuruluşlarından birine ilettiği
 tarihten itibaren sekiz iş günü içinde zorunlu mali sorumluluk sigortası sınırları içinde kalan
-miktarları hak sahibine ödemek zorundadırlar.76
+miktarları hak sahibine ödemek zorundadırlar.77
 Ödemeyi yapan sigortacı, ödenen miktarın sorumluluk oranlarında paylaşılmasını
 diğer sigortacılardan yazılı olarak talep eder. Diğer sigortacılar talep tarihinden itibaren sekiz
 iş günü içinde kendilerine düşen miktarı talepte bulunana öder.

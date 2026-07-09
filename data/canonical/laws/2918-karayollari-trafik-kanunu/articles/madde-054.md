@@ -25,12 +25,12 @@ b) Geçmenin yasak olduğu yerler;
 1. Geçmenin herhangi bir trafik işaretiyle yasaklandığı yerlerde,
 2. Görüş yetersizliği olan tepelerde ve dönemeçlerde,
 3. Yaya ve okul geçitleri yaklaşımında,
+
+47 24/12/2020 tarihli ve 7261 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “bisikletlilere”
+ibaresi “ve bisiklet şeridindeki bisiklet ve elektrikli skuter kullananlara” şeklinde değiştirilmiştir.
 4. Kavşaklarda, demiryolu geçitlerinde ve bunların yaklaşımında,
 5. Gidiş ve geliş için birer şeridi bulunan iki yönlü trafiğin kullanıldığı köprü ve tünellerde,
 Sürücülerin önlerindeki bir aracı geçmeleri yasaktır.
-
-46 24/12/2020 tarihli ve 7261 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “bisikletlilere”
-ibaresi “ve bisiklet şeridindeki bisiklet ve elektrikli skuter kullananlara” şeklinde değiştirilmiştir.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000
 lira para cezası ile cezalandırılırlar.
 

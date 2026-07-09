@@ -26,6 +26,6 @@ kusur oranı yönetmelikte belirtilen esaslara göre tespit edilir.
 SEKİZİNCİ KISIM
 Hukuki Sorumluluk ve Sigorta
 
-BİRİNCİ BÖLÜM69
+BİRİNCİ BÖLÜM70
 İşletenin Hukuki Sorumluluğu
-İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:69
+İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:70
