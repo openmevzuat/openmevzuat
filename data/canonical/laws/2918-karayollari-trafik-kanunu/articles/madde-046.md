@@ -17,12 +17,12 @@ kullanmamak,
 dışındaki şerit/şeritleri kullanmamak,
 f) (Ek:18/10/2018-7148/19 md.) Trafik kazası, arıza hâlleri, acil yardım, kurtarma,
 kar mücadelesi, kaza incelemesi, genel güvenlik ve asayişin sağlanması gibi durumlar dışında
-emniyet şeritlerini ve banketleri kullanmamak,
-g) (Ek:18/10/2018-7148/19 md.) Trafiği aksatacak veya tehlikeye sokacak şekilde
 
-39 12/7/2013 tarihli ve 6495 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “Sağlık şartlarında
+40 12/7/2013 tarihli ve 6495 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “Sağlık şartlarında
 sonradan meydana gelen değişiklikler ile sahte olan, hile ile alınan veya şartlarına uygun olmadan
 verilen sürücü belgeleri:” iken, metne işlendiği şekilde değiştirilmiştir.
+emniyet şeritlerini ve banketleri kullanmamak,
+g) (Ek:18/10/2018-7148/19 md.) Trafiği aksatacak veya tehlikeye sokacak şekilde
 ardı ardına birden fazla şerit değiştirmemek,
 h) (Ek:18/10/2018-7148/19 md.) Tekyönlü karayollarında araçlarını ters istikamette
 sürmemek
@@ -39,7 +39,7 @@ n) (Ek:12/2/2026-7574/10 md.) Araçlarını, kol veya grup halinde (konvoy şekl
 veya münferiden sürerken, diğer araçların geçişini zorlaştıracak veya tehlikeye sokacak
 şekilde keyfi hareketlerle trafiğin akışını kısmen veya tamamen engelleyecek şekilde
 araçlarını karayolu üzerinde durdurmamak,
-zorundadırlar.40
+zorundadırlar.41
 Karayollarının belirli kesimlerinde, bu yollardan faydalanma zorunda olan hayvan
 sürücüleri, hayvanlarını veya hayvan sürülerini gidiş yönünde yolun en sağından ve en az
 genişlik işgal ederek ve imkan olduğunda taşıt yolu dışından götürmek zorundadırlar.
@@ -58,11 +58,11 @@ hükümlerine uymayan sürücülerin sürücü belgeleri altmış gün süreyle 
 altmış gün süre ile trafikten menedilir. İkinci fıkranın (n) bendinin otoyol, köprü, viyadük
 veya tünelde ihlal edilmesi halinde verilecek idari para cezası ile sürücü belgesi geri alma ve
 araç trafikten men süreleri iki kat olarak uygulanır.
+
+41 12/2/2026 tarihli ve 7574 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Zorundadırlar”
+ibaresi “zorundadırlar” şeklinde değiştirilmiştir.
 (Ek fıkra:12/2/2026-7574/10 md.) Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
-
-40 12/2/2026 tarihli ve 7574 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Zorundadırlar”
-ibaresi “zorundadırlar” şeklinde değiştirilmiştir.
 tamamının tahsil edilmiş olması şarttır. Ayrıca ikinci fıkranın (j) bendi ile dördüncü fıkra
 hükümlerinin ihlali nedeniyle geri alınan sürücü belgeleri, geri alma süresi sonunda
 sürücünün psiko-teknik değerlendirmeden geçirilerek sürücü belgesi almasına mâni hâli

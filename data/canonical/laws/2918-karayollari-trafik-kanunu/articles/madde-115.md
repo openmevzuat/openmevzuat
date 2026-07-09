@@ -27,11 +27,11 @@ aracın ülkeyi terk etmesine izin verilmez. (İptal cümle: Anayasa Mahkemesini
 tarihli ve E.: 2022/45, K.: 2022/89 sayılı Kararı ile.) Bu fıkra ve dokuzuncu fıkra hükümlerinin
 uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığı, Hazine ve Maliye Bakanlığı, Ulaştırma
 ve Altyapı Bakanlığı ile Ticaret Bakanlığınca müştereken çıkarılan yönetmelikle belirlenir.
-Uluslararası sözleşme hükümleri saklıdır.83
+Uluslararası sözleşme hükümleri saklıdır.84
 
-82 12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Maliye
+83 12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Maliye
 Bakanlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değiştirilmiştir.
-83 12/2/2026 tarihli ve 7574 sayılı Kanunun 30 uncu maddesiyle bu fıkrada yer alan “Bu fıkra” ibaresi
+84 12/2/2026 tarihli ve 7574 sayılı Kanunun 30 uncu maddesiyle bu fıkrada yer alan “Bu fıkra” ibaresi
 “Bu fıkra ve dokuzuncu fıkra” şeklinde, “Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı ve Maliye
 (Ek fıkra:12/2/2026-7574/30 md.) Bu Kanunun ilgili maddelerinde belirtilen trafik
 kurallarına aykırılık nedeniyle; yabancı uyruklu kişiye uygulanan ve ülkemizden çıkışına

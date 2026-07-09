@@ -1,6 +1,6 @@
 # MADDE 41
 
-(Değişik: 12/7/2013-6495/17 md.)37
+(Değişik: 12/7/2013-6495/17 md.)38
 Sürücü belgesi alacakların;
 a) Yönetmelikte belirlenen yaş ve deneyim şartlarını taşımaları,
 b) Öğrenim durumu itibarıyla en az ilkokul düzeyinde eğitim almış olmaları,
@@ -12,6 +12,8 @@ e) Adli sicilinde, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 188, 
 inci maddeleri, 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun 4 üncü
 maddesinin yedinci fıkrası, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer
 Aletler Hakkında Kanunun 12 nci maddesinin ikinci ve takip eden fıkralarında belirtilen
+
+38 Bu maddenin uygulanması ile ilgili olarak Geçici 22 nci Maddeye bakınız.
 suçlardan hüküm giydiğine dair kayıt bulunmaması,
 f) Önceden verilmiş aynı sınıf bir başka sürücü belgesinin bulunmaması,
 g) Başka sınıf sürücü belgesi alabilmek için, daha önce verilmiş ancak geri alınmış

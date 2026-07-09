@@ -758,25 +758,27 @@ kimlik numarası ile yönetmelikte belirtilen bilgi ve belgeleri sağlamak,
 Zorundadırlar. (Ek cümle:12/2/2026-7574/2 md.) 22 nci maddenin ikinci fıkrası
 kapsamında yetkilendirilen kamu kurum veya kuruluşları ile gerçek veya özel hukuk tüzel
 kişilerinin satışını yaptığı ve ilk tescili elektronik ortamda gerçekleştirilecek araçlar için bu
-bentteki üç aylık süre uygulanmadan satış işlemi sonrasında üç iş günü içerisinde tescil işlemi
-gerçekleştirilir.
+bentteki üç aylık süre uygulanmadan satış işlemi sonrasında on beş iş günü içerisinde tescil
+işlemi gerçekleştirilir.18
 b) Araçların giriş işlemlerini yapan gümrük idareleri bu durumu 15 gün içinde araç
 sahiplerinin beyan ettikleri tescil kuruluşuna bildirmekle yükümlüdürler.
 c) Tescil belgesi, aracın başkasına satış veya devrine, hurdaya çıkarılmasına veya
 araçta, yönetmelikte belirtilen niteliklerin değişmesine kadar geçerli sayılır.
-d ) (Değişik: 24/12/2009-5942/1 md.) Tescil edilmiş araçların her çeşit satış ve
-devirleri, satış ve devri yapılacak araçtan dolayı motorlu taşıtlar vergisi, gecikme faizi, gecikme
-zammı, vergi cezası ve trafik idari para cezası borcu bulunmadığının tespit edilmesi ve taşıt
-üzerinde satış ve/veya devri kısıtlayıcı herhangi bir tedbir veya kayıt bulunmaması halinde, araç
-sahibi adına düzenlenmiş tescil belgesi veya trafik tescil kayıtları esas alınarak noterler
-tarafından yapılır. Noterler tarafından yapılmayan her çeşit satış ve devirler geçersizdir.
+d) (Değişik: 24/12/2009-5942/1 md.) Tescil edilmiş araçların her çeşit satış ve devirleri,
+satış ve devri yapılacak araçtan dolayı motorlu taşıtlar vergisi, gecikme faizi, gecikme zammı,
+vergi cezası ve trafik idari para cezası borcu bulunmadığının tespit edilmesi ve taşıt üzerinde
+satış ve/veya devri kısıtlayıcı herhangi bir tedbir veya kayıt bulunmaması halinde, araç sahibi
+adına düzenlenmiş tescil belgesi veya trafik tescil kayıtları esas alınarak noterler tarafından
+yapılır. Noterler tarafından yapılmayan her çeşit satış ve devirler geçersizdir.
 Satış ve devir işlemi, siciline işlenmek üzere üç işgünü içerisinde ilgili trafik tescil
-kuruluşu ile vergi dairesine bildirilir. Bu bildirimle birlikte alıcı adına trafik tescil işlemi
-gerçekleşmiş sayılır. Satış ve devir tarihi itibariyle, 197 sayılı Motorlu Taşıtlar Vergisi
 
 17 Bu madde başlığı “Tescil süresi ve bildirme mecburiyeti, satış ve devirler ile noterlerin
 sorumluluğu:” iken, 24/12/2009 tarihli ve 5942 sayılı Kanunun 1 inci maddesiyle 1/5/2010 tarihinden
 geçerli olmak üzere metne işlendiği şekilde değiştirilmiştir.
+18 24/6/2026 tarihli ve 7587 sayılı kanunun 16 ncı maddesiyle bu bentte yer alan “üç iş günü” ibaresi
+“on beş iş günü” şeklinde değiştirilmiştir.
+kuruluşu ile vergi dairesine bildirilir. Bu bildirimle birlikte alıcı adına trafik tescil işlemi
+gerçekleşmiş sayılır. Satış ve devir tarihi itibariyle, 197 sayılı Motorlu Taşıtlar Vergisi
 Kanunu hükümleri uyarınca eski malikin vergi mükellefiyeti sona erer, yeni malikin vergi
 mükellefiyeti başlar.
 Yapılan satış ve devir işlemi üzerine noterler tarafından yeni malik adına bir ay
@@ -787,7 +789,7 @@ yaptırmaya ve bu konuda yükümlülük getirmeye, elektronik bildirmelere iliş
 esasları belirlemeye Gelir İdaresi Başkanlığı ve Emniyet Genel Müdürlüğü yetkili olup, bu
 kurumlar satış, devir ve tescile ilişkin işlemlerin gerçekleştirilmesi için gerekli elektronik veri
 akışını sağlarlar. Satış ve devir işlemlerini yapanlar, bu işlemler sırasında edindikleri bilgileri
-ifşa ettikleri takdirde Türk Ceza Kanununun 239 uncu maddesi uyarınca cezalandırılırlar.18
+ifşa ettikleri takdirde Türk Ceza Kanununun 239 uncu maddesi uyarınca cezalandırılırlar.19
 Satış ve devir işlemlerinin bildiriminden itibaren bir aylık süre içerisinde ilgili trafik
 tescil kuruluşu veya Emniyet Genel Müdürlüğünün uygun gördüğü kamu kurum veya
 kuruluşları tarafından yeni malik adına tescil belgesi düzenlenerek elden veya posta
@@ -798,7 +800,7 @@ vergisi ve değerli kağıt bedellerinden istisnadır. Trafik tescil kuruluşund
 yapılacak tescil nedeniyle düzenlenmesi gereken değerli kağıtların bedelleri, satış ve devir
 esnasında noterler tarafından tahsil edilir ve 1512 sayılı Noterlik Kanununun 119 uncu
 maddesi uyarınca beyan edilerek ödenir. Bu bentte yer alan işlemler sebebiyle noterlere
-herhangi bir pay veya aidat ödenmez.19
+herhangi bir pay veya aidat ödenmez.20
 1512 sayılı Kanunun 112 nci maddesi uyarınca belirlenen ücret uygulanmaksızın satış
 ve devre ilişkin her türlü işlem karşılığında toplam 20 Türk Lirası maktu ücret alınır. Söz
 konusu ücret, her takvim yılı başından geçerli olmak üzere önceki yılda uygulanan ücret
@@ -809,16 +811,16 @@ dairesi müdürlükleri, milli emlak müdürlükleri ile diğer yetkili kamu kur
 tarafından satışı yapılan araçların satış tutanağının bir örneği aracın kayıtlı olduğu trafik tescil
 kuruluşlarına üç işgünü içerisinde gönderilir. Aracı satın alanlar gerekli bilgi ve belgeleri
 sağlayarak ilgili trafik tescil kuruluşundan bir ay içerisinde adlarına tescil belgesi almak
-zorundadırlar. Alıcıların tescil belgesi almak için süresinde başvurmamaları halinde bu
-araçları alıcıları adına re’sen kayıt ve tescil ettirmeye Emniyet Genel Müdürlüğü yetkilidir.
 
-18 Bu maddenin (d) bendi 24/12/2009 tarihli ve 5942 sayılı Kanunun 1 inci maddesiyle değiştirilmiş
+19 Bu maddenin (d) bendi 24/12/2009 tarihli ve 5942 sayılı Kanunun 1 inci maddesiyle değiştirilmiş
 olup bu değişikliğin yürürlük tarihi aynı Kanunun 3 üncü maddesiyle 1/5/2010 olarak tespit edilmiştir.
 Ancak mezkur maddeyle dördüncü paragrafın 31/12/2009 tarihinde yürürlüğe gireceği hüküm altına
 alınmıştır.
-19 4/12/2025 tarihli ve 7566 sayılı Kanunun 13 ncü maddesiyle bu paragrafta yer alan “Bu bentte
+20 4/12/2025 tarihli ve 7566 sayılı Kanunun 13 ncü maddesiyle bu paragrafta yer alan “Bu bentte
 düzenlenen satış ve devir işlemleri her türlü harçtan, bu işlemlere” ibaresi “Bu bentte düzenlenen
 satış ve devir işlemlerine” şeklinde değiştirilmiştir.
+zorundadırlar. Alıcıların tescil belgesi almak için süresinde başvurmamaları halinde bu
+araçları alıcıları adına re’sen kayıt ve tescil ettirmeye Emniyet Genel Müdürlüğü yetkilidir.
 Bu bendin uygulanmasına ilişkin usul ve esasları belirlemeye İçişleri ve Maliye
 Bakanlıkları yetkilidir.
 e) (Değişik: 24/12/2009-5942/1 md.) Araç satın alıp, bu maddenin birinci fıkrasının (a)
@@ -835,7 +837,7 @@ sonunda mirasçılar adına tescil edilmeden karayoluna çıkarıldığının te
 trafikten menedilir.
 
 Tescil belgesi ve tescil plakası alma zorunluluğu ile hurdaya ayrılan ve trafikten
-çekilen araçlar:202122
+çekilen araçlar:212223
 
 MADDE 21
 
@@ -844,30 +846,30 @@ karayollarına çıkarılamaz. (Ek cümle: 13/2/2011-6111/56 md.) Ancak, ilk tes
 araçlar için düzenlenen tescile ilişkin geçici belgelerin geçerlilik süresi içinde, tescil belgesi
 alma zorunluluğu aranmaz.
 (Değişik:18/10/2018-7148/15 md.) Birinci fıkra hükmüne uymayan sürücüler 46.000
-Türk lirası idari para cezası ile cezalandırılırlar.23
+Türk lirası idari para cezası ile cezalandırılırlar.24
 (Değişik:18/10/2018-7148/15 md.) Birinci fıkra hükmüne aykırılığı tespit edilen
 araçlar eksiklikleri giderilinceye kadar trafikten menedilir. (Ek cümle:12/2/2026-7574/3 md.)
 Aykırılığı tespit edilen araç trafikten çekilmiş ise trafikten çekme tarihi itibarıyla trafik tescil
 kaydı açılır ve ilgili vergi dairesine bildirilir.
 Tescil belgesi geçersiz duruma gelince sürekli olarak, üzerinde eksik veya yanlış bilgi
-bulunması halinde geçici olarak trafik zabıtasınca geri alınır.
-(Ek:18/10/2018-7148/15 md.) Hurdaya çıkarılmış araçların karayolunda sürülmesi
 
-20 2/1/2017 tarihli ve 680 Sayılı KHK’nin 51 inci maddesi ile bu maddenin başlığında yer alan “Trafik
+21 2/1/2017 tarihli ve 680 Sayılı KHK’nin 51 inci maddesi ile bu maddenin başlığında yer alan “Trafik
 belgesi” ibaresi “Tescil belgesi” şeklinde, birinci fıkrasının birinci cümlesinde yer alan “Trafik
 Belgesi” ibaresi “Tescil Belgesi” şeklinde, aynı fıkranın ikinci cümlesinde yer alan “trafik belgesi”
 ibaresi “tescil belgesi” şeklinde ve dördüncü fıkrasında yer alan “Trafik belgesi, tescil” ibaresi
 “Tescil” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 50 nci
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
-21 18/10/2018 tarihli ve 7148 sayılı Kanunun 15 inci maddesiyle madde başlığı “Tescil belgesi ve
+22 18/10/2018 tarihli ve 7148 sayılı Kanunun 15 inci maddesiyle madde başlığı “Tescil belgesi ve
 tescil plakası alma zorunluluğu” iken metne işlendiği şekilde değiştirilmiştir.
-22 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu madde başlığına “hurdaya ayrılan”
+23 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu madde başlığına “hurdaya ayrılan”
 ibaresinden sonra gelmek üzere “ve trafikten çekilen” ibaresi eklenmiştir.
-23 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “1.002” ibaresi
+24 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “1.002” ibaresi
 “46.000” şeklinde değiştirilmiştir.
+bulunması halinde geçici olarak trafik zabıtasınca geri alınır.
+(Ek:18/10/2018-7148/15 md.) Hurdaya çıkarılmış araçların karayolunda sürülmesi
 yasaktır. Bu araçların karayolunda sürüldüğünün tespiti hâlinde sürücüsüne 46.000 Türk lirası
 idari para cezası verilir ve bu araçlar trafikten menedilir. Ayrıca mülki amir tarafından el
-konulur ve aracın mülkiyeti kamuya geçer.24
+konulur ve aracın mülkiyeti kamuya geçer.25
 (Ek:18/10/2018-7148/15 md.) Araçların hurdaya çıkarılmasına dair usul ve esaslar
 Yönetmelikte belirlenir.
 
@@ -903,11 +905,11 @@ ilişkin geçici belgeyi basmak ve araç sahibine vermek üzere kamu kurum veya 
 gerçek veya özel hukuk tüzel kişilerini yetkilendirebilir. Yetkilendirilen bu gerçek veya özel
 hukuk tüzel kişileri, yapacakları işlemleri aralarında düzenleyecekleri protokol çerçevesinde
 başka gerçek veya özel hukuk tüzel kişilerine de yaptırabilirler. Araca ait kişiselleştirilen
+
+25 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “2.018” ibaresi
+“46.000” şeklinde değiştirilmiştir.
 belgelerin basımı ve ilgililerine elden veya posta yoluyla teslimi, Emniyet Genel Müdürlüğü
 tarafından belirlenen kamu kurum veya kuruluşları ile özel hukuk tüzel kişilerine de
-
-24 12/2/2026 tarihli ve 7574 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “2.018” ibaresi
-“46.000” şeklinde değiştirilmiştir.
 yaptırılabilir. Bu işlemlerin yapılmasına dair usûl ve esaslar yönetmelikte belirlenir.
 (Ek fıkra: 13/2/2011-6111/57 md.) Tescil belgesinin bir ay içinde teslim edilememesi
 hâlinde, buna ilişkin olarak araç sahibine sorumluluk yüklenemez.
@@ -965,7 +967,7 @@ ncı maddesinde sayılan görevliler tarafından yapılır. Bu madde kapsamında
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
 tamamının tahsil edilmiş olması şarttır.
 
-MADDE 24 — Araç muayene raporu:25
+MADDE 24 — Araç muayene raporu:26
 
 (Değişik: 2/1/2017 – KHK-680/53 md.; Aynen kabul: 1/2/2018-
 7072/52 md.)
@@ -989,13 +991,13 @@ araçlara geçici tescil plakası verilmesi şartları ile diğer esaslar yönet
 madde hükümlerine aykırı olarak araçları karayolunda kullanan sürücülere 46.000 Türk lirası
 idari para cezası uygulanır. Ayrıca, trafik zabıtasınca bu geçici belge ve plakalar iptal edilerek
 araçlar otuz gün süre ile trafikten menedilir. Son ihlalin gerçekleştiği tarihten itibaren geriye
-doğru bir yıl içinde iki veya daha fazla bu madde hükmüne uymayan sürücülere her seferinde
-140.000 Türk lirası idari para cezası uygulanır ve araç altmış gün süre ile trafikten
 
-25 2/1/2017 tarihli ve 680 sayılı KHK’nin 53 üncü maddesiyle bu madde başlığı ‘’Trafik belgesi verilmesi
+26 2/1/2017 tarihli ve 680 sayılı KHK’nin 53 üncü maddesiyle bu madde başlığı ‘’Trafik belgesi verilmesi
 için zorunlu belgeler’’ iken ‘’ Araç muayene raporu’’ şeklinde değiştirilmiş, daha sonra bu hüküm
 1/2/2018 tarihli ve 7072 sayılı Kanunun 52 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-menedilir.26
+doğru bir yıl içinde iki veya daha fazla bu madde hükmüne uymayan sürücülere her seferinde
+140.000 Türk lirası idari para cezası uygulanır ve araç altmış gün süre ile trafikten
+menedilir.27
 
 Araçlara ait trafik ayırım işaretleri ve diğer işaretler:
 
@@ -1033,11 +1035,11 @@ yazılan yazılar sildirilir veya takılan donanımlar bütün giderler ve sorum
 üzere söktürülür. (Ek cümle:21/11/2024-7533/25 md.) Ayrıca ikinci fıkra kapsamındaki
 cihazlara mülki amir tarafından el konulur ve mülki amir tarafından mülkiyetinin kamuya
 geçirilmesine karar verilir.
+
+27 Bu maddenin üçüncü ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun dördüncü
+maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiştir.
 (Ek fıkra:21/11/2024-7533/25 md.) Sürücü belgesi geri alma işlemleri bu Kanunun
 6 ncı maddesinde sayılan görevliler tarafından yapılır. Altmış gün süre ile sürücü belgesi geri
-
-26 Bu maddenin üçüncü ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun dördüncü
-maddesi ile birleştirilmek suretiyle üçüncü fıkra olarak düzenlenmiştir.
 alınanların sürücü belgeleri psiko-teknik değerlendirme ve psikiyatri uzmanının
 muayenesinden geçirilerek sürücü belgesi almasına mâni hâli olmadığının anlaşılması halinde
 iade edilir. Bu madde kapsamında geri alınan sürücü belgeleri bu Kanun kapsamında verilen
@@ -1049,7 +1051,7 @@ MADDE 27
 
 Esasları yönetmelikte açıklanan ve araçların tanınmasına yarayan, motor-
 şasi, seri numaraları, gerektiğinde yüklü, yüksüz ağırlıkları gibi işaretleri bulunmayan araçlara
-tescil belgesi verilmez.27
+tescil belgesi verilmez.28
 Tanınma işareti bulunmayan veya bilinmeyen araçların, işaretleri tescil bürolarınca
 belirlenir ve belgelerine işlenir.
 
@@ -1059,7 +1061,7 @@ MADDE 28
 
 Devlet malı araçların tescil plakalarının rengi ayrı olur.
 Emniyet, Jandarma ve Sahil Güvenlik araçlarının renklerine göre boyama şekli ile ayırım
-işaretleri diğer resmi ve özel kuruluşlarla gerçek ve tüzelkişilere ait araçlarda kullanılamaz.28
+işaretleri diğer resmi ve özel kuruluşlarla gerçek ve tüzelkişilere ait araçlarda kullanılamaz.29
 Bu maddenin ikinci fıkrasına aykırı olarak boyanan veya ayırım işareti kullanan
 araçlar aykırılık giderilinceye kadar trafikten men edilir.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükmüne uymayanlar 3 600 000 lira para
@@ -1080,18 +1082,18 @@ ve Ticaret Bakanlığınca düzenlenir.
 
 Araçların teknik şartlara uygunluğu:
 
+28 2/1/2017 tarihli ve 680 sayılı KHK’nin 54 üncü maddesi ile bu fıkrada yer alan “trafik belgesi”
+ibaresi “tescil belgesi” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
+Kanunun 53 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
+29 2/1/2017 tarihli ve 680 sayılı KHK’nin 55 inci maddesiyle, bu fıkrada yer alan “Emniyet”
+ibaresinden sonra gelmek üzere “, Jandarma ve Sahil Güvenlik” ibaresi eklenmiş, daha sonra bu
+hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 54 üncü maddesiyle aynen kabul edilerek
+kanunlaşmıştır.
+
 MADDE 30
 
 Araçların, esasları yönetmelikte belirtilen şekilde ve tarzda teknik şartlara
 uygun durumda bulundurulması zorunludur.
-
-27 2/1/2017 tarihli ve 680 sayılı KHK’nin 54 üncü maddesi ile bu fıkrada yer alan “trafik belgesi”
-ibaresi “tescil belgesi” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
-Kanunun 53 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
-28 2/1/2017 tarihli ve 680 sayılı KHK’nin 55 inci maddesiyle, bu fıkrada yer alan “Emniyet”
-ibaresinden sonra gelmek üzere “, Jandarma ve Sahil Güvenlik” ibaresi eklenmiş, daha sonra bu
-hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 54 üncü maddesiyle aynen kabul edilerek
-kanunlaşmıştır.
 a) (Değişik: 21/5/1997-4262/4 md.) Servis freni, lastikleri, dış ışık donanımından
 yakını ve uzağı gösteren ışıklar ile park, fren ve dönüş ışıkları noksan, bozuk veya teknik
 şartlara aykırı olan araçları kullanan sürücüler 1 800 000 lira para cezası,
@@ -1190,43 +1192,43 @@ gereken takograf kayıtlarının çalışma ve dinlenme sürelerine ilişkin den
 Altyapı Bakanlığı tarafından oluşturulan veri tabanı kullanılarak Çalışma ve Sosyal Güvenlik
 Bakanlığı tarafından veya bağlı ve ilgili kuruluşlarınca yapılabilir.
 
-MADDE 32 — Araç üzerindeki teknik değişiklikler ve bildirim zorunluluğu:29
+MADDE 32 — Araç üzerindeki teknik değişiklikler ve bildirim zorunluluğu:30
 
 (Başlığı ile Birlikte Değişik: 18/10/2018-7148/17 md.)
 Araçlar üzerinde mevzuata uygun şekilde yapılan her türlü değişikliğin işleten tarafından
 otuz gün içinde araç tescil belgesine/kayıtlarına işletilmesi zorunludur. Bu fıkra hükmüne
-uymayan işletenlere 1.000 Türk lirası idari para cezası uygulanır.30
+uymayan işletenlere 1.000 Türk lirası idari para cezası uygulanır.31
 Üzerinde mevzuata uygun olarak teknik değişiklik yapılan araçlar, değişikliğin
 mevzuata uygun olarak yapıldığı belgelenip bu durum ilgili tescil kuruluşunda araç tescil
-belgesine/kayıtlarına işletilinceye kadar trafikten menedilir.31
+belgesine/kayıtlarına işletilinceye kadar trafikten menedilir.32
 (Değişik üçüncü fıkra:12/2/2026-7574/7 md.) Araç üzerinde ilgili mevzuata aykırı
 şekilde değişiklik yapılması yasaktır. Mevzuata aykırı şekilde değişiklik yapılması halinde işletene
 5.000 Türk lirası idari para cezası uygulanır ve araç mevzuata uygun duruma getirilinceye kadar
 trafikten menedilir. Yapılan bu değişikliğin çevredekileri rahatsız edecek derecede gürültü
 çıkaracak özellikte olması durumunda aracı kullanan sürücüye ayrıca 16.000 Türk lirası idari para
 cezası uygulanır. Üçüncü cümle kapsamında işlem yapılan araç otuz gün süreyle trafikten
-menedilir ve men süresi sonunda araç mevzuata uygun duruma getirilmeden teslim edilmez.
-(Ek fıkra:12/2/2026-7574/7 md.) İlgili mevzuatı gereğince arkadan çarpmaya karşı
 
-29 12/2/2026 tarihli ve 7574 sayılı Kanunun 7 nci maddesiyle bu madde başlığı “Araçlar üzerindeki
+30 12/2/2026 tarihli ve 7574 sayılı Kanunun 7 nci maddesiyle bu madde başlığı “Araçlar üzerindeki
 değişiklikleri bildirme” iken metne işlendiği şekilde değiştirilmiştir.
-30 12/2/2026 tarihli ve 7574 sayılı Kanunun 7 nci maddesiyle bu fıkrada yer alan “tescil belgesine”
+31 12/2/2026 tarihli ve 7574 sayılı Kanunun 7 nci maddesiyle bu fıkrada yer alan “tescil belgesine”
 ibaresi “tescil belgesine/kayıtlarına” şeklinde, “108 Türk lirası idari para cezası verilir” ibaresi
 “1.000 Türk lirası idari para cezası uygulanır” şeklinde değiştirilmiştir.
-31 12/2/2026 tarihli ve 7574 sayılı Kanunun 7 nci maddesiyle bu fıkraya “Üzerinde” ibaresinden
+32 12/2/2026 tarihli ve 7574 sayılı Kanunun 7 nci maddesiyle bu fıkraya “Üzerinde” ibaresinden
 sonra gelmek üzere “mevzuata uygun olarak” ibaresi eklenmiş, fıkrada yer alan “tescil belgesine”
 ibaresi “tescil belgesine/kayıtlarına” şeklinde değiştirilmiştir.
+menedilir ve men süresi sonunda araç mevzuata uygun duruma getirilmeden teslim edilmez.
+(Ek fıkra:12/2/2026-7574/7 md.) İlgili mevzuatı gereğince arkadan çarpmaya karşı
 koruma çerçevesi/yan koruma çerçevesi/devrilmeye karşı koruyucu yapı bulunması zorunlu
 olan araçlarda bu teçhizatın bulunmaması veya teknik şartlara uygun olmaması halinde
 işletene 16.000 Türk lirası idari para cezası uygulanır ve araç mevzuata uygun duruma
 getirilinceye kadar trafikten menedilir.
 
-MADDE 33 — Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar:32
+MADDE 33 — Taşınması özel izne bağlı yükler ile trafiğe çıkışları özel izne bağlı araçlar:33
 
 Ağırlık ve boyutları bakımından özelliği olan, başka ulaşım sistemleri ile
 taşınması olmayan ve taşıma sınırını aşıp da taşınması zorunlu olan yüklerin taşınması ile
 trafiğe çıkışları özel izne bağlı araçlar için, Karayolları Genel Müdürlüğünden izin alınması
-zorunludur.33
+zorunludur.34
 (Ek fıkra:12/2/2026-7574/8 md.) Özel yüklerin taşınması ile trafiğe çıkışları özel izne
 bağlı araçlardan yolun yapım, bakım ve işletilmesinden sorumlu kurum/kuruluşça karayolu
 kullanım bedeli alınır. Karayolu kullanım bedeli; dingil başına tonaj miktarı, dingil sayısı,
@@ -1253,13 +1255,13 @@ ekonomik yapıları da, dikkate alınmak suretiyle belirli zamanlarda muayene ed
 sorumluluk sigortası geçerli teminat tutarları üzerinden yaptırılmamış araçlar, muayeneye
 alınmazlar.
 Motorlu araçların muayenelerinin, yönetmelikte belirtilen süreler içinde yaptırılması
+
+33 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu madde başlığına “yükler”
+ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
+34 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu fıkraya “yüklerin taşınması”
+ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
 zorunludur.
 (Değişik:25/6/1988 - KHK-330/3 md.; Aynen kabul : 31/10/1990 - 3672/2 md.)
-
-32 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu madde başlığına “yükler”
-ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
-33 12/2/2026 tarihli ve 7574 sayılı Kanunun 8 inci maddesiyle bu fıkraya “yüklerin taşınması”
-ibaresinden sonra gelmek üzere “ile trafiğe çıkışları özel izne bağlı araçlar” ibaresi eklenmiştir.
 Muayene süresi dolmadan kazaya karışması sonucu yetkili zabıtaca muayenesi gerekli
 görülenler ile üzerinde değişiklik yapılan araçların ayrıca özel muayenesi zorunludur. Bu
 muayeneler öncelikle yapılır.
@@ -1287,7 +1289,7 @@ veya tüzel kişilere ait muayene istasyonlarında yapılır. Yetki verilen ger�
 bu yetkilerini Ulaştırma Bakanlığının onayı ile alt işleticilere aynı standartları sağlamak
 koşulu ile devredebilirler. Bu devir, yetki verilen gerçek ve tüzel kişilerin sorumluluklarını
 ortadan kaldırmaz. Bu istasyonların yönetmelikler doğrultusunda aranan nitelik ve şartlara
-uygunluğunun saptanması sonucunda işletme belgesi Ulaştırma Bakanlığı tarafından verilir.34
+uygunluğunun saptanması sonucunda işletme belgesi Ulaştırma Bakanlığı tarafından verilir.35
 Muayene istasyonlarınca; otobüs, kamyon, çekici ve tanker için 100 milyon lira,
 otomobil, minibüs, kamyonet, özel amaçlı taşıt, arazi taşıtı, römork ve yarı römork için 75
 milyon lira, traktör (römorklu-römorksuz) motosiklet, motorlu bisiklet için 40 milyon lira
@@ -1296,16 +1298,16 @@ hangi gruba gireceği Ulaştırma Bakanlığınca belirlenir. Bu ücretler ile b
 para cezaları, her takvim yılı başından geçerli olmak üzere, her yıl sonunda o yıl için Vergi
 Usul Kanunu hükümleri uyarınca tespit ve ilân olunan yeniden değerleme oranında artırılarak
 belirlenir. Bu suretle hesaplanan ücret tutarlarında 1.000.000 liranın altındaki tutarlar dikkate
-alınmaz. Muayene süresi geçirilen her ay için muayene ücreti, yetki verilen gerçek veya
-tüzelkişi ya da alt işleticiler tarafından, % 5 fazlası ile tahsil edilir. Ay kesirleri tam ay olarak
 
-34 Bu fıkranın birinci cümlesinde yer alan "Araçların muayeneleri" ibaresinden sonra gelmek üzere
+35 Bu fıkranın birinci cümlesinde yer alan "Araçların muayeneleri" ibaresinden sonra gelmek üzere
 "Ulaştırma Bakanlığına ait muayene istasyonlarında veya bu Bakanlık tarafından işletme yetki belgesi
 ile yetki verilmesi halinde ise" ibaresi, ikinci cümlesinde yer alan "Yetki verilen gerçek veya tüzel
 kişiler, bu yetkilerini" ibaresinden sonra gelmek üzere "Ulaştırma Bakanlığının onayı ile" ibaresi,
 3/7/2005 tarihli ve 5398 sayılı Kanunun 20 inci maddesiyle eklenmiştir.
+alınmaz. Muayene süresi geçirilen her ay için muayene ücreti, yetki verilen gerçek veya
+tüzelkişi ya da alt işleticiler tarafından, % 5 fazlası ile tahsil edilir. Ay kesirleri tam ay olarak
 hesap edilir. Cumhurbaşkanı, uygulanmakta olan muayene ücretlerini her beş yılda bir %
-20'ye kadar artırmaya veya eksiltmeye yetkilidir.35
+20'ye kadar artırmaya veya eksiltmeye yetkilidir.36
 Yetki verilen gerçek veya tüzel kişilerce bir ay içinde muayene ücreti olarak doğrudan
 elde edilen hasılat ile yetki devrettikleri alt işleticilerce muayene ücreti olarak elde edilen
 hasılat tutarı toplamının (katma değer vergisi hariç) ilk üç yıl % 30'u, sonraki yedi yıl % 40'ı,
@@ -1339,11 +1341,11 @@ Ulaştırma Bakanlığı tarafından işletme belgesi ile yetki verildiği halde
 belirtilen işletme şartlarına uymayan ve muayeneleri gerektiği şekilde yapmayan gerçek ve
 tüzel kişilere ilk seferinde bu istasyon için üçmilyar lira para cezası ile onbeş gün
 eksikliklerini düzeltme müddeti verilir. İkinci tekrarında aynı istasyon için beşmilyar lira para
+
+36 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 188 inci maddesiyle bu fıkrada yer
+alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 cezası ile onbeş gün eksikliklerini düzeltme müddeti verilir. Bir yıl içerisinde üçüncü
 tekrarında onmilyar lira para cezası verilir ve bu istasyonun işletme belgesi iptal edilir. Bu
-
-35 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 188 inci maddesiyle bu fıkrada yer
-alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 para cezaları ilgilisine tebliğ edildiği tarihten itibaren onbeş gün içinde işletmecinin gelir veya
 kurumlar vergisi yönünden bağlı olduğu vergi dairesine ödenir, süresinde ödenmeyen tutarlar
 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil
@@ -1380,20 +1382,19 @@ MADDE 37
 Sürücü belgesi almaları zorunlu olmamakla beraber;
 Bisiklet kullananların 11, elektrikli bisiklet ve elektrikli skuter kullananların 15,
 motorsuz taşıtları kullananlar ile hayvan sürücülerinin 13 yaşını bitirmiş olmaları, bedensel ve
-ruhsal bakımdan sağlıklı bulunmaları zorunludur.36
+ruhsal bakımdan sağlıklı bulunmaları zorunludur.37
 (Değişik : 21/5/1997-4262/4 md.) Durumları bu madde hükmüne uymayanlara araç
 kullandıran ve hayvanları tevdi edenler 1 800 000 lira para cezası ile cezalandırılırlar.
 
 Sürücü belgesi sınıfları:
 
-MADDE 38
-
-(Değişik: 12/7/2013-6495/15 md.)37
-
-36 24/12/2020 tarihli ve 7261 sayılı Kanunun 24 üncü maddesiyle, bu fıkraya “Bisiklet kullananların
+37 24/12/2020 tarihli ve 7261 sayılı Kanunun 24 üncü maddesiyle, bu fıkraya “Bisiklet kullananların
 11,” ibaresinden sonra gelmek üzere “elektrikli bisiklet ve elektrikli skuter kullananların 15,” ibaresi
 eklenmiştir.
-37 Bu maddenin uygulanması ile ilgili olarak Geçici 22 nci Maddeye bakınız.
+
+MADDE 38
+
+(Değişik: 12/7/2013-6495/15 md.)38
 Sürücü belgesi sınıfları, belge sahiplerine sürme yetkisi verilen motorlu araçların
 cinsleri, özellikleri, sürücü belgelerinin şekli, içeriği ve verilmesine ilişkin hususlar ile
 Uluslararası Sürücü Belgesinin verilmesine dair usul ve esaslar yönetmelikle belirlenir.
@@ -1402,7 +1403,7 @@ Sürücü belgelerine ait esaslar:
 
 MADDE 39
 
-(Değişik: 12/7/2013-6495/16 md.)37
+(Değişik: 12/7/2013-6495/16 md.)38
 Sürücü belgesi sahiplerinin, sürücü belgelerinin sınıfına göre sürmeye yetkili oldukları
 araçlar ile Türk vatandaşlarının ve yabancıların dış ülkelerden aldıkları sürücü belgelerinin
 ülkemiz sürücü belgeleri ile değiştirilmesine ve dış ülkelerden aldıkları sürücü belgeleriyle
@@ -1428,7 +1429,7 @@ Sürücü adaylarında aranacak şartlar:
 
 MADDE 41
 
-(Değişik: 12/7/2013-6495/17 md.)37
+(Değişik: 12/7/2013-6495/17 md.)38
 Sürücü belgesi alacakların;
 a) Yönetmelikte belirlenen yaş ve deneyim şartlarını taşımaları,
 b) Öğrenim durumu itibarıyla en az ilkokul düzeyinde eğitim almış olmaları,
@@ -1440,6 +1441,8 @@ e) Adli sicilinde, 26/9/2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 188, 
 inci maddeleri, 21/3/2007 tarihli ve 5607 sayılı Kaçakçılıkla Mücadele Kanununun 4 üncü
 maddesinin yedinci fıkrası, 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer
 Aletler Hakkında Kanunun 12 nci maddesinin ikinci ve takip eden fıkralarında belirtilen
+
+38 Bu maddenin uygulanması ile ilgili olarak Geçici 22 nci Maddeye bakınız.
 suçlardan hüküm giydiğine dair kayıt bulunmaması,
 f) Önceden verilmiş aynı sınıf bir başka sürücü belgesinin bulunmaması,
 g) Başka sınıf sürücü belgesi alabilmek için, daha önce verilmiş ancak geri alınmış
@@ -1459,7 +1462,7 @@ suçlardan biri ile mahkûmiyet hâlinde bu kişilerin sürücü belgeleri, bu K
 maddesinde sayılan görevliler tarafından bu maddenin birinci fıkrasının (e) bendinde
 belirtilen şartlar sağlanıncaya kadar geri alınır. Bu Kanunun 48 inci madde hükümleri saklıdır.
 
-MADDE 42 — Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:38
+MADDE 42 — Sürücü adaylarının sınavları ile sürücü belgelerinin verilmesi esasları:39
 
 (Değişik: 12/7/2013-6495/18 md.)
 Sürücü kurslarında teorik eğitimini tamamlayan sürücü adaylarının teorik sınavları
@@ -1478,11 +1481,11 @@ sürücüsü ihtiyacını karşılamak üzere belirli eğitim programları çer�
 belirtilen esas ve şartlara uygun olarak, illerde valinin onayı, merkez teşkilatı için Emniyet
 Genel Müdürünün onayı ile Emniyet Genel Müdürlüğü personeline ve Emniyet Genel
 Müdürlüğüne bağlı eğitim ve öğretim kurumlarında öğrenim görenlere sürücü belgesine
+
+39 Bu madde başlığı “Sürücülerin sınavları ve sürücü belgelerinin verilmesi esasları:” iken, 12/7/2013
+tarihli ve 6495 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 dönüştürülmek üzere motorlu taşıt sürücüsü sertifikası verilir. Bunların sınavları, nitelikleri
 Emniyet Genel Müdürlüğünce belirlenen sınav sorumluları tarafından yapılır.
-
-38 Bu madde başlığı “Sürücülerin sınavları ve sürücü belgelerinin verilmesi esasları:” iken, 12/7/2013
-tarihli ve 6495 sayılı Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (Değişik fıkra:6/12/2019-7196/41 md.) Jandarma teşkilatının motorlu araç sürücüsü
 ihtiyacını karşılamak üzere belirli eğitim programları çerçevesinde ve yönetmelikte belirtilen
 esas ve şartlara uygun olarak, illerde valinin onayı, merkez teşkilatı için Jandarma Genel
@@ -1531,7 +1534,7 @@ Zorundadırlar.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler, 3 600 000
 lira para cezası ile cezalandırılırlar.
 
-MADDE 45 — Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:39
+MADDE 45 — Sürücülerin sağlık şartlarında sonradan meydana gelen değişiklikler:40
 
 (Değişik: 12/7/2013-6495/19 md.)
 Sürücü belgesi sahibi kişide sağlığı bakımından sürücülüğe engel aşikar bir değişikliğin
@@ -1567,12 +1570,12 @@ kullanmamak,
 dışındaki şerit/şeritleri kullanmamak,
 f) (Ek:18/10/2018-7148/19 md.) Trafik kazası, arıza hâlleri, acil yardım, kurtarma,
 kar mücadelesi, kaza incelemesi, genel güvenlik ve asayişin sağlanması gibi durumlar dışında
-emniyet şeritlerini ve banketleri kullanmamak,
-g) (Ek:18/10/2018-7148/19 md.) Trafiği aksatacak veya tehlikeye sokacak şekilde
 
-39 12/7/2013 tarihli ve 6495 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “Sağlık şartlarında
+40 12/7/2013 tarihli ve 6495 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “Sağlık şartlarında
 sonradan meydana gelen değişiklikler ile sahte olan, hile ile alınan veya şartlarına uygun olmadan
 verilen sürücü belgeleri:” iken, metne işlendiği şekilde değiştirilmiştir.
+emniyet şeritlerini ve banketleri kullanmamak,
+g) (Ek:18/10/2018-7148/19 md.) Trafiği aksatacak veya tehlikeye sokacak şekilde
 ardı ardına birden fazla şerit değiştirmemek,
 h) (Ek:18/10/2018-7148/19 md.) Tekyönlü karayollarında araçlarını ters istikamette
 sürmemek
@@ -1589,7 +1592,7 @@ n) (Ek:12/2/2026-7574/10 md.) Araçlarını, kol veya grup halinde (konvoy şekl
 veya münferiden sürerken, diğer araçların geçişini zorlaştıracak veya tehlikeye sokacak
 şekilde keyfi hareketlerle trafiğin akışını kısmen veya tamamen engelleyecek şekilde
 araçlarını karayolu üzerinde durdurmamak,
-zorundadırlar.40
+zorundadırlar.41
 Karayollarının belirli kesimlerinde, bu yollardan faydalanma zorunda olan hayvan
 sürücüleri, hayvanlarını veya hayvan sürülerini gidiş yönünde yolun en sağından ve en az
 genişlik işgal ederek ve imkan olduğunda taşıt yolu dışından götürmek zorundadırlar.
@@ -1608,11 +1611,11 @@ hükümlerine uymayan sürücülerin sürücü belgeleri altmış gün süreyle 
 altmış gün süre ile trafikten menedilir. İkinci fıkranın (n) bendinin otoyol, köprü, viyadük
 veya tünelde ihlal edilmesi halinde verilecek idari para cezası ile sürücü belgesi geri alma ve
 araç trafikten men süreleri iki kat olarak uygulanır.
+
+41 12/2/2026 tarihli ve 7574 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Zorundadırlar”
+ibaresi “zorundadırlar” şeklinde değiştirilmiştir.
 (Ek fıkra:12/2/2026-7574/10 md.) Bu madde kapsamında geri alınan sürücü
 belgelerinin iade edilebilmesi için bu Kanun kapsamında verilen idari para cezalarının
-
-40 12/2/2026 tarihli ve 7574 sayılı Kanunun 10 uncu maddesiyle bu fıkrada yer alan “Zorundadırlar”
-ibaresi “zorundadırlar” şeklinde değiştirilmiştir.
 tamamının tahsil edilmiş olması şarttır. Ayrıca ikinci fıkranın (j) bendi ile dördüncü fıkra
 hükümlerinin ihlali nedeniyle geri alınan sürücü belgeleri, geri alma süresi sonunda
 sürücünün psiko-teknik değerlendirmeden geçirilerek sürücü belgesi almasına mâni hâli
@@ -1632,7 +1635,7 @@ Kanunun 6 ncı maddesinde sayılan görevliler tarafından yapılır.
 olarak düzenlenen toplantı ve gösteri yürüyüşleri esnasında ikinci fıkranın (n) bendinde
 belirtilen fiillerin işlenmesi halinde bu bentteki ihlale konu kabahat oluşmaz.
 
-MADDE 47 — Trafik işaret ve kurallarına uyma zorunluluğu:41
+MADDE 47 — Trafik işaret ve kurallarına uyma zorunluluğu:42
 
 Karayollarından faydalananlar aşağıdaki sıralamaya göre;
 a) Trafiği düzenleme ve denetimle görevli trafik zabıtası veya özel kıyafetli veya işaret
@@ -1650,11 +1653,11 @@ bendine uymayan sürücüler 3.000 Türk lirası, (b) bendine uymayan sürücül
 trafik işaretlerinden kırmızı renkli olanına uyma kuralının son ihlalin gerçekleştiği tarihten
 geriye doğru bir yıl içinde;
 a) İkinci defa ihlal edilmesi halinde sürücüler 10.000 Türk lirası,
+
+42 18/10/2018 tarihli ve 7148 sayılı Kanunun 20 nci maddesiyle madde başlığı “Trafik işaretlerine
+uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 b) Üçüncü defa ihlal edilmesi halinde sürücüler 15.000 Türk lirası,
 c) Dördüncü defa ihlal edilmesi halinde sürücüler 20.000 Türk lirası,
-
-41 18/10/2018 tarihli ve 7148 sayılı Kanunun 20 nci maddesiyle madde başlığı “Trafik işaretlerine
-uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 d) Beşinci defa ihlal edilmesi halinde sürücüler 30.000 Türk lirası,
 e) Altıncı defa ihlal edilmesi halinde sürücüler 80.000 Türk lirası,
 idari para cezası ile cezalandırılırlar.
@@ -1694,11 +1697,8 @@ MADDE 48
 Uyuşturucu veya uyarıcı maddeleri almış olan sürücüler ile alkollü olan sürücülerin
 karayolunda araç sürmeleri yasaktır.
 Uyuşturucu veya uyarıcı maddelerin kullanılıp kullanılmadığı ya da alkolün kandaki
-miktarını tespit amacıyla, kollukça teknik cihazlar/test kitleri kullanılır.42
+miktarını tespit amacıyla, kollukça teknik cihazlar/test kitleri kullanılır.43
 Kişinin yaralanmalı veya ölümlü ya da kollukça müdahil olunan maddi hasarlı trafik
-
-42 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazlar”
-ibaresi “teknik cihazlar/test kitleri” şeklinde değiştirilmiştir.
 kazasına karışması hâlinde, ikinci fıkrada belirtilen muayeneye tabi tutulması zorunludur.
 Teknik cihaz ile yapılan ölçüme itiraz eden veya bu cihaz ile ölçüm yapılmasına müsaade
 etmeyen bu sürücüler, en yakın adli tıp kurumuna veya adli tabipliğe veya Sağlık Bakanlığına
@@ -1718,7 +1718,7 @@ itibaren geriye doğru beş yıl içinde; ikinci defasında 50.000 Türk lirası
 ve sürücü belgeleri iki yıl süreyle, üç veya üçten fazlasında ise, 150.000 Türk lirası idari para
 cezası verilir ve sürücü belgeleri her seferinde beşer yıl süreyle geri alınır. Sürücü belgelerinin
 herhangi bir nedenle geçici olarak geri alınmış olması hâlinde belirtilen süreler, geçici alma
-süresinin bitiminde başlar.43
+süresinin bitiminde başlar.44
 Yapılan tespit sonucunda, 1.00 promilin üzerinde alkollü olduğu tespit edilen sürücüler
 hakkında ayrıca Türk Ceza Kanununun 179 uncu maddesinin üçüncü fıkrası hükümleri uygulanır.
 Hususi otomobil sürücüleri bakımından 0.50 promilin, diğer araç sürücüleri bakımından
@@ -1732,14 +1732,16 @@ kurslarına devam etmeleri ve yapılan sınavlarda başarılı olarak motorlu ta
 sertifikası almaları gerekir. Bu kişilerin sürücü kurslarında eğitime başlayabilmeleri için;
 belgenin iptal edildiği tarihten itibaren en az beş yıl geçmiş olması, bu Kanun kapsamında
 verilen idari para cezalarının tamamının tahsil edilmiş olması, sürücülerin psiko-teknik
+
+43 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazlar”
+ibaresi “teknik cihazlar/test kitleri” şeklinde değiştirilmiştir.
+44 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “700 Türk Lirası”
+ibaresi “25.000 Türk lirası” şeklinde, “877 Türk Lirası” ibaresi “50.000 Türk lirası” şeklinde,
+“1.407 Türk Lirası” ibaresi “150.000 Türk lirası” şeklinde değiştirilmiştir.
 değerlendirmeden geçmesi ve resmî sağlık kurumlarından sürücülüğe engel hâli
 bulunmadığını gösteren sağlık kurulu raporunun sürücü kursuna ibrazı zorunludur.
 (Değişik dokuzuncu fıkra:12/2/2026-7574/12 md.) Uyuşturucu veya uyarıcı
 maddelerin kullanılıp kullanılmadığının ya da alkolün kandaki miktarının kolluk tarafından
-
-43 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “700 Türk Lirası”
-ibaresi “25.000 Türk lirası” şeklinde, “877 Türk Lirası” ibaresi “50.000 Türk lirası” şeklinde,
-“1.407 Türk Lirası” ibaresi “150.000 Türk lirası” şeklinde değiştirilmiştir.
 tespit edilmesi için ölçüm yaptırmayan sürücülere 150.000 Türk lirası idari para cezası verilir
 ve sürücü belgesi beş yıl süreyle geri alınır.
 Sürücünün uyuşturucu veya uyarıcı madde kullandığından şüphe edilmesi hâlinde
@@ -1768,7 +1770,7 @@ kurumlarından sürücülüğe engel hâli bulunmadığını gösteren sağlık 
 kursuna ibrazı zorunludur.
 Alkol, uyuşturucu veya uyarıcı maddelerin tespiti için kullanılacak teknik
 cihazların/test kitlerinin sahip olacağı asgari koşullar ile diğer usul ve esaslar yönetmelikte
-gösterilir.44
+gösterilir.45
 
 Taşıt kullanma sürelerine uyma zorunluluğu:
 
@@ -1776,13 +1778,13 @@ MADDE 49
 
 (Değişik:12/2/2026-7574/13 md.)
 Takograf cihazı bulundurulması ve kullanılması zorunlu olan taşıtların, taşıt kullanma
+
+45 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazların”
+ibaresi “teknik cihazların/test kitlerinin” şeklinde değiştirilmiştir.
 sürelerine aykırı olarak kullanılması ve kullandırılması yasaktır. İşleten, sürücünün kendisi
 olup olmadığına bakmaksızın aracın bu maddede ve yönetmelikte belirtilen hükümlere aykırı
 olarak kullanılmaması hususunda gerekli tedbirleri almak ve denetimini yapmakla
 yükümlüdür.
-
-44 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazların”
-ibaresi “teknik cihazların/test kitlerinin” şeklinde değiştirilmiştir.
 Bu taşıtları kullanacakların taşıt kullanma, mola ve dinlenme süreleri ile taşıtta birden
 fazla sürücü görevlendirilmesi gereken haller, sürücülerin taşıtta bulunmaları gereken zaman
 aralığı, işletenlerin sorumlulukları ile denetimlerde uygulanacak usul ve esaslar yönetmelikte
@@ -1830,7 +1832,7 @@ Bu Kanunla yetki verilen kuruluşlar tarafından yönetmelikte belirtilen hız s
 ve trafik durumuna göre azaltılabilir veya çoğaltılabilir. Bu hallerde durum trafik işaretleri ile
 belirtilir ve uygun vasıtalarla duyurulur.
 
-MADDE 51 — Hız sınırlarına uyma zorunluluğu:45
+MADDE 51 — Hız sınırlarına uyma zorunluluğu:46
 
 (Değişik:12/2/2026-7574/14 md.)
 Sürücüler, aksine bir karar alınıp işaretlenmemişse yönetmelikte belirtilen hız
@@ -1859,13 +1861,13 @@ b) Yerleşim yeri dışında;
 9) 71 km/s ve daha fazla aşanlara 30.000 Türk lirası,
 idari para cezası verilir.
 Sürücüler tarafından bu maddenin ikinci fıkrasının (a) bendinin;
+
+46 18/10/2018 tarihli ve 7148 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “Hız sınırlarına
+uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 a) (7) numaralı alt bendinin ihlali halinde her seferinde 30 gün,
 b) (8) numaralı alt bendinin ihlali halinde her seferinde 60 gün,
 c) (9) numaralı alt bendinin ihlali halinde ise her seferinde 90 gün,
 süre ile sürücülerin sürücü belgeleri geri alınır.
-
-45 18/10/2018 tarihli ve 7148 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “Hız sınırlarına
-uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 Sürücüler tarafından bu maddenin ikinci fıkrasının (b) bendinin;
 a) (7) numaralı alt bendinin ihlali halinde her seferinde 30 gün,
 b) (8) numaralı alt bendinin ihlali halinde her seferinde 60 gün,
@@ -1949,7 +1951,7 @@ uymakla birlikte, orta ada etrafında dönerken gireceği yola yaklaşıncaya ka
 muhafaza etmeye de zorunludurlar.
 Sağa ve sola dönüşlerde, sürücüler kurallara uygun olarak geçiş yapan yayalara, varsa
 bisiklet yolundaki ve bisiklet şeridindeki bisiklet ve elektrikli skuter kullananlara ve sola
-dönüşlerde sağdan ve karşıdan gelen trafiğe ilk geçiş hakkını vermek zorundadırlar.46
+dönüşlerde sağdan ve karşıdan gelen trafiğe ilk geçiş hakkını vermek zorundadırlar.47
 Gidişe ayrılmış birden fazla şeridi bulunan yollarda, en sağdaki veya soldaki şerit
 işaretlenmek suretiyle sadece dönüşlere ayrılabilir, ayrılmış bu şeritlere bitişik diğer
 şeritlerden de işaretlenmek suretiyle sağa veya sola dönüşlerde izin verilebilir.
@@ -1986,12 +1988,12 @@ b) Geçmenin yasak olduğu yerler;
 1. Geçmenin herhangi bir trafik işaretiyle yasaklandığı yerlerde,
 2. Görüş yetersizliği olan tepelerde ve dönemeçlerde,
 3. Yaya ve okul geçitleri yaklaşımında,
+
+47 24/12/2020 tarihli ve 7261 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “bisikletlilere”
+ibaresi “ve bisiklet şeridindeki bisiklet ve elektrikli skuter kullananlara” şeklinde değiştirilmiştir.
 4. Kavşaklarda, demiryolu geçitlerinde ve bunların yaklaşımında,
 5. Gidiş ve geliş için birer şeridi bulunan iki yönlü trafiğin kullanıldığı köprü ve tünellerde,
 Sürücülerin önlerindeki bir aracı geçmeleri yasaktır.
-
-46 24/12/2020 tarihli ve 7261 sayılı Kanunun 25 inci maddesiyle, bu fıkrada yer alan “bisikletlilere”
-ibaresi “ve bisiklet şeridindeki bisiklet ve elektrikli skuter kullananlara” şeklinde değiştirilmiştir.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000
 lira para cezası ile cezalandırılırlar.
 
@@ -2172,7 +2174,7 @@ l) Park etmek için tespit edilen süre ve şeklin dışında,
 m) Belirli kişi, kurum ve kuruluşlara ait araçlara, yönetmelikteki esaslara göre ayrılmış
 ve bir işaret levhası ile belirlenmiş park yerlerinde,
 n) Ayrıca yönetmelikte belirtilen haller dışında yaya yollarda,
-o) (Ek: 1/7/2005-5378/31 md.) Engellilerin araçları için ayrılmış park yerlerinde,47
+o) (Ek: 1/7/2005-5378/31 md.) Engellilerin araçları için ayrılmış park yerlerinde,48
 Park etmek yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 1 800 000
 lira para cezası ile cezalandırılırlar. (Ek cümle: 1/7/2005-5378/31 md.) (o) bendinin ihlâli hâlinde
@@ -2212,12 +2214,12 @@ MADDE 64
 
 Araçların sürülmesi sırasındaki zorunluluk ve yasaklar aşağıda gösterilmiştir.
 a) Zorunluluklar:
+
+48 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlülerin”
+ibaresi “Engellilerin” şeklinde değiştirilmiştir.
 1. (Değişik: 17/10/1996-4199 - 24 md.) Yerleşim birimleri dışındaki karayollarında
 geceleri seyrederken, yeterince aydınlatılmamış tünellere girerken, benzeri yer ve hallerde
 uzağı gösteren ışıkların yakılması,
-
-47 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “Özürlülerin”
-ibaresi “Engellilerin” şeklinde değiştirilmiştir.
 2. (Değişik: 17/10/1996-4199 - 24 md.) Geceleri, yerleşim birimleri dışında
 karayollarındaki karşılaşmalarda, bir aracı takip ederken, bir aracı geçerken yan yana
 gelinceye kadar ve yerleşim birimleri içinde, gündüzleri ise görüşü azaltan sisli, yağışlı ve
@@ -2240,26 +2242,26 @@ Yasaktır.
 fıkrasının (a) bendinin (2) numaralı alt bendi hükümlerine uymayan sürücüler 3 600 000 lira
 para cezası ile cezalandırılırlar.
 
-MADDE 65 — Yüklü ve yüksüz araçlar:48
+MADDE 65 — Yüklü ve yüksüz araçlar:49
 
 (Değişik: 25/6/2010-6001/36 md.)
-Yüklü ve yüksüz araçlarda, yönetmeliklerle belirlenen ölçü ve esaslara aykırı olarak;49
+Yüklü ve yüksüz araçlarda, yönetmeliklerle belirlenen ölçü ve esaslara aykırı olarak;50
 a) Taşıma sınırı üstünde yolcu alınması,
 b) Azami yüklü ağırlığın veya izin verilen azami yüklü ağırlığın aşılması,
 c) (b) bendindeki ağırlıklar aşılmamış olsa bile azami dingil ağırlıkları aşılacak şekilde
 yüklenmesi,
 d) Karayolu yapısı ve kapasitesi ile trafik güvenliği bakımından tehlikeli olabilecek
 tarzda yükleme yapılması,
-e) Tehlikeli ve zararlı maddelerin gerekli izin ve tedbirler alınmadan taşınması,
-f) Ağırlık ve boyutları bakımından taşınması özel izne bağlı olan yükün izin alınmadan ya
-da izin belgesinde belirtilen şartlar sağlanmadan taşınması ve taşıttırılması,49
 
-48 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu madde başlığı “Araçların
+49 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu madde başlığı “Araçların
 yüklenmesi:” iken metne işlendiği şekilde değiştirilmiştir.
-49 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “Araçların
+50 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “Araçların
 yüklenmesinde” ibaresi “Yüklü ve yüksüz araçlarda” şeklinde ve fıkranın (f) bendinde yer alan
 “eşyanın izin alınmadan yüklenmesi,” ibaresi “yükün izin alınmadan ya da izin belgesinde belirtilen
 şartlar sağlanmadan” şeklinde değiştirilmiştir.
+e) Tehlikeli ve zararlı maddelerin gerekli izin ve tedbirler alınmadan taşınması,
+f) Ağırlık ve boyutları bakımından taşınması özel izne bağlı olan yükün izin alınmadan ya
+da izin belgesinde belirtilen şartlar sağlanmadan taşınması ve taşıttırılması,50
 g) Gabari dışı yük yüklenmesi, taşınan yük üzerine veya araç dışına yolcu bindirilmesi,
 h) (Değişik:12/2/2026-7574/18 md.) Yükün uygun bağlama ve sabitleme yapılmayarak
 karayoluna değecek, düşecek, dökülecek, saçılacak, sızacak, akacak, kayacak, gürültü çıkaracak,
@@ -2302,14 +2304,14 @@ Azami yüklü ağırlığın % 20’den fazla aşılması halinde fazla yük, bi
 bendine uygun hale getirilmeden yola devam etmesine izin verilmez.
 Milletlerarası taşımalarda yabancı plakalı araçların birinci fıkraya uymayan işleten ve
 gönderenlerine verilen idari para cezaları tahsil olunmadan anılan araçların ülkeyi terk etmelerine
-izin verilmez.50
+izin verilmez.51
 İşleten ile gönderenin aynı olması halinde birinci fıkraya uymayan işletene idari para
-cezası uygulanır.5152
-Gönderenin birden fazla olması (…)53 halinde birinci fıkraya uymayan işleten ve
-gönderen için uygulanacak idarî para cezalarının toplamı işletene uygulanır.54
+cezası uygulanır.5253
+Gönderenin birden fazla olması (…)54 halinde birinci fıkraya uymayan işleten ve
+gönderen için uygulanacak idarî para cezalarının toplamı işletene uygulanır.55
 Araçların yüklenmesine ilişkin ölçü ve usuller, ağırlık, boyut ve yükleme kontrolü usul
 ve esasları ile tartı toleransları Ulaştırma ve Altyapı Bakanlığı tarafından yönetmelikle
-belirlenir.55
+belirlenir.56
 Uluslararası yük ve yolcu taşımacılığına ilişkin konularda ikili ve çok taraflı anlaşma
 hükümleri saklıdır.
 Tarım alanlarına yapılacak yük ve yolcu taşımacılığına ilişkin esas ve usuller yönetmelikte
@@ -2326,26 +2328,26 @@ Bakanlığı tarafından araç cinslerine göre yılın belirli dönemi için zo
 Altyapı Bakanlığı bu yetkisini valiliklere devredebilir. Bu madde hükümleri çerçevesinde araçları
 denetlemeye Ulaştırma ve Altyapı Bakanlığının yetkilendirdiği Bakanlık personeli ile Emniyet
 Genel Müdürlüğü, Jandarma Genel Komutanlığı, Ticaret Bakanlığının sınır kapılarındaki birimleri
+
+51 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “idarî para
+cezaları tahsil olunmadan anılan araçların yola devam” ibaresi “idari para cezaları tahsil
+olunmadan anılan araçların ülkeyi terk” şeklinde değiştirilmiştir.
+52 Anayasa Mahkemesinin 12/7/2017 tarihli ve E.: 2017/95, K.: 2017/119 sayılı Kararı ile, bu fıkra 65
+inci maddenin birinci fıkrasının (b) bendi yönünden iptal edilmiştir.
+53 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “işleten ve
+gönderen için uygulanacak idarî para cezalarının toplamı” ibaresi “işletene idari para cezası”
+şeklinde değiştirilmiştir.
+54 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “veya tespit
+edilememesi” ibaresi madde metninden çıkarılmıştır.
+55 Anayasa Mahkemesi’nin 1/6/2022 tarihli ve E.: 2022/13, K.: 2022/66 sayılı Kararı ile bu fıkrada
+yer alan “veya tespit edilememesi” ibaresinin anılan maddenin birinci fıkrasının (b) bendi yönünden
+iptal edilmiştir.
+56 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “ağırlık ve boyut
+kontrolü” ibaresi “ağırlık, boyut ve yükleme kontrolü” şeklinde değiştirilmiş ve fıkraya “Ulaştırma”
+ibaresinden sonra gelmek üzere “ve Altyapı” ibaresi eklenmiştir.
 ve belediyelerin denetim birimleri yetkilidir. Bu maddede düzenlenen yükümlülüğe uymayan
 aracın işletenine bu maddede belirtilen görevlilerce 6.000 Türk lirası idari para cezası uygulanır ve
 bu araçların lastiklerini uygun hale getirebilecekleri en yakın yerleşim birimine kadar gitmelerine
-
-50 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “idarî para
-cezaları tahsil olunmadan anılan araçların yola devam” ibaresi “idari para cezaları tahsil
-olunmadan anılan araçların ülkeyi terk” şeklinde değiştirilmiştir.
-51 Anayasa Mahkemesinin 12/7/2017 tarihli ve E.: 2017/95, K.: 2017/119 sayılı Kararı ile, bu fıkra 65
-inci maddenin birinci fıkrasının (b) bendi yönünden iptal edilmiştir.
-52 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “işleten ve
-gönderen için uygulanacak idarî para cezalarının toplamı” ibaresi “işletene idari para cezası”
-şeklinde değiştirilmiştir.
-53 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “veya tespit
-edilememesi” ibaresi madde metninden çıkarılmıştır.
-54 Anayasa Mahkemesi’nin 1/6/2022 tarihli ve E.: 2022/13, K.: 2022/66 sayılı Kararı ile bu fıkrada
-yer alan “veya tespit edilememesi” ibaresinin anılan maddenin birinci fıkrasının (b) bendi yönünden
-iptal edilmiştir.
-55 12/2/2026 tarihli ve 7574 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “ağırlık ve boyut
-kontrolü” ibaresi “ağırlık, boyut ve yükleme kontrolü” şeklinde değiştirilmiş ve fıkraya “Ulaştırma”
-ibaresinden sonra gelmek üzere “ve Altyapı” ibaresi eklenmiştir.
 denetimle görevli olanlar tarafından izin verilir. Bu maddede belirtilen idari para cezasının tutarını
 azaltmaya ve iki katına kadar artırmaya Cumhurbaşkanı yetkilidir.
 Karlı ve buzlu hava şartlarında, kamyon, çekici ve otobüs cinsi araçların güvenle
@@ -2357,7 +2359,7 @@ cezası uygulanır.
 Bu maddeye ilişkin usul ve esaslar Ulaştırma ve Altyapı Bakanlığı ile İçişleri Bakanlığınca
 müştereken belirlenir.
 
-MADDE 66 — Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücüleri ile ilgili kurallar:56
+MADDE 66 — Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücüleri ile ilgili kurallar:57
 
 Bisiklet, elektrikli skuter, motorlu bisiklet ve motosiklet sürücülerine
 aşağıdaki kurallar uygulanır.
@@ -2369,7 +2371,7 @@ Bunlardan ikiden fazlasının taşıt yolunun bir şeridinde yan yana,
 sürülmesi yasaktır.
 b) Bisiklet sürenlerin en az bir elleri, elektrikli skuter ve motorlu bisiklet sürenlerin
 manevra için işaret verme hali dışında iki elleri ve motosiklet sürenlerin devamlı iki eller ile
-taşıtlarını sürmeleri ve yönetmelikte belirtilen güvenlik şartlarına uymaları zorunludur.56
+taşıtlarını sürmeleri ve yönetmelikte belirtilen güvenlik şartlarına uymaları zorunludur.57
 c) Bisiklet, motorlu bisiklet ve sepetsiz motosiklet sürücülerinin, sürücü arkasında
 yeterli bir oturma yeri olmadıkça başka kişileri bindirmeleri ve yönetmelikte belirtilen
 sınırdan fazla yük taşımaları yasaktır.
@@ -2380,14 +2382,14 @@ azami hız sınırı 50 km/s üzerinde olan karayollarında kullanılamaz.
 f) (Ek:12/2/2026-7574/20 md.) Motorlu bisiklet ve motosiklet cinsi araçların, izin
 alınarak yapılan gösteriler dışında tek tekerlek üzerinde, sele üzerine yatarak, sele üzerinde
 ayağa kalkarak, kendi etrafında döndürülerek, tekerleği kaydırılarak, sürüş güvenliğini
-olumsuz yönde etkileyecek benzeri akrobatik hareketler yapılarak sürülmesi yasaktır.
-(Ek fıkra:12/2/2026-7574/20 md.) Birinci fıkranın (a), (b), (c), (d) ve (e) bentleri ile
-beşinci fıkra hükümlerine uymayan sürücülere 5.000 Türk lirası idari para cezası uygulanır.
 
-56 24/12/2020 tarihli ve 7261 sayılı Kanunun 26 ncı maddesiyle, bu madde başlığına ve birinci
+57 24/12/2020 tarihli ve 7261 sayılı Kanunun 26 ncı maddesiyle, bu madde başlığına ve birinci
 fıkranın birinci cümlesine “Bisiklet,” ibarelerinden sonra gelmek üzere “elektrikli skuter,” ibareleri
 eklenmiş, fıkranın (b) bendine “en az bir elleri,” ibaresinden sonra gelmek üzere “elektrikli skuter ve”
 ibaresi eklenmiştir.
+olumsuz yönde etkileyecek benzeri akrobatik hareketler yapılarak sürülmesi yasaktır.
+(Ek fıkra:12/2/2026-7574/20 md.) Birinci fıkranın (a), (b), (c), (d) ve (e) bentleri ile
+beşinci fıkra hükümlerine uymayan sürücülere 5.000 Türk lirası idari para cezası uygulanır.
 Birinci fıkranın (f) bendi hükümlerine uymayan sürücülere 46.000 Türk lirası idari para cezası
 uygulanarak sürücü belgeleri altmış gün süreyle geri alınır ve araç altmış gün süre ile trafikten
 menedilir. Bu şekilde geri alınan sürücü belgeleri, geri alma süresi sonunda sürücünün psiko-
@@ -2415,7 +2417,7 @@ alması zorunludur. Yetki belgesi almadan faaliyette bulunanlara 86.900 Türk li
 cezası uygulanır.
 (Ek fıkra: 24/12/2020-7261/26 md.) Elektrikli skuter ve kullanımına ilişkin diğer
 hususlar İçişleri Bakanlığı, Çevre, Şehircilik ve İklim Değişikliği Bakanlığı ile Ulaştırma ve
-Altyapı Bakanlığı tarafından müştereken çıkarılan yönetmelikle belirlenir.57
+Altyapı Bakanlığı tarafından müştereken çıkarılan yönetmelikle belirlenir.58
 
 Araç manevralarını düzenleyen kurallar:
 
@@ -2425,12 +2427,12 @@ Manevralarda aşağıdaki kurallar uygulanır.
 a) Sürücülerin, park yapmış taşıtlar arasından çıkarken, duraklarken veya park yaparken
 taşıt yolunun sağına veya soluna yanaşırken, sağa veya sola dönerken, karayolunu kullananlar
 için tehlike doğurabilecek ve bunların hareketlerini zorlaştıracak şekilde davranmaları yasaktır.
+
+58 12/2/2026 tarihli ve 7574 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “ve Şehircilik”
+ibaresi “, Şehircilik ve İklim Değişikliği” şeklinde değiştirilmiştir.
 b) Yönetmelikte belirtilen şartlar dışında geriye dönmek veya geriye gitmek yasaktır.
 İzin verilen hallerde bu manevraları yapacak sürücüler, karayolunu kullananlar için tehlike
 veya engel yaratmamak zorundadır.
-
-57 12/2/2026 tarihli ve 7574 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “ve Şehircilik”
-ibaresi “, Şehircilik ve İklim Değişikliği” şeklinde değiştirilmiştir.
 c) Dönüşlerde veya şerit değiştirmelerde sürücülerin niyetlerini dönüş işaret ışıkları
 veya kol işareti ile açıkça ve yeterli şekilde belirtmesi, işaretlerin manevra süresince devam
 etmesi ve biter bitmez sona erdirilmesi zorunludur.
@@ -2444,7 +2446,7 @@ verilir ve sürücü belgeleri altmış gün süreyle geri alınır. Ayrıca, ar
 trafikten menedilir. Bu şekilde sürücü belgesi geri alınanlar psiko-teknik değerlendirmeden ve
 psikiyatri uzmanının muayenesinden geçirilerek sürücü belgesi almasına mâni hâli olmadığı
 anlaşılanlara bu Kanun kapsamında verilen trafik idari para cezalarının tahsil edilmiş olması
-şartıyla geri alma süresi sonunda belgeleri iade edilir.5859
+şartıyla geri alma süresi sonunda belgeleri iade edilir.5960
 (Ek: 18/10/2018-7148/22 md.) Son ihlalin gerçekleştiği tarihten geriye doğru beş yıl
 içinde bu madde kapsamında sürücü belgesi ikinci defa geri alınanların sürücü belgeleri iptal
 edilir. Sürücü belgesi iptal edilenlerin tekrar sürücü belgesi alabilmeleri için; sürücü
@@ -2454,28 +2456,28 @@ sürücü belgesinin iptal edildiği tarihten itibaren iptal nedenlerinde yer al
 kadar zamanın geçmiş olması, bu Kanun kapsamında verilen idari para cezalarının tamamının
 tahsil edilmiş olması ve tabi tutulacakları psiko-teknik değerlendirme ve psikiyatri uzmanı
 muayenesi sonucunda sürücülüğe engel hâli bulunmadığını gösterir belgenin sürücü kursuna
-ibrazı zorunludur.60
+ibrazı zorunludur.61
 (Ek fıkra:12/2/2026-7574/21 md.) Sürücü belgesi geri alma ve iptal işlemleri bu
 Kanunun 6 ncı maddesinde sayılan görevliler tarafından gerçekleştirilir.
 
 DÖRDÜNCÜ BÖLÜM
 Yayalar, Hayvanla Çekilen veya Elle Sürülen Araçlarla
+
+59 Anayasa Mahkemesinin 14/3/2019 tarihli ve E.: 2019/1, K.: 2019/14 sayılı Kararı ile, bu fıkranın
+üçüncü cümlesi “Sürücünün araç sahibi olmadığı hâl” yönünden iptal edilmiştir.
+60 12/2/2026 tarihli ve 7574 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “5.010” ibaresi
+“140.000” şeklinde değiştirilmiştir.
+61 12/2/2026 tarihli ve 7574 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Belgesi iptal
+edilenlerin” ibaresi “Sürücü belgesi iptal edilenlerin” şeklinde değiştirilmiş, fıkraya “eğitime
+başlayabilmeleri için” ibaresinden sonra gelmek üzere “sürücü belgesinin iptal edildiği tarihten
+itibaren iptal nedenlerinde yer alan geri alma süreleri kadar zamanın geçmiş olması, bu Kanun
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması ve” ibaresi eklenmştir.
 Hayvan Sürücüleri ve Yarışlar Hakkında Kurallar
 Yayaların uyacakları kurallar:
 
 MADDE 68
 
 Yayaların uyacakları kurallar aşağıda belirtilmiştir.
-
-58 Anayasa Mahkemesinin 14/3/2019 tarihli ve E.: 2019/1, K.: 2019/14 sayılı Kararı ile, bu fıkranın
-üçüncü cümlesi “Sürücünün araç sahibi olmadığı hâl” yönünden iptal edilmiştir.
-59 12/2/2026 tarihli ve 7574 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “5.010” ibaresi
-“140.000” şeklinde değiştirilmiştir.
-60 12/2/2026 tarihli ve 7574 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Belgesi iptal
-edilenlerin” ibaresi “Sürücü belgesi iptal edilenlerin” şeklinde değiştirilmiş, fıkraya “eğitime
-başlayabilmeleri için” ibaresinden sonra gelmek üzere “sürücü belgesinin iptal edildiği tarihten
-itibaren iptal nedenlerinde yer alan geri alma süreleri kadar zamanın geçmiş olması, bu Kanun
-kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması ve” ibaresi eklenmştir.
 a) Yayalar, aşağıda sayılan haller dışında, taşıt yolu bitişiğinde ve yakınında yaya
 yolu, banket veya alan varsa burada yürümek zorundadır.
 1. Yönetmelikte belirtilen tedbirler alınmak şartı ile diğer yayalar için ciddi rahatsızlık
@@ -2486,7 +2488,7 @@ kafileleri taşıt yolu üzerinde yürüyebilirler.
 2. Yayaların yürümesine ayrılmış kısımların kullanılmasının mümkün olmaması veya
 bulunmaması hallerinde yayalar, bisiklet trafiğine engel olmamak şartı ile bisiklet yolunda
 veya şeridinde; bisiklet yolu veya bisiklet şeridi yoksa taşıt yolu üzerinde, imkan oranında
-taşıt yolu kenarına yakın olmak şartı ile yürüyebilirler.61
+taşıt yolu kenarına yakın olmak şartı ile yürüyebilirler.62
 3. Her iki tarafında, yaya yolu ve banket bulunmayan veya kullanılır durumda
 olmayan iki yönlü trafiğin kullanıldığı karayollarında yaya kafileleri dışındaki yayalar, taşıt
 yolunun sol kenarını izlemek zorundadır.
@@ -2513,21 +2515,21 @@ Hayvanla çekilen, elle sürülen araçları sürenler ile hayvan sürücülerin
 MADDE 69
 
 Yerleşim birimleri dışındaki karayolunda, taşıt yolu üzerinde zorunlu
+
+62 24/12/2020 tarihli ve 7261 sayılı Kanunun 27 nci maddesiyle, bu alt bende “ile bisiklet yolunda”
+ibaresinden sonra gelmek üzere “veya şeridinde;” ibaresi ve “bisiklet yolu” ibaresinden sonra gelmek
+üzere “veya bisiklet şeridi” ibaresi eklenmiştir.
 haller dışında hayvan bulundurmak, karayollarının yasaklanmamış, kesimlerinde ise hayvanla
 çekilen veya elle sürülen araçları, hayvanları, hayvan sürülerini ve binek hayvanlarını trafik
 kurallarına uymadan sürmek ve bunları sürme yeteneğinden yoksun kimselerin yönetimine
-
-61 24/12/2020 tarihli ve 7261 sayılı Kanunun 27 nci maddesiyle, bu alt bende “ile bisiklet yolunda”
-ibaresinden sonra gelmek üzere “veya şeridinde;” ibaresi ve “bisiklet yolu” ibaresinden sonra gelmek
-üzere “veya bisiklet şeridi” ibaresi eklenmiştir.
 vermek veya başı boş bırakmak yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayanlar 1 800 000 lira
 para cezası ile cezalandırılırlar. Ancak, başıboş hayvan bırakma yasağına riayet etmeyerek
-trafik kazasına sebebiyet veren faile üç ay hafif hapis cezası uygulanır.62
+trafik kazasına sebebiyet veren faile üç ay hafif hapis cezası uygulanır.63
 Taşıt yolunu kullanmak zorunda olan hayvan sürü ve kümelerini sevk ve idare edenler
 yönetmelikte belirtilen usul ve şartlara uymak zorundadırlar.
 
-62 Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun 4 üncü maddesi
+63 Bu maddenin, ikinci ve dördüncü fıkraları, 21/5/1997 tarih ve 4262 sayılı Kanunun 4 üncü maddesi
 ile birleştirilmek suretiyle maddenin ikinci fıkrası olarak yeniden düzenlenmiştir.
 Yarış ve koşulara ait kurallar:
 
@@ -2538,7 +2540,7 @@ a) Bir il sınırı içindeki karayolları üzerinde yapılacak yarış ve koşu
 valiliğinden,
 b) Birden fazla il sınırları içindeki şehirlerarası karayolları üzerinde yapılacak milli ve
 milletlerarası yarış ve koşular için İçişleri Bakanlığından izin alınması zorunludur. Bu izin
-verilirken Ulaştırma ve Altyapı Bakanlığının uygun görüşü alınır.63
+verilirken Ulaştırma ve Altyapı Bakanlığının uygun görüşü alınır.64
 İzinsiz yapılan yarış ve koşular görevlilerce derhal durdurulur.
 Yarış ve koşularda trafik güvenliği yönünden uygulanacak usul ve şartlar yönetmelikte
 gösterilir.
@@ -2572,9 +2574,9 @@ MADDE 71
 Geçiş üstünlüğüne sahip araçlar öncelik sırasıyla şunlardır:
 a) Cankurtaran araçları, yaralı veya acil hasta taşıyan araçlar,
 
-63 12/2/2026 tarihli ve 7574 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “Bayındırlık”
+64 12/2/2026 tarihli ve 7574 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “Bayındırlık”
 ibaresi “Ulaştırma ve Altyapı” şeklinde değiştirilmiştir.
-b) İtfaiye araçları, orman yangınlarıyla mücadele eden araçlar,64
+b) İtfaiye araçları, orman yangınlarıyla mücadele eden araçlar,65
 c) Hükümlü veya sanığı takip eden veya emniyet ve asayişi korumak için acele olay
 yerine giden zabıta araçları,
 d) Bir trafik suçu işleyerek kaçan aracı takip eden veya trafik güvenliğini koruma veya
@@ -2593,7 +2595,7 @@ Bunların birbirleriyle karşılaşmalarında birinin diğerine göre geçiş ü
 yazılı olan sıraya göredir.
 Zorunluluk olmadığı hallerde geçiş üstünlüğünü kullanmak yasaktır.
 (Değişik: 21/5/1997-4262/4 md.) Zorunluluk olmadığı halde geçiş üstünlüğü hakkını
-kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır.65
+kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır.66
 (Ek fıkra: 6/12/2019-7196/42 md.) Bu maddenin uygulanmasına ilişkin usul ve
 esaslar İçişleri Bakanlığınca çıkarılan yönetmelikte belirlenir.
 
@@ -2612,9 +2614,9 @@ Bu fıkra hükümlerine uymayanlara 21.000 Türk lirası idari para cezası uygu
 araçlar otuz gün süreyle trafikten menedilir.
 Kanun ve yönetmelikte belirtilen şartlara uymayan ses, müzik, görüntü ve haberleşme
 
-64 19/4/2018 tarihli ve 7139 sayılı Kanunun 25 inci maddesiyle, bu maddenin birinci fıkrasının (b)
+65 19/4/2018 tarihli ve 7139 sayılı Kanunun 25 inci maddesiyle, bu maddenin birinci fıkrasının (b)
 bendine “orman yangınlarıyla mücadele eden araçlar,” ibaresi eklenmiştir.
-65 12/2/2026 tarihli ve 7574 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “gereksiz geçiş
+66 12/2/2026 tarihli ve 7574 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “gereksiz geçiş
 üstünlüğü hakkını kullanan sürücüler 1 800 000 lira para cezası ile cezalandırılırlar” ibaresi “geçiş
 üstünlüğü hakkını kullanan sürücülere 46.000 Türk lirası idari para cezası uygulanır” şeklinde
 değiştirilmiştir.
@@ -2680,7 +2682,7 @@ geçmeleri zorunludur.
 (Değişik: 21/5/1997-4262/4 md.) Bu madde hükümlerine uymayan sürücüler 3 600 000
 lira para cezası ile cezalandırılırlar.
 
-MADDE 77 — Çocuk, hasta ve engelli taşıtları, gözleri görmeyen yayalar, yürüyüş kolları:66
+MADDE 77 — Çocuk, hasta ve engelli taşıtları, gözleri görmeyen yayalar, yürüyüş kolları:67
 
 Bu Kanun açısından;
 a) Çocuk, hasta ve engellilere ait motorsuz taşıtların sürücülerine, yayalarla ilgili
@@ -2712,7 +2714,7 @@ etmeden önce ve seyahat sırasında emniyet kemerlerini bağlamaları konusunda
 zorunludur.
 Birinci fıkranın (a) bendi hükmünü ihlal eden sürücülere/yolculara 2.500 Türk lirası
 
-66 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
+67 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
 “sakat” ibaresi “engelli”, birinci fıkrasının (a) bendinde yer alan “sakatlara” ibaresi “engellilere”,
 şeklinde değiştirilmiştir.
 idari para cezası uygulanır. Sürücüler tarafından son ihlalin gerçekleştiği tarihten geriye doğru
@@ -2734,7 +2736,7 @@ sistemleri kullanmalarını sağlamak zorundadırlar. 15 yaşını doldurmamış
 koruyucu sistemleri kullanmadan veya usulüne uygun olarak kullanılmasını sağlamadan
 seyahatine izin veren araç sürücüsüne 5.000 Türk lirası idari para cezası uygulanır.
 
-MADDE 79 — Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:67
+MADDE 79 — Park ücretinin alınması, araçların çektirilmesi ve kaldırılması ile muhafazası:68
 
 (Değişik: 31/5/2012-6321/2 md.)
 Karayolu üzeri park yerindeki araçlar için park ücreti, yetki ve sorumluluk alanına
@@ -2757,7 +2759,7 @@ Trafikle ilgili diğer kurallar ile tehlikeli madde taşıyan araçlar, çeken,
 çekilen araçlar, kol ve grup halinde seyreden araçlar ve hayvan sürüleri, taşıma sınırı ve
 gabari ölçüleri ile yük ve yolcu taşınması ile ilgili diğer kurallar ve şartlar yönetmelikte
 
-67 31/5/2012 tarihli ve 6321 sayılı Kanunun 2 nci maddesi ile bu maddenin başlığı “Karayolu
+68 31/5/2012 tarihli ve 6321 sayılı Kanunun 2 nci maddesi ile bu maddenin başlığı “Karayolu
 üzerindeki park yerlerinde ücret almaya yetkililer” iken metne işlendiği şekilde değiştirilmiştir.
 gösterilir.
 
@@ -2774,7 +2776,7 @@ b) Kazada ölen, yaralanan veya maddi hasar var ise bu kaza trafiği, can ve mal
 güvenliğini etkilemiyorsa, sorumluluğun saptanmasında yararlı olacak kanıt ve izler dahil,
 kaza yerindeki durumu değiştirmemek,
 c) Kazaya karışan kişiler tarafından istendiği takdirde kimliğini, adresini, sürücü ve
-tescil belgesi ile sigorta poliçe tarih ve numarasını bildirmek ve göstermek,68
+tescil belgesi ile sigorta poliçe tarih ve numarasını bildirmek ve göstermek,69
 d) Kazayı; yetkili ve görevli memurlara bildirmek, bunlar gelinceye kadar veya
 bunların iznini almadan kaza yerinden ayrılmamak,
 e) Sürücüsü, mal sahibi veya ilgili kişilerin bulunmadığı sırada araç, eşya veya yüklere
@@ -2803,7 +2805,7 @@ MADDE 82
 Karayollarında meydana gelecek trafik kazalarına hemen el konmasını, ölü
 ve yaralıların taşınmasını veya yaralıların tedavisini veya sanıkların yakalanmasını sağlamak için,
 
-68 2/1/2017 tarihli ve 680 sayılı KHK’nin 58 inci maddesi ile bu bentte yer alan “trafik belgesi”
+69 2/1/2017 tarihli ve 680 sayılı KHK’nin 58 inci maddesi ile bu bentte yer alan “trafik belgesi”
 ibaresi “tescil belgesi” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
 Kanunun 57 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 a) Kaza yerinden geçmekte olan veya kazaya karışmış bulunan araçların sürücüleri
@@ -2873,9 +2875,9 @@ kusur oranı yönetmelikte belirtilen esaslara göre tespit edilir.
 SEKİZİNCİ KISIM
 Hukuki Sorumluluk ve Sigorta
 
-BİRİNCİ BÖLÜM69
+BİRİNCİ BÖLÜM70
 İşletenin Hukuki Sorumluluğu
-İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:69
+İşleten ve araç işleticisinin bağlı olduğu teşebbüs sahibinin hukuki sorumluluğu:70
 
 MADDE 85
 
@@ -2892,7 +2894,7 @@ kaydı üzerine şerh düşülmesi arasında geçen süreler içinde kötü niye
 hükümsüz sayılır. Şerhin konulduğu tarihten itibaren bir ay içerisinde, şerhin kaldırıldığına veya
 devamına ilişkin mahkeme kararı ibraz edilmediği takdirde bu şerh hükümsüz sayılır.
 
-69 Sekizinci Kısım Birinci Bölüm başlığı ile 85 inci maddenin madde başlığı 17/10/1996 tarih ve 4199
+70 Sekizinci Kısım Birinci Bölüm başlığı ile 85 inci maddenin madde başlığı 17/10/1996 tarih ve 4199
 sayılı Kanunun 28 inci maddesiyle değiştirilmiştir.
 İşletilme halinde olmayan bir motorlu aracın sebep olduğu trafik kazasından dolayı
 işletenin sorumlu tutulabilmesi için, zarar görenin, kazanın oluşumunda işleten veya eylemlerinden
@@ -2909,7 +2911,7 @@ sürücüsünün veya aracın kullanılmasına katılan yardımcı kişilerin ku
 gibi sorumludur.
 
 İşletenin veya araç işleticisinin bağlı olduğu teşebbüs sahibinin, sorumluluktan
-kurtulması veya sorumluluğun azaltılması:70
+kurtulması veya sorumluluğun azaltılması:71
 
 MADDE 86
 
@@ -2942,7 +2944,7 @@ MADDE 88
 Bir motorlu aracın katıldığı bir kazada, bir üçüncü kişinin uğradığı
 zarardan dolayı, birden fazla kişi tazminatla yükümlü bulunuyorsa, bunlar müteselsil olarak
 
-70 Bu madde başlıkları, 17/10/1996 tarih ve 4199 sayılı Kanunla değiştirilmiştir.
+71 Bu madde başlıkları, 17/10/1996 tarih ve 4199 sayılı Kanunla değiştirilmiştir.
 sorumlu tutulur.
 (Değişik: 17/10/1996-4199/31 md.) Birden fazla kişinin sorumlu olduğu durumlarda,
 bunlar arasındaki ilişki bakımından zarar, olayın bütün şartları değerlendirilerek paylaştırılır.
@@ -2951,7 +2953,7 @@ paylaştırılmasını haklı göstermedikçe, işletenler ve araç işleticisin
 sahipleri kusurları oranında zarara katlanırlar.
 
 İşletenler veya araç işleticisinin bağlı olduğu teşebbüs sahipleri arasında zararın
-tazmini:70
+tazmini:71
 
 MADDE 89
 
@@ -2974,21 +2976,21 @@ Maddi ve manevi tazminat:
 MADDE 90
 
 (Değişik:14/4/2016-6704/3 md.)
-Zorunlu mali sorumluluk sigortası kapsamındaki tazminatlar bu Kanunda (…)71 öngörülen
+Zorunlu mali sorumluluk sigortası kapsamındaki tazminatlar bu Kanunda (…)72 öngörülen
 usul ve esaslara tabidir. (Ek cümle:9/6/2021-7327/18 md.) (İptal cümle: Anayasa Mahkemesi’nin
 29/12/2022 tarihli ve E.: 2021/82, K.: 2022/167 sayılı Kararı ile.) Söz konusu tazminatlar ve manevi
-tazminata ilişkin olarak bu Kanunda (…)71 düzenlenmeyen hususlar hakkında 11/1/2011 tarihli
-ve 6098 sayılı Türk Borçlar Kanununun haksız fiillere ilişkin hükümleri uygulanır.72
+tazminata ilişkin olarak bu Kanunda (…)72 düzenlenmeyen hususlar hakkında 11/1/2011 tarihli
+ve 6098 sayılı Türk Borçlar Kanununun haksız fiillere ilişkin hükümleri uygulanır.73
 (Ek fıkra:9/6/2021-7327/18 md.) (İptal fıkra: Anayasa Mahkemesi’nin 29/12/2022
 tarihli ve E.: 2021/82, K.: 2022/167 sayılı Kararı ile.)
 
 İKİNCİ BÖLÜM
 
-71 Anayasa Mahkemesi’nin 17/7/2020 tarihli ve E.: 2019/40, K.: 2020/40 sayılı Kararı ile, bu
+72 Anayasa Mahkemesi’nin 17/7/2020 tarihli ve E.: 2019/40, K.: 2020/40 sayılı Kararı ile, bu
 maddenin birinci cümlesinde yer alan “…ve bu Kanun çerçevesinde hazırlanan genel şartlarda…”
 ibaresinin ve ikinci cümlesinde yer alan “…ve genel şartlarda…” ibaresinin Anayasa’ya aykırı
 olduğuna ve iptaline karar verilmiştir.
-72 9/6/2021 tarihli ve 7327 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “Kanun” ibareleri
+73 9/6/2021 tarihli ve 7327 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “Kanun” ibareleri
 “Kanunda” şeklinde değiştirilmiştir.
 Sigorta
 Mali sorumluluk sigortası yaptırma zorunluluğu:
@@ -3121,7 +3123,7 @@ kuruluşunun başvuru tarihinden itibaren en geç 15 gün içinde başvuruyu yaz
 cevaplamaması veya verilen cevabın talebi karşılamadığına ilişkin uyuşmazlık olması hâlinde,
 zarar gören dava açabilir veya 5684 sayılı Kanun çerçevesinde tahkime başvurabilir.
 
-MADDE 98 — Sağlık hizmet bedellerinin ödenmesi:73
+MADDE 98 — Sağlık hizmet bedellerinin ödenmesi:74
 
 (Değişik: 13/2/2011-6111/59 md.)
 Trafik kazaları sebebiyle üniversitelere bağlı hastaneler ve diğer bütün resmî ve özel
@@ -3131,7 +3133,7 @@ sağlık hizmeti geri ödeme usul ve esasları çerçevesinde Sosyal Güvenlik K
 karşılanır. (Ek cümle: 4/4/2015-6645/60 md.) Ancak, Sosyal Güvenlik Kurumu, bu kapsama
 girenler yönünden genel sağlık sigortalısı sayılanlar için belirlenen sağlık hizmetlerine ilave
 sağlık hizmetlerini belirler, protez ve ortezler için farklı birim fiyatı tespit eder. Bu sağlık
-hizmetleri sağlık uygulama tebliğindeki istisnai sağlık hizmetleri kapsamına dâhil edilmez.74
+hizmetleri sağlık uygulama tebliğindeki istisnai sağlık hizmetleri kapsamına dâhil edilmez.75
 Trafik kazalarına sağlık teminatı sağlayan zorunlu sigortalarda; sigorta şirketlerince
 yazılan primlerin ve Güvence Hesabınca tahsil edilen katkı paylarının % 15’ini aşmamak
 üzere, münhasıran bu teminatın karşılığı olarak Hazine Müsteşarlığınca sigortacılık ilkeleri
@@ -3140,7 +3142,7 @@ tarihli ve 5684 sayılı Sigortacılık Kanununun 14 üncü maddesinde düzenlen
 Güvence Hesabı tarafından Sosyal Güvenlik Kurumuna aktarılır. Söz konusu tutar, ilgili
 sigorta şirketleri için sigortacılık ilkelerine göre ayrı ayrı belirlenebilir. Aktarım ile sigorta
 şirketlerinin ve Güvence Hesabının bu teminat kapsamındaki yükümlülükleri sona erer.
-Cumhurbaşkanı söz konusu tutarı % 50’sine kadar artırmaya veya azaltmaya yetkilidir.75
+Cumhurbaşkanı söz konusu tutarı % 50’sine kadar artırmaya veya azaltmaya yetkilidir.76
 Bu madde çerçevesinde sigorta şirketleri ve Güvence Hesabı tarafından ödenecek
 meblağın süresinde ödenmemesi halinde 31/5/2006 tarihli ve 5510 sayılı Kanunun 89 uncu
 maddesinin ikinci fıkrası uygulanır.
@@ -3153,12 +3155,12 @@ bakımından, Sosyal Güvenlik Kurumu tarafından Sağlık Bakanlığına yapıl
 ilişkin usul ve esaslar Sosyal Güvenlik Kurumu ve Sağlık Bakanlığı tarafından ayrıca
 belirlenir.
 
-73 Bu madde başlığı “Tedavi giderlerinin ödenmesi:” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun
+74 Bu madde başlığı “Tedavi giderlerinin ödenmesi:” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun
 59 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-74 4/4/2015 tarihli ve 6645 sayılı Kanunun 60 ıncı maddesiyle, bu fıkraya “kazazedenin sosyal
+75 4/4/2015 tarihli ve 6645 sayılı Kanunun 60 ıncı maddesiyle, bu fıkraya “kazazedenin sosyal
 güvencesi olup olmadığına bakılmaksızın” ibaresinden sonra gelmek üzere “genel sağlık sigortalısı
 sayılanlar için belirlenen sağlık hizmeti geri ödeme usul ve esasları çerçevesinde” ibaresi eklenmiştir.
-75 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 188 inci maddesiyle bu fıkrada yer
+76 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 188 inci maddesiyle bu fıkrada yer
 alan “Hazine Müsteşarlığının bağlı bulunduğu Bakanlığın teklifi üzerine Bakanlar Kurulu” ibaresi
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Tazminat ve giderlerin ödenmesi:
@@ -3168,7 +3170,7 @@ MADDE 99
 Sigortacılar, hak sahibinin zorunlu mali sorumluluk sigortası genel
 şartlarıyla belirlenen belgeleri, sigortacının merkez veya kuruluşlarından birine ilettiği
 tarihten itibaren sekiz iş günü içinde zorunlu mali sorumluluk sigortası sınırları içinde kalan
-miktarları hak sahibine ödemek zorundadırlar.76
+miktarları hak sahibine ödemek zorundadırlar.77
 Ödemeyi yapan sigortacı, ödenen miktarın sorumluluk oranlarında paylaşılmasını
 diğer sigortacılardan yazılı olarak talep eder. Diğer sigortacılar talep tarihinden itibaren sekiz
 iş günü içinde kendilerine düşen miktarı talepte bulunana öder.
@@ -3209,11 +3211,11 @@ dolayı sorumluluğunu da kapsar.
 yaptırılarak tüm katarın en az zorunlu mali sorumluluk sigortası tutarlarının kapsamına
 girmesi sağlanmadıkça, trafiğe çıkarılamaz.
 
-76 14/4/2016 tarihli ve 6704 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “kaza veya zarara
+77 14/4/2016 tarihli ve 6704 sayılı Kanunun 6 ncı maddesiyle, bu fıkrada yer alan “kaza veya zarara
 ilişkin tespit tutanağını veya bilirkişi raporunu” ibaresi “zorunlu mali sorumluluk sigortası genel
 şartlarıyla belirlenen belgeleri” şeklinde değiştirilmiştir.
 
-MADDE 103 — Motorsuz taşıtlar ve motorlu bisiklet:77
+MADDE 103 — Motorsuz taşıtlar ve motorlu bisiklet:78
 
 Motorsuz taşıtlar ile motorlu bisiklet sürücülerinin hukuki sorumluluğu
 genel hükümlere tabidir.
@@ -3257,7 +3259,7 @@ Motorlu araçlar için yapılacak sigortalarda en az sigorta tutarları zorunlu 
 sigortasındaki tutarlardan az olamaz. Bu Kanunun zarar görenin doğrudan doğruya sigortacıyı
 dava edebilmesine ilişkin 97 nci maddesi hükümleri ile zarar görenlerin birden çok olması
 
-77 12/2/2026 tarihli ve 7574 sayılı Kanunun 28 inci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
+78 12/2/2026 tarihli ve 7574 sayılı Kanunun 28 inci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
 üzere bu maddede değişiklikler yapılmıştır. Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat
 Bilgi Sistemine işlenecek olup mezkur düzenlemeyi görmek için 27/2/2026 tarihli ve 33181 sayılı
 Resmî Gazete’ye bakınız.
@@ -3324,7 +3326,7 @@ kendi yükümlülüklerini tam olarak yerine getirdikleri ve rücu edilecek kims
 günden başlayarak iki yılda zamanaşımına uğrar.
 Diğer hususlarda, genel hükümler uygulanır.
 
-MADDE 110 — Görevli ve Yetkili Mahkeme:78
+MADDE 110 — Görevli ve Yetkili Mahkeme:79
 
 (Değişik: 11/1/2011-6099/14 md.)
 İşleteni veya sahibi Devlet ve diğer kamu kuruluşları olan araçların sebebiyet verdiği
@@ -3333,7 +3335,7 @@ Zarar görenin kamu görevlisi olması, bu fıkra hükmünün uygulanmasını ö
 geçitte meydana gelen tren-trafik kazalarında da bu Kanun hükümleri uygulanır.
 Motorlu araç kazalarından dolayı hukuki sorumluluğa ilişkin davalar, sigortacının
 şubesinin veya sigorta sözleşmesini yapan acentenin bulunduğu yer mahkemelerinden birinde
-açılabileceği gibi kazanın vuku bulduğu yer mahkemesinde de açılabilir.79
+açılabileceği gibi kazanın vuku bulduğu yer mahkemesinde de açılabilir.80
 
 Sorumluluğa ilişkin anlaşmalar:
 
@@ -3349,17 +3351,17 @@ Adli Kovuşturma ve Cezaların Uygulanması
 
 BİRİNCİ BÖLÜM
 Adli Kovuşturma
-Sürücü belgelerinin geri alınmasında ve iptalinde yetki:80
+Sürücü belgelerinin geri alınmasında ve iptalinde yetki:81
 
 MADDE 112
 
 (Değişik: 12/7/2013-6495/20 md.)
 
-78 Bu madde başlığı “Yetkili mahkeme:” iken, 11/1/2011 tarihli ve 6099 sayılı Kanunun 14 üncü maddesiyle
+79 Bu madde başlığı “Yetkili mahkeme:” iken, 11/1/2011 tarihli ve 6099 sayılı Kanunun 14 üncü maddesiyle
 metne işlendiği şekilde değiştirilmiştir.
-79 Anayasa Mahkemesinin 14/3/2024 tarihli ve E: 2023/79, K: 2024/80 sayılı Kararı ile bu fıkrada yer alan
+80 Anayasa Mahkemesinin 14/3/2024 tarihli ve E: 2023/79, K: 2024/80 sayılı Kararı ile bu fıkrada yer alan
 “…merkez…” ve “…veya…” ibareleri iptal edilmiştir.
-80 Bu madde başlığı “Bu Kanundaki suçlarla ilgili davalara bakacak mahkemeler ve yetkileri:” iken, 12/7/2013
+81 Bu madde başlığı “Bu Kanundaki suçlarla ilgili davalara bakacak mahkemeler ve yetkileri:” iken, 12/7/2013
 tarihli ve 6495 sayılı Kanunun 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Bu Kanunun 6 ncı maddesinde sayılan görevlilerin ve trafik tescil kuruluşlarının
 yetkilendirildiği hâller hariç olmak üzere, sürücü belgelerinin geri alınmasına ve iptaline sulh
@@ -3395,7 +3397,7 @@ MADDE 114
 işleyenler hakkında yetki sınırları içinde Emniyet Genel Müdürlüğü ve Jandarma Genel
 Komutanlığı personeli ile Ulaştırma ve Altyapı Bakanlığının ve Karayolları Genel Müdürlüğünün
 ilgili birimlerinin il ve ilçe kuruluşlarında görevli ve yetkili kılınmış personelince tutanak
-düzenlenir. 81
+düzenlenir. 82
 (Ek fıkra:12/2/2026-7574/29 md.) Bu Kanun kapsamında düzenlenen idari para
 cezası karar tutanakları ile diğer tutanaklara, görevli ve yetkili personelin açık kimliği yerine
 personel tanıtım numarası yazılır.
@@ -3405,14 +3407,14 @@ bir sureti ilgili mahkemeye 7 iş günü içinde gönderilir.
 (Mülga fıkra: 12/7/2013-6495/24 md.)
 (Mülga fıkra: 12/7/2013-6495/24 md.)
 
-81 12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Ulaştırma
+82 12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Ulaştırma
 Bakanlığının” ibaresi “Ulaştırma ve Altyapı Bakanlığının” şeklinde değiştirilmiştir.
 (Mülga fıkra: 12/7/2013-6495/24 md.)
 (Mülga fıkralar: 3/11/1988 – 3493/48 md.)
 Bu maddenin uygulanmasına ait usul ve esaslar yönetmelikle düzenlenir.
 (Ek fıkra: 3/7/2003-4916/32 md.) Trafik para cezaları kredi kartı ile de ödenebilir.
 Kredi kartı ile yapılan tahsilatın saymanlık hesaplarına aktarılma süresi ile uygulamaya ilişkin
-usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.82
+usul ve esaslar Hazine ve Maliye Bakanlığınca belirlenir.83
 
 Para cezalarının ödenme süresi:
 
@@ -3445,11 +3447,11 @@ aracın ülkeyi terk etmesine izin verilmez. (İptal cümle: Anayasa Mahkemesini
 tarihli ve E.: 2022/45, K.: 2022/89 sayılı Kararı ile.) Bu fıkra ve dokuzuncu fıkra hükümlerinin
 uygulanmasına ilişkin usul ve esaslar İçişleri Bakanlığı, Hazine ve Maliye Bakanlığı, Ulaştırma
 ve Altyapı Bakanlığı ile Ticaret Bakanlığınca müştereken çıkarılan yönetmelikle belirlenir.
-Uluslararası sözleşme hükümleri saklıdır.83
+Uluslararası sözleşme hükümleri saklıdır.84
 
-82 12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Maliye
+83 12/2/2026 tarihli ve 7574 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Maliye
 Bakanlığınca” ibaresi “Hazine ve Maliye Bakanlığınca” şeklinde değiştirilmiştir.
-83 12/2/2026 tarihli ve 7574 sayılı Kanunun 30 uncu maddesiyle bu fıkrada yer alan “Bu fıkra” ibaresi
+84 12/2/2026 tarihli ve 7574 sayılı Kanunun 30 uncu maddesiyle bu fıkrada yer alan “Bu fıkra” ibaresi
 “Bu fıkra ve dokuzuncu fıkra” şeklinde, “Gümrük ve Ticaret Bakanlığı, İçişleri Bakanlığı ve Maliye
 (Ek fıkra:12/2/2026-7574/30 md.) Bu Kanunun ilgili maddelerinde belirtilen trafik
 kurallarına aykırılık nedeniyle; yabancı uyruklu kişiye uygulanan ve ülkemizden çıkışına
@@ -3470,7 +3472,7 @@ Para cezasının ödenmesi gerektiği hallerde trafik kaydında araç sahibi ola
 kişiye cezayı ödemesi için posta yoluyla tebligat yapılır, bu şekilde tebliğ edilemeyen
 tutanaklar ilgili tahsil dairesinin ilân asmaya mahsus yerinde liste halinde ilân edilir, ilân
 tarihini takip eden otuzuncu gün tebligat yapılmış sayılır ve bu cezalar 114 ve 115 inci
-maddelerde belirtilen şekilde takip ve tahsil olunur.84
+maddelerde belirtilen şekilde takip ve tahsil olunur.85
 (Mülga üçüncü fıkra: 16/6/2009-5904/39 md.)
 (Mülga dördüncü fıkra: 16/6/2009-5904/39 md.)
 (Mülga beşinci fıkra: 16/6/2009-5904/39 md.)
@@ -3495,12 +3497,12 @@ Ceza puanı uygulaması, puanlama ve trafik kazası nedeniyle sürücü belgeler
 Bakanlığı ile Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca” ibaresi “İçişleri Bakanlığı, Hazine
 ve Maliye Bakanlığı, Ulaştırma ve Altyapı Bakanlığı ile Ticaret Bakanlığınca” şeklinde
 değiştirilmiştir.
-84 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle bu fıkrada yer alan “ödemesi için
+85 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu maddesiyle bu fıkrada yer alan “ödemesi için
 tebligat yapılır ve” ibaresi, “ödemesi için posta yoluyla tebligat yapılır, bu şekilde tebliğ edilemeyen
 tutanaklar ilgili tahsil dairesinin ilân asmaya mahsus yerinde liste halinde ilân edilir, ilân tarihini
 takip eden otuzuncu gün tebligat yapılmış sayılır ve” şeklinde değiştirilmiştir.
 
-MADDE 118 — geri alınması:85
+MADDE 118 — geri alınması:86
 
 Bu Kanunun suç saydığı bir fiilden dolayı haklarında ceza uygulanan
 sürücülere, aldıkları her ceza, için esasları yönetmelikte belirlenen ceza puanları verilir.
@@ -3549,7 +3551,7 @@ tutanaklar hakkında yapılacak işlemler, yetki sınırları, koordinasyon ve i
 Makbuz ve tutanaklar Maliye Bakanlığınca bastırılır ve trafik kuruluşlarına dağıtım
 sağlanır. (Ek cümle: 25/6/2010-6001/34 md.) Söz konusu tutanaklar elektronik ortamda da
 
-85 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 37 nci maddesi ile değiştirilmiştir.
+86 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 37 nci maddesi ile değiştirilmiştir.
 üretilebilir ve düzenlenebilir. Buna dair usul ve esaslar İçişleri ve Maliye bakanlıklarınca
 müştereken belirlenir.
 
@@ -3608,7 +3610,7 @@ yapma izni verebilir.
 eğitim, denetim ve çalışma esasları ile diğer hususlar İçişleri, Bayındırlık ve İskan Bakanlıklarının
 görüşleri alınarak Milli Eğitim Bakanlığınca çıkarılacak Yönetmelikle düzenlenir.
 
-MADDE 125 — Okul, radyo ve televizyonlarda trafik eğitimi:86
+MADDE 125 — Okul, radyo ve televizyonlarda trafik eğitimi:87
 
 (Değişik birinci fıkra: 17/10/1996-4199/41 md.) Milli Eğitim
 Bakanlığınca, ilköğretim ve ortaöğretim okullarında ders programlarına eğitim amacı ile
@@ -3640,7 +3642,7 @@ belirtilir.
 Barışta, bu düzenleme ve yönetimi denemek için yapılacak manevra ve tatbikatlarda
 Genelkurmay Başkanlığının istemi üzerine özel uygulamalar yapılabilir.
 
-86 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 41 inci maddesi ile değiştirilmiştir.
+87 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 41 inci maddesi ile değiştirilmiştir.
 
 MADDE 127
 
@@ -3776,7 +3778,7 @@ alınır. (Ek cümleler:12/2/2026-7574/32 md.) Son ihlalin gerçekleştiği tari
 bir yıl içerisinde bu fıkranın tekrar ihlal edilmesi hâlinde idari para cezaları iki kat olarak
 uygulanır. Sürücü belgesi geri alma işlemleri bu Kanunun 6 ncı maddesinde sayılan görevliler
 tarafından yapılır. Bu şekilde geri alınan sürücü belgelerinin iade edilebilmesi için bu Kanun
-kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır.87
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması şarttır.88
 İşleteni veya sahibi, sürücüsünün kendisi olup olmadığına bakılmaksızın aracın bu
 maddenin üçüncü fıkrasına aykırı olarak kullanılmaması hususunda gerekli tedbirleri almak
 ve denetimini yapmakla yükümlüdür. Araç, bu maddenin üçüncü fıkrasının;
@@ -3790,7 +3792,7 @@ süreyle trafikten menedilir.
 menedilir.
 Ayırıcı işareti bulunmayan üçüncü fıkra kapsamındaki araçlardan taşımacılık hizmeti
 
-87 12/2/2026 tarihli ve 7574 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “5.010” ibaresi
+88 12/2/2026 tarihli ve 7574 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “5.010” ibaresi
 “100.000” şeklinde, “2.018” ibaresi “46.000” şeklinde, “1.002” ibaresi “20.000” şeklinde
 değiştirilmiştir.
 alanlara da 334 Türk lirası idari para cezası uygulanır.
@@ -3958,7 +3960,7 @@ tutar, izleyen ayın sonuna kadar Emniyet Genel Müdürlüğü bütçesinden ilg
 sistem kullanımı hizmet bedeli olarak ödenir. (Ek cümle: 20/8/2016-6745/30 md.) Elektronik
 sistemlerin belediyeler tarafından hasılat paylaşımı yoluyla kurdurulması ve işlettirilmesi
 hâlinde belediyelere ödenecek tutar, elektronik sistemlerin yatırım maliyetine ulaşıncaya
-kadar %30, sonrasında %15 olarak uygulanır.88
+kadar %30, sonrasında %15 olarak uygulanır.89
 Bu madde kapsamında hizmetinden yararlanılacak elektronik sistemlerin taşıması
 gereken teknik özellikler, kurulması gereken yerler ve belediyelerle yapılacak protokollere
 ilişkin diğer şartlar ile maddenin uygulamasına ilişkin usul ve esaslar Maliye Bakanlığı ve
@@ -3971,7 +3973,7 @@ EK MADDE 17
 (Ek: 12/7/2013-6495/22 md.)
 İlk defa sürücü belgesi alanlar en az bir yıl süre ile aday sürücü olarak kabul edilirler.
 Aday sürücülüğün süresi, aday sürücülerin sürücü belgelerinin iptal edilme ve yeniden
-sürücü belgesi alma şartları ile diğer usul ve esaslar yönetmelikle düzenlenir.89
+sürücü belgesi alma şartları ile diğer usul ve esaslar yönetmelikle düzenlenir.90
 Aday sürücülerle ilgili olarak yönetmelikte belirtilen iptal edilme şartlarının oluşması
 hâlinde, bu Kanunun 6 ncı maddesinde sayılan görevliler tarafından sürücü belgeleri iptal edilir.
 
@@ -3983,10 +3985,10 @@ EK MADDE 18
 Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş ve işlemler, bu
 Kanunun 131 inci maddesi hükümleri saklı kalmak üzere, Türkiye Noterler Birliği koordinesinde
 
-88 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
+89 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
 cümlesinde yer alan “Belediyelerce” ibaresinden sonra gelmek üzere “veya sermayesinin tamamı
 belediyelere ait şirketler tarafından” ibaresi eklenmiştir.
-89 Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2025/28, K.: 2025/139 sayılı Kararı ile bu fıkrada
+90 Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2025/28, K.: 2025/139 sayılı Kararı ile bu fıkrada
 yer alan “sürücü belgelerinin iptal edilme” ibaresi iptal edilmiştir. Bu değişiklik yayımlanmasından
 başlayarak dokuz ay sonra (2/9/2026) tarihinde yürürlüğe girer.
 noterliklere devredilebilir. Bu durumda;
@@ -3994,7 +3996,7 @@ a) Araç tescil işlemlerine ilişkin olarak noterliklere devredilen iş ve işl
 mevzuatta Emniyet birimlerine yapılmış olan atıflar, noterliklere yapılmış sayılır.
 b) Araç sicil ve tescil sistemi veri tabanı Türkiye Noterler Birliğince tutulur ve bu
 kuruluşça yönetimi ve güvenliği sağlanır. Veri tabanında yer alan bilgiler anlık olarak Emniyet
-Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.90
+Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.91
 c) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret, araç tescil
 hizmetlerine ilişkin iş ve işlemler ile bu maddenin uygulanmasına ilişkin usul ve esaslar;
 Bilim, Sanayi ve Teknoloji Bakanlığı, Maliye Bakanlığı ve Ulaştırma, Denizcilik ve
@@ -4033,7 +4035,7 @@ GEÇİCİ MADDE 1
 araçlara ait belgelerle şoför ehliyetnameleri ve sürücü belgelerinin değiştirilip yenilenmesi bilgi
 işlem merkezi hizmete konulduktan sonra yönetmelikte belirtilen usul, esas ve şartlara göre
 
-90 21/11/2024 tarihli ve 7533 sayılı Kanunun 26 ncı maddesi ile bu bendin ikinci cümlesine
+91 21/11/2024 tarihli ve 7533 sayılı Kanunun 26 ncı maddesi ile bu bendin ikinci cümlesine
 “Emniyet Genel Müdürlüğü” ibaresinden sonra gelmek üzere “ve Jandarma Genel
 Komutanlığı” ibaresi eklenmiştir.
 yapılır. Bu işlemlere İçişleri Bakanlığının tespit ve ilan edeceği tarihte başlanır ve iki yıl içinde

@@ -9,7 +9,7 @@ tutanaklar hakkında yapılacak işlemler, yetki sınırları, koordinasyon ve i
 Makbuz ve tutanaklar Maliye Bakanlığınca bastırılır ve trafik kuruluşlarına dağıtım
 sağlanır. (Ek cümle: 25/6/2010-6001/34 md.) Söz konusu tutanaklar elektronik ortamda da
 
-85 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 37 nci maddesi ile değiştirilmiştir.
+86 Bu madde başlığı, 17/10/1996 tarih ve 4199 sayılı Kanunun 37 nci maddesi ile değiştirilmiştir.
 üretilebilir ve düzenlenebilir. Buna dair usul ve esaslar İçişleri ve Maliye bakanlıklarınca
 müştereken belirlenir.
 
