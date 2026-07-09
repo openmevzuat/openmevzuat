@@ -1,4 +1,4 @@
-# MADDE 47 — Trafik işaret ve kurallarına uyma zorunluluğu:41
+# MADDE 47 — Trafik işaret ve kurallarına uyma zorunluluğu:42
 
 Karayollarından faydalananlar aşağıdaki sıralamaya göre;
 a) Trafiği düzenleme ve denetimle görevli trafik zabıtası veya özel kıyafetli veya işaret
@@ -16,11 +16,11 @@ bendine uymayan sürücüler 3.000 Türk lirası, (b) bendine uymayan sürücül
 trafik işaretlerinden kırmızı renkli olanına uyma kuralının son ihlalin gerçekleştiği tarihten
 geriye doğru bir yıl içinde;
 a) İkinci defa ihlal edilmesi halinde sürücüler 10.000 Türk lirası,
+
+42 18/10/2018 tarihli ve 7148 sayılı Kanunun 20 nci maddesiyle madde başlığı “Trafik işaretlerine
+uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 b) Üçüncü defa ihlal edilmesi halinde sürücüler 15.000 Türk lirası,
 c) Dördüncü defa ihlal edilmesi halinde sürücüler 20.000 Türk lirası,
-
-41 18/10/2018 tarihli ve 7148 sayılı Kanunun 20 nci maddesiyle madde başlığı “Trafik işaretlerine
-uyma:” iken metne işlendiği şekilde değiştirilmiştir.
 d) Beşinci defa ihlal edilmesi halinde sürücüler 30.000 Türk lirası,
 e) Altıncı defa ihlal edilmesi halinde sürücüler 80.000 Türk lirası,
 idari para cezası ile cezalandırılırlar.

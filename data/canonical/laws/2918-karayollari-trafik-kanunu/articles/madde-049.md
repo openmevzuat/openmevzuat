@@ -2,13 +2,13 @@
 
 (Değişik:12/2/2026-7574/13 md.)
 Takograf cihazı bulundurulması ve kullanılması zorunlu olan taşıtların, taşıt kullanma
+
+45 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazların”
+ibaresi “teknik cihazların/test kitlerinin” şeklinde değiştirilmiştir.
 sürelerine aykırı olarak kullanılması ve kullandırılması yasaktır. İşleten, sürücünün kendisi
 olup olmadığına bakmaksızın aracın bu maddede ve yönetmelikte belirtilen hükümlere aykırı
 olarak kullanılmaması hususunda gerekli tedbirleri almak ve denetimini yapmakla
 yükümlüdür.
-
-44 12/2/2026 tarihli ve 7574 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “teknik cihazların”
-ibaresi “teknik cihazların/test kitlerinin” şeklinde değiştirilmiştir.
 Bu taşıtları kullanacakların taşıt kullanma, mola ve dinlenme süreleri ile taşıtta birden
 fazla sürücü görevlendirilmesi gereken haller, sürücülerin taşıtta bulunmaları gereken zaman
 aralığı, işletenlerin sorumlulukları ile denetimlerde uygulanacak usul ve esaslar yönetmelikte

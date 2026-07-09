@@ -15,7 +15,7 @@ etmeden önce ve seyahat sırasında emniyet kemerlerini bağlamaları konusunda
 zorunludur.
 Birinci fıkranın (a) bendi hükmünü ihlal eden sürücülere/yolculara 2.500 Türk lirası
 
-66 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
+67 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
 “sakat” ibaresi “engelli”, birinci fıkrasının (a) bendinde yer alan “sakatlara” ibaresi “engellilere”,
 şeklinde değiştirilmiştir.
 idari para cezası uygulanır. Sürücüler tarafından son ihlalin gerçekleştiği tarihten geriye doğru

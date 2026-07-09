@@ -7,7 +7,7 @@ veya tüzel kişilere ait muayene istasyonlarında yapılır. Yetki verilen ger�
 bu yetkilerini Ulaştırma Bakanlığının onayı ile alt işleticilere aynı standartları sağlamak
 koşulu ile devredebilirler. Bu devir, yetki verilen gerçek ve tüzel kişilerin sorumluluklarını
 ortadan kaldırmaz. Bu istasyonların yönetmelikler doğrultusunda aranan nitelik ve şartlara
-uygunluğunun saptanması sonucunda işletme belgesi Ulaştırma Bakanlığı tarafından verilir.34
+uygunluğunun saptanması sonucunda işletme belgesi Ulaştırma Bakanlığı tarafından verilir.35
 Muayene istasyonlarınca; otobüs, kamyon, çekici ve tanker için 100 milyon lira,
 otomobil, minibüs, kamyonet, özel amaçlı taşıt, arazi taşıtı, römork ve yarı römork için 75
 milyon lira, traktör (römorklu-römorksuz) motosiklet, motorlu bisiklet için 40 milyon lira
@@ -16,16 +16,16 @@ hangi gruba gireceği Ulaştırma Bakanlığınca belirlenir. Bu ücretler ile b
 para cezaları, her takvim yılı başından geçerli olmak üzere, her yıl sonunda o yıl için Vergi
 Usul Kanunu hükümleri uyarınca tespit ve ilân olunan yeniden değerleme oranında artırılarak
 belirlenir. Bu suretle hesaplanan ücret tutarlarında 1.000.000 liranın altındaki tutarlar dikkate
-alınmaz. Muayene süresi geçirilen her ay için muayene ücreti, yetki verilen gerçek veya
-tüzelkişi ya da alt işleticiler tarafından, % 5 fazlası ile tahsil edilir. Ay kesirleri tam ay olarak
 
-34 Bu fıkranın birinci cümlesinde yer alan "Araçların muayeneleri" ibaresinden sonra gelmek üzere
+35 Bu fıkranın birinci cümlesinde yer alan "Araçların muayeneleri" ibaresinden sonra gelmek üzere
 "Ulaştırma Bakanlığına ait muayene istasyonlarında veya bu Bakanlık tarafından işletme yetki belgesi
 ile yetki verilmesi halinde ise" ibaresi, ikinci cümlesinde yer alan "Yetki verilen gerçek veya tüzel
 kişiler, bu yetkilerini" ibaresinden sonra gelmek üzere "Ulaştırma Bakanlığının onayı ile" ibaresi,
 3/7/2005 tarihli ve 5398 sayılı Kanunun 20 inci maddesiyle eklenmiştir.
+alınmaz. Muayene süresi geçirilen her ay için muayene ücreti, yetki verilen gerçek veya
+tüzelkişi ya da alt işleticiler tarafından, % 5 fazlası ile tahsil edilir. Ay kesirleri tam ay olarak
 hesap edilir. Cumhurbaşkanı, uygulanmakta olan muayene ücretlerini her beş yılda bir %
-20'ye kadar artırmaya veya eksiltmeye yetkilidir.35
+20'ye kadar artırmaya veya eksiltmeye yetkilidir.36
 Yetki verilen gerçek veya tüzel kişilerce bir ay içinde muayene ücreti olarak doğrudan
 elde edilen hasılat ile yetki devrettikleri alt işleticilerce muayene ücreti olarak elde edilen
 hasılat tutarı toplamının (katma değer vergisi hariç) ilk üç yıl % 30'u, sonraki yedi yıl % 40'ı,
@@ -59,11 +59,11 @@ Ulaştırma Bakanlığı tarafından işletme belgesi ile yetki verildiği halde
 belirtilen işletme şartlarına uymayan ve muayeneleri gerektiği şekilde yapmayan gerçek ve
 tüzel kişilere ilk seferinde bu istasyon için üçmilyar lira para cezası ile onbeş gün
 eksikliklerini düzeltme müddeti verilir. İkinci tekrarında aynı istasyon için beşmilyar lira para
+
+36 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 188 inci maddesiyle bu fıkrada yer
+alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 cezası ile onbeş gün eksikliklerini düzeltme müddeti verilir. Bir yıl içerisinde üçüncü
 tekrarında onmilyar lira para cezası verilir ve bu istasyonun işletme belgesi iptal edilir. Bu
-
-35 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 188 inci maddesiyle bu fıkrada yer
-alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 para cezaları ilgilisine tebliğ edildiği tarihten itibaren onbeş gün içinde işletmecinin gelir veya
 kurumlar vergisi yönünden bağlı olduğu vergi dairesine ödenir, süresinde ödenmeyen tutarlar
 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun hükümlerine göre tahsil

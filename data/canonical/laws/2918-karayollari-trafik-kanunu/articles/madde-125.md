@@ -1,4 +1,4 @@
-# MADDE 125 — Okul, radyo ve televizyonlarda trafik eğitimi:86
+# MADDE 125 — Okul, radyo ve televizyonlarda trafik eğitimi:87
 
 (Değişik birinci fıkra: 17/10/1996-4199/41 md.) Milli Eğitim
 Bakanlığınca, ilköğretim ve ortaöğretim okullarında ders programlarına eğitim amacı ile
