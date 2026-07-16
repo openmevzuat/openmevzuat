@@ -1,0 +1,41 @@
+{:document/id "law/677",
+ :document/type :law,
+ :document/number "677",
+ :document/title
+ "TEKKE VE ZAVİYELERLE TÜRBELERİN SEDDİNE VE TÜRBEDARLIKLAR İLE BİRTAKIM ÜNVANLARIN MEN VE İLGASINA DAİR KANUN",
+ :document/slug
+ "677-tekke-ve-zaviyelerle-turbelerin-seddine-ve-turbedarliklar-ile-birtakim-unvanlarin-men-ve-ilgasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/677-tekke-ve-zaviyelerle-turbelerin-seddine-ve-turbedarliklar-ile-birtakim-unvanlarin-men-ve-ilgasina-dair-kanun",
+ :document/sha256
+ "d76a50e9caffebf9b23ca0363d10d7898d42c945f0194d3c3965063c90d546ad",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.677.pdf",
+ :source/fetched-at #inst "2026-07-16T02:13:27.572-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/677/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 7 Sayfa: 113",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "33248cd57a4e1812c450e348e5df3a0b9b0f2df5ed2975c85c484149392bfbda"}
+  {:article/id "law/677/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a81e5cf4f2bb208c04ef46a37aa14bf1bcc1de464ab38fdc0104c519a2924259"}
+  {:article/id "law/677/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ffd76a676d471993327e9e3901501635a4d8f286b81ac2f5b429530f32fb8c9b"}]}

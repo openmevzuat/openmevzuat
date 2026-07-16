@@ -1,0 +1,48 @@
+{:document/id "law/2622",
+ :document/type :law,
+ :document/number "2622",
+ :document/title
+ "24/11/1934 TARİH VE 2587 SAYILI KANUNLA KEMAL ÖZ ADLI TÜRKİYE CUMHUR REİSİNE VERİLEN ATATÜRK ADININ VEYA BUNUN BAŞINA VE SONUNA SÖZ KONARAK YAPILAN ADLARIN HİÇ BİR KİMSE TARAFINDAN ALINAMIYACAĞINI BUYURAN KANUN",
+ :document/slug
+ "2622-24111934-tarih-ve-2587-sayili-kanunla-kemal-oz-adli-turkiye-cumhur-reisine-verilen-ataturk-adinin-veya-bunun-basina-ve-sonuna-soz-konarak-yapilan-adlarin-hic-bir-90208c6aae35",
+ :document/path
+ "data/canonical/laws/2622-24111934-tarih-ve-2587-sayili-kanunla-kemal-oz-adli-turkiye-cumhur-reisine-verilen-ataturk-adinin-veya-bunun-basina-ve-sonuna-soz-konarak-yapilan-adlarin-hic-bir-90208c6aae35",
+ :document/sha256
+ "2cf5215ba58771900fba547f5ddecd8dddbd82222e2be266d7673aa2f96f4e1d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2622.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:45.553-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2622/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 16 Sayfa: 24",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7171f2c3a40585ad13d664f15147baa9c79a01d10865dd3194d69aba013d90b3"}
+  {:article/id "law/2622/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d7a82815614024f0f42b44130801b4de916ecf6b40cc05b4b2ea67b6597ddb51"}
+  {:article/id "law/2622/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "288a3ffef0799bee83eec5a34cc7ac54864227bdcc5b3d469e55ec84fcd83972"}
+  {:article/id "law/2622/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7eb94379e2008d3d1a9888e79d0d3bb71ef7e7de134c7574d3aabb1c64164238"}]}

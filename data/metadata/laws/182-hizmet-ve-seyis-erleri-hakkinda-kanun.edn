@@ -1,0 +1,74 @@
+{:document/id "law/182",
+ :document/type :law,
+ :document/number "182",
+ :document/title "HİZMET VE SEYİS ERLERİ HAKKINDA KANUN",
+ :document/slug "182-hizmet-ve-seyis-erleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/182-hizmet-ve-seyis-erleri-hakkinda-kanun",
+ :document/sha256
+ "9b19a5da5a44c7d89fc083b18596859afda603b9d0f33a2a70233d60cbd6a6a6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.182.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:27.233-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/182/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 836",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1a6cadcfe41ff49395ed22c878c7bd0972de41b76e4866f738cdabfe0085fdb1"}
+  {:article/id "law/182/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "33812a85bd41ecb450eb3280097edf85fac5af1fc8f18593fe35396f96e7bbcb"}
+  {:article/id "law/182/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ea5a7cbdde03bc1bcc7ff1229da5f4689e481b59a030d5584a9d2b7b2acf0dfa"}
+  {:article/id "law/182/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ddacfab9dac39d15fa2aecfc6d067475ba32b0610272955d2bb35ede808ed911"}
+  {:article/id "law/182/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dd93ddbfbd58bf20775a28a0e6d692b393c2a213f1ef77ac7d00a218cebf643d"}
+  {:article/id "law/182/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c30d31cec652c2436bfb6962dc301e919ffec82f832a96c6d7eecdf8a61c0ae2"}
+  {:article/id "law/182/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a9b695d901634dbc5293335348c9d32b6f1c8be32470dfc66d66570e6b660af7"}
+  {:article/id "law/182/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "cf8afd294d583d458d1c6b82e2805792783b8a925bac0e5d28817b0328a51b7e"}]}

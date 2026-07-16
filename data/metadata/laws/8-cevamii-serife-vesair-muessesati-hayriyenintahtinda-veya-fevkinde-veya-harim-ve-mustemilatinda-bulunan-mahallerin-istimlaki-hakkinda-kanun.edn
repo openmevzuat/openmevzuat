@@ -1,0 +1,41 @@
+{:document/id "law/8",
+ :document/type :law,
+ :document/number "8",
+ :document/title
+ "CEVAMİİ ŞERiFE VESAİR MÜESSESATI HAYRİYENİNTAHTINDA VEYA FEVKİNDE VEYA HARİM VE MÜŞTEMİLATINDA BULUNAN MAHALLERİN İSTİMLAKİ HAKKINDA KANUN",
+ :document/slug
+ "8-cevamii-serife-vesair-muessesati-hayriyenintahtinda-veya-fevkinde-veya-harim-ve-mustemilatinda-bulunan-mahallerin-istimlaki-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/8-cevamii-serife-vesair-muessesati-hayriyenintahtinda-veya-fevkinde-veya-harim-ve-mustemilatinda-bulunan-mahallerin-istimlaki-hakkinda-kanun",
+ :document/sha256
+ "5554b849bd330b17d9ce5a885c67117e8f9c820155ca2795c9b3c263949c94ac",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.8.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:37.293-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/8/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 2 Cilt: 4 Sayfa: 562",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8fd09bd16eddf7b2315ac2785dd9948cfa88a0ca7fc01a59fa031a5d4a1b2b3b"}
+  {:article/id "law/8/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c4b661e47c4b18aa880fefcddbe030d2444c6f86ac214e653db5824140e72f86"}
+  {:article/id "law/8/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b611511f6e9b26fbc7371cb723573339a6840aa9dc0b0653da8f3a877a0f8f46"}]}

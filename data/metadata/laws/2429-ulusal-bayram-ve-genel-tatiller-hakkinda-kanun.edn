@@ -1,0 +1,75 @@
+{:document/id "law/2429",
+ :document/type :law,
+ :document/number "2429",
+ :document/title "ULUSAL BAYRAM VE GENEL TATİLLER HAKKINDA KANUN",
+ :document/slug "2429-ulusal-bayram-ve-genel-tatiller-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2429-ulusal-bayram-ve-genel-tatiller-hakkinda-kanun",
+ :document/sha256
+ "e8ce42b0023ec85c3ed84f24446c71bf2f8f458f19b955556cadf9156ef3a716",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2429.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:35.103-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2429/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 20 Sayfa: 227",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c8632c6d2c0fab1d32e67255dbfa6e9d7caa41f0b2165f8ba4be50a7745c8ad9"}
+  {:article/id "law/2429/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0506f3ee835c99e5404ecfe1517f8f58d03edf2786ccdfeaaf5129586e05abc9"}
+  {:article/id "law/2429/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d5715afc312f7932a946e9f1dc735782147bbff172c1047dee327fd04319a9e6"}
+  {:article/id "law/2429/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3fc3d100829f4913ceeecb35ef5f6888006bc22d89ffeb9d1b6f36fdc20152a5"}
+  {:article/id "law/2429/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "697ed4bf536a3e8f7f9031a282ba0382785494bf26d4208f4fa3a508b7f8308d"}
+  {:article/id "law/2429/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6b05a89f8db5b8e5abc57ebe4c624d20f8a88924b42652989c3b40bbb9be7c40"}
+  {:article/id "law/2429/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b8ccc13d5cf16456ae6cc1696bc508bc4449ab558c030577d96bc6645df71805"}
+  {:article/id "law/2429/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "493b3d56ab45d4a71675670069e843dd466831feef520023be9901a58e226dd2"}]}

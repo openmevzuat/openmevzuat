@@ -1,0 +1,83 @@
+{:document/id "law/2866",
+ :document/type :law,
+ :document/number "2866",
+ :document/title
+ "ÖĞRENCİLERLE İLGİLİ BAZI BASILI EVRAKIN MİLLİ EĞİTİM BAKANLIĞINCA HAZIRLANMASI, BASTIRILMASI VE SATILMASI HAKKINDA KANUN",
+ :document/slug
+ "2866-ogrencilerle-ilgili-bazi-basili-evrakin-milli-egitim-bakanliginca-hazirlanmasi-bastirilmasi-ve-satilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2866-ogrencilerle-ilgili-bazi-basili-evrakin-milli-egitim-bakanliginca-hazirlanmasi-bastirilmasi-ve-satilmasi-hakkinda-kanun",
+ :document/sha256
+ "f5ec986beb4bea04af0884301bfb776f204d89164f750d780e1d1b3be3c8a0b6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2866.pdf",
+ :source/fetched-at #inst "2026-07-16T02:20:45.749-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2866/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5742a6a13fa03657df6d4c7d105b07ee9aef05e430c3986b55cbc75e80b571e8"}
+  {:article/id "law/2866/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b278086df0f189a4ac60392ee70e5f448d2c1c608c9aeecb424d4a5768f2832f"}
+  {:article/id "law/2866/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Basılı evrakın, bastırılması ve satılması hakkı",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "bc59d84947acdf31e167afcea1504372bda990de87fcdff6bbc747aefd546275"}
+  {:article/id "law/2866/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Muafiyet",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2d8cdb861271d035cb899f0b15f00f51239f89b3335900a11ef2ac5d7a70b65d"}
+  {:article/id "law/2866/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8e947cb62d7c3a44b56fd0aec225c2e6ae0e0c9aeafe7e2a0d47aa70f024f5b7"}
+  {:article/id "law/2866/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "28148504c9fa40a33aa2377f990768ae11f759a4df4874fe921e55fd9ba8f552"}
+  {:article/id "law/2866/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b4445ec25699d58e300f648b7f837080d9247fbb802978639c97a5f6813ab529"}
+  {:article/id "law/2866/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6d5dea3c60439db3be3505476856789045b945f9ce89b8e45dae379fb14f9f5e"}
+  {:article/id "law/2866/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0f95af171f087e85d51dd5e2f79f3e9a40e4715e8af2180eae9f4b208d638346"}]}

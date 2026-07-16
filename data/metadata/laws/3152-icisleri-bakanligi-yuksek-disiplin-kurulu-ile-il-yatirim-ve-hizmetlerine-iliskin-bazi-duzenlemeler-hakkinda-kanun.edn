@@ -1,0 +1,457 @@
+{:document/id "law/3152",
+ :document/type :law,
+ :document/number "3152",
+ :document/title
+ "İÇİŞLERİ BAKANLIĞI YÜKSEK DİSİPLİN KURULU İLE İL YATIRIM VE HİZMETLERİNE İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "3152-icisleri-bakanligi-yuksek-disiplin-kurulu-ile-il-yatirim-ve-hizmetlerine-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3152-icisleri-bakanligi-yuksek-disiplin-kurulu-ile-il-yatirim-ve-hizmetlerine-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "ab4a9568643ba5e36baee82fb3a6cb004cf812041020c46a9f66fb92bf2a8417",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3152.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:55.631-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3152/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ed316381d51e184c74d60655f025ffbea38db4594e589760b3a88117c530d106"}
+  {:article/id "law/3152/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Görev",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "1001defed9f61db05e3aab42dbadc47811fd5508da42deace67f5041ed521488"}
+  {:article/id "law/3152/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Teşkilat",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "576c8162f8b32d81eaa52dafcc24320d3465dc5d10df5639125c883334c199c7"}
+  {:article/id "law/3152/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3adf08a6f0f4b0255a4d50d2f12ad2db715ae4867935f189df721623b6e482bb"}
+  {:article/id "law/3152/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "39d2bc89cb01ff2d4da8e3d0c34c34981678b62cb1cbcbd14f2cc510e93984b1"}
+  {:article/id "law/3152/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Müsteşar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4103ea89c005cac9d7d3ca2ac20cf18c542c7ddd898fe79cc6e1a017d3b4357c"}
+  {:article/id "law/3152/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Müsteşar yardımcıları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "633b1bdb6441cad3ac95528d46b4a4c12332ce9e3423e3a79c75657d8e4c7c7a"}
+  {:article/id "law/3152/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a0ea7f9bd2a424c1747bd1e3a2f91d3cf9708cb91c1d7cdf7bbd16af75278d23"}
+  {:article/id "law/3152/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İller İdaresi Genel Müdürlüğü",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "79784edb75ab1381ea5609c4c35ce928db74b1853ed9f247347d069904c07870"}
+  {:article/id "law/3152/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Nüfus ve Vatandaşlık İşleri Genel Müdürlüğü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "ff709e07fbee1d33119cf33571fedc79b69c0e9defa7965d0238bfada3221421"}
+  {:article/id "law/3152/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Mahalli İdareler Genel Müdürlüğü",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9938ea4c27348c25c114658e74604382a47e53d7f49a936b462735de563d91c0"}
+  {:article/id "law/3152/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Sivil Savunma Genel Müdürlüğü",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "26763c8d2f5ee98ec5321279c3606aa08450abd17227e59ea3be88dd2ad4f5f2"}
+  {:article/id "law/3152/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Kaçakçılık İstihbarat, Harekat ve Bilgi Toplama Dairesi Başkanlığı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "65464dc4cbdb2adc76cb7160644cb6819c1a70cc0a5ed87060f25ee06819ce6c"}
+  {:article/id "law/3152/article/13/A",
+   :article/type :normal,
+   :article/no "13/A",
+   :article/title "Dernekler Dairesi Başkanlığı",
+   :article/path "articles/madde-013-a.md",
+   :article/sha256
+   "0c96872aef952b4b23f03eb8d646943f9d0d334f031b05d5dc7e60eb38929791"}
+  {:article/id "law/3152/article/13/B",
+   :article/type :normal,
+   :article/no "13/B",
+   :article/title "Avrupa Birliği ve Dış İlişkiler Dairesi Başkanlığı",
+   :article/path "articles/madde-013-b.md",
+   :article/sha256
+   "17082a679a679c8d384581ed3481fae7c9f4deb6ad5855e9ed333bed9688db77"}
+  {:article/id "law/3152/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "5b01ce3baa52b93dcc199189a73a97e093ceca0adf8203b72864a45f2bf6ff0d"}
+  {:article/id "law/3152/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Teftiş Kurulu Başkanlığı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "2b35ee28dd4111b639133ef82712e342f766e7d098679a8666eb0390c7ddcea4"}
+  {:article/id "law/3152/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Araştırma, Planlama ve Koordinasyon Kurulu Başkanlığı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "145352645693924c9f427a976d080e3b152a472f584584e9bd78840a842ea27e"}
+  {:article/id "law/3152/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Hukuk Müşavirliği",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "9a8b14c84a35e9234c638a002a35cd8ca2dd2ae0e5d12ccfc8110209f1a2a00f"}
+  {:article/id "law/3152/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Bakanlık Müşavirleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "e1e950938d4bef832a51ccd84a76606918dc39d18b113a71104db1afabf89be1"}
+  {:article/id "law/3152/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Basın ve Halkla İlişkiler Müşavirliği",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "174ee201f2ac330ec806325d68e88547cf1a58017a5fc6410bcd6399eb366abc"}
+  {:article/id "law/3152/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "3e067af242de0becfad9322f0868da485f8974a2e192cb1cf419f433fb5832bd"}
+  {:article/id "law/3152/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Personel Genel Müdürlüğü",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "d02f32e45895596f92a0116c90bd18084e473a6ed8ef994c22b7c382bf9c06c6"}
+  {:article/id "law/3152/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Eğitim Dairesi Başkanlığı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "702bd5869ba8fcc9e38a580379ced612f96f9f38ccec52389729f27046844905"}
+  {:article/id "law/3152/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "İdari ve Mali İşler Dairesi Başkanlığı",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "3b69cf1a885f953ef5680dc27ab32a56dc93143af8027e6a7a0a2391677a34dc"}
+  {:article/id "law/3152/article/23/A",
+   :article/type :normal,
+   :article/no "23/A",
+   :article/title "Bilgi İşlem Dairesi Başkanlığı",
+   :article/path "articles/madde-023-a.md",
+   :article/sha256
+   "96acba3afb2374b897e1dc6c6d87efceb341ea596757a128e668ffacedaea176"}
+  {:article/id "law/3152/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Özel Kalem Müdürlüğü",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "29289e50434e93b509d893f98606e632c2f50f5c9ea0fc886cc6987635c11b55"}
+  {:article/id "law/3152/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "a54551de2d6025300f5c0afdc57c2fbf6b6c325213ddd742aca1479bee91a418"}
+  {:article/id "law/3152/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Kaçakçılık İstihbarat Koordinasyon Kurulu",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "8e1a8ed07d6527cb1c61c8cb6ad30e18e385c1b402afae0f5655b48d88c7e47e"}
+  {:article/id "law/3152/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Bakanlık Encümeni",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "7f86dbc8bb1c3e6d1fef47088013460d7a329483bb9801660eab3f516d829e26"}
+  {:article/id "law/3152/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "2d4bee212f5cdea0ad45f407b0e64ef0c5ea2779c85124f38055cc4b8e7c284c"}
+  {:article/id "law/3152/article/28/A",
+   :article/type :normal,
+   :article/no "28/A",
+   :article/title "İl yatırım ve hizmetleri3",
+   :article/path "articles/madde-028-a.md",
+   :article/sha256
+   "6db4d3434d876437474a71ec669d5a806a99aad2496e6a47e631df0339b53ce4"}
+  {:article/id "law/3152/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Bağlı kuruluşlar",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "45d642517344f48891af25496225f8ee9b677d15c27789edb89e25aa52a02374"}
+  {:article/id "law/3152/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "7d5454f9e59c85ef77b0cc61516cb79f014635e5687444e47121b767b13fc949"}
+  {:article/id "law/3152/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title
+   "Koordinasyon ve işbirliği konusunda Bakanlığın görev, yetki ve sorumluluğu",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "0ce806f3f8f493d6230b6a9da7b1312aa14343c60e4199077ac98798b9662605"}
+  {:article/id "law/3152/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Mahalli İdarelerle koordinasyon sorumluluğu",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "92c5e7ed035d69fcbff4f3eb50ee129fa9096166ed75f6025d1cac111c61ac8c"}
+  {:article/id "law/3152/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Bakanlığın düzenleme görev ve yetkisi",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "da0a3b68c0e7b60e8fa7cde0877c99f75185c16bb34cefe7bd75af532b9bf116"}
+  {:article/id "law/3152/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Yetki devri",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "8fa2a649dd4e4fa5abaee4d30c789350f87f31030f05bce908629e4a3b9bee5d"}
+  {:article/id "law/3152/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "8317a83271691a7b03ed21587147eb78a8cc7f93d98c53a0f6a2fcec38a80ce8"}
+  {:article/id "law/3152/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "b34064dc80bcde9a209d763024e7a459dc56f5d4c0757516811dd52338416ee5"}
+  {:article/id "law/3152/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Valilerin merkezde görevlendirilmesi",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "c2300104fefe5a69bfa3b228921ca20038782d24795a45c542a7d3025d3fe14a"}
+  {:article/id "law/3152/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Kontrolörler",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "57240c9d48c910f7c8dade0d5be3ca767acf5c8566610abf36a4b4bb7920a735"}
+  {:article/id "law/3152/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "6984adef7804d108c8877e098177ae8e0ff99c09c302c6a5652bb7660473692a"}
+  {:article/id "law/3152/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "İl Planlama Uzmanlığı",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "aa688c7378d97747aa0fe9d605dc5d4a423d2d1e480cbbebf0aa6c55fbaad7ba"}
+  {:article/id "law/3152/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "4a600855cebf4cdee6f3f0fb2b455cb9e7850a0d85dbb83974b6efd30c34297e"}
+  {:article/id "law/3152/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "774e28a7ca9840fb88b9e29453003243887ad4777998cf9831bf97f3c2afb50f"}
+  {:article/id "law/3152/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "259983b7f2d21c6837b10449ab624d1dd5a6633e6b1de640542b3bc351c00bec"}
+  {:article/id "law/3152/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "fca47b1e27a4f9b8dc47f709c86dc3556ed55d63c3171a81afcba07cc0c4a63e"}
+  {:article/id "law/3152/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "dacca3fdea81204bf31893835005ab255ef48a7eba8bfdf51f6a90efe10db480"}
+  {:article/id "law/3152/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçici hükümler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "fa4531c3dfcbaa3984d9718bfbf7d4efe51985fc8c0e6dd217a2d0ef6c785fb2"}
+  {:article/id "law/3152/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a3a3836452c91e16f75ddc0a241b43087c5d44a279d6d8b1d5586fb5396436fa"}
+  {:article/id "law/3152/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "4bdbd8d2e711abbcd9741a16847d7e857428f08ef9443e72ae86cae41bbf3915"}
+  {:article/id "law/3152/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "6f818d5f99773636c44c76f912318e80660d7006cbc23a86c16c05d31433c866"}
+  {:article/id "law/3152/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e28dda09b4794ca932705a81cd449168a579a0fb4cb3770e0b9508adf3c3dfd3"}
+  {:article/id "law/3152/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "c693644587fc203626759c782e7c621085227eaeda70ceea2892feeddc23f885"}
+  {:article/id "law/3152/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "87035b0ef257fcd3732e0ff08da6033b6d2e98292fc9f48269afff11b698620e"}
+  {:article/id "law/3152/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "7a8983a465d31eaf4c554a53cac281873d77f12c37bf7aa6eb7f32ae5ce81634"}
+  {:article/id "law/3152/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "c628e8572aeac8c8bf04749cd2f38d37780c66031dfb1a6f959fdc795349d32a"}
+  {:article/id "law/3152/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "cd3c15f167f3f74c932c0625c4317568e1c42e2ebbdececafc0469b927655ba4"}
+  {:article/id "law/3152/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "e753406527f410cc72ecc28363cd9ee20b211fc9c84a227e1dafb5412eb2e274"}
+  {:article/id "law/3152/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "59debfc40da1728b249025ca0f7e9a40609ff5fe19259f2b4839c92c54cbf6fa"}
+  {:article/id "law/3152/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Yürütme",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "9c2386a811bf6ab35bc411624a4a73769cc12d521b9c5d69830f00a32ba9b048"}]}

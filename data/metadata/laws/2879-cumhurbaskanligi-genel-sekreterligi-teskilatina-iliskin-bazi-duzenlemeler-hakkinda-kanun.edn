@@ -1,0 +1,97 @@
+{:document/id "law/2879",
+ :document/type :law,
+ :document/number "2879",
+ :document/title
+ "CUMHURBAŞKANLIĞI GENEL SEKRETERLİĞİ TEŞKİLATINA İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "2879-cumhurbaskanligi-genel-sekreterligi-teskilatina-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2879-cumhurbaskanligi-genel-sekreterligi-teskilatina-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "8fd6c4613e026d246a8c197571e4f5d9db6c35ab5c9a1827ae3a85c3e3451036",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2879.pdf",
+ :source/fetched-at #inst "2026-07-16T02:20:55.715-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2879/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Cumhurbaşkanlığı Genel Sekreterliği teşkilatı",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c458e555c3b96ff54b14cc093422670e598b3e40a048a3bd910495556f600bea"}
+  {:article/id "law/2879/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a5d4706f469087fc14c4fdd3afabc276c018aa6b52c1a13f5f9ac6c08f8f7a19"}
+  {:article/id "law/2879/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Mali hükümler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4d21265d458b08e88f4ae07eff295d6128bfa7b05666da239a74c0e168870c51"}
+  {:article/id "law/2879/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Personele ilişkin hükümler34",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e9d7e9836e8872eb5a0924a9b7921a2a43b3756a5ddf71f6d31a0947daa261df"}
+  {:article/id "law/2879/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "891e1569a644a15eb58cf12b5da0a292e10622f2e18ed93e0dd6434b0696f13d"}
+  {:article/id "law/2879/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "ca751fe7c45419712b9f12f8d32cedde6937b2d9004ec286942eeed61b0eb0f5"}
+  {:article/id "law/2879/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "661d1e114ac53ddae227e9951d3bb28ec4d230c8255b018b145d79702f37c2ea"}
+  {:article/id "law/2879/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2f0b82e49b1b40a698172beb501e1a0cb43f8ad719c804767da6985dcb30a1e6"}
+  {:article/id "law/2879/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlükten kaldırılan kanun ve hükümler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "db132866889ef2eb580857e5b70c1cf27e1a66acaf28f02bf14da4968fe24ba6"}
+  {:article/id "law/2879/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "8a1569f77861d724162d6a39dcca16ab6f7fe1fcf12384e75bb4178c6434870b"}
+  {:article/id "law/2879/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0f95af171f087e85d51dd5e2f79f3e9a40e4715e8af2180eae9f4b208d638346"}]}

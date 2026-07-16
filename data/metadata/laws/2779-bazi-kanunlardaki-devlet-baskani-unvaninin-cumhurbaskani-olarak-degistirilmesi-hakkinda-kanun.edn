@@ -1,0 +1,42 @@
+{:document/id "law/2779",
+ :document/type :law,
+ :document/number "2779",
+ :document/title
+ "BAZI KANUNLARDAKİ \"DEVLET BAŞKANI\" UNVANININ \"CUMHURBAŞKANI\" OLARAK DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "2779-bazi-kanunlardaki-devlet-baskani-unvaninin-cumhurbaskani-olarak-degistirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2779-bazi-kanunlardaki-devlet-baskani-unvaninin-cumhurbaskani-olarak-degistirilmesi-hakkinda-kanun",
+ :document/sha256
+ "882ac7fa7f1c305d27b09312ed9a159faf7737333e13f45196d1ecc25eee33b4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2779.pdf",
+ :source/fetched-at #inst "2026-07-16T02:19:20.272-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2779/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 142",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "597e40f3b65bac2e0e0914ec8088ddd002e3e708efaee578b387328748199fb1"}
+  {:article/id "law/2779/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "510da8d6190810f33c176b01fafb2de65b05e918eeb2b8c61429355793266dee"}
+  {:article/id "law/2779/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

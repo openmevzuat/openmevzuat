@@ -1,0 +1,96 @@
+{:document/id "law/2108",
+ :document/type :law,
+ :document/number "2108",
+ :document/title "MUHTAR ÖDENEK VE SOSYAL GÜVENLİK YASASI",
+ :document/slug "2108-muhtar-odenek-ve-sosyal-guvenlik-yasasi",
+ :document/path
+ "data/canonical/laws/2108-muhtar-odenek-ve-sosyal-guvenlik-yasasi",
+ :document/sha256
+ "872b0356f4dfe5bdb595c0dfae80f6227549ba172818a1ed5e621f4f17987487",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2108.pdf",
+ :source/fetched-at #inst "2026-07-16T02:16:51.013-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2108/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 16 Sayfa : 2456",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "753841c796a9478d2a8d4fe84bd80a8e8787c1911da79bb0dabbeac058680999"}
+  {:article/id "law/2108/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8e5c1348fa10f709291f5768cdfa585505057c2d0013350394ceefe6db51eeff"}
+  {:article/id "law/2108/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "67ec9af8cae52e3890d04b56bb26ee08423da33ef6e1af4a7756e308a41649a8"}
+  {:article/id "law/2108/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "15ec487ccbaa47b68fa5e47da0749a5dd0d8fe002d5e43a68ef2274c7bb34cff"}
+  {:article/id "law/2108/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "fd1aebb9cb19042fa70d08731dcd6e16b1c4145b8c72ae0fcec6e4e66147ac17"}
+  {:article/id "law/2108/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3c7cdf6f43f059dfe9f9e005e9c80108fabc792bc290e69ffa88dc804b6f081c"}
+  {:article/id "law/2108/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "42f83bd8783b9600228e6afd85cab8e4f344853b9b8edf038f690c1f441605bd"}
+  {:article/id "law/2108/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d91efecffd3cc9c7a17a656a23ab853671b2de11bff978a505baf018e28d794e"}
+  {:article/id "law/2108/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "7af3399ab1b2fc4b3c8a9b301c5dcfb644df2740dcc95cd50f025e542b399219"}
+  {:article/id "law/2108/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Geçici Madde – (Mülga: 21/5/1987 - 3372/3 md.)",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "641b37ed72cbec0090b5df0a98ba53391ca04c85d57bfa1f2a3242128d80ae74"}
+  {:article/id "law/2108/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "e5a597a4819429c193fb8e036a352b2e6e6ce203d2d37a657ea55a6511a468e7"}]}

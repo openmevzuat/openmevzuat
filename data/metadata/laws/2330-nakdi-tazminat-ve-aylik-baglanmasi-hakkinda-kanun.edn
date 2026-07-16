@@ -1,0 +1,146 @@
+{:document/id "law/2330",
+ :document/type :law,
+ :document/number "2330",
+ :document/title "NAKDİ TAZMİNAT VE AYLIK BAĞLANMASI HAKKINDA KANUN",
+ :document/slug
+ "2330-nakdi-tazminat-ve-aylik-baglanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2330-nakdi-tazminat-ve-aylik-baglanmasi-hakkinda-kanun",
+ :document/sha256
+ "63c5b3cd6311ffccb6d4f202184a1b16d183e37fdf48332e44030fb94e301a4b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2330.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:29.524-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2330/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6c669eccb3c88e8e9dd24163282d46b8ba10a557d072f0392acf263fda51ed97"}
+  {:article/id "law/2330/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "306bc7ccf063f01ab855c2c24378ec4240347b7548c575a018969e88dd7d991c"}
+  {:article/id "law/2330/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Nakdi tazminat",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "eb4486bc7204001dcb24c76ebee1b6613759501e1d03fbba83396fe094574b53"}
+  {:article/id "law/2330/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f6a6030726fdc294d3addb0960d844e7a9e00d21b7089b04f8bd492e386dfc80"}
+  {:article/id "law/2330/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Sonradan meydana gelen yaralanma, engelli hâle gelme ve ölüm89",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3ddbf6f1d3c2503c1c847a94cacac65437bfc690f58f99549295bd58db85f014"}
+  {:article/id "law/2330/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Nakdi tazminat ve aylığın etkisi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e62313295cbcd923c8aeb3c074a7b3caaeb3fe18e4c090241fab75d8f4189ebc"}
+  {:article/id "law/2330/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Öğretim ve sağlık yardımı1112",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2b73ab887e78143f0fa074acafef8666f8abfc6748488b5ec969b04712ff7cf7"}
+  {:article/id "law/2330/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Hazineden tahsil",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "020987802c86aba9e84859e56577bd8826656233fcdd6d311cfcc5f6dbd35125"}
+  {:article/id "law/2330/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "cdc5a6bf18327adf132693e77e9019136c6ffc43ab7d66450bd77a58ac764054"}
+  {:article/id "law/2330/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "37d75166c917d250d8ce7e40fa923bbf49eb2d06f4a4fd8aa49a01ca8e66e009"}
+  {:article/id "law/2330/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "28d2f55198aa1157ed2f7860497b8893ac9fa025477f1e850a4802038e9fc32d"}
+  {:article/id "law/2330/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7801ca402347a160fd9dfc91ff3acf49f4eba19148618f79ed410326803ec6e7"}
+  {:article/id "law/2330/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "af4f37ac014919cc5dff8b383b86567946d2cdbc34b455ccabd5d085ac13f9ea"}
+  {:article/id "law/2330/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "aa8fc3ac24153f9f84a5b98e9360ffb136e760ab40066cda96c854e20c6eba00"}
+  {:article/id "law/2330/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "5405c278cb1d168d592c85246da91a07fef96dd875a3183b33b0e30f4ec3297f"}
+  {:article/id "law/2330/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "b1343901b83ca7078934405f3799f183261d6adc679f814bdead10db58a706d0"}
+  {:article/id "law/2330/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6ea4c1a383e9f3d04b880d1ed7bccf4e832eb2d858d8d6df843875383104795f"}
+  {:article/id "law/2330/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürütme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a00d68d78e60c0cdd26483f9a68528051299a761f0c8c5760256b432ed69a7d4"}]}

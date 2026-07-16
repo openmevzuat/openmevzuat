@@ -1,0 +1,56 @@
+{:document/id "law/3011",
+ :document/type :law,
+ :document/number "3011",
+ :document/title
+ "RESMİ GAZETE´DE YAYIMLANACAK OLAN YÖNETMELİKLER HAKKINDA KANUN",
+ :document/slug
+ "3011-resmi-gazetede-yayimlanacak-olan-yonetmelikler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3011-resmi-gazetede-yayimlanacak-olan-yonetmelikler-hakkinda-kanun",
+ :document/sha256
+ "25849a1ec427605b83a1f70d01eb75c3028a5582ba69afe1709c7ed9d0b9c001",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3011.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:05.422-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3011/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 23 Sayfa : 105",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "725978b91af45252c5e4e3bb341ab4f0760fb50f57aa5361db7ee5246c5d92ae"}
+  {:article/id "law/3011/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3879c44df33f7bdd01551dc4cf0048a12892fdaea98b318f579cd311c28738be"}
+  {:article/id "law/3011/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5e0e2031c1a97c0d5ec7fe73fce5bc436def4101cd1153efdf914692087c26b0"}
+  {:article/id "law/3011/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f57cff1c876dbf77847fb91c92dc4700a07f946bf2d7f8d74effb9a8960a40a8"}
+  {:article/id "law/3011/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "376212e145c68e385e7064e773c4daa66ba3ea32e115449cd7038e947b4d4c53"}]}

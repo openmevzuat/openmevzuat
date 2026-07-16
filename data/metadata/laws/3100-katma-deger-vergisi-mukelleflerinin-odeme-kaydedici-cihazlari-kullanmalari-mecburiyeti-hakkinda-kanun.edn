@@ -1,0 +1,112 @@
+{:document/id "law/3100",
+ :document/type :law,
+ :document/number "3100",
+ :document/title
+ "KATMA DEĞER VERGİSİ MÜKELLEFLERİNİN ÖDEME KAYDEDİCİ CİHAZLARI KULLANMALARI MECBURİYETİ HAKKINDA KANUN",
+ :document/slug
+ "3100-katma-deger-vergisi-mukelleflerinin-odeme-kaydedici-cihazlari-kullanmalari-mecburiyeti-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3100-katma-deger-vergisi-mukelleflerinin-odeme-kaydedici-cihazlari-kullanmalari-mecburiyeti-hakkinda-kanun",
+ :document/sha256
+ "39156d16b4289f98b575e946c5b7d406332bade5951db00b9a4452e1ff6f81d7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3100.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:48.840-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3100/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0fe535e0b274c74257ca859ad60cbf56795897484f8bf2aed927cb2309fdd009"}
+  {:article/id "law/3100/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Ödeme kaydedici cihazlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "67a5f67ee9e4cd5ae3853656ad65d31b797bcc6beba08f18f1368fe867ea7260"}
+  {:article/id "law/3100/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Satış fişleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8576f4478f3733528b4a7d3a29c239528619e05eaf7cf87a750ec30978d9f12d"}
+  {:article/id "law/3100/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Satış ve onarım",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f65f94553b20545afe165c2280b3b023297c85756068946c8a36f1bb2fd66a25"}
+  {:article/id "law/3100/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Onay",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e3c5db4f5543d4525b46e4d9105e40571da1bc02739afc69dd68d0065de2bf3c"}
+  {:article/id "law/3100/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Ödeme kaydedici cihazları kullanma mükellefiyetinin başlaması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "32045c761d8b312a4864f1e2f77909076af6f0396b1c826716c300ecb3521f47"}
+  {:article/id "law/3100/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İndirim ve dahili tevkifat",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a817223e1bf942034cee7eec358b1dd8125bf9aa9abbc19500571f47db6091e1"}
+  {:article/id "law/3100/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Cezalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "9bb65568790353f12eedb2173217d902d2b791abfe29cb8702d6b604d232d052"}
+  {:article/id "law/3100/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Diğer hükümler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "fe1eae2e69a804beb2b9169b7e030273de3bbde06c836e7415fb8cbb18dc5f32"}
+  {:article/id "law/3100/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "aa787217b7171a80c2d108c079aeb8ce866f72267a9ebac21275967daa1adabf"}
+  {:article/id "law/3100/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "89844622eba0264cfaf9faa8de522e7fe155b449ddb0e3d6f0b7cfe2b602dc2e"}
+  {:article/id "law/3100/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5894a0afd34b799f70275a16d83392f6ff2f0c0e8dd36991e5126148d73c1d91"}
+  {:article/id "law/3100/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "597cbac849b18ad0a083c836987ab7cccc34c6bcee33ccdbac58b539bcc9887c"}]}

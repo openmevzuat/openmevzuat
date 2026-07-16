@@ -1,0 +1,154 @@
+{:document/id "law/2238",
+ :document/type :law,
+ :document/number "2238",
+ :document/title
+ "ORGAN VE DOKU ALINMASI, SAKLANMASI, AŞILANMASI VE NAKLİ HAKKINDA KANUN",
+ :document/slug
+ "2238-organ-ve-doku-alinmasi-saklanmasi-asilanmasi-ve-nakli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2238-organ-ve-doku-alinmasi-saklanmasi-asilanmasi-ve-nakli-hakkinda-kanun",
+ :document/sha256
+ "5f50f5d7d5007e7fcbcc6c77bfeaf959121b15cd82f3f00bf8ca336e0559ef4b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2238.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:12.388-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2238/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "73b31597c331bbb38909ea4406bea8fe75d2fb1f0135f924b01092c9c9d134d9"}
+  {:article/id "law/2238/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f0c996d086ea6e0698035aee7f26442e2f92e8b0ab003e782fdc9233232e306a"}
+  {:article/id "law/2238/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "97bb7feef5e1e8be1f044dea69cfe0254ba957a2924bd7eeca51ed6a455aeb7f"}
+  {:article/id "law/2238/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b13809276f104641446d860ba9cd997c32b02fa03ef6ff3f0d0a8369bad998cf"}
+  {:article/id "law/2238/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "074e55ef3f14824025af10814facff4d34ac29058d8edcb6100abc7370840308"}
+  {:article/id "law/2238/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e1c24bea78e90b91315ed9515d0c09bcee7f156c7c65c8ec7bf2a31f84d6d7b7"}
+  {:article/id "law/2238/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "1f4a3370fc7995b1a6dfee4b7dc1aa9d33531c4a680dd79dfd9cea1ae4c20077"}
+  {:article/id "law/2238/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c9aaa6e7ecf0bfb194efbee8685f1dd3af09d4f7af071767bbecdf38a7cf0126"}
+  {:article/id "law/2238/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c6a3cea46a85be84582595dc647b36a81d840926303f2f04c8275172dce4e493"}
+  {:article/id "law/2238/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "2e7902fa650a41895c77c72d932d21c2c81e5d77c4b90ac3b0d8de0ab32296d7"}
+  {:article/id "law/2238/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "de1c592ac25180c830ab2b5fffaea5e792472746b2e3de1dffd96d1f95568d3c"}
+  {:article/id "law/2238/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "eea1954e40142876465c6d779cbf13fcb754ad7b38a1f73aa826fb6def2cae66"}
+  {:article/id "law/2238/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "f55ab60448e767db29d87052de1075f10511f1af1ff7a371f6de4ec85092bd2a"}
+  {:article/id "law/2238/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Ölüden organ ve doku alma koşulu ve cesetlerin bilimsel araştırma için muhafazası:2",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "d37e5fe10f89f9f2cc54e16d0006c4e028bcd1977daa6afbed041ff009b91bd6"}
+  {:article/id "law/2238/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "62918437f44ee0aee8a6177b180d902c68aa86f960473a3b07db0ccf9e1e1675"}
+  {:article/id "law/2238/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "91a32c763c772362ae761a3ca9df5ea453815863e13dcd9a94fe47027e2f8c91"}
+  {:article/id "law/2238/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "a9ccade76958231eac23607b7b758277ecc1a6ee80a02ec398022b6da0c82041"}
+  {:article/id "law/2238/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "98baf862ee942b9d837b9748f646ba4eaaee70edb3097f3efb06eab198686e7c"}
+  {:article/id "law/2238/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "1b5715cac5c8234642029b49eb23704604c82fd4c3bb654f34640013babf61ae"}]}

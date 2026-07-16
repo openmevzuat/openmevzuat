@@ -1,0 +1,39 @@
+{:document/id "law/671",
+ :document/type :law,
+ :document/number "671",
+ :document/title "ŞAPKA İKTİSASI HAKKINDA KANUN",
+ :document/slug "671-sapka-iktisasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/671-sapka-iktisasi-hakkinda-kanun",
+ :document/sha256
+ "861a2e43cd9158121d880012126d6b3548453c11d52e57c17de974887613c727",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.671.pdf",
+ :source/fetched-at #inst "2026-07-16T02:13:25.156-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/671/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 7 Sayfa: 108",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6404b05a84210265d0ea7379e1ad1f5c503378fb08aa85679af2202bb59d6a1d"}
+  {:article/id "law/671/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "08ef3000afff4ded8f94e3f5d689226e6ca7a02355d86429923bb0a9fffd1b2d"}
+  {:article/id "law/671/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e8319f1888cd39a4c4c451d5c26c2366782953430bef8db8ffb88187435aef03"}]}

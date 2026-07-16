@@ -1,0 +1,41 @@
+{:document/id "law/2587",
+ :document/type :law,
+ :document/number "2587",
+ :document/title
+ "KEMAL ÖZ ADLI CÜMHUR REİSİMİZE VERİLEN SOYADI HAKKINDA KANUN",
+ :document/slug
+ "2587-kemal-oz-adli-cumhur-reisimize-verilen-soyadi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2587-kemal-oz-adli-cumhur-reisimize-verilen-soyadi-hakkinda-kanun",
+ :document/sha256
+ "0987f68835266e78e50179f7483ede202db0f5245cf4ad9caf84004979ce2427",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2587.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:39.461-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2587/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 16 Sayfa: 4",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "55aa8e9673e568fc7fac62dfb622ffd9f079facbd90d23db34c867f1ab910d0f"}
+  {:article/id "law/2587/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "af0de8f82f78dd324cfdc3e5676bca7252fc8b2a262484b272bf85dd63975eca"}
+  {:article/id "law/2587/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "45218c11c6cc97ca9b9d2729733eb94f28ee4cad34a130d482806dc944fc86c2"}]}

@@ -1,0 +1,48 @@
+{:document/id "law/37",
+ :document/type :law,
+ :document/number "37",
+ :document/title
+ "BELEDİYE OPERA VE TİYATROLARI SANATKAR, MÜTEHASSIS VE STAJ YERLERİNE VERİLECEK ÜCRETLER HAKKINDA KANUN",
+ :document/slug
+ "37-belediye-opera-ve-tiyatrolari-sanatkar-mutehassis-ve-staj-yerlerine-verilecek-ucretler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/37-belediye-opera-ve-tiyatrolari-sanatkar-mutehassis-ve-staj-yerlerine-verilecek-ucretler-hakkinda-kanun",
+ :document/sha256
+ "7cd674426eaad85d164b9bf52dafd12fb4bd1c8a4d0fe2a8e47b3c94d173d0d4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.37.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:52.174-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/37/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 121",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0bafe7b68814198311cecbc5b66a5453533722ff0a5c575812f1b40a8e90d54a"}
+  {:article/id "law/37/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "424ff8b5bb20f29e374356812b45514a77663a777ea6724ef4b6ca146fc892bc"}
+  {:article/id "law/37/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e9e05bfea848b6226c3aa17dee41058388eb1c7872f532bfa594f2f0dbe6337d"}
+  {:article/id "law/37/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "66281d69da01c5783a04a2010e80545ed17ddfed28090ed02a46fb1d2289a46b"}]}

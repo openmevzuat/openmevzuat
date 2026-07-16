@@ -1,0 +1,49 @@
+{:document/id "law/2566",
+ :document/type :law,
+ :document/number "2566",
+ :document/title
+ "BAZI KAMU GÖREVLİLERİNE NAKDİ TAZMİNAT VERİLMESİ VE AYLIK BAĞLANMASI HAKKINDA KANUN",
+ :document/slug
+ "2566-bazi-kamu-gorevlilerine-nakdi-tazminat-verilmesi-ve-aylik-baglanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2566-bazi-kamu-gorevlilerine-nakdi-tazminat-verilmesi-ve-aylik-baglanmasi-hakkinda-kanun",
+ :document/sha256
+ "3e9c510c49166bf230e3b65d9fe175af4f98ad6a9bb9a72ad407a6e390cde76a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2566.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:25.392-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2566/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 21 Sayfa : 81",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0e653a311adaed7f89e6a668312b842285367c793a65ce012322052c6d8961ef"}
+  {:article/id "law/2566/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "940014f371ae639138a8be9e9f8dd23b0e8620a69b98170fcffbea49fd5cf1b0"}
+  {:article/id "law/2566/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "eb5fa2d37b7f866f79e8d503ed23991ac205c887034b407eead7a9dd5019eeeb"}
+  {:article/id "law/2566/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9b3cebb0f991dfc646195aae6b456349f9d39a70a3236f527e369cab95a2c3dc"}]}

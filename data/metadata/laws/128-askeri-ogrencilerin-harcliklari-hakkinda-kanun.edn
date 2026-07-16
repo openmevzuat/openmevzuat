@@ -1,0 +1,74 @@
+{:document/id "law/128",
+ :document/type :law,
+ :document/number "128",
+ :document/title "ASKERİ ÖĞRENCİLERİN HARÇLIKLARI HAKKINDA KANUN",
+ :document/slug "128-askeri-ogrencilerin-harcliklari-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/128-askeri-ogrencilerin-harcliklari-hakkinda-kanun",
+ :document/sha256
+ "b207d3adeb068b9425e09a2f7cd5452520bd786b941cc7a17b91fde05b014b33",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.128.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:03.507-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/128/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 451",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8e33f4919c0e502e67519db2db0a198c1ec145451742ddad363de6841a2e9aa6"}
+  {:article/id "law/128/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "28e96cdd51600828b85b092e9ce9867fb6d40f06dd0ad51e9903e9ac9d257f57"}
+  {:article/id "law/128/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e7cb2c617805f4a6a48a63fb48f3aed781b2cf34ddba0f633351bfdc1fea2eb6"}
+  {:article/id "law/128/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f775797361b6041448ccd32772c73ea9053e37c89830420d975f1cfd6fd59dbb"}
+  {:article/id "law/128/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0678e3fd001764db16698087f50775672a55bc2001ed375d63ff57bf90ee8f60"}
+  {:article/id "law/128/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ab4819186ba3b395b234d02b502d489def2c07f1717fffb01e659f913204514c"}
+  {:article/id "law/128/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "679c5915645afa17e3dfec39d09bfe1c5be668232fea6210c2e1db3363bcdbad"}
+  {:article/id "law/128/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b87dd616919e2fdea557650f9b8ae7f281be8e2dc41059c89b2736d2745964e6"}]}

@@ -1,0 +1,49 @@
+{:document/id "law/2581",
+ :document/type :law,
+ :document/number "2581",
+ :document/title
+ "DENİZ TİCARET FİLOSUNUN GELİŞTİRİLMESİ VE GEMİ İNŞA TESİSLERİNİN TEŞVİKİ HAKKINDA KANUN",
+ :document/slug
+ "2581-deniz-ticaret-filosunun-gelistirilmesi-ve-gemi-insa-tesislerinin-tesviki-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2581-deniz-ticaret-filosunun-gelistirilmesi-ve-gemi-insa-tesislerinin-tesviki-hakkinda-kanun",
+ :document/sha256
+ "ba1aaca95a0d6b402373e7d846073a7ebc6d09947a0fb9b37a2a88cfea4bc603",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2581.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:37.258-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2581/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 21 Sayfa : 166",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "eb68db2d9b710049e4634023b8e849836845d6e6345d1f3dd127f8cc0bfb6ed1"}
+  {:article/id "law/2581/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "09b1de9c8faf88c18bbea328947abf0e95e0266c80fd2a74d8360f39faa7be89"}
+  {:article/id "law/2581/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "506672b8d7cbca93809fc1e9ac1362c45f7da7e7951d5ac4f0ed9f9de7edafc8"}
+  {:article/id "law/2581/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f21b46198bbe21b219c0c6eda6157acca0285a2d693a048d1283bc0deeca5368"}]}

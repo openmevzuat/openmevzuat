@@ -1,0 +1,70 @@
+{:document/id "law/1515",
+ :document/type :law,
+ :document/number "1515",
+ :document/title
+ "TAPU KAYITLARINDAN HUKUKİ KIYMETLERİNİ KAYBETMİŞ OLANLARIN TASFİYESİNE DAİR KANUN",
+ :document/slug
+ "1515-tapu-kayitlarindan-hukuki-kiymetlerini-kaybetmis-olanlarin-tasfiyesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/1515-tapu-kayitlarindan-hukuki-kiymetlerini-kaybetmis-olanlarin-tasfiyesine-dair-kanun",
+ :document/sha256
+ "9d4d3e583cf3ea2ed02c1c4165bf5ce6c6cdcade9af9f156aebef6b23fe1173e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1515.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:26.194-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1515/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 10 Sayfa: 896",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5f5b6dc7918e72b57fb97b461bd38bd063953ef44d4a1aefbd21a159e48d9f19"}
+  {:article/id "law/1515/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f0f92b6bf4d49ccadffbc31de68679ce74adbc69c3fb676aa8e920fdbe3bc014"}
+  {:article/id "law/1515/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "cc94848e77bbc573ec98f5cb504ac59073c387d5c61fa761d8b13662b41c00a7"}
+  {:article/id "law/1515/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "bac9dea296251532d58f538250287bbbe45dd03f012e4ef11fc54f5fb734fffc"}
+  {:article/id "law/1515/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "3a07a0d47d363979610edad29ce1a116a8d11188b0a2725a0567b7e6e6c29eeb"}
+  {:article/id "law/1515/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f6c5da6bf907222948e50915128859de09af0fcec79c177c2bae2a70fe956404"}
+  {:article/id "law/1515/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "beb340a2799bb1465524cba38f597e668e297006cfdcf472308f1703aaf23923"}]}

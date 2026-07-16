@@ -1,0 +1,60 @@
+# ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU
+
+**Kanun No:** 1479  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/1479  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 60 — Madde 24 ilâ 59 - (Mülga: 31/5/2006-5510/106 md.)](articles/madde-060.md)
+- [EK MADDE 1 — Madde 61 ilâ 82 - (Mülga: 31/5/2006-5510/106 md.)](articles/ek-madde-001.md)
+- [EK MADDE 2](articles/ek-madde-002.md)
+- [EK MADDE 3](articles/ek-madde-003.md)
+- [EK MADDE 4](articles/ek-madde-004.md)
+- [EK MADDE 5](articles/ek-madde-005.md)
+- [EK MADDE 6](articles/ek-madde-006.md)
+- [EK MADDE 7](articles/ek-madde-007.md)
+- [EK MADDE 8](articles/ek-madde-008.md)
+- [EK MADDE 9](articles/ek-madde-009.md)
+- [EK MADDE 10](articles/ek-madde-010.md)
+- [EK MADDE 11](articles/ek-madde-011.md)
+- [EK MADDE 12](articles/ek-madde-012.md)
+- [EK MADDE 13](articles/ek-madde-013.md)
+- [EK MADDE 14](articles/ek-madde-014.md)
+- [EK MADDE 15](articles/ek-madde-015.md)
+- [EK MADDE 16](articles/ek-madde-016.md)
+- [EK MADDE 17](articles/ek-madde-017.md)
+- [EK MADDE 18](articles/ek-madde-018.md)
+- [EK MADDE 19](articles/ek-madde-019.md)
+- [EK MADDE 20](articles/ek-madde-020.md)
+- [EK MADDE 21](articles/ek-madde-021.md)
+- [EK MADDE 22](articles/ek-madde-022.md)
+- [GEÇİCİ MADDE 4 — Geçici Madde 1 ilâ 3 – (Mülga: 31/5/2006-5510/106 md.)](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6](articles/gecici-madde-006.md)
+- [GEÇİCİ MADDE 7](articles/gecici-madde-007.md)
+- [GEÇİCİ MADDE 8](articles/gecici-madde-008.md)
+- [GEÇİCİ MADDE 9](articles/gecici-madde-009.md)
+- [GEÇİCİ MADDE 10](articles/gecici-madde-010.md)
+- [GEÇİCİ MADDE 11](articles/gecici-madde-011.md)
+- [GEÇİCİ MADDE 12](articles/gecici-madde-012.md)
+- [GEÇİCİ MADDE 13](articles/gecici-madde-013.md)
+- [GEÇİCİ MADDE 14](articles/gecici-madde-014.md)
+- [GEÇİCİ MADDE 15](articles/gecici-madde-015.md)
+- [GEÇİCİ MADDE 16](articles/gecici-madde-016.md)
+- [GEÇİCİ MADDE 17](articles/gecici-madde-017.md)
+- [GEÇİCİ MADDE 18](articles/gecici-madde-018.md)
+- [GEÇİCİ MADDE 19](articles/gecici-madde-019.md)
+- [GEÇİCİ MADDE 20](articles/gecici-madde-020.md)
+- [GEÇİCİ MADDE 21](articles/gecici-madde-021.md)
+- [GEÇİCİ MADDE 22](articles/gecici-madde-022.md)
+- [GEÇİCİ MADDE 23](articles/gecici-madde-023.md)
+- [GEÇİCİ MADDE 24](articles/gecici-madde-024.md)
+- [GEÇİCİ MADDE 25](articles/gecici-madde-025.md)
+- [GEÇİCİ MADDE 26](articles/gecici-madde-026.md)
+- [GEÇİCİ MADDE 27](articles/gecici-madde-027.md)
+- [MADDE 83](articles/madde-083.md)
+- [MADDE 84](articles/madde-084.md)

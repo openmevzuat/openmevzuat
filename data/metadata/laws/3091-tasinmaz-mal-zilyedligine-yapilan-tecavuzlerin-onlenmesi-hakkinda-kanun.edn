@@ -1,0 +1,190 @@
+{:document/id "law/3091",
+ :document/type :law,
+ :document/number "3091",
+ :document/title
+ "TAŞINMAZ MAL ZİLYEDLİĞİNE YAPILAN TECAVÜZLERİN ÖNLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "3091-tasinmaz-mal-zilyedligine-yapilan-tecavuzlerin-onlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3091-tasinmaz-mal-zilyedligine-yapilan-tecavuzlerin-onlenmesi-hakkinda-kanun",
+ :document/sha256
+ "a5943d84c2642eb46f05da999cd7dfd6636fb424b922e06685af19794c0634a9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3091.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:34.244-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3091/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fc0862c38c9b178a8e498f7d5cb814bfa5bd5ea762eb577aad3ce73213ed4945"}
+  {:article/id "law/3091/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Görev",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2233eeafd793e599af70386ce47c29f3efe4a043f22e4986de5fda3bbf2c6cde"}
+  {:article/id "law/3091/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Başvuru",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5804062f58132af4fc5d37240aba4f35df11b1cf1285160595ccb9df6acef395"}
+  {:article/id "law/3091/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Başvuruda bulunma süresi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "04ff9a4964a2d29370da7eb1ab973f2afc147c755df3f93720c4e8c78bd2f6d6"}
+  {:article/id "law/3091/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Soruşturma",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "102bb081ce0d77372f66b4790106cda8434b195f238edc778f8b479b25caafb1"}
+  {:article/id "law/3091/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Şahitlerin dinlenmesi ve karar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cdf5615e37cf827ea098e2a29950a2e246a8c0435f4cd28a75fd8ecf1b39d673"}
+  {:article/id "law/3091/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kararların kesinliği",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "5a46fc8ef5d5f7860583fecbf50a331915c5f55cbfd2506ccfab737ca186de64"}
+  {:article/id "law/3091/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Tebligat",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "49df093dce1e46bc6bb625388da69f49f2edc98060df11e450313e5a7108a398"}
+  {:article/id "law/3091/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "Kararın uygulanması ve güvenlik kuvvetlerinin görevi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6d8cf70d17ba614054177a0b6d1a44bd9450fb2c8ce06e97ee8db74ff2158b1a"}
+  {:article/id "law/3091/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Taşınmaz mal üzerindeki ekim, tesis ve değişiklikler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d43417761e5c1df6056cd31acdb97694ff0fe4561d3d578e770b873f726e1a24"}
+  {:article/id "law/3091/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Gecikmelerin üst makama bildirilmesi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "e63df85d9421a37f78bc06e18063d6e8df5865de496c6cfc0da8172317812146"}
+  {:article/id "law/3091/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İkinci ve daha sonraki tecavüzler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "c9b6d3701e94d1238a907bc7a0a6ccd3308ae9f76ea045d1f41e893efa38e3a9"}
+  {:article/id "law/3091/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürütmenin durdurulması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3469aed35d7e45e094c86160b784021022cc23594a710615792b28208599f21c"}
+  {:article/id "law/3091/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İhtiyati tedbirler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "4d5fc6cc3f355aaac2bb538bef1871ee2d18cec16cec6e9e8e3cda6b7cbf2737"}
+  {:article/id "law/3091/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c1dee5f0215ec08912630284f8323791085a95de9ab13c3055448134bc175f19"}
+  {:article/id "law/3091/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "83c4d49f54661375a508ad995e60e73e0fedc31fd133ba466693ba27f9429580"}
+  {:article/id "law/3091/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Soruşturma ve infaz giderleri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "7a4a483d484bcc3bfc99c07b9533f56506845ece5bcc8bdb26e100b982c85066"}
+  {:article/id "law/3091/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Vergi, harç ve resimler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "344cf62533f6e075377ab6fc317bc1e973f7b2f021326f79f9cfca278bfef351"}
+  {:article/id "law/3091/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "480fc1eddccfa69f0504976f609579dbe082028d524e0d06257a1540043642af"}
+  {:article/id "law/3091/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Kaldırılan Kanun",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "b30a9aee5bc562ce65cd073a4c47828e4c192a3e52e17e3252f0672fbf3290d4"}
+  {:article/id "law/3091/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "76c5498c89c3ce7aaa78faa08b3c53177579568ae9d40f5e34255de869076994"}
+  {:article/id "law/3091/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "3a844bf0b8a43a812767ac167111dafb3ef4d0e7a3ecb7786325aa971ec36b96"}
+  {:article/id "law/3091/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1f839a8dd714cfc769a73c9ec9f1f0df9d7d4f0db7b7eabee523d2d7efeb49e6"}
+  {:article/id "law/3091/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürütme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "fd1c0493bdef1f0a6da7827cd68b73d2b4bcdb5a17b251fa55784ba8553da38c"}]}

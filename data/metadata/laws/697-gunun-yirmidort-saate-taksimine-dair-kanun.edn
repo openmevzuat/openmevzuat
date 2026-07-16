@@ -1,0 +1,46 @@
+{:document/id "law/t3-697",
+ :document/type :law,
+ :document/number "697",
+ :document/title "GÜNÜN YİRMİDÖRT SAATE TAKSİMİNE DAİR KANUN",
+ :document/slug "697-gunun-yirmidort-saate-taksimine-dair-kanun",
+ :document/path
+ "data/canonical/laws/697-gunun-yirmidort-saate-taksimine-dair-kanun",
+ :document/sha256
+ "c6e2faea165b61d5b925e593088e2d8b20da86ddf1aaf39485fae23bd7e4336a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.697.pdf",
+ :source/fetched-at #inst "2026-07-16T02:13:29.566-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t3-697/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 7 Sayfa: 158",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a25868c893d7e2eb75522853c0a9a7fab20609653840807debdfb81041603e9b"}
+  {:article/id "law/t3-697/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b24468f55fd4d4d3db725da43db1aa8e8e3b2e75d3fb7637463d851b5116b77f"}
+  {:article/id "law/t3-697/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "67a1fb2c56dfebd5d406f7ccc794ea703c0e771e622291bb0c57d80b3b4fe03d"}
+  {:article/id "law/t3-697/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "041d820809bfe13a85eae3b7e46e2c0e18b92587ad5cca3acc97e606a2dfb5f2"}]}

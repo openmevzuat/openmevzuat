@@ -1,0 +1,140 @@
+{:document/id "law/2022",
+ :document/type :law,
+ :document/number "2022",
+ :document/title
+ "65 YAŞINI DOLDURMUŞ MUHTAÇ, GÜÇSÜZ VE KİMSESİZ TÜRK VATANDAŞLARINA AYLIK BAĞLANMASI HAKKINDA KANUN",
+ :document/slug
+ "2022-65-yasini-doldurmus-muhtac-gucsuz-ve-kimsesiz-turk-vatandaslarina-aylik-baglanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2022-65-yasini-doldurmus-muhtac-gucsuz-ve-kimsesiz-turk-vatandaslarina-aylik-baglanmasi-hakkinda-kanun",
+ :document/sha256
+ "fbf582f14864c26332a6eeeb0ce4d75c3ccab24c472df4464d431da840dda63c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2022.pdf",
+ :source/fetched-at #inst "2026-07-16T02:16:30.728-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2022/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 15 Sayfa: 3254",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f09bb35ebeeb22977f0803b772c21d8dcf1ac7d42e43e1333f58a90cbe5e867f"}
+  {:article/id "law/2022/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6acddd67fd4c661d7d6d303b28c1496363d49e030e1cbac8c312038639235146"}
+  {:article/id "law/2022/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "bbaf69e4d33b677ab262f5a5bbb33d4958faaab3885f91bdd206154a05b16c7f"}
+  {:article/id "law/2022/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9b4980d2d5d6a684ea8cd6876b2a494c97f00c3887ead0432e0ea5dcc4dbcb7f"}
+  {:article/id "law/2022/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "73eff6f37bdd15e2cb399771eab79514a8a5ee5524dcb5649852c061f1dcef52"}
+  {:article/id "law/2022/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0facf109a2e1525b68caf7bc301c5f1b313dc536c9ed9a318cc281b2d48c5971"}
+  {:article/id "law/2022/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "8d3bd80ccdf9254bb47bdbc72dddd7adfa1aeb17ee8d28e127e5e8b5a34f54cb"}
+  {:article/id "law/2022/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "5aa1d5f098cd562d701de5bb9b9c7595f7848afbf0c84467eec9ffd258e3889c"}
+  {:article/id "law/2022/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "7d2623cf2d9bad672e77f63fa6919ebf0b49126901b38565e644f45364cd2998"}
+  {:article/id "law/2022/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "d5b5afa2ce5f6a08915c4b29640fa3913b703043b8c01e32101d97345c7fee1e"}
+  {:article/id "law/2022/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "42028c257aae4e58f708614e2a2c7a33c9deef75e50940b56a4d83ee061f2e6b"}
+  {:article/id "law/2022/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "dc9d381f434ab90b98280bdbe00c8b63ebc83d89bfb609f8c563d3e73b661a37"}
+  {:article/id "law/2022/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "5a8e130ec4246a851e15372d6e78bb3c1a0cb28893aa784e66122eba55bcedb6"}
+  {:article/id "law/2022/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "ccc1a2a8ccbb841a64ba186978bf34f961dd0dda9514b8cf7cf8f2e01f74b52e"}
+  {:article/id "law/2022/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "523687f79b8335087c42a16e09c221a82b07c1da4ef037228ee248e7899fd6f2"}
+  {:article/id "law/2022/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "41fddbd38387bffd2ce2b6887d191fea2d08429aafd8ea140ec96b26b79170d8"}
+  {:article/id "law/2022/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5812360eabd20f31152b9a0ecf7217e0df583554b402e0e08fb986698a35b096"}]}

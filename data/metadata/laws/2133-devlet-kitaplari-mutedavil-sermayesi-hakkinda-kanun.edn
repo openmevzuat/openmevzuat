@@ -1,0 +1,83 @@
+{:document/id "law/2133",
+ :document/type :law,
+ :document/number "2133",
+ :document/title "DEVLET KİTAPLARI MÜTEDAVİL SERMAYESİ HAKKINDA KANUN",
+ :document/slug
+ "2133-devlet-kitaplari-mutedavil-sermayesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2133-devlet-kitaplari-mutedavil-sermayesi-hakkinda-kanun",
+ :document/sha256
+ "a67fd311f29f334c4ca5ffc8e3f1c50059ff78471ad4740ba5d6f1150b944eff",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2133.pdf",
+ :source/fetched-at #inst "2026-07-16T02:16:57.746-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2133/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 14 Sayfa: 183",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a342a92e5376680c97f5d99c857c0a4d72b725e14d535d6f87cb4364ead67574"}
+  {:article/id "law/2133/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a8ee19c2f109d2dfa83d13fecf83b4ebc47fc8de397c11cbd9eec1246675dd54"}
+  {:article/id "law/2133/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6d6939a1db95da10a013821598adef5f9e065d001b891ca0690f8e55d2e4942b"}
+  {:article/id "law/2133/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "602ef462696c9587f185e18ec3c3ae046c12ba9df6133c71399f438511e4b3e5"}
+  {:article/id "law/2133/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "508405eebfe9cf4371a9a881f9e98fd7e919ce26b99511de8f7f9a5d2a1a7458"}
+  {:article/id "law/2133/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "b833e8f1d44ef283561e7004a44daa5b1dd23a9a2cafbb7adba3afe1134aef51"}
+  {:article/id "law/2133/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "c30a2a04ff40cfce33bfdb597ddc36951d3ebebf4b91307d3a136e493153d430"}
+  {:article/id "law/2133/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1274ece93affb8ee1b6b451470c9b29e975c8db7ddcb703906a19f9abcf30a7c"}
+  {:article/id "law/2133/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "55852fbfb7b1b66269be93830c6e20d8d357f7d067f5b02732785d5d9f9a7dd4"}]}

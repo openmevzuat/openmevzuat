@@ -2,7 +2,11 @@
   (:require [babashka.fs :as fs]
             [clojure.java.io :as io]
             [clojure.string :as str]
-            [openmevzuat.slug :as slug]))
+            [openmevzuat.hash :as hash]
+            [openmevzuat.slug :as slug])
+  (:import [java.nio.file CopyOption Files StandardCopyOption]))
+
+(def max-document-slug-length 180)
 
 (defn read-file [path]
   (when (fs/exists? path)
@@ -17,6 +21,45 @@
       (do
         (fs/create-dirs (fs/parent path))
         (spit (io/file (str path)) content)
+        {:path (str path) :changed? true}))))
+
+(defn- equal-byte-ranges? [left right length]
+  (loop [i 0]
+    (or (= i length)
+        (and (= (aget left i) (aget right i))
+             (recur (inc i))))))
+
+(defn files-equal? [left right]
+  (let [left (fs/path left)
+        right (fs/path right)]
+    (and (fs/exists? left)
+         (fs/exists? right)
+         (= (fs/size left) (fs/size right))
+         (with-open [left-in (io/input-stream (io/file (str left)))
+                     right-in (io/input-stream (io/file (str right)))]
+           (let [left-buffer (byte-array 8192)
+                 right-buffer (byte-array 8192)]
+             (loop []
+               (let [left-read (.read left-in left-buffer)
+                     right-read (.read right-in right-buffer)]
+                 (cond
+                   (not= left-read right-read) false
+                   (= -1 left-read) true
+                   (equal-byte-ranges? left-buffer right-buffer left-read) (recur)
+                   :else false))))))))
+
+(defn replace-file-if-changed! [path temp-path]
+  (let [path (fs/path path)
+        temp-path (fs/path temp-path)]
+    (if (files-equal? path temp-path)
+      (do
+        (fs/delete-if-exists temp-path)
+        {:path (str path) :changed? false})
+      (do
+        (fs/create-dirs (fs/parent path))
+        (Files/move (.toPath (io/file (str temp-path)))
+                    (.toPath (io/file (str path)))
+                    (into-array CopyOption [StandardCopyOption/REPLACE_EXISTING]))
         {:path (str path) :changed? true}))))
 
 (defn article-number-token [article-no]
@@ -43,11 +86,19 @@
       prefix)))
 
 (defn document-slug [document]
-  (if (= :decree (:document/type document))
-    (str (or (decree-subtype-prefix document) "decree")
-         "-" (:document/number document)
-         "-" (slug/slugify (:document/title document)))
-    (str (:document/number document) "-" (slug/slugify (:document/title document)))))
+  (let [raw (if (= :decree (:document/type document))
+              (str (or (decree-subtype-prefix document) "decree")
+                   "-" (:document/number document)
+                   "-" (slug/slugify (:document/title document)))
+              (str (:document/number document)
+                   "-"
+                   (slug/slugify (:document/title document))))]
+    (if (<= (count raw) max-document-slug-length)
+      raw
+      (let [suffix (subs (hash/sha256-str raw) 0 12)
+            prefix-length (- max-document-slug-length (count suffix) 1)
+            prefix (str/replace (subs raw 0 prefix-length) #"-+$" "")]
+        (str prefix "-" suffix)))))
 
 (defn canonical-kind-dir [document]
   (case (:document/type document)

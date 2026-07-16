@@ -1,0 +1,61 @@
+# BÖLGE İDARE MAHKEMELERİ, İDARE MAHKEMELERİ VE VERGİ MAHKEMELERİNİN KURULUŞU VE GÖREVLERİ HAKKINDA KANUN
+
+**Kanun No:** 2576  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/2576  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1](articles/madde-001.md)
+- [MADDE 2](articles/madde-002.md)
+- [MADDE 3 — Bölge İdare Mahkemelerinin oluşumu:1](articles/madde-003.md)
+- [MADDE 3](articles/madde-003.md)
+- [MADDE 3/A](articles/madde-003-a.md)
+- [MADDE 3/B — Bölge idare mahkemesi başkanı, daire başkanları ve üyelerinin görevleri:23](articles/madde-003-b.md)
+- [MADDE 3/C](articles/madde-003-c.md)
+- [MADDE 3/D — Dairelerin görevleri:6](articles/madde-003-d.md)
+- [MADDE 3/E](articles/madde-003-e.md)
+- [MADDE 3/F](articles/madde-003-f.md)
+- [MADDE 3/G](articles/madde-003-g.md)
+- [MADDE 3/H](articles/madde-003-h.md)
+- [MADDE 3/I](articles/madde-003-i.md)
+- [MADDE 4](articles/madde-004.md)
+- [MADDE 5](articles/madde-005.md)
+- [MADDE 6](articles/madde-006.md)
+- [MADDE 7 — Tek hakimle çözümlenecek davalar:8](articles/madde-007.md)
+- [MADDE 8](articles/madde-008.md)
+- [MADDE 9](articles/madde-009.md)
+- [MADDE 10](articles/madde-010.md)
+- [MADDE 11](articles/madde-011.md)
+- [MADDE 12 — Müdürlükler ve mahkeme memurları:9](articles/madde-012.md)
+- [MADDE 13](articles/madde-013.md)
+- [MADDE 14](articles/madde-014.md)
+- [MADDE 15](articles/madde-015.md)
+- [EK MADDE 1 — Parasal sınırların artırılması:10](articles/ek-madde-001.md)
+- [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)
+- [GEÇİCİ MADDE 4](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6](articles/gecici-madde-006.md)
+- [GEÇİCİ MADDE 7](articles/gecici-madde-007.md)
+- [GEÇİCİ MADDE 8](articles/gecici-madde-008.md)
+- [GEÇİCİ MADDE 9](articles/gecici-madde-009.md)
+- [GEÇİCİ MADDE 10](articles/gecici-madde-010.md)
+- [GEÇİCİ MADDE 11](articles/gecici-madde-011.md)
+- [GEÇİCİ MADDE 12](articles/gecici-madde-012.md)
+- [GEÇİCİ MADDE 13](articles/gecici-madde-013.md)
+- [GEÇİCİ MADDE 14](articles/gecici-madde-014.md)
+- [GEÇİCİ MADDE 15](articles/gecici-madde-015.md)
+- [GEÇİCİ MADDE 16](articles/gecici-madde-016.md)
+- [GEÇİCİ MADDE 17](articles/gecici-madde-017.md)
+- [GEÇİCİ MADDE 18](articles/gecici-madde-018.md)
+- [GEÇİCİ MADDE 19](articles/gecici-madde-019.md)
+- [GEÇİCİ MADDE 20](articles/gecici-madde-020.md)
+- [MADDE 3](articles/madde-003.md)
+- [GEÇİCİ MADDE 21](articles/gecici-madde-021.md)
+- [MADDE 16](articles/madde-016.md)
+- [MADDE 17](articles/madde-017.md)

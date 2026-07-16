@@ -1,0 +1,164 @@
+{:document/id "law/t5-3201",
+ :document/type :law,
+ :document/number "3201",
+ :document/title
+ "YURT DIŞINDA BULUNAN TÜRK VATANDAŞLARININ YURT DIŞINDA GEÇEN SÜRELERİNİN SOSYAL GÜVENLİKLERİ BAKIMINDAN DEĞERLENDİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "3201-yurt-disinda-bulunan-turk-vatandaslarinin-yurt-disinda-gecen-surelerinin-sosyal-guvenlikleri-bakimindan-degerlendirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3201-yurt-disinda-bulunan-turk-vatandaslarinin-yurt-disinda-gecen-surelerinin-sosyal-guvenlikleri-bakimindan-degerlendirilmesi-hakkinda-kanun",
+ :document/sha256
+ "b70bf682224d1f3763e1c762c0fd2f682a04491aee3f5d6ebb1e3dd6ad668dc0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3201.pdf",
+ :source/fetched-at #inst "2026-07-16T02:23:12.744-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-3201/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a997a6ab2109d928faebb3ca9b117a5775488f3cd9dd78a97fad0608e02446a6"}
+  {:article/id "law/t5-3201/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f18f4ae6a8d067195cf172be9df3038cf948247a81e7a566188f71631efe4e17"}
+  {:article/id "law/t5-3201/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Başvurulacak kuruluşlar2",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ecf1beea2eb91d27032f8473eaa2761fb73c08da40ad7a82d086a3b28c938f34"}
+  {:article/id "law/t5-3201/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Borçlanma tutarı ve borçlanma tutarının iadesi3",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d06eff451c4bb21687b2f1740d004ff47340d4172db2fd0b5f6eee656c5583e7"}
+  {:article/id "law/t5-3201/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Süre tespiti, sigortalılığın başlangıcı ve sürelerin değerlendirilmesi6",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "be1777cb48fcb8956689039f06822bf788f0d9d4131069f776f9e6dc6f8bcd07"}
+  {:article/id "law/t5-3201/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Aylık tahsisi ve aylığın başlama tarihi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b6f011cf60fe62670a2d62cd993d7fecd99db28cca444d389747db3ec1053868"}
+  {:article/id "law/t5-3201/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "T.C. Emekli Sandığınca bağlanacak aylığa ait esaslar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "45cf9b2e6e41d127ceaf6786adf043cf009722f44e8e243d9ae4143781b0c1ff"}
+  {:article/id "law/t5-3201/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Bu Kanundan yararlanamayacaklar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3e00849405869746ed5469a64b4d6cde10d5fc6983939d41be20efcc10a46779"}
+  {:article/id "law/t5-3201/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kısmi aylıklar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "31f2b1478aa44184a47b806c3c5db6c722d7a8ff579102ec4119cd3d137649b1"}
+  {:article/id "law/t5-3201/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Sosyal güvenlik sözleşmeleri ile transferi sağlanan primlerin iadesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "15d4081b75c64291cec70d1e6f1cf522d2c80ed2316c16d87a5c2209ba835a4f"}
+  {:article/id "law/t5-3201/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "c3f3abe00a7d113f82df80f8e9db045139aa2a1eceb76d5292324551483ff8ea"}
+  {:article/id "law/t5-3201/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "171a0f08c628c5858197bdddcd99750b7b1d9e22683c4cb4f41e84a86a944e7e"}
+  {:article/id "law/t5-3201/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Kaldırılan hükümler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "da14dad366ae5c65295c757eacb753ee90252ea5a91b7591733f8d9291c6e0b7"}
+  {:article/id "law/t5-3201/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title
+   "Geçici Madde 1 ilâ 4 - (Mülga: 31/5/2006-5510/106 md.)",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "80c45081a2a80e1631de901030de9503429e461f10d0afab88c33703a4799e4a"}
+  {:article/id "law/t5-3201/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "749567c6d9f0664d2dec8152bbe541ca87dd1dbd7fd5b179a843f6e7b3e64c42"}
+  {:article/id "law/t5-3201/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "8001a6a72685bf17eea0e5bb796a10382dd32c54116c1a6f578bf9b0cc48257a"}
+  {:article/id "law/t5-3201/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title "Davalardan vazgeçenlerin işlemleri",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "03f0ba058f37b2a7a68ff6ee3c959360e28aa98474cae6eef79e12d5bf4a0e3a"}
+  {:article/id "law/t5-3201/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "8e4c2185fecd2da6c773f69f2a75a6b54e0eae44c2a7ea60622b8020908bc4e1"}
+  {:article/id "law/t5-3201/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "cf16d2889f86c1d52270c86f239620e1c721cbf1b025be67c591611d64831c6a"}
+  {:article/id "law/t5-3201/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "14a63230720f114a930e6291fbda2a0116af3f46d1208009f87fdd693f5c274c"}]}

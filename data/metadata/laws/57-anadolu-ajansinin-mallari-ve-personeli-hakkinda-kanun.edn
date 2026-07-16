@@ -1,0 +1,69 @@
+{:document/id "law/57",
+ :document/type :law,
+ :document/number "57",
+ :document/title
+ "ANADOLU AJANSININ MALLARI VE PERSONELİ HAKKINDA KANUN",
+ :document/slug
+ "57-anadolu-ajansinin-mallari-ve-personeli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/57-anadolu-ajansinin-mallari-ve-personeli-hakkinda-kanun",
+ :document/sha256
+ "bbfe4637e6e00c1d816686fc4750e5d2cdfb55b662f43624896c7fa83c386f1f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.57.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:54.401-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/57/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 217",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3c299e9d545cadf1ae035d635d61f8cdff04e3e3b196bf759e2dcdfce695b3f9"}
+  {:article/id "law/57/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ad5b4a639b8cb9ba5d702b5b42f144ddfd8f2342d4119f275850a141207197d7"}
+  {:article/id "law/57/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d26ceb98414210b08e7ee01eb87e9dde3a4f1aff8d6a1cae0ad03ac2d8f0c5cc"}
+  {:article/id "law/57/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "fc5983668756bb5362c9123072e562a972286a7920d0e6019aa1d1042effe385"}
+  {:article/id "law/57/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "668fc5443a86070e20a673181402aa89ee953e0b0a4b0e6647707542cc178d02"}
+  {:article/id "law/57/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "09bc4837441875c4c9e358554b4164c97d5df7244dcfe4773960769ea40589a4"}
+  {:article/id "law/57/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0fb48674060d6ac75bb8bf82b96b9f776ce2a67a0ce0a2c1045528706900233e"}]}

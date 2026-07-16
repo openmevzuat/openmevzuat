@@ -1,0 +1,83 @@
+{:document/id "law/500",
+ :document/type :law,
+ :document/number "500",
+ :document/title
+ "KIBRIS´A GÖNDERİLECEK TÜRK ASKERİ BİRLİĞİ MENSUPLARININ AYLIK VE ÜCRETLERİYLE ÇEŞİTLİ İSTİHKAKLARI VE BİRLİĞİN BAŞKA GİDERLERİ HAKKINDA KANUN",
+ :document/slug
+ "500-kibrisa-gonderilecek-turk-askeri-birligi-mensuplarinin-aylik-ve-ucretleriyle-cesitli-istihkaklari-ve-birligin-baska-giderleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/500-kibrisa-gonderilecek-turk-askeri-birligi-mensuplarinin-aylik-ve-ucretleriyle-cesitli-istihkaklari-ve-birligin-baska-giderleri-hakkinda-kanun",
+ :document/sha256
+ "1e711c332f2f8728f01b4409acffd87c9a99ccc16dcba2c57afbf3af21230024",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.500.pdf",
+ :source/fetched-at #inst "2026-07-16T02:12:55.796-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/500/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur :Tertip: 5 Cilt: 3 Sayfa: 2820",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8f4930b7fb7b4ea092bc5522714128ff1aa586ebbc0d07d6ab85f88af4611d4a"}
+  {:article/id "law/500/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d1ab39bc543bca8333ea69564c54eeb1586a527111d016440219bccc29826f1f"}
+  {:article/id "law/500/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f17b22c4c8340efd24c5e486ead4a0818912c45b9241a9b0a1f4bf878715a757"}
+  {:article/id "law/500/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "cb805bdc10a91cd5fbc0f1f1ab5e0b73ea82e7ecd20f8f76343c8991a58a7142"}
+  {:article/id "law/500/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "979559070d5ba15404496fdee93e20e8560f3b6ff352bed02faff9db2eca3fa3"}
+  {:article/id "law/500/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "3a2b9de0d15a91b1cf602c5d9958d20e7ee6edf1a1f42a82495003b2d9728438"}
+  {:article/id "law/500/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "74475faa1fabf30667fa8e98154bd8168a91102771ef5ca0cf5fe49aa0b4fd91"}
+  {:article/id "law/500/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "da71356b31795f00fe677cb21613c64943c2354a20063472f00a9e5b4882bd9f"}
+  {:article/id "law/500/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e0898e88a2fe096917b2a41c05ac01c9efc81aaf9a84677a42f729b94cc5056"}]}

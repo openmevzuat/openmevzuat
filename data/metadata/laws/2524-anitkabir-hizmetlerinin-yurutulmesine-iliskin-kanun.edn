@@ -1,0 +1,83 @@
+{:document/id "law/2524",
+ :document/type :law,
+ :document/number "2524",
+ :document/title "ANITKABİR HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN",
+ :document/slug
+ "2524-anitkabir-hizmetlerinin-yurutulmesine-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/2524-anitkabir-hizmetlerinin-yurutulmesine-iliskin-kanun",
+ :document/sha256
+ "faecd011a0c6b6ee231aab7abc83dc9454317587e6a45d0a2c800d7fd9b79b16",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2524.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:54.836-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2524/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 20 Sayfa: 424",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c1b8154fb35bba3d22239cc61bae7c1b8e3deadca0b1f454603fb44afbb75e80"}
+  {:article/id "law/2524/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2deb81f8e1ecff4845d0e383fc4b728f5082a11ada95eba43662349a7e6bf9ba"}
+  {:article/id "law/2524/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7a3532feb6343a227ad2f577e7134f01043fb9a4b79e646f03cd3b225ec735e4"}
+  {:article/id "law/2524/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "dccb67157872228edbfb249694ac9765d8d41c270bad17aab16c08c33aba3d3f"}
+  {:article/id "law/2524/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "31225b0715b160c8fe3aea43f845ec85edf54859da602cdf4814dc7317e769ff"}
+  {:article/id "law/2524/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "dd4f7148a254914692ad39daa9b2e3d3e0648db8a4d8d10fc2a2d68b52ea1b14"}
+  {:article/id "law/2524/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "6aac2bef8c1c4d600044c0000d841071bb7ef6c959905c9f19f1e3f6e93ad0b5"}
+  {:article/id "law/2524/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e3fcdf5b5ce193ece6bd8484bd0c0b970265f2f6060bc45c5cf53c80ca97a1d"}
+  {:article/id "law/2524/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0e6c05fd016c70133a9826f44d0037905f1cb99c5b2fa54b6dd88bdbb58eeb93"}]}

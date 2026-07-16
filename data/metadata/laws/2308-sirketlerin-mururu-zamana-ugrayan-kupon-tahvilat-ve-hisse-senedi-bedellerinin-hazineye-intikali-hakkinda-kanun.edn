@@ -1,0 +1,49 @@
+{:document/id "law/2308",
+ :document/type :law,
+ :document/number "2308",
+ :document/title
+ "ŞİRKETLERİN MÜRURU ZAMANA UĞRAYAN KUPON, TAHVİLAT VE HİSSE SENEDİ BEDELLERİNİN HAZİNEYE İNTİKALİ HAKKINDA KANUN",
+ :document/slug
+ "2308-sirketlerin-mururu-zamana-ugrayan-kupon-tahvilat-ve-hisse-senedi-bedellerinin-hazineye-intikali-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2308-sirketlerin-mururu-zamana-ugrayan-kupon-tahvilat-ve-hisse-senedi-bedellerinin-hazineye-intikali-hakkinda-kanun",
+ :document/sha256
+ "01e3cefbf71c2827fe3fe8a32ee6ec3872f564e7ef60330143d10dbdf039154a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2308.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:24.920-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2308/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 14 Sayfa: 557",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "13a3c901aa00419091af53d86a77c79337bfa773d7105241a6b8e96eb7fed29c"}
+  {:article/id "law/2308/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "584588df39b76dfbdb1a4591974d00f7c21b3c2647a8f898da8960472ef49c6b"}
+  {:article/id "law/2308/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "65ff5eb31d33aaf84ace75ddf970439cdffb507a6e15c0c5ea56d9b963fdc0e2"}
+  {:article/id "law/2308/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f4fe0d9b74803478b6e5e49ad850790ae795d3e794ee15cd67ea5f23a783c359"}]}

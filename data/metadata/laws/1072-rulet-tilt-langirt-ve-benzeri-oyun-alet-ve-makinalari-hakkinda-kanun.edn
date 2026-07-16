@@ -1,0 +1,62 @@
+{:document/id "law/1072",
+ :document/type :law,
+ :document/number "1072",
+ :document/title
+ "RULET, TİLT, LANGIRT VE BENZERİ OYUN ALET VE MAKİNALARI HAKKINDA KANUN",
+ :document/slug
+ "1072-rulet-tilt-langirt-ve-benzeri-oyun-alet-ve-makinalari-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/1072-rulet-tilt-langirt-ve-benzeri-oyun-alet-ve-makinalari-hakkinda-kanun",
+ :document/sha256
+ "666550be5f3621a19484ea6d8f129efb3bc3bf43abe0f269cc64f395255603e2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1072.pdf",
+ :source/fetched-at #inst "2026-07-16T02:14:15.313-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1072/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 5 Cilt: 8 Sayfa: 172",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8f4185e73a70bf8484278f0898f9efeaeeba4c60c7a920984310005cdbf4344e"}
+  {:article/id "law/1072/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6fad39c4ab7f9cfecc32a4e47f722ee96d90fce97ec11a8c966c960a642de8da"}
+  {:article/id "law/1072/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "26350450503aa1b803b3805a35edb4b01beb31dac51c8505bc3a06f2e5dfcb19"}
+  {:article/id "law/1072/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "490368427f71342a795b00d14f38af3fe1641e9a6d0de804cbb102fa7788b604"}
+  {:article/id "law/1072/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "38888cc28cbb0ba15471d676625e9e835cc11de6b4a53191767b5cd018fb4021"}
+  {:article/id "law/1072/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "04c03b9d6bd1934940ff77f502834bb6fdb049b999c8a408e7118662680cdace"}]}

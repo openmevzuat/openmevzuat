@@ -1,0 +1,76 @@
+{:document/id "law/1005",
+ :document/type :law,
+ :document/number "1005",
+ :document/title
+ "İSTİKLAL MADALYASI VERİLMİŞ BULUNANLARA VATANİ HİZMET TERTİBİNDEN ŞEREF AYLIĞI BAĞLANMASI HAKKINDA KANUN",
+ :document/slug
+ "1005-istiklal-madalyasi-verilmis-bulunanlara-vatani-hizmet-tertibinden-seref-ayligi-baglanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/1005-istiklal-madalyasi-verilmis-bulunanlara-vatani-hizmet-tertibinden-seref-ayligi-baglanmasi-hakkinda-kanun",
+ :document/sha256
+ "da451a2c01d21f1d46a02724616b6a9947b42d6a4b4abe8afdce38a660034a5b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1005.pdf",
+ :source/fetched-at #inst "2026-07-16T02:14:06.152-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1005/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 5 Cilt: 7 Sayfa: 649",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5a170d726132238b62978b6c922ca2a92843ea0761f67227a48a7ba1ee51f383"}
+  {:article/id "law/1005/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0da9d2890523d43b64ccf4cc451348a9a69632533e9bd32de9f8056d44d9cc1e"}
+  {:article/id "law/1005/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "1d7d15929ea300d621d171f3d0be535923429d58b64df146125092fb24b68642"}
+  {:article/id "law/1005/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "4517c1e5d26c695280814cc3d7474720eb536cf1d85d61149880ac907f1a22f0"}
+  {:article/id "law/1005/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a62b81ce5760107d55bcb0aa6a761f925d56e49bb905e3cf5860960a43a41e79"}
+  {:article/id "law/1005/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "cc2ae8c91a60c5164b61164a9c2abe4aa49b70f71f96c4b95eadbe0978e6db82"}
+  {:article/id "law/1005/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "59dc01a1e27da9b9b165321b1072f63f6c8222c01f2aa06065541ded05d69e47"}
+  {:article/id "law/1005/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9e438444e0c89477a64a6daa02f6827777e0a22db7daf2c06a7ede82b318aa00"}]}

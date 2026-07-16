@@ -1,0 +1,480 @@
+{:document/id "law/2",
+ :document/type :law,
+ :document/number "2",
+ :document/title
+ "RUMELİ DEMİRYOLLARININ UMUR-U NAKLİYESİ HAKKINDA NiZAMNAME ",
+ :document/slug
+ "2-rumeli-demiryollarinin-umur-u-nakliyesi-hakkinda-nizamname",
+ :document/path
+ "data/canonical/laws/2-rumeli-demiryollarinin-umur-u-nakliyesi-hakkinda-nizamname",
+ :document/sha256
+ "2d3204995b8e95f3b32afdaf3c0e527e174b071a19483c3e37a1f25ea9f85478",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.2.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:25.206-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kumpanya memurlarının vezaifi",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c65cbc62d383c72dfc0e666f6f8d3938eeb3e6962b0087bc3c60e03fd914a7f3"}
+  {:article/id "law/2/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Efradı ahalinin vezaifi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e17eebdcdb4c9f2ccb810b830d5273d4df2ef1d36494473ca12030ded3517071"}
+  {:article/id "law/2/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Münazaatın sureti tesviyesi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0dbbe9e20c67e5c500e38fdd45840ba7ef4b514cb2fbcbd27c868bb358d78fb7"}
+  {:article/id "law/2/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Şikayetler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2d93ddab125fae5bf44889c90f359915462c5865b77a2b91cfab5ced0cc2ffab"}
+  {:article/id "law/2/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Mevkifler ile demiryolu dahilinde gezmek",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8044b541772b4b501a8e5c1ab0715c3866574e9158619da46ac81516aaba0755"}
+  {:article/id "law/2/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "68ae03c12e81effe8816bb354be975793f0bc68c615fa5a9857c4a07423bd33f"}
+  {:article/id "law/2/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7f5cba85cce004381c14236f9851604535aff74d25157bec7cbe14b6df9093b3"}
+  {:article/id "law/2/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ücuratı nakliye",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ae062288289654e5ef7dd274805609ac9a856bb496e8c38151690880522b79a7"}
+  {:article/id "law/2/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yolcuların biletleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5e9d0c39efdbf5693531a495e21a7487ad447102a7344f6321aa4bd7ca55ee41"}
+  {:article/id "law/2/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Biletlerin hüküm ve itibarı Çocukların ücuratı nakliyesinin tenzili",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "abf3a1e0094d0e37270e32ece20ce712134af4c8d071500e8bc58e43010ba548"}
+  {:article/id "law/2/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Biletlerin tebdili",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9f9e5e32c65b77510853e108a987739395c2499869848eed1f8e10996c3273e8"}
+  {:article/id "law/2/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Mevkilerin taksimi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "b702c09dd063504b8a1276966ce1f534460ce883fc17788d1b3b05491b42a38b"}
+  {:article/id "law/2/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Sıkıntı veren adamların defi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "4e039217218fe071f4904d8bcb38423a933bc9736d7d32f0b119e6e3c1807bf6"}
+  {:article/id "law/2/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Tevakkufhane ve yolcu ve eşyanın irsali ve biletlerin muayenesi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ff2e95a1bf70d11fcc1a22bfe589babad0a382d583de4e31ef15edbf5f274cb6"}
+  {:article/id "law/2/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Arabalara duhul",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c646462af56190cb8062623cb5666fd5e8d8e77b723b8c6086d4e9caeb33b9bb"}
+  {:article/id "law/2/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Geç kalan yolcular",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "2fc092bb15e748a89b9ac17ba2f8c55cc3a8759e0fa15572fdfa50c2b2ca4729"}
+  {:article/id "law/2/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Vasattaki mevkiflerde çıkılması ve araba kapılarının kapanıp açılması",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "3bc5b9d3229d1c34c7412fd6131dde4ac3c99279237440041d130cbaef9da0d0"}
+  {:article/id "law/2/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "İki mevkif beyninde fevkalade olarak tevakkuf",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "f32313fb4aec1e3bc7888863e1b1bb006e2a3a55a9c6713bca8ab1b21e602323"}
+  {:article/id "law/2/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ffd08722939e555c874b13e514a8516037c74ebb09cc798e51935c9e563626f6"}
+  {:article/id "law/2/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Arabaların derununda vukubulan hasarat",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "b8d9b926f1092b6d4e9cd46cabba7b7ff1725957e2e91db545da4a9a27ae8238"}
+  {:article/id "law/2/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Araba katarlarının tehiri ve seyrüseferin inkıtaı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "a9974c39c3e1aa073c06210811f07355b0762121143b8b8db4cb5c60f3000cbd"}
+  {:article/id "law/2/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Kelpler ile tehlikeli eşya ve tütün içenler",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c6bbabc20e43f9f7342e480431471fd85a1a110d0d0b680e6dfbc142f33e3e0a"}
+  {:article/id "law/2/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yolsuz harekette veyahut sarhoş olan yolcular",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "cbaabc1aa39fb2a45d542b4cda3b4d5c516376d16c980684b138f24eb45934d2"}
+  {:article/id "law/2/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "5bb9d8b1e4bebf15a8d99e17070e728f17814b2d3b49b961fbda4c5d282c3007"}
+  {:article/id "law/2/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İstif ve eski markalar",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "ad2889c6a5fc12352a77f750cc3765750b9fc576310db402c35e72ada05e3046"}
+  {:article/id "law/2/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yolcuların müstashibi olan eşya",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "0907493509deb585643969abe7e6f847d31d0e14d18ab9714e2ada472872b969"}
+  {:article/id "law/2/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yolcuların götürdükleri eşya",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "e4db54a9ddaee684ca04e0cac984d28f8f3bff428dac73421e4437dcfb888332"}
+  {:article/id "law/2/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Eşya pusulası ve eşyanın teslimi",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "d9360e4c5bd3fd5659e16cdbfda7f9b837330b03cf62db11bfeab0fbc8dce009"}
+  {:article/id "law/2/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Kumpanyanın mesuliyeti",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "927612741c75bbe3b7f5c96d1365acd6e38d3cddf96904aa70ee2fbb87dfadd3"}
+  {:article/id "law/2/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "ed1c9573b8306babe72846478a8381897188c27b7eeebcef9aaf6767b7aab02a"}
+  {:article/id "law/2/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Emanetci",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "95f5f092ff37d98d7af29c54da17f9bb456a3e4fce58ed10611d04281a28a543"}
+  {:article/id "law/2/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Gaib olan eşya",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "e4e8444dea75dfec9426dd2c65c6b46a1e8b68ebc24e9e4045ff99c76e62dbc1"}
+  {:article/id "law/2/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Nakli emavat beyanındadır Şeraiti nakliye",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "b7f46c21f04e07042e8df10977adf2c82033c7823727bff4f9c8554988500b54"}
+  {:article/id "law/2/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "28354696826e5a9699cd2ea8fddd2f72ac2fe345a32710bd78a7f164772918f4"}
+  {:article/id "law/2/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Arabaların savbı maksuda vusulünde teslimi",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "c9fc47a68054bdcc78d8d05d88760bf9dcf44276e63f8c1ab469e98e2d5817c0"}
+  {:article/id "law/2/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title
+   "Yolcuların kendi arabalarında olarak naklolunan eşyaları",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "79b376587c85224845cb6703a35d319531ca8ff46a85b7666ea5637e295f2608"}
+  {:article/id "law/2/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Kumpanyanın mes'uliyeti",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "b5fa4c273f21f1080eb2e32d9487ef1ce2110bfde934e24ce727c44198ac5dc1"}
+  {:article/id "law/2/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "907867862509fdee513c963898e69862798e32c871672b8b4c74f743455872fb"}
+  {:article/id "law/2/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Köpekler",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "bbdcf4928724d987428ba2c2583b1e4eba2819e44e1fa8726441ff572bba95e6"}
+  {:article/id "law/2/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Beygir",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "5e33bc2865bd0a63dc0f19a52cef4b22ae282cef0445852c1d0aa25fa956102a"}
+  {:article/id "law/2/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Ağnam ve hayvanatı saire",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "a3cbad08578cbef0c9c52a8ab51742a4fbf8f44faf2aaa322a56a34f0b94d221"}
+  {:article/id "law/2/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Mes'uliyet",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "304be9be1837a282e66ef03a15a4726c4d5a475f0bb766fb5f36cb57614fbf06"}
+  {:article/id "law/2/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Teslimin müddeti",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "38ba74566c56e1bec8419b5130420b57ed49f59193cc85ddcb5f6e98a3ce01d3"}
+  {:article/id "law/2/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "61a25f3783d870cdab890dfc97973f4182c786e9242c01b3ad406fcf131ea344"}
+  {:article/id "law/2/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Emtia ve eşyanın kabulü",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e8068335d295c9748980d9903b6a7638d08497c6b14a4f751a81ddd1d34ca0c7"}
+  {:article/id "law/2/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Katarlara kabul olunmıyan ve kabulü bazı şeraite menut olan eşya",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9bde875d5270323df662dd74c617edbb248012217521720482a50d587dd2185e"}
+  {:article/id "law/2/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Nakliye kontratosu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f7b3df7efa0d5cedd27865e28fd93654934d9e11f289161d1ab456ea64a88bde"}
+  {:article/id "law/2/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hamule senedi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f407ea1d6a623752c41c24b5b43de05e4c82821fc3c2d9c623194a8a36617568"}
+  {:article/id "law/2/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Gümrük rüsumatına dair ahkam ve şerait",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "275d9e57d027970ebf611efe9f00935e4c57f0873e0b142c2662f88941507417"}
+  {:article/id "law/2/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ücuratı nakliyenin sureti istifası",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "792c342e9163c7b45f6ea101366162d782a67a5b09d6bf47c4a57f78e38007a7"}
+  {:article/id "law/2/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ücuratın sureti tahsili",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "eaf7ebe637a6760b48fd6d13a198e8b96026f4471e47d662fb23aebf45855a5f"}
+  {:article/id "law/2/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Tediyei ücurat ve komisyon akçesi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "06ca60011d4cad13e69df53d7f898293ada7b25df410856d3ef8c7579ef53cfe"}
+  {:article/id "law/2/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Emtia ve Eşyanın kabulü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "f0608378b0f91d6af95094b5f0d7b31603e9ecb081abaa7eab388e45d0e021b2"}
+  {:article/id "law/2/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Emtia ve eşyanın teslim ve nakli",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bd385ddd18d84b9a79a8065d13ee935e631730438a9d7059aad4a5b4118e8639"}
+  {:article/id "law/2/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "d402339374d0d1af695842b9a06a15d520b037dddeb1155f94b8e6f26b95db2b"}
+  {:article/id "law/2/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Umuru nakliyenin inkıtaı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "0bf64b3299d117e75f5d71287af246e536fee078b04a1c0cb5bc165421965f5f"}
+  {:article/id "law/2/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Emtia ve eşyanın vusulile tesliminin ihbarı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "1fd98f252904bdc7d3d3c7e8ab7fb7e20932d8a047ec577b81bc2e5a5d475f42"}
+  {:article/id "law/2/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "9a44cb7a85e4fb507782eeac0dbdd355e6f645381a8261d51130f793c8ce084a"}
+  {:article/id "law/2/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Emval ve eşyanın teslimi hakkında olan mevani",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e36fb9be6264a4883296d88fbcfa89453b281a0b2265322d142c4f3093d38580"}
+  {:article/id "law/2/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kumpanyanın müddet ve derecei mes'uliyeti",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "5cd1f87ad0f4a25c7c9f631b3a6aa7dd0085b079af903cf32ab7f5fa97077e5d"}
+  {:article/id "law/2/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "f3adf042ce2399538b4092a923062ee7b89b314753bb898f6c42bbac4aa4aeca"}
+  {:article/id "law/2/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "f77d2ce8e0cf7d0f75f7e0558d1e6ce51607770ee1e268eae5dfe4a1f6a1ad9f"}
+  {:article/id "law/2/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Tazminat",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "c17943e7e444ea68542e241c94c5fd8b33ad9b3ebe1516fbbb52f6da074679ac"}
+  {:article/id "law/2/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1601a9b0fcf96152c7ae452edb14ebe0de856e5d360c0e449e682a6cf1a81ad3"}
+  {:article/id "law/2/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "0151d60ca1125f37fabbf91764dc8adbe40f512b7ddf833a2b2f8bb075cd4ca6"}]}

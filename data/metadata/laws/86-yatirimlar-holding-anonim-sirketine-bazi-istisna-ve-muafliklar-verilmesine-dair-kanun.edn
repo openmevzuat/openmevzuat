@@ -1,0 +1,55 @@
+{:document/id "law/86",
+ :document/type :law,
+ :document/number "86",
+ :document/title
+ "YATIRIMLAR (HOLDİNG) ANONİM ŞİRKETİNE BAZI İSTİSNA VE MUAFLIKLAR VERİLMESİNE DAİR KANUN",
+ :document/slug
+ "86-yatirimlar-holding-anonim-sirketine-bazi-istisna-ve-muafliklar-verilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/86-yatirimlar-holding-anonim-sirketine-bazi-istisna-ve-muafliklar-verilmesine-dair-kanun",
+ :document/sha256
+ "5928eeb4917ec59ac2416329547149097f65470d2d93e9dc0f10b61f0504fe3a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.86.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:01.188-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/86/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 341",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0f84cc08884f04b3bc63189bcde10d059a704548797b07e26c047308681af264"}
+  {:article/id "law/86/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ba9d269a76e12df1f89a414d71982b9ef5f7f3ae20155637960b82adf42829ce"}
+  {:article/id "law/86/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4ab555e112864b1358e548a70a5174bd6942342319324bc6a552e0cb1ad839ac"}
+  {:article/id "law/86/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "70d3553feea43fde1de34599985433df0c7aab577370acd79ccb597078a756ff"}
+  {:article/id "law/86/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e0e975924ac884668ce20030b1c324ad54035515fca10474c1ac22235b8579c1"}]}

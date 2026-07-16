@@ -1,0 +1,56 @@
+{:document/id "law/2025",
+ :document/type :law,
+ :document/number "2025",
+ :document/title
+ "MENAFİİ UMUMİYEYE MÜTEALLİK İMTİYAZAT HAKKINDAKİ 10 HAZİRAN 1326 TARİHLİ KANUNA BAZI MADDELER TEZYİLİNE VE BU KANUNUN BAZI MADDELERİNİN İLGASINA DAİR KANUN",
+ :document/slug
+ "2025-menafii-umumiyeye-muteallik-imtiyazat-hakkindaki-10-haziran-1326-tarihli-kanuna-bazi-maddeler-tezyiline-ve-bu-kanunun-bazi-maddelerinin-ilgasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/2025-menafii-umumiyeye-muteallik-imtiyazat-hakkindaki-10-haziran-1326-tarihli-kanuna-bazi-maddeler-tezyiline-ve-bu-kanunun-bazi-maddelerinin-ilgasina-dair-kanun",
+ :document/sha256
+ "124a7337ce6b4a5e04d06c3c4a6d575a9e51d9d6a5c4fb6fe40521deb0c3c087",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2025.pdf",
+ :source/fetched-at #inst "2026-07-16T02:16:35.430-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2025/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 13 Sayfa: 564",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "28f70780ceb2c320a918de477483dda69e7bbd77489161c5084edb4bbd982aa3"}
+  {:article/id "law/2025/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "317fb78c95782aed01663f6a5331750a7e3102ba0d5df222d1666f369665ee3d"}
+  {:article/id "law/2025/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2ce9cd0585a435f65dc9a72a42aa8c07ab079432e64171ab7abc7f2b303218ae"}
+  {:article/id "law/2025/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "144da19746264a7c75747aabe8c532e51116c11ffa3d5dafa66039aeb9404607"}
+  {:article/id "law/2025/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "91d01a9966cfa879af9b90a632c623dc4c099b5acb00f576b4c9a68dd506ef87"}]}

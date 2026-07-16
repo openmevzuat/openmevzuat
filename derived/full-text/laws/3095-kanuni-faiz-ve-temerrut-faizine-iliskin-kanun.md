@@ -1,0 +1,88 @@
+# KANUNİ FAİZ VE TEMERRÜT FAİZİNE İLİŞKİN KANUN
+
+**Kanun No:** 3095  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/3095  
+
+MADDE 1 — Kanuni faiz
+
+(Değişik : 21/4/2005 - 5335/14 md.)
+Borçlar Kanunu ve Türk Ticaret Kanununa göre faiz ödenmesi gereken hallerde,
+miktarı sözleşme ile tespit edilmemişse bu ödeme yıllık yüzde oniki oranı üzerinden yapılır.
+Cumhurbaşkanı, bu oranı aylık olarak belirlemeye, yüzde onuna kadar indirmeye veya
+bir katına kadar artırmaya yetkilidir.123
+
+Temerrüt faizi
+
+MADDE 2
+
+(Değişik : 15/12/1999 - 4489/2 md.) Bir miktar paranın ödenmesinde
+temerrüde düşen borçlu, sözleşme ile aksi kararlaştırılmadıkça, geçmiş günler için 1 inci
+maddede belirlenen orana göre temerrüt faizi ödemeye mecburdur.
+Türkiye Cumhuriyet Merkez Bankasının önceki yılın 31 Aralık günü kısa vadeli
+avanslar için uyguladığı faiz oranı, yukarıda açıklanan miktardan fazla ise, arada sözleşme
+olmasa bile ticari işlerde temerrüt faizi bu oran üzerinden istenebilir. Söz konusu avans faiz
+oranı, 30 Haziran günü önceki yılın 31 Aralık günü uygulanan avans faiz oranından beş puan
+veya daha çok farklı ise yılın ikinci yarısında bu oran geçerli olur.
+Temerrüt faizi miktarının sözleşmede kararlaştırılmamış olduğu hallerde, akdi faiz
+miktarı yukarıdaki fıkralarda öngörülen miktarın üstünde ise, temerrüt faizi, akdi faiz
+miktarından az olamaz.
+
+MADDE 3 — Mürekkep faiz
+
+Kanuni faiz ve temerrüt faizi hesaplanırken mürekkep faiz yürütülemez.
+Bu konuya ilişkin Türk Ticaret Kanunu hükümleri saklıdır.
+
+Diğer kanunlardaki faizler
+
+1 21/5/2024 tarihli ve 32552 sayılı Resmî Gazete’de yayımlanan 20/5/2024 tarihli ve 8485 sayılı
+Cumhurbaşkanı Kararı ile, kanuni faiz oranının 1/6/2024 tarihinden geçerli olmak üzere yıllık % 24
+olarak uygulanması kararlaştırılmıştır.
+2 2/7/2018 tarihli ve 700 sayılı KHK’nin 94 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+3 Anayasa Mahkemesi’nin 22/7/2025 tarihli ve E: 2024/24, K: 2025/164 sayılı Kararı ile bu madde
+“Sözleşmeden kaynaklanmayan borç ilişkileri” yönünden iptal edilmiştir. Bu Karar Resmî Gazete’de
+yayımlanmasından başlayarak dokuz ay sonra (1/9/2026) yürürlüğe girer.
+
+MADDE 4
+
+Diğer kanunların, bu Kanunda öngörülen orandan fazla temerrüt faizi
+ödenmesine ilişkin hükümleri saklıdır.
+
+MADDE 4/a — Yabancı para borcunda faiz
+
+(Ek : 14/11/1990 - 3678/30 md.)
+Sözleşmede daha yüksek akdi veya gecikme faizi kararlaştırılmadığı hallerde, yabancı
+para borcunun faizinde Devlet Bankalarının o yabancı para ile açılmış bir yıl vadeli mevduat
+hesabına ödediği en yüksek faiz oranı uygulanır.
+
+MADDE 5 — Kaldırılan ve uygulanmayacak olan hükümler
+
+22 Mart 1303 tarihli Murabaha Nizamnamesi yürürlükten kaldırılmıştır.
+Borçlar Kanunu ve Türk Ticaret Kanununda kanuni faiz temerrüt faizi oranlarını
+belirleyen hükümler uygulanmaz.
+
+GEÇİCİ MADDE 1
+
+(3095 sayılı Kanunun kendi numarasız geçici maddesi olup
+1/2/1989 tarih ve 3520 sayılı Kanun ile madde numarası teselsül ettirilmiştir.)
+Bu Kanunun yürürlüğünden önceki ilişkilerden doğan faiz alacakları hakkında da
+yürürlük tarihinden itibaren bu Kanun hükümleri uygulanır.
+Ancak, alacaklı ve borçlunun anlaşmaları ile bir ödeme planına bağlanan alacağın
+faizleri hakkında anlaşma tarihindeki kanun hükümleri uygulanır. Şu kadar ki, borçlu ödeme
+planına uymadığı takdirde alacaklı ödeme planı ile bağlı kalmaksızın bu Kanun hükümlerine
+göre alacağını tahsil eder.
+
+GEÇİCİ MADDE 2
+
+(Ek : 15/12/1999 - 4489/3 md.)
+Geçici 1 inci madde, bu Kanunun yürürlüğünden önceki ilişkilerden doğan faiz alacakları
+hakkında da uygulanır.
+
+MADDE 6 — Yürürlük
+
+Bu Kanun yayımı tarihinde yürürlüğe girer.
+
+MADDE 7 — Yürütme
+
+Bu Kanunu Bakanlar Kurulu yürütür.

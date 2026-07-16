@@ -1,0 +1,55 @@
+{:document/id "law/2155",
+ :document/type :law,
+ :document/number "2155",
+ :document/title
+ "BAZI KAMU PERSONELİNE TAYIN BEDELİ VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "2155-bazi-kamu-personeline-tayin-bedeli-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2155-bazi-kamu-personeline-tayin-bedeli-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "906cd2d8d68688c1f07b0d1cb13bf4bdc77ebf97e39cac3e122590c5b1cf6ea0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2155.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:02.286-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2155/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 5 Cilt: 17 Sayfa: 62",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cc0f32843ff78380d1cdbb4d385f5d487fcd97a67148bf3af2cec2ce757148dd"}
+  {:article/id "law/2155/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "97968c454f8619a0d4bd2ba3b4fffcefd498175582366a08f99ed61b32b52682"}
+  {:article/id "law/2155/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "32f08c8ea1bbc0b76fc3a20ece51bceebed258fd8ceb5bc442f9249c1af54662"}
+  {:article/id "law/2155/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1be27a06e845cae32c53f0941d781ffc93366933a5e404480463ee0fc70be54f"}
+  {:article/id "law/2155/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "7577ea4268c852805494ac69b97cf2acbf2aaebf64bae88fc82bf12ee676418b"}]}

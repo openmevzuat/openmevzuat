@@ -1,0 +1,123 @@
+{:document/id "law/1567",
+ :document/type :law,
+ :document/number "1567",
+ :document/title "TÜRK PARASININ KIYMETİNİ KORUMA HAKKINDA KANUN",
+ :document/slug "1567-turk-parasinin-kiymetini-koruma-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/1567-turk-parasinin-kiymetini-koruma-hakkinda-kanun",
+ :document/sha256
+ "bb255286aa6d5ac52f38d9506675a4c257666e178332af45fd34e2186cf70863",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1567.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:28.158-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1567/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 11 Sayfa: 68",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "499dbba3730711a371fe4cf30ab9a2716a0bae5c64e6ddebf71ea685df35f36d"}
+  {:article/id "law/1567/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d846e77baf7c066e30c0ea02b49b2969a7fc6a8b0d69d72c0d3fb361306da4c0"}
+  {:article/id "law/1567/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "21654060fa8698990530000a16d6db3b404be77a5c12030ae62080e87bb2c176"}
+  {:article/id "law/1567/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9984ecd1b42a371ce1868521d06cda25cb7751a1a42450861b54b8dfcadc2c06"}
+  {:article/id "law/1567/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "01fbb24084a33bc36cff2a1abc98c04ec20ab659e937dde6198e4dcc766e42c7"}
+  {:article/id "law/1567/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "22954f381a081cf5d212f7741b7efb645923e910f3dc7e8c6764b7aab4f076d2"}
+  {:article/id "law/1567/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "9462e0ea1155d5ab39c84c206926a10baf81728d096abb3ba42fbeddc8f1adc7"}
+  {:article/id "law/1567/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "1b75fdf67066963399e000c076d1dc28a0eaa8c66bef097806b238f52a3b905f"}
+  {:article/id "law/1567/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "7678cfea4c64fea8fcd89fe74b3daa47dd3b5ee216fb5189ffa8129857a69b8e"}
+  {:article/id "law/1567/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "2402f46367efea88082a97bd2152124e7ea4238844f17e668f54a0c0ff7ad7d3"}
+  {:article/id "law/1567/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e032c5492c903671f89e19cedc31d28e7cb1d41883cf8c0aa28372aacacbd909"}
+  {:article/id "law/1567/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "5c04222f077f3327430cab767295407905f293712c61d51ea598ea83d4720c48"}
+  {:article/id "law/1567/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "058c9c9dce6e023571102ca575bd3ff51ae2389df68deb5333495dab8bed15b1"}
+  {:article/id "law/1567/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "22073859fcd01d2d37ac9406770456b17300ae92efa636889b5429af5a8bf1aa"}
+  {:article/id "law/1567/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "2ef070b36ed302005b2b120c2a7cd7946a14b1e3510f8d39e45b7da914ddae55"}]}

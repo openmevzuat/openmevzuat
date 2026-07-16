@@ -1,0 +1,77 @@
+{:document/id "law/3067",
+ :document/type :law,
+ :document/number "3067",
+ :document/title
+ "KALKINMA PLANLARININ YÜRÜRLÜĞE KONMASI VE BÜTÜNLÜĞÜNÜN KORUNMASI HAKKINDA KANUN",
+ :document/slug
+ "3067-kalkinma-planlarinin-yururluge-konmasi-ve-butunlugunun-korunmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3067-kalkinma-planlarinin-yururluge-konmasi-ve-butunlugunun-korunmasi-hakkinda-kanun",
+ :document/sha256
+ "3e5a92f901cedcad859b7faac66d5a98252e3b8de021da4ffafa647e58928007",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3067.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:22.384-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3067/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kalkınma Planları:1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "43c890084bdf30bcdb7494c3bd3335e7cd7cee4bb2d63fe6a8bc2815a227c61a"}
+  {:article/id "law/3067/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4857b1cd04877d00e8552e2b0b77441450fe0a36dedf8b4f5e02fee1dda51335"}
+  {:article/id "law/3067/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Kanun (…)3 tekliflerinin Kalkınma Planına uygunluğu3",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9dadd666251e6a3c00766e7acb4ecc805ed85e1a92530ff38ed37ce63b35c173"}
+  {:article/id "law/3067/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "76c5d7d3fd51168360743d4223d3a56b897d49ed5775f3236d10870462f4c761"}
+  {:article/id "law/3067/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2af65cc0e74da8b43284278fdc43fee427a852be92ebf83cd27482a6ddc9c29a"}
+  {:article/id "law/3067/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "186371ab7b3295b858cbbc00cb449703991eff84b7f5d088ac5e44bd24ffd2dc"}
+  {:article/id "law/3067/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d28f38ecb549616cd91c03e7a0f8745ddec2e5fc67e39587d8ed20ebcc2d8dc4"}
+  {:article/id "law/3067/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7a0e785326d88d08e123997058a632e4edbace2b7e9913aae9d15584103678d4"}]}

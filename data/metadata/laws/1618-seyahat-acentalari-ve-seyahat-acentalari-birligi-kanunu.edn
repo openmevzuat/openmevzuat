@@ -1,0 +1,343 @@
+{:document/id "law/1618",
+ :document/type :law,
+ :document/number "1618",
+ :document/title
+ "SEYAHAT ACENTALARI VE SEYAHAT ACENTALARI BİRLİĞİ KANUNU",
+ :document/slug
+ "1618-seyahat-acentalari-ve-seyahat-acentalari-birligi-kanunu",
+ :document/path
+ "data/canonical/laws/1618-seyahat-acentalari-ve-seyahat-acentalari-birligi-kanunu",
+ :document/sha256
+ "d1e10991a7954a68d8de5d4f35839e4355b4a647907d9128f35f6853e368f9a0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1618.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:44.450-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1618/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "I – TANIM",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d7ef0ec2cf1cb2eea4b591a043506bce9442644b1fe42b6ce77d4005a1fb27b5"}
+  {:article/id "law/1618/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c20ad927d85b81d4eb15bfa50e647585f406ee354dd9222b51dbda3893eea931"}
+  {:article/id "law/1618/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Gruplandırma",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "dc17d094cac0410bad5765d58fcb204a3d74168989e0de26723f987db1352872"}
+  {:article/id "law/1618/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İşletme belgeleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6ef35084651eb1c99a50f2dbbdde005460aaf61f6547790f87cc4b935e1952de"}
+  {:article/id "law/1618/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İşletmenin adı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d3bc81c979a114634c577b93444909d990e5abe8c8c4266a3b7810a61efcd920"}
+  {:article/id "law/1618/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Şubeler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "012eb1e610a13bac0527c8f0d42ccf0728c0bdaff867fac0e068ad8c1a084e82"}
+  {:article/id "law/1618/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yasak faaliyetler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c1f64391ae338bf1aab1bb8db6287612f952b244b41183c4d219c73b267471c8"}
+  {:article/id "law/1618/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "fc0254ceb100e58837684fe660d79811b5ebfd9571d95778c27e5c0d525d523b"}
+  {:article/id "law/1618/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Seyahat acentası sorumlu müdürünün nitelikleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e3e04f02b011b6cfc0dcee0392187ca9be54b4fc7aee339939485e541bbc0d14"}
+  {:article/id "law/1618/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Seyahat acentalarının yükümlülükleri:2",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "380bc4e63328d6f1540150c782d2a929703cd161f16281b26af7f7b8428bf404"}
+  {:article/id "law/1618/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Seyahat acentası işyerinin nitelikleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "af01ac7b2be25bbdff3ded30f73657738e568833b45df6105c72f1c824b77d09"}
+  {:article/id "law/1618/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4184d17d5fcf86967306208244be0a489adc3093e9fced07f2644c7954901701"}
+  {:article/id "law/1618/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Teminatın miktarı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "f959a2faa06d4e448089c267ec0ff2b8cd3214963639c3b4a5af6bd51b881bd2"}
+  {:article/id "law/1618/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İşletme belgelerinin iptalinde teminat",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "5e02664d595817441b66f5c1c64df90839c74ab1c345da43d192105a361af743"}
+  {:article/id "law/1618/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "İşletme faaliyetinin sona ermesi veya grup değiştirilmesi halinde teminat",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1e498d00afd5ecdc55edbe130c113a2fa2e39d9e81e20027f9dc422fa60fcec9"}
+  {:article/id "law/1618/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Teminat karşısında alacaklıların durumu",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e65f049b40f5b49f49d8cc2b97d91449b8cb78767709df3f654db42b680048ad"}
+  {:article/id "law/1618/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "45b7f937a2ada1347bca248ee54636ae7880558f1092a92a886919b96ce1458c"}
+  {:article/id "law/1618/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Bilgi verme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "1c80b817953e2801487506231d643ff5e68c38eac77496f7898a9df7073171a1"}
+  {:article/id "law/1618/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Reklam ve tanıtma",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ffe7977528c68a424b4142398f4c6a7bffc10d8cb742873106c3d93926e25b10"}
+  {:article/id "law/1618/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yazışma",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "dd82be7e492c424f2479b85055a4048e7c912d31996473df6bbf7cb8d1f0d362"}
+  {:article/id "law/1618/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Mesleki sır",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "2ca2c79030c6f9df93701a9dc9ef980960703b82d5fdff0060c4cc6a3742abfd"}
+  {:article/id "law/1618/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c4296457506f4020ba7804baf95a4684cb5d72a220879cc81f4b183a46132cc6"}
+  {:article/id "law/1618/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Kolaylıklar",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "c1df182e14e7a2f638fdcd94b263cc4a534d8c71400ac04782d6862ddb20ea2c"}
+  {:article/id "law/1618/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "aaf53d9f046067fabd99f8198a0e50a66b5898cf2181617c88d88b74471c1ab7"}
+  {:article/id "law/1618/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Tur - taban fiyatları",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "c66337b85186c606f86a84740596b0f0c99c134e027fa48106716155cef747cd"}
+  {:article/id "law/1618/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Sicil",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "decb6d29bb92a356e5046a414809b7f9dd98cc9405b65548f5bd9f65488b3169"}
+  {:article/id "law/1618/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "e595e11c3e4268356fb89859868e7e0c57049c07ea228f5981cf33dc49734ab9"}
+  {:article/id "law/1618/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "İptalin hükmü",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "f987d3953f7ff50d54205b8dc87d1e241ec04ce61fddd0f6eb8f505ca30bd375"}
+  {:article/id "law/1618/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Faaliyetten men etme",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "95fb3d8dae69705e2922c147552706d7514ae90cd572ac08d7b3f58b9c99bd4b"}
+  {:article/id "law/1618/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Ceza",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "78d824943dc73318d63c6e1154d09352d58748c23c002077d83ba88ffc689c09"}
+  {:article/id "law/1618/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "27867fd67ecdc09bdce64bed60b9f9a81407368e5405d4c8cf6b4e04ac8b172f"}
+  {:article/id "law/1618/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "045b496061d1214517197befa0b85278cef9ff4c35a5e8429349fc357e39616c"}
+  {:article/id "law/1618/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "II - BİRLİĞİN GÖREVLERİ",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "a7281dee0a135b02d7755c47f18e124af2329b57ef35e9fa9985495290bfcb3d"}
+  {:article/id "law/1618/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "III - BİRLİĞİN ORGANLARl",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "1e4b675ce24cf1394a961e3cadee5549fe7aa19fd484effe6b2d3ecf7dde4465"}
+  {:article/id "law/1618/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "IV - BİRLİĞİN GELİRLERİ",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "304b6fbaea9c3f9e60078b403e671f347a19d43a9847deb18e389c0e22b4eefb"}
+  {:article/id "law/1618/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "a34d5aedc5a1f30a576f6cac85dc5d485cdbc6d72961274d06b75dd230954cb4"}
+  {:article/id "law/1618/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7a1c57cf23dd0db17a30d57b2eee95998488709fed696a6666524303fad56260"}
+  {:article/id "law/1618/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "8f73e6ec19e9f4fdbe4ae33dd076771cfa8261387eb27a6689f008f9e11dca17"}
+  {:article/id "law/1618/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Seyahat acentaları",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "e5040cc0823ff1432c367383633456de64a7411a7eab70dcd388c5e9a35316c2"}
+  {:article/id "law/1618/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "28d654b7aaf951cd91d5dc6218de3bae1b5a5621bdf274a57e07b8d6713e2bcd"}
+  {:article/id "law/1618/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "f26d4b8e9a607abcf85c518def56206c0fed0bac402387037c4bf808f8aa919c"}
+  {:article/id "law/1618/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "72db4a7b5a5d091b38e16c607df625a4614a4854f7e39e27e93951d6b50903d4"}
+  {:article/id "law/1618/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "dc0ccabd8dcd1f41e892fd2b5aee1ef77f319d1a4e9fa319606d985fae0dd685"}
+  {:article/id "law/1618/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "6dd45722b9c6225c03ecab8ec7e4c53e9ac634ae777682a42638acf0add99c5f"}
+  {:article/id "law/1618/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "d37a53fadaed9077bfee6e30a3dd1a3481c6eb896e627cf71d1c3f217b75f131"}
+  {:article/id "law/1618/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "755da223c2a1657b4a45dbc8d319bc3f0852c443fdbfa44d2cdae95e15332fd4"}]}

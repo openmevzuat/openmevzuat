@@ -1,0 +1,53 @@
+{:document/id "law/698",
+ :document/type :law,
+ :document/number "698",
+ :document/title "TAKVİMDE TARİH MEBDEİNİN TEBDİLİ HAKKINDA KANUN",
+ :document/slug "698-takvimde-tarih-mebdeinin-tebdili-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/698-takvimde-tarih-mebdeinin-tebdili-hakkinda-kanun",
+ :document/sha256
+ "0e7af0bf092f761a3e0ea2ce01edb9184b3a29bced039c74007d01dfd05c9806",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.698.pdf",
+ :source/fetched-at #inst "2026-07-16T02:13:33.757-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/698/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 7 Sayfa: 159",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c323d1737ddd32e3223908997dd253418e4eb9bc07bab3c02043cb0434e73485"}
+  {:article/id "law/698/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e17556c175365fd0e4644007e3870573c02294a18233ab686cdd720a773daaa4"}
+  {:article/id "law/698/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "13778c4a68aef4a3479bd55c5e4af3caf763236b2ab2c905ae5520a87e181ad0"}
+  {:article/id "law/698/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b138396e05d8aaf671e2eb067a9516564af4bc8cbd268b5c395a6e43b0e9757e"}
+  {:article/id "law/698/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "307eadb75dbcd1e62df014c305d53c78c8790435d1b5cbf3d6bc129f4a7711fe"}]}

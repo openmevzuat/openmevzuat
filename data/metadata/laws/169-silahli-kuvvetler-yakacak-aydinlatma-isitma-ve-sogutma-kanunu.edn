@@ -1,0 +1,55 @@
+{:document/id "law/169",
+ :document/type :law,
+ :document/number "169",
+ :document/title
+ "SİLAHLI KUVVETLER YAKACAK, AYDINLATMA, ISITMA VE SOĞUTMA KANUNU",
+ :document/slug
+ "169-silahli-kuvvetler-yakacak-aydinlatma-isitma-ve-sogutma-kanunu",
+ :document/path
+ "data/canonical/laws/169-silahli-kuvvetler-yakacak-aydinlatma-isitma-ve-sogutma-kanunu",
+ :document/sha256
+ "5c14ffe23133ae2228de5f03bd8941c7fe7cd9773f14356dc52d6d800d8c9b20",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.169.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:25.051-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/169/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 5 Cilt: 2 Sayfa: 447",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e7060174ea084e5e340d37a2b5656b6501576ece94e75430f183dfdff58b2066"}
+  {:article/id "law/169/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "24ae884e24d77a34248ecad0863ba194ed34a2cdda27397fcf358bc672c1d7f0"}
+  {:article/id "law/169/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2c0a3f8ef34c49391adf5ec85261d82aa675b39d23b8b76602691c3693e1769b"}
+  {:article/id "law/169/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "18dd0ae3e8136cfd2b188093e140bd839ab9e0c60d366bd2d30bd82ce5610401"}
+  {:article/id "law/169/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0a2b94cd5c95b7db8c50de57acd131e9c950861bd5311e28f1351e00fa5ceb6c"}]}

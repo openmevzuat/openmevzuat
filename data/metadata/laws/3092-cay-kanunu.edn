@@ -1,0 +1,60 @@
+{:document/id "law/3092",
+ :document/type :law,
+ :document/number "3092",
+ :document/title "ÇAY KANUNU",
+ :document/slug "3092-cay-kanunu",
+ :document/path "data/canonical/laws/3092-cay-kanunu",
+ :document/sha256
+ "17a620f821733893bf68fc567b1b6688bc927c08902193c77349b66d4b4eb5d9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3092.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:37.081-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3092/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 24 Sayfa : 113",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "59098433624e44f497f916a0732a04904cfb49fe4b407de0deaa363aed1c3e0e"}
+  {:article/id "law/3092/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c993c7acc1fee602933674f8df2701abe9def044c1c087d028d5047da093ec33"}
+  {:article/id "law/3092/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3c1e54307fd8ee3fcd0b0261e21aaf7e55c3cbc7e831a142d4054d72894a7891"}
+  {:article/id "law/3092/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "fc2598f695202f0f1954b6e3d9f0c3ec31e83134dfed402ecb64abae42044215"}
+  {:article/id "law/3092/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f57cff1c876dbf77847fb91c92dc4700a07f946bf2d7f8d74effb9a8960a40a8"}
+  {:article/id "law/3092/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "26b5ba10be3eee19e2d2b416025d48f82ed7e792f305ec300ff23bcaf492bf16"}]}

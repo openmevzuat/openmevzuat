@@ -1,0 +1,82 @@
+{:document/id "law/474",
+ :document/type :law,
+ :document/number "474",
+ :document/title "GÜMRÜK GİRİŞ TARİFE CETVELİ HAKKINDA KANUN",
+ :document/slug "474-gumruk-giris-tarife-cetveli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/474-gumruk-giris-tarife-cetveli-hakkinda-kanun",
+ :document/sha256
+ "59e0e9af6bba57459c0d4e17ed8b96730b085be4fd00c25740a1eadba2e266be",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.474.pdf",
+ :source/fetched-at #inst "2026-07-16T02:12:34.561-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/474/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 3 Sayfa: 2261",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "41d2cdc74eca3f550f2ee3971d09323b077b79f04c8001dfddf850d34e254c13"}
+  {:article/id "law/474/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "21d82140e3a5a8c366e1e3cf3c75ffcb9836b4bf80e9c338dfa09dd9f3da96ec"}
+  {:article/id "law/474/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "67b63be18c0e504c6910694fb09065f1e2358901bc2ba664648072fe76fb3d27"}
+  {:article/id "law/474/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "09b966cfc6d1233cebca28e417cc7803c45127d1d7a116effd5bd1de114fe243"}
+  {:article/id "law/474/article/510",
+   :article/type :normal,
+   :article/no "510",
+   :article/title nil,
+   :article/path "articles/madde-510.md",
+   :article/sha256
+   "6fffb259aa00f6a39327d5ab436b0f87cbf68d83c8e07f431b35d285c07d60ed"}
+  {:article/id "law/474/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "74d663a4b22c36d06b8cbe720bdd6940d52f50846442722990c8767729172ae6"}
+  {:article/id "law/474/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ef7c1bbf36852412c0ba34ea8b608723235a5b50c44dfd175bd6263759706c31"}
+  {:article/id "law/474/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9267abf9628bc6c51ab8bc13866eae751116ccfb6858b216dce65d2b432c393e"}
+  {:article/id "law/474/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d9b971b4401bc81d111ae18921b60c1ec95c48ce2db4a063519b5b541272f66f"}]}

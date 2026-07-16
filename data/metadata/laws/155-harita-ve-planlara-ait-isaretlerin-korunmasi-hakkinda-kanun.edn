@@ -1,0 +1,55 @@
+{:document/id "law/155",
+ :document/type :law,
+ :document/number "155",
+ :document/title
+ "HARİTA VE PLANLARA AİT İŞARETLERİN KORUNMASI HAKKINDA KANUN",
+ :document/slug
+ "155-harita-ve-planlara-ait-isaretlerin-korunmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/155-harita-ve-planlara-ait-isaretlerin-korunmasi-hakkinda-kanun",
+ :document/sha256
+ "6c10a7d527150eea12bab89043a0274e406aa3f602d29021dea25f4885f85ac8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.155.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:16.936-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/155/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 736",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bbc9027d910a479594b5d3928ef24e16f103d3a40f269fcf5c369580a7fb9348"}
+  {:article/id "law/155/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7e49f37da7f871297ecfcd5392087ffdd33baeb37b34e390b70bdb41262d1c73"}
+  {:article/id "law/155/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8928e191d475273b7b427b9816c828efce4ac7af4c0d6899521af445195f5e7c"}
+  {:article/id "law/155/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "dffe9773eabffa63dad7ac53f6d3788d7ca54ed5fa78b9d4033c7a996431ff2b"}
+  {:article/id "law/155/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0fb48674060d6ac75bb8bf82b96b9f776ce2a67a0ce0a2c1045528706900233e"}]}

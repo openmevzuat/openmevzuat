@@ -1,0 +1,42 @@
+{:document/id "law/2522",
+ :document/type :law,
+ :document/number "2522",
+ :document/title
+ "KAMU KURULUŞLARININ YURT DIŞINDAKİ İHALELERE KATILMASI HAKKINDA KANUN",
+ :document/slug
+ "2522-kamu-kuruluslarinin-yurt-disindaki-ihalelere-katilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2522-kamu-kuruluslarinin-yurt-disindaki-ihalelere-katilmasi-hakkinda-kanun",
+ :document/sha256
+ "f098853a30da5499a71f84915b5d5ac79acf390e963179cc0e018e4e82f0540a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2522.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:52.160-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2522/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 20 Sayfa : 423",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5f9edc2e6d819da6c1a27dbebad161be6c3f31d3e77c09f4465711a2901508b3"}
+  {:article/id "law/2522/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/2522/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "dbc867119c7f36d6ef54d828a76429619040602fb79de8e05f3ed52f79574444"}]}

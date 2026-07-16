@@ -1,0 +1,55 @@
+{:document/id "law/2923",
+ :document/type :law,
+ :document/number "2923",
+ :document/title
+ "YABANCI DİL EĞİTİMİ VE ÖĞRETİMİ İLE TÜRK VATANDAŞLARININ FARKLI DİL VE LEHÇELERİNİN ÖĞRENİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "2923-yabanci-dil-egitimi-ve-ogretimi-ile-turk-vatandaslarinin-farkli-dil-ve-lehcelerinin-ogrenilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2923-yabanci-dil-egitimi-ve-ogretimi-ile-turk-vatandaslarinin-farkli-dil-ve-lehcelerinin-ogrenilmesi-hakkinda-kanun",
+ :document/sha256
+ "ec36cdd01c706e0058c47d65b0c367e62cd679a0b9618cc4cf5a089dd38ef851",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2923.pdf",
+ :source/fetched-at #inst "2026-07-16T02:21:18.224-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2923/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c73d30db362fdb4e8fed3a7fcacea9b65ce160cd437240fcb55e7382e4d9b57d"}
+  {:article/id "law/2923/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Esaslar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b3efd33e561d5a22b8f2563e807031fa4a0e6101128468da26020dfcfe8c0278"}
+  {:article/id "law/2923/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9caeb94cf4dc5ebe0316f52956cc62a932413d14b8f07e5269aaeafd00165806"}
+  {:article/id "law/2923/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "01c521cffcc8eddd2a567eadbd3695b707c85ca5a6e0208278aeb9b39ef1eb28"}
+  {:article/id "law/2923/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f04cebb33e003f2c32bf10ecce6e17ecd44a3ae59c54ad377494ef53a3567aa7"}]}

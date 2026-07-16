@@ -1,0 +1,49 @@
+{:document/id "law/20",
+ :document/type :law,
+ :document/number "20",
+ :document/title
+ "ECANİBİN HAKKI İSTİMLAKİ KANUNUNUN BİRİNCİ MADDESİNDE İSTİSNA OLUNAN EŞHASIN EMLAK VE ARAZİSİNE MAHSUS KANUN",
+ :document/slug
+ "20-ecanibin-hakki-istimlaki-kanununun-birinci-maddesinde-istisna-olunan-eshasin-emlak-ve-arazisine-mahsus-kanun",
+ :document/path
+ "data/canonical/laws/20-ecanibin-hakki-istimlaki-kanununun-birinci-maddesinde-istisna-olunan-eshasin-emlak-ve-arazisine-mahsus-kanun",
+ :document/sha256
+ "7874e6430a483821e2d048fe7dc62486b5c4ca6781af402e0da6f53828e5db2e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.20.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:44.570-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/20/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 1 Cilt: 3 (Zeyl) Sayfa: 96",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "314c1a34c2d27b9253d753f049a5b89e9e1b7f8d68311d2e8153483a78407084"}
+  {:article/id "law/20/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3e8b261312eb1797c259284093666cb37e1ec84e48d5f7c517d647784a1c194c"}
+  {:article/id "law/20/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9e72abbd5f72b43dc2175c0650b3b60616dc485a5ebcefd0baf7021d41b66436"}
+  {:article/id "law/20/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "57267fdd6cc88f175032e26bcb5d84be61924acbe12b6ef49d680cd157940cc5"}]}

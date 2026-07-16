@@ -1,0 +1,130 @@
+{:document/id "law/1117",
+ :document/type :law,
+ :document/number "1117",
+ :document/title "KÜÇÜKLERİ MUZIR NEŞRİYATTAN KORUMA KANUNU",
+ :document/slug "1117-kucukleri-muzir-nesriyattan-koruma-kanunu",
+ :document/path
+ "data/canonical/laws/1117-kucukleri-muzir-nesriyattan-koruma-kanunu",
+ :document/sha256
+ "35502b400b423f8fc9177d25b1fe46a82ac895174a40cf68a803d58a2cb67c33",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1117.pdf",
+ :source/fetched-at #inst "2026-07-16T02:14:17.393-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1117/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 8 Sayfa: 899",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "54c0a8590d12e2a9c1aebfffefa56fdad9c968de719d3150184953bfb3177035"}
+  {:article/id "law/1117/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0fcae3b1d06d8dab461a79c359439ece4f7f818bd93300f0dd9a73bb24003b26"}
+  {:article/id "law/1117/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e4b50a926fb0020cf77e9af69844afef9e5c7d0d306add293ca5ad9d1d3429f9"}
+  {:article/id "law/1117/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c12d856fc4c0c5962a9d6e52abacc07f6c68bdad581c3c8c8d779560bacb0d0b"}
+  {:article/id "law/1117/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "857cb3bb5d5241fb3ba28f946b9a603df043a90cbf7349dbe2c9e5f51b4b9905"}
+  {:article/id "law/1117/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "5e0d9bf37c1710b6ccc07d5a1d155cf5e1524c4c37e4a8c4149d751205a2c372"}
+  {:article/id "law/1117/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "aeb9ff8b609e092f336b9a94c2d9463cb963034e647acc27ad1ea06cec7064a5"}
+  {:article/id "law/1117/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "15123333d2f333459a2b818219a7aa113ddf95d54d126f87aaa9d8c4dd14b6fb"}
+  {:article/id "law/1117/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a0bcd350b2ac48a4e75043d956aa42ad64d18ca20451032f22688946e07571ff"}
+  {:article/id "law/1117/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "a7b87e2b7b9ba9bbe54a264ba5db129d4f1713db266d13b5d6a80e2a3949ad65"}
+  {:article/id "law/1117/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "ba8e766f6829ee1eec9507a9e242ec8a6f369ebabf377d5a89e51d655af8f8cf"}
+  {:article/id "law/1117/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "0f9c59d608f2eb2b5ef00445ed2267ad0c7a634e9c73dedb312494a311f92d8a"}
+  {:article/id "law/1117/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "921ccd2469124393bbb9490beaf1ff7c841f49de9e926fc795b80aed4a956d64"}
+  {:article/id "law/1117/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c3ef19bc1f3d19463e9854605e4905a4361b08440fcaa5fe326def51e6987c1b"}
+  {:article/id "law/1117/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "210387ff09776a6439e81c0798f0b2c4ae7dda882223c9a503d032a752efc0c1"}
+  {:article/id "law/1117/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "272f75215953fbe00a2b5e03a46adfc72635757fc6836d15e22ffbbd937b90a4"}]}

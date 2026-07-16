@@ -1,0 +1,60 @@
+{:document/id "law/2976",
+ :document/type :law,
+ :document/number "2976",
+ :document/title "DIŞ TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
+ :document/slug "2976-dis-ticaretin-duzenlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2976-dis-ticaretin-duzenlenmesi-hakkinda-kanun",
+ :document/sha256
+ "0e0f84224f319b26b3ae920d636f37d92dabeee665b5ea123bd0d2c6fe0fe265",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2976.pdf",
+ :source/fetched-at #inst "2026-07-16T02:21:52.349-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2976/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "df8f33d4291c8e0dde18d2df1f8c9c37ecf40c64451a5b108b399a5b3c950129"}
+  {:article/id "law/2976/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yetki1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ccc0b38f18375248be3157fee74736a0b03a7800e4c9b26b3c4132984a9c3f99"}
+  {:article/id "law/2976/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Ek mali yükümlülükler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "69bd7e9423329ed6e663fc13549f026fb7cfc3df3b72b851a952afaea515d61e"}
+  {:article/id "law/2976/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Müeyyide3",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d694d669ee8a4921517a4e11f9292e15cf3a5d5b6a634d85d47abd0c034c50be"}
+  {:article/id "law/2976/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/2976/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "604d1049a08da3b83b89ce7d4130460740d63fbf96a4deadc5b9cad833c8bd4c"}]}

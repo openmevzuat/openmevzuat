@@ -1,0 +1,57 @@
+{:document/id "law/1480",
+ :document/type :law,
+ :document/number "1480",
+ :document/title
+ "AFET BÖLGELERİNDE ÇALIŞTIRILACAK PERSONELE YAPILACAK ÖDEMELER HAKKINDA KANUN",
+ :document/slug
+ "1480-afet-bolgelerinde-calistirilacak-personele-yapilacak-odemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/1480-afet-bolgelerinde-calistirilacak-personele-yapilacak-odemeler-hakkinda-kanun",
+ :document/sha256
+ "6922da65803fa6be7396c5ccf67a28cb272c94cd4b34ec8f20c693457f45e6bd",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1480.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:17.399-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1480/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 10 Sayfa : 3343",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "173b0891bfb916a8e7245658539c88131a970cc7938e0e3b2b96e0e021011748"}
+  {:article/id "law/1480/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Bu ödemenin süresi Cumhurbaşkanınca tespit ve gerektiğinde uzatılabilir.1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2c134bcd543317b9b81563f65fb22d5b040b95cd455eae05ee1a8fad1dea0638"}
+  {:article/id "law/1480/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "99347cb889a3679034d44dffbf953b8b2ed954e0bddc81bbe2474b17745f4884"}
+  {:article/id "law/1480/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f187b5c003b08e51fc386ff6b7ff44b90552cc21453c52457fd328a7142a51cf"}
+  {:article/id "law/1480/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4ed6fdd703ff331e906ff664d0a843a5e6de2eaf29edc3847d70d509faacf203"}]}

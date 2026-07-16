@@ -1,0 +1,76 @@
+{:document/id "law/168",
+ :document/type :law,
+ :document/number "168",
+ :document/title
+ "YABANCI MEMLEKETLERDE TÜRK ASILLI VE YABANCI UYRUKLU ÖĞRETMENLERE SOSYAL YARDIM YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "168-yabanci-memleketlerde-turk-asilli-ve-yabanci-uyruklu-ogretmenlere-sosyal-yardim-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/168-yabanci-memleketlerde-turk-asilli-ve-yabanci-uyruklu-ogretmenlere-sosyal-yardim-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "85871ec017408ff3fc8945a0499f652c31a845beda5935701dad149f5a5904b7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.168.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:22.131-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/168/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 819",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b6aa3739af5209d0d930f5a4cf33c941a9cfe8b41031c5a94893f0494040971a"}
+  {:article/id "law/168/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2b14e889d4334b5a700d7fd9be6405e96542cbf6f6293dcf569f3b2c92f67817"}
+  {:article/id "law/168/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3d7a8ba32a34e5ca08afa6a03604db3f59abb57cac35bbfdf76dabbf87be7e81"}
+  {:article/id "law/168/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d0ea9a06e4d3ec023bcbd4f132b35ab5f7701ad9c75290fbd2a2cc8c1559274d"}
+  {:article/id "law/168/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a15bba137eb69044331acd6425bbe666aa105bd8a37b3bdc96757e69f1e74096"}
+  {:article/id "law/168/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "9ff195b12944bdd1754fd0de9f784ca41332886c8edfa0670b60d4625b10396b"}
+  {:article/id "law/168/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1b2164910ba96dc5e07f511b7d80ce07cdd94633dcb70d38beda9f3f7ac44aaa"}
+  {:article/id "law/168/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fbd7a93af2a92d20f00f1efea0cd8583070281168ffe9d837141f8ffa9b9840d"}]}

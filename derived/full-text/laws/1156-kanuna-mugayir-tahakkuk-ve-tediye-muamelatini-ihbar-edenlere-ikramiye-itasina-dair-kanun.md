@@ -1,0 +1,25 @@
+# KANUNA MUGAYİR TAHAKKUK VE TEDİYE MUAMELATINI İHBAR EDENLERE İKRAMİYE İTASINA DAİR KANUN
+
+**Kanun No:** 1156  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/1156  
+
+MADDE 1 — Yayımlandığı Düstur : Tertip: 3 Cilt: 8 Sayfa: 995
+
+Usulüne tevfikan tahakkuk ettirilerek tediye olunan veya tediye emrine
+raptedilip de Hazinece vacibüttediye halini iktisap etmiş bulunan bir masrafın kanunen
+istirdadı veya verilmemesi muktazi olduğunu ihbar edenlere ihbarlarının sübutu halinde
+istirdat veya tevkif olunacak meblağın yüzde yirmisine kadar miktarı ikramiye olarak verilir.
+
+MADDE 2
+
+Birinci madde mucibince verilecek ikramiyeler Maliye Vekaleti
+bütçesinde açılacak rakamsız bir faslı mahsusa tahsisat kaydedilerek tesviye olunur.
+
+MADDE 3
+
+Bu kanun neşri tarihinden muteberdir.
+
+MADDE 4
+
+Bu kanunun ahkamını icraya Maliye Vekili memurdur.

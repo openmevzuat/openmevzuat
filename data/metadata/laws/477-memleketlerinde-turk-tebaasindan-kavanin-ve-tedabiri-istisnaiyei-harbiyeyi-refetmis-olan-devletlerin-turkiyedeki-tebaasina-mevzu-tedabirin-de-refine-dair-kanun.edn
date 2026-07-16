@@ -1,0 +1,42 @@
+{:document/id "law/t3-477",
+ :document/type :law,
+ :document/number "477",
+ :document/title
+ "MEMLEKETLERİNDE TÜRK TEBAASINDAN KAVANİN VE TEDABİRİ İSTİSNAİYEİ HARBİYEYİ REFETMİŞ OLAN DEVLETLERİN TÜRKİYE´DEKİ TEBAASINA MEVZU TEDABİRİN DE REFİNE DAİR KANUN",
+ :document/slug
+ "477-memleketlerinde-turk-tebaasindan-kavanin-ve-tedabiri-istisnaiyei-harbiyeyi-refetmis-olan-devletlerin-turkiyedeki-tebaasina-mevzu-tedabirin-de-refine-dair-kanun",
+ :document/path
+ "data/canonical/laws/477-memleketlerinde-turk-tebaasindan-kavanin-ve-tedabiri-istisnaiyei-harbiyeyi-refetmis-olan-devletlerin-turkiyedeki-tebaasina-mevzu-tedabirin-de-refine-dair-kanun",
+ :document/sha256
+ "dd80df9269dc727a1992dd88e5a49d9539d6028d89d288611fb8133148fd245a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.477.pdf",
+ :source/fetched-at #inst "2026-07-16T02:12:36.786-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t3-477/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt : 5 Sayfa: 415",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "065f79d0acccd69686882ad83ea7db0c8da8071fb7a6237dc2f80e6cc211b193"}
+  {:article/id "law/t3-477/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "08ef3000afff4ded8f94e3f5d689226e6ca7a02355d86429923bb0a9fffd1b2d"}
+  {:article/id "law/t3-477/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8fa445ce2e359a435760ac275d44167d7efa83f3edbff2ffac39886c952f8422"}]}

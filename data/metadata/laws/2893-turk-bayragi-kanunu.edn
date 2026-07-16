@@ -1,0 +1,101 @@
+{:document/id "law/2893",
+ :document/type :law,
+ :document/number "2893",
+ :document/title "TÜRK BAYRAĞI KANUNU",
+ :document/slug "2893-turk-bayragi-kanunu",
+ :document/path "data/canonical/laws/2893-turk-bayragi-kanunu",
+ :document/sha256
+ "2b3aae828cd7de5a9e6e07109a054e2283b8e1250f5b04e858379c2a0f01cf8c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2893.pdf",
+ :source/fetched-at #inst "2026-07-16T02:21:00.888-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2893/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7107c9adf2e060b7a583042aadd7858f197c4216eea5eca153f66155ca2aa363"}
+  {:article/id "law/2893/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Bayrağın Şekli ve Yapımı",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a897f02f1c317a498655c6fc6ae98305efec18830d1c74311c2c9637d2990887"}
+  {:article/id "law/2893/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "a84ff0c0f7c1eec022a50c71d8ba458aaaec8501e5b949fc4a05edfb87767e00"}
+  {:article/id "law/2893/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Bayrağın Yarıya Çekilmesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b7f1ac8c8d4d2c212428ca49638612fe66c25c9dcfe53274027a06762ff439f6"}
+  {:article/id "law/2893/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "7c39a00d7564f9f0327253708b21512bf85d7fe82d7fec9a13ec010caebc975a"}
+  {:article/id "law/2893/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Bayrağın Örtülebileceği Yerler:4",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a32d068eda2ee2b5ef94b918dc38849141a36bcf6811ca17f205cbec1572f590"}
+  {:article/id "law/2893/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yasaklar:5",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fbcc1f7d2813f86b7cd340df38088d6f4ee7b193d52063dd275803db9d681ce6"}
+  {:article/id "law/2893/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Cezalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "29ff4b3dcfa4950af15d4a05fe83db216bafd810ee3c6570e6ab17b94eeaa3b6"}
+  {:article/id "law/2893/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetmelik:7",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "0fddcbc8bd16f56bbe22b8ed13a4ec8e4abf3bb69037cf6991183d96e9849149"}
+  {:article/id "law/2893/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "71f901d10ae128639a939f2ce01762865aede4142ac8ec4d7a58a14cca97bf25"}
+  {:article/id "law/2893/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "b36ab8068d77432a035640c363d88f2cd37fd93ec84b762a6291aef46fdaea67"}
+  {:article/id "law/2893/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0cbf8952f6f5fed14dae9d8c51dd2c5482337edfa96c47a3ddaa01e7d390ea5a"}]}

@@ -1,0 +1,94 @@
+{:document/id "law/210",
+ :document/type :law,
+ :document/number "210",
+ :document/title "DEĞERLİ KAĞITLAR KANUNU",
+ :document/slug "210-degerli-kagitlar-kanunu",
+ :document/path "data/canonical/laws/210-degerli-kagitlar-kanunu",
+ :document/sha256
+ "2832ed3fbdbbb813ca525ab0d99a9f9b0fe7e0e60a19b8b92ba55488792db30a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.210.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:53.932-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/210/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9dd9adf1a94ae01270b65c8232a31640bfa07de72260bf49d116f7bc2afe2cb1"}
+  {:article/id "law/210/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2699fdcffec6c7a1418ffc73974d35b84a14067bffacd7d332ee338edc461e77"}
+  {:article/id "law/210/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "555e844aa055a8d1ff41cbc198739e602eb4e903e3e3255f5b23f9fbb057e0e9"}
+  {:article/id "law/210/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "96fa0e4b417b39ea7caaccdec2fcc143f2989e33c54ebc1a80fbb4eff4ba4ee8"}
+  {:article/id "law/210/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "150ebdf58fa25d092bd5c273076039d8e1a6884b69dfa2c59d6b46912e48ccb6"}
+  {:article/id "law/210/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9ee1e131531933b6fdc763565f00c14a9831d693f76a6911b17912dff190cb0e"}
+  {:article/id "law/210/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7440f371d0000278fcbaf4c8f961ac4b4a86ddf384dfeb2bf6a2de6ed7f87b60"}
+  {:article/id "law/210/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "9b82b66d19ba3d4549a4d85c0793267f26f18ad1307ee894df961e69fb1c49d2"}
+  {:article/id "law/210/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "76043593bf94368a4300b430f8fe8582e2c7fde8e3552b187fb5741ccd832b8c"}
+  {:article/id "law/210/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d28f38ecb549616cd91c03e7a0f8745ddec2e5fc67e39587d8ed20ebcc2d8dc4"}
+  {:article/id "law/210/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "f79673c096b4e85d5fb0a40e763adbbeba81bbfc7301095006a228ef672acff4"}]}

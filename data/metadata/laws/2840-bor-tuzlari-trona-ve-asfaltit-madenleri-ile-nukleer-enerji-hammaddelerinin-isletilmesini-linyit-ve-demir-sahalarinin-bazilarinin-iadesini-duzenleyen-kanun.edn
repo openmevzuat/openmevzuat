@@ -1,0 +1,97 @@
+{:document/id "law/2840",
+ :document/type :law,
+ :document/number "2840",
+ :document/title
+ "BOR TUZLARI, TRONA VE ASFALTİT MADENLERİ İLE NÜKLEER ENERJİ HAMMADDELERİNİN İŞLETİLMESİNİ, LİNYİT VE DEMİR SAHALARININ BAZILARININ İADESİNİ DÜZENLEYEN KANUN",
+ :document/slug
+ "2840-bor-tuzlari-trona-ve-asfaltit-madenleri-ile-nukleer-enerji-hammaddelerinin-isletilmesini-linyit-ve-demir-sahalarinin-bazilarinin-iadesini-duzenleyen-kanun",
+ :document/path
+ "data/canonical/laws/2840-bor-tuzlari-trona-ve-asfaltit-madenleri-ile-nukleer-enerji-hammaddelerinin-isletilmesini-linyit-ve-demir-sahalarinin-bazilarinin-iadesini-duzenleyen-kanun",
+ :document/sha256
+ "2e1e55c4f3cd75e2cb27c0a0a64e63d117fb6efe6c4e940b7f97799199be0915",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2840.pdf",
+ :source/fetched-at #inst "2026-07-16T02:20:28.282-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2840/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "edffde00e408da1d62067335c0933038dc849dce76cf983d2a4e8bf28996832a"}
+  {:article/id "law/2840/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Devlet eliyle işletilecek madenler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "fe6ff92e6c8be1eccbe603cf8e6100ae22ab7558b89b16b5ff1476b9780ff9dd"}
+  {:article/id "law/2840/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kamu kuruluşlarına devir işlemleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "eb5ee85e0d709b0dffdcba782eecafcde1bdc497e20975046b18dc858d169629"}
+  {:article/id "law/2840/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İade edilecek madenler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "916ab19f9da6bda17249acb67c499afbb2bebf98512f18ea40375967c672e142"}
+  {:article/id "law/2840/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İade işlemleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2ec7a36055bebf595b3ad9452b77b687c3bd36c48229d63f2fa62433507d09a4"}
+  {:article/id "law/2840/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Tamamlanmayan işlemlerin iptali",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4ba7726bcf00c73e0cfe268cd1c3675ec7ad5c3710974279069a5075e008d466"}
+  {:article/id "law/2840/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Süreler, terkin ve tescil işlemleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b3b82dbbbbfc6d9a9a923b09cab430961e17858353dccd568f21d1e5a6d1eab9"}
+  {:article/id "law/2840/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ca9308f006d1af9d7949c9d5e5b02e93f591ed104b2417507785d640df1713c1"}
+  {:article/id "law/2840/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "882721a051a214aa54eb46f4f9be069a9189d4d4acab344e780fe8e84930ec45"}
+  {:article/id "law/2840/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5931f5030f164af0fc5ef4ad24d8d51fcc01c07575dedfb8d298642278ca5bde"}
+  {:article/id "law/2840/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "a774d83350450d115f6e90638fd1b8f3c516190fd49484e571031231d97a21af"}]}

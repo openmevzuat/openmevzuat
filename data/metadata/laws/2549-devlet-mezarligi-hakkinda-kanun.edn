@@ -1,0 +1,88 @@
+{:document/id "law/2549",
+ :document/type :law,
+ :document/number "2549",
+ :document/title "DEVLET MEZARLIĞI HAKKINDA KANUN",
+ :document/slug "2549-devlet-mezarligi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2549-devlet-mezarligi-hakkinda-kanun",
+ :document/sha256
+ "afa300b7ce9f4f25d2cc54bd5c0a45b533a715cac6d908f279a85514ac375f4d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2549.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:13.167-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2549/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "84c399c3fc776b2ccd75d2f6989c2a57f9b8ceb640d6f78d8b87f4eb9dcf0d1a"}
+  {:article/id "law/2549/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "91cd075f9d97be9d3c076d0ccab06c7d7018d7afd6a82dfc807cdabd70611b85"}
+  {:article/id "law/2549/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1eaf31952bea691bd63fc6b436f1febdbdfc1643462bf7862d2c18b324b6d5df"}
+  {:article/id "law/2549/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6c8a8eca3e5f664f8786f1bb6815932b1502982a4241d89d3849eece2bfa4c50"}
+  {:article/id "law/2549/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "14bcbcda9b56863009e2ec2857999031d49fae7a9fce96bf2018109fd7dbf1df"}
+  {:article/id "law/2549/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "ed7b7989bd620e7381e39aa27c1a7f57bb46bf2c763f058fed6789046b2d770f"}
+  {:article/id "law/2549/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "41c8ac0722fd051af09f7577e3f3777a17c2d5fa4801af64c9f617a5b20e705d"}
+  {:article/id "law/2549/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "569fac61b09c0368ad2804b6dd8287cfc79b6a3202cc0b0a496d946aab10c3a4"}
+  {:article/id "law/2549/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8ac87d9541eb66ae500f0e78727462d7f89fad207fab2b46d36619feb499f6b1"}
+  {:article/id "law/2549/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "321f8b65753e0269a9a6d4cf8789c9c7cb9806e90fbb7f5f85b8f0c23199f348"}]}

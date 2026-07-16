@@ -1,0 +1,253 @@
+{:document/id "law/3083",
+ :document/type :law,
+ :document/number "3083",
+ :document/title
+ "SULAMA ALANLARINDA ARAZİ DÜZENLENMESİNE DAİR TARIM REFORMU KANUNU",
+ :document/slug
+ "3083-sulama-alanlarinda-arazi-duzenlenmesine-dair-tarim-reformu-kanunu",
+ :document/path
+ "data/canonical/laws/3083-sulama-alanlarinda-arazi-duzenlenmesine-dair-tarim-reformu-kanunu",
+ :document/sha256
+ "f5ac2b2ca571c936d81c849fcc00509bec10beb5208aeb29189505b4837a478f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3083.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:31.928-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3083/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2db78db7ae5be67dd76dbc539f9a2d953b5dc290377e34e716e129c72400f56b"}
+  {:article/id "law/3083/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar2",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dd2e3124b83635383353cc05a0b0273a3bfc42f09d401702476aa48887f11bb8"}
+  {:article/id "law/3083/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c7f49f4fe73a7832e8ba99e5032bfdba75009d719685bc728d26f96ed3a5c046"}
+  {:article/id "law/3083/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4143815fc859fdd0e8aea6d6c182212dcb3b28de28f52d642628926aeca5783a"}
+  {:article/id "law/3083/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sahibine bırakılacak arazi4",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "56e0d66fa5490dae0d685e368e69a7018e05a2dc1bbf0b9bacffc0ec4295a709"}
+  {:article/id "law/3083/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Toplulaştırma ve tarla içi geliştirme hizmetleri5",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0c11f3c5ceda16d24c82b60934b3af92a318af008e9824853ea008409c0b7493"}
+  {:article/id "law/3083/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Uygulayıcı kuruluşa geçen tarım arazisinin tasarruf ve tahsisi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "74398c7292b36cee7ccef4da6eb4d1e99a30c5add2005600cdd87b9241814f0e"}
+  {:article/id "law/3083/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Arazi dağıtımı7",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8a1c629ee500ba27ec986bcc8609ef7035f92b8be9c65e8b98990ab4dd080b52"}
+  {:article/id "law/3083/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Borçlandırma",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "84ea4e76ce20c619cee7f000e3158591448225584ad9de1c25d83c6fb0a4283d"}
+  {:article/id "law/3083/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Dağıtılan toprağın geri alınması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c5eeb27c5275515cf9046b50b133f9352940fdf86d5677d1b569332e8c171738"}
+  {:article/id "law/3083/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Dağıtılan topraklar üzerinde tasarruf tahdidi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "05d20c3f91a1baea403b070656b420876f5be90b913ca3e3d6ac0570222d9b07"}
+  {:article/id "law/3083/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Dağıtılan ve sahibine bırakılan topraklarda mirasçıların tasarrufu",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4acf4c1d502257f10cfcbfe8fe47720ff0e16a3b42f1e9e15bddb1e321cd22aa"}
+  {:article/id "law/3083/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Temliki tasarrufların durdurulması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "39321b1ec82057cac02260a7a0b2c23dcad81ba5ba51f6a794d9b32aaaf2c140"}
+  {:article/id "law/3083/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yeni yerleşim yerlerinin kurulması",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "acaa01e2385b7342f7bed2e4e777844e3d124a6e00d15c05f95e4ea3ca6f6173"}
+  {:article/id "law/3083/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "8ffa5f3b33cf326232cc5e25707ff249befec41cd65c5bfcad0d83c3bc9a9fad"}
+  {:article/id "law/3083/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Tapu ve kadastro işlemleri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a4ba41d784ddcf99c6d7deb28c71997eaaa1974e25b4ba716c2595b64b11fac9"}
+  {:article/id "law/3083/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Çiftçilerin desteklenmesi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "ee00dd4a3a920f82c7daa2547be8ec69942af116d14ceff984ffb485c07665cd"}
+  {:article/id "law/3083/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yabancı uyruklulara ait arazi",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "dcc4a891275f67eb686fd47a1b0c3dadbabb39dc8ad5a198bb27ca868d640982"}
+  {:article/id "law/3083/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Arazinin tarım dışı amaçlarla kullanılması",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "94d2a41754fc43d553784b44be584467d7e10c6ff8364d18f4e5d4e3db64186f"}
+  {:article/id "law/3083/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Fon",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "f5b3755f236b0221913191c8b5cc4473c096abef85d67e9e24efda7eecec96c1"}
+  {:article/id "law/3083/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Fonun gelirleri",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "24402af6e34362a369510a6d7a5e1869d89407250da1399193ce367b32361ac2"}
+  {:article/id "law/3083/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Fondan karşılanacak giderler",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "f23d339486599f4007ceac345e65763ab672e22b864aaa8b009d703fb93cc0f0"}
+  {:article/id "law/3083/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Fonun yönetim ve denetimi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "a620983e2f6a0a31f0db169ee06204a91bfe83008e3bc0401b4596f1a98f43bb"}
+  {:article/id "law/3083/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "98ebedd0c4502aa491ed33bc84fecfe5285c7680bdf278a3c89ab932889f1970"}
+  {:article/id "law/3083/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "f6db4a73bd2c70d2b0471a65c43c78d7b120f75bb201a8e7033a78ef02a29361"}
+  {:article/id "law/3083/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Kaldırılan ve uygulanmayacak hükümler",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "20ba959571785e36c15ef65d641f970a4b0fb5e19188343c8c884c455910b5ff"}
+  {:article/id "law/3083/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "GEÇİCİ MADDELER",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "cd3e0768b34e9d87ebb9906938dcd1122914e998a51cace885620bc70d22bfae"}
+  {:article/id "law/3083/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "510542dd9916be1ec32bc1dda6b7de9089e78501493596a289b3e8f45b152121"}
+  {:article/id "law/3083/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "2c5d726e4dc1433821171ca5ed3543090c0b453dc597c856dcc696c7d698332a"}
+  {:article/id "law/3083/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "b479c2b6d55943464b2743790de84fba2917b7b3c4684a2df82f33da0517a23b"}
+  {:article/id "law/3083/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "6695b7d0c3c4e660ec5f71d56f323c5bc7c007a046bcc394ca3ef839de10a391"}
+  {:article/id "law/3083/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "eb902ae081a7b81c1ff539c03ee58bba89ed3076d8973921f998bc219f4cceed"}
+  {:article/id "law/3083/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürütme",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "d8ef6b49513ad8df86700e508baaf9e67b35ae3c77d404c8fbbf53f80dca0c89"}]}

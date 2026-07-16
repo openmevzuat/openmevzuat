@@ -1,5 +1,6 @@
 (ns openmevzuat.core-test
   (:require [babashka.fs :as fs]
+            [clojure.string :as str]
             [clojure.test :refer [deftest is testing]]
             [openmevzuat.catalog :as catalog]
             [openmevzuat.core :as core]
@@ -103,6 +104,16 @@
            (store/canonical-document-path khk)))
     (is (= "data/metadata/decrees/cbk-1-ornek-cumhurbaskanligi-kararnamesi.edn"
            (store/metadata-path cbk)))))
+
+(deftest long-document-slugs-are-bounded
+  (let [document {:document/id "law/400"
+                  :document/type :law
+                  :document/number "400"
+                  :document/title (str/join " " (repeat 40 "Uzun Kanun Basligi"))}
+        document-slug (store/document-slug document)]
+    (is (<= (count document-slug) store/max-document-slug-length))
+    (is (re-find #"-[0-9a-f]{12}$" document-slug))
+    (is (str/starts-with? document-slug "400-"))))
 
 (deftest markdown-rendering
   (is (= "# MADDE 81 — Kasten öldürme\n\nBody\n"

@@ -1,0 +1,123 @@
+{:document/id "law/2933",
+ :document/type :law,
+ :document/number "2933",
+ :document/title "MADALYA VE NİŞANLAR KANUNU",
+ :document/slug "2933-madalya-ve-nisanlar-kanunu",
+ :document/path "data/canonical/laws/2933-madalya-ve-nisanlar-kanunu",
+ :document/sha256
+ "62249c4f7bafc51bc3b3aeaddda9b9527333a9c533e2823ce0851f23076059d5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2933.pdf",
+ :source/fetched-at #inst "2026-07-16T02:21:23.092-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2933/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ad879cb832c00678d9004de1cedd00806a754536f86a8bd25dd08baa1ca605aa"}
+  {:article/id "law/2933/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Devlet madalyaları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "eb996c93e99ae96a44b20455b34fa329eeb9a2a58c483fe28633d64fc8a75219"}
+  {:article/id "law/2933/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Nişanlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "752055dbfa958719265bf2319eaaf99b7fb77c89843f0512ae7a05dd59effcba"}
+  {:article/id "law/2933/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Madalya ve nişanların verilmesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2732372cb7b28d84fe3f8a828fd0f7f21fd4309b41be2c6a123f7a82ef7eff61"}
+  {:article/id "law/2933/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Madalya ve nişanların intikali",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e72491d9508d6405af1da5bf7bca3d3331838fe3a4d253ef7a7b7907050abac"}
+  {:article/id "law/2933/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Tescil ve terkin8",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "690fd568f7eb86797c5e96d4d2185bc5023d05aca13f437b559c930dd3f849de"}
+  {:article/id "law/2933/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Madalya ve nişanların geri alınması",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fd78258f135bf88b45fa27a6bffe95e932929fb463cd290b937713302db0376a"}
+  {:article/id "law/2933/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Başka devletlerce verilen madalya ve nişanların tescili ve takılması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "287a50dbda385b5bc11d4cbf9f1897d3deef8274722c77e1b6ba0ba52bfd8e3f"}
+  {:article/id "law/2933/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b8c953c88b64e25b722512a3e2690129b2339b02bd88d2bd40be1a959251dbca"}
+  {:article/id "law/2933/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "68cb9fd454bdd6deb6bb36f5278c29498eb082ba700c7ca483c725da8dabfb76"}
+  {:article/id "law/2933/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "48ca6c4c3bb23f5518487f354d7b8a31babf79ee9044b98b6b1cefe01d9827e3"}
+  {:article/id "law/2933/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Cezai müeyyideler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0f0657981ad514c1bed18a1cc3a5bb15256c0314bd448861f962be5cf5d464a7"}
+  {:article/id "law/2933/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d37dad44eb15dcdcee9b899f47d52dea4871863d257d50e522db8795cbaa9d67"}
+  {:article/id "law/2933/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "af72c436220e1b49fc6ad5ab6daa75151f62b547cdcc204586b4533ad6e4ad84"}
+  {:article/id "law/2933/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "14a63230720f114a930e6291fbda2a0116af3f46d1208009f87fdd693f5c274c"}]}

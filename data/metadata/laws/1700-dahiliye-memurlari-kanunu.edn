@@ -1,0 +1,318 @@
+{:document/id "law/1700",
+ :document/type :law,
+ :document/number "1700",
+ :document/title "DAHİLİYE MEMURLARI KANUNU",
+ :document/slug "1700-dahiliye-memurlari-kanunu",
+ :document/path "data/canonical/laws/1700-dahiliye-memurlari-kanunu",
+ :document/sha256
+ "e70cfd4818ade0aeeb854beddbe78882bfc202e8d1ed99bb1936fb658e6b58c6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.1700.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:53.160-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1700/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Memurların derece ve sınıfları2",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cb675c1455f9a28030c2621ef9a611d33b2d563b5190a5dead4481b00de29866"}
+  {:article/id "law/1700/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Namzetlik ve ehliyet şartları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7087296a3a123736cabb97662e8a0eeed71012a942d1b0b827691cb2a44e6d86"}
+  {:article/id "law/1700/article/2/A",
+   :article/type :normal,
+   :article/no "2/A",
+   :article/title "Kaymakam adaylığı yazılı sınavı, mülakatı ve atama",
+   :article/path "articles/madde-002-a.md",
+   :article/sha256
+   "a978486dca3e8a68dd768eec8af33ec4c6757961f39ff3b63fe49da17613786b"}
+  {:article/id "law/1700/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "415fe62bbb858db580eab117c38d3e4b3e369c20315e0c556adac10093beb25b"}
+  {:article/id "law/1700/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "bb127afc39774e8772979ec48a622ebe2cd838c82d8cd2a98974dd7b3e19124d"}
+  {:article/id "law/1700/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İntihap ve tayin usulleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3efe5ce966d92efcde0a430d490975a037501de5152497f24aa2028ea61ca2d2"}
+  {:article/id "law/1700/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Müfettişler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9f1e08e757b9ae72396489f8433b71c055c00fab8bda8f3fde1616d5c7cf4442"}
+  {:article/id "law/1700/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0c710475c79d02bd7210ac7faab7a26a34cd7835ad9cfcaf1186938e5b4d6837"}
+  {:article/id "law/1700/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8a844ed3614cd0062b2fe081afdb74963f944b13da7bba868a64241bddac4e52"}
+  {:article/id "law/1700/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Terfi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c986676f1728eedc596a498e02ca3d41710b1d57193bc08eedd199d2c3d80338"}
+  {:article/id "law/1700/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c74e6a986bb0915c3f94c79e202415d0c049f464bcc20350e3edaa6fb59af293"}
+  {:article/id "law/1700/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Tahvil ve nakil9",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "4869b1e8f389e3c8975835fff190a30ef1d3d2850ef5238ec170b879fbbe98da"}
+  {:article/id "law/1700/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0f5b62cafb62dd142144980647fc0aefcb8ffbd4b85239467954f400ffdedb59"}
+  {:article/id "law/1700/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9b94fd43983b7479678ab425159aed1570018d6ff9c45eabac4df85a5f79486e"}
+  {:article/id "law/1700/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "b068be604529e4e56797a4895c35074621077e27148f21283d6e565a9ff97663"}
+  {:article/id "law/1700/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "0806057a5bc5b5fb3b78ca0cabb382628dea4d508abb991e0601b0d3c40d3282"}
+  {:article/id "law/1700/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a533149c884e16291f7b353727992fe84230ff5033ada64cb8f3da4ff62c2f12"}
+  {:article/id "law/1700/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c4311f0947cde6701cab35eb83099a9069d6573cc1fff6e2f11a523063d69117"}
+  {:article/id "law/1700/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Müdürler Encümeni",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "d414fa9892b9e1633f1cf6945add6ac8bdbe28f2260342ef03a69864b267f9c1"}
+  {:article/id "law/1700/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "c7596f0f112cb7826efc3542e7b92f5a2b7c77986cebc308d6f91f81b2d76a93"}
+  {:article/id "law/1700/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "İnzibat cezaları",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "5c242ba42efd9f4d0cd492290365ace2b46566fce3fedf90df39391afd6d56a3"}
+  {:article/id "law/1700/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "965804764e7a4240992a2b3529279290afb8b3b3701d2b89d81820ea66c2df27"}
+  {:article/id "law/1700/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "2a38742ee8215376fdbca028d5861b342d1b6c169ebaae1c30c6720d0c5b885d"}
+  {:article/id "law/1700/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "5de4731b1b3b3e00d1e34c58980bd26d82d4e593962e53b07f41dd1f0851bf16"}
+  {:article/id "law/1700/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "6a43bd1abeca3cd1ebe782e75530827c58162d232388c0a40bbaee8cc46d3197"}
+  {:article/id "law/1700/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "853ef1cde77a4dea0d79b8eea3831e3c22908d6a3f5f7761431d9366e7625ffb"}
+  {:article/id "law/1700/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Vekalet inzibat komisyonu",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "7ab0f65333a87989f37929cca0c050ed2751e22549af5c0c0d987d76738101c9"}
+  {:article/id "law/1700/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "İçtihadi hareket",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "bdbd2082b597fc4a0326d57830bea74eb14b22520571003f32ddb412ac70bfae"}
+  {:article/id "law/1700/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Meslek kursu",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "dee9d6464714a0805657e72428c703ade729fd3f7235bfacd628882abadf2e94"}
+  {:article/id "law/1700/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "f5711aba354a0ffd9a650cd94b559df656db2cd28a8c9732fdf9fe42783354cf"}
+  {:article/id "law/1700/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "c1a9cdfbe0cee10b4373d832ea4f6b2f85e69c2014ca8c6abafe29842a841d62"}
+  {:article/id "law/1700/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Birinci sınıfa ayrılma şartları",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "c8250eafa74c1a01ed059c3fd5ae4033035196f7f876d8dc779f00f15bd08eca"}
+  {:article/id "law/1700/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Değerlendirme yöntemi",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "3ecd384621ab2b5b5ad9ca2ef9f5d8e4b6a5c8854116601e4bae6c9ba7b6a7f1"}
+  {:article/id "law/1700/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "3d2787af5832ea7ba77a5afeeab87807609515134bfc53a81c5e7e91b405be26"}
+  {:article/id "law/1700/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Ek ödeme",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "0b6058c53beed23fe7d48508539a36bede71b3c079497a442195acc6b713e5db"}
+  {:article/id "law/1700/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "53b00ee2caabe044163295a1907b21731792a8ba9094fa8a83bbd57b77fcefe8"}
+  {:article/id "law/1700/article/7",
+   :article/type :additional,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/ek-madde-007.md",
+   :article/sha256
+   "7af76960c0e0c7f7fa2d31256d58b037c2b3a62fd5af14cbd07b7126246e8827"}
+  {:article/id "law/1700/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a91f0932f058340b92dc8865addd35521fa0011ce5e24c2e3955b97fca8da195"}
+  {:article/id "law/1700/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "201d64ac2cc6f568a43ab2c67635b0bd8c8fa35354651f40612ce1598342a168"}
+  {:article/id "law/1700/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "0448084056fef6cdd1f3455262df96d0638b562e02783a24bc7415ee62b02ad4"}
+  {:article/id "law/1700/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "3ac4747a3260979e0326f75579c2163d6c583b1e063044068f0765dd29b3d22b"}
+  {:article/id "law/1700/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "6e8ccb07f91563b9df88974916414fcdeb238b8b8bce991ab5681bc5b8010a70"}
+  {:article/id "law/1700/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "fb76390571ca7dbc59f63c2f082e25331d5e436f2c581224064e4c148322d097"}]}

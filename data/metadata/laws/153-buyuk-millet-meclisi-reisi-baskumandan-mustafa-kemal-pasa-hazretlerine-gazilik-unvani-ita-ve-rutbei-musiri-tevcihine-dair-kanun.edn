@@ -1,0 +1,42 @@
+{:document/id "law/153",
+ :document/type :law,
+ :document/number "153",
+ :document/title
+ "BÜYÜK MİLLET MECLİSİ REİSİ BAŞKUMANDAN MUSTAFA KEMAL PAŞA HAZRETLERİNE \"GAZİLİK\" UNVANI İTA VE RÜTBEİ MÜŞİRİ TEVCİHİNE DAİR KANUN",
+ :document/slug
+ "153-buyuk-millet-meclisi-reisi-baskumandan-mustafa-kemal-pasa-hazretlerine-gazilik-unvani-ita-ve-rutbei-musiri-tevcihine-dair-kanun",
+ :document/path
+ "data/canonical/laws/153-buyuk-millet-meclisi-reisi-baskumandan-mustafa-kemal-pasa-hazretlerine-gazilik-unvani-ita-ve-rutbei-musiri-tevcihine-dair-kanun",
+ :document/sha256
+ "7cb9f33a3eed4b8a13dbc273bdc8113c73b5394c6710398e9fa5998887f6f02c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.153.pdf",
+ :source/fetched-at #inst "2026-07-16T02:07:14.570-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/153/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3, Cilt: 2, Sayfa: 93",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "297bfbc5919a0758bb2678d6bda18f656354fb0ba5d8765527ae20d08078966e"}
+  {:article/id "law/153/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "151f86d33a18e08241d030c27867566b867d7e0ebdfea5a9d6779bb08c706f48"}
+  {:article/id "law/153/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "de8a4dabd6d0cba370ce2cba3c3340c5135dd3871b55788b696a89f8a108bde2"}]}

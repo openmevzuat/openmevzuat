@@ -1,0 +1,49 @@
+{:document/id "law/2780",
+ :document/type :law,
+ :document/number "2780",
+ :document/title
+ "UÇUŞ, DALIŞ VE ATLAYIŞ EĞİTİMİNE TABİ TUTULACAK ASKERİ ÖĞRENCİLER İLE ADAY ÖĞRENCİLER HAKKINDA KANUN ",
+ :document/slug
+ "2780-ucus-dalis-ve-atlayis-egitimine-tabi-tutulacak-askeri-ogrenciler-ile-aday-ogrenciler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2780-ucus-dalis-ve-atlayis-egitimine-tabi-tutulacak-askeri-ogrenciler-ile-aday-ogrenciler-hakkinda-kanun",
+ :document/sha256
+ "925d15c4793d67091bb0c65bdfba8a47ffd47bb5f2e8d98ab9b2b998c7d13e64",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2780.pdf",
+ :source/fetched-at #inst "2026-07-16T02:19:22.818-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2780/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 22 Sayfa : 142",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e9087f2e1bf653375baceeb6b9895ad592c30e3ea32a4e7747c0fbdbc5b5a296"}
+  {:article/id "law/2780/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8628c5eea328927ba0f57955e3ffb48e6c5250204afdd462b3ea2d58774f04c9"}
+  {:article/id "law/2780/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/2780/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1ba927b30f7739547141e76573a5d46bebd5dec76872b34a52d53fb4f1b2694e"}]}

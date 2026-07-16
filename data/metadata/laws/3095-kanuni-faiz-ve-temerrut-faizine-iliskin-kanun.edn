@@ -1,0 +1,88 @@
+{:document/id "law/3095",
+ :document/type :law,
+ :document/number "3095",
+ :document/title "KANUNİ FAİZ VE TEMERRÜT FAİZİNE İLİŞKİN KANUN",
+ :document/slug "3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun",
+ :document/sha256
+ "f224ccfa3624652154d8ec888a52d4748af493bf59ed614568d3a1fdd79209ab",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3095.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:42.399-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3095/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kanuni faiz",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cb1d4fcc3d9eeb579a04702f8a0ad1230fbf78e9ac1fc10bbcb8495c4dc1c52b"}
+  {:article/id "law/3095/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d7c39f6e5aae62e7805a74c532a0cffb86e2e767f5f6a1112ad80fcb8058f847"}
+  {:article/id "law/3095/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Mürekkep faiz",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "794b3e9da1dfac36482945ebbab0155999ba20ffab0eccbbdfaf2ba5d1b7e878"}
+  {:article/id "law/3095/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "77b78386406c5f0fe882a46ddc6d5cc60d3e8dc40c3cb723dc462b05c291f030"}
+  {:article/id "law/3095/article/4/a",
+   :article/type :normal,
+   :article/no "4/a",
+   :article/title "Yabancı para borcunda faiz",
+   :article/path "articles/madde-004-a.md",
+   :article/sha256
+   "506e4d60c8547ac83c2ea1ffae4b80e9b8aac799e116d739e5e0b9fa1d7df2cf"}
+  {:article/id "law/3095/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kaldırılan ve uygulanmayacak olan hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "163027ee1f70e241db439d697856a11409b80d960609d622584c719a188719b7"}
+  {:article/id "law/3095/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b3d523c825f4647ff1602009ffd1911ef7502e9934c3d5e82e1f0c5ffa83fc21"}
+  {:article/id "law/3095/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "b2eedb49b2e0b383384d78fa1b6bf277b31b9daec67a856d7187aab226418b6d"}
+  {:article/id "law/3095/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f61ce005c4b958beee866186a7950d425f10fd7aecf91e35814add2f33d877dc"}
+  {:article/id "law/3095/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2a40acf9851d574f088c5585b3e2a1654f0736b81abef272ef1d4513a7ecbe31"}]}

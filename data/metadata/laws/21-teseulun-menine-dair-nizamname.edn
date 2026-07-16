@@ -1,0 +1,88 @@
+{:document/id "law/21",
+ :document/type :law,
+ :document/number "21",
+ :document/title "TESEÜLÜN MENİNE DAİR NİZAMNAME",
+ :document/slug "21-teseulun-menine-dair-nizamname",
+ :document/path
+ "data/canonical/laws/21-teseulun-menine-dair-nizamname",
+ :document/sha256
+ "5349e9f99e4cbc48c11233d82ff87ccd508910abb43a387416a3a068b921840b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.21.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:47.075-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/21/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Düstur : Tertip: 1 Cilt: 7 Sayfa: 48",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "92d1892eec47ea4ee778188d389a7dfa356befa030aec9a1a33344c6ba5a84af"}
+  {:article/id "law/21/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6501c0f5c259dbadddba442c1699a89e48619b111c1911fe782670a628fb4617"}
+  {:article/id "law/21/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0588653301132a3bfe272693124ec68632215a88120a6528a8fd506b66fde96f"}
+  {:article/id "law/21/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5d5c7094b94440e32f81e0ca440038a25bd9fafd649958b6e419f5a37416579d"}
+  {:article/id "law/21/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f198d046abd0f6bfb9ed6f17ed7f643ae7562200a998034408899319ccfb8370"}
+  {:article/id "law/21/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ea39e8671a9d06559e448d65392bcb472a528ff557570c4433cca6d15d81d444"}
+  {:article/id "law/21/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "16c9c9bab44ec30e69e38a8d6d580df92108bfc5baf3241cd03d9323d2cd07de"}
+  {:article/id "law/21/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "47e803a4f01fab652313410876a515117a7605a042956f9f238199e97837ef1f"}
+  {:article/id "law/21/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "567b89385b9e15eed1f6adae36fad6fd3d4c06491de53121a6e206eb978c1370"}
+  {:article/id "law/21/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d3a9b52d53eab88378c18ca7e24c9e969a83a488ffc01c7e4d5aec31b338ddce"}]}

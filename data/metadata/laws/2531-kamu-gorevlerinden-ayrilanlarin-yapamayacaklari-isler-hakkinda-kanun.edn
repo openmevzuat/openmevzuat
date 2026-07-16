@@ -1,0 +1,76 @@
+{:document/id "law/2531",
+ :document/type :law,
+ :document/number "2531",
+ :document/title
+ "KAMU GÖREVLERİNDEN AYRILANLARIN YAPAMAYACAKLARI İŞLER HAKKINDA KANUN",
+ :document/slug
+ "2531-kamu-gorevlerinden-ayrilanlarin-yapamayacaklari-isler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/2531-kamu-gorevlerinden-ayrilanlarin-yapamayacaklari-isler-hakkinda-kanun",
+ :document/sha256
+ "81e3ec50be181bddccd71667acdf5d611f4f0f8c839949e3dd4484d0b03705aa",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2531.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:01.520-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2531/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5c34f2a7d39d44c93a711e490b0d8f13c951bb732713bdd4ae2e7e796565094f"}
+  {:article/id "law/2531/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7a066ab40d02de66be9841b4fd786b6b902b27a19663e4a6985cf721d9d7816d"}
+  {:article/id "law/2531/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "69ea64b42848aa9ab93941266212d7bb07dafd5238b01da244845b8fc5b040f2"}
+  {:article/id "law/2531/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8c1ce494b2a485c1e2ea7f8c2a1eaa804ae2fd5a03e7046ee8b2c6bf99dfe395"}
+  {:article/id "law/2531/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "19c60a5d8dcfa84aabc0b4f34d67fca2638bcb8b7eb0b3d38d8afcc5f4fe8e33"}
+  {:article/id "law/2531/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "af005d224335f04b4fd551c66937d1ab3a334ba0d378d174c9da2c35b938da31"}
+  {:article/id "law/2531/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8ac87d9541eb66ae500f0e78727462d7f89fad207fab2b46d36619feb499f6b1"}
+  {:article/id "law/2531/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "493b3d56ab45d4a71675670069e843dd466831feef520023be9901a58e226dd2"}]}

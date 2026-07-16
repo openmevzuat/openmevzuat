@@ -1,0 +1,60 @@
+{:document/id "law/1475",
+ :document/type :law,
+ :document/number "1475",
+ :document/title "İŞ KANUNU",
+ :document/slug "1475-is-kanunu",
+ :document/path "data/canonical/laws/1475-is-kanunu",
+ :document/sha256
+ "03ff4e5b528d33248e7f2450ccb185282ce78080da18a8ea0ca80b24b96fcdc0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1475.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:12.534-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1475/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 10 Sayfa: 3102",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6e5704f61691a86094b560a40046bd053c356e88eef02a571fcf01d162add4ad"}
+  {:article/id "law/1475/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "d4d1b88a5e73416c72f7297d09021adb835e3a182f34ca0e8d1755afc782a4ca"}
+  {:article/id "law/1475/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "ec3104be8793d88218713b669a5ce6d1ed13f68a49a56f5d6cd7ff359697af76"}
+  {:article/id "law/1475/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "d3aee32e71631ba0d464aed9a6f63e9ca0ca36b73bbdf6b95ab55871685d18ad"}
+  {:article/id "law/1475/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b1bf27d46a1ae6291d22d7024b0fae407923686c48bc2fa5c55ca591d474be12"}
+  {:article/id "law/1475/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title "Ek Geçici Madde 1-(Mülga: 22/5/2003/4857/120 md.)",
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "c7e4a102017b5a30c8f63d1297f5a378f163235608af1a0b71e9cf2847c62f87"}]}

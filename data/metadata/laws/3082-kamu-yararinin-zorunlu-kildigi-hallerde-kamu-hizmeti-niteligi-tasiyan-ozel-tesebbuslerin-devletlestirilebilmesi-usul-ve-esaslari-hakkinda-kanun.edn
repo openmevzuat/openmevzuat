@@ -1,0 +1,125 @@
+{:document/id "law/3082",
+ :document/type :law,
+ :document/number "3082",
+ :document/title
+ "KAMU YARARININ ZORUNLU KILDIĞI HALLERDE, KAMU HİZMETİ NİTELİĞİ TAŞIYAN ÖZEL TEŞEBBÜSLERİN DEVLETLEŞTİRİLEBİLMESİ USUL VE ESASLARI HAKKINDA KANUN",
+ :document/slug
+ "3082-kamu-yararinin-zorunlu-kildigi-hallerde-kamu-hizmeti-niteligi-tasiyan-ozel-tesebbuslerin-devletlestirilebilmesi-usul-ve-esaslari-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3082-kamu-yararinin-zorunlu-kildigi-hallerde-kamu-hizmeti-niteligi-tasiyan-ozel-tesebbuslerin-devletlestirilebilmesi-usul-ve-esaslari-hakkinda-kanun",
+ :document/sha256
+ "c4e98dfc5063d9cf59fcd42e5968b50f5c39cfba8d54f06e7f8b0598de266802",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3082.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:29.657-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3082/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4df4c380ed2a88df9e352db20c8fef3ea6d146491a97bb863a930e1b1d32533b"}
+  {:article/id "law/3082/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Devletleştirme şartları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7a83e4a12410dae73db5a688e691a532765e9d9260c42d0cd6ac9d22e61e1948"}
+  {:article/id "law/3082/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "56f2642d889556265eb0473385afb4df0f787761a728283ea946e92d7b3860f5"}
+  {:article/id "law/3082/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Devletleştirme karşılığı",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "35f731a78a360a16792b17b2c7edd6dea00ba9ce46413e552bac01e9c1331ad2"}
+  {:article/id "law/3082/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Değer Tespit ve Takdir Komisyonu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "03d5c629d7958213d381bb5e45434eef50e1ed52ec0f7bcfa67694b766a4b0f1"}
+  {:article/id "law/3082/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Değer tespit ve takdiri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "5703bd3486207f55431cfc6589ba0bba74064b318fc43d9668a0e6eea2953f69"}
+  {:article/id "law/3082/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Özel teşebbüste çalışanların durumu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d0e42e92f7ea333c77c6c5bb539dfd22f7ef5c2e4543e5e24b89c126c93a31eb"}
+  {:article/id "law/3082/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ödeme ve tebligat",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "cdef7d637bc6250e67d451cb8e924aed8cd790e33980f209b49243a74558ff88"}
+  {:article/id "law/3082/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Dava hakkı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "907f89d30c34e91526c0d5d6b1e6bc7b2a19a94b4263cf12def9d3f7dce6e8d9"}
+  {:article/id "law/3082/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yasak işler ve eylemler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "38597345b2140b78035e8c38dd60a887b2b553884b20973a587ec70b9dbedf5d"}
+  {:article/id "law/3082/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Geçersiz tasarruflar",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "8a53f2578da7b8ee2ef7c2f21aef2dba41626094a78701490cd8087346d8f88b"}
+  {:article/id "law/3082/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Görevli kişilerin suçları ve cezalar",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "373fb1668cd0b7e79e482e9ccb7fb6e77e4d5085f9494c8f2f69b4ab35139fb1"}
+  {:article/id "law/3082/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "cf07c2abbf1c72ee12aa1e75885d685363d2578e81c13b4f9615bf584c882937"}
+  {:article/id "law/3082/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "cf16d2889f86c1d52270c86f239620e1c721cbf1b025be67c591611d64831c6a"}
+  {:article/id "law/3082/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "14a63230720f114a930e6291fbda2a0116af3f46d1208009f87fdd693f5c274c"}]}

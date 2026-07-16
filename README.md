@@ -136,9 +136,9 @@ The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZ
 
 `update-configured` fetches configured official sources from `resources/documents.edn`, normalizes text, parses articles, renders canonical files, writes EDN metadata, and regenerates derived outputs. `build` is an alias for this configured rebuild path.
 
-`update-laws` incrementally fetches and renders only the requested law numbers or document IDs, then merges those rows into the search index. For example, `update-laws 2918` updates `law/2918`; tertip collision IDs from the catalog can be addressed as `update-laws t5-3201` or `update-laws law/t5-3201`.
+`update-laws` incrementally fetches and renders only the requested law numbers or document IDs, then merges those rows into the search index and writes a selected-update manifest under `data/manifests/selected/`. For example, `update-laws 2918` updates `law/2918`; tertip collision IDs from the catalog can be addressed as `update-laws t5-3201` or `update-laws law/t5-3201`.
 
-`update-all-laws` is the intentional full catalog rebuild path. It uses the synced catalog laws plus configured non-law documents, and should be reserved for explicit full corpus refreshes.
+`update-all-laws` is the intentional full catalog rebuild path. It uses the synced catalog laws plus configured non-law documents, processes and writes one document at a time, and logs progress for each document. Reserve it for explicit full corpus refreshes or first-time backfills.
 
 Temporary fixture mode is available for parser and pipeline development:
 

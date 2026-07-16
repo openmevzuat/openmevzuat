@@ -1,0 +1,77 @@
+{:document/id "law/1481",
+ :document/type :law,
+ :document/number "1481",
+ :document/title
+ "ASAYİŞE MÜESSİR BAZI FİİLLERİN ÖNLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "1481-asayise-muessir-bazi-fiillerin-onlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/1481-asayise-muessir-bazi-fiillerin-onlenmesi-hakkinda-kanun",
+ :document/sha256
+ "698fb4afcb6ad545577585b644e944c31908dd311f45e37aaabd69f9989bd40b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.1481.pdf",
+ :source/fetched-at #inst "2026-07-16T02:15:19.730-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/1481/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 10 Sayfa : 3344",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b841b6bcfde13e37f195427465334aa3a266710884447218e9f73c7d172f54cd"}
+  {:article/id "law/1481/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "cdfcac17e8d89678e5b0a9e168ef13d2f8fb9d433688589311bc84771329c2ec"}
+  {:article/id "law/1481/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d80f497b8d0a17dec2c92074bf1a8737b102bacbb8113d523179ab1a4272005f"}
+  {:article/id "law/1481/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c7d9e7c18ee5b8245f6a2d05341a69fa92293ddb4d7a64afbc6c624509bf235a"}
+  {:article/id "law/1481/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f78436c84de1e84717eab02aad81cfcce547652056501e9042167b1dc86ac260"}
+  {:article/id "law/1481/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "5c0a8a1e7e252ed22dfc3137fe64038e384d8ca36273e045c2ea9ff5cbd7caf6"}
+  {:article/id "law/1481/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b8ccc13d5cf16456ae6cc1696bc508bc4449ab558c030577d96bc6645df71805"}
+  {:article/id "law/1481/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f88e4d1e15d3912eb198548f602e8bca98163c188ba4f6711107531fcbc50f25"}]}

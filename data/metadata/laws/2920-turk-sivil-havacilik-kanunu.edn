@@ -1,0 +1,1105 @@
+{:document/id "law/2920",
+ :document/type :law,
+ :document/number "2920",
+ :document/title "TÜRK SİVİL HAVACILIK KANUNU",
+ :document/slug "2920-turk-sivil-havacilik-kanunu",
+ :document/path "data/canonical/laws/2920-turk-sivil-havacilik-kanunu",
+ :document/sha256
+ "e80f42c817b780fc4fc21373b234f16275891e4f75ffbed7cfdd9b8f0d15b1aa",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2920.pdf",
+ :source/fetched-at #inst "2026-07-16T02:21:15.406-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2920/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b83cc2803b4f2b5a9921f06cf2ca27d5347fa7326b06614f5784f8c42e48c4b4"}
+  {:article/id "law/2920/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ece77ba6c817fcaf741f3c897523565b8efd28eb99985e2d7de5b607712f8fc9"}
+  {:article/id "law/2920/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "53fb5969971412b769bb5e65ad5b671c97535949df56fb76ee212b0e31500bef"}
+  {:article/id "law/2920/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "790ea0e2a2a2f613e949cb7a91f5399939155bf53192a7284b9d9b224ea00023"}
+  {:article/id "law/2920/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Türk hava sahasının kullanılması",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4e363d756230f46c91da1b37e39f16ca0990a7577b1a2c42ac53f97e448591c0"}
+  {:article/id "law/2920/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Türk hava sahasından yararlanacak hava araçları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f0a15e69406d4f1f978986dc406b65c86e2d9e33af401290eb2cd43c29934404"}
+  {:article/id "law/2920/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "175e46a1c259713234fd492edd0093235b2e0d17440482bebd6f94ee2357b264"}
+  {:article/id "law/2920/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Hava yolları ve havaalanlarına ait sınırlamalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "f09403744a9688dd870177aef5d5bff410210f0a01863f078939d134b61a4684"}
+  {:article/id "law/2920/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Gümrüklü havaalanlarının kullanımı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b96850560d70325d3f40006854463cab43bae2fa18de07d5a0247adc8dd4fab9"}
+  {:article/id "law/2920/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "bc9ab7ca9d4b5c7c60dac3c68e614dbb0e8dced0cfacd24fff75b1cc3202f63b"}
+  {:article/id "law/2920/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "İlk tedbirler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "15ace8b3173986192bf1e715ebc2ff6c08fd76226743913c58ca64f3b5212e08"}
+  {:article/id "law/2920/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Kaza nedenleri hakkında araştırma ve inceleme yapılması4",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7b80ed5cb44bfcff5ba5716de260daaf7d4744f0816f85f8bfff18b6feccb2c0"}
+  {:article/id "law/2920/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Araştırma ve İnceleme Kurulu5",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "97894f98f19accce96ed31b26bc346f49afe10d97c4760333372b6af85a95c68"}
+  {:article/id "law/2920/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Araştırma ve inceleme raporu6",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "addfabdf70948475db37b37edb28bcec2636ebae5b1b716d5a4aafca4801031e"}
+  {:article/id "law/2920/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Kıyasen uygulama",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4103c8ad369aa1ed27f8c012f92116dac0e0c788c8d4a541be455ea61a7afcc7"}
+  {:article/id "law/2920/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Enkaz",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "0c89e265a316d631df88b5c2c96a54f6ce83da2be40623f90f91ff156765fa34"}
+  {:article/id "law/2920/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kaybolma",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "88474dccecb4e5740ba5d6927e7aca68d3909f7b31bfa6a5583ad0f8b8392ca5"}
+  {:article/id "law/2920/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "ab9a5c1cbeadfe086fa5e2d966402205e81584aabe497b4571d168bcb63c0ef0"}
+  {:article/id "law/2920/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "İşletme ruhsatı",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "07d364e36bcee6b3c09514bf180ff5405439700b683d76a26662c5bf2a46df19"}
+  {:article/id "law/2920/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Başvuru ve belgeler",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "e34527ade3bf890027c80215ece53e9e46353a18883e0f1fbb431a8ace8e7ade"}
+  {:article/id "law/2920/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "İnceleme",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "7f5f7f1bb6b0185b51358197c4c1452dc3d7f86b483b2d9e1af42fe66c39f371"}
+  {:article/id "law/2920/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Ruhsatın verilmesi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "b084880ff9c5527a40de75dcad72763a09dae9865c667d7fc63f2bf80d68fe40"}
+  {:article/id "law/2920/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Ruhsatın asılması",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "988f315f7ff77c322ae317476922ec4d124909ceff4b5d07f250ca41ad0669da"}
+  {:article/id "law/2920/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Ruhsata uyma zorunluluğu",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "7f1678019f3c2a9ec19206dea367b90ae0dce1b9a44ec2826d13dbfdd9d9f22c"}
+  {:article/id "law/2920/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Tarifeler",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "18240545e85c2747bc6f505afc5b474de31e4fbfcc088eceaa7141f81fd29ba3"}
+  {:article/id "law/2920/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Posta taşıması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "4b14c0c25e7a358be5b888ecd7ab80fdbb984a83ceb9fee579d523b345cbe55e"}
+  {:article/id "law/2920/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title
+   "Denetleme ve erişim (Başlığı ile Birlikte Değişik: 4/7/2024-7519/11 md.)",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "32ee1bf5b57002d6f9bc389262b68969427a742be23a8833b594016eaa2546bb"}
+  {:article/id "law/2920/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Bilgi ve belge verilmesi",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "a669b9e4b37e1d97adbb5d99293e81a9e02ca1e672f1a1ce868da922baded5a1"}
+  {:article/id "law/2920/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Değişikliklerin bildirilmesi ve tasdiki",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "c9b2256436d702661ebfe193155b56f25ba9ea6012aa825e4b4dbe77900ee603"}
+  {:article/id "law/2920/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Ruhsatın iptali",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "2c572ce691b70e90cdcf76463c761a8371e6887d8030bd93b08f178c2724c515"}
+  {:article/id "law/2920/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Kabotaj",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "814a2051422d2378bddbd5866a2537928d08559f4541985328a3a70d45af6b15"}
+  {:article/id "law/2920/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Gösteriler",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "411aeb1ec47e48ea5252697964b9d983c7263374f4f9bf514780bfdb5d82af8f"}
+  {:article/id "law/2920/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yabancı havayolu işletmeleri",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "59b06adac4fb049f39f85623d35692e9c38057a5cbe876872fd98edd7cb1648d"}
+  {:article/id "law/2920/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "9a146171e7ad93aab54a056a6c77da2eff848d9707b48a158650640b1fbeb282"}
+  {:article/id "law/2920/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Uluslararası hava trafiğine açık havaalanı",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "b4c0e79066045424d6503a5226f89a3ca0063c2971d8647ce3b278aaa5fa1740"}
+  {:article/id "law/2920/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "e29aaf74e0af84c6e7fc377bc9cdc553abcb8a813412b90ae09974c26f6409da"}
+  {:article/id "law/2920/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Ücret tarifeleri",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "fcdb025368c4a080896aa40227c888fcd4ca97ae25e6edb586c862e21c5069a2"}
+  {:article/id "law/2920/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Havaalanı yöneticisi",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "8d1fd530b58a04e3cba94d648430538954fe094f6a01819b24426893d9c6bf6f"}
+  {:article/id "law/2920/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Askeri havaalanlarından yararlanma",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "b8360c32113db90c01f89f9b5d621edba0cc8d633fd00936b5c3ea7a70383196"}
+  {:article/id "law/2920/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title
+   "Milli Sivil Havacılık Güvenlik Kurulu ve havacılık güvenliği11",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "00ee199db86d9ff0f0e5d748b73a758d86cafe83fb61c1c81d305910bf045137"}
+  {:article/id "law/2920/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Uçuş güvenliği",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "0b1bf0c4ed583c0eb67a2a2346f896a666c256d9ce3b590c2e16f408eff840e3"}
+  {:article/id "law/2920/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Kurtarma ve yardım",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "e583a6c8eb1e7e97cb1b1cb0de9ff632ba74ac990d9ed63e5cfadd37cf5e6bf5"}
+  {:article/id "law/2920/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Hizmetler",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "7a91bd07b5dc61fd21f560b47b353cc735ecc3eb2cf688dc87e565bda072f25b"}
+  {:article/id "law/2920/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Yer hizmetleri",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "b0f033fc17ac9f2d6cdeb9646b2f98b2d9487b96792e9e16305f45e59441cb54"}
+  {:article/id "law/2920/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Uçuş ve haberleşme hizmetleri",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "5d8e08b23de08515ccc9a638387dfab6ebec7f3cc64204aea01d984903dad3e0"}
+  {:article/id "law/2920/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Türk hava sahasında gerekli tedbirlerin alınması",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "9cd41260fe28459de2cb1fd0259d3aff1834fab80bb2311caecd445ca1bc8f4d"}
+  {:article/id "law/2920/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title
+   "Havaalanları ve çevresinde yapılaşma sınırlamaları1213",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "2371784ee73cf168cc5f8c10406589c5568efc045a849cf0cf6b11bb285af4ec"}
+  {:article/id "law/2920/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "3ca9142ed5dfd83893d70f31806a5181f05491be7106b8017b0e2d22a0632804"}
+  {:article/id "law/2920/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "6802c8fc4bbf8493d47d6807f25609773fdc5e421dc3c816b534a0cd03d6f78c"}
+  {:article/id "law/2920/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Hava araçlarının sicilinin tutulması",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "0ff92a33818b51dbb97ac9bc491d4ca038aae882aeccc530a5e767ade91898a3"}
+  {:article/id "law/2920/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Sicilin aleniyeti",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "e048002f90c79cdec3e80e296d751abeccca0f89aa8af0ac7f46b68524660408"}
+  {:article/id "law/2920/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Sicil kayıtlarının geçerliliği",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "91ea83807100becb26a5a2ae99b8461a7c1f1775bb82bb0206199d9896c63cf1"}
+  {:article/id "law/2920/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Sicil kayıtlarına itiraz",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "837e4e236752ede05d248d65b50d0701eb0a64f37effa1168fdab31d2ba2ce78"}
+  {:article/id "law/2920/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Türk sivil hava araçlarının tescili",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "0a029311a10880d70f825b1d4bdb144cc1b6d7c4544432207fd33eff2de8eacd"}
+  {:article/id "law/2920/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Geçici tescil",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "1441bfc6b89e528bd85046a8c86a8dc0aa2816a109310a62590c7bc4b62c46f9"}
+  {:article/id "law/2920/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Tescil talebi ve şekli",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "4db66bd74ba80ed6e39457c761130e190519700cd1c7cce0d2cdb4a241558b39"}
+  {:article/id "law/2920/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Sicilin muhtevası",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "dd3927e546fa001f0b0d3d32fbd60c023818574df346f9987acd546c17713d5a"}
+  {:article/id "law/2920/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Tescilin ortak hükümleri",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "efa1fcc0aaa1ac64ab091ae47e7c2ee85140ffff48a25a2d116142fa469a3911"}
+  {:article/id "law/2920/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "İstisna",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "141393c2c164d18f7eabd8154ecaf363d264d5ddab3974f7835c7bdbc7cd05eb"}
+  {:article/id "law/2920/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Tescilin genel şartları",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "2381c60093c837a6d3ffc0e9e7f3c26270cbf27a18b0746fe943ee7a7b970855"}
+  {:article/id "law/2920/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Re'sen terkin",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "5e4b2988f390a49fc0613bc25e61a9ddc669dfb424535139ef54a5a41f9b714e"}
+  {:article/id "law/2920/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Talep üzerine terkin",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "b050d91b2e1b59c3adb1f358aad1942362e79863352abfa84f0d2f528de5899a"}
+  {:article/id "law/2920/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title
+   "Sicil kaydının terkini ve ipotek hakkının korunması",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "c4d869a9559b49cbff052d7e0ec066ab80dba09ea5e551785b55a2d6054c9611"}
+  {:article/id "law/2920/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Yönetmelik14",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "48c96102313b5dc13c8ea29c61d62ab465455783a71138a8355554d6bd3897b3"}
+  {:article/id "law/2920/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Hava araçlarının hukuki niteliği",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "93298128c6f0312d8cbc6222204c8458e04a78a14c6b6253cbadd7c0bde8a48e"}
+  {:article/id "law/2920/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Mülkiyet ve diğer ayni hakların tesisi",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "7209e0985f5fcca2528c1135dcedebc18c0d8d16fe66852e4ff90adb8458fdb0"}
+  {:article/id "law/2920/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title
+   "Tescile tabi olmayan hava aracı mülkiyetinin iktisabı",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "7eb4d19a0be27ee8e528fc311a54baeedacf6000ad9d7c130d93d097ed8223cb"}
+  {:article/id "law/2920/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "Teferruat ve mütemmim cüzüler",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "dca2f6c6936b8c470f09d601455e52e95dc0eb682f4fc53e83215ad9a8d25b9c"}
+  {:article/id "law/2920/article/68/A",
+   :article/type :normal,
+   :article/no "68/A",
+   :article/title "Öncelikle uygulanacak hüküm",
+   :article/path "articles/madde-068-a.md",
+   :article/sha256
+   "6b4b3198b08ac6d216691d77e89194a49c1a829867fc59c033ecc0f6095b33c0"}
+  {:article/id "law/2920/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Hava aracı ipoteği",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "a97d8944ea896139451eb79f0d53a73ea7856548cc9da2599e0c0cd0fdb2d295"}
+  {:article/id "law/2920/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Akdi ipotek",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "da04e5bafcb300ac5204169b80722ef964eed94bc96c8c189dd920e9844b352c"}
+  {:article/id "law/2920/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Kanuni ipotek",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "ace2bc880e033fc5c21291dd053052c62faa3ef603b7e488a9720548eff3c735"}
+  {:article/id "law/2920/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Birlikte ipotek",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "e38af87a35947f3459d9f756947bf7e584e0ca4ce43aba253ad0dde50dbb6926"}
+  {:article/id "law/2920/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title "Yabancı para esasına göre ipotek",
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "e12a643e8e9b64548f1ddf30e2db0005a8ad9abbca8b9f3eb0f58e3b9fdaded2"}
+  {:article/id "law/2920/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "İpotek tescilin içeriği",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "457382f8cd73c7ff5fc15a7d4d3cf9750c0db2f145422836e49be989f2436ba7"}
+  {:article/id "law/2920/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "Sağlanan alacak",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "697dbd3154da238f8e8b5159a62fb85c303ffdd48f3d250f636a94d0e3eb073d"}
+  {:article/id "law/2920/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "İpoteğin kapsamı",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "30893815c28a46c8f2ae2391aa11e38e4c582a0db4288553d803010dbc168e1a"}
+  {:article/id "law/2920/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title "Sigorta",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "bf598cb903c65b10e9b879b6820d734d8576c9a2436013ab9ade925ed447f835"}
+  {:article/id "law/2920/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "Sigorta bedeli",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "4c189772e371f9a73fec910f4b83163995109f9904902efe60eb2eb1b3b2ebd2"}
+  {:article/id "law/2920/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "Sigortacının halefiyeti",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "840b79ee58b0a4691282074d6aaa3a7eceded2f637d29de6469c2924edec4571"}
+  {:article/id "law/2920/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "Malikin defi hakkı",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "99e48060db093a0f6d65d2017fab1ac570a5e99c8665a889af73a63640e453d0"}
+  {:article/id "law/2920/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title "Ödeme hakkı",
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "e247bf94357600e5bba3e1042c4c6188cbd68ca30334c65dcedafe8769fef810"}
+  {:article/id "law/2920/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title "Halefiyet",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "a79f7a3287ea283da9b7679b1c6224dc0ffb103aafb42f2b3de9810edd95f2ae"}
+  {:article/id "law/2920/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title "İpotek alacağının tahsili",
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "57f2e532ddba10c20d60151ab5c8fbf690e7ef923d844703b13c044720527927"}
+  {:article/id "law/2920/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title "İpoteğin devri ve düşmesi",
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "433c0c8ab6afd592964c8e0f57716f6811d7c28e06ff9d169c1d10c685880223"}
+  {:article/id "law/2920/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title nil,
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "170616fff3051e2840aa8839ff1ff356014bd6e13897a9252505add4c11fd6fa"}
+  {:article/id "law/2920/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title "Uçuşa elverişlilik belgesi",
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "563efcc15d6d7f52310b39ba4a3dec6e358fac0ef4044768f7592a6133e5e771"}
+  {:article/id "law/2920/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title "İstisnai durumlar",
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "49a0926a9ab7e9166a23fad978da98772d1376053cec3523c4776bc7e8f7fef4"}
+  {:article/id "law/2920/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title "Kıyasen uygulama",
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "9981776046aeb3edea15e74f9518f1b5afd570fd33ca31f3f01cf436754e7524"}
+  {:article/id "law/2920/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title "Hava aracı belgeleri",
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "951baf2e369df1a3b7f75cc11580e09d686ecc734d3f550a3baec796803b58a2"}
+  {:article/id "law/2920/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title nil,
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "69ded896b3088e223666f6b50aa94875fb5a0082de2f5550b22ee8ac6a5e500c"}
+  {:article/id "law/2920/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title "Kalkış ve iniş",
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "06ef429f741540c5b9f991693de697910d3183e1cf935d8b33bc1b005da50f50"}
+  {:article/id "law/2920/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title "Havayolu",
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "1aeef0254f00aaf1646a315007f5d623f111278d3701d5fc51c91790492024ce"}
+  {:article/id "law/2920/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title "Yasaklar",
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "b61692a4b1d9fbeb27565af39ac6a9940ce049596ed9f3ebd33d532f0b8a3253"}
+  {:article/id "law/2920/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title "İnme mecburiyeti",
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "f80fc75f090b6f29553cac9f2f4ff613a6b488c06626011868945bd64ec9dfed"}
+  {:article/id "law/2920/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title nil,
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "60f0e286de99be735555eaf36caa7f74ba1158d36e48e1426b1eaac4fcbdb6b8"}
+  {:article/id "law/2920/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title
+   "Yabancı devletler tarafından verilmiş yeterlik belgeleri",
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "4965893247522037ecedcb997b965630513ea25a06c4647e12422618978da61f"}
+  {:article/id "law/2920/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title "Yeterlik belgesinin iptali ve geri alınması",
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "4c90b4d35283c8da6dd6427065fbe68b4decec15ddb23ffa26acb15ef744488f"}
+  {:article/id "law/2920/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title "İdari önlem",
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "eb0fb257e10a597a22d0e8d73c6cb30fcda9657a953b82f69f0b1c06b00032d2"}
+  {:article/id "law/2920/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title "Eğitim ve öğretim",
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "0f9d60e337b6cbe5fc2c56bf1c5b0af2c88cb5030e694a40e7342dd97fc41319"}
+  {:article/id "law/2920/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title "Kaptan pilotun genel yetki ve sorumlulukları",
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "d488ed47a26f04245336224990422aa3104a86427a276b6fd6750f88501eadbf"}
+  {:article/id "law/2920/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title "Kaptan pilotun idari yetki ve sorumlulukları",
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "f3e928c4a61ef7a8ddad54bf2cc334663114b0d0a8fd903eff1a8ebe6d893d43"}
+  {:article/id "law/2920/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title nil,
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "93ce998d894406c30972667d637dc0a594ac03c44ca39c5f1c6cb7a15af5925b"}
+  {:article/id "law/2920/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title "Özel düzenlemeler",
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "c255d43170a63cf9c73db24ae98d23fb6851c0763e91a26ae55f58fc0aa8d211"}
+  {:article/id "law/2920/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title "Yolcuların yükümlülükleri",
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "4e03a0f3922423084d6c03df1672528fd33eb0d02be7a77b58a636a005cb67fe"}
+  {:article/id "law/2920/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title "Uluslararası sözleşme hükümleri",
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "4cd36dd1c17d91b6e182664c01e704e745d5087bb3395c1d1690fd9898c39e5a"}
+  {:article/id "law/2920/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title nil,
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "5ffcc7b524ccc89c10b159bf2d5265810a9276860533dd603b1277933f26277e"}
+  {:article/id "law/2920/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title "Yolcu taşıma sözleşmesi - bilet",
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "63100b6d29950f25c2e115a915ddc9dc504056e23c765a59ba16084b08bc2a6f"}
+  {:article/id "law/2920/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title "Bagaj ve kişisel eşya",
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "92b617297a26a3bcc816c3279b58be301631d97bd68239604cc88b084234f299"}
+  {:article/id "law/2920/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title "Bagaj kuponu",
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "b70ed43617207748723cc3cea17af9fddc96d5ac4b2bffb85a57ae35694fa57b"}
+  {:article/id "law/2920/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title "Yük taşıma sözleşmesi - hava yük senedi",
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "46b3c2e60e8589237b28caa1383ae0973ad003370c42292873b8ecd90a97d565"}
+  {:article/id "law/2920/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title "Yükletenin beyanları",
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "6bfb1482d4f06055fd720d1e66e3c2593e4a92eba48868003594789b448272b6"}
+  {:article/id "law/2920/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title "Yük senedinin ispat kuvveti",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "ff7bfc5c88597cfb00ff9a60f34b91ea1d636000d81deb32fd671bbf50814e86"}
+  {:article/id "law/2920/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title "Yükletenin tasarruf yetkisi",
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "a4a7ff85ae69f79f6e071a6d1f6a1184ae260fd82aa5a5696b5efe8c5cde5e1d"}
+  {:article/id "law/2920/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title "Gönderilenin hakları",
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "056dec96ef26b0dd9a9edba3f4eeace728e11292d6bd305055b690fca40cce3c"}
+  {:article/id "law/2920/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title "Hakların kullanılması",
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "54fd80da096b0d0e00d0f06793c0e6a985171b74c6e65ee2d1979c8803c89be0"}
+  {:article/id "law/2920/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title "Yükleten ile gönderilenin ilişkileri",
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "2d416988e9a512a1d378cf1a3d917cef1a9acaaccc15defa24cba2dc22de42c8"}
+  {:article/id "law/2920/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title "Ücretsiz taşımalar",
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "64ebe7fda71f0e34c0a38f2a5d10501a257a0e15b60a75df4d8a2fb6f3af0398"}
+  {:article/id "law/2920/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title nil,
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "25aa37401fcef4e250144e3108cd94719c2290bfc4f3c0538837f04e5fd1004a"}
+  {:article/id "law/2920/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title "Yazılı şekil",
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "828c428f84a8c9003a0e3e40f0dfb74f80ada06a68401788930edc7444623189"}
+  {:article/id "law/2920/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title nil,
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "17a88e463458101675416e43b8811d337c2d4ce21c5454cc7f960177947afe0f"}
+  {:article/id "law/2920/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title "Bagaj veya yükün uğradığı zarar",
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "b808e8135168dfb46b451ffa36f4db8fa30a8a5813d16788950a7dc01cb0de3d"}
+  {:article/id "law/2920/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title "Gecikmeden doğan zarar",
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "7f67d6a1d50e5829bd3ed8bc42c2756106fcd0559bfb024125ce8265de4d3875"}
+  {:article/id "law/2920/article/123",
+   :article/type :normal,
+   :article/no "123",
+   :article/title "Taşıyıcının sorumluluktan kurtulması",
+   :article/path "articles/madde-123.md",
+   :article/sha256
+   "3f59f91141c936a4a227cfe1f6c65a6dffc92c18192a6ba5fa3ffc92d7be4b7a"}
+  {:article/id "law/2920/article/124",
+   :article/type :normal,
+   :article/no "124",
+   :article/title "Sorumluluğun sınırlandırılması",
+   :article/path "articles/madde-124.md",
+   :article/sha256
+   "38434febe38732f89875a75644c3a2a0d7c8f5c8dd34749a6e6bd59e27119ffa"}
+  {:article/id "law/2920/article/125",
+   :article/type :normal,
+   :article/no "125",
+   :article/title nil,
+   :article/path "articles/madde-125.md",
+   :article/sha256
+   "744ab4b56c1f330d476dd612bdd9919fb7d921cd35a96cf5508ce82ab220eaec"}
+  {:article/id "law/2920/article/126",
+   :article/type :normal,
+   :article/no "126",
+   :article/title "Sınırsız sorumluluk",
+   :article/path "articles/madde-126.md",
+   :article/sha256
+   "15ce7b1ebf931cedb7a074c0a0b1a24d06d96092e733120cd7b44b760de52161"}
+  {:article/id "law/2920/article/127",
+   :article/type :normal,
+   :article/no "127",
+   :article/title "Taşıyıcının adamları",
+   :article/path "articles/madde-127.md",
+   :article/sha256
+   "92844acf188d1226c3e26b4cafb9f2020ffbd764065c10b2e917bb5433fa8b9c"}
+  {:article/id "law/2920/article/128",
+   :article/type :normal,
+   :article/no "128",
+   :article/title "Hasarın ihbarı",
+   :article/path "articles/madde-128.md",
+   :article/sha256
+   "293ad7b27d5e23b5d54c494c27f784b0e793b099bc9b0a09276b926ec2f9a51a"}
+  {:article/id "law/2920/article/129",
+   :article/type :normal,
+   :article/no "129",
+   :article/title nil,
+   :article/path "articles/madde-129.md",
+   :article/sha256
+   "4a34a5ee85f2401979efa04b581b5eae3aa881ce1567c3767ed1cc7cddbe41fc"}
+  {:article/id "law/2920/article/130",
+   :article/type :normal,
+   :article/no "130",
+   :article/title "Karma taşımalar",
+   :article/path "articles/madde-130.md",
+   :article/sha256
+   "15f17c868c8abb8f82b2dcd50bf828944624c5a4145adaebbe6f3973e74c176f"}
+  {:article/id "law/2920/article/131",
+   :article/type :normal,
+   :article/no "131",
+   :article/title "Dava açma süresi",
+   :article/path "articles/madde-131.md",
+   :article/sha256
+   "a179e9b4d34374e894368bd4ce8a0b2cf3654ce4023832b304fdea1f4ee0b8d2"}
+  {:article/id "law/2920/article/132",
+   :article/type :normal,
+   :article/no "132",
+   :article/title "Sigorta yükümlülüğü",
+   :article/path "articles/madde-132.md",
+   :article/sha256
+   "9e342e315684a4994da525184ef9434ca17c94c41a2a6f4d3666cc2e73c2dc42"}
+  {:article/id "law/2920/article/133",
+   :article/type :normal,
+   :article/no "133",
+   :article/title nil,
+   :article/path "articles/madde-133.md",
+   :article/sha256
+   "0d992135b88ed164b0edaa650a637fe1ec653aee7267b0886fbae1f07e9ab251"}
+  {:article/id "law/2920/article/134",
+   :article/type :normal,
+   :article/no "134",
+   :article/title "İşletenin sorumluluğu",
+   :article/path "articles/madde-134.md",
+   :article/sha256
+   "c44e553e7c619174bb6e878399a7bfedaeda6531729731a76d5f2cd344affb47"}
+  {:article/id "law/2920/article/135",
+   :article/type :normal,
+   :article/no "135",
+   :article/title "İşletenin rızası olmaksızın kullanma",
+   :article/path "articles/madde-135.md",
+   :article/sha256
+   "885a05cfee3c6ee13c3a6dbdcafeec664973f4903751558d3b5d39b9faa2b79d"}
+  {:article/id "law/2920/article/136",
+   :article/type :normal,
+   :article/no "136",
+   :article/title "Müteselsil sorumluluk",
+   :article/path "articles/madde-136.md",
+   :article/sha256
+   "72378bae09f4b639a7922d9b13d790ab4dcc55bcb6c92adc963b4225bf063cc5"}
+  {:article/id "law/2920/article/137",
+   :article/type :normal,
+   :article/no "137",
+   :article/title "Müterafık kusur",
+   :article/path "articles/madde-137.md",
+   :article/sha256
+   "f77487cf549d57b39f3adce4e00f92aa2c1c22b279225ed34d88a0686d37a2f2"}
+  {:article/id "law/2920/article/138",
+   :article/type :normal,
+   :article/no "138",
+   :article/title
+   "Üçüncü şahıslara verilecek zarara karşı sigorta yükümlülüğü",
+   :article/path "articles/madde-138.md",
+   :article/sha256
+   "8d0f0b482b95aa71e4f29f980137bc4417943a5fe32017e2d6a36f378daecfa7"}
+  {:article/id "law/2920/article/139",
+   :article/type :normal,
+   :article/no "139",
+   :article/title "Ek sigorta yükümlülüğü",
+   :article/path "articles/madde-139.md",
+   :article/sha256
+   "409363ade8b85d6ecf4758c22417fed5ea15ee72eb64ba3c49602a179b478022"}
+  {:article/id "law/2920/article/140",
+   :article/type :normal,
+   :article/no "140",
+   :article/title
+   "Üçüncü şahıslara verilecek zarara karşı sigorta şartlarının tespiti",
+   :article/path "articles/madde-140.md",
+   :article/sha256
+   "3134f56b42c54e46c8aab892a461df04074b67230d14b3bd1da9f611d90d171f"}
+  {:article/id "law/2920/article/141",
+   :article/type :normal,
+   :article/no "141",
+   :article/title nil,
+   :article/path "articles/madde-141.md",
+   :article/sha256
+   "28389db4592ed515f8639badfcdfa3645eedf90e8e32fbc8b1f287193cfb5065"}
+  {:article/id "law/2920/article/142",
+   :article/type :normal,
+   :article/no "142",
+   :article/title nil,
+   :article/path "articles/madde-142.md",
+   :article/sha256
+   "14513ec3ae8900ba7259143f9a39e4a26dda7e7a90f5752ed5b0131e1087a3f6"}
+  {:article/id "law/2920/article/143",
+   :article/type :normal,
+   :article/no "143",
+   :article/title "Kabahat oluşturan davranışlar202122",
+   :article/path "articles/madde-143.md",
+   :article/sha256
+   "bfc43d1e2c4cb184eed47333e974be66141477cb570cdb36d791a95d3f97348d"}
+  {:article/id "law/2920/article/144",
+   :article/type :normal,
+   :article/no "144",
+   :article/title "İnsansız hava araçları242526",
+   :article/path "articles/madde-144.md",
+   :article/sha256
+   "75b11fb5c9c3338f4465aff55c9499f706b6282f631fb8ca4292703c64cf6cdc"}
+  {:article/id "law/2920/article/145",
+   :article/type :normal,
+   :article/no "145",
+   :article/title
+   "Ulaştırma Bakanlığının alacağı önlemlere uymayanlara verilecek ceza",
+   :article/path "articles/madde-145.md",
+   :article/sha256
+   "e76a66bccd0e9f926d26473229a9b3a88510b17ac32058fe315375450ace48f4"}
+  {:article/id "law/2920/article/146",
+   :article/type :normal,
+   :article/no "146",
+   :article/title nil,
+   :article/path "articles/madde-146.md",
+   :article/sha256
+   "a0829973eb00dbec05ca0118b78f856a67817532d60c63601010c813400ae1b1"}
+  {:article/id "law/2920/article/147",
+   :article/type :normal,
+   :article/no "147",
+   :article/title "İstatistiki bilgiler",
+   :article/path "articles/madde-147.md",
+   :article/sha256
+   "da4286a309a69154f83471ea82ffaf5f88b63f6a0626923ad1edc895183dc492"}
+  {:article/id "law/2920/article/148",
+   :article/type :normal,
+   :article/no "148",
+   :article/title nil,
+   :article/path "articles/madde-148.md",
+   :article/sha256
+   "af7742e02a1a11ca4cc92751c2f798365733c89cc74b20b3721d62c3ddf0f385"}
+  {:article/id "law/2920/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "ee0847b292e939b43e852d9f3b0d209866e268543a905b764d645136b55a6510"}
+  {:article/id "law/2920/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "716cc2046b8a96e4b163340bb69c472a4d3860c8da23a7ebce8dac795d2da6f1"}
+  {:article/id "law/2920/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "20aa87e32ae704c6b9f914a03b09d419ec33e10a5f69c577584826c6e9c90531"}
+  {:article/id "law/2920/article/149",
+   :article/type :normal,
+   :article/no "149",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-149.md",
+   :article/sha256
+   "033ef98218065da95c6bc81badea1cc3488bd076ed3cc1610cf5e9b93a46515b"}
+  {:article/id "law/2920/article/150",
+   :article/type :normal,
+   :article/no "150",
+   :article/title "Yürütme",
+   :article/path "articles/madde-150.md",
+   :article/sha256
+   "8fd8d53ea815ac020b76f81093317b285fbc2e815643ce546b68f065f6821947"}]}

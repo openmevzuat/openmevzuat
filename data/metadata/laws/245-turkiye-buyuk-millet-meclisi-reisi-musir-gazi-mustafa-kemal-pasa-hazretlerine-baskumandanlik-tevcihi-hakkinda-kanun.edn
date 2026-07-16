@@ -1,0 +1,55 @@
+{:document/id "law/245",
+ :document/type :law,
+ :document/number "245",
+ :document/title
+ "TÜRKİYE BÜYÜK MİLLET MECLİSİ REİSİ MÜŞİR GAZİ MUSTAFA KEMAL PAŞA HAZRETLERİNE BAŞKUMANDANLIK TEVCİHİ HAKKINDA KANUN",
+ :document/slug
+ "245-turkiye-buyuk-millet-meclisi-reisi-musir-gazi-mustafa-kemal-pasa-hazretlerine-baskumandanlik-tevcihi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/245-turkiye-buyuk-millet-meclisi-reisi-musir-gazi-mustafa-kemal-pasa-hazretlerine-baskumandanlik-tevcihi-hakkinda-kanun",
+ :document/sha256
+ "1f4e824b0bc540436248446d4476442e2d9b4e71a92880c1a4058579adda63c2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.245.pdf",
+ :source/fetched-at #inst "2026-07-16T02:08:20.318-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/245/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 3 Sayfa: 62",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fcde3aa8771b5647e75628886fde2581c9b351230a27014db3b19cf9949f4715"}
+  {:article/id "law/245/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b201986d4017a44389bfb0acff6781787e6ddd7f8fb3b7c2bb51666f1eea6edd"}
+  {:article/id "law/245/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "218961c0f07cca604799fe53704ae079625e752de2eb9dece436d5fd2b910da5"}
+  {:article/id "law/245/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6b7f4f64a144c054582263ba9ffd1b45090f6fc6077aa08d1c4ab96e9f2f034f"}
+  {:article/id "law/245/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "72065d6270fca8faf14cf13fcc89279ed063f77cf26795e0197b4b1073d5875c"}]}

@@ -1,0 +1,56 @@
+{:document/id "law/261",
+ :document/type :law,
+ :document/number "261",
+ :document/title
+ "İHRACATI GELİŞTİRMEK AMACI İLE VERGİLERLE İLGİLİ OLARAK HÜKÜMETÇE ALINACAK TEDBİRLERE DAİR KANUN",
+ :document/slug
+ "261-ihracati-gelistirmek-amaci-ile-vergilerle-ilgili-olarak-hukumetce-alinacak-tedbirlere-dair-kanun",
+ :document/path
+ "data/canonical/laws/261-ihracati-gelistirmek-amaci-ile-vergilerle-ilgili-olarak-hukumetce-alinacak-tedbirlere-dair-kanun",
+ :document/sha256
+ "3323d6b49492fe7ce2b2715fd3c72f41b13de059639e2b8148a63ef620f98737",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.261.pdf",
+ :source/fetched-at #inst "2026-07-16T02:08:25.084-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/261/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 2 Sayfa: 1588",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8a77427c62f766e2a84009729219abaadb527a6623ceae7f05253baeba657a5b"}
+  {:article/id "law/261/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "56b15052d17248f61fed590c49a7a9455d8fdf29d3f97db4927a7ed9639ac689"}
+  {:article/id "law/261/article/2/A",
+   :article/type :normal,
+   :article/no "2/A",
+   :article/title nil,
+   :article/path "articles/madde-002-a.md",
+   :article/sha256
+   "61bb0d612262796bd0402ee468aa436b7179316a3418a247c34776b6755b0d72"}
+  {:article/id "law/261/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3f4d857d669a181274b78954ea51c9064f97f00e4c0bb862b1f6e1676105e153"}
+  {:article/id "law/261/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2f3ee7f8e0345444a3b3bf77777436b02c489487064017699cc851f82b8750fa"}]}

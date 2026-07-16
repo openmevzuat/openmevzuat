@@ -1,0 +1,21 @@
+# MADDE 135
+
+Taşınmaz alıcıya ihale edilip bedeli alındıktan sonra alıcı namına tescil
+edilmesi için (134) üncü maddede yazılı müddete riayet edilerek tapuya müzekkere yazılır.
+
+54 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “ikinci fıkrada” ibaresi
+“beşinci fıkrada” şeklinde değiştirilmiştir.
+55 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkraya “kararı verir” ibaresinden sonra
+gelmek üzere “ve masrafını gider avansından karşılamak suretiyle dosyayı resen görevli veya yetkili icra
+mahkemesine gönderir” ibaresi eklenmiştir.
+
+56 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkranın ikinci cümlesinde yer alan
+“ihaleden” ibaresi “ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten”
+şeklinde değiştirilmiştir.
+(Değişik 6/6/1985-3222/17 md.) Taşınmaz borçlu tarafından veya hacizden evvelki
+bir tarihte yapıldığı resmi bir belge ile belgelenmiş bir akte dayanmayarak başkaları
+tarafından işgal edilmekte ise onbeş gün içinde tahliyesi için borçluya veya işgal edene bir
+tahliye emri tebliğ edilir. Bu müddet içinde tahliye edilmezse zorla çıkarılıp taşınmaz alıcıya
+teslim olunur. (Ek cümle:24/11/2021-7343/28 md.) Taşınmazın ihale alıcısı adına tescilinden
+sonra henüz tahliye yapılmadan taşınmazı ihale alıcısından satın alan da bu fıkra gereğince
+tahliye isteme hakkına sahiptir.

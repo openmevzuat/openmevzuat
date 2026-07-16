@@ -1,0 +1,188 @@
+{:document/id "law/3096",
+ :document/type :law,
+ :document/number "3096",
+ :document/title
+ "TÜRKİYE ELEKTRİK KURUMU DIŞINDAKİ KURULUŞLARIN ELEKTRİK ÜRETİMİ, İLETİMİ, DAĞITIMI VE TİCARETİ İLE GÖREVLENDİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "3096-turkiye-elektrik-kurumu-disindaki-kuruluslarin-elektrik-uretimi-iletimi-dagitimi-ve-ticareti-ile-gorevlendirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3096-turkiye-elektrik-kurumu-disindaki-kuruluslarin-elektrik-uretimi-iletimi-dagitimi-ve-ticareti-ile-gorevlendirilmesi-hakkinda-kanun",
+ :document/sha256
+ "9ae0b25b2139824f6a6e22ca54a9c8d541b6c5a1dd8fee3addee16bac7f7694c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3096.pdf",
+ :source/fetched-at #inst "2026-07-16T02:22:45.948-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3096/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "16ffd04ec6f3bf8c454b0675f126c065e156fcb4e2b7c23cc2757ec317426952"}
+  {:article/id "law/3096/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "81fdb2681bba925277f7f7fd73fec72f3f2243df26ed226e2136e8ac361a70ea"}
+  {:article/id "law/3096/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Görevin verilmesi:1",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c506d8f6b4d2c694414d06f377848aaa6643c146b06bab69531f845528f96a99"}
+  {:article/id "law/3096/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "95c92962618dfa3367f190183b924356f5108afa01eb0d7f9b1e1e930b00d2f2"}
+  {:article/id "law/3096/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İşletme hakkının devri:2",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a05c4cf9f748ee418b439f64f24284dfafbc6730ded7fa844c2a4ac75018e00e"}
+  {:article/id "law/3096/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "370de16d39dad60811c6ab02fc231463ff6bc840faf2d80848b2ca1be4b56bfc"}
+  {:article/id "law/3096/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "dec291634110a26c9b76b8e16d0d2a1c2378dde450a558948699320cc717bce1"}
+  {:article/id "law/3096/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2f3aacefb999edb7823ef52506ff6a399c90ffa160445857c4ec49f3e50ff1f5"}
+  {:article/id "law/3096/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6ab27b9f314252d0bb83e6a9cd937d0ed8aaf04add19f7a5200e21a369c64c55"}
+  {:article/id "law/3096/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "feba15836e3ecd422698dc6137742f50229cf5da69cc4cc7257a6d990c8bb187"}
+  {:article/id "law/3096/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "038baee9ff1292e07b875190d34dfd3a2b421c1f14d752656519402a7bed2571"}
+  {:article/id "law/3096/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Elektrik Enerjisi Fonu",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "49d7b4c5c87a09240f39bc3c490ce38f0e7a3cef3d2a4fbe44e45d3e1396addd"}
+  {:article/id "law/3096/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Fonun Yönetimi",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "2348cd16fcd774d59706ba40305a4066982bfffad322127b5c24388563987df7"}
+  {:article/id "law/3096/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Uygulanmayacak Kanunlar",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "0604bf512e82f5b83bd1d952d027a75c24a08687ce6b33feb5d334bb5a511b84"}
+  {:article/id "law/3096/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "Fonun Denetimi",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "e069e3fa172056bdf89a97fe2421b975f6cd89698a66503a3ddc4162ad7863f2"}
+  {:article/id "law/3096/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Haciz Edilememesi",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "e3b70f8677330cc076f58d3b56078c44dee54f7b61df0d71aafea8c7f1bff732"}
+  {:article/id "law/3096/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title "Yönetmelik",
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "9a5ff87c4ec10b2cfac9e83eeffcf134982fe7e0d271fdae5945c88d14d19b46"}
+  {:article/id "law/3096/article/7",
+   :article/type :additional,
+   :article/no "7",
+   :article/title "Kömür Alımı",
+   :article/path "articles/ek-madde-007.md",
+   :article/sha256
+   "7aa276e5cbc5427ff1df2de88143f4f8010aa1ce476eb3d535b5ab05162110d7"}
+  {:article/id "law/3096/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3c1d260afb752dd8487cb96acd75b2c535d63bcb790b6237d4308a25fbf2febd"}
+  {:article/id "law/3096/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "52591515d7c6b374750ac472b1de280e70c35fa584e55703c7c8956e188796b2"}
+  {:article/id "law/3096/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "a160f7f4324ae92ad5ae11c85b70a05f90872eda8e0dff76ff0612790435db75"}
+  {:article/id "law/3096/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "fd05c615d18c0b7ec577d0547d0bd95b483112c989e91955a5e0b7d855e645dd"}
+  {:article/id "law/3096/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "601275a096e79dbef13ea88d73bc1608332c19086f014fa8df06a6f043f5a628"}
+  {:article/id "law/3096/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3e963e57c78a751df4fd5cf465990907493859b820402d828c10b171d70b58ba"}]}

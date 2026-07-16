@@ -1,0 +1,69 @@
+{:document/id "law/815",
+ :document/type :law,
+ :document/number "815",
+ :document/title
+ "TÜRKİYE SAHİLLERİNDE NAKLİYATI BAHRİYE (KABOTAJ) VE LİMANLARLA KARA SULARI DAHİLİNDE İCRAYİ SANAT VE TİCARET HAKKINDA KANUN",
+ :document/slug
+ "815-turkiye-sahillerinde-nakliyati-bahriye-kabotaj-ve-limanlarla-kara-sulari-dahilinde-icrayi-sanat-ve-ticaret-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/815-turkiye-sahillerinde-nakliyati-bahriye-kabotaj-ve-limanlarla-kara-sulari-dahilinde-icrayi-sanat-ve-ticaret-hakkinda-kanun",
+ :document/sha256
+ "67e590a259f598cf7a95e845f2467b7c7a81120cfe153bf6c1ddda8ebf96c31e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.815.pdf",
+ :source/fetched-at #inst "2026-07-16T02:13:40.715-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/815/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 7 Sayfa: 759",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1e234eb745d24472b7396d65de2d3810137ead6b89db2e996b8acf879a9a2bb8"}
+  {:article/id "law/815/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "90d7d9ec5e9865233488e88be83bbee410b2ebdc363a30af3b5c5d941bfb8921"}
+  {:article/id "law/815/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "52f49d9f6040513b0f0dca490dc2a8d1b5fe4bb221ea2e3abb410a4fab93f8ed"}
+  {:article/id "law/815/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "09190f30215b69dc65449bff9f368e98e35ceaf0ee67e659f979724ecdd1e801"}
+  {:article/id "law/815/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6fb7ce7629cdd3398749dded2f9fb9455081e044b4b8b1e7ed0f6338c6f2d258"}
+  {:article/id "law/815/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "aad88f066b4ee1dee8bf7e36cdc423f0de72c15815949f79dcdc25e7e4b699a9"}
+  {:article/id "law/815/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "62a26affdf9c3ce1d551700032686472b99b1774bcfc0bdb3aae457b48978e54"}]}

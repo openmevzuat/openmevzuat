@@ -49,6 +49,12 @@
   (when (fs/exists? path)
     (edn/read-string (slurp (io/file (str path))))))
 
+(def search-index-path "derived/search/documents.jsonl")
+
+(defn log! [& values]
+  (apply println values)
+  (flush))
+
 (defn configured-documents []
   (sources/documents))
 
@@ -276,23 +282,23 @@
            :text (:article/body article))))
        (:articles document)))
 
+(defn prepared->manifest-document [{:keys [document metadata]}]
+  (array-map
+   :document/id (:document/id document)
+   :document/title (:document/title document)
+   :document/path (store/canonical-document-path document)
+   :metadata/path (store/metadata-path document)
+   :document/sha256 (:document/sha256 metadata)))
+
 (defn manifest-map
-  ([documents run-at date path]
-   (manifest-map documents run-at date path nil))
-  ([documents run-at date path scope]
-   (let [manifest-path path
-        existing (read-edn-file manifest-path)
-        docs (mapv (fn [{:keys [document metadata]}]
-                     (array-map
-                      :document/id (:document/id document)
-                      :document/title (:document/title document)
-                      :document/path (store/canonical-document-path document)
-                      :metadata/path (store/metadata-path document)
-                      :document/sha256 (:document/sha256 metadata)))
-                   documents)
-        generated-at (if (= docs (:documents existing))
-                       (or (:snapshot/generated-at existing) run-at)
-                       run-at)]
+  ([manifest-documents run-at date path]
+   (manifest-map manifest-documents run-at date path nil))
+  ([manifest-documents run-at date path scope]
+   (let [existing (read-edn-file path)
+         docs (vec manifest-documents)
+         generated-at (if (= docs (:documents existing))
+                        (or (:snapshot/generated-at existing) run-at)
+                        run-at)]
      (cond->
       (array-map
        :snapshot/date date
@@ -367,14 +373,49 @@
   ([prepared-documents {:keys [merge?]}]
    (let [new-lines (vec (search-lines prepared-documents))
          lines (if merge?
-                 (merge-search-lines (some-> (store/read-file "derived/search/documents.jsonl")
+                 (merge-search-lines (some-> (store/read-file search-index-path)
                                              str/split-lines)
                                      new-lines)
                  new-lines)]
-    (store/write-if-changed! "derived/search/documents.jsonl"
+    (store/write-if-changed! search-index-path
                              (if (seq lines)
                                (str (str/join "\n" lines) "\n")
                                "")))))
+
+(defn search-temp-path [date suffix]
+  (str "derived/search/.documents-" date "-" suffix ".jsonl.tmp"))
+
+(defn write-search-line! [writer line]
+  (.write writer (str line))
+  (.write writer "\n"))
+
+(defn write-search-lines-to-writer! [writer lines]
+  (doseq [line lines]
+    (write-search-line! writer line)))
+
+(defn write-merged-search! [new-lines-by-document-id date]
+  (let [temp-path (search-temp-path date "incremental")
+        updated-document-ids (set (keys new-lines-by-document-id))
+        emitted-document-ids (atom #{})]
+    (fs/create-dirs (fs/parent (fs/path temp-path)))
+    (fs/delete-if-exists temp-path)
+    (with-open [writer (io/writer (io/file temp-path))]
+      (when (fs/exists? search-index-path)
+        (with-open [reader (io/reader (io/file search-index-path))]
+          (doseq [line (line-seq reader)]
+            (let [document-id (search-line-document-id line)]
+              (if (contains? updated-document-ids document-id)
+                (when-not (contains? @emitted-document-ids document-id)
+                  (swap! emitted-document-ids conj document-id)
+                  (write-search-lines-to-writer!
+                   writer
+                   (get new-lines-by-document-id document-id)))
+                (write-search-line! writer line))))))
+      (doseq [document-id (remove @emitted-document-ids updated-document-ids)]
+        (write-search-lines-to-writer!
+         writer
+         (get new-lines-by-document-id document-id))))
+    (store/replace-file-if-changed! search-index-path temp-path)))
 
 (defn manifest-path [date]
   (str "data/manifests/" date ".edn"))
@@ -382,11 +423,20 @@
 (defn incremental-manifest-path [date]
   (str "data/manifests/incremental/" date ".edn"))
 
+(defn selected-manifest-path [date]
+  (str "data/manifests/selected/" date ".edn"))
+
+(defn scoped-manifest-path [date scope]
+  (case scope
+    :incremental (incremental-manifest-path date)
+    :selected (selected-manifest-path date)
+    (manifest-path date)))
+
 (defn write-manifest!
-  ([prepared-documents run-at date]
-   (write-manifest! prepared-documents run-at date (manifest-path date) nil))
-  ([prepared-documents run-at date path scope]
-   (let [manifest (manifest-map prepared-documents run-at date path scope)]
+  ([manifest-documents run-at date]
+   (write-manifest! manifest-documents run-at date (manifest-path date) nil))
+  ([manifest-documents run-at date path scope]
+   (let [manifest (manifest-map manifest-documents run-at date path scope)]
     {:path path
      :write (store/write-if-changed! path (edn-str manifest))})))
 
@@ -400,40 +450,116 @@
            :skipped? true
             :reason :no-content-changes}}))
 
+(defn changed-article-count [writes]
+  (count (filter :changed? (:article-writes writes))))
+
+(defn log-document-start! [index total document]
+  (log! (format "Document %d/%d: %s - %s"
+                index
+                total
+                (:document/id document)
+                (:document/title document))))
+
+(defn log-document-finish! [article-count changed-files]
+  (log! (format "  articles: %d, changed files: %d"
+                article-count
+                changed-files)))
+
+(defn process-document! [document run-at date index total]
+  (log-document-start! index total document)
+  (let [prepared (prepare-document document run-at date)
+        writes (write-document! prepared)
+        article-count (count (get-in prepared [:document :articles]))
+        changed-files (changed-count [writes])]
+    (log-document-finish! article-count changed-files)
+    {:document (:document prepared)
+     :manifest-document (prepared->manifest-document prepared)
+     :writes writes
+     :article-count article-count
+     :articles-written (changed-article-count writes)
+     :changed-files changed-files}))
+
+(defn process-documents! [documents run-at date {:keys [merge-search? search-writer]}]
+  (let [total (count documents)]
+    (loop [index 1
+           remaining (seq documents)
+           manifest-documents []
+           document-changed-files 0
+           articles-written 0
+           new-search-lines-by-document-id {}]
+      (if-not remaining
+        {:manifest-documents manifest-documents
+         :document-changed-files document-changed-files
+         :articles-written articles-written
+         :new-search-lines-by-document-id new-search-lines-by-document-id}
+        (let [document (first remaining)
+              result (process-document! document run-at date index total)
+              search-lines (vec (document->search-lines (:document result)))]
+          (when search-writer
+            (write-search-lines-to-writer! search-writer search-lines))
+          (recur (inc index)
+                 (next remaining)
+                 (conj manifest-documents (:manifest-document result))
+                 (+ document-changed-files (:changed-files result))
+                 (+ articles-written (:articles-written result))
+                 (if merge-search?
+                   (assoc new-search-lines-by-document-id
+                          (:document/id document)
+                          search-lines)
+                   new-search-lines-by-document-id)))))))
+
 (defn update-documents!
   ([documents]
    (update-documents! documents {}))
   ([documents {:keys [label merge-search? manifest-scope]}]
-  (let [run-at (now)
-        date (snapshot-date)
-        used-source-ids (set (map :source/id documents))
-        used-sources (filter #(contains? used-source-ids (:source/id %)) (sources/sources))
-        _ (fetch/preflight-sources! used-sources)
-        prepared (mapv #(prepare-document % run-at date) documents)
-        document-writes (mapv write-document! prepared)
-        search-write (write-search! prepared {:merge? merge-search?})
-        content-changed-files (changed-count [document-writes search-write])
-        manifest-path (if (= :incremental manifest-scope)
-                        (incremental-manifest-path date)
-                        (manifest-path date))
-        manifest-write (if (pos? content-changed-files)
-                         (write-manifest! prepared run-at date manifest-path manifest-scope)
-                         (skip-manifest date manifest-path))
-        articles-written (count (filter :changed? (mapcat :article-writes document-writes)))
-        changed-files (+ content-changed-files
-                         (changed-count [(:write manifest-write)]))]
-    (println (or label "OpenMevzuat update"))
-    (println "Mode:" (if merge-search? "incremental" "full"))
-    (println "Documents:" (count prepared))
-    (println "Articles written:" articles-written)
-    (println "Changed files:" changed-files)
-    (println "Manifest:" (if (get-in manifest-write [:write :skipped?])
-                           (str (:path manifest-write) " (skipped; no content changes)")
-                           (:path manifest-write)))
-    {:documents prepared
-     :writes document-writes
-     :search search-write
-     :manifest manifest-write})))
+   (let [documents (vec documents)
+         run-at (now)
+         date (snapshot-date)
+         used-source-ids (set (map :source/id documents))
+         used-sources (filter #(contains? used-source-ids (:source/id %)) (sources/sources))
+         manifest-path (scoped-manifest-path date manifest-scope)
+         full-search-temp-path (when-not merge-search?
+                                 (search-temp-path date "full"))]
+     (log! (or label "OpenMevzuat update"))
+     (log! "Mode:" (if merge-search? "incremental" "full"))
+     (log! "Documents:" (count documents))
+     (log! "Processing: one document at a time")
+     (fetch/preflight-sources! used-sources)
+     (when full-search-temp-path
+       (fs/create-dirs (fs/parent (fs/path full-search-temp-path)))
+       (fs/delete-if-exists full-search-temp-path))
+     (let [result (if full-search-temp-path
+                    (with-open [writer (io/writer (io/file full-search-temp-path))]
+                      (process-documents! documents run-at date {:search-writer writer}))
+                    (process-documents! documents run-at date {:merge-search? true}))
+           search-write (if merge-search?
+                          (write-merged-search! (:new-search-lines-by-document-id result) date)
+                          (store/replace-file-if-changed! search-index-path full-search-temp-path))
+           content-changed-files (+ (:document-changed-files result)
+                                    (changed-count [search-write]))
+           manifest-write (if (pos? content-changed-files)
+                            (write-manifest! (:manifest-documents result)
+                                             run-at
+                                             date
+                                             manifest-path
+                                             manifest-scope)
+                            (skip-manifest date manifest-path))
+           changed-files (+ content-changed-files
+                            (changed-count [(:write manifest-write)]))]
+       (log! (str (or label "OpenMevzuat update") " complete"))
+       (log! "Mode:" (if merge-search? "incremental" "full"))
+       (log! "Documents:" (count documents))
+       (log! "Articles written:" (:articles-written result))
+       (log! "Changed files:" changed-files)
+       (log! "Manifest:" (if (get-in manifest-write [:write :skipped?])
+                            (str (:path manifest-write) " (skipped; no content changes)")
+                            (:path manifest-write)))
+       {:documents (:manifest-documents result)
+        :search search-write
+        :manifest manifest-write
+        :summary {:documents (count documents)
+                  :articles-written (:articles-written result)
+                  :changed-files changed-files}}))))
 
 (defn configured-update! []
   (update-documents! (configured-documents)
@@ -443,7 +569,7 @@
   (update-documents! (selected-documents selectors)
                      {:label "OpenMevzuat update-laws"
                       :merge-search? true
-                      :manifest-scope :incremental}))
+                      :manifest-scope :selected}))
 
 (defn update-all-laws! []
   (update-documents! (all-catalog-documents)

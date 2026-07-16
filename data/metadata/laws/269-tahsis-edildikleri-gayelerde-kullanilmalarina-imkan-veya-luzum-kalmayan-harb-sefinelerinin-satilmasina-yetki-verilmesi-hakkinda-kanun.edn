@@ -1,0 +1,70 @@
+{:document/id "law/269",
+ :document/type :law,
+ :document/number "269",
+ :document/title
+ "TAHSİS EDİLDİKLERİ GAYELERDE KULLANILMALARINA İMKAN VEYA LÜZUM KALMAYAN HARB SEFİNELERİNİN SATILMASINA YETKİ VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "269-tahsis-edildikleri-gayelerde-kullanilmalarina-imkan-veya-luzum-kalmayan-harb-sefinelerinin-satilmasina-yetki-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/269-tahsis-edildikleri-gayelerde-kullanilmalarina-imkan-veya-luzum-kalmayan-harb-sefinelerinin-satilmasina-yetki-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "d89975565d6d07fd15e80bad8a93644265bd12a51db5be982f1d2a1b5278e8f4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.269.pdf",
+ :source/fetched-at #inst "2026-07-16T02:08:27.516-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/269/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 2 Sayfa: 1622",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9ff25000fb2db3811352c7b743393eab493617f3c91e5512f96f825d928734f2"}
+  {:article/id "law/269/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2bddc184b3ffbc8cdf4c30644dae2c5ee023faf9ce97be6b96327eab61303f7e"}
+  {:article/id "law/269/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4103a30d25a4bf91cd54bb7544c0130d3d62712daa7921eb58f5307c47d09cde"}
+  {:article/id "law/269/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "06d6948d70623ff15332414dc06620efb37211a0368fdd26e830d070ba6fb349"}
+  {:article/id "law/269/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "9c5d2833af1fb9b39334f04336492c547f95079d0d6feee0385f0cd9d077b70c"}
+  {:article/id "law/269/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e3fcdf5b5ce193ece6bd8484bd0c0b970265f2f6060bc45c5cf53c80ca97a1d"}
+  {:article/id "law/269/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b3872610f14ba3ddb13409bc2b41d6dbd5110f3b4661ca3152261063269d7efe"}]}

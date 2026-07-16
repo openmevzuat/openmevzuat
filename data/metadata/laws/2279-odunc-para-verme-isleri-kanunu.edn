@@ -1,0 +1,40 @@
+{:document/id "law/2279",
+ :document/type :law,
+ :document/number "2279",
+ :document/title "ÖDÜNÇ PARA VERME İŞLERİ KANUNU",
+ :document/slug "2279-odunc-para-verme-isleri-kanunu",
+ :document/path
+ "data/canonical/laws/2279-odunc-para-verme-isleri-kanunu",
+ :document/sha256
+ "240b3c065658c5d054063d6a40c18e5ce2d1f679aa85b3599b64d552650cbcb8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.2279.pdf",
+ :source/fetched-at #inst "2026-07-16T02:17:20.484-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2279/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 14 Sayfa: 1429",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f70848114027747223779afb27a7989fef05242d9ae3d227d1f85096783753f0"}
+  {:article/id "law/2279/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "b90cb9271c9f9998e88e2450b4e5a3b464111df41d34c46fcc0c775fb532cac8"}
+  {:article/id "law/2279/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "b6112813e7587bde2b76946b23d41824cabfa4a905a2746ec67ac0e41c587f96"}]}

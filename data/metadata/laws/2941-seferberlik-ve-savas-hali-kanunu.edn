@@ -1,0 +1,210 @@
+{:document/id "law/2941",
+ :document/type :law,
+ :document/number "2941",
+ :document/title "SEFERBERLİK VE SAVAŞ HALİ KANUNU",
+ :document/slug "2941-seferberlik-ve-savas-hali-kanunu",
+ :document/path
+ "data/canonical/laws/2941-seferberlik-ve-savas-hali-kanunu",
+ :document/sha256
+ "5361787f079347e91c6ed2c985896029d8321b19b8242ea2132d5c6c39a62bcd",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2941.pdf",
+ :source/fetched-at #inst "2026-07-16T02:21:29.894-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2941/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b8b5e4f2177f7903df60784362b71a3efae72545cecb2983b5ae0e1c556ec453"}
+  {:article/id "law/2941/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4e9e56bcb6aad65cb2f2fa60ce2a63277aa91d21723a3a7cd63973d0d577af93"}
+  {:article/id "law/2941/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4d991448a7b5f5cec1fcb5f87823415ae3f9935cdace24bf8d6581d2ab77858a"}
+  {:article/id "law/2941/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6048e3eb0c94ae5c1942d9592425871a24b4ae7b9637d4239d47f6c07cf2e846"}
+  {:article/id "law/2941/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2c77bb21a05c0f09c8f7728af285a4ba821c026d5293d285ee03ffd78c48637e"}
+  {:article/id "law/2941/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "31a50573bc2ec1d223be945e8997e860923823de3b707630dd337e8762b61603"}
+  {:article/id "law/2941/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Milli Savunma Bakanının görev, yetki ve sorumlulukları:67",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "8e26c9a5fe4d7c441763dd6306895d6c08210b68de7c7bf28d66f926d710c5eb"}
+  {:article/id "law/2941/article/7/A",
+   :article/type :normal,
+   :article/no "7/A",
+   :article/title nil,
+   :article/path "articles/madde-007-a.md",
+   :article/sha256
+   "0dd80dfe0993239e6dfe7d57e0e8310b35730636174a53d6fd98e060237d694f"}
+  {:article/id "law/2941/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Diğer Bakanların görev, yetki ve sorumlulukları:8",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3793f53fd849129ead3ce53554097566858000463e3ac1298003ec44f91f27b8"}
+  {:article/id "law/2941/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Gerçek ve tüzelkişilerin görev ve sorumlulukları:9",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "30f25ff271d296cff17d841d97d828e33c04175e8d6adf061d8ff36051e42b0f"}
+  {:article/id "law/2941/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "e46d729d231dcae34f0e711285a86e1fa25a0eb6ca5cb76f68d060f352359c86"}
+  {:article/id "law/2941/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9a1004accb743e8fa5d67688e97a92b46cdc0eb583ab2b40a69439adbb2400f5"}
+  {:article/id "law/2941/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Seferberlik halinde komutanların görev ve yetkileri:12",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "ebaef1afd95b6d54eb53a155e1cb2ea413c48ab116cafd5aa30ee30ecdac3381"}
+  {:article/id "law/2941/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "c5b033911ada10eff306b7f6fc3b4802f0d3d80688ce74071884c4c85e82fd92"}
+  {:article/id "law/2941/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "8139f13e3d9ce14e07be9b3fa4d69f6dd2eb8bcf3f9184e820392ad2f2b4cb93"}
+  {:article/id "law/2941/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "d242a2a675db3db17bef49ebf50dd18b582d11f4fad3746c3a26e47a8a8f91e1"}
+  {:article/id "law/2941/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "cd216a767a429bcac18edec0994d0b89217bd47c1fdf2fd70164c9f1970f3522"}
+  {:article/id "law/2941/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "1417b16298e80d4564b1cf012a4473656f4c54f304b2b1bd6d2e13d424da1fc0"}
+  {:article/id "law/2941/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "23ac11a8e78dc77338ca9967f59d9899c0bda1c966dd16bd7fcb65a558b63d63"}
+  {:article/id "law/2941/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yönetmelik15",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "9be24a0cdf45f2ae13615fdc2a3a0e1bf42f330d9d34c6a4ef8704df5a880766"}
+  {:article/id "law/2941/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d68e87caf1985da02af872cbc93b6b9bef3a90463e9ff9d7884d67da2f8ae134"}
+  {:article/id "law/2941/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "6d9685554234d604ef20cd5f3be11bfaf9861da979b18c206a7a4e524ba05c50"}
+  {:article/id "law/2941/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "255b46a8d51c2bdb6a01493dbd3ab26496dbaec1fcc216306de59aea8818284d"}
+  {:article/id "law/2941/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Tatbikat ve eğitimlerde silah altına alınan yedek personele yapılacak ödemeler",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "d634dd5e1a1b59cbf1c5c2ca1ab0df36e745f584ed23aa8b118c30999cf84765"}
+  {:article/id "law/2941/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0c49dd1f60d4db85022502048ff06fafa42b380a153b1cf6fdf500c41bb11e3b"}
+  {:article/id "law/2941/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "4660287866f7de2e6033c09d428ed927eaf13d2692195e2a2411828a15ed773a"}
+  {:article/id "law/2941/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "3dc66be8742723ba1e0bc2d26bc1087427ff8910507944eec1cee7641ed9d6d3"}]}

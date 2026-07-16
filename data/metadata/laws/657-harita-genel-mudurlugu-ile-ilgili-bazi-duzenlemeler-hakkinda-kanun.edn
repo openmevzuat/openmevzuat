@@ -1,0 +1,160 @@
+{:document/id "law/t3-657",
+ :document/type :law,
+ :document/number "657",
+ :document/title
+ "HARİTA GENEL MÜDÜRLÜĞÜ İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "657-harita-genel-mudurlugu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/657-harita-genel-mudurlugu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "71ef11b32388e7e6a9b85c0533beeb87a6c1f3415dfacd74fb4831bd317bd6b1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.657.pdf",
+ :source/fetched-at #inst "2026-07-16T02:13:14.078-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t3-657/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 3 Cilt: 6 Sayfa: 278",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ead11c99a3e63ae22a8f37252f3a08d068c666928a0aea925a5e503f4a01fb18"}
+  {:article/id "law/t3-657/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a00d8cdcce5b4d4f22d922037cc3956e78ae6ed8de202b225b597676b6b9c022"}
+  {:article/id "law/t3-657/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2412befe3e963a79d648340fb8429fb454e557d93a21550034921d9b506e32b6"}
+  {:article/id "law/t3-657/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9531b0a256ac3e7850492716200bae0be320112a339cf979cab16cd7b792025e"}
+  {:article/id "law/t3-657/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "5cdac44494525956aae539c5b7f298d0df46adc65eda1148a59c6a80a2beff7c"}
+  {:article/id "law/t3-657/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3d9cffb8bc79fad4f757a36d328a9b67b905d2ea1fc3e53304b46f3211adf6bf"}
+  {:article/id "law/t3-657/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2fc5a14014331fabb8b1e8f56b91218b344f16a095d80493d011308c80e2bb35"}
+  {:article/id "law/t3-657/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b157085740c383c1c48826ba9cc71bd2610d8979f60e1057c6b03450d41b8887"}
+  {:article/id "law/t3-657/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1534ffd2a6a378bafcaa4bbf2fc892a33b507d5855d3cadf2b01f59d1e59e4cb"}
+  {:article/id "law/t3-657/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "39ddfc6c092c0b7d19d89d5b5fe878afd3ef699fed87b045f9cf1dae1a43efad"}
+  {:article/id "law/t3-657/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "4b8960f96c696fefcdf3c57c2b228cb369b3e4079c1aab451f1e19274460db87"}
+  {:article/id "law/t3-657/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "116bbc4f70796b035e7e449434c88ebf2112e3498a3b2ebf972254012a621ebc"}
+  {:article/id "law/t3-657/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "c6ad7c6d244d936dba45d5fb8ae00502f4d1969173b5b5446301e4dc4f003e5c"}
+  {:article/id "law/t3-657/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Düşey engel bilgileri",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "dc5f8c296c189ac218f957e6d05832b7dcacdf22b1bd61b761eb925ef74ea4e4"}
+  {:article/id "law/t3-657/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "808cc5d687caa429e038ac96514ceed9ce22da5070ec3be0989bfee73b81e0c9"}
+  {:article/id "law/t3-657/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "58204f8722408359b6cee9a44487b8158e4bf7a12521151d69e23ce56a425601"}
+  {:article/id "law/t3-657/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "1a073b6368a266ba9f4b3e07b308ead16f5a8cc36ae56aab96c5c04f4178caa6"}
+  {:article/id "law/t3-657/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "94841f8602d65dea155c0e5307bbdd29c697fc5830cb29d69672a1903eda9b9a"}
+  {:article/id "law/t3-657/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "65925bf4bcabef25d385aa3f682f4566ed74aa1d992da456ca3f27e8ef3e944f"}
+  {:article/id "law/t3-657/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "eb645e7c640677458130336a24cc26f26528fc3331d8f441a5954358306f0e7c"}]}

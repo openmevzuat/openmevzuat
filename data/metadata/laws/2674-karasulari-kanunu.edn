@@ -1,0 +1,74 @@
+{:document/id "law/2674",
+ :document/type :law,
+ :document/number "2674",
+ :document/title "KARASULARI KANUNU",
+ :document/slug "2674-karasulari-kanunu",
+ :document/path "data/canonical/laws/2674-karasulari-kanunu",
+ :document/sha256
+ "cad12e156c44fc4822a957871d585f5e961d80147bd75a694e4ebfd35c868dff",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2674.pdf",
+ :source/fetched-at #inst "2026-07-16T02:18:58.626-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2674/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 21 Sayfa : 338",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a29d0555511a2132d8bc4f76e8e42cb971f36c3e489c3a837fd7b31c971291f0"}
+  {:article/id "law/2674/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0c6baf6cdaca8cc118cb0d00d1017bfb25508b2e94b53fc4d3c73152244cb4ab"}
+  {:article/id "law/2674/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0dfdd812b2e5ba3b065ab9ad8243b87524bac4a9f338388efb87bf2f79926d09"}
+  {:article/id "law/2674/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "fd2eb9aab9984168613e769aa2f2fd51f0b3f44d2da91c1c954a86589d3f3034"}
+  {:article/id "law/2674/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "45dcc67a47d627002d279dcae4c1cf9cf061cf5b8d160dfc15a91a77c0eff38e"}
+  {:article/id "law/2674/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "86a7f8596ba83ad9a742a4923afdfc7a0a295a4e6e273252be85b2774774ed7d"}
+  {:article/id "law/2674/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9f1613bd0f2d6ffd947d1c623c40dbc7ee31e03971cbe1c6bbce0de553121501"}
+  {:article/id "law/2674/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e3dd751c002a47b5dcbe14a24a8043943316d0b5659f1fc85ad71662af043acd"}]}

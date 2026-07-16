@@ -1,0 +1,41 @@
+{:document/id "law/t4-7",
+ :document/type :law,
+ :document/number "7",
+ :document/title
+ "ANADOLU AJANSI TÜRK ANONİM ŞİRKETİNİN 6762 SAYILI TÜRK TİCARET KANUNUNUN 272 NCİ MADDESİNDEN İSTİSNA EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7-anadolu-ajansi-turk-anonim-sirketinin-6762-sayili-turk-ticaret-kanununun-272-nci-maddesinden-istisna-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7-anadolu-ajansi-turk-anonim-sirketinin-6762-sayili-turk-ticaret-kanununun-272-nci-maddesinden-istisna-edilmesine-dair-kanun",
+ :document/sha256
+ "16a5f8f77952dc7f478415f3fe1ff540bcc1c9cafba0a088533157b7f21a486d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.7.pdf",
+ :source/fetched-at #inst "2026-07-16T02:06:35.242-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:06:17.645-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t4-7/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip: 4 Cilt: 1 Sayfa: 56",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "30f4a776ddbeb8a860bad24d36823048bc5eeef9a25e49532a437224b9bc22cf"}
+  {:article/id "law/t4-7/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e9e05bfea848b6226c3aa17dee41058388eb1c7872f532bfa594f2f0dbe6337d"}
+  {:article/id "law/t4-7/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "58d4c24e9f6cf81114ca263a2556f06344b3896d3f07ce40a3063e6aa234310a"}]}
