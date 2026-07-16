@@ -1,0 +1,151 @@
+{:document/id "law/5977",
+ :document/type :law,
+ :document/number "5977",
+ :document/title "BİYOGÜVENLİK KANUNU",
+ :document/slug "5977-biyoguvenlik-kanunu",
+ :document/path "data/canonical/laws/5977-biyoguvenlik-kanunu",
+ :document/sha256
+ "15de484108859f99da06485abae87383f4bff314e6fe548e767693d5aed1d7f8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5977.pdf",
+ :source/fetched-at #inst "2026-07-16T02:44:08.749-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5977/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "30419e91c5cce41e9f2f6cc5b5e29900f0f932811f2626ef0adf2d83652d7633"}
+  {:article/id "law/5977/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a6f484a1ebedd216a73eaa3e2174972738faa02ad2e22f66b021ba47da7550bd"}
+  {:article/id "law/5977/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "40a9577e92d7fe34ac9df3afe87cf68411656d9c928544aa7de268cf6bc4f087"}
+  {:article/id "law/5977/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Risk değerlendirme, sosyo-ekonomik değerlendirme ve risk yönetimi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1c92f7f4f9bcdb205672cf1d9de2e27b28858cef988d59c0b7a906a5c33a0141"}
+  {:article/id "law/5977/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yasaklar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3ab4a6dd39133d9958985a07c87d8bd6ecdff97fa36d3abb732f57700dd7ad40"}
+  {:article/id "law/5977/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Basitleştirilmiş işlem",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "2de5fb754d0bfb6ec1697297a732f7fc58715d3991d5131150647946f6e20840"}
+  {:article/id "law/5977/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Karar sonrası yapılacak işlemler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b4f8ded3b88a1d32fc2f8a5c8bad0d6590401053326bcc7d45f1f9d73f1e2508"}
+  {:article/id "law/5977/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4a749c0bc11a8a6afcd8fc0aafb4da5baf845e7cb9fd9c832a6645484c03cfdc"}
+  {:article/id "law/5977/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Biyogüvenlik Kurulu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6d6926db04b400a9833b37e55a89c418234a51edde301f0788f6d43f678ac19a"}
+  {:article/id "law/5977/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b8e5cbd12d8512842fb40ab56ad956a9be92a10b08579be4e59a5e74bb9bc2bf"}
+  {:article/id "law/5977/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "29b78778d77530750e1e2c937527749ac8479dfc1694d23bec681c025d334468"}
+  {:article/id "law/5977/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Bilimsel komitelerin oluşumu, görev ve yetkileri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "597eb9e3b667f872951aa8b4d2223bd104d1cf056ed6a12159b7b884c1600959"}
+  {:article/id "law/5977/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yükümlülük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "84c7b23cd8171f54598b7f9068e346a3d704a761fc4bbe8727b0c139bd0f6b85"}
+  {:article/id "law/5977/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "d4ef8a361fd755d67c2b7b5d4bc076ec671bd3194526ebaeb1ba070d38133d5b"}
+  {:article/id "law/5977/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "e645c1c642282b991e554fadbf3ad193feaf18be470322beb8b7c1d0eb4269b2"}
+  {:article/id "law/5977/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b65007cadd718cea70795a57ee3dfb4cb491319f6e73a2f6c7553ee11c6ff314"}
+  {:article/id "law/5977/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "c16de00277543295689b3a2e5266df7b1970485f5a58fb06ff9eb67c439943ff"}
+  {:article/id "law/5977/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "49845762e5000a14224a56deccf694a58b9c128989dd8975de219a7e9af677b1"}
+  {:article/id "law/5977/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "09525de5400b6f112e0f75a9bffa5d34b9e6aec707790e33502dc57f7e0f14ff"}]}

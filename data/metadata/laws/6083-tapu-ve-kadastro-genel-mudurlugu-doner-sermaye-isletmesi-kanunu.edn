@@ -1,0 +1,120 @@
+{:document/id "law/6083",
+ :document/type :law,
+ :document/number "6083",
+ :document/title
+ "TAPU VE KADASTRO GENEL MÜDÜRLÜĞÜ DÖNER SERMAYE İŞLETMESİ KANUNU",
+ :document/slug
+ "6083-tapu-ve-kadastro-genel-mudurlugu-doner-sermaye-isletmesi-kanunu",
+ :document/path
+ "data/canonical/laws/6083-tapu-ve-kadastro-genel-mudurlugu-doner-sermaye-isletmesi-kanunu",
+ :document/sha256
+ "47a656825c575973e1b63d4f0e005a2bcc8e9c0fffcaa98cf2bfb19a5a07db42",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6083.pdf",
+ :source/fetched-at #inst "2026-07-16T02:44:32.340-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6083/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve tanımlar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d31a5bf007c1a389d3f64fb989a7837cef16145168f926b36fdf23d2e90b24f7"}
+  {:article/id "law/6083/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Genel Müdürlüğün görev ve yetkileri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5abd3e8578bfc3fb5ad2c5434b92e1cf82798c335ecb6d255fd00e399d1aabb4"}
+  {:article/id "law/6083/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "41a3ccc6581cfd44f1e246ad57339a64428e663a7384b56ab761985c0f442ade"}
+  {:article/id "law/6083/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tapu ve Kadastro Kurulu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "49529c5b46424930f361621af81d989367a0f3f160a0d2cc1cc8f12f60a8de4c"}
+  {:article/id "law/6083/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Teşkilat",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9c0b1c77022546c6ac12dfe237165b4ce8f07e2c844e39d4244d3efd12360d42"}
+  {:article/id "law/6083/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "2ce50ae437e27a13de09f13590101ea174350cd766f23dc83074e7a3f12c2908"}
+  {:article/id "law/6083/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Tapu ve kadastro uzmanları ve müfettişler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "597df1642c83aef8f3b06800a5d5fd4bb4a7b562cbeed08b49ecc814e6886066"}
+  {:article/id "law/6083/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a9f8ac94e1ec211ac40d910d6eed770894635abffd3251cbeab68a44af758844"}
+  {:article/id "law/6083/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "Düzenleme görev ve yetkisi, yetki alınarak tapu işlemi yapılması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "40ee5e60926b78c662b09c2c5d28b5c7e712a9c17768399e080f34189b573f37"}
+  {:article/id "law/6083/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Eklenen, değiştirilen ve yürürlükten kaldırılan hükümler ile atıflar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c6f75673a2e9dc8435a0a80cb3ce267cc86b6bce4c69f10840b2a88499650798"}
+  {:article/id "law/6083/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d2014eea4132231b8d435992cb04076e9ba37fed9aeed739169f174693376284"}
+  {:article/id "law/6083/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Devir hükümleri",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "da721041876dcfd97f201045bad9460893477a0fd6a071d80512091d8659561f"}
+  {:article/id "law/6083/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bbf59198ccf1698221c6a0f9828fe9c109c52bf3083b6d866e6165bb3df06aa3"}
+  {:article/id "law/6083/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "8ea4b8b9e14893068e1960792572b73e396062243ee764c22e66c1f7d8aa8bef"}]}

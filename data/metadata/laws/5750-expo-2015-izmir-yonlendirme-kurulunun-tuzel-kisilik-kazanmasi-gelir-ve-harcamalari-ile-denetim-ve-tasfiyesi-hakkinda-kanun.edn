@@ -1,0 +1,55 @@
+{:document/id "law/5750",
+ :document/type :law,
+ :document/number "5750",
+ :document/title
+ "EXPO 2015 İZMİR YÖNLENDİRME KURULUNUN TÜZEL KİŞİLİK KAZANMASI, GELİR VE HARCAMALARI İLE DENETİM VE TASFİYESİ HAKKINDA KANUN",
+ :document/slug
+ "5750-expo-2015-izmir-yonlendirme-kurulunun-tuzel-kisilik-kazanmasi-gelir-ve-harcamalari-ile-denetim-ve-tasfiyesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5750-expo-2015-izmir-yonlendirme-kurulunun-tuzel-kisilik-kazanmasi-gelir-ve-harcamalari-ile-denetim-ve-tasfiyesi-hakkinda-kanun",
+ :document/sha256
+ "79b4e8c4c5c4b96197ed4b2a7f09eb8f32e402ecc9fd5657c34c7cd74f398e6c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5750.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:01.596-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5750/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Expo 2015 Yönlendirme Kurulu",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1ff052b08b3a539904e7c96957fbb094814edf564561af286054e7fa1a15523f"}
+  {:article/id "law/5750/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Gelirler, harcamalar ve denetim",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d4a444ef9d521fcfd77e6ab66a0476fccbdc51fb164c9c4d5ca5e50072444f2c"}
+  {:article/id "law/5750/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tasfiye işlemleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1916f998bf8dbb0f9688b5a272eadca87df4e9edcd24353eef3ab5f0015f208a"}
+  {:article/id "law/5750/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9e25ace78175d8a79fac2d456257e50134148081df450f1861197c4a565ccbc2"}
+  {:article/id "law/5750/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d4848436e6bc2574d0aa434d89ff8b1515d74dea97038d84288f9199cd46d6c7"}]}

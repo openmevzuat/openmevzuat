@@ -1,0 +1,237 @@
+{:document/id "law/5686",
+ :document/type :law,
+ :document/number "5686",
+ :document/title "JEOTERMAL KAYNAKLAR VE DOĞAL MİNERALLİ SULAR KANUNU",
+ :document/slug
+ "5686-jeotermal-kaynaklar-ve-dogal-mineralli-sular-kanunu",
+ :document/path
+ "data/canonical/laws/5686-jeotermal-kaynaklar-ve-dogal-mineralli-sular-kanunu",
+ :document/sha256
+ "1af215dd6d2189181371fae7f97143bae3dfd8b4e5ffea36fde340e16c969a3e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5686.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:17.314-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5686/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "37123aba86a08b66a8e44f890be9e5cdac17a81287619cd1233c60d0e1c332a7"}
+  {:article/id "law/5686/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d93f0f187d92e3aad81d260f7419449ec100c372bc29b9c7da4cd9a6cb04e7d6"}
+  {:article/id "law/5686/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "14e8c18049a4b1d6489f9576cdcd96fec6717a5e3ba8ec8bbaba88ea9eea5f7c"}
+  {:article/id "law/5686/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Mülkiyet ve ruhsat",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "dc3de75355912bd19834e7f5ff074b91c1208534ff5c997557e09d706616cfdc"}
+  {:article/id "law/5686/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d3351c72924d8733491c9e206b67f7c139c381576d3fe7f3a4b9cecc60ca737b"}
+  {:article/id "law/5686/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İşletme ruhsatı2",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "768c7f6f2fe5018986ac2ae209b7d33ad2c3c4a437f449c6fd93150a5a23590b"}
+  {:article/id "law/5686/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Teknik sorumluluk ve faaliyet raporu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2e40a5f963d5cec1c993ad41b6075f52ac49a2e0f6b467d3c55984b294673036"}
+  {:article/id "law/5686/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "00f87208f2c254f7c157f491073a14df6972d346f4d1df2d6476de7e6001b470"}
+  {:article/id "law/5686/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a1040a9af6712d0d57c4ff1140d546d9f276bb66530b440b9ce94b7b2511c758"}
+  {:article/id "law/5686/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "4ec0155b65e345526ea08cd022108be9197cf83df75b3aa9eda24a9e5cdbcc3d"}
+  {:article/id "law/5686/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "İdarî yaptırımlar",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "45628f06275ae7be9e6bdbe28c88ded312f04d50c4b9c760418d432d3c60c717"}
+  {:article/id "law/5686/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İrtifak ve kamulaştırma",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "9ff9d0ea68c89b38845da14c52c8d1d306b7ff7f66f53880bc103bb358bb2c2c"}
+  {:article/id "law/5686/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Rehin, haciz, ihtiyati tedbir ve ipotek tesisi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "904459b5d269a18168dfba3da2d9ce200f62b32e32a428b6734e9eefc1374952"}
+  {:article/id "law/5686/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Kaynak rezervuarının korunması",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "16256804442c5958230ea1bef316b1b353a35df38e6adfc03f460bdd9719f018"}
+  {:article/id "law/5686/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Terk ve tesislerin intikali",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "72832bbcf9180bd394f970667754eb5a6b17ba979e3d7c74f411043c133cc20b"}
+  {:article/id "law/5686/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a59eb4853f5033fcf258834418e435d13ab3774a62b78a88e049711d847eaa42"}
+  {:article/id "law/5686/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Turizmi Teşvik Kanunu kapsamında kalan alanlara ilişkin işlemler7",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "5b33f505202ec2d8e84966d58425b4cfb18add27ea1777917d7e095a75efd26c"}
+  {:article/id "law/5686/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "dddae159db6c45e52512678128adde46ef8a5ecca05b19a2db92ebe4631ddf91"}
+  {:article/id "law/5686/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "21b64ca42fe9021997eaa9ffad32f8fd1c940e57fa998191683ffa1623a2a4b5"}
+  {:article/id "law/5686/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "91b9007a9ecb177f4e881d85a843a0d17f216f647d3f9deaad17857584b90b2b"}
+  {:article/id "law/5686/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "e16067462378d1aca83a697af66efb6147a4ce86795490ebb6bba894067e5a56"}
+  {:article/id "law/5686/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "fd90f3d2a199802b6af37eff80e965ee09db312168e1e9592b187c6cdec6027b"}
+  {:article/id "law/5686/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "351c9dc5424a9d89134f68a7bcd78023188462e10b7370a43992f845e2a20777"}
+  {:article/id "law/5686/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e100b7b139c1c46d7c7bb1a2bd4b0097ed6c467d8e562c2853a03babe46250e9"}
+  {:article/id "law/5686/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "26f2cdffa053477802b26dd60b8a0fbaa16518b39e55f2711527f8fe2089f709"}
+  {:article/id "law/5686/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "055c87ce301e64c3decb3812fd024bd96e16d0c35ef50f9c1fa7307d75395b18"}
+  {:article/id "law/5686/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "32514effba7e6373cee9117057bb0831a9ff323b37e34651c7272a2b2ea46980"}
+  {:article/id "law/5686/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "65756f245e8860f25537797b2959f07f87fe5477aaa125ab264e6d43746bd946"}
+  {:article/id "law/5686/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "d103d7db563e1e1e027f19335eff41f0d7b1f8b96471252e94f9d74d7ae340d7"}
+  {:article/id "law/5686/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "f1315bf9c18786bfef78d35b4b267d80ace795a32ecddf2ec0d38241fb7e127f"}
+  {:article/id "law/5686/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürütme",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "7d936f530a92f0114c4ddf237161406ca6f2848e0f0b869bdabfceac25a78591"}]}

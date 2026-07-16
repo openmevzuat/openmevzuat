@@ -1,0 +1,262 @@
+{:document/id "law/5738",
+ :document/type :law,
+ :document/number "5738",
+ :document/title
+ "SPOR MÜSABAKALARINA DAYALI SABİT İHTİMALLİ VE MÜŞTEREK BAHİS OYUNLARININ ÖZEL HUKUK TÜZEL KİŞİLERİNE YAPTIRILMASI HAKKINDA KANUN",
+ :document/slug
+ "5738-spor-musabakalarina-dayali-sabit-ihtimalli-ve-musterek-bahis-oyunlarinin-ozel-hukuk-tuzel-kisilerine-yaptirilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5738-spor-musabakalarina-dayali-sabit-ihtimalli-ve-musterek-bahis-oyunlarinin-ozel-hukuk-tuzel-kisilerine-yaptirilmasi-hakkinda-kanun",
+ :document/sha256
+ "f1fb65307c5d95ef90343fb093abdae48cb4dae859b9f198c4780365606617a5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5738.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:49.767-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5738/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a8514d7989cd583a280a1469820d762bbb2c5d2e4d98a254f967b7f0f014d352"}
+  {:article/id "law/5738/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7aa6cbdbaf02626d31d66ed4281f7cc52527695c48e2f397bf32a64a1af813a3"}
+  {:article/id "law/5738/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2216971da6bfbfd0edbc761a10a17b3fb0db35894f2e380eb00299d4ab6fd702"}
+  {:article/id "law/5738/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İhaleye ilişkin temel ilkeler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5ea4c0ed3c8623879b8b831bab31d51c563d6ef168c590649996c0bd93c98a87"}
+  {:article/id "law/5738/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İhale komisyonu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4bc16a33f1e90d56eea514ccf91dfb2dc0c2498fc9af3e03cc384f1a9587e76c"}
+  {:article/id "law/5738/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "779bbed59a2901ef6cb555f420447626847be9d87f4f1de06e3c1ca4fd5731ff"}
+  {:article/id "law/5738/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İhaleye katılımda yeterlilik kuralları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "afce9c1fd9bea44b783eae8ed34ced57ba13f051643adccc1824c2e90c54ea47"}
+  {:article/id "law/5738/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "İhaleye katılamayacak olanlar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b650d67c5e769e3ea04970514621e226a31948f7f9ad9cdfa41d6efdad954932"}
+  {:article/id "law/5738/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ortak girişimler ve alt yükleniciler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e42c2e2e9bcddd5e09f08a8faa544ea66becb38208caa569c06120d2c861635d"}
+  {:article/id "law/5738/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yasak fiil ve davranışlar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "e2baa74b6d006469c277d683f70ca8c1e3980b5190cb10c909b220a2d3099949"}
+  {:article/id "law/5738/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "82b58e7a38cae2740c57c96ba2024d92e2051da81f10a027bf8bfdcf6790b0d9"}
+  {:article/id "law/5738/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Şartnameler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4ef0b1c0ec224f2657c41ea039ca40042796f0da41c773e8e650a2028e0c5699"}
+  {:article/id "law/5738/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "İhale dokümanının verilmesi, dokümanda değişiklik ve açıklama",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "19e337763e6fb73f05cb7467ac66085c8eb1c879c9f30dff46faa72764f18b4f"}
+  {:article/id "law/5738/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "95fa077f9eb99468f9925ec0cfe96ba8b3efade0d1f378b8c2f7739c4d93d079"}
+  {:article/id "law/5738/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Teminatlar ve teminat olarak kabul edilecek değerler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "ea8215aca6219014a99e8551d75116413bbf5c05fa9946df3b920889f9201de9"}
+  {:article/id "law/5738/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ff3b26709cea1cccd5494c710ce287f80299c3031d1707857edf25d5b58b5b76"}
+  {:article/id "law/5738/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Tekliflerin değerlendirilmesi ve uygun teklifin seçimi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "74f2aa7648fc483eb8319515c168a45770773f6fac3ac1b9b66ac45549f9c093"}
+  {:article/id "law/5738/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Kesinleşen ihale kararlarının bildirilmesi",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "0857a8261dfde98875df5dde2a2fc103e3e48ce4dc77f23ad7d314249a95989e"}
+  {:article/id "law/5738/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Sözleşmeye davet",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "36086fcbff382a88988bba7bdf676a3bbe614c2a00321ae929df143b46f1260c"}
+  {:article/id "law/5738/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title
+   "Sözleşme yapılmasında isteklinin görev ve sorumluluğu",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "ec7155b5ba24a8a5b7ae7b7f30d62728c959f867a52af4342300fa1e7827dc72"}
+  {:article/id "law/5738/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Sözleşmeye ilişkin esaslar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "86daddff6dfe62fc501b78a7619794441e883ee8565c9359cf9e6af99625894c"}
+  {:article/id "law/5738/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Sözleşmenin uygulanmasında yasak davranışlar",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "2e8e25c237aa8a010d8234a42662d940653c297d4a2795937be57dc3396b0b88"}
+  {:article/id "law/5738/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Mücbir sebepler",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "49c464a9ec82728ad5a5210c758ab07eaea05173dbb23e8a6e3d0d6799f2d0bc"}
+  {:article/id "law/5738/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "08d477c8773642e3f64a5519be18352a4d04658282f69a03c2ca0803974b9165"}
+  {:article/id "law/5738/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Marka ve lisans kullanım hakları",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "9f73f31984655a1b25cbddf4c1fc1d020b0e8776d8f29490c212a1c16c4f95c8"}
+  {:article/id "law/5738/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Pazarlıkla temin usulünün uygulanabileceği haller3",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "a94f29cc881226fb12246f42b3824e0a18682a90ed114d1430032666f4980d2b"}
+  {:article/id "law/5738/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Tebligat",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "0c6c1c08a7ec81b37b89797dca59524816d9ae4458e301cf1d8bacfc8278edb2"}
+  {:article/id "law/5738/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "7487357ebad607034a7b237b11de95e68774b9ab2763bcd3117453050865d353"}
+  {:article/id "law/5738/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "ad4f3d1be0a15191c27489df4852b4ffddb823dab21ed82276b40317c7a7a45c"}
+  {:article/id "law/5738/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Uygulanmayacak ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "1f8faa5303fa9598f93c6b77cb486c9fb766c8576f72913dabd2f38d96da29ab"}
+  {:article/id "law/5738/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Uygulama Sonuçları Hakkında Bilgilendirme",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "78f1f3e78e4dee9a4a11555c6546005694aecd93cd681a6cc0d71d6bb9ad7b25"}
+  {:article/id "law/5738/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "İşe başlama süreci",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2d59478e5f71aee9cd2aaac237978a0df54362e576640429ef7b631169064cb2"}
+  {:article/id "law/5738/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "ff945aa63a4723d7497e23dc6d36ca5001da0f7ea4d1b352431f5b1df314bfe6"}
+  {:article/id "law/5738/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürütme",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "b2e0f4d1f2b4c95cc6ec1d01b3361331b2652eeb8fa0f4eea11ecc7817b03fd4"}]}

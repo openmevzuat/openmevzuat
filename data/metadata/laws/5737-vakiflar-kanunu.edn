@@ -1,0 +1,687 @@
+{:document/id "law/5737",
+ :document/type :law,
+ :document/number "5737",
+ :document/title "VAKIFLAR KANUNU",
+ :document/slug "5737-vakiflar-kanunu",
+ :document/path "data/canonical/laws/5737-vakiflar-kanunu",
+ :document/sha256
+ "9a2c96c5e9dad42936bfa16542d624f4724b3ef2b71ca4afdbb91a0ffc2f22e2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5737.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:45.256-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5737/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cf8660604b5a1cef8337907822c31ddc268d7ce2f73935f71696fe598172bbb5"}
+  {:article/id "law/5737/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "29cfb1f19cb96964a8dca25b261872c7bb58bb6b3b1c877ae3a26bf45abe61d8"}
+  {:article/id "law/5737/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c62cfa8dff46c16a4900a3c2ae2dabbe13813e4ed3b3e7285d4ed069be6af5da"}
+  {:article/id "law/5737/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9278c3f1e86c6d946307f90c6539a5ab1041db6050dc35b95d77ab7764bb3af9"}
+  {:article/id "law/5737/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Yeni vakıfların kuruluşu, mal varlığı, şube ve temsilcilikleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4160e1ecc62ae05162d40347efa16f08f6b1b9691b75f164614ae0b368889304"}
+  {:article/id "law/5737/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetim ve temsil şekli",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ed65b7bbe98c9f19c161d73ce6185e3b36361432c954090ca9462325b882fd74"}
+  {:article/id "law/5737/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Genel Müdürlükçe yönetilecek ve temsil edilecek vakıflar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7b8f312b291bbc8055266d9b05512bf2d006ec3916b212f489ce0497f32dc836"}
+  {:article/id "law/5737/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yeni vakıf organlarının tamamlanması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8f8f27a0f165a3adf43615e35b4a3669ca8a48d93507e6675456d0de73ee8aff"}
+  {:article/id "law/5737/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Vakıf yöneticisi olamayacaklar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d8ae66bae2a8722bbfa5ce389f036659ccdcdf7bef46415a54c16b3964cae6c6"}
+  {:article/id "law/5737/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Vakıf yöneticilerinin sorumlulukları ve görevden alınması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "e6dbc28df6880febbd1ae8dfaa4db8dc699e64842fba3a987fd33c83e80f1a74"}
+  {:article/id "law/5737/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "İdarî para cezası",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6e8a7db4b4d942c64f691d7059ffe09cb313a3e370cf6829defec57e0d1aeeef"}
+  {:article/id "law/5737/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4281a12966974253d9cc72bf5237b3197aac153fa61d059c77cdbb35a3d77463"}
+  {:article/id "law/5737/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Taşınmazların vakıfları adına tescili",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3ac862f6b2c70b763f30acfc8be500dcfe25ae5b96ca25e5bec90ab88bbb0746"}
+  {:article/id "law/5737/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Amaç ve işlev değişikliği",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "94be040e13197328251b2ca8c96d2a863e5ff44cf80b4948ffcd760dc8b07ca8"}
+  {:article/id "law/5737/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Hayrat taşınmazların nitelikleri ve değerlendirilmesi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "5895990f47bb565be58b836873e2d3ad128ae110c7111602bc688c732c7a37e8"}
+  {:article/id "law/5737/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Hayrat taşınmazların tahsisi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "12149aba17427445ebd1cd21ed1fed052e941c4266da9a15d26618d67d2e103d"}
+  {:article/id "law/5737/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Taşınmazların vakfına dönmesi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "13d631f3599b11c0958855a05c7684c64771ba6684e0bc1e9f99306e665f118b"}
+  {:article/id "law/5737/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Taviz bedeli",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "9942c78f4ae1b7ec1655e2f1bdd6f0992a289e7b8b3ab01c1cad7072acefb079"}
+  {:article/id "law/5737/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Taviz bedelinin tahsil şekli",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "6dbd0855679d28be1c07ac9f00cf9020c3b0d31b70da2dd6037c9082e5b7067b"}
+  {:article/id "law/5737/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Kiralama4",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "8f4304afbd59740c5184530a3a763662096f375e18574b9af4022884738d0234"}
+  {:article/id "law/5737/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Vakıf ormanları",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "951084d1b5e31ab7914cf8258bb4521a7ede9ec1182fefec784263b0eddcb95f"}
+  {:article/id "law/5737/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title
+   "Vakıf kültür varlıklarının korunması ve imar uygulamalarının bildirilmesi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "1d9102867ef9c109105b9602835ac067f4a2a4985e224326077268cf0a5b0a2f"}
+  {:article/id "law/5737/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Zilyetlik yoluyla kazanım",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "7200b7af2c11e2bf31a7df5366bd8e9c19c1825f9bef832a18f9e7b8d58de4e9"}
+  {:article/id "law/5737/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Sigorta",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "912208b1bd99185797ba86dfe0dc0e1ec0e49bbd401290dbaa85f0d46ef7349a"}
+  {:article/id "law/5737/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Uluslararası faaliyet",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "19f26a7936f6c4eb750eaac3491d859f1efa8c6922e63c060a4ac3043a19f043"}
+  {:article/id "law/5737/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "İktisadî işletme ve şirket kurulması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "a8da970ea52bd2dc8fafbb1fedadb646f8164e4d8a6edc65ba9d1a8bd64b9bf7"}
+  {:article/id "law/5737/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "fbd544b6fc71ee4e17ed8c4e005203831db3e79921c1f31938b456662a331fe7"}
+  {:article/id "law/5737/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "8463e1d024c89e1db09e3b6bdd3092d4ca17b749bdbc9d46810f012951adf56e"}
+  {:article/id "law/5737/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Vakıf kültür ve tabiat varlıklarının korunması",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "225f84bed44c0e814078b3a1f82b3449c6a55973ea1cfff1b92bcc4361567c58"}
+  {:article/id "law/5737/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Vakıf kültür varlıklarının devri",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "9d5cb845e011da3f602f2d6d4e1b1d74d241c938e125a2119f367b3365ea81b5"}
+  {:article/id "law/5737/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "db9e37b8de1e6ddcd706f1fee53ed556b816b19b97f2f4b4726ea84b29d1d1f9"}
+  {:article/id "law/5737/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Beyanname verme yükümlülüğü",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "465871312be40286056097054568edb8d3455484557068cbeba9c055a61999f6"}
+  {:article/id "law/5737/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Vakıfların denetimi",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "83e8bcd4be07b52caa77d1d3ecce36de6336f8cb2aafe0d104a0c58f6cbcd2eb"}
+  {:article/id "law/5737/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Yönetim ve temsil masrafı",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "7a19ea4d1a91829f9b7429390761f65434330b55b9dc09f967253897dd9401e5"}
+  {:article/id "law/5737/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "b4aca3cadc9a01332c38bc38d0b02b316a1a430391479ade84d011b2a3681c71"}
+  {:article/id "law/5737/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Genel Müdürlüğün görevleri",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "bb42601a1d9a2b87c0aa139e4907a90773dd594c5ecef995420f926bb76a1539"}
+  {:article/id "law/5737/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Genel Müdürlüğün denetimi",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "50b1a59daabe94c2104d1de77de9e60c864326f660d7f046593adbe7ac56875c"}
+  {:article/id "law/5737/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Genel Müdürlüğün bütçesi",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "b5a5b37b828919a708cbd233571a512b9a8734ee6954623da3641c66fe15c669"}
+  {:article/id "law/5737/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Genel Müdürlüğün gelirleri",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "d70eaa168643942d295e1e02be876f5ac8050777676995ce48da3d273fb5e123"}
+  {:article/id "law/5737/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Bazı gelirler ile bağışların harcanması",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "7d3ca2969ec0c156817420eaa639aca5287328d422a540497e4f3d62bfb21952"}
+  {:article/id "law/5737/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "92f9f91da15db3a8a4658d6c0f15ff59f6504b8e40b9a65cb1ec43e4ec2e54ee"}
+  {:article/id "law/5737/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Meclisin görevleri",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "030a7074f559440ddb83c60c593779819c2b57627101d7c674ddee3484eff09a"}
+  {:article/id "law/5737/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Meclis üyelerinin nitelikleri ve görev süresi",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "c562929d8ef5b8324fc523a2ce5a038964d0d056162a1514c0ef4d2035389a8a"}
+  {:article/id "law/5737/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Meclis üyelerinin yenilenmesi ve huzur hakkı",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "f7edc2c80c0a06c9b329b4187fa588e9b0d1b053f35802297d482a96d55f4fae"}
+  {:article/id "law/5737/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Meclisin toplantı şekli ve karar nisabı",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "6a2886f9e95bb484344e0cea4da9bd167f88d3639c44936345cabb998edcf665"}
+  {:article/id "law/5737/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Meclis üyelerince uyulması gereken hususlar",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "b1c058f85c3246b51e503edfc451ef6049157f84d24b9e967359c5d6aea49ef8"}
+  {:article/id "law/5737/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "3b97de666d7d2e374db6174ff5e5a2541eecc5ad160ac2c7619ca3319499ed33"}
+  {:article/id "law/5737/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Genel Müdür",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "39c6e7757b5fab9e4b19e7cfa475443bce4672faa1c55f559e5637d802f84e8c"}
+  {:article/id "law/5737/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Genel müdür yardımcıları",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "e99ef657aa084ce6a49a25d8c0fdb167a19b64b053099f4b5727be86318f8db3"}
+  {:article/id "law/5737/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Ana hizmet birimleri",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "95a294f3d417d06026a1cc4454cebc831a66013ffe65534066ac7f984c1b39c0"}
+  {:article/id "law/5737/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Vakıf Hizmetleri Daire Başkanlığı",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "90336e23b2549c460cf705a89f09cc356f32e2b875ef7425a45c03f1ddc67f03"}
+  {:article/id "law/5737/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Hayır Hizmetleri Daire Başkanlığı1112",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "05254f3429eb4540f333c4689edfe0a241927f78f4113c8bf06f607600a48ae4"}
+  {:article/id "law/5737/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Sanat Eserleri ve Yapı İşleri Daire Başkanlığı",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "8c25e18afc36a139c418f10e60340de8d88c8c0057b8350291339e0d0220e5dc"}
+  {:article/id "law/5737/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Yatırım ve Emlak Daire Başkanlığı",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "99fcff6915a5ee1e85e50c5d0365dadc04ca4888bd18b3f0b377da610c84d769"}
+  {:article/id "law/5737/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Sağlık Hizmetleri Daire Başkanlığı",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "149c603b44afaaf0f39ee8775e584e587eec8f2264798768a9ea8ec1a85b6cbc"}
+  {:article/id "law/5737/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Kültür ve Tescil Daire Başkanlığı",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "eeefb8bf3e9f7ca2835dbb1f1cb2f1fbb288cee614c53adf31a88e4d3c75477d"}
+  {:article/id "law/5737/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Danışma ve denetim birimleri",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "ea8c46a08de8eced47463fa3d80c9e5ddddc24655750f260c262bf63ee045ebb"}
+  {:article/id "law/5737/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Rehberlik ve Teftiş Başkanlığı",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "4fe72e5ad3f6a72b357705061b84ca2ecba869024afa9b5c750cd35e1934b7fc"}
+  {:article/id "law/5737/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Strateji Geliştirme Daire Başkanlığı",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "56626386703f8f131ee44003861221041dc37621aaa3edc7ae4777a6f9dd66bd"}
+  {:article/id "law/5737/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Basın ve Halkla İlişkiler Müşavirliği",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "0bb9908f7355f05a550216dc16687052a0a3de69c6a900a0c3292183188fbac5"}
+  {:article/id "law/5737/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Yardımcı hizmet birimleri",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "937c0e88e77042bfeb13c617c60cd4c4ad231a662431987e516fbae82f4d6f21"}
+  {:article/id "law/5737/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "İnsan Kaynakları Daire Başkanlığı",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "4c80535b51315e2f41da3c22537cac8038483a49c88804a73939ec1e4a3a400e"}
+  {:article/id "law/5737/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Destek Hizmetleri Daire Başkanlığı",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "793232ec3a4ee1d43c0d48ecf2fc5c2c7990042df5df19c4cd7a0b16ad992f45"}
+  {:article/id "law/5737/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Taşra teşkilâtı",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "a7548f1604aeedf3cc9b821a8e794661381a892df529d54d4e49d4ddbc02176c"}
+  {:article/id "law/5737/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title nil,
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "a957668267eb1258fe3e17fa4637ea0d8c455d1e664be2f4a090a843101fac81"}
+  {:article/id "law/5737/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "Atamalar",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "4780123bda3a5dca0400721f617701326eaa1e8a680f5b0bc7240e4a712e8e44"}
+  {:article/id "law/5737/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Vakıf Uzmanı ve Vakıf Uzman Yardımcısı",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "319e2589098082ce4b75d1e156a601ce9efc152512123e24ed12969acf858e5b"}
+  {:article/id "law/5737/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Müfettiş ve Müfettiş Yardımcısı",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "36e36ccbf29f5648718618526be795d6b9e3caf7f6277e5e06df643985d88d81"}
+  {:article/id "law/5737/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Kadro iptal ve ihdasları",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "57a2df5a3b0546ffca44b15928085aad681c34fd36a22a81224e4319d8015b33"}
+  {:article/id "law/5737/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Performans ve vekalet ücreti",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "98410d386757d34545f0fa16154c27c92ea0b334d521a8e05bfdaa980d158eb5"}
+  {:article/id "law/5737/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title nil,
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "a0a9a3a4a1366a5c12b382481ca329eff011d1228898f6c3d42b8356bb814918"}
+  {:article/id "law/5737/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "Yetki devri",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "3b3ccf4599a22e8392cea323b32b578d107667a47132c912afdc449a25191d7c"}
+  {:article/id "law/5737/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "İntifa hakkı",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "2d0f6ced1e689807d64ab314416a06282bcb5e662a8120b57a2b198ed34ca237"}
+  {:article/id "law/5737/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "Mülhak vakıflarda hasım gösterilme",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "e849b59cc8e4e419892cb2ee4becb4715cc5bd4c904fe6253e1c57ea656837f4"}
+  {:article/id "law/5737/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title "Muafiyet ve istisnalar",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "94cde0a8445db7afa10034e940e7018da38e027b54c7ea32a9ffa0a12d3a5ee0"}
+  {:article/id "law/5737/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "Dava ve icra takibi ile alacaklardan vazgeçme",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "f38048468210cb52c3a9389fb8a199ba0052e37409aba877db2dfaea353a3667"}
+  {:article/id "law/5737/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "16da2ca3790b756ee707963b71c2ad0f8593b165bd4ccdb203e2777d10ee21d5"}
+  {:article/id "law/5737/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "3855a8f8e65deaa87fea4be615696aeadef8095d8372c92cc343442a07c957d8"}
+  {:article/id "law/5737/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "cbe7aa2d51f4d38b0e7d9ba4391614ae92af938d570bcc43accc41d15ce091b5"}
+  {:article/id "law/5737/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "4856967fbc21854da0819610a8016f98f274154a00f31944ba87abeef31b8e8f"}
+  {:article/id "law/5737/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "03a3f1a6c1c4675bde165128994b5e00ed6bb47c5bf253eecdc7fadc099d6ae7"}
+  {:article/id "law/5737/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "a4cdc6436caa78aa3fb55dcb2a4fff99e13de0d5ecc86d9da2dbef130acd0fba"}
+  {:article/id "law/5737/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "178d6b1d15d11981222e1bc287d523f4f68566071edcc4aa5e83011bdea155d0"}
+  {:article/id "law/5737/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "eba2b42fd407153b18ea2b3bd0bbf1b9335db45f817b958c54b08efffc3cbfd4"}
+  {:article/id "law/5737/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "5b386625dd4ff30f525db8f2689f218b65a3efb2bcfbc17f2dfcd608b7f62bef"}
+  {:article/id "law/5737/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "49fceae3da54e56034371a7657e80f08697eed95198983755df781b9e17fa04a"}
+  {:article/id "law/5737/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "7e80b7f5de5eebe5b6a2fa55b05b62881c441b06346d1efb2940228f99b3075b"}
+  {:article/id "law/5737/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "94300651d9eb4d6898ab57a55b52c23ee80243a4151ec173cc5a3d31db302f1e"}
+  {:article/id "law/5737/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "a3a3ed42129df5c9f3c2d43bea5d6951c317d876cb1093c04b6401a870d3eb79"}
+  {:article/id "law/5737/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "9a69d7ecd6a03a1af1f26addf76acbd1339e906c76805f26e686ea62aae59206"}
+  {:article/id "law/5737/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "bcf142b4afb56010510e0e46407c6249d727d7fe716b467a88e8962bfeb29fb2"}
+  {:article/id "law/5737/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "a52086c897e505eaa3ef8910fdfdb52b5e9211439b348aa8b100614e3dbd0c52"}
+  {:article/id "law/5737/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "4722b15d5cfd5d9472e2b34fed61c0f7cd3355b5a6706e32efd6fa9aa5990d2b"}
+  {:article/id "law/5737/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title nil,
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "123fd3d9c48e512db02a45239ac0cde605bbfd9bcb430eb7585d5345dbdc417b"}
+  {:article/id "law/5737/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title "Yürütme",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "9b2d8acb29bcbbf029a0b6386dc5e1d2a9e07ba07277094ac646d7b29adbdb25"}]}

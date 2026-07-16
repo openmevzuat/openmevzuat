@@ -1,0 +1,62 @@
+{:document/id "law/5898",
+ :document/type :law,
+ :document/number "5898",
+ :document/title
+ "UÇUCU MADDELERİN ZARARLARINDAN İNSAN SAĞLIĞININ KORUNMASINA DAİR KANUN",
+ :document/slug
+ "5898-ucucu-maddelerin-zararlarindan-insan-sagliginin-korunmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/5898-ucucu-maddelerin-zararlarindan-insan-sagliginin-korunmasina-dair-kanun",
+ :document/sha256
+ "4484ac61939d7e5e082a95f2e8e05a73a57a28bb87cf42a26fc2479965f7f425",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5898.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:40.231-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5898/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3f5c0122860241fa57e667cef9a66fc600dbfa0b032d6ef0a545e89684cb331d"}
+  {:article/id "law/5898/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "946d1985fd8b61e08d0b9560c836a1115d1fb70264893cd0a9321c80ad850a5f"}
+  {:article/id "law/5898/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7b4b39701f2e5f5cb8951ceefd1b4187d0b9b4f757b0bb2e209a1b23405879c8"}
+  {:article/id "law/5898/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7d240e7d3ee9c25a85294ccb4369a6369a2076d4bdc1138bd02bb75e7f6a72f1"}
+  {:article/id "law/5898/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "cb7d0b1a0ad7db308d99b06d472298d64664bfdcb9dd2bc834c3a57a034dd57a"}
+  {:article/id "law/5898/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f5a576ef5dac6ee55b1edad7fd243c22436fdc8bf9748109f47d38fec3791a33"}]}

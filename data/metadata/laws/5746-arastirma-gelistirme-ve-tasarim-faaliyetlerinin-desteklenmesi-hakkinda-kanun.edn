@@ -1,0 +1,76 @@
+{:document/id "law/5746",
+ :document/type :law,
+ :document/number "5746",
+ :document/title
+ "ARAŞTIRMA, GELİŞTİRME VE TASARIM FAALİYETLERİNİN DESTEKLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "5746-arastirma-gelistirme-ve-tasarim-faaliyetlerinin-desteklenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5746-arastirma-gelistirme-ve-tasarim-faaliyetlerinin-desteklenmesi-hakkinda-kanun",
+ :document/sha256
+ "f22e2f70653b17ff5ae228a77c75a86016b70ad80f71ff60fd0c9b31b1db412a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5746.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:53.174-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5746/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5873cadbdc2bf4d89343292cc08ec2a43fd2c55517c57d23cdb7f1adb4090444"}
+  {:article/id "law/5746/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ce63b14db91bd1812631204a42e10ae84ee8f014fa57be8242c63f992747e02e"}
+  {:article/id "law/5746/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İndirim, istisna, destek ve teşvik unsurları7",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "81c342024f19d6e52a8e36c30f21a1ebfeadf2a9018a9bc4c1ab09da1ac180b1"}
+  {:article/id "law/5746/article/3/A",
+   :article/type :normal,
+   :article/no "3/A",
+   :article/title "Diğer teşvik unsurları",
+   :article/path "articles/madde-003-a.md",
+   :article/sha256
+   "a62c357abde39c3ef2485791a54747212d673f226be49ace2ca30c9e6783cc64"}
+  {:article/id "law/5746/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "aea67ea1b7a9470c24d9f2be530219c6f3a49483b119ca24655eebdb369101b1"}
+  {:article/id "law/5746/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "19af292f9d2bfd221fd1e0e1e4f028cd33d95a54e63b018392b243c1dc8c7f13"}
+  {:article/id "law/5746/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "979404a45b2cbc6e4595cbe73a95aa60c3f5ff645ac42805fd7558e31e028d0e"}
+  {:article/id "law/5746/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "1156d9f41383f63e26c985c3a21b0a2c31c284754bad396422bd95d1d6d93529"}]}

@@ -1,0 +1,75 @@
+{:document/id "law/5729",
+ :document/type :law,
+ :document/number "5729",
+ :document/title "SES VE GAZ FİŞEĞİ ATABİLEN SİLAHLAR HAKKINDA KANUN",
+ :document/slug
+ "5729-ses-ve-gaz-fisegi-atabilen-silahlar-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5729-ses-ve-gaz-fisegi-atabilen-silahlar-hakkinda-kanun",
+ :document/sha256
+ "7730ccf01fdc2e11768d329329212e1a18445465d353c6015773857462e88f20",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5729.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:37.679-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5729/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "52501f811e49211520b256850e446d44fb7e57d68937f85ca6e02a39f9307312"}
+  {:article/id "law/5729/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İmal, ithal ve ihraç",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5bee05d08a56f05e97b882e4d95f25c1c12df6134e86c27ae5bd6f859bcef27b"}
+  {:article/id "law/5729/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Taşınması, satışı ve nakli",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "634a4f2fd987255e51457ab49892b3ddc237081a582947eed0c508df5ef712cb"}
+  {:article/id "law/5729/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "edeef3e0bc8bc04203ec0d540286a48049fe4000baccd8f9786980b6280c5124"}
+  {:article/id "law/5729/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0fe7b732726a71e221ba72c084eaaf6a9c7169f8b428b98cac79fba8c5f151bf"}
+  {:article/id "law/5729/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçici hükümler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "83505b1602d77cb2e84d943cf8210df2c44e9663ba77a551f237e15584317312"}
+  {:article/id "law/5729/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ac11c0385aacf830dad14bceff6c95a1cfe7f957a2a2e71207a909c0b3cbe199"}
+  {:article/id "law/5729/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7f08493ef5e48c149df8e822333343b2f0f6eee894e7c2dd850107ae62e770fd"}]}

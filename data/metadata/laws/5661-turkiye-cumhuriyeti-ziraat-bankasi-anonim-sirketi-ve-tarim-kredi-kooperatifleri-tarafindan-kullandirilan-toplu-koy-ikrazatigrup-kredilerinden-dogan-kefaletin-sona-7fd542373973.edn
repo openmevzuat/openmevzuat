@@ -1,0 +1,69 @@
+{:document/id "law/t5-5661",
+ :document/type :law,
+ :document/number "5661",
+ :document/title
+ "TÜRKİYE CUMHURİYETİ ZİRAAT BANKASI ANONİM ŞİRKETİ VE TARIM KREDİ KOOPERATİFLERİ TARAFINDAN KULLANDIRILAN TOPLU KÖY İKRAZATI/GRUP KREDİLERİNDEN DOĞAN KEFALETİN SONA ERDİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "5661-turkiye-cumhuriyeti-ziraat-bankasi-anonim-sirketi-ve-tarim-kredi-kooperatifleri-tarafindan-kullandirilan-toplu-koy-ikrazatigrup-kredilerinden-dogan-kefaletin-sona-7fd542373973",
+ :document/path
+ "data/canonical/laws/5661-turkiye-cumhuriyeti-ziraat-bankasi-anonim-sirketi-ve-tarim-kredi-kooperatifleri-tarafindan-kullandirilan-toplu-koy-ikrazatigrup-kredilerinden-dogan-kefaletin-sona-7fd542373973",
+ :document/sha256
+ "069bad9b56fdcdefa3a54641b73c464bc03107889c2c71906ddfd70546759b53",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5661.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:55.347-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-5661/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kefaletin sona ermesi1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e098838ae7186350e9580d41be9aea3d760b09ce927feae9f0d3e75f456bdd3c"}
+  {:article/id "law/t5-5661/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Çiftçi belgesi istenmeyecek haller",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0cba2ae5b029109194418ef281fbbfab2c064d6c7baf2e17cec9059adf571fb6"}
+  {:article/id "law/t5-5661/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d9e6d2ed7c241fc65dd6053a1f82997777e40110c69caafaf0503333aa8fdcd2"}
+  {:article/id "law/t5-5661/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3d99413af6d4e0a25b776ffe80d3a1ddd6a0e4d7aa9961d43d4774c4a8d28b9c"}
+  {:article/id "law/t5-5661/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "914a0792bfb1ccf11e194b0f0290aa8d13d7fd6b3fa5b75384f746dd974c408d"}
+  {:article/id "law/t5-5661/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "48a961eb42a05a0e14b34d892a1b553be18d533f435c58ea6b664d70efa6faf7"}
+  {:article/id "law/t5-5661/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d4848436e6bc2574d0aa434d89ff8b1515d74dea97038d84288f9199cd46d6c7"}]}

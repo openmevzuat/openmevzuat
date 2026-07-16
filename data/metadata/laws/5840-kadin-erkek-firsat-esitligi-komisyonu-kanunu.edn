@@ -1,0 +1,81 @@
+{:document/id "law/5840",
+ :document/type :law,
+ :document/number "5840",
+ :document/title "KADIN ERKEK FIRSAT EŞİTLİĞİ KOMİSYONU KANUNU",
+ :document/slug "5840-kadin-erkek-firsat-esitligi-komisyonu-kanunu",
+ :document/path
+ "data/canonical/laws/5840-kadin-erkek-firsat-esitligi-komisyonu-kanunu",
+ :document/sha256
+ "cd23785de1838fb1754b307476bb3334afa099ea7d3fac4431e3ec437c7b25cc",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5840.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:30.900-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5840/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "53706bac1e2afb0d2645fc25bbbfe25b7e4b5398b7d50a2ef731084b67c8f33e"}
+  {:article/id "law/5840/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Komisyonun kuruluşu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "77ba948b848cc371b3cc67ca1e12e0d9ec7bd44fe982c7f8e9babfc1aa8ef3e3"}
+  {:article/id "law/5840/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Komisyonun görevleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "384fe902de220e4a6434693b9c8f10ae37c1d1a3af1ce26c9c0ebf05b554ff32"}
+  {:article/id "law/5840/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Komisyonun yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f516e4e4a8f389c2d96de03fe55e4cbf5bdf147cdd329bc5a732db688a9b8f7d"}
+  {:article/id "law/5840/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Komisyonun çalışma usul ve esasları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "70baa128cca182ef216b28ddaa2f9bd29bb6a9e0a613c9571e674bbeaa5110e0"}
+  {:article/id "law/5840/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Uygulanacak İçtüzük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e65fc8ef9ecaa42481d7414915215d12b9be7774beb961051ce9ed343e92a2c8"}
+  {:article/id "law/5840/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "985a1cc46729a87bbe64e09ad71bd6a528397466a914a08eb2b96db0180232ee"}
+  {:article/id "law/5840/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "05a00b74071041eb5f518e9e1c8ffed8e4da055088684b6fc301a4329a014671"}
+  {:article/id "law/5840/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "24bc645b71e6e8ef3319d3c5e301d451ddea96a82c3cb521e73c06262cc5bd26"}]}

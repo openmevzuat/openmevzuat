@@ -1,0 +1,485 @@
+{:document/id "law/5718",
+ :document/type :law,
+ :document/number "5718",
+ :document/title
+ "MİLLETLERARASI ÖZEL HUKUK VE USUL HUKUKU HAKKINDA KANUN",
+ :document/slug
+ "5718-milletlerarasi-ozel-hukuk-ve-usul-hukuku-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5718-milletlerarasi-ozel-hukuk-ve-usul-hukuku-hakkinda-kanun",
+ :document/sha256
+ "0e3a288726d01db675f1e343a5b551db422f6dcd0795e098584439e4f4d6742e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5718.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:31.631-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5718/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "45701a552b40374e097196a10c6bafe5918cbcaa5598f90500fea0232c8cc59e"}
+  {:article/id "law/5718/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yabancı hukukun uygulanması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e4d4383b0423b5fd48b52a58ea1467d70af8b876b83f7510953f513a2d2c1595"}
+  {:article/id "law/5718/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Değişken ihtilâflar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e175bdd46c9b45b4f2ce256b4bbcaee3590805e6d2daeeab3043e4b66c8e483e"}
+  {:article/id "law/5718/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Vatandaşlık esasına göre yetkili hukuk",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "376693ebe82800598e76f4d6348d96107985062085f1d7fbed79de754f98ef04"}
+  {:article/id "law/5718/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kamu düzenine aykırılık",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "fb31f0f4271aa57b1f0c20cdfce57457f53256f1fd2e9da102ffa2fb9bf05576"}
+  {:article/id "law/5718/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Türk hukukunun doğrudan uygulanan kuralları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a168bd9c0c49c5570b5b079c0e291338dd93f58f0d73a7fbe68ebe207cbeafc7"}
+  {:article/id "law/5718/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Hukukî işlemlerde şekil",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f892198588132b5af65b4a25265e8f4a80db417e475697f2504a9b933fe9e32d"}
+  {:article/id "law/5718/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "08cbd0bd5b1acd3efae019e6d3c6808aa0b029911d028d4dee42e76f5245c968"}
+  {:article/id "law/5718/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "7a0834c272de34aa9007d1a2b76ebf256f64cc3c6c0034c24734a04ee3d92d77"}
+  {:article/id "law/5718/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Vesâyet, kısıtlılık ve kayyımlık",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "1fff02550b844a1dd06fed2a2ef304743a97214929a723171cf2b08082ab8f64"}
+  {:article/id "law/5718/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Gaiplik veya ölmüş sayılma",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "feaa19d4cfdbc669d5737bbb37a21ad1ed2ad01dbef8f49bd0d7718c4676b964"}
+  {:article/id "law/5718/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Nişanlılık",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e6fbfafa86684d5ee90e91cb1775b3eaf936e3dcf4ac3d7144c0c5128a3fd889"}
+  {:article/id "law/5718/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Evlilik ve genel hükümleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "abe25571a8b45d3d448ff5c0bcdb9ee91f5233b4e603d204c6c1df7309fc6d89"}
+  {:article/id "law/5718/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Boşanma ve ayrılık",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ebd394be646ec1b3465900f57917a49b68f8307aae18f451e469658b14453b01"}
+  {:article/id "law/5718/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Evlilik malları",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "9879f3328b75fa0625a9968705261126468f6539ed55d3283d092f9846a76ed1"}
+  {:article/id "law/5718/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Soybağının kurulması",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e09888080bff30d8810097f4e7315073d3acdaad716c159a4e1e9672f1cbbeb0"}
+  {:article/id "law/5718/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Soybağının hükümleri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "b6586299808098e881177a1fc44d4907c4afad3aebc6cbdfb9fa15d38ca3b354"}
+  {:article/id "law/5718/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Evlât edinme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "ee95bb93b9fb3d66b8ff0abc27750b325382dc36486fb1e825935f88470770ea"}
+  {:article/id "law/5718/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Nafaka",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "610ad354e4788cfcc01c1cdec7bbf1ed57d130746cec5da353a1156745cca9b1"}
+  {:article/id "law/5718/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Miras",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "1b397fd3a8906bf5d8d8e3ac90a36d22cc3c9a3de3244a5ae8faa6b14268fc3a"}
+  {:article/id "law/5718/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Aynî haklar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "aa5d44bc38fe3846c6e54d84f7fa5b5a2430f3b8b8c99989555b153a04d5f4e1"}
+  {:article/id "law/5718/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Taşıma araçları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "a833f25c3c3ed2993d6f2c962ebab72b382ade9800c05a1e3bff68b0737a8ab8"}
+  {:article/id "law/5718/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Fikrî mülkiyete ilişkin haklara uygulanacak hukuk",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "526fe30323aee3a807e0538750cb3eb29ed305bb53d3b9415af4af9bcc58e5b0"}
+  {:article/id "law/5718/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Sözleşmeden doğan borç ilişkilerinde uygulanacak hukuk",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "d90f1d744bee1f3e331721046a5715add238a5503cb4e834681c38527e9418e4"}
+  {:article/id "law/5718/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Taşınmazlara ilişkin sözleşmeler",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "48a3780ebfa636d4ffdd60e66ebf8afa3d9c279b646302b380bd97c34d1a3ebd"}
+  {:article/id "law/5718/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Tüketici sözleşmeleri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "f2ac4543df3e87de2c30185641c453cd4e0d03dc1f42b59decd1ac0441270f98"}
+  {:article/id "law/5718/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "İş sözleşmeleri",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "5cb012a1b339391ca4376015945f2dc4847235abaee44756fdfc9ec7e4e6738b"}
+  {:article/id "law/5718/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Fikrî mülkiyet haklarına ilişkin sözleşmeler",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "368ac077451b75c341c60dc40d0bf8bb097b556d7c5f178e92a4ba4eb9a482e9"}
+  {:article/id "law/5718/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Eşyanın taşınmasına ilişkin sözleşmeler",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "a387ebbd9fad185db1d46272bf8df1c295e5c45fdab7ce4de1f3e35a5fd703f9"}
+  {:article/id "law/5718/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Temsil yetkisi",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "b0926d41d68c279d8554cfed8e648165791c819a6df6084694e7d877ebcb75db"}
+  {:article/id "law/5718/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Doğrudan uygulanan kurallar",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "9db8008b3b368def09202938fa3e5d2d5da85e86f4881c69a11f853286317228"}
+  {:article/id "law/5718/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title
+   "Sözleşmeden doğan ilişkinin varlığı ve maddî geçerliliği",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "780120edd7dde781f48da4291f16bc24d9f3376eedf813a357edcf8749141220"}
+  {:article/id "law/5718/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "İfanın gerçekleştirilme biçimi ve tedbirler",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "371efc74827233d6fdbb9eed0857f0e6dbdb9574836c91c9be8a76b576206429"}
+  {:article/id "law/5718/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Haksız fiiller",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "29a6361c6de6c89176328347946a6b812ea7390bf2cbdaf1f7981388462c05c4"}
+  {:article/id "law/5718/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Kişilik haklarının ihlâlinde sorumluluk",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "81c092a2446872245ed58ddeb392571ec7d6730ec77906e84d730e60319d3627"}
+  {:article/id "law/5718/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "İmalâtçının sözleşme dışı sorumluluğu",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "0702f340fef890da3c875855ef14a7f822ad9b688251ccd55edc40096eb894ba"}
+  {:article/id "law/5718/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Haksız rekabet",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "9dd3d6064e5d175b6cb41c5e306c235ded2684be7404ce3094f661127bddd042"}
+  {:article/id "law/5718/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Rekabetin engellenmesi",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "b1cc5db07c6eb92009f1cedaa89267f566f2e11116a24cfa73d1e9ea07824a2f"}
+  {:article/id "law/5718/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Sebepsiz zenginleşme",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "580e1aece799d7e86f2dd35e513118ccc83bcd48fa6e1902f6b15154df0ccb35"}
+  {:article/id "law/5718/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "45eac76ccca0c94f53f0d3d52ad546cb4db17ba1a01d7be090fe0d661e5c694b"}
+  {:article/id "law/5718/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Türklerin kişi hâllerine ilişkin davalar",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "5c1825b416901839a9ec1c0ffde07f93344494bce58c88ca5e33b67b3c476188"}
+  {:article/id "law/5718/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Yabancıların kişi hâllerine ilişkin bazı davalar",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "495af91198fe15577f91e94d281257cd990cdba70ca5ff6e1af992f936c082f9"}
+  {:article/id "law/5718/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Miras davaları",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "2f3c212801a09ed8a63d7827dd9d22125db87ac9e7370c83b1408570eecd6628"}
+  {:article/id "law/5718/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "İş sözleşmesi ve iş ilişkisi davaları",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "9ae78dffdda69bf8aebccb58f788ae22038f0123932cea0e2d0f6e01e60161e8"}
+  {:article/id "law/5718/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Tüketici sözleşmesine ilişkin davalar",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "3468eaa83a52c043e1ac6bb48e2f8cf9d03091242d92b341adb58adc7cf857fb"}
+  {:article/id "law/5718/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Sigorta sözleşmesine ilişkin davalar",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "7745c3546ce0450fbf067513d225776d3464aa7c24d4ae8eb7082ab7d77c1098"}
+  {:article/id "law/5718/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Yetki anlaşması ve sınırları",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "fab73b3ddf7f918426b0f03b9b9ab1f79420ea4519f7c52669aaac2cf44d06dc"}
+  {:article/id "law/5718/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Teminat",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "4b742400d4e4cda51123414c90511b29ad0a99fa65838f02bd290e7b8e982035"}
+  {:article/id "law/5718/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title
+   "Yabancı devletin yargı muafiyetinden yararlanamayacağı hâller",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "a1a77d11e4dcea5e32205a82359d5cbe8e1fa08ec3cf137a840252a8546c8c9c"}
+  {:article/id "law/5718/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "f4f77a3ee906166bf76c0f56c39e9f1172afb1ff411f6a78c6d24ae22ef2d07b"}
+  {:article/id "law/5718/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Görev ve yetki",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "51d543a4435d0d5767601a020fedbe8715bac5e83a4d98704a973321ebf2a425"}
+  {:article/id "law/5718/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Tenfiz istemi",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "ee115aa9404c24cd59b4e8c6c87d80852d1278481c60046f617019d7f3cd518b"}
+  {:article/id "law/5718/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Dilekçeye eklenecek belgeler",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "6b5ccb66fc9266609929818139522a52da159553aaffef7113ff83576e342c4e"}
+  {:article/id "law/5718/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Tenfiz şartları",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "2c7b72abab772d1be9686f4d9cf5e7c8cfbeba5ac59c2bda022f81d4c696dca3"}
+  {:article/id "law/5718/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Tebliğ ve itiraz",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "bb3b68422a08aa18f6454127a6a4e855a7f0762652f4a304a9c877ea927df678"}
+  {:article/id "law/5718/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Karar",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "26d4bb183d2b3ca10c087117a705cc66a47bf3b662452b6b89635e25373f6ad0"}
+  {:article/id "law/5718/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Yerine getirme ve temyiz yolu",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "b4e5f7224a73a133f303065c0d3e73f3892cd1f0fa127d40086113ca883128cd"}
+  {:article/id "law/5718/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Tanıma",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "f385336efa89e97ff42c96b3624c749399c40f34d13c66862c30680829dd4b4d"}
+  {:article/id "law/5718/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Kesin hüküm ve kesin delil etkisi",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "bc8f8fc3701ee83a2f6eab14bf2ab2fd9b567374ff9ab7c5262f55d62ac90515"}
+  {:article/id "law/5718/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Yabancı hakem kararlarının tenfizi",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "05e10ccf4d2379a4292dbffcb3f87ffb455c5993d3d4040cda5c1fb40d4d6122"}
+  {:article/id "law/5718/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Dilekçe ve inceleme usulü",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "67dff4f4279c47773d45aad2a071558669bfce10daa9d0c2bafc9248e5eb907e"}
+  {:article/id "law/5718/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Ret sebepleri",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "68b6456bde150d797f6fa4271c97128a645bf43c046004467352342bb8865c7b"}
+  {:article/id "law/5718/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Yabancı hakem kararlarının tanınması",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "b964a5c94ace183fe8fee66404f71c49a4cdf4fde844134cd95e7b141dbc0327"}
+  {:article/id "law/5718/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "5f42ae2c1488fb5ea0acb7ab2f8ed2c744432df1434772e5e8ad760bb2b502a2"}
+  {:article/id "law/5718/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "f33362186bdbbaa55f8909661360ae1172026fd4a8ee4c012bc17c4182dfb723"}
+  {:article/id "law/5718/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Yürütme",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "c0da8b1e7bfbef2c3514996ce8372609e509719f14c4b92ed93b8acebc9b3f4f"}]}

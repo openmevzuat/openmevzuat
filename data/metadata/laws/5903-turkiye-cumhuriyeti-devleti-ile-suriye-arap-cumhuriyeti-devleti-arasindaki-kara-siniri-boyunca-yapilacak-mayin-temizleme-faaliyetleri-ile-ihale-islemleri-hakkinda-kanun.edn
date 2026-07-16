@@ -1,0 +1,62 @@
+{:document/id "law/5903",
+ :document/type :law,
+ :document/number "5903",
+ :document/title
+ "TÜRKİYE CUMHURİYETİ DEVLETİ İLE SURİYE ARAP CUMHURİYETİ DEVLETİ ARASINDAKİ KARA SINIRI BOYUNCA YAPILACAK MAYIN TEMİZLEME FAALİYETLERİ İLE İHALE İŞLEMLERİ HAKKINDA KANUN",
+ :document/slug
+ "5903-turkiye-cumhuriyeti-devleti-ile-suriye-arap-cumhuriyeti-devleti-arasindaki-kara-siniri-boyunca-yapilacak-mayin-temizleme-faaliyetleri-ile-ihale-islemleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5903-turkiye-cumhuriyeti-devleti-ile-suriye-arap-cumhuriyeti-devleti-arasindaki-kara-siniri-boyunca-yapilacak-mayin-temizleme-faaliyetleri-ile-ihale-islemleri-hakkinda-kanun",
+ :document/sha256
+ "258115937bd3c8f0f514fa7ebeec45e1e86fb339f22161457aece070ff3683b3",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5903.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:49.773-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5903/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f8bdf27a8b262b6a6c8c17ddbe04058fbd176db1ffe7e60a47ac2687ebbfcac0"}
+  {:article/id "law/5903/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İhale işlemleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "38a5163e6f30b16571a814d4ae0113d346ad427d4f9a2caac18edbf2aac5b6e6"}
+  {:article/id "law/5903/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Mayın temizleme ve arazi kullanım süreleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5c1710621c61dc19038e27d32898d06e8803d3ee0573be0876e5788fadb3c729"}
+  {:article/id "law/5903/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Danışmanlık hizmeti alınması",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "58891dc33af6084215a013b8337ab1141e6326783d3b63e99e3467022aee9315"}
+  {:article/id "law/5903/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/5903/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9013068e4d3316a67b807de9734700267b19bd55265d10c200ab2c1157665cb2"}]}

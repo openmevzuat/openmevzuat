@@ -1,0 +1,90 @@
+{:document/id "law/5811",
+ :document/type :law,
+ :document/number "5811",
+ :document/title
+ "BAZI VARLIKLARIN MİLLİ EKONOMİYE KAZANDIRILMASI HAKKINDA KANUN",
+ :document/slug
+ "5811-bazi-varliklarin-milli-ekonomiye-kazandirilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5811-bazi-varliklarin-milli-ekonomiye-kazandirilmasi-hakkinda-kanun",
+ :document/sha256
+ "79b8d185b0849ed92b47776d4b37c925cc328a9bc2302a9bf296ffce2069590e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5811.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:21.486-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5811/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "216d1898cd5e0215921085699f44adafa3c3af20db6f5e57786ed8f8a6a6e93c"}
+  {:article/id "law/5811/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "bce0ecf70d13360fa2f01c2fa93037f24988de4598eae83b422a9e9c92d72600"}
+  {:article/id "law/5811/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Uygulama esasları1",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "06c1756091a310daf767b4a096bd9e2f279ec866f78fd748f0e685e10750dddb"}
+  {:article/id "law/5811/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Düzenleme yetkisi5",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4040bad0528747d6952b5c510256ada58523971ab640ab79f6597c91bb241faf"}
+  {:article/id "law/5811/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7e0b862f09c35c4b5079c55b422be0034de2bdd6325a318084b7d7546048aaea"}
+  {:article/id "law/5811/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "5d8f411a5703d33970a8ae26eda3a15fa1bc39b73570190ba47515a4c450d4a6"}
+  {:article/id "law/5811/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "41954b9e6920988bda5d4e149073f7dbf02c9b36d8d454d56b5601929440b608"}
+  {:article/id "law/5811/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "892408e7209518ae69376b5957b7427964306602e6daea1e9f18b87434a6af20"}
+  {:article/id "law/5811/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/5811/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f679ba54a2d7d493b83ea4d4f7619eb5b267e1713e6206201f249d4291516470"}]}

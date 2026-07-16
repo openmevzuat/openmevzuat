@@ -1,0 +1,113 @@
+{:document/id "law/5779",
+ :document/type :law,
+ :document/number "5779",
+ :document/title
+ "İL ÖZEL İDARELERİNE VE BELEDİYELERE GENEL BÜTÇE VERGİ GELİRLERİNDEN PAY VERİLMESİ HAKKINDA KANUN ",
+ :document/slug
+ "5779-il-ozel-idarelerine-ve-belediyelere-genel-butce-vergi-gelirlerinden-pay-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5779-il-ozel-idarelerine-ve-belediyelere-genel-butce-vergi-gelirlerinden-pay-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "29fe74e252d7109d92c8d13e1c5191eaec6a15e06a2526a590d7ed928909f5fe",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5779.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:09.584-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5779/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b9b67e88f5a55a18b35e587e1e4326e233f8573b1a8ff27e0140be43c41540a0"}
+  {:article/id "law/5779/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Payların hesaplanması ve oranı",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7eb5c41004a39d4e961c04eed5a244dd0a708538e292bc53588b6940cb6ec794"}
+  {:article/id "law/5779/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Payların ayrılmasına ve gönderilmesine ilişkin esaslar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ab79729cbbd16057d7a8548746b7c36c700851ca36703c62a0f430ec92d75558"}
+  {:article/id "law/5779/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İl özel idare paylarının tahsisine ilişkin esaslar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9003f04672e4e949541a9e083e5e2d19d13f3ccba8e73bf73d4fd4f048b3e550"}
+  {:article/id "law/5779/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Belediye paylarının tahsisine ilişkin esaslar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bf90668fb5c9d57541d729de29e374c7e106487a7acfc2d1a1e7003ef2e603f9"}
+  {:article/id "law/5779/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Denkleştirme ödeneği ve belediyelere yardım ödeneği4",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d86c8119032e326c560a6be5e49fbad95f71945e446a4da1bb4fe5bf1bee024c"}
+  {:article/id "law/5779/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0bdb8c6ef6416cf1a3e90ef3b2822b14d09fb6fd87473310d9a74c41ace17db6"}
+  {:article/id "law/5779/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8c6f26f89163e370989a099f7ffa155feb1442b1f7623e8ee29065d4c3a56f95"}
+  {:article/id "law/5779/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "455d5d8f7d759e281a08869e49a6142e5d4826a9ce7f1fd7e5c985b587a116dd"}
+  {:article/id "law/5779/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "971f3935ea9b6b33499d4b3d14d652421e917532cbf50be4ae0754a47138ea2a"}
+  {:article/id "law/5779/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "87cea16e113552ddedbc42105070cb1df15f56429af429775d82340091228be9"}
+  {:article/id "law/5779/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "91bd47630002ee365ca311a892e7240e354a1f1ac335e237acf75a9b45b0ca9c"}
+  {:article/id "law/5779/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "31bb3b9251cc9467836c99e6341390a591afbbb76a7554d712fed4be3ad2eaae"}]}

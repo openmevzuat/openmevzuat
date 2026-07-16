@@ -1,0 +1,579 @@
+{:document/id "law/5809",
+ :document/type :law,
+ :document/number "5809",
+ :document/title "ELEKTRONİK HABERLEŞME KANUNU",
+ :document/slug "5809-elektronik-haberlesme-kanunu",
+ :document/path
+ "data/canonical/laws/5809-elektronik-haberlesme-kanunu",
+ :document/sha256
+ "49fb08b05b1518c83b26874c2375cdb2c3017df08678d8123e8b043555e2bcf0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5809.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:16.844-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5809/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "57efb84a2db3269bd531411655ca16692e83e21b22ea5838fe3f2ebd14eb4b40"}
+  {:article/id "law/5809/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0a5c04b9b8f4d123c6f5a7d805200bd2263aeef1e932f80d9e7483b0a50779cb"}
+  {:article/id "law/5809/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d34eedafa9d05a982d5e8c621dd2929027321647b59396ec861401b298a45291"}
+  {:article/id "law/5809/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İlkeler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b3fa783d2e09a0d12fae79b5107838e9c546c27f524286560d1a3618c53eca83"}
+  {:article/id "law/5809/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "7a1fda10a312154d3445c1b70647956b0e125bd4f890660e1c865a0a86126a07"}
+  {:article/id "law/5809/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kurumun görev ve yetkileri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e6f92680c9c58bf7bb2c2018ac07492bc70645e8fbe9ca2288c2c319f36be50a"}
+  {:article/id "law/5809/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Rekabetin sağlanması",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7a5018de2b8da8bcca10b27ecdaf28b567151951d262579191b396d503a03bf7"}
+  {:article/id "law/5809/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "926f82288741e6ef10b46ad48a59ef0b9e073c4915181023e108fe107ccbb137"}
+  {:article/id "law/5809/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yetkilendirme usulü",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e7822b1d7002eb36bb24e7836ebd19ac12b2116a913f6a7da291e546724af22f"}
+  {:article/id "law/5809/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Deneme izni",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "0a68bb3a97867aecb6cd8c7359ce78ee8115a847a66e8819a8623fbbf33b4d34"}
+  {:article/id "law/5809/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yetkilendirme ücreti",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "c25fbd0d37785cbc17e7cd5a91f2a67cb24cdb1e58c69a30e7b4fd51d0e16275"}
+  {:article/id "law/5809/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İşletmecilerin hak ve yükümlülükleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4923502b96fc91801b74a9631a9799363ec4f729a0d31412d961e01ef7e45496"}
+  {:article/id "law/5809/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "f968923b7024a9099e019604f0f51d63ed36e4bdce3ea7209f31973e15a43f5e"}
+  {:article/id "law/5809/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Tarifelerin düzenlenmesine ilişkin ilkeler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "52680fa874bd88aeebb7adf10940d97654294f26a75be9d7fa7568e5a257f692"}
+  {:article/id "law/5809/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "bd7da792f8ee676ea6b1395068967116e7850850ab8fb7b7574bb70236df5679"}
+  {:article/id "law/5809/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Erişim yükümlülüğü",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "884793b06bfebb8fb6d9265946f5c803889adc4923945677672fbf6349ee4c87"}
+  {:article/id "law/5809/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Tesis paylaşımı ve ortak yerleşim",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "44fc9d87e17cde0b01d91113b542a0b01074f6d3fa3c0a3716f5752349f27371"}
+  {:article/id "law/5809/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Erişim anlaşmaları ve uzlaşmazlıkların çözümü",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "10df576ef64439f595a5ac1d7ff1b84a80037f73189ac57dc1eccacc32c03451"}
+  {:article/id "law/5809/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Referans erişim teklifi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "12d37785f30aa8a372d4818bd003d9c3fe258d4d3545eb94c0cdd827cc77c355"}
+  {:article/id "law/5809/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Erişim tarifeleri",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "3f52a77ee0041705cea5d084869218b6f52d0e300b2911e5424ef12e93df21f7"}
+  {:article/id "law/5809/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Hesap ayrımı ve maliyet muhasebesi",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "54eaa77429d9e82f81dbc81b8cb44de3f3b9a91cce9a84d71937195d8d0b6f38"}
+  {:article/id "law/5809/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "50470f0dd5a075cdcc8554483970b476734a4b15f0f7ec89f9d06625a6940925"}
+  {:article/id "law/5809/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Geçiş hakkı talebinin kabulü",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "007f7be018be8464e5df5fb128f4d879359be3df058d236f9c70f53861b0dbcb"}
+  {:article/id "law/5809/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Tesis paylaşımı ve ortak yerleşimin önceliği",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "140df4e3a2365d3d4363f2dcd3a5d926c7871386f13366f623e160e23a846c92"}
+  {:article/id "law/5809/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Anlaşma serbestisi",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "35f1254b3f3481452673a019064420c2e2467f6d5c8a221a3fe1c4d71e3436a6"}
+  {:article/id "law/5809/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Çevrenin korunması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "108f61d756e69326487e1ec236afb6b98a9e1bdf828637a76a0722ac85b64b20"}
+  {:article/id "law/5809/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Diğer alt yapılarla ilişkili durumlar",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "68eba0023e7711906574a875554a87648f0729a79c27dfb7b89568772bfec279"}
+  {:article/id "law/5809/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Geçiş hakkına ilişkin yükümlülükler",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "21c112df06d0f7abe9b0baf9a875293c55f4b31cfd307d739d48ea5fa9a1cf49"}
+  {:article/id "law/5809/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title
+   "Yetkilendirmenin devri halinde geçiş hakkı anlaşması",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "c31b2babe17c5c8c72d2d6f57492ec68d24a76387252d7a2c706fc91f3e75567"}
+  {:article/id "law/5809/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Kamulaştırma",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "4794d2724f4e63469181404f6b5517417bb88a6feb04a3794ebfbb87ac5e2278"}
+  {:article/id "law/5809/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "9cae8dc929875f3f4da6ed92ebdd883af8f518d6c09c2f2a52aee238cf83a5dd"}
+  {:article/id "law/5809/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Numara taşınabilirliği",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "28886e0b5362b421d4264f4b712c3989ee0ecbe50ddb0a89c12de255f87b697e"}
+  {:article/id "law/5809/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Taşıyıcı seçimi ve taşıyıcı ön seçimi",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "751ad87cbf23e0ed95502385e7255146aefebd1051776bc056bc59dc28e8ba8b"}
+  {:article/id "law/5809/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title
+   "Haczedilmezlik ve haberleşme hizmetlerinin sürekliliği",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "d561598110fb0d7c89f1e9b369bc36c638df6b8ee029cb59f05d92dcec203589"}
+  {:article/id "law/5809/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "İnternet alan adları",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "0fa90ad1ef1fca0a875d600f9c031a614cc90dd2d87d340c1f70dd7edaea0061"}
+  {:article/id "law/5809/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "9149d015ee3aa6af27d46af0a9d7fe3cf678c7b4a34e269e04a83cddc72becf4"}
+  {:article/id "law/5809/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title
+   "Telsiz kurma ve kullanma izni, telsiz ruhsatnamesi ve kullanıma ilişkin esaslar",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "8f9102f5d19d17cf3b8c7a6d9ae64c496ded4cd3f43e01bdcb8b847960e1e67a"}
+  {:article/id "law/5809/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Uydu pozisyonu tahsisi",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "0c42aef0d5e29779c85764c6574fcee0e0fbcec186a8295c4a859f071de4005b"}
+  {:article/id "law/5809/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Kodlu ve kriptolu haberleşme",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "e520c5d2c10ef65606aee5e2e9a0c0fa392da2c44be4dd8ea31e86e14d48e647"}
+  {:article/id "law/5809/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Spektrum izleme ve denetimi",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "3539026492d3e8568f2b8e0bcb5b8160cf757c1583e62312519d18958ed34cd8"}
+  {:article/id "law/5809/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Yabancılara uygulanacak işlemler",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "5f651cc34314b812600034d93acb3ea359f6072657197dc952e10e0ab556e665"}
+  {:article/id "law/5809/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title
+   "Sahil telsiz istasyonları, deniz ve hava bandı telsiz sistemleri",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "71354fcdb9bac4420c185ffcd8c5aab408245310317435feb9091c087b877654"}
+  {:article/id "law/5809/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Amatör telsizcilik",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "dc5f39df74e18dafe41e65b1a6cf84cca5516c46ce88191491480a1bcad78f5b"}
+  {:article/id "law/5809/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title
+   "Hava ve deniz telsiz haberleşmesinin uluslararası koordinasyonu",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "d62639615c7d1b55c7ee6a9fdee6417393dbf9042d5ca87450ab6d509c675fd4"}
+  {:article/id "law/5809/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title
+   "Yasak bölgelerde yabancı uyrukluların kullanacakları telsiz cihazları",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "f9c4fb29d39a102ad8af7b5c8cbdc70ca7c56275cea0cc19df027fe3dfe2a6e2"}
+  {:article/id "law/5809/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Telsiz ücretleri",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "a0578fb88a4638b3b9f9e9e69d7b23c900ca8ceda026b6b448ea2c2ab2a7323b"}
+  {:article/id "law/5809/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "70f5324ade35c7093c0df17f4e495fac7dfdd1ee110ef6bd31d8af305e3f5818"}
+  {:article/id "law/5809/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Tüketicinin ve son kullanıcının korunması",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "1f8957ef38d0a0e20f6f6b928b18d5cb14d1f8eca5317c924181074b566a2985"}
+  {:article/id "law/5809/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Şeffaflığın sağlanması ve bilgilendirme",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "ec2c6dce0514b4101b876d21052ff344d129f572b7480da8d2aac0387df676c2"}
+  {:article/id "law/5809/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "f6e9fdf9b11f1171c5743737faeae8acc6047e95489da10f8f7f0cc38edd58bc"}
+  {:article/id "law/5809/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title
+   "Kişisel verilerin işlenmesi ve gizliliğin korunması",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "7aa38dd97f3e5460ac57bc1859e7f1943f260002bc85b50b76564aa9e2ec9f3d"}
+  {:article/id "law/5809/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Hizmet kalitesi",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "58349a3a9e9b1f43e3602e1423d431743d384042f1518c274805fcb1e525fe84"}
+  {:article/id "law/5809/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title nil,
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "6f888c6b259843b597d27f768e6d668433d7aa927b7e0cf56d2b0883e58d0af2"}
+  {:article/id "law/5809/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Yetki belgesi",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "d8e1af7345f71c1f3c7a13d554b152da8ac57eab53facfd27cae09e835a80fa4"}
+  {:article/id "law/5809/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Elektronik kimlik bilgisini haiz cihazlar",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "1084e8a0fe2539201c4ef7dc2650528b1a8d6a1f32ea1e4ed750285fb30db11d"}
+  {:article/id "law/5809/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Abone ve cihaz kimlik bilgilerinin güvenliği13",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "1f4ee8b10c4f7faba3605959cf1df1622a2db8ecc29cfb38cdb072853efa478c"}
+  {:article/id "law/5809/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Teknik uyumluluk",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "59ec51a7dbfa2f5481d168702028b6557b3b847a6617e917551636f047a40347"}
+  {:article/id "law/5809/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Bilgi ve ihbar merkezi",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "13f427d1164866c8e378ef91b6474a272028772ac991434814bee23ff9dbefba"}
+  {:article/id "law/5809/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title nil,
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "a1c4c8e83882a9dd5397f66c9e51da984563a396bfc6db45cd9eddb3ea8240fb"}
+  {:article/id "law/5809/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title nil,
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "5b2f4f1fb21268495f2ce1647665443b0b4ea3d020d78b8babb9c58f15d6413b"}
+  {:article/id "law/5809/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "İdarî para cezalarının uygulanması ve tahsili",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "af7fc50fb09d39cd35aa0e836e0d2627e13636910e4d996e24fed8dcc5f256ac"}
+  {:article/id "law/5809/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Dava hakkı",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "6dfadb83fabfd9130c190d1c24d0f41d2eb63211f2bed418b3677907466fe931"}
+  {:article/id "law/5809/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title nil,
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "856b592848efa6eeb5b8deb693eb2d307335068f8bcd2ea8f065f0f993052910"}
+  {:article/id "law/5809/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "36b2243db6d55109a057967edf26b4faa41fde15ddea6dd0f750906461227516"}
+  {:article/id "law/5809/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Atıflar ve uygulama",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "d6d21e6454d684b7b26dbd7f502de5d7d772692c22cc79ad2de2f2cd99ff1919"}
+  {:article/id "law/5809/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "5bf14b660bae53722196efa9d756c3388eaa6fd160a86b10440b0ddf4b30b42a"}
+  {:article/id "law/5809/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "e82f1745ceeb54c7d795317b2cf0f882dbb0731c25ef83a1386c4b309c3bb346"}
+  {:article/id "law/5809/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Siber Güvenlik Kurulu",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "88e8ab956364891b0ed312130ea7718563441e3f670955bfed795a27f93d15e9"}
+  {:article/id "law/5809/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "17c553906ccca517dca4affce66197adc5ab183872287683c196547efec418cc"}
+  {:article/id "law/5809/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Uygulama",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7e209d4b53b53df7b72476037f81c271b1535135f0992068c3240cecb330cc11"}
+  {:article/id "law/5809/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Yetkilendirmede geçiş süreci",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e60916476134d710b91ecd8caa8443b14d3cf823f6c21d727595c1443bb05dbc"}
+  {:article/id "law/5809/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Telsiz ruhsatlarının yenilenmesi",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "c7fa2eb7dac1f347e43a567ae07c279e38140a58c746842349e06d91eeb58f0e"}
+  {:article/id "law/5809/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Görev sözleşmeleri ve devir",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "50af7d97b11b59e391e52f0201d9d85e0162ace6cce2063922f4636ff27e6c54"}
+  {:article/id "law/5809/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Abonelik kayıtlarının güncellenmesi",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "fa4c966377c1b83d12c80663208da6a89d9e7ea6fed7b809bdaeca05a68fabaa"}
+  {:article/id "law/5809/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title
+   "Elektronik kimlik bilgisi değiştirilen ve borcu bulunan cihazlar",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "b029ebbb37c4e382647c8dddad4b7b9ca8c30de072c8224cf3c9b000b819c086"}
+  {:article/id "law/5809/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "Dava ve cezaların ertelenmesi",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "e057a449fd3d8e53643c1431f9a6ae78b5444fa8c73611e57fb64f5fe3d29869"}
+  {:article/id "law/5809/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title "Abonelik kayıtlarının güncellenmesi",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "d04d1b75ccf350173cde02b01a76e2244a3daac0114561374237a7c777b82100"}
+  {:article/id "law/5809/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "63fd3cd16c2c191b4c30d451513e4071b43ec966e88a8e41f23b6affa6f1936f"}
+  {:article/id "law/5809/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Yürütme",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "dab0ce60af66bb1d537a2d8da5655b934f8771edabdcc1280d57fc7accb08613"}]}

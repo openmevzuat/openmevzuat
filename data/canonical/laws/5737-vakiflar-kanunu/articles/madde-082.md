@@ -1,0 +1,17 @@
+# MADDE 82 — Yürütme
+
+Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
+
+(I) SAYILI CETVEL
+
+VAKIFLAR GENEL MÜDÜRLÜĞÜ MERKEZ TEŞKİLATI
+(Mülga: 2/7/2018/KHK/703/102 md.)
+
+(II) SAYILI CETVEL
+
+VAKIFLAR GENEL MÜDÜRLÜĞÜ
+(TAŞRA TEŞKİLATI)
+(Mülga: 2/7/2018/KHK/703/102 md.)
+
+(III) SAYILI CETVEL
+(Mülga: 11/10/2011-KHK-666/1 md.)

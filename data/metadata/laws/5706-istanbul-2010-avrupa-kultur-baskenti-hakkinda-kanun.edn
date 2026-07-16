@@ -1,0 +1,195 @@
+{:document/id "law/5706",
+ :document/type :law,
+ :document/number "5706",
+ :document/title "İSTANBUL 2010 AVRUPA KÜLTÜR BAŞKENTİ HAKKINDA KANUN",
+ :document/slug
+ "5706-istanbul-2010-avrupa-kultur-baskenti-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5706-istanbul-2010-avrupa-kultur-baskenti-hakkinda-kanun",
+ :document/sha256
+ "54e05e5d4942663b8c5bafa0eaf5cdf568c6da5cd68c02f60bf3121973bb0c92",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5706.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:20.207-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5706/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d00d2ec21aec9c2b07576b0ebce77297b21e3740c1bc3023baa37c7c14699348"}
+  {:article/id "law/5706/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8b5a1db3e882655ee88befc7d52e1a705ef485df6ee52adcf2d49e8855e450d5"}
+  {:article/id "law/5706/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3c38667ea134ba928f4cb6163c8471c62b46ebf3bbdfbbda9d317dbd17581d7e"}
+  {:article/id "law/5706/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e87d54ee5c00cf61ab7a30776e565609810a793894ef0c9f18850837d83a7ce5"}
+  {:article/id "law/5706/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Koordinasyon Kurulu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "343aa833181ae6b982511c9db4826599f8ce69ca3a6fd99785e4916003f36175"}
+  {:article/id "law/5706/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Danışma Kurulu",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a93e91ab8a4adc4ae344c8a4ed36ee1c41197275fe97a8f80c337cb41ddb00ab"}
+  {:article/id "law/5706/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Danışma Kurulunun görevleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9d14e6cf4526dda62e6a7d62626ef2b5ae677fc9f6d3b26da288e75289f75ee7"}
+  {:article/id "law/5706/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme Kurulu",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8742dca4ec4889b4644a5e1851e8231b6d880533fc3c6210f1dae9e312d54c75"}
+  {:article/id "law/5706/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme Kurulunun görevleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "038e6bf79870ab81d86c94f49bcc4ff874990a2bc35363e32258dffc422a68cd"}
+  {:article/id "law/5706/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Genel Sekreterlik",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "0ba377bec6329dc69de925aa3ace87036b9d5be2fc2ecc24b26af374ad6e732a"}
+  {:article/id "law/5706/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Kültür merkezi ve kütüphane",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d3f0167d3c1e3fe85316def255cecc9a2f8f1af8609dadd3ae88e90a37e6c449"}
+  {:article/id "law/5706/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "938a7840bf30ca00c2b8440f690fb6f724cd2d7bb868c4a3c2a2e7afbef4f066"}
+  {:article/id "law/5706/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Alım, satım ve ihale işleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a1ccc1a166890f63bdf877b19a35e9f582c363c1e8fd7e0325907f19de4e2e9e"}
+  {:article/id "law/5706/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Taşınmaz kültür varlıkları onarımına katkı payından kullanım",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "a4bcbf72ef1690a66b1074d17525caee45f69aa69e7daeab512c0ed1a32153f5"}
+  {:article/id "law/5706/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Taşınır, taşınmaz kullanımı ve hizmet zorunluluğu",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4bd38a29ed4a05afe7319aa78cd3b68d3f9ef9a21528ab174a00e4cff9b41c13"}
+  {:article/id "law/5706/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "İsim ve logo kullanımı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "fe66f39a7c4fe49b2d3d7c1f9e3411a686151e165bd4120be8e849e6844f0724"}
+  {:article/id "law/5706/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Sorumluluk",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "16477ee4b0de6160bdd31bab32d2c8127e459876746e3c9987dd2bba702def6b"}
+  {:article/id "law/5706/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Denetim",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "519152ef0e8da57fd9574e6b25e6c67063a121ad717874f01c506ee6bb809c7f"}
+  {:article/id "law/5706/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "05416566f7908e2f86c7440f9532cf8f8b5593f053b7a312f3a227b850c7adb8"}
+  {:article/id "law/5706/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Tasfiye",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "badec623e15f6d915de97a96edea90e702637e2b67582d54a291f191d2f8ce22"}
+  {:article/id "law/5706/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Uygulanma süresi",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "475a4535b4e2cce5dcca81f81d9e74311245c5ede4215cc1fc9bcb14f55bda86"}
+  {:article/id "law/5706/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Girişim Grubu ve 2008 yılı bütçesi",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "549a41dac8712d0453bb9ba03aada69144a7cbcde4a3fa77635e86ddd01bec3e"}
+  {:article/id "law/5706/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "9e3001f5643e143f0999754d51059ae295109e9302053bba302eb338d7a004f9"}
+  {:article/id "law/5706/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "5121fa7d3d4f5f146ac433e1975881f31be4221d30d63573b235aa9b18a6e3d0"}
+  {:article/id "law/5706/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürütme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "7e65de97b17e0a58c712732bd6646e479cc738b37f0463dd3cc5cd59598d5907"}]}

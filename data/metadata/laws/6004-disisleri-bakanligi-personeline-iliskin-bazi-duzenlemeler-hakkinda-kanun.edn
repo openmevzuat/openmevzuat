@@ -1,0 +1,273 @@
+{:document/id "law/6004",
+ :document/type :law,
+ :document/number "6004",
+ :document/title
+ "DIŞİŞLERİ BAKANLIĞI PERSONELİNE İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "6004-disisleri-bakanligi-personeline-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6004-disisleri-bakanligi-personeline-iliskin-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "9709e7a24c8f889be14acbf20fb152ccb798e325755408cbd4c541dd70454079",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6004.pdf",
+ :source/fetched-at #inst "2026-07-16T02:44:21.393-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6004/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve tanımlar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e825f7ebae18938b0923cf04eaba1529b724326ae8f50d34eb134692df561098"}
+  {:article/id "law/6004/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İlkeler, görev ve yetkiler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "394c9f3e7c873a00a27148c4c382b5dd919082e573757f5371908d85a6afac6e"}
+  {:article/id "law/6004/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b1fe41dc3938e583d90a8c2ebc53b3b7090f57038e2308c3b94a2e6c604333af"}
+  {:article/id "law/6004/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Merkez teşkilatı",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "14bd856d2f11fcbf456cc9d198b4fd79f7016a0774b5ed2e52ee1c0dcc11b393"}
+  {:article/id "law/6004/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bakanlık makamı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "ca680f1bfa91b4fce25a2bc22468b2fc4d51890afbce36e608a803fe4f0be68c"}
+  {:article/id "law/6004/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Ana hizmet birimleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "32045dcd548b418da2128e86134004845289437fb9b75bd3293e4ac7df923656"}
+  {:article/id "law/6004/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Danışma ve denetim birimleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9cba1324e32515cb76a6969a2eb29ef357c8d5f80a3afa45dbe4566ec87a3575"}
+  {:article/id "law/6004/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ders ücreti",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "78f7152379c95d16850da34fcf0b36594be2eb2e422d0491b282303d1bb00a60"}
+  {:article/id "law/6004/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yurtdışı teşkilatı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "4dfb3260fff4b6010012192f3a3fb2beafaf4b2fb90d86cf1c4efb0d9e083bf8"}
+  {:article/id "law/6004/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Bakanlık personeli",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "277a08e2cfea3699f99947a0f8ede74c181a26bae4bf12a35393a69a77f6c1ab"}
+  {:article/id "law/6004/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bef934664faa0e27049ef903c543894fe4bdaa769676ec08f59f73db1758f916"}
+  {:article/id "law/6004/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "b1f03085341071f9287498f0a752f3b5531fd47d683fa52d8464bbd755b42265"}
+  {:article/id "law/6004/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Merkez teşkilatındaki unvanlar ve atamalar",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3d89070371e30c6e5a7460ba008bb3dcab0041ef0ec869c1a5ae28a70f65b802"}
+  {:article/id "law/6004/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yurtdışı sürekli görevlere ilişkin genel esaslar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "beb3afaaf7e812ab5312b9432b346c7d120d6d2657b99d10d063090ff1d3a74d"}
+  {:article/id "law/6004/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1a0646b8d10628536b012a5fb77f7a53122b04935fb12131b7c1ff103530ee00"}
+  {:article/id "law/6004/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "f68ca67044ce8bfbdf31427d7679680fa8dcebc8271554a5863fb8ce304931cd"}
+  {:article/id "law/6004/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Teşvik ödeneği",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "08e993a8f8ef3fd5717e1e862a484e0e097f1280917fa1a416d3ba7c2ece5e04"}
+  {:article/id "law/6004/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Olağanüstü durumlar10",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "ef9a912088f99a31bcf37dc131412204d7195414b04a275cf1f4d7e217ff9233"}
+  {:article/id "law/6004/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "2a81a9d28156862c13d265de3841940d16f99d09df78348fe5d9f4cfffb9f464"}
+  {:article/id "law/6004/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "c209758d71c1ff2ef51d4f1fd2e1a380a91fa87dc7e01a4aba5c870185482474"}
+  {:article/id "law/6004/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "0cdf335b47f926a8f3df2579e608f183c0fecec3e539883d473a4917b8a5fd04"}
+  {:article/id "law/6004/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "edf7313224f28285f1d8f19d8e8fea5d9c554f2b2d8afd0f868ec0646cbfeb58"}
+  {:article/id "law/6004/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "5bbb5526728900b4f9959ec50832a0c3c1c05cd2106f383dc28386184e002410"}
+  {:article/id "law/6004/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "823882cf454e594ce6ae119b5fce45d4e97e0de73748a21d1d50bc7e6d0a827a"}
+  {:article/id "law/6004/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "9c5ef4d4b01f6e880ab5ba2a3ad4072fb2e255aaa9aefa477b6c2ddbcc335776"}
+  {:article/id "law/6004/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "3c748530553f1271c56bd07511745b89f7500dc83debfe6ae2cbe57ddeee9e7b"}
+  {:article/id "law/6004/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "9efb39dfaf5f494e742bab93bcb313c97f62dd59256a9162fe43159f1d4f6062"}
+  {:article/id "law/6004/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d0780fa7306574e14ff60ea7ed1214a86e238625eed9a63c34ea25967ff97817"}
+  {:article/id "law/6004/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Meslek memurlarına ilişkin geçiş süreci",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "89ade6a33884adab7d687493daa4942bfc6f7c4ff6f9db00dce63b151da03a67"}
+  {:article/id "law/6004/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Hukuk müşavirlerine ilişkin geçiş süreci",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "97d0a95c6a322026cf47a01c9b6050d1bdab836fa56122a64ca0cc599966f5bd"}
+  {:article/id "law/6004/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "cc7af16f671f5490d43e1371541904cb5ca83125a12d6e5e37453f939ed7f8cc"}
+  {:article/id "law/6004/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title
+   "Sürekli merkez hizmeti gören memurlara ilişkin geçiş süreci",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "ce79a99e9a7fcf5eb9c7035e6f9d44ed37e300dd8f31e9a2746f11d3abfeb1e2"}
+  {:article/id "law/6004/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Diğer geçiş hükümleri",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "70f8ddd380df63dc96e779e378b6f07e93b4c87819db2e9f3572b06117a819bf"}
+  {:article/id "law/6004/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "Diplomatik kariyer memuriyetine geçiş",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "b401c95d3e167ba7349cd0b1aa87a16ad9bd92e6da3e07c38c0b150aa4d485e8"}
+  {:article/id "law/6004/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "7e2b883d3e94f72369d15e69e6233527ea1811a7e6948e2a83547bdcdf2b5239"}
+  {:article/id "law/6004/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürütme",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "28690031ff804b07c4022b020b08cf12c1e4d5abae79a0bf2209156b3428a9eb"}]}

@@ -1,0 +1,69 @@
+{:document/id "law/5834",
+ :document/type :law,
+ :document/number "5834",
+ :document/title
+ "KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLER İLE KREDİ VE KREDİ KARTLARI BORÇLARINA İLİŞKİN KAYITLARIN DİKKATE ALINMAMASI HAKKINDA KANUN",
+ :document/slug
+ "5834-karsiliksiz-cek-ve-protestolu-senetler-ile-kredi-ve-kredi-kartlari-borclarina-iliskin-kayitlarin-dikkate-alinmamasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5834-karsiliksiz-cek-ve-protestolu-senetler-ile-kredi-ve-kredi-kartlari-borclarina-iliskin-kayitlarin-dikkate-alinmamasi-hakkinda-kanun",
+ :document/sha256
+ "59ca08eb5752696894d47a7ddf6b3a664a5a6d17057ff9cb7e20637971ea2bdd",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5834.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:26.295-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5834/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8061f39363e10011400e144cdfb36446cceb7489c0cdc403b142e1a20703f34d"}
+  {:article/id "law/5834/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "527dbde4be95003eff1a22ca2a1a2aa2832d2feccdc7614a05d6c57cd73baff7"}
+  {:article/id "law/5834/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "03c4375e5333b2fcf854ac09d52d820564f530de57c7f90771cc984a8e21f882"}
+  {:article/id "law/5834/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "750db8b35ffa8d8c1e5926cd31ed8587bbe26c8282352366ae7553ab0c761160"}
+  {:article/id "law/5834/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "67f1ae4c73274b9e46e93a7d2c73da2459fab834ceb3c4d8fc20c3f85d4d3c0b"}
+  {:article/id "law/5834/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "817e0de4434bed5b2d454e9eb4db29107e34a434302d723f280775cfe041c86c"}
+  {:article/id "law/5834/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürütme",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "dbd43a6a137ac15f71244099e2bf516ade7d0c82962db4fb44443004755d5d8d"}]}

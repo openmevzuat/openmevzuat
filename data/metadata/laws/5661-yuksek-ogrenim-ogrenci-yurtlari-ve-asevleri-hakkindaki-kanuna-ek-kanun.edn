@@ -1,0 +1,91 @@
+{:document/id "law/t3-5661",
+ :document/type :law,
+ :document/number "5661",
+ :document/title
+ "YÜKSEK ÖĞRENİM ÖĞRENCİ YURTLARI VE AŞEVLERİ HAKKINDAKİ KANUNA EK KANUN",
+ :document/slug
+ "5661-yuksek-ogrenim-ogrenci-yurtlari-ve-asevleri-hakkindaki-kanuna-ek-kanun",
+ :document/path
+ "data/canonical/laws/5661-yuksek-ogrenim-ogrenci-yurtlari-ve-asevleri-hakkindaki-kanuna-ek-kanun",
+ :document/sha256
+ "7ddb8b0153d3a8235922a82b01c3ab2da90f518b5b93c8399dfd8e243743b665",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5661.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:52.784-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t3-5661/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 31 Sayfa: 2030",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7fa504a17887b1bb487edda458da7f63d1c3f96b5f840703ddfecad87e2d14f3"}
+  {:article/id "law/t3-5661/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8079c14aec30d342d4c80b07900c73bf43decd22f29bc5b2738418e2547527d9"}
+  {:article/id "law/t3-5661/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f5bf26e8c59c612b2dec059db2bf440fdec582d2f175801c9b71ddbbbb230ae0"}
+  {:article/id "law/t3-5661/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a63413dfeea451fefbc6f12a3132617ad0a5454f690dba03c5c2caad61a408e1"}
+  {:article/id "law/t3-5661/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "ac47a7d8d8dbc97f7f8e74698e6e428f2eb3d70fd49a44a7abf2573948b3800f"}
+  {:article/id "law/t3-5661/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "ba248baae7273a570efd9feccbb8ce5aa36e32dddba7af72e8237721c7572559"}
+  {:article/id "law/t3-5661/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "981dcc29d4e66d6189602684d4abba89877a1e658571532bba08ccd578efcc6b"}
+  {:article/id "law/t3-5661/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "afad3978ca204d27b1df32a364ea130ead0436cc7ce71097b8ff2b6623324ef6"}
+  {:article/id "law/t3-5661/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "da71356b31795f00fe677cb21613c64943c2354a20063472f00a9e5b4882bd9f"}
+  {:article/id "law/t3-5661/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e0898e88a2fe096917b2a41c05ac01c9efc81aaf9a84677a42f729b94cc5056"}]}

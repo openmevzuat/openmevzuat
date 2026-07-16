@@ -1,0 +1,118 @@
+{:document/id "law/6101",
+ :document/type :law,
+ :document/number "6101",
+ :document/title
+ "TÜRK BORÇLAR KANUNUNUN YÜRÜRLÜĞÜ VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
+ :document/slug
+ "6101-turk-borclar-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6101-turk-borclar-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
+ :document/sha256
+ "e27d386d3ad07755cbe7be456025d70f81bd766097d23adcae44f3f615e65f7a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6101.pdf",
+ :source/fetched-at #inst "2026-07-16T02:45:04.719-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6101/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "A. Geçmişe etkili olmama kuralı",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9dfd0f4bb8d8a931eca02ab186401dbe76faa2fe4e396b8b290d64cf6de9e7d3"}
+  {:article/id "law/6101/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6989638e1a528cb500cc747f4082f9be99e8b82dd177f1b246b641f6d0f23ff8"}
+  {:article/id "law/6101/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "II. İçeriği kanunla belirlenen işlem ve ilişkiler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b6d8e24d5d019bdd076bce569e8ccc9d21f21e9d2309f7e41704be04034d83d4"}
+  {:article/id "law/6101/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "III. Kazanılmamış haklar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f1f123b85900c59ed892fde37ac596bd806de70020716d5afdd31bd9b7595481"}
+  {:article/id "law/6101/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6869272e9ab66e1c156784b423ef01ef9382b71109a93375cebcabbd080ee91b"}
+  {:article/id "law/6101/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "II. Diğer süreler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "21db46ba00ba9752becff1d57fd28e923b6f427041be0ea237037bb61e5f17ce"}
+  {:article/id "law/6101/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "314117013eb5c1d4966a90620fe34ec25f4c2af49ce26d5482eb86c7259881b5"}
+  {:article/id "law/6101/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "B. Yollamalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "10fea56475e283ef0d9979e6a25840f5d9ab1c6c6953b5f9d2cc902e2315a513"}
+  {:article/id "law/6101/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "C. Genel nitelikli hükümler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "01fd97343b2542581956afe6fe0874133b1076ac47b747964f857c04052c3a36"}
+  {:article/id "law/6101/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlükten kaldırılan kanun",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "879437d210669c6416444662122960a7f571946c14263ed72ec53f9f3aed5cf8"}
+  {:article/id "law/6101/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "67686549acc6837e21c23396d9e138d64921b1e411989201080941eacc0f8959"}
+  {:article/id "law/6101/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "3abab66ad9c3680b3101ccbc3caec4ed74f4c88a4bcbdb868c9d5f77ec5f896d"}
+  {:article/id "law/6101/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "e0ca301c275418cec075a1ef46ff50cc22f157357b92df684fea298f0cb66e6e"}
+  {:article/id "law/6101/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "f47f8c02207ffa995416792d2e796cdc93c2083e6831661baab90826e2e55533"}]}

@@ -1,0 +1,111 @@
+{:document/id "law/5710",
+ :document/type :law,
+ :document/number "5710",
+ :document/title
+ "NÜKLEER GÜÇ SANTRALLARININ KURULMASI VE İŞLETİLMESİ İLE ENERJİ SATIŞINA İLİŞKİN KANUN",
+ :document/slug
+ "5710-nukleer-guc-santrallarinin-kurulmasi-ve-isletilmesi-ile-enerji-satisina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/5710-nukleer-guc-santrallarinin-kurulmasi-ve-isletilmesi-ile-enerji-satisina-iliskin-kanun",
+ :document/sha256
+ "351264e40c3430f3f4b8006ca65059a3b62806d6dad5f42a24dd4178da3b99a7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5710.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:23.235-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5710/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "66f7f7cef82f6f854e46535aff338c42e50e5402ce086fe70f08509dd1404b73"}
+  {:article/id "law/5710/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar ve kısaltmalar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ed9f128d59f6b0281815051e6d06476e3ca71a241c7a477f95a6469b097c41c5"}
+  {:article/id "law/5710/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6a6fdb8726f66e68c4b02d7f145741cb1dc18471a1987ef982f3859bd29c7c12"}
+  {:article/id "law/5710/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Uygulama esasları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "fd8711629d479d29c34194621467b4db7ff58960d5b08a23594c27466da5a2da"}
+  {:article/id "law/5710/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Lisans, izin ve yükümlülükler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "418c928ce257cac7f85bda81c49f895d214f9eac16002a878b137a410512645d"}
+  {:article/id "law/5710/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kamu iştiraki ve yatırımı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8cc708e43b43a96f25d6583dd21dc582658e7c66d06e979442ae8ce7cdf146ab"}
+  {:article/id "law/5710/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fb37ef56672da1d3ef5db518dcb107b96025e1d648107149e1863e59fcfb3d6b"}
+  {:article/id "law/5710/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Uygulamaların koordinasyonu",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "1cf9ab05aeb1d6ee8ebf2c4b657e4b2636e7c66a776f52fcbb5d9ec72c171e4a"}
+  {:article/id "law/5710/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yaptırımlar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "73d128525fa8059fdced82124f6a0fcf50399e9b4a1e8dc18f34ef7938ddb427"}
+  {:article/id "law/5710/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Düzenleyici kurum",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0549c62524ae83252faf55cee46e8b4554f58f578c337d8e84fda08526772277"}
+  {:article/id "law/5710/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Yerli kömür yakıtlı santralların teşviki",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c075050126fac3ce6675eb1e0d94b498696744f990a155d62aadc19c0bb8349e"}
+  {:article/id "law/5710/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b6b13e58d61d6125f89a66c4129647635b92bf199e610efea695e2259eb42050"}
+  {:article/id "law/5710/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d4b106fc42da98d1bf2d104868c8f1b1a1c1f1ffd5c699690e417e4e984ad0ad"}]}

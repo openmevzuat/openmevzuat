@@ -1,0 +1,41 @@
+{:document/id "law/5734",
+ :document/type :law,
+ :document/number "5734",
+ :document/title
+ "GAZİANTEP'E İSTİKLAL MADALYASI VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "5734-gaziantepe-istiklal-madalyasi-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5734-gaziantepe-istiklal-madalyasi-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "16e1ed36c2cf06a666f4e1f4eb1d6c926e8de69ebbff65d3bda547d435d79a62",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5734.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:40.355-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5734/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 47",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3ebf3c4e93fad96f5931d35c51c497e5b419f0ddde2556ac56797c1f9816caee"}
+  {:article/id "law/5734/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5f030e5044e9e313050115efb193a15d5a81cb906c8f5321f5c44ddad75a30b5"}
+  {:article/id "law/5734/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

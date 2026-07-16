@@ -1,0 +1,394 @@
+{:document/id "law/5901",
+ :document/type :law,
+ :document/number "5901",
+ :document/title "TÜRK VATANDAŞLIĞI KANUNU",
+ :document/slug "5901-turk-vatandasligi-kanunu",
+ :document/path "data/canonical/laws/5901-turk-vatandasligi-kanunu",
+ :document/sha256
+ "ca975f0bc07ce62eb9f70f98f56bfdce5c2b4cf82ed278ed4d54781d6bcda5e7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5901.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:43.019-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5901/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "25330fcf27812c4893c29ea5b6d26fc27a1c8a416ab298cfe4dbc73834d033a1"}
+  {:article/id "law/5901/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "494efaea22cac283f1f6920aab504f2d52fb23b861ff45621c88db991b5b0bfc"}
+  {:article/id "law/5901/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ac7e266d7b6d154bbfb4652e638f02539b974efebed58b2a42f0c26863323bc4"}
+  {:article/id "law/5901/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Vatandaşlık hizmetlerinin yürütülmesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d158371db8564002ddb28b19be514f26f87c8364a202f227b78dfbf5801b1b46"}
+  {:article/id "law/5901/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "96272661dccfa72a19ab1f7f5d9acbf78b591876b6fe34632ccac61c4249ac3a"}
+  {:article/id "law/5901/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Doğumla kazanılan vatandaşlık",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "06e7c2c6939d2e125c24acab80ae77e42a71631485d89d79c8d1882d78503e57"}
+  {:article/id "law/5901/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Soy bağı",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f6f46ee8eaad3eea541bdef874d6cba6ba06460893af6d5e194f3f9c979e71d7"}
+  {:article/id "law/5901/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Doğum yeri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d19545e80cf30e9bb675f2f1e0cfd1c18f3756bca31ee6ac42d5169566fce7c0"}
+  {:article/id "law/5901/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Sonradan kazanılan vatandaşlık",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c5e81e04023dc86d14ecf65b1ed1b2ceaa7b87d5a7c4f731c3835e8aac423815"}
+  {:article/id "law/5901/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Yetkili makam kararı ile Türk vatandaşlığının kazanılması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "f028fa540d192708a508b35f65061887d7cf5751262a55c1d4f4f52f1ea9bc2c"}
+  {:article/id "law/5901/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Başvuru için aranan şartlar",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0e922b4d1c019d65d88351df518c49c7290648eee2571810b89502151de6664d"}
+  {:article/id "law/5901/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Türk vatandaşlığının kazanılmasında istisnai haller",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "f014be4d4a503560172a7bdaca4bd05fbbe154defac87f43e46b163d41fcd342"}
+  {:article/id "law/5901/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Türk vatandaşlığının ikamet şartı aranmaksızın yeniden kazanılması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3a1c038a56b0e729cebfa291084f1aa0554db46399ba35fdedf691d4fdd01cc0"}
+  {:article/id "law/5901/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Türk vatandaşlığının ikamet şartına bağlı olarak yeniden kazanılması",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "e7cc7d27f2f9044893512ed02762a8e3ef2e4a389c15b408fecdced5786e20e8"}
+  {:article/id "law/5901/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a2250f5141ba7c7b493b3d9e1f41b2e1063aec952834f669a7696f1e703ffffa"}
+  {:article/id "law/5901/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Türk vatandaşlığının evlenme yoluyla kazanılması",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "14000816860192a85370675f10fa762b6a9d0cb6a51036b922bfb8cfa07642ee"}
+  {:article/id "law/5901/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Türk vatandaşlığının evlat edinilme ile kazanılması",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c8f871bc1007b9e788e39621f67e9f3d1f0b642b3c8569844156e0ad2add79b6"}
+  {:article/id "law/5901/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Vatandaşlık başvuru inceleme komisyonu",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8c29866d676f58b8f8776c1e7e5b4ded9749d5aa44569a74f4a695eb34a059c8"}
+  {:article/id "law/5901/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Yetkili makam kararı ile Türk vatandaşlığının kazanılmasında usul ve esaslar",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "90623747cb6c3b0a09d0e23ca631739262bf6060220d4d5ef9ca4ce564706f7f"}
+  {:article/id "law/5901/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title
+   "Yetkili makam kararı ile Türk vatandaşlığının kazanılmasının geçerliliği ve sonuçları",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "3cf5058c73a06b68564c74fdc220bc5fa1dd78c81dc6dfcdd56b3391136f0fc2"}
+  {:article/id "law/5901/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Türk vatandaşlığının seçme hakkı ile kazanılması",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ac544bb547c850d402d6e98449153dda16cfdce0cabe9de41d2814a78bffcbb0"}
+  {:article/id "law/5901/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title
+   "Türk vatandaşlığının seçme hakkı ile kazanılmasının geçerliliği ve sonuçları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "a6e6795f080cd4c61948f7d7205fc95b80aca261a7c4bf53b394287d89784863"}
+  {:article/id "law/5901/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "edea37faa59809f4f329158b39766e5dfb33dbd1cca8f6bfece6b1ba4ad967f6"}
+  {:article/id "law/5901/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yetkili makam kararı ile kayıp yolları",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "8f844755606a27d1ad2dfdd085b44efea5b46358b44202704f32b42dce2682e9"}
+  {:article/id "law/5901/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Türk vatandaşlığından çıkma",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "6c74844238afe356a8171f9aec47cdff11657d6a506eab5cbaab484f8b8aa425"}
+  {:article/id "law/5901/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Türk vatandaşlığından çıkma belgeleri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "e873eac81d073993eac3ed475e35d82796f7b8b6d01add80f9ee9dcf7b46a8d7"}
+  {:article/id "law/5901/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title
+   "Türk vatandaşlığından çıkmanın geçerliliği ve sonuçları",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "dce979f6dfe4209576645a004c5b773d1d6ddde3837eb2878e63326f15374ffc"}
+  {:article/id "law/5901/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title
+   "Çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilere tanınan haklar",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "970683e164ea152abd0ed1c56f9fbb6e6bc7210533291ad0061d4775b5f16b8b"}
+  {:article/id "law/5901/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Türk vatandaşlığını kaybettirme7",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "259fedc5d037969b006c80a13522c2901290d4cf772ddf0cb1fadf22cbc8d38e"}
+  {:article/id "law/5901/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title
+   "Türk vatandaşlığının kaybettirilmesinin geçerliliği ve sonuçları",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "ae88045a716f91e38ad56992618645062248ab4e71665754713717fd09184ac0"}
+  {:article/id "law/5901/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Türk vatandaşlığının iptali",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "05ddb5292f4c2163c4ab8a3d3ef868828f4760e39566a79fcdd5fb0f8eff0bb2"}
+  {:article/id "law/5901/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "İptal kararının geçerliliği ve sonuçları",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "e4737f1c1915a79742a8b1d6c24ebda646563f2fdd07cbb6abbc8fa9f9d26212"}
+  {:article/id "law/5901/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Malların tasfiyesi",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "213987aa4c2560f5072b9d7322291d1a376978548361035e22f4148244648d40"}
+  {:article/id "law/5901/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Türk vatandaşlığının seçme hakkı ile kaybı",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "ab866231e5c234decb195b8437c52cf00d3b142f3cf0901d076256635a9a0d24"}
+  {:article/id "law/5901/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title
+   "Seçme hakkı ile Türk vatandaşlığını kaybetmenin geçerliliği ve sonuçları",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "4fef24bee94129f7987ef0abc2ee20abd77b4451999d3dd905558ea16d91d9eb"}
+  {:article/id "law/5901/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "f94a9040c3732037e0cc0f34651299de3ad83934af36a08e0e41170276867965"}
+  {:article/id "law/5901/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Vatandaşlık işlemlerinde müracaat makamı ve usul",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "bb5ad6b3bcd59749bed9a007fbb74f8ad8920bd920316e980f675633e301a253"}
+  {:article/id "law/5901/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Bilgi ve belge istenmesi",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "e3b1030598e7b8867090dbeac6ba55d49d2aebdb0590300c31aecc9b62d303c8"}
+  {:article/id "law/5901/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Maddi hataların düzeltilmesi ve tamamlama",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "fc14a762103af971e1ac742ffdb14c21e8e2cc6d518f6f651115bdeaa51e8712"}
+  {:article/id "law/5901/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Vatandaşlık kararlarının geri alınması",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "a2f7a35035b1f5f4ded71b8969a4a1d3c9e8981ae46d848c3b5071bcdc1458d9"}
+  {:article/id "law/5901/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Tebligat",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "5ee4fa8f5932b71557454a639c2c6523b06bb8941108ce29897355c24a654932"}
+  {:article/id "law/5901/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "90649d698120c246229b164173d1c7925f71680360d5c07ea1e8f98c2415ba7a"}
+  {:article/id "law/5901/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title
+   "Türk vatandaşlığını kaybedenler veya vatandaşlıktan ıskat edilenler",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "82c632e7448fb58bd6d8221581c2313de5f7980e53474b5c17fc873a7eec5b83"}
+  {:article/id "law/5901/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Çok vatandaşlık",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "5260ab4cdd8ef8a83e19713e36ad224e99fde79f61daaa29f8a274198f0bd298"}
+  {:article/id "law/5901/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Vatandaşlık işlemleri hizmet bedeli",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "89fdacee26e2532ed2d8300b1ca495ab23d993eda0b7620441971ea45b3767e7"}
+  {:article/id "law/5901/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "9aa7189761793f4ea30952d04c0967ec71de1dfc0532599c400759861dd385e5"}
+  {:article/id "law/5901/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "489f76325e233b4864d3201f2f8300737436e2a173db226fcc2bb8e3606d4868"}
+  {:article/id "law/5901/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Saklı nüfus",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "677d03cf1ff3ff0ba6f4861a3542df7d25413f18cc83dddf5b24f7964c2bedc8"}
+  {:article/id "law/5901/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Türk soylu yabancılar",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "4e154b03a109217a137cfb5047a1a7cdf2898a88d3982de0ec1f957b67373456"}
+  {:article/id "law/5901/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Mevcut yönetmeliğin uygulanması",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "090a3d9982c922494afb4fa1bc4700a98d7b33edbbe1d22b5596b24746d0cb76"}
+  {:article/id "law/5901/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "7c17aa1f25b9dd857734ae6acff65157133bab69f930af66a8f0f37e7c376ef0"}
+  {:article/id "law/5901/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Yürütme",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "1d59e8ceed465ecc37bd3fed2c9b1ea951f267ca899d485fe628dffc62e471bd"}]}

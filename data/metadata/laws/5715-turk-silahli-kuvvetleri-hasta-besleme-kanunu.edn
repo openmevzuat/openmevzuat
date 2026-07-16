@@ -1,0 +1,81 @@
+{:document/id "law/5715",
+ :document/type :law,
+ :document/number "5715",
+ :document/title "TÜRK SİLAHLI KUVVETLERİ HASTA BESLEME KANUNU",
+ :document/slug "5715-turk-silahli-kuvvetleri-hasta-besleme-kanunu",
+ :document/path
+ "data/canonical/laws/5715-turk-silahli-kuvvetleri-hasta-besleme-kanunu",
+ :document/sha256
+ "8d3de41b80a19a41d0db9cdc50087e5b8736eed83dc9eb046071b64a452cc798",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5715.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:26.303-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5715/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4def934417295fd7c49c5f67f09194ab9b97a5271718f612069602f365044698"}
+  {:article/id "law/5715/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d197dbd09ca72c59d526eed1701bf670b6f5465903697381117d2d459f4f19b1"}
+  {:article/id "law/5715/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ba56276fbdb8f0010b4d0bc99f5e049e21dd258d416842ffb126a97306facabe"}
+  {:article/id "law/5715/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Görev, yetki ve sorumluluklar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b44e82a92592bbd02126dbc9d9526ab4aa51daba431fc91eae34658f9dbda045"}
+  {:article/id "law/5715/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Beslenme yöntemi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "785ff936081069070b6ab1df08cb0a3c314c4b51ab0b7d6f86d53c16080f902b"}
+  {:article/id "law/5715/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "686d5143b5692f2ec6c9f01420b2159576cd76429b3b25a1c07e55cfd8f03236"}
+  {:article/id "law/5715/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "36c61c983b7a58c826f5688f7b0a4643f9a581c3fd5ee17cef6a45c84910a0ef"}
+  {:article/id "law/5715/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f6286aae4eb41a3b64b6b8a4d19b73d38609480143e2a460b63b2f00e202a25"}
+  {:article/id "law/5715/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c4ccfda7f5d67f459b77b0d78d505ae69f98c62e3db86a775213569de5c55271"}]}

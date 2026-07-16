@@ -1,0 +1,165 @@
+{:document/id "law/6107",
+ :document/type :law,
+ :document/number "6107",
+ :document/title "İLLER BANKASI ANONİM ŞİRKETİ HAKKINDA KANUN",
+ :document/slug "6107-iller-bankasi-anonim-sirketi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6107-iller-bankasi-anonim-sirketi-hakkinda-kanun",
+ :document/sha256
+ "67e0f9c27ad754d0e597e6f089a9f16c785156f5bfb3753fa43202764b8a5575",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6107.pdf",
+ :source/fetched-at #inst "2026-07-16T02:45:22.697-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6107/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c0775123efa603e757f403e27c8c702c88193593f4d287349a78ed7cf19c66a7"}
+  {:article/id "law/6107/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5b55a43385147bbd2ad44564d03bd2ddca4e2a47c28d28c6694ec5452fada893"}
+  {:article/id "law/6107/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Bankanın amacı ve faaliyet konuları",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "22e8b3efbd39066f2662a9bf890ffe97c213cdc0f89f9dfeedc3e4a1ed7eb3fe"}
+  {:article/id "law/6107/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Ortaklık yapısı ve sermaye",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2cd8dab047ebf238061130aa5d3ef8182568c4b0f65997cfb698ebd362eede3e"}
+  {:article/id "law/6107/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bf6bfb1b871b3d6cb3e462a6673e3136b5056da9b8dd144102a1cc085024ee27"}
+  {:article/id "law/6107/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Genel Kurulun görev ve yetkileri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "417b4cbe1032bf3e3650c814baef96438fc5a401a0047394b558dd4d399423b8"}
+  {:article/id "law/6107/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7795e6bd70b31a2c03f5030c1f452f40ca777d5647fd70f73cd4409b4fda2e4e"}
+  {:article/id "law/6107/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yönetim Kurulunun görev ve yetkileri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "996703ec0c00cdf87291ba808fc5cd8b4f0f3b64d3d0906df361ae06babd6860"}
+  {:article/id "law/6107/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Denetim Kurulu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "4db8873e415b74dd8b2d28371fd03bb5016d6df94c4948358fbbd8856d418bb1"}
+  {:article/id "law/6107/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Genel Müdür",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3555c97a6e33bd3cd894b016fe032d5e650d2fe207480a5ac1c9936fd407d9bc"}
+  {:article/id "law/6107/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Banka personeli",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9b38db40bfe7d11adbf41a0afe5336c652ff3b6198a742cd80a2d27cd506efd7"}
+  {:article/id "law/6107/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0c7ba4f7373d75105b982b827f4be337c2307b976c8cb3aba8b303ddcbc5385b"}
+  {:article/id "law/6107/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "411cb435d8980782f61ac8477f54e110983288b21d1e57b0e847a87f1414f4a7"}
+  {:article/id "law/6107/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "c6ea8fdea06f2e3799ef45a17c42c32a30be8043a0fb3517df414f35e6d5c2eb"}
+  {:article/id "law/6107/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "80bbd5bcd644ea5ec59a01c9d72e0418262c3d1fc3e0c20887e6141015abc97c"}
+  {:article/id "law/6107/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c9ed16ec782fb803e63c2c1a919dc2cb1d7784d799464b6d5ea5be1f65849249"}
+  {:article/id "law/6107/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "c9ea75c96848958089666e1278f4f65c3c52c929d543535439831ef96fedf132"}
+  {:article/id "law/6107/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "1c6d937d5d9048f5c605ec4000df2abb2985e208a7cfebf29aea28896de5de57"}
+  {:article/id "law/6107/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "8080ab74d3947ad806ce0f3cd04fb786423d280bb1780a2b081392b1e5d6ae68"}
+  {:article/id "law/6107/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a1665f480b0b1865eef91c0df624d7bf23c9721ca0d7f90d602edf5d1d9052e5"}
+  {:article/id "law/6107/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "094481ed0d10f2c8523a3bf521b441cece112ba208ce75c74badb0c51cee65f1"}]}

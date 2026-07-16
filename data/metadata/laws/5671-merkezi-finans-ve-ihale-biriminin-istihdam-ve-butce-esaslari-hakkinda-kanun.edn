@@ -1,0 +1,69 @@
+{:document/id "law/5671",
+ :document/type :law,
+ :document/number "5671",
+ :document/title
+ "MERKEZİ FİNANS VE İHALE BİRİMİNİN İSTİHDAM VE BÜTÇE ESASLARI HAKKINDA KANUN",
+ :document/slug
+ "5671-merkezi-finans-ve-ihale-biriminin-istihdam-ve-butce-esaslari-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5671-merkezi-finans-ve-ihale-biriminin-istihdam-ve-butce-esaslari-hakkinda-kanun",
+ :document/sha256
+ "fdbf1b6a7e5c9ca113ca704a04a954ee9bb5f948981cd36918d2b2c0ac98e2b4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5671.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:06.276-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5671/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e5f0a9baae1977d3c6c176ca6db6f06279885c0e4de104b1325ccceafb6640c5"}
+  {:article/id "law/5671/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ee9d5d90d9c668d20f062ee9ff9f2b2ec148294be38a8904150be09cf1a26759"}
+  {:article/id "law/5671/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İstihdam esasları",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "74db05b20bcbe53f7d862964b46c4e352a2cfbdebb588330b4458c8d441e69c9"}
+  {:article/id "law/5671/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Birimin giderleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "254625f6a9df7cdb961af867ef5fe57a0d9e5b69d3d270d7180c0ec7f3644fb3"}
+  {:article/id "law/5671/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "f13fc6b606219d255a0938a7bdc36f9452757aea1055e50496cce87ae5fbe436"}
+  {:article/id "law/5671/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/5671/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f679ba54a2d7d493b83ea4d4f7619eb5b267e1713e6206201f249d4291516470"}]}

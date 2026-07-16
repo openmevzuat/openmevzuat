@@ -1,0 +1,133 @@
+{:document/id "law/5941",
+ :document/type :law,
+ :document/number "5941",
+ :document/title "ÇEK KANUNU",
+ :document/slug "5941-cek-kanunu",
+ :document/path "data/canonical/laws/5941-cek-kanunu",
+ :document/sha256
+ "cd724c6b9c0eea4c4e8d6e94ae2091698d3db790abe56331fbc986a47286e73e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5941.pdf",
+ :source/fetched-at #inst "2026-07-16T02:44:00.376-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5941/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4d8852fb30424d71ca5db84d089c6afc374640db9da0f09f7c638aa7cab0ceb6"}
+  {:article/id "law/5941/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Bankanın araştırma yükümlülüğü, çek hesapları ve çek defterleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "67f27ad802327cb841015855ce08167ef8bbbc48464960b7f7fd729a97eb759b"}
+  {:article/id "law/5941/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "İbraz, ödeme, çekin karşılıksız olduğunun tespiti ve gecikme cezası",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9b4f54fe85a4cf7550269ec8bd7589a85fedf9fc6f90e4ce75c415b72bc3abec"}
+  {:article/id "law/5941/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Bankaların bildirim yükümlülüğü",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "90aa7b56a75ccb0012e403729af676d989c1919be335d438807532f7c58b95a6"}
+  {:article/id "law/5941/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Ceza sorumluluğu, çek düzenleme ve çek hesabı açma yasağı7",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "41a3b38edd3765171b118ddfa77aa03d8b162c706a462631875a050c3f80fca5"}
+  {:article/id "law/5941/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Etkin pişmanlık ve çek düzenleme ve çek hesabı açma yasağının kaldırılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "22be604b802737b3476c13e360bb14e74db32156b88bcc8a18c76c439a6346b4"}
+  {:article/id "law/5941/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Diğer ceza hükümleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "663e52df32730b5345d082e35ccd68fe2fd22d0028be20ecb273bbc791941fbc"}
+  {:article/id "law/5941/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Hesaben ödeme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ada27bbbe44ee353de66329824469cea9add652cae4024f8e8806e731264be1e"}
+  {:article/id "law/5941/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "2c0d34a5cc2406e2b3fb84ce0855099846ea951b1888dde7c00119548e336cb0"}
+  {:article/id "law/5941/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b237bf8f72a55a90f420d50ca0db6fa0abf4ec4fb824cb5fab3a5a677d7c4829"}
+  {:article/id "law/5941/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "fc507a8ad0de31826a3799d70e4f49e1f12b8e56657a2b274848176c3d146b83"}
+  {:article/id "law/5941/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "ccfd4ca312023df598e2bc5395dc7ee6b7a0633f3719d8dc17c2765113bd736d"}
+  {:article/id "law/5941/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "3846f57cd007993edba4feaeafcc7107576befa077756e65b292c53c5da3c0ff"}
+  {:article/id "law/5941/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "ab0d97d06600791399fe7fa5108fc5872d809df5dcb9aedcae84a0a0ef797971"}
+  {:article/id "law/5941/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b6b13e58d61d6125f89a66c4129647635b92bf199e610efea695e2259eb42050"}
+  {:article/id "law/5941/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d4b106fc42da98d1bf2d104868c8f1b1a1c1f1ffd5c699690e417e4e984ad0ad"}]}

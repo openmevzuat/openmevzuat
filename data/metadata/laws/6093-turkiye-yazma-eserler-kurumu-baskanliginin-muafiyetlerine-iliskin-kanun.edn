@@ -1,0 +1,139 @@
+{:document/id "law/6093",
+ :document/type :law,
+ :document/number "6093",
+ :document/title
+ "TÜRKİYE YAZMA ESERLER KURUMU BAŞKANLIĞININ MUAFİYETLERİNE İLİŞKİN KANUN",
+ :document/slug
+ "6093-turkiye-yazma-eserler-kurumu-baskanliginin-muafiyetlerine-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/6093-turkiye-yazma-eserler-kurumu-baskanliginin-muafiyetlerine-iliskin-kanun",
+ :document/sha256
+ "b7afd29d83286646e73c3da71c9038eea6d68a19f13ac481a4a2af38eb5481f9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6093.pdf",
+ :source/fetched-at #inst "2026-07-16T02:44:42.106-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6093/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ad1c35307d8d1bc7c5290179b5c32d6f40ae9b4815cffe380467063060724e23"}
+  {:article/id "law/6093/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b7553e1cb921f47a8b3af64712f7ee06968d13e37eb38093614b050f0f79d215"}
+  {:article/id "law/6093/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "864b1be10f427a7cd755c1999f96b890ed0cf4d4a0753c5e2a013e76c8ae6ef0"}
+  {:article/id "law/6093/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "64c677ac773c691983f3d20b2ac39b534997dd6dc310ebc530e57e05dee6ac71"}
+  {:article/id "law/6093/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bd19619be0d4b7dcc5cc9f01ccf0e20d780502514dc9d55aa030338986ae97fc"}
+  {:article/id "law/6093/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Araştırma ve Eğitim Merkezi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0669f56acec6edf8b843c8563ce870cda93709a29c1c1cd3e8bac263d5bb843b"}
+  {:article/id "law/6093/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "72a481e65821763d29e552d26ef005fdf5b3681d393d54adee9c46a58dd1e4d0"}
+  {:article/id "law/6093/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Atama ve kadrolar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "737641df008fa914c2259c2149c1f5864fdb746c36787c71e68585e8ee056ea3"}
+  {:article/id "law/6093/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "cf38fc89f00667b8d08cd8add9e326a05ed7d1e2c3711bf3e0d67fd7ee535e4d"}
+  {:article/id "law/6093/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "69ffb000eb8bbac129317846a8a3788277daefcc8d792b3503c688ea1b03aa03"}
+  {:article/id "law/6093/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Araştırma, etüt ve proje yaptırma",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "1bb150d11df40a6b84cd30f45d64db15e14535993037d0e2aae9f9a5921951bf"}
+  {:article/id "law/6093/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Düzenleme görev ve yetkisi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "1550c59732725a89d2761f45dac27037c9ab7a6742ac88ac1b7865450233c764"}
+  {:article/id "law/6093/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Muafiyetler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "02f3a3407627fa0bc73f3b24ceee8b1209df066d2dc09c4aee80bfa451b49082"}
+  {:article/id "law/6093/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "bcac9f4698bff7bc070e57e8a1fbb3e5cd5695d70342761551d88da323ddc9bd"}
+  {:article/id "law/6093/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "59ba3106cb3e70b1d2c6c15ff639f5ec5da1c7363dfbcb451801a9f4e09bcd63"}
+  {:article/id "law/6093/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a1665f480b0b1865eef91c0df624d7bf23c9721ca0d7f90d602edf5d1d9052e5"}
+  {:article/id "law/6093/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "8bd76e88c45888f4125550223d9bfd126fdeacef15a7772c19abc41add0d8e21"}]}

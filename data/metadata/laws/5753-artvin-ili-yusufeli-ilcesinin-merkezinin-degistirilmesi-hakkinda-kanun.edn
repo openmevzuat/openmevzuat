@@ -1,0 +1,48 @@
+{:document/id "law/5753",
+ :document/type :law,
+ :document/number "5753",
+ :document/title
+ "ARTVİN İLİ YUSUFELİ İLÇESİNİN MERKEZİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "5753-artvin-ili-yusufeli-ilcesinin-merkezinin-degistirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5753-artvin-ili-yusufeli-ilcesinin-merkezinin-degistirilmesi-hakkinda-kanun",
+ :document/sha256
+ "72c158e7fd5a9850801406042f403206638f8d9595453d0a0bd171e4e23591c2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5753.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:04.346-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5753/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "İlçe Merkezinin nakli",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9b5aea5803b003c4d30d5a9a36460403cbd2458d7aebb257171e05abb9bb00a7"}
+  {:article/id "law/5753/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Nakil süreci",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "28359a66d8d2d109ee5c95032608e0c42144d80b1bc7d5ed34de300bddf2dbe6"}
+  {:article/id "law/5753/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "817e0de4434bed5b2d454e9eb4db29107e34a434302d723f280775cfe041c86c"}
+  {:article/id "law/5753/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürütme",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "dbd43a6a137ac15f71244099e2bf516ade7d0c82962db4fb44443004755d5d8d"}]}

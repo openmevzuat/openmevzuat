@@ -1,0 +1,63 @@
+# TÜRK VATANDAŞLIĞI KANUNU
+
+**Kanun No:** 5901  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/5901  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç](articles/madde-001.md)
+- [MADDE 2 — Kapsam](articles/madde-002.md)
+- [MADDE 3 — Tanımlar](articles/madde-003.md)
+- [MADDE 4 — Vatandaşlık hizmetlerinin yürütülmesi](articles/madde-004.md)
+- [MADDE 5](articles/madde-005.md)
+- [MADDE 6 — Doğumla kazanılan vatandaşlık](articles/madde-006.md)
+- [MADDE 7 — Soy bağı](articles/madde-007.md)
+- [MADDE 8 — Doğum yeri](articles/madde-008.md)
+- [MADDE 9 — Sonradan kazanılan vatandaşlık](articles/madde-009.md)
+- [MADDE 10 — Yetkili makam kararı ile Türk vatandaşlığının kazanılması](articles/madde-010.md)
+- [MADDE 11 — Başvuru için aranan şartlar](articles/madde-011.md)
+- [MADDE 12 — Türk vatandaşlığının kazanılmasında istisnai haller](articles/madde-012.md)
+- [MADDE 13 — Türk vatandaşlığının ikamet şartı aranmaksızın yeniden kazanılması](articles/madde-013.md)
+- [MADDE 14 — Türk vatandaşlığının ikamet şartına bağlı olarak yeniden kazanılması](articles/madde-014.md)
+- [MADDE 15](articles/madde-015.md)
+- [MADDE 16 — Türk vatandaşlığının evlenme yoluyla kazanılması](articles/madde-016.md)
+- [MADDE 17 — Türk vatandaşlığının evlat edinilme ile kazanılması](articles/madde-017.md)
+- [MADDE 18 — Vatandaşlık başvuru inceleme komisyonu](articles/madde-018.md)
+- [MADDE 19 — Yetkili makam kararı ile Türk vatandaşlığının kazanılmasında usul ve esaslar](articles/madde-019.md)
+- [MADDE 20 — Yetkili makam kararı ile Türk vatandaşlığının kazanılmasının geçerliliği ve sonuçları](articles/madde-020.md)
+- [MADDE 21 — Türk vatandaşlığının seçme hakkı ile kazanılması](articles/madde-021.md)
+- [MADDE 22 — Türk vatandaşlığının seçme hakkı ile kazanılmasının geçerliliği ve sonuçları](articles/madde-022.md)
+- [MADDE 23](articles/madde-023.md)
+- [MADDE 24 — Yetkili makam kararı ile kayıp yolları](articles/madde-024.md)
+- [MADDE 25 — Türk vatandaşlığından çıkma](articles/madde-025.md)
+- [MADDE 26 — Türk vatandaşlığından çıkma belgeleri](articles/madde-026.md)
+- [MADDE 27 — Türk vatandaşlığından çıkmanın geçerliliği ve sonuçları](articles/madde-027.md)
+- [MADDE 28 — Çıkma izni almak suretiyle Türk vatandaşlığını kaybeden kişilere tanınan haklar](articles/madde-028.md)
+- [MADDE 29 — Türk vatandaşlığını kaybettirme7](articles/madde-029.md)
+- [MADDE 30 — Türk vatandaşlığının kaybettirilmesinin geçerliliği ve sonuçları](articles/madde-030.md)
+- [MADDE 31 — Türk vatandaşlığının iptali](articles/madde-031.md)
+- [MADDE 32 — İptal kararının geçerliliği ve sonuçları](articles/madde-032.md)
+- [MADDE 33 — Malların tasfiyesi](articles/madde-033.md)
+- [MADDE 34 — Türk vatandaşlığının seçme hakkı ile kaybı](articles/madde-034.md)
+- [MADDE 35 — Seçme hakkı ile Türk vatandaşlığını kaybetmenin geçerliliği ve sonuçları](articles/madde-035.md)
+- [MADDE 36](articles/madde-036.md)
+- [MADDE 37 — Vatandaşlık işlemlerinde müracaat makamı ve usul](articles/madde-037.md)
+- [MADDE 38 — Bilgi ve belge istenmesi](articles/madde-038.md)
+- [MADDE 39 — Maddi hataların düzeltilmesi ve tamamlama](articles/madde-039.md)
+- [MADDE 40 — Vatandaşlık kararlarının geri alınması](articles/madde-040.md)
+- [MADDE 41 — Tebligat](articles/madde-041.md)
+- [MADDE 42](articles/madde-042.md)
+- [MADDE 43 — Türk vatandaşlığını kaybedenler veya vatandaşlıktan ıskat edilenler](articles/madde-043.md)
+- [MADDE 44 — Çok vatandaşlık](articles/madde-044.md)
+- [MADDE 45 — Vatandaşlık işlemleri hizmet bedeli](articles/madde-045.md)
+- [MADDE 46 — Yönetmelik](articles/madde-046.md)
+- [MADDE 47](articles/madde-047.md)
+- [EK MADDE 1 — Saklı nüfus](articles/ek-madde-001.md)
+- [GEÇİCİ MADDE 1 — Türk soylu yabancılar](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2 — Mevcut yönetmeliğin uygulanması](articles/gecici-madde-002.md)
+- [MADDE 48 — Yürürlük](articles/madde-048.md)
+- [MADDE 49 — Yürütme](articles/madde-049.md)

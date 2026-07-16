@@ -1,0 +1,309 @@
+{:document/id "law/5902",
+ :document/type :law,
+ :document/number "5902",
+ :document/title
+ "AFET VE ACİL DURUM YÖNETİMİ BAŞKANLIĞI İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "5902-afet-ve-acil-durum-yonetimi-baskanligi-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5902-afet-ve-acil-durum-yonetimi-baskanligi-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "ca4f9691db49c26dc05962b2363af7fcbc0832226d55894f1d4fdddedda7e34c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5902.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:47.192-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5902/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7214fa236345de97e8c0e9f3361c1beadcd194f14d5680b87bcb152d2f2565af"}
+  {:article/id "law/5902/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3e02c56a9eb2ef5744586d4c8a1645e47f421e32e0b6996fb64611c14e03ad55"}
+  {:article/id "law/5902/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5826f97cb2e1e211e97c895eb05be63c69bc39d182f19ff9ffc14c5b9b817963"}
+  {:article/id "law/5902/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Afet ve Acil Durum Koordinasyon Kurulu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7663fe1a71c1121d5519ff4d30788b815da5bd8e589964dfa22c03e1c63b546d"}
+  {:article/id "law/5902/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Deprem Danışma Kurulu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "efd0cd56e87bbf0eba833fbfed9231943cd3b501d7385c5a85b25b7c8c5742db"}
+  {:article/id "law/5902/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Başkanlık teşkilatı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "110eb50240bf82865f0061c0cb8d6ad98df6ecfd356c77d29c0266efd615d4db"}
+  {:article/id "law/5902/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Başkanın görevleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "93832165c6ddb87f16a96e4e2d4f41b09aa455176c0c4895a71d307d3535cccd"}
+  {:article/id "law/5902/article/7/A",
+   :article/type :normal,
+   :article/no "7/A",
+   :article/title "Başkan yardımcıları",
+   :article/path "articles/madde-007-a.md",
+   :article/sha256
+   "55c3ae038e0afb364c65ce8ce9475c89c8968677cf4bafa7410c280996d9bdb0"}
+  {:article/id "law/5902/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "da62cac6cf415e4769f3c9214d1cf1e23a608d4fe9f6af5cba77526779e827d8"}
+  {:article/id "law/5902/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Müdahale Dairesi Başkanlığı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5175a5ff192b5e15016f5681e2c4376c27f0b2b4cbb2cec61e30f09534bbd905"}
+  {:article/id "law/5902/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İyileştirme Dairesi Başkanlığı",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "ceec8afeb05b7320b8f684ea119664951d238a2adafb0a14657b1cf97035eafa"}
+  {:article/id "law/5902/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Sivil Savunma Dairesi Başkanlığı",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "700390dd7b248c7daba9498e78b7f1eced65d3a4627615d4083d0a5cff8b8247"}
+  {:article/id "law/5902/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Deprem Dairesi Başkanlığı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "2a56d5cdc7ad64c0ce84cf37c2ea3bcb7ff6814659605b8e974debcf15e0cb4f"}
+  {:article/id "law/5902/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetim Hizmetleri Dairesi Başkanlığı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "8e1a3ae5f3e581af84ddd52c689112120ff801fe6fcd223f6523c5758f57f03e"}
+  {:article/id "law/5902/article/13/A",
+   :article/type :normal,
+   :article/no "13/A",
+   :article/title "Strateji Geliştirme Dairesi Başkanlığı",
+   :article/path "articles/madde-013-a.md",
+   :article/sha256
+   "7051a861ba3801aae768d5ee3898a100e35a1c955a0d57cb5b5160964156a3a6"}
+  {:article/id "law/5902/article/13/B",
+   :article/type :normal,
+   :article/no "13/B",
+   :article/title "Bilgi Sistemleri ve Haberleşme Dairesi Başkanlığı",
+   :article/path "articles/madde-013-b.md",
+   :article/sha256
+   "2e835151b1a3c87d05a1c5194606fa2aba3f5ac08269d740f00c7de8fdaed8bc"}
+  {:article/id "law/5902/article/13/C",
+   :article/type :normal,
+   :article/no "13/C",
+   :article/title "Hukuk Müşavirliği",
+   :article/path "articles/madde-013-c.md",
+   :article/sha256
+   "f1349b04e5bbe256160957ccf6aae096280eccafd8fea727ec18381502e8a4c5"}
+  {:article/id "law/5902/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Çalışma grupları ve geçici görevlendirme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "38ca9469e318444f3668400fcef125c86d53153b98d23b710e98e7678e8a83cf"}
+  {:article/id "law/5902/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Sözleşme ile araştırma, etüt ve proje yaptırma",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "7b2556a9a34aee4f8ebc17039f82ab7118c0d4974f36e0098fdd339c6540ea3a"}
+  {:article/id "law/5902/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Koordinasyon ve işbirliği",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ac5790a737355f3a16d73181fed4395f5ada147b8c0e88cf1ec69d3f88fdd9b1"}
+  {:article/id "law/5902/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Düzenleme yetkisi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "0e9ea23bf6d46185a2e7c5d8b21f16c93fc55c14dc58dddfa5815682b931f234"}
+  {:article/id "law/5902/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "5319bd95cb48b059c7566b7983d9b34b5eca79858d9df2224e88309b47cb453b"}
+  {:article/id "law/5902/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Afet ve Acil Durum Arama ve Kurtarma Birlik Müdürlükleri4",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a0e0d5dcb1765d1767a01aeef70d0432644a4e0c77d4a6f06c919ca0c1f1adbd"}
+  {:article/id "law/5902/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "cd16ce6d84a3f3bd7d67a4497a0d389d496deab66af1950d17ef42719c1543df"}
+  {:article/id "law/5902/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Afet ve acil durum yönetimi uzmanlığı ve uzman yardımcılığına atanma",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "54b1af837bb05dec4e5f72daef8c60f97fe259e0b405280dd61db7a14f90ceeb"}
+  {:article/id "law/5902/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "8ddeaf268d8f14eb7205dbad3eecd27779259e099674c3f4d73e9d2f0d8c9ef9"}
+  {:article/id "law/5902/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Kaynak yönetimi56",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "db0cb3f83e6fe850b6f6b8c46f2567ad17c2bf4f26c655ef2ae2e08c235dc1e4"}
+  {:article/id "law/5902/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "acec09872cba401c0072ba08e5bb1c9926ceab32cbb6c48ad315f8aa31a03f68"}
+  {:article/id "law/5902/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "064977c9a119c6753c2d42ed56f189b8965f2650c8ef666aa6fed5570219819e"}
+  {:article/id "law/5902/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Üst yöneticilerin sorumluluğu",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "4563755e3596ef08767ad17ce77e952ab8b65b6e4edb70c8db6b89fd2badffde"}
+  {:article/id "law/5902/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "4e9a6616716bd59accd71fcfd2d94212514379d19e5caca3dfc4d11f95b210b3"}
+  {:article/id "law/5902/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Devir hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "beda83a5a0b4da3ee4d4c4d34918d24a0986f2cef9fe2ec262ba68b167358a73"}
+  {:article/id "law/5902/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Kadro ve görev unvanı değişikliği",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e38bfbdcd330e995ebf0f1442fad07d4a22f6fe159db854895415859598c46d8"}
+  {:article/id "law/5902/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Uzmanlık kadrosuna geçiş",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "3a9264504321e1cacee67e1fa71335aecece6fbdb71a602ab2ffe10b1f80cdd0"}
+  {:article/id "law/5902/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Bütçe işlemleri",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "6ea10e7f5d916739b3ee72c0c4ddea92eab364e0a61e3ac40119ee116ff9a6cf"}
+  {:article/id "law/5902/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Malzeme devri",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "b1d0637d3d5bffb40f031874cd82c23f3b0480f6a2726911d7592e7faaf39d4a"}
+  {:article/id "law/5902/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Dava ve icra takiplerinin devri",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "ac23051d58ddee9700c3293be7e39799d5446db092d2911010d70511e880a1a0"}
+  {:article/id "law/5902/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "7be9423cbfc751646d18bf1a93341a583a5dfd94ca76c5bef99dbbbdbb51c0f2"}
+  {:article/id "law/5902/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title "Denetçiliğe naklen atanma",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "61a99f2f3defda5974fdb92aad8f8762ff13c496c86ede118b8a9f845347025b"}
+  {:article/id "law/5902/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "2ab783ac2d315af0757050ff907c8d272e92290d1bad5b444e5cfc1dc9999735"}
+  {:article/id "law/5902/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürütme",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "12a4bdf74ec3d64882e2757b8fd1a9ce111aae0f785959ec9f17eb0217b29755"}]}

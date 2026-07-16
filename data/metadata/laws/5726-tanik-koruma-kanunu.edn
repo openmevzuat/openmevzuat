@@ -1,0 +1,217 @@
+{:document/id "law/5726",
+ :document/type :law,
+ :document/number "5726",
+ :document/title "TANIK KORUMA KANUNU",
+ :document/slug "5726-tanik-koruma-kanunu",
+ :document/path "data/canonical/laws/5726-tanik-koruma-kanunu",
+ :document/sha256
+ "3633b50291e7d9375dde7aa118337f3f9ec137dc2baf30ddad46eae891aa3cea",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5726.pdf",
+ :source/fetched-at #inst "2026-07-16T02:42:34.261-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5726/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6779d6f0e89ed719f141718f22988c7a9a182510a9f8204aee2f30cc5f8265ae"}
+  {:article/id "law/5726/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "402dcc8577a36bb1e00cf44d7c40323dc38bd963a9e0b026f7977beb46bb4054"}
+  {:article/id "law/5726/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8572723178afae81a5e5dfc368a30fcbada81325adf3ca2912f499c162de1861"}
+  {:article/id "law/5726/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tanık koruma tedbiri kapsamına alınacak kişiler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e76168812b5ee4517b836771fb03fc3c7cb9ad3ad10f30f53ee302d712388262"}
+  {:article/id "law/5726/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Tanık koruma tedbirleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d2413fb6a9c0d68394105b5ad5e502d77bfcd7fed0b956204d95539d675d83d9"}
+  {:article/id "law/5726/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "403901f38dfe7ed51e01fa8c8af66b3a0e64d198c8486d34aad8c325a7780067"}
+  {:article/id "law/5726/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Tanık koruma tedbiri kararında bulunacak hususlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "211ac89c158d6bde7b4aa7174061478bbc077116e3bf78054ce2acb98b019548"}
+  {:article/id "law/5726/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Tanık koruma tedbirinin süresi, değiştirilmesi ve kaldırılması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d9486cbf4a5c5b496fe4835f54eba11c8d1bcb63102b9cee207513a4afa4b4b2"}
+  {:article/id "law/5726/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "75825b4747e250bd1e031bb8a713c8b8c3288f982ede3fe424ed3c894b7e75f5"}
+  {:article/id "law/5726/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b3da246b829246770f5cee92f0f54e82a43aa81634722dd57cffec9632804f82"}
+  {:article/id "law/5726/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Tanık koruma birimleri ve kolluk makamlarınca yapılacak işlemler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "67bf7a708fd35f8891a62b84a56f511122cf6af246a32630a74bf64cf2c49c5e"}
+  {:article/id "law/5726/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Diğer kurum ve kuruluşlarla işbirliği ve yapılacak işlemler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "86d59107eebbb7388764a42a6810a346ab5389eeae5d5c80c3d357113180a4c6"}
+  {:article/id "law/5726/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "15d3302c0cdbaf7ca99e89b5db8fdc639a84acf6474022c7f911d074a192ae79"}
+  {:article/id "law/5726/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Kurulun görev ve yetkileri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "0522f47fcdbdb65217de8d06dfeed7f06087bc10e425ae29cc708d9f3b4cfc46"}
+  {:article/id "law/5726/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Mutabakat metni",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a209d9b17c99ec39b0c83143c69f3e270ad9f84d8364e9ffb0e65d08582b216f"}
+  {:article/id "law/5726/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Faaliyet raporu",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "16ddd1b0cb585d46ef756027ba86c30edd6c6ea683e79456c4c2f529c93f2b20"}
+  {:article/id "law/5726/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "b84cdd652b6645293bd14af3df7523f8d1828f7844db0a89e23b09d009476544"}
+  {:article/id "law/5726/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Gizlilik kuralı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8e87deae4503d23905e8e4fabb34785457543504baaf65526ac94f5f0f4ee195"}
+  {:article/id "law/5726/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Tanık koruma giderlerinin karşılanması ve tazminatlar",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "16067356e9ff94160513409ffb68c0327d4877e8b609a47eb5fc95f16ee93dfa"}
+  {:article/id "law/5726/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Suç, yaptırım ve soruşturma usulü",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "57d9a00113fdc0324a69754096d901fc56094c7ebbab32179e0295a9974ce762"}
+  {:article/id "law/5726/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Tanığa rücu edilmesi",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "e1424355af3bc153ad0192bd0fabca773d187d04e09ab146133bfe5f4c3f3c9b"}
+  {:article/id "law/5726/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "cd084c7a4bd64977639f8d91836402136101342182b2299b4ce6327eb36ed306"}
+  {:article/id "law/5726/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Askeri ceza muhakemesinde uygulama",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "5ea9210e978c3bedf5da2ec146204ce841e6bcf2258d03e1becfd27b3c61fbea"}
+  {:article/id "law/5726/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "f9b28c1a9551d39ceaf6892fa930021b39625aeb367939f29ece9302364b8af7"}
+  {:article/id "law/5726/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "32924480f973b35cb1bfb2cf8fc96ca139f9f1e7f760af988eadf3d7b8d00fd5"}
+  {:article/id "law/5726/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Kurulun oluşturulması",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "5230136e0130e8e30436271a49bee4e2a50b036c6a2082eed49c03177e212957"}
+  {:article/id "law/5726/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "cdd7260452c8882671b7e8f745712f27e9a7dd5257fc9fc235757731121ddb76"}
+  {:article/id "law/5726/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürütme",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "28690031ff804b07c4022b020b08cf12c1e4d5abae79a0bf2209156b3428a9eb"}]}

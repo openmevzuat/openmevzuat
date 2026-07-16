@@ -1,0 +1,232 @@
+{:document/id "law/5910",
+ :document/type :law,
+ :document/number "5910",
+ :document/title
+ "TÜRKİYE İHRACATÇILAR MECLİSİ İLE İHRACATÇI BİRLİKLERİNİN KURULUŞ VE GÖREVLERİ HAKKINDA KANUN",
+ :document/slug
+ "5910-turkiye-ihracatcilar-meclisi-ile-ihracatci-birliklerinin-kurulus-ve-gorevleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5910-turkiye-ihracatcilar-meclisi-ile-ihracatci-birliklerinin-kurulus-ve-gorevleri-hakkinda-kanun",
+ :document/sha256
+ "76192a83166f4cab804b4f3c84df3dea6ab94252da676ad741101574bc40fc7c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5910.pdf",
+ :source/fetched-at #inst "2026-07-16T02:43:55.340-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5910/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "25b78836806be22ace5993ed9ae0a84d89b26adb1913d8a54f6ad13337e265cf"}
+  {:article/id "law/5910/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar ve kısaltmalar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f791ae3b94fe18dbb4849536c96dc2d800607a9fd74bf92400916ebee92f9692"}
+  {:article/id "law/5910/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2d05b4f37a4712be9a1ab107dd188443d31de30753609487753f465d529d286e"}
+  {:article/id "law/5910/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Üyelik",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7b893e8924480a15e2065c3850a5f8efff7182e79457460d7189f36d3bc86f39"}
+  {:article/id "law/5910/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Genel Kurul, görevleri ve toplantıları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "eb27c69a1ef2786f689ccbc64cefaff4a6f93ee9d86bd526da1c9341ba9b610c"}
+  {:article/id "law/5910/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetim kurulu, görevleri, toplantıları ve temsil",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "bd81b3e3ad7c4f1b7efb380b02068944ff80e9d93371a63920adba258ac513c3"}
+  {:article/id "law/5910/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Denetim Kurulu ve görevleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c96ab10268196bce2e51ef2df9a83ccde99caa3f6180252e309f82f11a24d3c1"}
+  {:article/id "law/5910/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Genel Sekreterlik ve Genel Sekreterin görevleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "24d42fbeb21cf8f74601cbf33ad5a4a2e9508b228118bd254095d93c70a54348"}
+  {:article/id "law/5910/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "63bf8f3af79a940f0bdc7e9a692a9a1d8549d0220afdff26a78c0a336d11da11"}
+  {:article/id "law/5910/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Sektörler konseyi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c4ce60041500d4208b6c2bdcec6e54d108f189b9ed01ee24ce2b03ba17195f9c"}
+  {:article/id "law/5910/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5fb79d1814e698bb9248433ebe4902008d730da469cde0d80592ecda7dc644a5"}
+  {:article/id "law/5910/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Genel Kurul, görevleri ve toplantıları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "713eace1f4216674f2abd8f625f06f84c072b81513143f72baf48bfc2fe91a78"}
+  {:article/id "law/5910/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetim Kurulu, görevleri ve toplantıları",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "8347e66c63098058a7f0f25750a93c5eee907f672b9230845377a2318681c4c8"}
+  {:article/id "law/5910/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "TİM Başkanı ve temsil",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "c9fe0d71b008a76de89b80cad80209671248460661f5e990adaa0620b3052517"}
+  {:article/id "law/5910/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Denetim Kurulu ve görevleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "eed5d5c5ab4f44e18b301e8b7209196a44097a33d099bcaf5aae80a133d4cf30"}
+  {:article/id "law/5910/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Genel Sekreterlik ve Genel Sekreterin görevleri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "5d012d3d24eb55de7bc68ec5fa1ba063240b374ca12e4b8e3d3c7ec9f3075c71"}
+  {:article/id "law/5910/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "ea682ee2aee573503a86bd9f5daeaba48db7ea38def230dae29b0fb289b2bcd3"}
+  {:article/id "law/5910/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Gelirler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "f22d4dac3363590a29704f7c234d27523ea8d7bdf8979e308d049648f4916fa4"}
+  {:article/id "law/5910/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Bütçe ve giderler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "3e2f39b55a244472e82a26993faf818da25779654c51ba430b3c748efca1d4a1"}
+  {:article/id "law/5910/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "e6364f113db4a37e9cb60683fc7b2a1dcf3c3e086fb483a097dc761878e1f72a"}
+  {:article/id "law/5910/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Kurul üyeliklerine seçilemeyecek olanlar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ac3264c606a0bec22190fc71504c5aeccfc00e1928376fbc91c48fb27b9880ec"}
+  {:article/id "law/5910/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Denetim",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d17bbcacf5125410d720d06365459bddd17e87781dc941d27bdc6ed0f43f1147"}
+  {:article/id "law/5910/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title
+   "Düzenlemeler, görevlendirme ve seçimlerin ertelenmesi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "2e1da14b76d9207b8d28fdd74d2b7c6cf0596227eb3a7e4a17538eee644a0251"}
+  {:article/id "law/5910/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Yedek akçelerden İhracatı Geliştirme Anonim Şirketine aktarılacak tutar",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "10c512a86017686e38129de92c5323f49b07b0819305e60d858e7afbb5af4e83"}
+  {:article/id "law/5910/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "86b3511c0d13b621eb9d70c364f0688827b8ab4d84dc3993bb366cc9a4cab9b4"}
+  {:article/id "law/5910/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a9e831e5dc54f35a92cff17bf30bab7efcfcfecb376ee4eb43c8db579a4f508e"}
+  {:article/id "law/5910/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a61f1717645ffee566c3a10a49b10b438a3169e5ddc048d9dda0929bb2e81830"}
+  {:article/id "law/5910/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "79b328e1ba45b8aef9cdb75797868b0df226cd73b2dbf41f7439752256f34e13"}
+  {:article/id "law/5910/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "59260559103ba338ccf97066ca62abe0315d3516425e1d15cd584c53f07a62e9"}
+  {:article/id "law/5910/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürütme",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "5f883ea284e02d660b89c5bac654497c4ddb7c97dd1de05fbb1cc068ed77d7cd"}]}
