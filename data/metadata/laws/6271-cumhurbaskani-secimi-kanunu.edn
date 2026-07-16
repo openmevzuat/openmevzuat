@@ -1,0 +1,201 @@
+{:document/id "law/6271",
+ :document/type :law,
+ :document/number "6271",
+ :document/title "CUMHURBAŞKANI SEÇİMİ KANUNU",
+ :document/slug "6271-cumhurbaskani-secimi-kanunu",
+ :document/path "data/canonical/laws/6271-cumhurbaskani-secimi-kanunu",
+ :document/sha256
+ "7563df86d245dd338e3c1a82df7504cce75d2179609e90d1a8891e68786db803",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6271.pdf",
+ :source/fetched-at #inst "2026-07-16T02:58:53.076-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6271/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0b07d4da8744eb701a819e128fb903cd197f737c2d8e022d494d48d85932cc65"}
+  {:article/id "law/6271/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Seçimde uygulanacak genel ilkeler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "1a129301ec4c40dc678fb7fc47d688b11c1589886d57d1deb773d3e451ef434d"}
+  {:article/id "law/6271/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Seçim dönemi, seçim döneminin başlangıcı ve seçimlerin tamamlanması",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "55db21e1bcef76caa61a9f387163d092b6fd69813a2ad4276098ce6cda48b29e"}
+  {:article/id "law/6271/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Seçim sistemi ve uygulanması",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3df68b793ca6849e9135ed16eb1d4e59ed55cd5f321ec054ee8da2b7716491ac"}
+  {:article/id "law/6271/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Seçimin geri bırakılması",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f0182e945107109dd0fb84987ac8c7a5de2213788bc34be6a5842b06ee4a0806"}
+  {:article/id "law/6271/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Seçilme yeterliği",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a237298adb3afb8c49eaefb26527e908eed27d5bb55f2fd53ebab5a2be34bca9"}
+  {:article/id "law/6271/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "86937889bc57f69cf585c8ce6427b870eda1600e463071f22ef880c7e16723b5"}
+  {:article/id "law/6271/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Siyasi partilerce aday gösterilme1",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "77c262e8087ae3e3e1f5a2d002a44a0619442b580760cf0cc036eac8b0b9384f"}
+  {:article/id "law/6271/article/8/A",
+   :article/type :normal,
+   :article/no "8/A",
+   :article/title "Seçmenler tarafından aday gösterilme",
+   :article/path "articles/madde-008-a.md",
+   :article/sha256
+   "457e69ad9c028574bb23e15f01eee2e7d15c54c2858cbbff955ccac1087e1966"}
+  {:article/id "law/6271/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Adaylığın incelenmesi ve geçici aday listesi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ac269d83c6844c30501ba343ab64ce4caafd283017b70e318b50d7da46614b51"}
+  {:article/id "law/6271/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İtiraz ve kesin aday listesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "72838da090331d06bf74d5f7a05ae88f29563b716fedd891a2607e1fb833a6cc"}
+  {:article/id "law/6271/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Adayların görevden ayrılması ve göreve dönmesi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "8464ba9eab9bb2fd3304b0aabb1c3740576d86674aec51944a9533005b818a5a"}
+  {:article/id "law/6271/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Adaylıkta eksilme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4f5d656e020dfed55e6018ca7bd9813d96fa229837871d196a721d2059341297"}
+  {:article/id "law/6271/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Propaganda",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9a6e64771bc1ab7f21317fefe492e2182bd79f60ddd49a61396b9ca6ec97f74d"}
+  {:article/id "law/6271/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Adaylara yardım",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ef3f6bcde1b64754f225789fb219d9dd381c2b40c9b54a2937a6f76cf425afe6"}
+  {:article/id "law/6271/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "2896ecba87f7d02b286bf6b57e79b304357ac1d6a0ea6a295232fc6c0b52e6a7"}
+  {:article/id "law/6271/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Oy kullanma şekli",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "6053fc02f7cc138ec98c8baede10c0d6647c876f91c2cdc34d300fd70f512075"}
+  {:article/id "law/6271/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Oylamanın referandum şeklinde yapılması hâlinde oy kullanma",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "28bce4093e06be7fa67ff5bac9b6357d88ac2b8423100440cef0eea0fcce28dd"}
+  {:article/id "law/6271/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7dae78825d4b078dd3849d58ab6e93d90f99e7dd3ea4f517da16ee55a0c7123a"}
+  {:article/id "law/6271/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Seçimin veya birleştirme tutanağının iptali",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ce2ae4c002478a1a42fe63c7753b9dddc1d21094cbbe8516618fe606059e306e"}
+  {:article/id "law/6271/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Cumhurbaşkanı seçiminin sonuçlandırılması",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "58a91e7e95451fdf0fb6c5559e978a13b5ba00d887e98d0202cc9b63b17e4fd4"}
+  {:article/id "law/6271/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Andiçme töreni2",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "945b5f30bc2dabd1a7c9bb37d289650e7501a43ffb5c9fe65e3b864f6128c3b4"}
+  {:article/id "law/6271/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Değiştirilen mevzuat",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "0ac7516d52c88fd3e8d409efe7fa68f2b5c299a81ebe7886cd3f1768b598c065"}
+  {:article/id "law/6271/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2af8591f1cdfd7764b9b4aec764be0b1a796b691fce0d572aa641552b97184e6"}
+  {:article/id "law/6271/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "a14139bb7c081878dea6ca44262d9d091878559846844f656cd7e3e817fba6a4"}
+  {:article/id "law/6271/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürütme",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "4d333237aba11af2441bd5ae3e77b81b52b0cd849a903eee8b3bc5234f107e8c"}]}

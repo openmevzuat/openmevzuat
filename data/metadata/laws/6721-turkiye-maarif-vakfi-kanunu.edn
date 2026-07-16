@@ -1,0 +1,88 @@
+{:document/id "law/6721",
+ :document/type :law,
+ :document/number "6721",
+ :document/title "TÜRKİYE MAARİF VAKFI KANUNU",
+ :document/slug "6721-turkiye-maarif-vakfi-kanunu",
+ :document/path "data/canonical/laws/6721-turkiye-maarif-vakfi-kanunu",
+ :document/sha256
+ "d44a507b7885b524a9db005dc4bf540a1c169f680adfd4b6e8b0985a7411edeb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6721.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:12.783-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6721/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e9a43552a86db61d48376bfbc2cff8cfa5df6ee715d1ec1e9c638a6a5ef2a74e"}
+  {:article/id "law/6721/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e195cf50cd1ea5669b6717f3deb265484a0e852b483d9af40b7adce900ce5769"}
+  {:article/id "law/6721/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Türkiye Maarif Vakfının organları, organların oluşumu ve görevleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "91587e103a172fa229684da1e7c9deb73a1dbe6e1cef4bece6ba3a2e3311b247"}
+  {:article/id "law/6721/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Mali haklar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "59aee7460ba46526f0649cf118b9ab894468644f3c3b0e437148663f65b894d5"}
+  {:article/id "law/6721/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b54ee71c6cd3b0cdef50bdec177c440992e8997c7bbacc54f8d90349d8467eba"}
+  {:article/id "law/6721/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "612f389258909941b10d2cb2f5fbb9c3997169bf4b9a6fb3cc0d1a32d2f911e3"}
+  {:article/id "law/6721/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Personel görevlendirilmesi",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "cba880bcdca3fa4851d7ba4e26f6692fd23d1194f5749d427ccd99e54bc7c726"}
+  {:article/id "law/6721/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Türkiye Maarif Vakfının kuruluş işlemleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "87623586706a3bb4f948f79a6bf002925eb8a6179e38feed46b59172a511859a"}
+  {:article/id "law/6721/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "4f3d17fd07a4d606da9d424d88f823df3579c92083bb46ad968155e1675a6e3b"}
+  {:article/id "law/6721/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2d53d2eb97fc1eba36b9bb6ce1536d16bbdde0da550ae68cbf8641f1fecc4e77"}]}

@@ -1,0 +1,287 @@
+{:document/id "law/6706",
+ :document/type :law,
+ :document/number "6706",
+ :document/title "CEZAÎ KONULARDA ULUSLARARASI ADLÎ İŞ BİRLİĞİ KANUNU",
+ :document/slug
+ "6706-ceza-konularda-uluslararasi-adl-is-birligi-kanunu",
+ :document/path
+ "data/canonical/laws/6706-ceza-konularda-uluslararasi-adl-is-birligi-kanunu",
+ :document/sha256
+ "35ecbd4278447f6bca2aff4c49a3daf47373d1c96f39e643573a7178c002ed9c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6706.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:06.278-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6706/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b462bb780133e7385bdeb6ad2e35f58670642dc837e3e525cf36ef956c975383"}
+  {:article/id "law/6706/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a065ffa592becb6b75684960a3dac2a432786088e74a6ecb2e3354f172b62780"}
+  {:article/id "law/6706/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Merkezî Makamın görev ve yetkileri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "12cd85f76a855ee35191e523f64a51e486d79e2d8e95c0a50f51e759208f5540"}
+  {:article/id "law/6706/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Adlî iş birliği taleplerinin reddi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "165c1568270fc8390113d114bbff03b40103b2be0bfc8bafc149dbec6df264de"}
+  {:article/id "law/6706/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Usul hükümlerinin uygulanması",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "61fc31720c264af9f409af7b471b03a81345f477e1d532d5d2d921c25ca743fb"}
+  {:article/id "law/6706/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Bilgi ve belgelerin kullanılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c0590268f0ff66b3e5e171963f13ec3371c69e1f6a9e7c12341041b15fb0a908"}
+  {:article/id "law/6706/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0d1dd15caf7d5ccc5ade18525c3f3a1892aa44e5e3aab170acd2e99adc79f6ea"}
+  {:article/id "law/6706/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yabancı adlî mercilerin talepleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ad254a186c25b7215bb03eaa0f3f7000190fafbaeee4d71385750ffe76c0c4fe"}
+  {:article/id "law/6706/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "Görüntülü ve sesli iletişim tekniğiyle adlî yardımlaşma",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e4948ee3f826f3a868d86c4caf27eb3e6fdc93e9c192df9f255dec7727f28f86"}
+  {:article/id "law/6706/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "44659499da16d033a8563c193d7e3858b508eaf2ebe619516dd936a00ef074ef"}
+  {:article/id "law/6706/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "İadenin kabul edilemeyeceği hâller",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "48eb8ae5b3034e9430a568802d8b1a9deba1d9a9a87d7886e6afb1ce7ab8fed8"}
+  {:article/id "law/6706/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İade ve sınır dışı ilişkisi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "ae12d51661173356d3fdd0801f56a1e293f2efac5078697e17dc7fdbb4e5d372"}
+  {:article/id "law/6706/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Merkezî Makamın incelemesi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a40945391185ca3005c0e7032da585f3e5c4cb4cf465a6beb4c779d3625f7974"}
+  {:article/id "law/6706/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Geçici tutuklama",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "9aec232a0cdb1630bc74778c076d09f71ec037265611d09f7e4d5c2f1acb5a5b"}
+  {:article/id "law/6706/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Görev ve yetki",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "51aec6b5f09ef73d35f1320d2099a8e8777faf538e5b2909b6e96951dba61a0c"}
+  {:article/id "law/6706/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "İade amacıyla koruma tedbirlerinin uygulanması",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "98fc668f759302c2f5f853429ec4ce3b56fce3c8f5da33f40855366c39ebf5ce"}
+  {:article/id "law/6706/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Rızaya dayalı iade usulü",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "b717e31cb0a566599fd7b40d7628d93e0d3fe88632f1ca833f1166a57d1667e0"}
+  {:article/id "law/6706/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "İade yargılaması",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8ede6c5f9d02b6ec7cc44b00f96b749ab6e79141d9d322fcd7cff3827deece5a"}
+  {:article/id "law/6706/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "İade kararı",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "9444cfc7231abc8e34e0c5e4105f3c725338ec8accec5d5ce8bb6b65f42558a0"}
+  {:article/id "law/6706/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Teslim",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "326a4dc84549bb74e7d97e415c76f84a1fe9e7e6397d83768f06932043e1e316"}
+  {:article/id "law/6706/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Transit geçiş kararı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "53352fc6eece83cc47ced6967df4190ba5a464496e7be3a874ee5566d36c559e"}
+  {:article/id "law/6706/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Türkiye’nin iade talepleri ve şartları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "a5d9f29114d38fa6b53cb64650173e509091018778a92693c278afbb6d0efaaf"}
+  {:article/id "law/6706/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "6fdc0e7382a92c4efa14c95c41b1e352312e7d85953a7562d24f1fbd9c7d4eff"}
+  {:article/id "law/6706/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Soruşturmanın veya kovuşturmanın yabancı devlete devredilmesi",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "50856ef2d9b9af7225fc12e316c39c79e988b1ad73829debd4d2bc85a38a0dd2"}
+  {:article/id "law/6706/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Soruşturma veya kovuşturmanın devralınması",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "233ccf6cb80aa08d38a82acf271a4678ba0771a99f1795c8f81f4c23ba68c593"}
+  {:article/id "law/6706/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "592048020ec20c58fa11d89927d68ab08dbf6600e20c57a00b5b4859c6cf805d"}
+  {:article/id "law/6706/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Türkiye’de infaz",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "9570fa9758b8d446481a6e674616f7a3c5a8f783ddec984ffeb32af6fff7cfb1"}
+  {:article/id "law/6706/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "İnfazın devredilmesi",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "4a80383b8c14fd2397c8d9207718a992649c33f4e136f760e970c64f23ceb51d"}
+  {:article/id "law/6706/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yabancı devlette infazın sonuçları",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "0c684a3bb206c3002db8f85bf7bc72859f4c5f84e1b99fc055d1c3693f645ff4"}
+  {:article/id "law/6706/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "476b97bceb17f0cba2f5f5a64ab6da6d58d2ff3e20d3897a86cd838e6b836e5f"}
+  {:article/id "law/6706/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Türkiye’de infaz",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "0202ae5f7bf5c4fa943c9d142fa6327cc7cae3c62cb13a09fe1afe5f36cfe5b2"}
+  {:article/id "law/6706/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Türkiye’den hükümlü nakli",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "7d8aa355182dfcfb06a88a19edfc4e7aeb87ac4ac46bbea2e3aca783563b293b"}
+  {:article/id "law/6706/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yabancı devlette infazın sonuçları",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "1e3b9f9939b62b44408198e5f7e15ee5dbc907f7700dbe743f7dc31e050a5a78"}
+  {:article/id "law/6706/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "e004db2d0ade3180f08eb361dfb6046af14f8fccc68146492090139873568a99"}
+  {:article/id "law/6706/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "6f9973085e867d06db3a70bde844cf07991687573aa5719d7d7956ec041a3179"}
+  {:article/id "law/6706/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "c2210d7e870a60813e8024500d2ca8f046e0f024e3339b70a3eeca2280897650"}
+  {:article/id "law/6706/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "9ad5169f6273c9acae9ffcf2b8ca59c8875936f9cf563ee019c81d45b5287b02"}
+  {:article/id "law/6706/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürütme",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "568335dab1680ed2724142f424fd4240d0d863eea13d02c9296c2ce29e7574f6"}]}

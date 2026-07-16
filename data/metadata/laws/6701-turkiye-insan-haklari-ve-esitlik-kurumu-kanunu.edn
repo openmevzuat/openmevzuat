@@ -1,0 +1,236 @@
+{:document/id "law/6701",
+ :document/type :law,
+ :document/number "6701",
+ :document/title "TÜRKİYE İNSAN HAKLARI VE EŞİTLİK KURUMU KANUNU",
+ :document/slug "6701-turkiye-insan-haklari-ve-esitlik-kurumu-kanunu",
+ :document/path
+ "data/canonical/laws/6701-turkiye-insan-haklari-ve-esitlik-kurumu-kanunu",
+ :document/sha256
+ "4b665e2ae815055d47d35147f13f8fbf94bb31c07a236c58598f1aabbce6c77f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6701.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:02.831-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6701/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "89a54355aaf718ce7609f55b7ab07814e831e107dfaddf14b4c6684cc1394e8e"}
+  {:article/id "law/6701/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dd72d36ac0a09f28965a86584c31b357b329f849a392454daa03c80642a06492"}
+  {:article/id "law/6701/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "eb3c6329dce6b200ae09a614e67d659e63f08edf6415c650c9481858156261f3"}
+  {:article/id "law/6701/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Ayrımcılık türleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a7ff4582233d40bffe57b571cd2e288258fb12d25b03426e379ce299c4609b44"}
+  {:article/id "law/6701/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ayrımcılık yasağının kapsamı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6649b24162aa5ee61aacf14267f03997c29e79363214d1047950717fccae346a"}
+  {:article/id "law/6701/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İstihdam ve serbest meslek",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c451dd5ae354041522b7ac208f773b71df587ba16c57ab530c9a8d99158a2760"}
+  {:article/id "law/6701/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ayrımcılık iddiasının ileri sürülemeyeceği hâller",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c6b78eb58a5ef7d6095a863e707c108a1dc7a60b4813f1360856033aca2816b4"}
+  {:article/id "law/6701/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "835b879c6e6353c63bac98ea3bdfc6066e1e700490a7b397a524b5791de49ffd"}
+  {:article/id "law/6701/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kurumun görevleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5edb92237f8530662e3342328ea29f1020c328093898e9aae8cdf0d4209d2159"}
+  {:article/id "law/6701/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Kurul",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5c335496dd124ca72cbdb20dc14d4bd97248b5ca5af7c62131c45a2d433a18a0"}
+  {:article/id "law/6701/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Kurulun görev ve yetkileri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "10f1b876e2aeeb9fb1bafd14d86905b327d84e941f041dd2f5cbc813438ed580"}
+  {:article/id "law/6701/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Kurulun çalışma esasları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "78323b019d3aebef57a2352d2c93a3dee75b7c76d676de9de4780994c970010b"}
+  {:article/id "law/6701/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Başkan",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d0fcf9552f11c7921aea68e799d0c4d6e41fcfe52124e601c9752262dc8dfc7a"}
+  {:article/id "law/6701/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Başkanlık4",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "6dc5cfc7388ac18cc51676a119989103bcb2ac0d6edc1270a0ee103b6cd6e5d0"}
+  {:article/id "law/6701/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "66a3e9c1101d72975c1c2c78ce41c1b13ec1beca3199588021eb5f6429d934b5"}
+  {:article/id "law/6701/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "İnsan Hakları ve Eşitlik Uzmanı ve Uzman Yardımcıları",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "6a80134ca514e83363069dfc40df83a6b04e127feab3cac3eab7cb5bbfcd0351"}
+  {:article/id "law/6701/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "a3222123171836250b40fa2f0ab9ea2968bf5a53f2fa56bae5d233a635d91442"}
+  {:article/id "law/6701/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "İhlal incelemeleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "daa4013627e66b642fe55dc0ea549bc1157a8868798d4a434a3f17f03f516f0d"}
+  {:article/id "law/6701/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "İnceleme yetkisi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a67c058afd489c2d4f4ac4a7f9a5c354d853cb2a8f9f86a2067f8f1f9a1ca602"}
+  {:article/id "law/6701/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Bilirkişi görevlendirilmesi ve tanık dinlenmesi",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "5d3c2e381fce830a994b4d6fdb45a7c8168218ed330ac687b9efc7c171f84334"}
+  {:article/id "law/6701/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "İspat yükü",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "0180fd000930d9cf455276a84985d2cbd972f065c468c0607c2100132aea1acf"}
+  {:article/id "law/6701/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "İstişare komisyonu ve istişare toplantıları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "0338e4ebf06198afb8e29ff8e687dadabd8fad81654ac861636520a4bb2b8739"}
+  {:article/id "law/6701/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "fa00cc11cef0c1557a870ec4e925d97118cbe4afa112fa44c6e061c427140cc2"}
+  {:article/id "law/6701/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "İstatistik",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "0bb3914b5efe99a1d35f8e29236d0433dc49be0a2ea4f998f0b5f289bdf1ed56"}
+  {:article/id "law/6701/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İdari yaptırımlar",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "863623aae1bb9cbbe86dc75b1c08d1e83f53fa9e621d36d429b590344bff8238"}
+  {:article/id "law/6701/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "İnsan hakları ve ayrımcılıkla mücadele eğiticileri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "23f23f9c61ce093c8bbc10642d0f785615d9cc7cccf799c2fc46d0dd77cffb49"}
+  {:article/id "law/6701/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "5b279eb94b467b1bfbf975491a23722bba1f2dd38a177f269ddfe5138b1544ac"}
+  {:article/id "law/6701/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürürlükten kaldırılan ve değiştirilen hükümler",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "750dfc58f7503e6ff5793d091e9635159605e631e1fe481a4a12750955c43a2e"}
+  {:article/id "law/6701/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Hak ve yetkiler ile personelin devri6",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7d95ce53657624432befaf5741b54cf5408d36910dc86eaa50189e76fa9fd680"}
+  {:article/id "law/6701/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "050c4e3b80797df2e4c03ae317bb7f80a045918b902e172f36e65740c4d7c9c0"}
+  {:article/id "law/6701/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Yürütme",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "a785f570a8045ed1a082cc48b5e5cd0df42321c7333585be28b914c27a99b9c1"}]}

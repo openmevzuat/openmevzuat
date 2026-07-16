@@ -1,0 +1,666 @@
+{:document/id "law/6356",
+ :document/type :law,
+ :document/number "6356",
+ :document/title "SENDİKALAR VE TOPLU İŞ SÖZLEŞMESİ KANUNU",
+ :document/slug "6356-sendikalar-ve-toplu-is-sozlesmesi-kanunu",
+ :document/path
+ "data/canonical/laws/6356-sendikalar-ve-toplu-is-sozlesmesi-kanunu",
+ :document/sha256
+ "d18ca7bf18135ab4f2b40640cd67297bf200b93afda274cad629e93109611291",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6356.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:51.849-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6356/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c773cbd8b31322169f468910ea1ab0777b3d4fc380c34567d1003933bce27c22"}
+  {:article/id "law/6356/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3c0babe73d30d05ef4ae96e0ddcd9bd8446e9429f86bb616516d55d15584ad79"}
+  {:article/id "law/6356/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "33a63704d7d544f3f8a551e679cb2c58d28b88046cc204e4f96d6a9942f9264a"}
+  {:article/id "law/6356/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İşkolları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ac54224aef207a6031024afb9808afdc6c6a41901eec7406811f5cc2413f9bdd"}
+  {:article/id "law/6356/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İşkolunun tespiti",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c07b8cebc7bc5342dc957f6502f3441dc8416ef8cbbf9494b3aa1e8c965249b9"}
+  {:article/id "law/6356/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kuruculuk şartları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "75d849d877ebc6f7e38bb7093b32b8c7e74ca6114abc808ff74e4291e30b2a80"}
+  {:article/id "law/6356/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kuruluş usulü",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "964be0ed38e15df6e410e50fcb7b14b5fe0d59c9be3b7730bf98a8f940fcdd35"}
+  {:article/id "law/6356/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kuruluşların tüzüğü",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "777c5d6f3390080392a4239eded76bd463da523afca226407a60598879057da7"}
+  {:article/id "law/6356/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5fc991867981484b2464f371b538c55ac62868ad729e9ab179b3dd53cbea5ce6"}
+  {:article/id "law/6356/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Genel kurulun oluşması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "dbb47b9de63902568f146ead442c4667317f42c5c50103ec95c78fddbd944db6"}
+  {:article/id "law/6356/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Genel kurulun görev ve yetkileri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "ac783df51b0c6fa85216e255c99cdcc342a24cd3ce122ac284f9966b54449d96"}
+  {:article/id "law/6356/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Genel kurulun toplantı zamanı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6d761e62dad87bf563359d9bfaf18164b24928ebf469e05cee617d9f314c6ef7"}
+  {:article/id "law/6356/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Genel kurulun toplantı ve karar yeter sayıları",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "e354b5cd1254c26079f0e88eba394bf241856fb5cefd3a5b1cfdb921b3d1d4b4"}
+  {:article/id "law/6356/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Genel kurulda yapılacak seçimlerde uyulacak esaslar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "fa81895af1996058975f1aeb9b96b30f4c175573fb632efcd88c2382f7c296a5"}
+  {:article/id "law/6356/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Seçimlere itiraz",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "28681844e0a18aa9f013eff403ca8f5ac62ad09de842f32778cff9754d423f2b"}
+  {:article/id "law/6356/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Genel kurul dışında yapılan delege seçimi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "48ea62bbe5a3b64579f368c380fc33fdc2fa0a262e9470a4851a15410c3817b0"}
+  {:article/id "law/6356/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "7bec94d2fa58e7f4ccf4d0a2c66fc67ff26a3bbd7235772561d51916716b550f"}
+  {:article/id "law/6356/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Üyelik aidatı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "5b1ffad4ae230425b27dbb90caadaadfc0b42c7223310f20badc791c67df626f"}
+  {:article/id "law/6356/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Sendika üyeliğinin sona ermesi ve askıya alınması",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "1c7418a8ec364733b73a4be1ccbb3cfd6c97814f121b29a5823c46c53f0c688b"}
+  {:article/id "law/6356/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Üst kuruluşlara üyelik",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "a23681f2ac5ded21dbd8bf36b7d60cd85a538b452359f1521a18818a7198512b"}
+  {:article/id "law/6356/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Uluslararası işçi ve işveren kuruluşlarına üyelik",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "cfb8cd0da7bd9271f5061a5ed846ae733325141801af8ba806862f73afd10bb0"}
+  {:article/id "law/6356/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Kuruluşların katılması veya birleşmesi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c51576595b61bc7682fd665cb32af2f64167e90d665437476330a5ca8eb39d39"}
+  {:article/id "law/6356/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "54a318e692f68828e591a9e5e17bc6d8917a26c630a2075da37aa52454acaad7"}
+  {:article/id "law/6356/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "İşyeri sendika temsilciliğinin güvencesi",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "b7c152f5f3c8ee3976eee02b40d703d09765756ff8462036d8c72d4c79f90159"}
+  {:article/id "law/6356/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Sendika özgürlüğünün güvencesi",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "b31c275bfe40edbb7ec0cd91e6bd36a997adb97a88ce337fdd6cc17b99648dd9"}
+  {:article/id "law/6356/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "35eeaedaad2e68738bb160eb1552c65acbb4f07bdf29f9e8b0d22b92cc0ef52e"}
+  {:article/id "law/6356/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "0002476dc259350e6c9ebbd810e97ed43d8a82342f4f7e35ac28a3d4bf8b0682"}
+  {:article/id "law/6356/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "7c0ad695a2cd73592f2ed8a77c2e50cb9c809c9cc441f50b5e06115c72c26451"}
+  {:article/id "law/6356/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Kuruluşların denetimi ve şeffaflık",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "5a752fc86a8936edd083ebf3ec1ccceadd5bd0bc3145cf02a05bd9c4e5888035"}
+  {:article/id "law/6356/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Tutulacak defter ve kayıtlar",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "3c6103db487732b830bf3f25fca61abcf2044900b7857815af95f6f1bf578869"}
+  {:article/id "law/6356/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Kapatma",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "8aa22cabc395b887842e8955de5b33184908debe3b54e6457c1c7cead052e00c"}
+  {:article/id "law/6356/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Kuruluşun sona ermesi hâlinde malların devri",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "a52493c7e8366d6e581822f7860ea8a00b321ed10229b134718a4cc293cbd746"}
+  {:article/id "law/6356/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "cef44e74ab1515c0abbbdf4b65369bceb8acefcab68a4b1fb45661985cfa5c50"}
+  {:article/id "law/6356/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Toplu iş sözleşmesinin kapsamı ve düzeyi",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "6922a450afb677161cc64a80ba3ee81939c3f7fc2b38c8c6211f29f3da9445a4"}
+  {:article/id "law/6356/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Toplu iş sözleşmesinin şekli ve süresi",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "8c9eb03a88c6a463f001effec3c7ad8661ab4c201704878c3114a1c4a60d28ba"}
+  {:article/id "law/6356/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Toplu iş sözleşmesinin hükmü",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "1a1ae619b823e5a7a19ff84aaa4d5c0f2a933a746a23687d3d3c5697e7cc614e"}
+  {:article/id "law/6356/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Tarafların durumunda değişiklik",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "6885aceabdedd73c25194008aa1be4a504510020a86ef12620dc36aa878ba9d8"}
+  {:article/id "law/6356/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "İşyerinin veya bir bölümünün devri",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "a0f10dad92e6d55f84502dc30de189bbe8924c9876bae0d0a2ea5fe31ff740ff"}
+  {:article/id "law/6356/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Toplu iş sözleşmesinden yararlanma",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "c681cfdb03c45804d205697423549c7e0bb071b30ad9e1e674d991503a1e57f9"}
+  {:article/id "law/6356/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Teşmil",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "b1cbbb1cf8899f94548341c84f7e6d2b29f4b7ec1e0d20187de975b56f27223e"}
+  {:article/id "law/6356/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "4b77b6ca7721841e3cf5c709d30078c028ffb3645978c30633267e00e2b25c55"}
+  {:article/id "law/6356/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Yetki tespiti için başvuru",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "8416781041489a7af22a54a81dcb3ef4fcac84e646cf9ea466e03c203a4e879b"}
+  {:article/id "law/6356/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Yetki itirazı7",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "5c8712d32cabcb5d235037083e356f7d58d0f21d2694a47f9d136a8e07e962fd"}
+  {:article/id "law/6356/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Yetki belgesi",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "43870246f199595cd34dd620768e5d4dab00fc7d1074a6c2e86daeab700a9ba1"}
+  {:article/id "law/6356/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title
+   "Yetki belgesi bulunmaksızın yapılan toplu iş sözleşmesi",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "fb064a0df3a25ee4ff15e4e5d9ef64ba1c61af9f548d7336897236a1294e13ac"}
+  {:article/id "law/6356/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Toplu görüşmeye çağrı",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "6df9772bd26724a5fd21f189c21ad2a5fc742e6b4427a7a35e74f17ade418bb9"}
+  {:article/id "law/6356/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Toplu görüşmenin başlaması ve süresi",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "d9ed59fcafeab1286effbac8536f5d56ab13ce387b2776aed71a07eba6f651c1"}
+  {:article/id "law/6356/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title
+   "Toplu iş sözleşmesinin imzalanması, tevdi edilmesi ve işyerinde ilanı",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "8a7715aff51f051cd57c9c5fd41ae731038bfbe3d8fd2d0b4b7d2237be8803fa"}
+  {:article/id "law/6356/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "c684e5458df02a417bd17076e8a8d044c4818b01a7fcc67e3a92e848ee0b2684"}
+  {:article/id "law/6356/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Arabuluculuk",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "a1b3bdc27d27d0d40e0f42c50af68320c0eb3e45f7cb48ef4565c3247a78799b"}
+  {:article/id "law/6356/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Yüksek Hakem Kuruluna başvurma",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "e53a494d872cafefab9a6a2325c7358eed80c3735d0afb417f25261d7ba3355b"}
+  {:article/id "law/6356/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Özel hakeme başvurma",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "84b08ee964dc06a09fc2ed46daeaeb6003bb66b4ceacb9b6049b791cc220fda1"}
+  {:article/id "law/6356/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Yorum davası ve eda davasında faiz",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "706f6b1c5120eb353efdebedfca901b1514364a718366fae889ac69165e81cbc"}
+  {:article/id "law/6356/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title nil,
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "eb2a258453b1e61433f10514546fb42fbc18a56de34061cb0a32e11c728f1168"}
+  {:article/id "law/6356/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Yönetim yapısı",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "7b5ab56abf8cc8a5097733ee4f4d823eb638c0ac177e3af04ca1e7c4bbf9766f"}
+  {:article/id "law/6356/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "107493c4b72cb40fc9fde890422bf2e64b3cf42efe0b44328f51569818554a8f"}
+  {:article/id "law/6356/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Hakeme ve arabulucuya başvurma yönetmeliği",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "8dd61716c3430cdefddf0449a25fc65944d9fc1af5756f525b2cf07bcd8c68fc"}
+  {:article/id "law/6356/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title nil,
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "1e774d37386b876a8cfd2eb15c8deea8151c66dac643727521a15ac6e735570f"}
+  {:article/id "law/6356/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Lokavtın tanımı",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "26071dd94cedd1bd34a65bd66eed657837e490a78526547e236e38334fe3ad3f"}
+  {:article/id "law/6356/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title
+   "Kanuni grev ve lokavt kararının alınması ve uygulamaya konulması",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "ef9b85bb5cf2d6ca09bbc7d68eb7b20f3eb185d711278b9b3039ecc9896a6df0"}
+  {:article/id "law/6356/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Grev oylaması",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "dcac818d7951e820e0bfba0dd7b6edf2f73b427a951551b2e966dd7b88f4719a"}
+  {:article/id "law/6356/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Grev ve lokavt yasakları",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "330c8051b1c05d882e9eb017a871cf186c370d9971c123533a1eb05abfa5d2c1"}
+  {:article/id "law/6356/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Grev ve lokavtın ertelenmesi",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "4c990fdc6363208628e431b4c1f92a9a331832b622b146fe17cfa9c721b59450"}
+  {:article/id "law/6356/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Grev ve lokavtın uygulanması",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "85f4129e4cafb8c457e2db925af51fd59b031e0a69738e132a0eacd0d5c462f0"}
+  {:article/id "law/6356/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Kanuni grev ve lokavta katılamayacak işçiler",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "ad79d73e64c2e28cbe2c3d29d683ac7506d72c22a64a218b998fa2f5a61276a3"}
+  {:article/id "law/6356/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Grev hakkının ve lokavtın güvencesi",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "eb0043e174d0f70902ed83a6d4002c1f6ccffcdd40a14cceaa976de2b5e1bf6b"}
+  {:article/id "law/6356/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title "Kanuni grev ve lokavtın iş sözleşmelerine etkisi",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "e10c7122233c2c32f1f97358def21f40ba8d75a6fad406238b2dee9326ff22eb"}
+  {:article/id "law/6356/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "İşçi alma ve başka işe girme yasağı",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "05fcfd5f43dc5e882e8fbe4b2a879de5b39a50c9f196f10e4529c9c0fc81ed50"}
+  {:article/id "law/6356/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Kanuni grev ve lokavtın konut haklarına etkisi",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "7510cfa1369aa249dc11852940886a80ea74eab1908a81cc1fe06f4de9e41c2b"}
+  {:article/id "law/6356/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Kanun dışı grev ve lokavtın sonuçları",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "6fe2c372825a2abb72a74af41a550067f46236c9ae1b2a2f22a105cd0ab3222d"}
+  {:article/id "law/6356/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Tespit davası",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "ebb920c3ee9fa0b7e6f996e1a5f9e6bbf4708574fba6b968b2a5405fc6462f70"}
+  {:article/id "law/6356/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Grev hakkının ve lokavtın kötüye kullanılması",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "5ab4b713ff13153686e182febb6f0626ea8206897ca480bd5427dd878373b8d9"}
+  {:article/id "law/6356/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title "Grev ve lokavt gözcüleri",
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "85aecde7f2284e99950521a120bb75aaf32e816798ec08d35602c334a0e2e0b7"}
+  {:article/id "law/6356/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "Grev ve lokavt hâlinde mülkî amirin yetkileri",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "e5eadf9cf5944c054ccd9b849b58beb7dcb58ec20a2ccc71931dc4d4633c140e"}
+  {:article/id "law/6356/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "Grev ve lokavtı sona erdirme kararı",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "978acb25bd693ae0f9e53a16a2278b2b8788ed6143fd58a96815e64e0629bc4a"}
+  {:article/id "law/6356/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title nil,
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "c18d282080ec005b1ed0374079f978e9e50f26d555e7613190f137bb9714f977"}
+  {:article/id "law/6356/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title "Tutanaklar ve sicil",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "d68a6bfc769e010cc6c1a50d30b2b975d633f757350d4ce8f237ef82cfb76671"}
+  {:article/id "law/6356/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "8ea1e37f3f5999fdff36b7c230f190ceb47888d8e1c27229a2f65576a924714b"}
+  {:article/id "law/6356/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "Görevli ve yetkili mahkeme",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "f29c11c87b3ff72117f49a3abdb7479a37f96adc7d2511c058e4029af2ccb1b3"}
+  {:article/id "law/6356/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "Diğer kanunların uygulanması",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "c2a11a69c4ff5d1eae9a51133468f80c6e4a57da2e941c19ce401e901decb45e"}
+  {:article/id "law/6356/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "5406330ee0224bb2482b1ad2bd85cab095548a19243490ee0cd873a8d6a342b7"}
+  {:article/id "law/6356/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "65cdd9c9f3a2ab3459f9a31214b0527df2fbb4a5ee7f43d735b98bcf5499c89a"}
+  {:article/id "law/6356/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "f2ef90d6791995774285686bc53f1845248ff8a745c4e07d298633036d371a23"}
+  {:article/id "law/6356/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e2cb99c7d2d4bff60c44389a3160df17dd5d100a05945018abe4c0e4255bf00b"}
+  {:article/id "law/6356/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a8acd2a5f21e3133ade3d5215c4a063e4396d8bab7789ada1ec014dad6303577"}
+  {:article/id "law/6356/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "780af7b4b0cb3e12fa03ee3f2ee1d5cc3ced7ac06a1a3865a0df3245f5463aa5"}
+  {:article/id "law/6356/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "f199aa6faac641899a112d4c43c6e361934f84a2d7b4d11344e79151ccc81589"}
+  {:article/id "law/6356/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "eb941557b75a29df3c7844938520f6ced30bcc387ff0b54eb03ebc7d3f1d7f24"}
+  {:article/id "law/6356/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "787caa035f9942e5d9f0b4ce82609d6a46fefa0cefef1d9a153fe8aaa55eec50"}
+  {:article/id "law/6356/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "7f34dabacce70fe0810a92fd5eb202acfe0a7ba33cfed364af5170b2151c8a63"}
+  {:article/id "law/6356/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "ec57ee64333ffe8580a49872d2aa2c3ff785c1bea6599824a461b8e02157f784"}
+  {:article/id "law/6356/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title "Yürütme",
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "894b97e27adf8075b24dd19a84c5440bad26c70a961e48a60edbece1d963a7b5"}]}

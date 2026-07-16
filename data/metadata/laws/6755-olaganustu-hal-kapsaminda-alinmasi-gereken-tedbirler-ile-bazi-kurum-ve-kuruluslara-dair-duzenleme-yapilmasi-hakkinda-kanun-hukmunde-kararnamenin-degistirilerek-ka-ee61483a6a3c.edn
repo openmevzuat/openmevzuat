@@ -1,0 +1,97 @@
+{:document/id "law/6755",
+ :document/type :law,
+ :document/number "6755",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA ALINMASI GEREKEN TEDBİRLER İLE BAZI KURUM VE KURULUŞLARA DAİR DÜZENLEME YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "6755-olaganustu-hal-kapsaminda-alinmasi-gereken-tedbirler-ile-bazi-kurum-ve-kuruluslara-dair-duzenleme-yapilmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-ka-ee61483a6a3c",
+ :document/path
+ "data/canonical/laws/6755-olaganustu-hal-kapsaminda-alinmasi-gereken-tedbirler-ile-bazi-kurum-ve-kuruluslara-dair-duzenleme-yapilmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-ka-ee61483a6a3c",
+ :document/sha256
+ "30626058dadc93d8fe62e902d975c941b30e302b1d00339aaf9f1ef5696add0f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6755.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:50.291-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6755/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b6d4f17b0fd3b01a4d2dece5819777c66d4c076d1b40f05c716ab3e33bd9f482"}
+  {:article/id "law/6755/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "42ea89af90bb065e5fb4cfad12aa8a6bfb60b7ce9665d3b9f6e4d8e479e31a88"}
+  {:article/id "law/6755/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Soruşturma ve kovuşturma işlemleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "899c1ccd22a253099be272945ff8d6e0809b70eb83fb060357b0c95bc61d097b"}
+  {:article/id "law/6755/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "399187db02bf8202ae7f3b1024b08edb3f793d5516beac4c2ec68340d1c24fc8"}
+  {:article/id "law/6755/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "66a42291be327c4b6f00f6266df34fd0e359dd7cf7d7bea8acece514015d889f"}
+  {:article/id "law/6755/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "8d3cf89dbc0200853ad933fe0e5888db7a3e2ee107c9c9d4589f14c4d3511784"}
+  {:article/id "law/6755/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "4bbbd9323daf9a26e58ff27bf306a5fc7da01a7fb01e30868cf3d6c10f001216"}
+  {:article/id "law/6755/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "ebfb27e8d01b129a558891ffc9dab61f0de93be84b3a7a6dcaa2897d2c7c01e0"}
+  {:article/id "law/6755/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürütmenin durdurulması",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "936fd2559b850764a085b89323711ed817c235b0108421c539d9483c7f3262e1"}
+  {:article/id "law/6755/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "06329799631db2d78e14bfe51ae2db053309764baa9161d7ea2ae731bec8de30"}
+  {:article/id "law/6755/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yürütme",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "23cf8499cee62c1eb71346233d007ee487a153f63dd62a8a9955f0e3827b0b96"}]}

@@ -1,0 +1,439 @@
+{:document/id "law/6112",
+ :document/type :law,
+ :document/number "6112",
+ :document/title
+ "RADYO VE TELEVİZYONLARIN KURULUŞ VE YAYIN HİZMETLERİ HAKKINDA KANUN",
+ :document/slug
+ "6112-radyo-ve-televizyonlarin-kurulus-ve-yayin-hizmetleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6112-radyo-ve-televizyonlarin-kurulus-ve-yayin-hizmetleri-hakkinda-kanun",
+ :document/sha256
+ "9c6f4b1671e065104da8221510b5e8db8317d027906e634e1324d4744660da1a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6112.pdf",
+ :source/fetched-at #inst "2026-07-16T02:57:51.270-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6112/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "47a87009e94d490217c7282a31635455594e613254bcf05d00d6fafce0762dfd"}
+  {:article/id "law/6112/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7279b248d67ef313f3a8014d897269f35c1f5c3713d4da4223be01d5f56131e1"}
+  {:article/id "law/6112/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "377361a734e6401724c9cf77b8fd37c04313fb768e197472b6fe093640fdda8c"}
+  {:article/id "law/6112/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f96c7be20839caedc8ffb7d9d7c78bb4a07f7e9060b368adc2e7eb2a11bd4792"}
+  {:article/id "law/6112/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yayın dili",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4caa8ec5660925cf24e5b42ea1905268adadd79ff5bfe92c9eb458ad4405438e"}
+  {:article/id "law/6112/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Medya hizmet sağlayıcının bağımsızlığı ve sorumluluğu",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0c10f7a990590e623dff36c0a5d077c61fdb7e89c0b3617c39b559426d471fe8"}
+  {:article/id "law/6112/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Olağanüstü dönemlerde yayınlar4",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "5daadae998833a32f4d80776f9d943d81ac56b28553d841ddf820cd00360263d"}
+  {:article/id "law/6112/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2b3ccac433282ddaa8deac4fe4f5ae5d9cce843a138576f9ff7643dd211fdd7f"}
+  {:article/id "law/6112/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "4915c35e05d561db3d5c019217a19d9af65f3abb6b046b484aa0710604deb44a"}
+  {:article/id "law/6112/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Televizyon ve radyo yayın hizmetlerinde reklam ve tele-alışveriş",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "54ed571c338028123db613b1724e7718051fbd2e047a54383220ac1bcbd8eafa"}
+  {:article/id "law/6112/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Belirli ürünlerin ticarî iletişimi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "cfdb9d38f85e4b73969954bc099e1abd6ed7306ed672e3b677fba4d45a8fc460"}
+  {:article/id "law/6112/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Program desteklemesi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4b3624963175658a97298ae71426f4db39ec191802547174853f40a18ae7dce5"}
+  {:article/id "law/6112/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Ürün yerleştirme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "854547d0c2709b2b9d6113a905cc5734c87cc7c8249113277570a2d6b5c080d1"}
+  {:article/id "law/6112/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7ccbb3e0ec9cf497c3308e42293f98349a895f17f405f696ba3990b7e1c89741"}
+  {:article/id "law/6112/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Avrupa eserleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "bf66acf3c9ddb4f99b951d900bd6fc63398d51d44c3a3cd8c84c25938f3738b5"}
+  {:article/id "law/6112/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Kısa gösterim hakkı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "c10967a8e0df5140eae93ebce23664ab46f501d4054102b122ee7a0ad2cd9c01"}
+  {:article/id "law/6112/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kamunun önemli olaylara erişimi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "70379ede4958bbff5c0769f8435282d109735dfadfafb041def77e3498fc68db"}
+  {:article/id "law/6112/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Düzeltme ve cevap hakkı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "99dadf6a29dc544be5cf686f6bba259c55d8711f23fb5a33bd663c30278881de"}
+  {:article/id "law/6112/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "b3236613f8a05d8e5ea4322dc6de08989ce4aa73c2ce4d54792e4be0349cc4ad"}
+  {:article/id "law/6112/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Hisse, şirket devri ve birleşme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "3c441afe642d5b5446739f655961dbc16de9818ed3d44a57e322ef6360d68fc0"}
+  {:article/id "law/6112/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Logo ve çağrı işareti",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "516a4fa1ba80881ef4c3740cdb3e3b532965f18acea6bf8c9336a44b60d1af99"}
+  {:article/id "law/6112/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "İzleyici temsilciliği",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "3bbef17c25ca96de775bd38ed4b3aed9a20f8483ecf4de37f564ba4a3690db3a"}
+  {:article/id "law/6112/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Haber birimlerinde çalışanlar",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "061c36239283f490a4a58279d699a7c12b507d465a2bfcd23c031938b0ba06ad"}
+  {:article/id "law/6112/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Koruyucu sembol sistemi",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "56b01160b8084ee9fc50b759b365ecb4c1e21256524d615a0c959eaa19076625"}
+  {:article/id "law/6112/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yayın kayıtlarının muhafazası",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "a82306c4a99d567d8a91dc2871adbdf94fd7095a3ef5a85548ab70fda6c675e9"}
+  {:article/id "law/6112/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "0bb41ce47429a25a109aaac247491b3f639951b99d7e7c4bdcf53914840473af"}
+  {:article/id "law/6112/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yayın lisansı türleri, süresi ve devir",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "d5f8fb2270de2cc7febd691751f79390043cd6d2c60bbb41f950f9206fec21ac"}
+  {:article/id "law/6112/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "fe96288cf0f0ba713fd6ed06e11fe97a919e22dc74a92b69b443f236a66910ce"}
+  {:article/id "law/6112/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title
+   "Platform işletmecileri ve yayın hizmeti iletimi yapan altyapı işletmecileri",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "db19114360b7cc78019a88544178a7921141e5f3b843bc72cf0ba3d2188bd2e4"}
+  {:article/id "law/6112/article/29/A",
+   :article/type :normal,
+   :article/no "29/A",
+   :article/title "Yayın hizmetlerinin internet ortamından sunumu",
+   :article/path "articles/madde-029-a.md",
+   :article/sha256
+   "c3a6818903fb2d241d5eccc8543b98b8d783caa9b1ee3885e52b45246dcacdfd"}
+  {:article/id "law/6112/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "4637d60fbb44c58c1f75d4a1f8482650306a9142c29f71d3dc26a5b9d50580ca"}
+  {:article/id "law/6112/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Siyasî reklam",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "c1c682ad8ed15e15e2b105d6198d8ffd50ac79903b62f917802966cd5a37c756"}
+  {:article/id "law/6112/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "da3af51cf6238a36b0131b92c3557f1c490e7332f69b710b71ccc98233fc5ee1"}
+  {:article/id "law/6112/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Adlî yaptırımlar",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "763562d8f25950c27ba6e48d5e946f8382f95f80f49845c47af29dd9e878923c"}
+  {:article/id "law/6112/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "9d31517967f74d48bcf7b0bccfe50b5101ab52d9c80fc96e99f765eb831e7c29"}
+  {:article/id "law/6112/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Radyo ve Televizyon Üst Kurulu",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "335d1b91734e1132596146a4047df405d04e644a6525c6d8345dbfaffe62c179"}
+  {:article/id "law/6112/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Üst Kurul Başkanı ve Başkan Vekili",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "849cc5bd25f37b85d1238e742d7f87d40f463cdd42a7687aa79b975d8326b353"}
+  {:article/id "law/6112/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Görev ve yetkiler",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "f8c9da9942f3cac34ea18f804ea473a8431299d0b461eff273c1ca74e446906d"}
+  {:article/id "law/6112/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yasaklar ve denetim",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "0ca0c7c834647692bc8a83759666098dc4fe73b8eac40afe1bc88cdae91cbfa4"}
+  {:article/id "law/6112/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title
+   "Üst Kurul üyelerinin teminatı, malî ve sosyal hakları",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "dd49f141bb72f3dd96cfc1d51265913478868b98a6ca5ebb11afec5ba2e0e1cd"}
+  {:article/id "law/6112/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title
+   "Üst Kurulun çalışma esasları, toplantı ve karar yeter sayısı",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "af4188f4e8381ad8c890438c4bc68461f8305679b7f4f251e3ffad04444ad72d"}
+  {:article/id "law/6112/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Malî kaynaklar ve bütçe",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "7a33c555b2a6049b3eaa1b4703ae31ca26bb878c995583b5179db06d21dd0a52"}
+  {:article/id "law/6112/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "80cff3ec1b3e763f056d5fa9e740029c3e532efb5488e2d50820a5c7a8d1c016"}
+  {:article/id "law/6112/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Üst Kurulun teşkilâtı, personeli ve kadroları",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "a4d98e5d98425d74405b856f51ced015cb6fad7f85269d9f3b374bc157479aab"}
+  {:article/id "law/6112/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "b48c64e10547a7a57a86f3d3b162f87a5d04ab02db190026f7417dc57e36945f"}
+  {:article/id "law/6112/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Türkiye Radyo-Televizyon Kurumunun yükümlülüğü",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "7b07b54bda49957c8b4fbdf4271502109ceb2e20077862fe7b71834fbae726ee"}
+  {:article/id "law/6112/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Sorumluluk ve sorumlu müdür",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "22fb54f14b586aa7d3acc6a15de1bf0f35ab75ad1cf96f9e4b8452ef1a7071f7"}
+  {:article/id "law/6112/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Tebligat ve yetkili mahkemeler",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "8a2f0280ba0e501c4bc7f92a880b0d64c20ab3e6d10229c2888d028b4bfd5afc"}
+  {:article/id "law/6112/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Yürürlükten kaldırılan ve uygulanmayacak hükümler",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "466f18e3def71c6be7762bffdfb7ac0f78a73cb176d85d638c996160a1799852"}
+  {:article/id "law/6112/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title
+   "Üst Kurul üyeleri ve personele dair geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "054838ea1a4a644d095fc05e049005d443299b58a47472c61ff9335f718a3e7a"}
+  {:article/id "law/6112/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Yönetmelikler",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "f60dfad2c7e37d754dfd1af1435b99731c530cbb8c9364ecb73ffbfd1ec2c64e"}
+  {:article/id "law/6112/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Lisans sahibi kuruluşlar",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "22e8f549ef823f047a4c0bbe725f6031f108b78d35e3814894e0bd1eac9639b1"}
+  {:article/id "law/6112/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Kanal ve frekanslarla ilgili geçiş hükümleri",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "8a5631c5dbdd8504f49adcac99d1f3581a43075b7c1363545c82e5674d317064"}
+  {:article/id "law/6112/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Müeyyideler",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "58940ed45652fbe5aea82d5ac0abbb8fdd55791d20edfcb72a0ee7720dd4fc8b"}
+  {:article/id "law/6112/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Atıflar",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "a5e074413dba606f66dbd4b9f6c45f3a26286b4801802150c4ed9d0e7e35537b"}
+  {:article/id "law/6112/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "Bazı maddelerin uygulanması",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "d73f0e2af8d200c58ca84a918e85e9259ee40ca351882309f06910f520558aab"}
+  {:article/id "law/6112/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "1d5354423edfa65b93f84d718dcd74dd56bfe8f4d38378f0b470d4eb94e78a86"}
+  {:article/id "law/6112/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "b2e3af96e764e0a3c5b7b526071b92f478c40c2d271b5dfaab21814034886f79"}
+  {:article/id "law/6112/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Yürütme",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "1a8a83095b7ff4a7f2a44fba136040503137208aee7b1edb952f595db6e281ae"}]}

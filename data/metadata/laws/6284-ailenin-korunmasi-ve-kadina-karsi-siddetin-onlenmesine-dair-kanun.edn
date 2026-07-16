@@ -1,0 +1,206 @@
+{:document/id "law/6284",
+ :document/type :law,
+ :document/number "6284",
+ :document/title
+ "AİLENİN KORUNMASI VE KADINA KARŞI ŞİDDETİN ÖNLENMESİNE DAİR KANUN",
+ :document/slug
+ "6284-ailenin-korunmasi-ve-kadina-karsi-siddetin-onlenmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/6284-ailenin-korunmasi-ve-kadina-karsi-siddetin-onlenmesine-dair-kanun",
+ :document/sha256
+ "5de63c6984ef7cd9614a4834ba134c53f461390bce217899f39f466c9abb26b3",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6284.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:00.528-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6284/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç, kapsam ve temel ilkeler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cb182c22e4f9c32c2ff709cdf576198f4c39bbc01d474183d4647dcf0298b716"}
+  {:article/id "law/6284/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d276b0b2e1f17bd2023d64ffde5bbf3bd6802de79fd43ad8849cb60e6318d7f1"}
+  {:article/id "law/6284/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "59c0db6ab8265fc0552f3c32e8258283a28bdac255fe956d5565b1dfda5c8d07"}
+  {:article/id "law/6284/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Hâkim tarafından verilecek koruyucu tedbir kararları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2430fa2f4fcd35fd8c7e43bd597548aa94f4f1fc195703319a9c56b2f86a3896"}
+  {:article/id "law/6284/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Hâkim tarafından verilecek önleyici tedbir kararları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "397164a1a5d1528e4b9094fb52e0e922938f192629db150368b8c8a9b55a3567"}
+  {:article/id "law/6284/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Suçlara ilişkin saklı tutulan hükümler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ab3034d5f516f4997bd8099ccbc8d670edaa89566fefac48f3d989e7f102fba1"}
+  {:article/id "law/6284/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İhbar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "cdb878427e526952b467b995f47da86b60dd339356802bd22ec78334c0e456b4"}
+  {:article/id "law/6284/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Tedbir kararının verilmesi, tebliği ve gizlilik",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "5cb175d1184ae6d974063a5d497503c2eda9b83935952ae9d1368ec90ee19eda"}
+  {:article/id "law/6284/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İtiraz",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e5b1b667505eab69aa0d432dd5fd9b9df1c0d163ffe17d7dec9ba7690add3ec8"}
+  {:article/id "law/6284/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Tedbir kararlarının bildirimi ve uygulanması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8df39afa187af2adb41e7a5feb2e958a606cb41595059fbc6480a72f77555221"}
+  {:article/id "law/6284/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Kolluk görevleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "ecfafaca077f5fe73e8b166ee06ad431ba12e02a8bc8f61610a1002170b2ec27"}
+  {:article/id "law/6284/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Teknik yöntemlerle takip",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "39d8357bb62ca0c59bb04de3315ccc7ffc0c1ff832cc04475239a970a43727e9"}
+  {:article/id "law/6284/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Tedbir kararlarına aykırılık",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "ab4b8343bbc4f658492e241605cd00e072ebe2cfdedf33d16032c088840c2e08"}
+  {:article/id "law/6284/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "02c13678bfc850badccaa85d14da6657eb7a2f8fc9f704be4b4d1cfe8fa43c92"}
+  {:article/id "law/6284/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Destek hizmetleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "61040720f4e9e3e92068482b9b0abc5c888a65f8836a33a6423a5fe40d24692f"}
+  {:article/id "law/6284/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Kurumlararası koordinasyon ve eğitim",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "877a278cdfcbf5f9568df478c0c7165d3c46436624e7ec77936b35ddefaadf58"}
+  {:article/id "law/6284/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "6d2b7b1146df32b41b3d86a1de33daf0f68c2fc7f991bb3c59482d1315e5ad32"}
+  {:article/id "law/6284/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Nafaka",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "d85b58863e55c687a4edfd4718fd3cd431ee643f68e08e41b33d068f01b41bf2"}
+  {:article/id "law/6284/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Sağlık giderleri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "9767cfec188f4cfaa371ed718fdd6acead65e2016dcb9f5b72cb0fe3f298145a"}
+  {:article/id "law/6284/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title
+   "Harçlar ve masraflardan, vergilerden muafiyet ve davaya katılma",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "225fe24d6c0590fc0b62836a66826e5751b0ac30894ddc6dbcab167499468e1a"}
+  {:article/id "law/6284/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "aa3006f69b36efd39c629235b15291b050393be5827d562e3a015a6efb63e213"}
+  {:article/id "law/6284/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "77291f8cde93b97c1cec79124de19f2e286cd4b94450192dc019f9071cabb8d1"}
+  {:article/id "law/6284/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlükten kaldırılan hükümler ve atıflar",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "dba1bc412f8e2fae1a9be6444b63d3a6a273d0d486b94c70d9ed3f64735e45d9"}
+  {:article/id "law/6284/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title
+   "Şiddet önleme ve izleme merkezlerinin faaliyete geçmesi",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0da31c3e78bbd3a0e85561921dcff458df34be371f91e2e534d48814ab5a9bec"}
+  {:article/id "law/6284/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "59260559103ba338ccf97066ca62abe0315d3516425e1d15cd584c53f07a62e9"}
+  {:article/id "law/6284/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürütme",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "e58fc8c5b7e22d4a9b5452a684c97abac51a265fd0ee8a547513c180db636c01"}]}

@@ -1,0 +1,62 @@
+{:document/id "law/6113",
+ :document/type :law,
+ :document/number "6113",
+ :document/title
+ "BAZI KAMU KURUM VE KURULUŞLARININ BİR KISIM BORÇ VE ALACAKLARININ DÜZENLENMESİNE DAİR KANUN",
+ :document/slug
+ "6113-bazi-kamu-kurum-ve-kuruluslarinin-bir-kisim-borc-ve-alacaklarinin-duzenlenmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/6113-bazi-kamu-kurum-ve-kuruluslarinin-bir-kisim-borc-ve-alacaklarinin-duzenlenmesine-dair-kanun",
+ :document/sha256
+ "f4cff2a4c2128ee25497089553350f43e32836728225889ff2896a353cf4bf9e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6113.pdf",
+ :source/fetched-at #inst "2026-07-16T02:57:54.799-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6113/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3a249e14e07053ef3fff2e08a61d4e6f207afd2f6da616e420990146f54f7bbe"}
+  {:article/id "law/6113/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Uygulama",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5ba9418bb7fde99dd9fdb0d0b153a5d7230d960b6882ae88dab20e36db4a61f5"}
+  {:article/id "law/6113/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Usul ve esaslar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "464014867734a0b8ae0ee18cf57c9e2fc55e3e58199704f4c2df9c03c939de5a"}
+  {:article/id "law/6113/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9bccd29999044d1a3957aed4d0db895420d8b496943d0b717a99051c48f613be"}
+  {:article/id "law/6113/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/6113/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f679ba54a2d7d493b83ea4d4f7619eb5b267e1713e6206201f249d4291516470"}]}

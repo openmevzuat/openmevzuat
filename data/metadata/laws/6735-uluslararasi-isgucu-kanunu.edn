@@ -1,0 +1,236 @@
+{:document/id "law/6735",
+ :document/type :law,
+ :document/number "6735",
+ :document/title "ULUSLARARASI  İŞGÜCÜ KANUNU",
+ :document/slug "6735-uluslararasi-isgucu-kanunu",
+ :document/path "data/canonical/laws/6735-uluslararasi-isgucu-kanunu",
+ :document/sha256
+ "9e70278f6a3e0c549f20b9f029630b35f1218aed72445c907797649b1061a1e4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6735.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:19.141-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6735/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d7b16d952271514fa7a9f2e7ab3b72f1f4d5bc544e834c020b9711213dd3f03b"}
+  {:article/id "law/6735/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "07f582bbaf7840ecdfa08eba83bb979bff36cd07f3ab17d9e0526237125cc15e"}
+  {:article/id "law/6735/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8a49648f249dc2cb39bebfde51f00b032aba9101e9f2c271e4b125d7dd89937d"}
+  {:article/id "law/6735/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "559a9de175f026d42296962a237d451e418379de8e20a7482960b905138c02ed"}
+  {:article/id "law/6735/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Uluslararası işgücünün izlenmesi ve değerlendirilmesi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9cd08a5861c293bec2ad635e68a00644b3c3986555ec34c600fd39204e162816"}
+  {:article/id "law/6735/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "724088075f4a94990554130711480268edd4ea6f842bc4a03752b3c6ecf90cee"}
+  {:article/id "law/6735/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Çalışma izni başvurusu ve değerlendirilmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "532d0318f3734ecac4683ce47eed674ae239707bd2dee3bf44a009a9b75cae2f"}
+  {:article/id "law/6735/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ön izin",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "74bd13656ab79755ddca87cd6c902364d8424842d991c3ba7ffbd4715859314c"}
+  {:article/id "law/6735/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Çalışma izni başvurusunun reddi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d3deb0119d20eab4a295b363f23e897fc278953e24ba3aa090261ada13c25ac7"}
+  {:article/id "law/6735/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Çalışma izni türleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "2bab039cfa069f643419ba450630c510634cbeb9162a4b52af312126bcf291c4"}
+  {:article/id "law/6735/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Turkuaz Kart",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "58f0fc6ebe265e9376e3749f336b91a9b34c8ada73bf0e76d41ddf4a8b2af0f8"}
+  {:article/id "law/6735/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Çalışma izninin mahiyeti",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "150d3a573302a8b6a7ef8ea501aef4a6c9aa4e67194274e37b5f8593602ead2e"}
+  {:article/id "law/6735/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Çalışma izni muafiyeti",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a222da02bcbed605c0592ea869c013fd1070194b78e85c327df4f3dcef60cfe8"}
+  {:article/id "law/6735/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Dışişleri Bakanlığına yapılacak başvurular",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "83baafdeae08dc78c801d62bc9a58593d5d0af5e2b05ba98ea1e717019a73800"}
+  {:article/id "law/6735/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Çalışma izni ve çalışma izni muafiyetinin geçerliliği ve iptali",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "fc26a79ca6d0b35c906565b4c4bdf43ec5c485a942aa99ef9543c498ad347a35"}
+  {:article/id "law/6735/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "cc68bda1ac1150da374cee360291ab9a512a0e9b146925354fdad7e55b3b655a"}
+  {:article/id "law/6735/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Uluslararası koruma kapsamında olan yabancılar",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "adf021b52513a67bb0f4889f99cb350b3a4eb26bc0e91b2673eaa16d0e649fa8"}
+  {:article/id "law/6735/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Serbest bölgelerde çalışacak yabancılar",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "b502f1388610f008502a4d0379405c69a0d8e53778cb30aa38a1777e6b4c02aa"}
+  {:article/id "law/6735/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yabancı öğrenciler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "5773447c209432371149e4bd20c6a4aa37eb5622b04045ff8d15bcbaec93ce41"}
+  {:article/id "law/6735/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yabancı mühendis ve mimarlar",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "40594c15182dee4f0bbc39ce6fcc5da590f750003bdf6a63aaa76fa96cfaee8c"}
+  {:article/id "law/6735/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "493a1a1695547f7322ea06afbac547eb92bcf967417b49a5a4574690d2d9db11"}
+  {:article/id "law/6735/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Bildirim ve sosyal güvenlik yükümlülüğü",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "58cbaaa68acf03a69c43878cebaac257f6ce8876faf4a5e4300c03c1a182150d"}
+  {:article/id "law/6735/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Denetleme yetkisi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "ed907367fafccd8e16b77aa4ee15b6bbafd20196a3fb419abb2b441dbdf49731"}
+  {:article/id "law/6735/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "1ca798bea5783fae274a984df3a3c8fa3b3ad8b9fd86f7637424e3566b8ed41e"}
+  {:article/id "law/6735/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "9b317ef7c00de9f76b674f6807db39a8b402a9f6ad0fe98fe944b41621fc2a7e"}
+  {:article/id "law/6735/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Atıf yapılan hükümler",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "be5b9a22d70eef73d5e274c1cf2c3a3ea7595bdf5adeae0cc34a82e52cd57870"}
+  {:article/id "law/6735/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürürlükten kaldırılan ve değiştirilen hükümler",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "84ae822e62a8afb59deb5b42a58f4e0d720b5a7901d94a87b9a2c5e43b704f98"}
+  {:article/id "law/6735/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "340457ffd068a0f477628c6014d3145ef21bd2cfa1ed5af24020c060b53dd5c6"}
+  {:article/id "law/6735/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b05f5a83b5be99b1e113656ca483e03902f180caa7f5830fcff6bf09751e416b"}
+  {:article/id "law/6735/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "e2511aae38349bf49000842faaa9de8809c9547998a09be2f03dedb1e630f18b"}
+  {:article/id "law/6735/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürütme",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "99be02af9e99ad84ed1eb3d12b25bc4367252afccf3aa3be6a2df3eb759cdc38"}]}

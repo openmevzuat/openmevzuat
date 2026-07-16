@@ -1,0 +1,175 @@
+{:document/id "law/6563",
+ :document/type :law,
+ :document/number "6563",
+ :document/title "ELEKTRONİK TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "6563-elektronik-ticaretin-duzenlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6563-elektronik-ticaretin-duzenlenmesi-hakkinda-kanun",
+ :document/sha256
+ "635fa2164ffcff6fd5fd251ab4ab9011bdb37a14d06a656618ccea0e30878dcb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6563.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:26.611-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6563/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dbfe9616297b478fec4f3a39768f9fe5fcce497c495a1c6ad987a1b2988b5e61"}
+  {:article/id "law/6563/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "73f55131cc6ec098ea7c36b0cdd83c5c98a8337b06ac7843d098fa8c9bcecc5a"}
+  {:article/id "law/6563/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Bilgi verme yükümlülüğü",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2de3acee975b2038c4fb2928e09b7e274ef265ed24455bd378bc7c7fb995a54e"}
+  {:article/id "law/6563/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sipariş",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "aeadb46bc7b8312a47c51850305fd41be904d24cbcc6ebea01fb3ac8cdb32271"}
+  {:article/id "law/6563/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ticari iletişime ilişkin esaslar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "596593c9ff48fa8365934cc3fcb0cb78c88fc008996d81b4e79eb852c1e1149e"}
+  {:article/id "law/6563/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Ticari elektronik ileti gönderme şartı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8662562b54c169893d063b7c3c047b51835360a1e8dbbf055170810928dd058f"}
+  {:article/id "law/6563/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ticari elektronik iletinin içeriği",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "67242eb4b0d3e5b221676b1e9a2606764ee75c5cf26aef51f8f5431aa88cd641"}
+  {:article/id "law/6563/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Alıcının ticari elektronik iletiyi reddetme hakkı",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "37b3f258d4ef7506dbe12babf260ab496e2acf9eaa004785784e2022d1841a46"}
+  {:article/id "law/6563/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Hukuka aykırı içerik",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "8b29cf04f7eb33fee7ed1917bd56bf8a23c2957ff3ebf975eb50c09bfd78f9d1"}
+  {:article/id "law/6563/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Kişisel verilerin korunması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "519ed8526f967711ac068b68d14a0e2b4f4e99dca9abec9f7a589c20a63bef97"}
+  {:article/id "law/6563/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Bakanlık yetkisi3",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6199c15e5a5ee2598cdcd6b81d7959f3e72edac0e8780d9614626c4d1cec111f"}
+  {:article/id "law/6563/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Cezai hükümler45",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7ce335bb86d42dcc1033f136662974208177a63c83189d6d596e68b944843990"}
+  {:article/id "law/6563/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "83c0ff10c22fda5daf519875362327c10552a9237c51e3e8b5b68836e74b1661"}
+  {:article/id "law/6563/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Değiştirilen mevzuat",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "983df5a2faf771ce7394ef817d921d8ccbbe4c1eefd06b53bfec8143c5c64858"}
+  {:article/id "law/6563/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Elektronik ticarette haksız ticari uygulamalar",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "8295205f09308a4a9029b22e4297b03ef644787ef437c49e9ea03751d8214bcb"}
+  {:article/id "law/6563/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "Elektronik ticaret aracı hizmet sağlayıcının yükümlülükleri",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "dfaad1b45a5d1c460c101fbd5111018bb096e2fce86bacec0c482ae1ae3a6a7b"}
+  {:article/id "law/6563/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title
+   "Elektronik ticaret hizmet sağlayıcının yükümlülükleri",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "003a70bff1e62c66e640483f7bd23837a146aa31fa3a7dc64b208b7c73d0d992"}
+  {:article/id "law/6563/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "Elektronik ticaret lisansı",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "50898ccdbfa72dcf88f25be0d8a7e440249d65c042b8d1ba284571107fc4123d"}
+  {:article/id "law/6563/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Onay alınarak oluşturulan veri tabanları",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "556e3d2653232478cce9d01d5be95b63bc4f932db986ed235c393c08888210ab"}
+  {:article/id "law/6563/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "İntibak süreci",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c934aed2bffb46ff062dfb03bc8591968933efb379d8dbd88b73006efdb04a44"}
+  {:article/id "law/6563/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "e2aafa953b07d9aaef6981048a2996f80fa46944f0bb0075bbf0888a4510ab4b"}
+  {:article/id "law/6563/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ed015894ffad8c55584914f74a64d9725e3180a8052e958f27908c0da35caed3"}]}

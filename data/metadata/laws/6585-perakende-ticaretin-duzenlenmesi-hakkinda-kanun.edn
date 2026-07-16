@@ -1,0 +1,236 @@
+{:document/id "law/6585",
+ :document/type :law,
+ :document/number "6585",
+ :document/title "PERAKENDE TİCARETİN DÜZENLENMESİ HAKKINDA KANUN",
+ :document/slug "6585-perakende-ticaretin-duzenlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6585-perakende-ticaretin-duzenlenmesi-hakkinda-kanun",
+ :document/sha256
+ "055ee76f3217da45068cbcd2f096b7174b96ab1719c6cf5b148255b2f59fa7fc",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6585.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:38.030-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6585/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "84aef68642f9b8fbbabd0716840c116912680c707326fd024433adb424fbc5bb"}
+  {:article/id "law/6585/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ddbbcf41020dc0817789db097b6d331f312a33f3417e9ac0ccc2060457460485"}
+  {:article/id "law/6585/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "97acabd32e863496c903b191c9c2a957aa708e965000ee648f378094e4347ecf"}
+  {:article/id "law/6585/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2216f189003d5d1026293d72e7c34c1ce365dee293b29261474605eff87a2ce3"}
+  {:article/id "law/6585/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İşyeri açma ve çalışma ruhsatı verilmesi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1f13b3badcb7987ecb6d77c3f9c5bb79766f60c6e1c26d14cb9e931ba5897385"}
+  {:article/id "law/6585/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "23f79e57e31d833a8c3075b464ae194019b1e4f42eba22ef6d02ad7d92f50b11"}
+  {:article/id "law/6585/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ödeme süresi2",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c4f2dcc42726914ace718cf171644ba3ec5e76a21f7c9a6464bdb8e856081900"}
+  {:article/id "law/6585/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Mağaza markalı ürün",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "822698ac72a5753dfdd34c78dc1568838124db096eeb916b300cd37fba91197d"}
+  {:article/id "law/6585/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kampanyalı satış ve alışveriş festivali",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "cf62923cd9fc81cf6dbcbd26dcfd293abe9dc31879f83a25bf09658897be4d19"}
+  {:article/id "law/6585/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Sürekli indirimli satış",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "62d672c73d8746f42549087dbaf7f4d49ee499a88c2db419cb263452ed8d599a"}
+  {:article/id "law/6585/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Ortak kullanım alanları3",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6793cf7dc127ec4fd0d73fb6eb6b36e09ec23e1715325ed383270a9df232fc26"}
+  {:article/id "law/6585/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yer ve raf tahsisi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "72aee747253e584e51894faecb2096fb9f5e9902359727b3933ed0e1e64e9322"}
+  {:article/id "law/6585/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Çalışma saatleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "7a0f831f47b7edab118d98f30b563da79623b1bf304f976887837e5e908efd9f"}
+  {:article/id "law/6585/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "cbf248cec2a91da4b1f4e4f7cdcf6ee659e0a947f6d153620230f9e2023cd6c9"}
+  {:article/id "law/6585/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Perakendeciler Konseyi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4fcb98954007a974dcdbab9160f5b70dd72273a75a611bea2a40de8ae9d4dcef"}
+  {:article/id "law/6585/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9cdb0c68d269d010cf924322fcfda53e1c74938979877d6b865ff4220a6e7586"}
+  {:article/id "law/6585/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Denetim",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "292dd9e7e6532360d38e528188f5ebf7c7b8cff3d8097079d2f17e0183f3aee5"}
+  {:article/id "law/6585/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Ceza hükümleri5",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "b37609024f02cbdd7a279a2ab7dfa3d92bceb65672a1399eddf9e0631bc8f7fd"}
+  {:article/id "law/6585/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "7f02514d3479182f33c214aa852b96dbe3d2507434323ef391c03f3d1f6f0688"}
+  {:article/id "law/6585/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "2e0e7e81a10552149a5d8171c1e1c017d867301e31ac8e6dba7fd2c7396d9c8a"}
+  {:article/id "law/6585/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "b4b7d089aef3dd0dca33c65f37c3ac50d7fc9eea3a9cee2b149b02661b6245a8"}
+  {:article/id "law/6585/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "8857f7c06b216e5b2358497f06ab2e908092aa64f7f9ed38bb403a8e7b24a46d"}
+  {:article/id "law/6585/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "79385cd0b773635906664c15c1aa2c3c8f00987418d1cf7c4af9f8732cc2ac21"}
+  {:article/id "law/6585/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "00ee2acb9fa0c6ff5fbb944360f2fcad952fbc2bf588241dff8eba600beea4f1"}
+  {:article/id "law/6585/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "1c27ee12c406a42996b00486c345a40193dcb1daa16ac1fe8e29208bafb60b02"}
+  {:article/id "law/6585/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Fahiş fiyat artışı, stokçuluk ve Haksız Fiyat Değerlendirme Kurulu",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "f0fc1d27fa8426c668c84b434f96a0a42ef3fbf9fbb1c52fa4d290c0b5c53a59"}
+  {:article/id "law/6585/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "350c141605541fbacff304e9f9a00542807741fbe2d85662a9c6fc748f4f4e55"}
+  {:article/id "law/6585/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "15cd65d715f05369073e838e9731fc0a1ae7a5e138a72478a2226df1e684f738"}
+  {:article/id "law/6585/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "35f010e8aecacafa5f9a639c254053682e33a1426b44c91af0d1f89b494c7586"}
+  {:article/id "law/6585/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "c5a6cc8ab1eb794aaf92d01e4ab874499e7a28589b6c2918ee04ee366b970caa"}
+  {:article/id "law/6585/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürütme",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "17f31e392f6c5f6e24d60b38d18a90aba358d3e216a92dbdd471f55023495dc6"}]}

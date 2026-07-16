@@ -1,0 +1,336 @@
+{:document/id "law/6325",
+ :document/type :law,
+ :document/number "6325",
+ :document/title "HUKUK UYUŞMAZLIKLARINDA ARABULUCULUK KANUNU",
+ :document/slug "6325-hukuk-uyusmazliklarinda-arabuluculuk-kanunu",
+ :document/path
+ "data/canonical/laws/6325-hukuk-uyusmazliklarinda-arabuluculuk-kanunu",
+ :document/sha256
+ "f566ab7450ecadae2416b41cc3a36e2593c0d66042fa9fb9f3de5c155f004e9b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6325.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:28.744-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6325/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2a46aecb8daa9dfbc8ede3abced072fe6527ce1cf468be9410081a1268148c3c"}
+  {:article/id "law/6325/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "75c46fcf31ef8b1d3d2c4f2a1f1a6ff2df5611e313202c1084cd122f0551880b"}
+  {:article/id "law/6325/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "55f5e076319262d3315a2bceabcca11eec621f26d757a57ddba27c01bbdc8640"}
+  {:article/id "law/6325/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Gizlilik",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2da93be7bc415c64577f5f0831bf1264d3715ffc097889a4bed93c9d063a5058"}
+  {:article/id "law/6325/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8e1810a9948ede0de6bab05bf671cd30582a5fc9199e5a7560bfe3c5cc7845e5"}
+  {:article/id "law/6325/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8362ed3eb9ae0ed10079b4da5ab3db87e50fb471c5ac6284e61ef9fdb2c97310"}
+  {:article/id "law/6325/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ücret ve masrafların istenmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "24941e3f30500afb02833f63d569f380bf235539759f6fa2ce0d3ffa0a5a9fcb"}
+  {:article/id "law/6325/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Taraflarla görüşme ve iletişim kurulması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f67b300f7626ef27ee5552291dc9e88c7a6dfc1bec651ba59efef2168268f9d"}
+  {:article/id "law/6325/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "Görevin özenle ve tarafsız biçimde yerine getirilmesi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d833b6eaf9cb426a91b3870c6ac8d88c3d45774654dc25a95389fe6e25754afb"}
+  {:article/id "law/6325/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Reklam yasağı",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "015f57693e4df7daf9aa78f76d91d09b2ac531b798014d244dfb9c2f174fc8d1"}
+  {:article/id "law/6325/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Tarafların aydınlatılması",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "36fe652faff057ccc8c00235cde0c1cf3cfd1a8f9be1679d4b536e3d63c28a59"}
+  {:article/id "law/6325/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Aidat ödenmesi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "19b4020a5ca7f0d6450ee872c16e21c69e67aa4eb27f8f1cf8efd6ab2c854bf7"}
+  {:article/id "law/6325/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "08847d6e772be446321ac5c632bf63c6ccf7eed33cfea56d9f56f27e3b3e10f0"}
+  {:article/id "law/6325/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Arabulucunun seçilmesi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "20c8317e8d8c4855b428ee374e857e1c3100e778ace1c8a5a58c44233f645edc"}
+  {:article/id "law/6325/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Arabuluculuk faaliyetinin yürütülmesi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "be53725eeac6bb2f372a1d98eca33ccefcb92769a1eb97297618a9c26d62fcaf"}
+  {:article/id "law/6325/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Arabuluculuk sürecinin başlaması ve sürelere etkisi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "cc3a5fe1d824d3bdb5d98b3f5cff7f0a6c030972b3e0ad395c11015ee334cf2b"}
+  {:article/id "law/6325/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Arabuluculuğun sona ermesi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "1188f719945b9254548a8483a14ff06b862f037ac94a73b7762122abfdc4b86f"}
+  {:article/id "law/6325/article/17/A",
+   :article/type :normal,
+   :article/no "17/A",
+   :article/title "Milletlerarası sulh anlaşma belgelerinin icrası",
+   :article/path "articles/madde-017-a.md",
+   :article/sha256
+   "65bfb04a62feccefb0ac901fe3273f184a367dd05738fba5cd805627e55773cb"}
+  {:article/id "law/6325/article/17/B",
+   :article/type :normal,
+   :article/no "17/B",
+   :article/title nil,
+   :article/path "articles/madde-017-b.md",
+   :article/sha256
+   "a9685934bd9e208ed81db724b91258139aec04077ac687b62c59d4292b38fd98"}
+  {:article/id "law/6325/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Tarafların anlaşması5",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "c47fff468c3d6211449efff0d16fc7c45810d8182af8aef8665f0b35e691eb03"}
+  {:article/id "law/6325/article/18/A",
+   :article/type :normal,
+   :article/no "18/A",
+   :article/title nil,
+   :article/path "articles/madde-018-a.md",
+   :article/sha256
+   "20a138469720885e7090969c279df1603417b5dd27ddc19d763b5f3dde3ab889"}
+  {:article/id "law/6325/article/18/B",
+   :article/type :normal,
+   :article/no "18/B",
+   :article/title
+   "Bazı uyuşmazlıklarda dava şartı olarak arabuluculuk",
+   :article/path "articles/madde-018-b.md",
+   :article/sha256
+   "5a9103987f3a8bd31bdedc5deaf91cec32a98e883b94a5096e8c636f2665678a"}
+  {:article/id "law/6325/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "d1501447a531595b1d4a8997303befd5e2a168cbdfc9503d734b21ba83ef7c4c"}
+  {:article/id "law/6325/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Arabulucular siciline kayıt şartları",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "eca2bbb75d0881e5754cc5348bffded9c7ce2501a76494c0d25db3b424dfd76e"}
+  {:article/id "law/6325/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Arabulucular sicilinden silinme",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1dfa7af73e7a1cf1428c3af163bedead036ac373f345e646e597a8f72dfbf250"}
+  {:article/id "law/6325/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "dff83ae49431a19e84c1f345f0e76bb886d2d6adc9440b516d8bfd918bbf7d4d"}
+  {:article/id "law/6325/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Eğitim kuruluşlarına izin verilmesi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "c08738773df4bd2a637ef00c82a128bbc4c1a6ba2219e6cb8dd4710eb6b7cfd1"}
+  {:article/id "law/6325/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "İzin süresinin uzatılması",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "080598358b968275272929a154713500452073064ff103d5a6194641dfc854ca"}
+  {:article/id "law/6325/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Arabuluculuk yetki belgesi",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "9da6a98ea9a6ba66bdade18a58eb81c496b6cd962abf15ca50be003e12d109d6"}
+  {:article/id "law/6325/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Daire Başkanlığına bilgi verme yükümlülüğü",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "cf3d7d3f3395a2b09e79090d189cf8c6bf0eaf72c1802db2d107459364ceda7d"}
+  {:article/id "law/6325/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Eğitim kuruluşuna verilen iznin iptali",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "d3cc5399fdf8b136b735bec3d265fab3bcec6b73d02456f47ccd4da3a0098015"}
+  {:article/id "law/6325/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "92b38c54ba7de4ea4325002a554d963f05fcd3bc6339fac2788c7af8be554fc0"}
+  {:article/id "law/6325/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Daire Başkanlığı",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "c7d18b54f10cdcd46ad0ab6307aa0db32ab829f2b53764307aa268f2ab43b79c"}
+  {:article/id "law/6325/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Daire Başkanlığının görevleri",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "f76cab31fcd24858f8c5805b2143d56a2343538d7afdb413e195feb301e1fe10"}
+  {:article/id "law/6325/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Kurul",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "42d75db6837ca21f32044fb7da0b2d57d9e3d1b99da31032d0534de939b90fa2"}
+  {:article/id "law/6325/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Kurulun görevleri",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "bbb7cd27b331fa32c2b229a5fce3764f63beface51ed171305431cdc82c36008"}
+  {:article/id "law/6325/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "1c36dcdeb5eea32d96c49c6a14a58592b9095f9610cdaa2be5f0a748a13d6b97"}
+  {:article/id "law/6325/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "ec981bed00b0ecabab13e3438897037df17bb0dc4a3831e5229e2238818481fd"}
+  {:article/id "law/6325/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "42b64eeaeb9f0dd90f7f5ad9f1887af4e183b4ab12ff4897c1722652f39d1c00"}
+  {:article/id "law/6325/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "eb3569bf1f81d793321ab92d4976ef922d2ccebe4991a7f225eea38864a1ae1e"}
+  {:article/id "law/6325/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "4c9278621ecec79493d234fc9fea3e4cf5fd29ceaee93bff9951ece93b525251"}
+  {:article/id "law/6325/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "38bde633a181c625c09f90f31edb448e2ba7729a4f9fb67868db363ed624a53a"}
+  {:article/id "law/6325/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "9b0ce5768052710adbd822cff84ab043900aa4b3c7b51e3d9da0b1e438f9442b"}
+  {:article/id "law/6325/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "a2eba0177142437ad2a5212919cd41912b41605a2395f5a3ab3ad6d05a98a797"}
+  {:article/id "law/6325/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürütme",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "568335dab1680ed2724142f424fd4240d0d863eea13d02c9296c2ce29e7574f6"}]}

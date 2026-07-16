@@ -1,0 +1,185 @@
+{:document/id "law/6358",
+ :document/type :law,
+ :document/number "6358",
+ :document/title "EXPO 2016 ANTALYA KANUNU",
+ :document/slug "6358-expo-2016-antalya-kanunu",
+ :document/path "data/canonical/laws/6358-expo-2016-antalya-kanunu",
+ :document/sha256
+ "a316b76f7d59057afa664a45dd6670ec018caa1e7588c4601a9ea11e433d6894",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6358.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:55.963-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6358/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2791548d5d84c0d7906b5f30306d12697f2436259f18c74d6c353e0e6f27500c"}
+  {:article/id "law/6358/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2b3e167feddf7c261906abb9cf4973ffc43bf00f227f3239eeb03f9c2f907325"}
+  {:article/id "law/6358/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "56d6593a1e96c631fa3e5cf492ae80108ab0871e147067faa3d6e46bca03d5f7"}
+  {:article/id "law/6358/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6401308f3ee52af58a4f1742631cb99448cd45f106fcbadb0100147fe5f29cc4"}
+  {:article/id "law/6358/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "EXPO Konseyi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0c95b3b4bce6ff4bbbdead591b16f3a5d49cc495bc335d625ffc14347227a549"}
+  {:article/id "law/6358/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Genel Sekreterlik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "119dded58794f7d02e5820ced08cc742c403bba3e6857fabdfb5ce3e5508d25e"}
+  {:article/id "law/6358/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ofis ve personel rejimi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b457c470317c8edab8f22b69ec2142ecc32651080ff401392c82e7d3941c81bd"}
+  {:article/id "law/6358/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "53e57f1af0cfdb54471b2f4676c081aeae40ddc6421f69d3db01581612589d71"}
+  {:article/id "law/6358/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Gelirler ve giderler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "9bfacef4003de9cb2efe75db6d4388cb4b04d5c3806612463f225283b7de3050"}
+  {:article/id "law/6358/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "cf060117b584890ad1d594a7233939425560183ad68673582d5a3e943adcda13"}
+  {:article/id "law/6358/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Fikrî ve sınai mülkiyet hakları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5de6da9cba207d4242e467f9b43f695133915987870ab3b7b2708d721651589b"}
+  {:article/id "law/6358/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "BIE kurallarına uyma zorunluluğu ve yarışmalar",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "38bce5be151ef2bda70ac9cc07a915b85fe80652f71347c7517e0d06761cb5de"}
+  {:article/id "law/6358/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d1dee246f5cd45ba5e29690fa13315e67860c9bd21012287b92431ba7211f796"}
+  {:article/id "law/6358/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Sorumluluk ve denetim",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "e665c082e5027dfa9bd42a699acf8a7089cbd61ec4e9323f787a82e862b374a0"}
+  {:article/id "law/6358/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Tasfiye, tesis ve taşınmazların devri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "d44c3172eb8ae49292eedaaa77e6cc97774a45b8821a71ac7a5b160fddc54e46"}
+  {:article/id "law/6358/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ef3cbdb208e7573b386259ba245deabbae9cf9ef48ff494cd9b051165ddfb47b"}
+  {:article/id "law/6358/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "1c123441bd12d9a6412e19fc538eb833b6b5dbd6ef5fa19f37ac27c766445706"}
+  {:article/id "law/6358/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "cdc42eb3e07d0a920d68e2196f1f454be46c51294ff6ec2ee8642d7076c613d4"}
+  {:article/id "law/6358/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "6b5468a4fa180205432b1709ac6627db1345bfbc8a15deea1c6428a248cc3300"}
+  {:article/id "law/6358/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "a8ac3145f1137bafa2d9ea172fc1002f056848383d1da62c350f14e23d00377c"}
+  {:article/id "law/6358/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "bf1bfede020100f31a35dcdf9880c00024f4da818762ba63ab1df580283dcbc7"}
+  {:article/id "law/6358/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e4d5108dac2d44e6fb253b259a13d6dfb54d6b1bd65a80526e5477e9e4ae454a"}
+  {:article/id "law/6358/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "f1315bf9c18786bfef78d35b4b267d80ace795a32ecddf2ec0d38241fb7e127f"}
+  {:article/id "law/6358/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürütme",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "7d936f530a92f0114c4ddf237161406ca6f2848e0f0b869bdabfceac25a78591"}]}

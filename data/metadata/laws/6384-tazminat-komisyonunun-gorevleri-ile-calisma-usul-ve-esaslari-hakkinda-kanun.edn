@@ -1,0 +1,133 @@
+{:document/id "law/6384",
+ :document/type :law,
+ :document/number "6384",
+ :document/title
+ "TAZMİNAT KOMİSYONUNUN GÖREVLERİ İLE ÇALIŞMA USUL VE ESASLARI HAKKINDA KANUN",
+ :document/slug
+ "6384-tazminat-komisyonunun-gorevleri-ile-calisma-usul-ve-esaslari-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6384-tazminat-komisyonunun-gorevleri-ile-calisma-usul-ve-esaslari-hakkinda-kanun",
+ :document/sha256
+ "a26069ba7e12845b44b35250341bf0ecc7d921ccb417cc1ddf2a930088dd5474",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6384.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:15.186-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6384/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "147cdab7b1696e01c58fea3b2113a75d1cdaf7e5ad4ca74efab66451d2c15c8d"}
+  {:article/id "law/6384/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam2",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "606abd7c8e422674c0b36f5f5e0adff8f9d0bbdc8e7623c0b0c8fbad766d34bc"}
+  {:article/id "law/6384/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "13c87c6cd3f8b21a9e117f8a4340ff8643695959b26a11e33090aca1bf599817"}
+  {:article/id "law/6384/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Komisyon ve çalışma esasları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4bfd446c57f7f14c178b6844713784312c1b911ed72d461fde3f9347be464e7a"}
+  {:article/id "law/6384/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e4d179fe9f90422b5e17494fdd2196f1e9d4e0ed582910fbba2800e17706e2f7"}
+  {:article/id "law/6384/article/5/A",
+   :article/type :normal,
+   :article/no "5/A",
+   :article/title nil,
+   :article/path "articles/madde-005-a.md",
+   :article/sha256
+   "02c078a8d2887f9b212dbdca13d2be4f07854e5d2889977b13970841ad1fa531"}
+  {:article/id "law/6384/article/5/B",
+   :article/type :normal,
+   :article/no "5/B",
+   :article/title
+   "Koruma tedbirleri nedeniyle tazminat istemine ilişkin usul ve esaslar",
+   :article/path "articles/madde-005-b.md",
+   :article/sha256
+   "33ab05f4365f36e75d4449666d2cefe432d0c0dea5382d8f4b3a7c48baa9b1b5"}
+  {:article/id "law/6384/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Müracaatın reddi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3104f106f871d858a9cfd714ad40f4a75d690afd34340732601ce064bfd99fb0"}
+  {:article/id "law/6384/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "ea52fbaea99229b1daf9c41a28e17af19a48559dff55a7adadff56476065df2f"}
+  {:article/id "law/6384/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kararın ilgili adli veya idari mercie bildirimi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "90cfa3b7fa94ec451fde7692f4713b30b45e58849878c81e7416c1d48cd59a68"}
+  {:article/id "law/6384/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Süre",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "598e0e2d38f79c25d9543339f3159bdb2e10ba4af5f0d12c6d35038ccd33459a"}
+  {:article/id "law/6384/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ad2df2d123d915d1c9a1447e58ec4b409d1ea1c4b12f3a56e96ac7294b9d4232"}
+  {:article/id "law/6384/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "f91ad6659a7f5644bac3de7a81c97e16fa69928c4170d7aa00a3114f82944f20"}
+  {:article/id "law/6384/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "b6c3c3eba072c1d11b4c858ff420f1834c0196afb296e59705a0dd212dbc4f48"}
+  {:article/id "law/6384/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c71bd35d358e15f228c1ea8f2274944ba274461d46b702f3fadaac8cab1a4346"}
+  {:article/id "law/6384/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d4b106fc42da98d1bf2d104868c8f1b1a1c1f1ffd5c699690e417e4e984ad0ad"}]}

@@ -1,0 +1,49 @@
+{:document/id "law/6238",
+ :document/type :law,
+ :document/number "6238",
+ :document/title
+ "ATATÜRK ORMAN ÇİFTLİĞİ ARAZİSİNİN 8070 DEKARININ SATILMASI HAKKINDA KANUN",
+ :document/slug
+ "6238-ataturk-orman-ciftligi-arazisinin-8070-dekarinin-satilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6238-ataturk-orman-ciftligi-arazisinin-8070-dekarinin-satilmasi-hakkinda-kanun",
+ :document/sha256
+ "2386ab961235e6e5a3ddfde468b30e86cc1618b974193c19e179ba9e6305b70b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6238.pdf",
+ :source/fetched-at #inst "2026-07-16T02:58:42.747-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6238/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 35 Sayfa: 292",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "abda5863d0f18426f6ad33814df86d7062ee9b3b7231e669bffb30f12ae0cb09"}
+  {:article/id "law/6238/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e22deda6127798ba41c8a5f02822937daf6f0fac5f8c81e4196a3be4b22b3b97"}
+  {:article/id "law/6238/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "53b7738e1b4b867099f1e4204570a389d0786c9a8a359532cb89da4a77ecaa82"}
+  {:article/id "law/6238/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "13cde347b206ab4c519d1664b9dd09eb0e3168aa9f68170e5cf3c6d5fa911d22"}]}

@@ -308,6 +308,14 @@
        :documents docs)
        scope (assoc :snapshot/scope scope)))))
 
+(defn metadata->manifest-document [metadata]
+  (array-map
+   :document/id (:document/id metadata)
+   :document/title (:document/title metadata)
+   :document/path (:document/path metadata)
+   :metadata/path (store/metadata-path metadata)
+   :document/sha256 (:document/sha256 metadata)))
+
 (defn prepare-document [document run-at baseline-date]
   (let [source (sources/source-by-id (:source/id document))
         fetched (fetch/fetch-document document source)
@@ -392,6 +400,69 @@
 (defn write-search-lines-to-writer! [writer lines]
   (doseq [line lines]
     (write-search-line! writer line)))
+
+(defn rendered-article-body [content]
+  (-> (or content "")
+      (str/replace-first #"(?s)^# [^\n]*\r?\n\r?\n?" "")
+      (str/replace #"\s+\z" "")))
+
+(defn local-document-search-lines [metadata]
+  (map (fn [article]
+         (let [article-path (fs/path (:document/path metadata) (:article/path article))
+               content (or (store/read-file article-path)
+                           (throw (ex-info "Cannot seed search index from local document; article file is missing."
+                                           {:document/id (:document/id metadata)
+                                            :article/id (:article/id article)
+                                            :article/path (str article-path)})))]
+           (json/generate-string
+            (array-map
+             :document/id (:document/id metadata)
+             :document/type (:document/type metadata)
+             :document/number (:document/number metadata)
+             :document/title (:document/title metadata)
+             :document/path (:document/path metadata)
+             :article/id (:article/id article)
+             :article/type (:article/type article)
+             :article/no (:article/no article)
+             :article/title (:article/title article)
+             :article/path (str (:document/path metadata) "/" (:article/path article))
+             :text (rendered-article-body content)))))
+       (:articles metadata)))
+
+(defn read-resume-metadata [document index]
+  (let [path (store/metadata-path document)]
+    (or (read-edn-file path)
+        (throw (ex-info "Cannot resume full update; local metadata is missing for a skipped document."
+                        {:document/index index
+                         :document/id (:document/id document)
+                         :metadata/path path
+                         :hint (str "Resume from index " index " or earlier, or run without --resume-from.")})))))
+
+(defn log-resume-seed-progress! [index total document]
+  (when (or (= index 1)
+            (= index total)
+            (zero? (mod index 100)))
+    (log! (format "Resume seed %d/%d: %s" index total (:document/id document)))))
+
+(defn seed-resume-documents! [writer documents]
+  (let [total (count documents)]
+    (when (pos? total)
+      (log! (format "Resume: seeding %d already-written documents from local metadata" total)))
+    (loop [index 1
+           remaining (seq documents)
+           manifest-documents []]
+      (if-not remaining
+        {:manifest-documents manifest-documents
+         :document-changed-files 0
+         :articles-written 0}
+        (let [document (first remaining)
+              metadata (read-resume-metadata document index)]
+          (log-resume-seed-progress! index total document)
+          (write-search-lines-to-writer! writer (local-document-search-lines metadata))
+          (recur (inc index)
+                 (next remaining)
+                 (conj manifest-documents
+                       (metadata->manifest-document metadata))))))))
 
 (defn write-merged-search! [new-lines-by-document-id date]
   (let [temp-path (search-temp-path date "incremental")
@@ -479,9 +550,10 @@
      :articles-written (changed-article-count writes)
      :changed-files changed-files}))
 
-(defn process-documents! [documents run-at date {:keys [merge-search? search-writer]}]
-  (let [total (count documents)]
-    (loop [index 1
+(defn process-documents! [documents run-at date {:keys [merge-search? search-writer start-index total-documents]
+                                                 :or {start-index 1}}]
+  (let [total (or total-documents (count documents))]
+    (loop [index start-index
            remaining (seq documents)
            manifest-documents []
            document-changed-files 0
@@ -511,8 +583,20 @@
 (defn update-documents!
   ([documents]
    (update-documents! documents {}))
-  ([documents {:keys [label merge-search? manifest-scope]}]
+  ([documents {:keys [label merge-search? manifest-scope resume-from-index]}]
    (let [documents (vec documents)
+         total-documents (count documents)
+         resume-from-index (or resume-from-index 1)
+         _ (when (and merge-search? (< 1 resume-from-index))
+             (throw (ex-info "Resume is only supported for full update mode."
+                             {:resume/from-index resume-from-index})))
+         _ (when (or (< resume-from-index 1)
+                     (> resume-from-index (max 1 total-documents)))
+             (throw (ex-info "Resume index is outside the document range."
+                             {:resume/from-index resume-from-index
+                              :documents total-documents})))
+         skipped-documents (subvec documents 0 (dec resume-from-index))
+         documents-to-process (subvec documents (dec resume-from-index))
          run-at (now)
          date (snapshot-date)
          used-source-ids (set (map :source/id documents))
@@ -522,16 +606,32 @@
                                  (search-temp-path date "full"))]
      (log! (or label "OpenMevzuat update"))
      (log! "Mode:" (if merge-search? "incremental" "full"))
-     (log! "Documents:" (count documents))
+     (log! "Documents:" total-documents)
      (log! "Processing: one document at a time")
+     (when (< 1 resume-from-index)
+       (log! "Resume from index:" resume-from-index)
+       (log! "Documents to process:" (count documents-to-process)))
      (fetch/preflight-sources! used-sources)
      (when full-search-temp-path
        (fs/create-dirs (fs/parent (fs/path full-search-temp-path)))
        (fs/delete-if-exists full-search-temp-path))
      (let [result (if full-search-temp-path
                     (with-open [writer (io/writer (io/file full-search-temp-path))]
-                      (process-documents! documents run-at date {:search-writer writer}))
-                    (process-documents! documents run-at date {:merge-search? true}))
+                      (let [seeded (seed-resume-documents! writer skipped-documents)
+                            processed (process-documents! documents-to-process
+                                                          run-at
+                                                          date
+                                                          {:search-writer writer
+                                                           :start-index resume-from-index
+                                                           :total-documents total-documents})]
+                        {:manifest-documents (into (:manifest-documents seeded)
+                                                   (:manifest-documents processed))
+                         :document-changed-files (:document-changed-files processed)
+                         :articles-written (:articles-written processed)}))
+                    (process-documents! documents
+                                        run-at
+                                        date
+                                        {:merge-search? true}))
            search-write (if merge-search?
                           (write-merged-search! (:new-search-lines-by-document-id result) date)
                           (store/replace-file-if-changed! search-index-path full-search-temp-path))
@@ -548,7 +648,7 @@
                             (changed-count [(:write manifest-write)]))]
        (log! (str (or label "OpenMevzuat update") " complete"))
        (log! "Mode:" (if merge-search? "incremental" "full"))
-       (log! "Documents:" (count documents))
+       (log! "Documents:" total-documents)
        (log! "Articles written:" (:articles-written result))
        (log! "Changed files:" changed-files)
        (log! "Manifest:" (if (get-in manifest-write [:write :skipped?])
@@ -557,7 +657,8 @@
        {:documents (:manifest-documents result)
         :search search-write
         :manifest manifest-write
-        :summary {:documents (count documents)
+        :summary {:documents total-documents
+                  :resume/from-index resume-from-index
                   :articles-written (:articles-written result)
                   :changed-files changed-files}}))))
 
@@ -571,9 +672,48 @@
                       :merge-search? true
                       :manifest-scope :selected}))
 
-(defn update-all-laws! []
+(defn parse-positive-index [raw option]
+  (try
+    (let [value (Long/parseLong (str/trim (str raw)))]
+      (when-not (pos? value)
+        (throw (ex-info "Index must be positive."
+                        {:option option
+                         :value raw})))
+      value)
+    (catch NumberFormatException _
+      (throw (ex-info "Index must be a positive integer."
+                      {:option option
+                       :value raw})))))
+
+(defn update-all-laws-options [args]
+  (loop [args (seq args)
+         options {}]
+    (if-not args
+      options
+      (let [[option value & rest-args] args]
+        (case option
+          "--resume-from" (recur rest-args
+                                 (assoc options
+                                        :resume-from-index
+                                        (parse-positive-index value option)))
+          "--resume-after" (recur rest-args
+                                  (assoc options
+                                         :resume-from-index
+                                         (inc (parse-positive-index value option))))
+          "--resume-from-index" (recur rest-args
+                                       (assoc options
+                                              :resume-from-index
+                                              (parse-positive-index value option)))
+          (throw (ex-info "Unknown update-all-laws option."
+                          {:option option
+                           :allowed ["--resume-from" "--resume-after" "--resume-from-index"]})))))))
+
+(defn update-all-laws!
+  ([] (update-all-laws! {}))
+  ([options]
   (update-documents! (all-catalog-documents)
-                     {:label "OpenMevzuat update-all-laws"}))
+                     (merge {:label "OpenMevzuat update-all-laws"}
+                            options))))
 
 (defn update-date-range []
   (rg/date-range-ending (LocalDate/parse (snapshot-date))
@@ -645,6 +785,10 @@
   (println "  update-configured        Update configured documents from resources/documents.edn.")
   (println "  update-laws 193 2918     Incrementally update selected laws and merge search index rows.")
   (println "  update-all-laws          Explicit full rebuild of synced catalog laws plus configured non-laws.")
+  (println "  update-all-laws --resume-from 702")
+  (println "                           Seed prior documents locally, then continue full rebuild from progress index 702.")
+  (println "  update-all-laws --resume-after 704")
+  (println "                           Seed through progress index 704, then continue from 705.")
   (println "  build                    Alias of update-configured.")
   (println "  clean-derived            Remove derived outputs."))
 
@@ -659,7 +803,8 @@
                      #(update-laws! (rest args)))
                     (do (usage)
                         (System/exit 1)))
-    "update-all-laws" (update-or-skip-unreachable! update-all-laws!)
+    "update-all-laws" (update-or-skip-unreachable!
+                       #(update-all-laws! (update-all-laws-options (rest args))))
     "clean-derived" (do (store/clean-derived!)
                         (println "Derived files cleaned."))
     (do (usage)

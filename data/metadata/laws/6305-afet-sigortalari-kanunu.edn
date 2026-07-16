@@ -1,0 +1,158 @@
+{:document/id "law/6305",
+ :document/type :law,
+ :document/number "6305",
+ :document/title "AFET SİGORTALARI KANUNU",
+ :document/slug "6305-afet-sigortalari-kanunu",
+ :document/path "data/canonical/laws/6305-afet-sigortalari-kanunu",
+ :document/sha256
+ "51205627770ae2b845be5b551f4f675ff97a3fd3c23ef5bde9ffda99a167f895",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6305.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:14.678-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6305/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3218d47c48932827a5dec6137a536b6f63914960702c9a4692f2993786639d8f"}
+  {:article/id "law/6305/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dc15bd527114e0f50a18b285c59af142d0ff8f3162495a30794fa5e10613f67f"}
+  {:article/id "law/6305/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "908bef32521154566da90d824090513521e205c159a176dd39f569d0baf626d0"}
+  {:article/id "law/6305/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Doğal Afet Sigortaları Kurumu Yönetim Kurulu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0ec8eef52080d64a0250042d0cef494e38afe2a2ff49cb685c8852834d5f739e"}
+  {:article/id "law/6305/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetim Kurulunun görevleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "376222238636df2b768003d4962e5da999f424bbe0ddd9e5b130867965c3053d"}
+  {:article/id "law/6305/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kurumun işlerinin yürütülmesi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "5aacaf5a22041ec6fa9d4b5050d498e8ef8442ddf8100956b5d680e6e116c401"}
+  {:article/id "law/6305/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kurum tarafından verilecek teminatlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a08db2d14e62cc7e9efec6f77d5f8f6fc5ed9a6a59f740fb03f4bcadb1f0c4be"}
+  {:article/id "law/6305/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Hasar fazlası desteği",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ed3436d5ed785551e7b3038ebb98d204c171fa1af351457321bab769b750df28"}
+  {:article/id "law/6305/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1c2e42f47570025db6856d076f6806e574f067f7b1b5b9e02a1a1fea977cc3c9"}
+  {:article/id "law/6305/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8026d8033b93e4a26f48d30bef60b21e932b2313dfc5867acecda9599d58bf65"}
+  {:article/id "law/6305/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yükümlülerin saptanması ve sigortanın kontrolü",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0bf014ac70a5cef7203ab35ef740c09df6cec4611bb1e22689da469b842a7d02"}
+  {:article/id "law/6305/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Sigortalının sorumluluğu",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e881232bdae52ed50dff38631ba22a88541092f6e112813a0c35c1b107eff297"}
+  {:article/id "law/6305/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Tarife ve talimatlar ile uygulama esasları ve genel şartlar5",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "160183ed496090fec0138c38cf249220ec0a49b7d12b0cee4673a7f7a3675584"}
+  {:article/id "law/6305/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "71afde0eda1a0f83f6613e634b83aaaf2e2331e0dda469abf0792182281165b5"}
+  {:article/id "law/6305/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c5c8da3662586a62c623e4e1619c6d4b621be83c81fb8bffd5a4ae7269ab3a1f"}
+  {:article/id "law/6305/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b1266eabcaf89f36f0c696b23ade95f4d170f18227f1e481128ba8090430b430"}
+  {:article/id "law/6305/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1bc24616d59d352f400dcee981ef400efcf2dd6d7778b9edb81d5654cb5f382a"}
+  {:article/id "law/6305/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e3e02d52a3f63f61149896d5d0031eac3253fc5c5a918f5108b8040768fa9f5e"}
+  {:article/id "law/6305/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "5bc09408f94f7a78e1ff15c8b4ac487da6df93bba86a5f2e27b53399cf50cef2"}
+  {:article/id "law/6305/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "09525de5400b6f112e0f75a9bffa5d34b9e6aec707790e33502dc57f7e0f14ff"}]}

@@ -1,0 +1,121 @@
+{:document/id "law/6741",
+ :document/type :law,
+ :document/number "6741",
+ :document/title
+ "TÜRKİYE VARLIK FONU YÖNETİMİ ANONİM ŞİRKETİNİN KURULMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "6741-turkiye-varlik-fonu-yonetimi-anonim-sirketinin-kurulmasi-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/6741-turkiye-varlik-fonu-yonetimi-anonim-sirketinin-kurulmasi-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "f3d05356c0844ec58fa1f01e0b3bad9ce2b566f78524817b3e320856fb90fce7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6741.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:26.627-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6741/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "948c6398b96fcdfcc0e96b7d04c7c401b25d94ec52d695558ed04cee309f819a"}
+  {:article/id "law/6741/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Türkiye Varlık Fonu Yönetimi Anonim Şirketinin kuruluşu ve faaliyet konusu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a33e2ddc709fdee54299ce4ffff4e8c40a2afbede692b68f574d851aada6682a"}
+  {:article/id "law/6741/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "672a780f9593326bc454b63a909844cc9d6e574229dc192fae3cb0b91dceee2e"}
+  {:article/id "law/6741/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Türkiye Varlık Fonunun kaynakları ve finansman sağlanması4",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c992ba07f3fbf5a50d5d11092d493a94f40f1d54258a0746405c02835729521b"}
+  {:article/id "law/6741/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Varlık ve hakların Türkiye Varlık Fonu adına tescili",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "11dada66c20ef95ab14b816ad452a6bf022bc7cc92c5531c66dd6e25c7558359"}
+  {:article/id "law/6741/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Denetim56",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0235aad4c7e64870be0f3acfe3952d001fa400eeb4e81d27966c9ab3aa0103dc"}
+  {:article/id "law/6741/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f5b1b32d551b850904d89c2c18cc3a69a19253b70c1904bc8a6e2d23d5ff3bbe"}
+  {:article/id "law/6741/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Muafiyet ve istisnalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "63ac16cc6800ff016d861fdf13e531babe24b66b8b3ffa4ed7d4e7b7bc46d2c1"}
+  {:article/id "law/6741/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "849506051edd325ad13be93c1c4dca175eb4ecbf87831bf91c2b34a028b46b05"}
+  {:article/id "law/6741/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "2f5f66ccdc296cc823731aaa3f3fb88ba6067f8cb505e50299a407235df823d0"}
+  {:article/id "law/6741/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a4c137c858ae684c45703290b9fdd9625501fc81c49950bd345777b9d9e2a022"}
+  {:article/id "law/6741/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "6abca8b05b0705c751c2eca243bb654ebc9228b161c6cc0d7d1ef6f15486312a"}
+  {:article/id "law/6741/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "3292f78d9c71adb73511568a2ccc5c59254d05c23fa101898f0508462c9231d0"}
+  {:article/id "law/6741/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "38f9850bf081d45f14360d18277467e41b305cecca746dd8ddfea6519b596ba9"}]}

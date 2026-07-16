@@ -1,0 +1,152 @@
+{:document/id "law/6570",
+ :document/type :law,
+ :document/number "6570",
+ :document/title "İSTANBUL TAHKİM MERKEZİ KANUNU",
+ :document/slug "6570-istanbul-tahkim-merkezi-kanunu",
+ :document/path
+ "data/canonical/laws/6570-istanbul-tahkim-merkezi-kanunu",
+ :document/sha256
+ "2db52a20a9cb8041418d780ceac9e9bac381860303f6ea8d153eb521e49f8501",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6570.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:32.887-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6570/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "630c3b9f9c4245a61c7e5fa3c0ffecfd79c92a25b4d075768a5cfc99c7de0742"}
+  {:article/id "law/6570/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "acb3e60e8245b9b67d0b3c8c8ce4a6162365d319393cf166b96ea7c25228390a"}
+  {:article/id "law/6570/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "11831919e0d4f0bb1b944d09320e57b079bed9b5020da6385f0ca0b6b75f2658"}
+  {:article/id "law/6570/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Merkezin görevleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "78ca36a615b6a815225b93d627377aa9226e8b9d12e12dc14ab234d45aa5dbfd"}
+  {:article/id "law/6570/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Teşkilat",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b87131ef7aeb6895e4a7ca136168b64f55a8cdddd3384a529d48fb77f100e184"}
+  {:article/id "law/6570/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Genel Kurul",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d988a47df46f7b4c637328d0908fb5d25a2e916b89998075864ec722c8cbde3f"}
+  {:article/id "law/6570/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Genel Kurulun görevleri ve çalışma usulü",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "537d45af9bbbcfa6ee7bc2c8ea2e32041e9c81c72c7bb13baf062b6de8e3e340"}
+  {:article/id "law/6570/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yönetim Kurulu ve çalışma usulü",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "1e7ea5217f2fd4c9dc1d58c5ff9bb55963014cd5ee47a547bf028640b160ebf0"}
+  {:article/id "law/6570/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetim Kurulu ve Başkanın görevleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "0a9fd3a6ab7b68d09b6c9a247100cf3a5bfe3e43f6276b39d0f4a11db6266b8e"}
+  {:article/id "law/6570/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Denetçi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "7353d1be3028b9aab3bfa5986bacff1b0d25756cac0b62c7bdeb50266d0fc34e"}
+  {:article/id "law/6570/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Danışma Kurulu",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "f731a5bae7976f834210992d16cb14dabccfc9a93290bf827b94feddaca061d2"}
+  {:article/id "law/6570/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Millî Tahkim Divanı ve Milletlerarası Tahkim Divanı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "fd9cc58e2d82869ec739b862cca9714e4b43438c640499ea5dc6f04657153bab"}
+  {:article/id "law/6570/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Genel Sekreterlik",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "63ad536dc6b45adc1459de403e113e4955cdbf67a906b976691dc8395cad7eee"}
+  {:article/id "law/6570/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yasaklılık ve gizlilik",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "0360492761a4fe9bdfae1a550c28e83e88312dd7b3567c86b20575dbc7542604"}
+  {:article/id "law/6570/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Merkezin gelir ve giderleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a988500b92d2950aea5c3d40aca400f8ab8a38b87b405ac2b4455648d361d189"}
+  {:article/id "law/6570/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Uygulanacak hükümler",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "f3d740e435d89d2b7c9e44f6427d245072c81d4140648aa1bc69e61a321ef683"}
+  {:article/id "law/6570/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "36e827f74e0e926c55f939cdb958c0e1760a08edcc52bd81841b2b50bfda17aa"}
+  {:article/id "law/6570/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "1421d699f9bb132f24e0b0418bf81f6d23413fcbda430e462d87a4a16fba8a5f"}
+  {:article/id "law/6570/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "09525de5400b6f112e0f75a9bffa5d34b9e6aec707790e33502dc57f7e0f14ff"}]}

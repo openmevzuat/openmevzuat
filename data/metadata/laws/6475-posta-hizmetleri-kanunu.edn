@@ -1,0 +1,357 @@
+{:document/id "law/6475",
+ :document/type :law,
+ :document/number "6475",
+ :document/title "POSTA HİZMETLERİ KANUNU",
+ :document/slug "6475-posta-hizmetleri-kanunu",
+ :document/path "data/canonical/laws/6475-posta-hizmetleri-kanunu",
+ :document/sha256
+ "1292de3e532a89f36f1006e75ac8f2ee2d4c1acad17346519bf617d0ac3fec68",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6475.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:39.960-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6475/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a264941abba62bd34200c9b32f95d9ddc8daa2fdfc46cd1bfdc48cc000dba54a"}
+  {:article/id "law/6475/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5cb14005c3a562b88b2772b17f9ab9767d6747222456546a54e88ee4b78a905e"}
+  {:article/id "law/6475/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d8a07e905e9aa6fd478e0e254406dfdb505651c558be96dc72ed282d6ad899f1"}
+  {:article/id "law/6475/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6aa64e0b8ae180620133630bfba39c151ec0836e4a1fcad8c49daa58d96c40fb"}
+  {:article/id "law/6475/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "405f5dad75d053dce8e6d750cf6caaa7df50d3ac50d198d1d8db1ce9e236aac7"}
+  {:article/id "law/6475/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Posta tekeli3",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8a6617734bb3893dd08d22520845af3aa96ec995d6ac635480b23bd355ac0e84"}
+  {:article/id "law/6475/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Posta hizmetlerinin gizliliği ve güvenliği",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "006224b2f8a2a3474f4f2986532e976fcc6fafe135a1484c9d1f5a16b2d4ffbd"}
+  {:article/id "law/6475/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yanlışlıkların düzeltilmesi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "f2b16cf534f33c0f212a15b34ab1c03286be978d0ea78a857ee28586676e7f10"}
+  {:article/id "law/6475/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "53f9408aa705213951f771d07e9f3055418453b9189885c962ff58006f9c777d"}
+  {:article/id "law/6475/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yetkilendirme ücretinin tahsili",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "66ba520de6cd81a621bb9abee4c7aad960b4a530b05b4633e9a2a2a9ffb81799"}
+  {:article/id "law/6475/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "İdari ücretler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d8f4c5f3d8449d596cbeec960ca772d6237d65158820179c4b40dc012d89ef16"}
+  {:article/id "law/6475/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Hizmet sağlayıcılarının yükümlülükleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "fb5fd02ae293137ceebec1b1f47359b06754aace0b86fa6130951ab80df93208"}
+  {:article/id "law/6475/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3df63e14100620b1904d658e82735aa15fde4f575ec5ac3ea580bd4ca4281dac"}
+  {:article/id "law/6475/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "0b4beeb9f06e19afd7eb03bb9f2001789ed927d9c02293fc74fb386efe2e4346"}
+  {:article/id "law/6475/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Evrensel posta hizmeti gelirleri ve tahsili",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "773ca7616671f1dc9e8d0be87b944853ae1dd4a27d7caa7e8d7e96bafc295ff0"}
+  {:article/id "law/6475/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Evrensel posta hizmetinin net maliyeti ve bildirimi6",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "009997439b285a3a4ee60f7163f27e8a77ee292dcb46fcb8bf19a861f4e6b11a"}
+  {:article/id "law/6475/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c8498ca4e86862cb331d9191a1d57d783be78b2160a254af29982939a95d19ba"}
+  {:article/id "law/6475/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Rekabetin sağlanması",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "fc606dca519cbc6ec6cfaa02e8f720c4a1229181b247c9659c6b4dfcd1bbfbdd"}
+  {:article/id "law/6475/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "498211f50a8878eea70905f068e1f9a9a7f702d31a65b6d30e995e448d9a77fd"}
+  {:article/id "law/6475/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Dava hakkı",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "2271bdcdb5775588d38cfe5a57ba16a36a917f0f0659a6de8c27331778919885"}
+  {:article/id "law/6475/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "23293d4492b52758ee687f72d34f076e58d063dc824063750a43444c3f45de70"}
+  {:article/id "law/6475/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Faaliyet konuları ve nitelikleri",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c894bd8a078fe66a1dca03e6ea7bd5b3d9fd5b243d53b07cfce890924e84270e"}
+  {:article/id "law/6475/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "fd20258e9a40d304ab0e44aad070e7a2822b988e5ffa644d871f490bd1ca07c2"}
+  {:article/id "law/6475/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Genel Kurul",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "f7b542412da958b5ec87e0e4e0514cdec80e533ebbac7d7884d507dd16fa8269"}
+  {:article/id "law/6475/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "7d6f9d59c92078392b8e1f6239fcbc548f2b82542360feea21039209fa874529"}
+  {:article/id "law/6475/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Genel Müdürlük",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "1f07cfbb0f54568c9d28664875388f60b00caa5510e210163e70c621458a5cc9"}
+  {:article/id "law/6475/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "e07674afcc18d5b54c6b95c8425bbb90b5df5e0b0c71b66b3b7120105f616c30"}
+  {:article/id "law/6475/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "25e62d1e964f607e269ae6da06d9ac619d78704bebea14b801d4b163db8c322a"}
+  {:article/id "law/6475/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Sorumluluk, başvuru hakkı ve zamanaşımı",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "316a3996ef86d95712669f81de70390b25e3708fa5c2ae1c2051244c4e49b713"}
+  {:article/id "law/6475/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Uygulama alanı",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "f082665bc53d0cd0cb701cf21cbb30722dae0be2cd2bad0dd27711171b3d67f4"}
+  {:article/id "law/6475/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "9de57a2a9438deb93245b65f2a45688551e005df28e270733d466bcad5e6404e"}
+  {:article/id "law/6475/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Disiplin cezalarının çeşitleri ve uygulanacak haller",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "c2d08778846d47c4686558265ceab4fdc9c51df3c2b74c506b80f6113a3101ad"}
+  {:article/id "law/6475/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "Disiplin cezası vermeye yetkili amirler ve kurullar",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "76f4ed9f87b66f38c1298702bc58f07a3f969076e7fe882a510d8b9e6b0d961d"}
+  {:article/id "law/6475/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Görevden uzaklaştırma",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "2c6799f919190b2cf3c6c2b85e0dfe0a12fe0731cc70363661f6e6a712d12686"}
+  {:article/id "law/6475/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d517aed231e64573c8a3d97beaead965c0f525c36d817ddf1cc8dd99e28ec583"}
+  {:article/id "law/6475/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title
+   "Posta hizmetlerini temsil eden Kurul üyesinin atanması",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "dec8cee92afd1e326e272a78d915956ea5c1aa5421c8bd61f053d5ee71f84d30"}
+  {:article/id "law/6475/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Görev sözleşmesi",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "d86672d66d5c312a90f908e5f48588bd256cca22b569bdbe9afadfac8e3e679f"}
+  {:article/id "law/6475/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Devir",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "7e6e15159065e4c8f9427b928de08ebf4ac6c30a7caee1ad992841770e0fb625"}
+  {:article/id "law/6475/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Mevcut personel",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "758243b3b4f203d9637f7065abce4ca31751da7218c7b03502a80202ed689cb1"}
+  {:article/id "law/6475/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Personel statüsü değişikliği",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "868108f7df012b2299e1ebc099afcd36d872d4fa995b058a098a6dc8a6456fc7"}
+  {:article/id "law/6475/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "Emeklilik",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "c2590025c02c55e7da82728762fe3d8877587806097f915c90eb6d36a8de5daf"}
+  {:article/id "law/6475/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title "Ağırlık ve ücret belirlenmesi10",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "6aa43408c3b7e935499e52e7d1ae6d4d1f380433341504a83588df9dfc8f225b"}
+  {:article/id "law/6475/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title "Genel Kurul",
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "7bb455fbc0cbf7f20118d74762ad16d18d1b8c3a749c26a47b3d484b36f37de7"}
+  {:article/id "law/6475/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title "Mevcut işlerin yürütülmesi",
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "dbd5d69639c4fca80e1e165d365bca21a5663c84bd886088fd77341663de5687"}
+  {:article/id "law/6475/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title "Atama işlemlerinin durumu",
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "f6686b1df4b3635f22183db0b4a17abcde7bc4e7235a42717bc318fc5a453e56"}
+  {:article/id "law/6475/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "bc4c48f66d0507e5fa443b4f3add1871aa898ed571dc1898583e50001c5ab350"}
+  {:article/id "law/6475/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "ff945aa63a4723d7497e23dc6d36ca5001da0f7ea4d1b352431f5b1df314bfe6"}
+  {:article/id "law/6475/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürütme",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "b2e0f4d1f2b4c95cc6ec1d01b3361331b2652eeb8fa0f4eea11ecc7817b03fd4"}]}

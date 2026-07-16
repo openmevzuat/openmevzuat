@@ -1,0 +1,184 @@
+{:document/id "law/6550",
+ :document/type :law,
+ :document/number "6550",
+ :document/title "ARAŞTIRMA ALTYAPILARININ DESTEKLENMESİNE DAİR KANUN",
+ :document/slug
+ "6550-arastirma-altyapilarinin-desteklenmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/6550-arastirma-altyapilarinin-desteklenmesine-dair-kanun",
+ :document/sha256
+ "14fd198f8b156448549548ecc795b993be61f9eb6be4ac644e76e50b94a8b03d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6550.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:13.614-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6550/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6acc7ba94e461baa053fb693651806de16bcbf1e53ac1ea6935aab7caa1a2a36"}
+  {:article/id "law/6550/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "160a548cd9de0caa89b8d7437ea1d38353732d2acff64d9b344209cd522f007f"}
+  {:article/id "law/6550/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Araştırma Altyapıları Kurulu",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "865b0d9ff6f6c5706aad905f5d90b981d4557384cfc0a426e276ff162a7a67ef"}
+  {:article/id "law/6550/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "İzleme ve Yeterlik Değerlendirme Komitesinin yapısı ve görevleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "959b86f678262c39b2b2b11b52ab689c3ad3df7920d1a2c1e5371190fdbf2d91"}
+  {:article/id "law/6550/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Araştırma altyapılarının statüsü",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f60b0d53db7f7ffb7706a272890f912b579bcd34804161bc4bbd99b922ef8009"}
+  {:article/id "law/6550/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Araştırma altyapılarının görev, yetki ve sorumlulukları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c2873747e6b0d32c0155d89f272791171f1af9537cd0a37e650e1dfcc63631dd"}
+  {:article/id "law/6550/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Araştırma altyapılarının organları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "762621049a4ee3743ece3921360dfc5e4b08f4627ae7c548b9055f8547f5c450"}
+  {:article/id "law/6550/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yönetim kurulu",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8c117fe4ffb7783a68d258a07a13377b99827c9337bf1eb7f530eb7e5e0373d8"}
+  {:article/id "law/6550/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Danışma kurulu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6bc2b33fdd78a6a795679752b24c0e2a8d4d936a891eb84a9ab0f28b0aaf044e"}
+  {:article/id "law/6550/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Araştırma altyapısı müdürü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "462ca2b789225904e670cbf1b7d0604110e78783265451e26d6a40300c5f7cac"}
+  {:article/id "law/6550/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Araştırma altyapılarının kurulması, özel sektör ortaklığı ve işletme hakkı devri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6f2f539f3105b78b2ccb950a12524e2d6087ed62a875d04e0bfd9745b5ed0d2a"}
+  {:article/id "law/6550/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Araştırma altyapıları platformu",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0a81423953aaa33088ec6e94a53443146c731d67a1e547d5477dc31dd9b7559b"}
+  {:article/id "law/6550/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Araştırma altyapılarının gelirleri ve desteklenmesi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "72cf3b917331e3f4850ab0a895e31dd8bcc716acb03724699d47a6630131c480"}
+  {:article/id "law/6550/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İnsan kaynakları",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "05505d866edfe2b41786c489ed587157835ae44b5522349cc54930970a4cb98c"}
+  {:article/id "law/6550/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yeterlik, koordinasyon, izleme ve değerlendirme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "fb73f496eb63278c69ff2e9a3388a83417809f4f31082f59ce34bae6a56c7d66"}
+  {:article/id "law/6550/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Muafiyetler",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "5031ad1f19b3822c80eb243f4ecdc5156bdac972140f191e7cd5ab038c83add6"}
+  {:article/id "law/6550/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Fikrî ve sınai mülkiyet hakları",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "dbc2138ffcc06fbf482fe186d8046b378e288526190b077aa5da2bc5f32fc235"}
+  {:article/id "law/6550/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7c43a1c531f6d8be10600966ff83a1b7796f01ff0e30526a9a8345b44baf608b"}
+  {:article/id "law/6550/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a34e0a168cd29b5c9eee2f899510b46e32c53faf4a3b809fa668896e12907ac6"}
+  {:article/id "law/6550/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "22c7c6e0502bf0b242121af24026fb3da9c33ac0e008e5d6962192b6d7be2313"}
+  {:article/id "law/6550/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "İndirim ve istisnalar1",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e2252945ba54f6cb06c3a872e8058eff7d55815de36fc8e7d004fa51d552fac7"}
+  {:article/id "law/6550/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "2c243e3da6a54c16365cbf4dd8403787ae0795dae622de95428f3394363fa23c"}
+  {:article/id "law/6550/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürütme",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "5593ca2388c62de26ac126400d230fcc27cd9ceb4d01f61e36e239fcf63dc5c5"}]}

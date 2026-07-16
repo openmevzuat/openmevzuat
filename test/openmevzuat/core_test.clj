@@ -164,6 +164,22 @@
         (finally
           (reset! state {}))))))
 
+(deftest generated-pdf-fallback-url
+  (is (= "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=6111&mevzuatTur=Kanun&mevzuatTertip=5"
+         (fetch/generated-pdf-url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6111.pdf")))
+  (is (nil? (fetch/generated-pdf-url "https://www.mevzuat.gov.tr/MevzuatMetin/0.1.2.pdf")))
+  (is (#'fetch/pdf-url? "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=6111&mevzuatTur=Kanun&mevzuatTertip=5")))
+
+(deftest full-update-resume-options
+  (is (= {:resume-from-index 702}
+         (core/update-all-laws-options ["--resume-from" "702"])))
+  (is (= {:resume-from-index 705}
+         (core/update-all-laws-options ["--resume-after" "704"]))))
+
+(deftest rendered-article-body-for-resume-search
+  (is (= "Body\n\ncontinues"
+         (core/rendered-article-body "# MADDE 1 — Title\n\nBody\n\ncontinues\n"))))
+
 (deftest manifest-skip-behavior
   (let [manifest (core/skip-manifest "2026-06-12")]
     (is (= "data/manifests/2026-06-12.edn" (:path manifest)))

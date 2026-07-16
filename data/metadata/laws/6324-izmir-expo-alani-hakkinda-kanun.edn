@@ -1,0 +1,53 @@
+{:document/id "law/6324",
+ :document/type :law,
+ :document/number "6324",
+ :document/title "İZMİR EXPO ALANI HAKKINDA KANUN",
+ :document/slug "6324-izmir-expo-alani-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6324-izmir-expo-alani-hakkinda-kanun",
+ :document/sha256
+ "4737cc40a2ca5d37068c7dcc712d3a07abd15ade0f61400872824a432b4c30f4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6324.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:25.684-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6324/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "275ba8ac7573068887df6be331f35b04950a52f87647ac090d1dd65d583e7820"}
+  {:article/id "law/6324/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "EXPO alanı",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3039f16bc76dd79930e443c1b4dcafad21696a6d04e66084bed17848ceba6a93"}
+  {:article/id "law/6324/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Planlama ve uygulamaya ilişkin esaslar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "070227f95a3e809640d95de21e3f1e539db196dca389977b87b67b05dce051a9"}
+  {:article/id "law/6324/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9e25ace78175d8a79fac2d456257e50134148081df450f1861197c4a565ccbc2"}
+  {:article/id "law/6324/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d4848436e6bc2574d0aa434d89ff8b1515d74dea97038d84288f9199cd46d6c7"}]}

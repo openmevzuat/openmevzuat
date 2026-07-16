@@ -1,0 +1,77 @@
+{:document/id "law/6660",
+ :document/type :law,
+ :document/number "6660",
+ :document/title
+ "GÜZEL SANATLARDA FEVKALADE İSTİDAT GÖSTEREN ÇOCUKLARIN DEVLET TARAFINDAN YETİŞTİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "6660-guzel-sanatlarda-fevkalade-istidat-gosteren-cocuklarin-devlet-tarafindan-yetistirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6660-guzel-sanatlarda-fevkalade-istidat-gosteren-cocuklarin-devlet-tarafindan-yetistirilmesi-hakkinda-kanun",
+ :document/sha256
+ "195d49156436abab31c092de63f2813668140fee4ef3036fc9b11a11a690e0e6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6660.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:53.692-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6660/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 37 Sayfa: 316",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "63d6afd6ae38ecd580beb30f747c8bcb836cac056a29e8a7f09abfdee1cfb089"}
+  {:article/id "law/6660/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0206586fe0a7ff7ce400dd36e2637e859cedd4a452e22436210066678f1bb966"}
+  {:article/id "law/6660/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c2ad85adc9efc307b571ca30b6a13e9632d72c79efd5d43329e2f5a6e46440e4"}
+  {:article/id "law/6660/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c169134f868f0854a0b91d308bfe6053ebef7a4a3c13a4df7a1970ef26a74acf"}
+  {:article/id "law/6660/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "61e52a6084297b1866eb26aef31c1fa9b0fee25607aacae90125ea8103f3773f"}
+  {:article/id "law/6660/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1f7f395343ce70d78d266ea34f518bb191db7c70ce72ac56ad76b52d05d2afd4"}
+  {:article/id "law/6660/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "6d107dbce4e60f315f99dde200bb330ed5dbceafd9c228de5d78a396a0cc7c02"}
+  {:article/id "law/6660/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "82ccbbf312ccdadc20b6debb50f94b4cd11271fdf77f48e905f47f3dc597905d"}]}

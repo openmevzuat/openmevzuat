@@ -1,0 +1,391 @@
+{:document/id "law/6331",
+ :document/type :law,
+ :document/number "6331",
+ :document/title "İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU",
+ :document/slug "6331-is-sagligi-ve-guvenligi-kanunu",
+ :document/path
+ "data/canonical/laws/6331-is-sagligi-ve-guvenligi-kanunu",
+ :document/sha256
+ "b1345b3ebdb06b70ef3c0006d61b26813df00460e6ac99fe80575d36c49d8b49",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6331.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:40.754-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6331/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8c470a87bca1eb0a8c3f7950872329bf32245b8f5e91cc8fab0f34059952cec2"}
+  {:article/id "law/6331/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam ve istisnalar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "cb23bf0f7bb4cf9bae66bc0afa0d0de0265367a65d66b8372090e4665d8549a4"}
+  {:article/id "law/6331/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "75328fdaf328ca3ae63c304fbce532a693cee6bf637e91949fa7461b6e393ee6"}
+  {:article/id "law/6331/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "293741cc9c33cec6314cd76fe25bf384cf4dda7a0beecd3bf099fce3fb7cd06e"}
+  {:article/id "law/6331/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Risklerden korunma ilkeleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "022b1aa88569c4ed6f1b9bbed8a301e54d48a346452bc1475255bad9629416a0"}
+  {:article/id "law/6331/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İş sağlığı ve güvenliği hizmetleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "7869f3b1b72e455ef48f153425e32efbc9b4afbf83099daa7ac962ab09ac997d"}
+  {:article/id "law/6331/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "İş sağlığı ve güvenliği hizmetlerinin desteklenmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9a6d26b1dd7c82d0642ac7875348b2e6a3b2bb46b6f61b2f31558e3a1b0880de"}
+  {:article/id "law/6331/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "İşyeri hekimleri ve iş güvenliği uzmanları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "505a0c76552d831b897cd19e9834b5d6c4a18174242b1e928366e7e313373017"}
+  {:article/id "law/6331/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Tehlike sınıfının belirlenmesi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "802c8320e9e4894060058b1b4b6886ab83d17e4e997707f18e4376b66d7b18a2"}
+  {:article/id "law/6331/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Risk değerlendirmesi, kontrol, ölçüm ve araştırma",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "78e388e88cc809c273a59d6a462728beaf98e19a571a5842dde38bbe9445f8dc"}
+  {:article/id "law/6331/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Acil durum planları, yangınla mücadele ve ilk yardım",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "25d260d7790b471d8d87f1645b1374cf469e0fba512a89042f6e4f26580a1be1"}
+  {:article/id "law/6331/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Tahliye",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "f0d3c8d3baaf80a8f8e58cd7a4f477fca9e292a380b4106dcb067af491539fcb"}
+  {:article/id "law/6331/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Çalışmaktan kaçınma hakkı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9f4c1f8851c6e5cef8a415a33c81b7c18718dbbe4177383ba8faa9a35cc70de9"}
+  {:article/id "law/6331/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "İş kazası ve meslek hastalıklarının kayıt ve bildirimi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "5ea15c93d25ec07de5a826b54553d90323d2c9af57324d2cb139a2e07db4c109"}
+  {:article/id "law/6331/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Sağlık gözetimi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4790678aeee77d5d8e69a0f9c35de89740aefd077b7e58900876adc9799e5ce7"}
+  {:article/id "law/6331/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Çalışanların bilgilendirilmesi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "757b9f3f6c0c7e44ffb1cfab7997089c00c3994aed9be29f3bc6b064745a23cd"}
+  {:article/id "law/6331/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Çalışanların eğitimi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "e1936ad9bb2439b80c911ae9b4b7e72de24158579f6f4a8e832bfbd7a1d4889c"}
+  {:article/id "law/6331/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "Çalışanların görüşlerinin alınması ve katılımlarının sağlanması",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "129316aee00e20dd1fbf39808b479427134a851047648714e500f081824cabc6"}
+  {:article/id "law/6331/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Çalışanların yükümlülükleri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "850a566d1e3e17c93ae293e9447dfa63d68f5106a3949330d13dcb22b33a4eee"}
+  {:article/id "law/6331/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Çalışan temsilcisi",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "67e9c69a6e6eb3cdc46e94647d31399240e35b41dda43f1ae9de5073c7185e76"}
+  {:article/id "law/6331/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "0af240a1cc8ef2e9396eb61ee984d2b0caa6fb9cab93f4b47c776e71ff3ff023"}
+  {:article/id "law/6331/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "İş sağlığı ve güvenliği kurulu",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "362c058851625fdeffad0f97546d78bf34245d793da610d88b07e5bf74ec7bc6"}
+  {:article/id "law/6331/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "İş sağlığı ve güvenliğinin koordinasyonu",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "09e32cc141081a0a40900b64bb111eae9a5c1bf2436efd2a11ff7ad29003457b"}
+  {:article/id "law/6331/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "821a9e242c2f34baf175caf2478dade8c55641386aae94c14bfbccf5bafc5500"}
+  {:article/id "law/6331/article/24/A",
+   :article/type :normal,
+   :article/no "24/A",
+   :article/title
+   "Bakanlığın inceleme, kontrol, denetim yetki ve sorumluluğu",
+   :article/path "articles/madde-024-a.md",
+   :article/sha256
+   "b73b0c09f803439689e6b8f62ad3487ce7417968f3fcf9b6432d00f2c66dc504"}
+  {:article/id "law/6331/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İşin durdurulması",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "419c55c6a7aa2312269134bafffaabf25a827be8fec4db4ee785d8b171c7433a"}
+  {:article/id "law/6331/article/25/A",
+   :article/type :normal,
+   :article/no "25/A",
+   :article/title
+   "Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama",
+   :article/path "articles/madde-025-a.md",
+   :article/sha256
+   "a563474a7b123be14ad3d68d92adde4bb86233d4a39960dfc96cb41d0421e2cf"}
+  {:article/id "law/6331/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "İdari para cezaları ve uygulanması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "16e3d6a542d39855f6ebad3c90fa186a398967de6eb455175f176819105e53c0"}
+  {:article/id "law/6331/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Hüküm bulunmayan haller ve muafiyet",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "a000742aff20584ef581eef9df86d18d58096244c0e38cf5ead872a88e94b521"}
+  {:article/id "law/6331/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "4c6145942107c6faad6b4d8320062823fa61d7b129c19572e1692f31bea9790d"}
+  {:article/id "law/6331/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title
+   "Güvenlik raporu veya büyük kaza önleme politika belgesi",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "1252da3f4406259e70f31e2932426718008bb30f93d9be650e380bc636cb9d4d"}
+  {:article/id "law/6331/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title
+   "İş sağlığı ve güvenliği ile ilgili çeşitli yönetmelikler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "30269fda89238bb3852fdd05f1bb1e11c30f9eb8e2258c9193f8e6422c074c27"}
+  {:article/id "law/6331/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Belgelendirme, ihtar, askı ve iptaller14",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "e6e6fd9368d920a74702bbcc3ca0f6ba7eafa217be3b69cfae97473a372c0d69"}
+  {:article/id "law/6331/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "a294de4a5a5dac4e492e024fa7e20229766e36120edaf25b33e5cd46d9094408"}
+  {:article/id "law/6331/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "75d977465c99d2c30e27e7e5d06c838ac25c3822d92eaf782e735fba45673dc4"}
+  {:article/id "law/6331/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "22b9bd027d9155e507ea4fed087aebeed3a351b4363b199f03e70e266f2e3e44"}
+  {:article/id "law/6331/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "432448feeb41976df6c368991b4b8769412be83d55e7b6962fc5beb6dd11f374"}
+  {:article/id "law/6331/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "89460ee5d8524dc4ccf5ffa3385f81bc8a401aa265a03fa2e64bc72a39278515"}
+  {:article/id "law/6331/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "cf5494ad974f5f60d05362817d592ca49a68086cf45f55618f5f6d4f6c8f5c42"}
+  {:article/id "law/6331/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "2496e98b4193c19db3977203cb60a05e1cfe83a7d4e8585a87c5bbc3c8370d82"}
+  {:article/id "law/6331/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Atıflar",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "336d16d8d5cbc563ad2f88745b283e6560c6468ab2cef8cd9a5dd1ee287aade4"}
+  {:article/id "law/6331/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Mevcut yönetmelikler",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "5e74d7eb20c6af3a64c0ce7f9c2348b96f7a445414fb5b588c8633582e992775"}
+  {:article/id "law/6331/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Sağlık raporları",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "1c91cc5309e57a0a07d9d89ffb1c00588a859ed394d8a2b141450b9f3c99ef25"}
+  {:article/id "law/6331/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "İş güvenliği uzmanı görevlendirme yükümlülüğü",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "6d6530f6fe3c7bc69813eab08f80aefd8b3abfb7d0cd05ee8749b35504a49efb"}
+  {:article/id "law/6331/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Mevcut sertifika ve belgeler ile ihtar puanları",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "f7e619a73fd49fda876f3933d05abd5f5f6051983e4140fcd06bf4c9aaab73d5"}
+  {:article/id "law/6331/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title
+   "İşyeri hekimliği yapan kurum tabiplerine yapılan ücret ödemeleri",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "7ec174b0ba12fb348f4ac78944f6db5dc730450ca479cc24f92c54b05f1b3ad6"}
+  {:article/id "law/6331/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "fbe22d977d2a3d54fa80778d5fb1d7ae7b30b004ed9802fe1c4056869214ca09"}
+  {:article/id "law/6331/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "0823aa0c52d90a073aafb780e65f80ec5d863b7bdcfc815a0d4cafd87942a3ae"}
+  {:article/id "law/6331/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "7a4eb2ea6113cdd05bd803c0da4c2a2ae193216ca6b186cdc5e2283922f967e0"}
+  {:article/id "law/6331/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "8b80c9f1a7c472d54f19c9d80cd045eee59ed5893811971884a9f87bd94fa67c"}
+  {:article/id "law/6331/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "3a9214f8f45e24e16d7036a7c96e1e22a1d65e99b681cf89f969b18046596720"}
+  {:article/id "law/6331/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yürütme",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "5952c1913aeccea9150c1a15030a8982b8034f700311a334b7bc7784b2ec893c"}]}

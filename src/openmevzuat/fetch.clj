@@ -107,8 +107,39 @@
       (.setSortByPosition stripper true)
       (.getText stripper document))))
 
+(declare fetch-url)
+
 (defn- pdf-url? [url]
-  (str/ends-with? (str/lower-case url) ".pdf"))
+  (let [url (str/lower-case url)]
+    (or (str/ends-with? url ".pdf")
+        (str/includes? url "/file/generatepdf"))))
+
+(defn generated-pdf-url [url]
+  (when-let [[_ mevzuat-tur mevzuat-tertip mevzuat-no]
+             (re-find #"(?i)/MevzuatMetin/([0-9]+)\.([0-9]+)\.([0-9]+)\.pdf$"
+                      (str url))]
+    (when (= "1" mevzuat-tur)
+      (format "https://www.mevzuat.gov.tr/File/GeneratePdf?mevzuatNo=%s&mevzuatTur=Kanun&mevzuatTertip=%s"
+              mevzuat-no
+              mevzuat-tertip))))
+
+(defn- generated-pdf-fallback-error? [e]
+  (and (instance? clojure.lang.ExceptionInfo e)
+       (= "Expected PDF source but response was not a PDF" (.getMessage e))))
+
+(defn- fetch-url-with-generated-pdf-fallback [url]
+  (try
+    {:text (fetch-url url)
+     :url url}
+    (catch Exception e
+      (if-let [fallback-url (and (generated-pdf-fallback-error? e)
+                                 (generated-pdf-url url))]
+        (do
+          (binding [*out* *err*]
+            (println "PDF URL returned HTML; retrying generated PDF endpoint:" fallback-url))
+          {:text (fetch-url fallback-url)
+           :url fallback-url})
+        (throw e)))))
 
 (defn- pdf-bytes? [body]
   (and (bytes? body)
@@ -405,13 +436,16 @@
   (let [fetched-at (now-date)
         url (:source/url document)
         fixture? (fixture-mode?)
-        text (if fixture?
-               (or (read-fixture document)
-                   (throw (ex-info "Fixture not found" {:document/id (:document/id document)})))
-               (fetch-url url))]
+        fetched (if fixture?
+                  {:text (or (read-fixture document)
+                             (throw (ex-info "Fixture not found" {:document/id (:document/id document)})))
+                   :url url}
+                  (fetch-url-with-generated-pdf-fallback url))]
     (assoc document
            :source/name (:source/name source)
            :source/base-url (:source/base-url source)
+           :source/url (:url fetched)
+           :source/original-url url
            :source/fetched-at fetched-at
            :source/fixture? fixture?
-           :text/full text)))
+           :text/full (:text fetched))))

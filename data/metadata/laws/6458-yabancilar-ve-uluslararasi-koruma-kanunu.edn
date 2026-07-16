@@ -1,0 +1,966 @@
+{:document/id "law/6458",
+ :document/type :law,
+ :document/number "6458",
+ :document/title "YABANCILAR VE ULUSLARARASI KORUMA KANUNU",
+ :document/slug "6458-yabancilar-ve-uluslararasi-koruma-kanunu",
+ :document/path
+ "data/canonical/laws/6458-yabancilar-ve-uluslararasi-koruma-kanunu",
+ :document/sha256
+ "09b94c911a61ce8e6c19293c508e9c0051db518a0a2186a3976e0cab0b593ddf",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6458.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:32.199-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6458/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "80be8ff1d554ac4ae3ebd1755202d34d6ca7e703cb3c47ff3df72d8fb46bc3c0"}
+  {:article/id "law/6458/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "db14c5587a1c6d674ecc5e99a627f8a6bd6112bdd149572725c20e059748c0df"}
+  {:article/id "law/6458/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar3",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "04b89fc8071c48a236dcdd0501e3631481f581c8e4f84f7a8b644ed8f93127a4"}
+  {:article/id "law/6458/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f660d38a80ad39a39101702822f2fc98d9b1180b6277fe23ef424042d5228868"}
+  {:article/id "law/6458/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4017fb76943a3f553e8d41a7e8d4198efc455595a38be70cecdb4fff844867e6"}
+  {:article/id "law/6458/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Belge kontrolü",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "864168a2c7e080d31e9120cdafdd1e3ac26da8b1f393f5f0ceea2bb46f09fa0f"}
+  {:article/id "law/6458/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Türkiye’ye girişlerine izin verilmeyecek yabancılar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "354752c0292c57fcf0291b680aef64b88a21c16745a414eb212b410f3f83a9eb"}
+  {:article/id "law/6458/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Uluslararası koruma başvurusuna ilişkin uygulama",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a899fe454659fb25ab6836fc1bf2b8ac877a1e247d7059a82887368be3159344"}
+  {:article/id "law/6458/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Türkiye’ye giriş yasağı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "005fd8c3d96a556e34898d7daf9e2cfb8533a227b93be83806d2a70b9a0006d3"}
+  {:article/id "law/6458/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Türkiye’ye giriş yasağının tebliği",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "570a7d91aaf0839589b302463139b2df043913187175d6696848c5e6473942e6"}
+  {:article/id "law/6458/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Vize zorunluluğu, vize başvurusu ve yetkili makamlar",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "279a8f767d65bb06b4b292c720d011ad5be0aeb2a3fd0c984716d0b9f9cff24a"}
+  {:article/id "law/6458/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Vize muafiyeti7",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "8e8ed0b2c3390ae1c8a06cb11ab8a9b4b11bfe4dceea2ea9481ff082b3cf0c23"}
+  {:article/id "law/6458/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "2d76c20185220fead9f9061179ff35922cc0ec293f2e1c33ce9f7d129aae7c85"}
+  {:article/id "law/6458/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Havalimanı transit vizeleri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "bd18bc26ae4af06a8b9260b0caeb82d205706fd66320c750dc13dfe6595534bc"}
+  {:article/id "law/6458/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Vize verilmeyecek yabancılar",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1b5fcfd825a5fdde772c79dd6dae84efb097e8b25c31bcb9901a8af0e2873691"}
+  {:article/id "law/6458/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Vizenin iptali",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9b47e504a66877735c1064837c055374246fbcc2473c9cabcc828f98d9ec1159"}
+  {:article/id "law/6458/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Vize işlemlerinin tebliği",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8b9335650ac847fb416ebaa93b767dd0555414193646d9db464d6cbd6acffa1e"}
+  {:article/id "law/6458/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "Cumhurbaşkanının vize ve pasaport işlemlerinde yetkisi9",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "2ff86a9d9fbf3fd6c0bb422c1123756edcbdfb44a7e5a63a520247fd95559246"}
+  {:article/id "law/6458/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "6841d989975376f46b8f246852d68d74ee326710ccd8bea5fbf89328d72f74e8"}
+  {:article/id "law/6458/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "İkamet izninden muafiyet",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "90c1342417d60e98178e600f6ea648d9b2d64f72ba879e4268ddfc964c24beee"}
+  {:article/id "law/6458/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "İkamet izni başvurusu",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "9d69026cc4e6def045ff554e3e31558201ff9bd0deed5f976af6ac0e5a8b02c4"}
+  {:article/id "law/6458/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title
+   "Türkiye içinden yapılabilecek ikamet izni başvuruları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c5d161fc8563f07013af50a8955b75e2bab2fce17674ebd650873431a100bb2d"}
+  {:article/id "law/6458/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "37c9854eedaef177025bbce0193274d6eb7f7cfb0947f1e9e8737de7da41747e"}
+  {:article/id "law/6458/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "İkamet izinlerinin uzatılması",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "8ad5fe49645c4b0e0913e4fedaae8da8bce2d607fd5b63655792e7414faea3a5"}
+  {:article/id "law/6458/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title
+   "Türkiye içinden yapılan ikamet izni talebinin reddi, iptali veya uzatılmaması",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "71e6cb67109f1955de77fa61be4790fa1395b63288fbc2da72918af2af123a0d"}
+  {:article/id "law/6458/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "İkamet izinlerine ilişkin diğer hükümler",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "224dfb5d5ea846205129e3c280f7d04c5f0c9ddc234b5209d373ef0347f9c1ea"}
+  {:article/id "law/6458/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Çalışma izninin ikamet izni sayılması",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "f63e84d88d3c5b0f46e7eb6ef5860d7d8c8331f4fa07e65cd93ed6a52442ef0a"}
+  {:article/id "law/6458/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "İkamette kesinti",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "adb29eda9e97622f08a1544e86f5dcb1f153777ea77e78caae7c94c6a4a2ea5a"}
+  {:article/id "law/6458/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "İkamet izinleri arasında geçişler",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "cb3c1056ddb3db6bc0923786a5c66e93b40a8e723738d406dfc399b6807c9abe"}
+  {:article/id "law/6458/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "İkamet izni çeşitleri",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "74f8d378a15d0bd491c7d204d309e249d2997bcf0b709ecf33dc54fead44e790"}
+  {:article/id "law/6458/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "d507cf70b8f38b3ce5ea738c3662998660edbf0e77dc4ed011cdfbaa40f6a8f2"}
+  {:article/id "law/6458/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Kısa dönem ikamet izninin şartları",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "8f9765396845581637f641e1baad31e0754edcdf1c999f20efc0cc9926479558"}
+  {:article/id "law/6458/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "53934e5ef478859798fcd80821c77fd6d120ed7b1f65270e9ffc815c6fb69101"}
+  {:article/id "law/6458/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Aile ikamet izni",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "1c9d05504c23d7f97094a7fc515147c2689547db281c45abcb3009ed270701ee"}
+  {:article/id "law/6458/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Aile ikamet izninin şartları",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "e35b2cb36ee1bf733cb6651aff083aff57aaf79835e89d2cace2a76414e477c6"}
+  {:article/id "law/6458/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title
+   "Aile ikamet izni talebinin reddi, iptali veya uzatılmaması",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "4a27acae2b49a4309cc1fe101c3566f008188f39756c149e8547c939c1ecec2a"}
+  {:article/id "law/6458/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title
+   "Anlaşmalı evlilik yoluyla talep edilen aile ikamet izni",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "b74bae25b2980b366edaea0be633cc18c38dda2f073730f00000fa8822ead288"}
+  {:article/id "law/6458/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Öğrenci ikamet izni",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "629a95574622493387a937ebb83659ba31f1efc58f84c9d76e780d1214fd8db2"}
+  {:article/id "law/6458/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Öğrenci ikamet izninin şartları",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "f993365cd7d6118e190cb25b5859d8bb6ab827eafef5421413993f5c8ca1b164"}
+  {:article/id "law/6458/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "a656fd75456c1f31f06ecc2e5b82e8b9fb5bcf56f2a0081be22b72523136bc5e"}
+  {:article/id "law/6458/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "fd4659c2c219f10776794a9225ff0e9a35c162f3f609251cbbbde222aae7bb97"}
+  {:article/id "law/6458/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "94cf8820d208327b129e1231cfb4d1e8b369860e0a39a4a2ad4473d51c12bc53"}
+  {:article/id "law/6458/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Uzun dönem ikamet izninin şartları",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "32825269ee0df80ac5df17129381497cf0dc10d61419564aacc9c7f16fd50100"}
+  {:article/id "law/6458/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Uzun dönem ikamet izninin sağladığı haklar18",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "70a5a35e4e065078527e1d5a1ee3dbf97a1bdcf7373b79a80e1d6eb1c3f35fee"}
+  {:article/id "law/6458/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Uzun dönem ikamet izninin iptali",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "2419cef7c4e6f6486862d9490293a106eb2c7ec0129d63b886c1a43815c7670c"}
+  {:article/id "law/6458/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "İnsani ikamet izni",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "9e2200515cb581d258fc87e2dc41e8df7cf50fce1a12f608a6c33cfe9cdb7b32"}
+  {:article/id "law/6458/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "İnsani ikamet izninin iptali veya uzatılmaması",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "40cc2818cfd0bd8cd977bdaaa34cad96a10ec3b882d10d174c50053526ce3f85"}
+  {:article/id "law/6458/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "İnsan ticareti mağduru ikamet izni",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "e0ec1f4f8fecf27f0f2538f44740d6cbcfa3a3da169c3124429746961efbf0d2"}
+  {:article/id "law/6458/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "7c8bc9a70a1f7ba8be30f23dd65874a07c81218bb325730e8df6b3d628db43b2"}
+  {:article/id "law/6458/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "3f15884d7072031fc0f626de648015caa1923e72a82e2279e679e150f58e1aae"}
+  {:article/id "law/6458/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Vatansız kişilere tanınan haklar ve güvenceler",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "ee073bd5f13fc41a343820491b9f0b998b839bd7c3e18291932500bc40d19aa0"}
+  {:article/id "law/6458/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title nil,
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "e1920df49472278ed96eaf8dd1c0184948bcc4971906a46f278fcbb57d41383c"}
+  {:article/id "law/6458/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Sınır dışı etme kararı",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "3c9eaa46f0be5b943d668f925a61add625e744ff1735cd688387f2eca0fef22a"}
+  {:article/id "law/6458/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Sınır dışı etme kararı alınacaklar",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "f41a33f4135f1a37a7b39668f84b3676ec73c03d79a4e764c741d5e0614b0f73"}
+  {:article/id "law/6458/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Sınır dışı etme kararı alınmayacaklar",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "2fec9d3c829d2d053e2512c84aca95fd368930a6f88a489fea7126fb0b8b78c9"}
+  {:article/id "law/6458/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Türkiye’yi terke davet",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "6c9781730edaa12511ecd6874be294f90805d0abb7a6b2627daef394c97e02c0"}
+  {:article/id "law/6458/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Sınır dışı etmek üzere idari gözetim ve süresi",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "de0cb8ee462d761b56049efb760ff416efb3b8f782c159cf45faf5335dd23f27"}
+  {:article/id "law/6458/article/57/A",
+   :article/type :normal,
+   :article/no "57/A",
+   :article/title "İdari gözetime alternatif yükümlülükler",
+   :article/path "articles/madde-057-a.md",
+   :article/sha256
+   "6acde3302ed243594a0fd1d658a15b397b0eefa217cff760f5f146671e9e2c52"}
+  {:article/id "law/6458/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Geri gönderme merkezleri",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "3876cb6fda898f232eebcd75f69b9da9b07bc2b75fa3c3f707c57f02d95aad7f"}
+  {:article/id "law/6458/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Geri gönderme merkezlerinde sağlanacak hizmetler",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "035156daa04686bd242a716a0704c0f9c78810592d0a907e6d06c576f4bc94bb"}
+  {:article/id "law/6458/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Sınır dışı etme kararının yerine getirilmesi",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "cc45a1efdb6accd65604c650db9a1ad4f9f80f926a7ade808ad4e637d8df5521"}
+  {:article/id "law/6458/article/60/A",
+   :article/type :normal,
+   :article/no "60/A",
+   :article/title "Gönüllü geri dönüş",
+   :article/path "articles/madde-060-a.md",
+   :article/sha256
+   "13a54dec375cbd9c8950d3679ef05a88f0e192323b476251563fe97d1fd97e56"}
+  {:article/id "law/6458/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title nil,
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "139631e4d140faa6a6f0b768f75e538c7cde6ce838125084fb2f8d653be970cb"}
+  {:article/id "law/6458/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Şartlı mülteci",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "20b629e69068d2a9972c32eaea23fbf3102a622ca749e8d45878315e90460d46"}
+  {:article/id "law/6458/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "İkincil koruma",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "2466efd2477f96f6a34e214aa326f47fbf00a677b404938d9e49ad71696f2a2a"}
+  {:article/id "law/6458/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Uluslararası korumanın haricinde tutulma",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "d740f474c6f0eb2a4382bffcf22023f5e1b509c36ea3732041e3ef04ef0c03b2"}
+  {:article/id "law/6458/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "e035e5ca29e8586d14da5ed0cc8a2eea786ffbf2ce68dd37af864ba8edf47d3b"}
+  {:article/id "law/6458/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Refakatsiz çocuklar",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "5040ca003d9648dbe46d9b8dd5ce4de5dc60c0b33d6ee9944b3e71b97a519838"}
+  {:article/id "law/6458/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title "Özel ihtiyaç sahipleri",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "490ff214c7cc6ce14e6fdd6fcc6561afd47ee1ddec19597d4413675240974417"}
+  {:article/id "law/6458/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "Başvuru sahiplerinin idari gözetimi",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "b26c9bb266cd41f9681a9ee7dc5250e957963da3ee1fcf0b8d95e38868b82fd6"}
+  {:article/id "law/6458/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Kayıt ve kontrol",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "16562d29f3521aabaabefb8eb9069c4863212a942f225d2001f41ad7f90528fc"}
+  {:article/id "law/6458/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Başvuru sahibinin bilgilendirilmesi ve tercümanlık",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "12164ea9afef565476a5632a4e608a0568fd19e3dccb23407b210b6bc488724d"}
+  {:article/id "law/6458/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "İkamet zorunluluğu ve bildirim yükümlülüğü",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "dfc8068d2019edea85b6fbfdece0f5e425cb72aeb245b1ce9335ce75f86e2b26"}
+  {:article/id "law/6458/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Kabul edilemez başvuru",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "ea1dd293b3507455de7a02111d70f0d1860daf4b0cbe5c5307e21932f4e30cce"}
+  {:article/id "law/6458/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title "İlk iltica ülkesinden gelenler",
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "46b24d80f78577b9ba9973695d6f61fab9eda70fdff534ddda988a52e4d3dab3"}
+  {:article/id "law/6458/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "Güvenli üçüncü ülkeden gelenler",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "875cae5629ca44e82027a4c7bb7e8bca90d006e3ba24094c06e727d80ec27b4c"}
+  {:article/id "law/6458/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "Mülakat",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "fa4369d794d4bf6a0786c79b4c0403615cd3a1b8b340610c8ec545fe1ee32e76"}
+  {:article/id "law/6458/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "Uluslararası koruma başvuru sahibi kimlik belgesi",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "e674f39c7d1f2405502f0e4728272d39ca9670c3f7c94a0c9cb886b9adbeddec"}
+  {:article/id "law/6458/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title
+   "Başvurunun geri çekilmesi veya geri çekilmiş sayılması",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "83eb28e82545f8b6f5281f2dd831871310ebef46245f5fee5832f89aafae3705"}
+  {:article/id "law/6458/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "Karar",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "85035f87b53825f111bcf0cc7d9cca8980b499a35ced137b2cec7481a91d6237"}
+  {:article/id "law/6458/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "Hızlandırılmış değerlendirme",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "b6731e1c855563db432bac0f552083e470562806d8eecfd1cd42f0692544db76"}
+  {:article/id "law/6458/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "İdari itiraz ve yargı yolu",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "03d135a12cb75d0c4368576087668df598fdbaaf9411fb49eaeb7d5d191f3cab"}
+  {:article/id "law/6458/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title "Avukatlık hizmetleri ve danışmanlık",
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "803259724b7d38cb8d90349fc9fc0edf8ce4ffd539fe1f24edb34a5c03e0a046"}
+  {:article/id "law/6458/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title
+   "Şartlı mültecinin ve ikincil koruma statüsü sahibinin ikameti",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "bd9f27657331badf6b5adb59b7e7e442b93a43efaa57f87100ed2895c36e6db6"}
+  {:article/id "law/6458/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title "Uluslararası koruma statüsü sahibi kimlik belgesi",
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "acf78a3172f91bbbca4f0c43b3456f5c1069e9f26e4081da2cce38eb1a7770c7"}
+  {:article/id "law/6458/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title "Seyahat belgesi",
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "c9fdb35b43edf05fd73b863fdcb3318ef5462a84177803e5944e3e141ddf3a4d"}
+  {:article/id "law/6458/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title "Uluslararası koruma statüsünün sona ermesi",
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "7f6510878f1bd8d8549f5016a8b0006b8b947aafa5b40263711d51b743963172"}
+  {:article/id "law/6458/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title "Uluslararası koruma statüsünün iptali",
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "c6f26cf2df12865a8d78305d06188eb99a8bdcd91763646ba26c1229685b820c"}
+  {:article/id "law/6458/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title "Gönüllü geri dönüş desteği",
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "ad56e03caa9fb1d04a207ddb4ffa3a5e272d4cc889e5a99e305e85e6096c1d52"}
+  {:article/id "law/6458/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title nil,
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "2b94fef8245540cdd37b28bbac233c40dd3b112efdc09d43b7a7a108504c1d6a"}
+  {:article/id "law/6458/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title "Yardım ve hizmetlere erişim",
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "4980fcb9df1e71c7e6e3e44281b7281bbff0f230aea0b946c8fcdc8b00dc1d51"}
+  {:article/id "law/6458/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title "Yükümlülükler",
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "11f1b9f4358f905b092f5244170adda1777bff46ca192ec58c138b48fdcde721"}
+  {:article/id "law/6458/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title nil,
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "54d46610ec122ebfa332b7afcef143b332571e2c4c4b82fa718a36c88c645ef0"}
+  {:article/id "law/6458/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title "Uluslararası koruma süreçlerinde iş birliği",
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "f503b31a86bb78f2544d9438fbef53fb47ac368aa175444f5d5d5e35f8534158"}
+  {:article/id "law/6458/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title "Menşe ülke bilgisi",
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "d14011844d73245740b48cde52d4657ba8f9cfa73d8174954fdf4324ee62cc18"}
+  {:article/id "law/6458/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title "Gizlilik ilkesi ve kişisel dosyaya erişim",
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "00ec15ca7cc05acd5130528745ba93dd16f0f2fe4831683b58763b86c3810555"}
+  {:article/id "law/6458/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title "Kabul ve barınma merkezleri",
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "35a45f771dd5034d558951dbb90bfc69a64d073aba4f60581ce37df7e5a2db13"}
+  {:article/id "law/6458/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title nil,
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "ce71dd2cb2736373804c7b7413bcb9c3e6df17d7b898d66b7a3bceb06e8cf8a6"}
+  {:article/id "law/6458/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title "Davete uyma yükümlülüğü",
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "7667beb86925133c610e8e2a684cb0426050eda220af9a4c0e0473a796c84fe2"}
+  {:article/id "law/6458/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title "Taşıyıcıların yükümlülükleri",
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "e05c4fd191d05ddc865393f3970a40d480a5b07b822d0859a3eabf7e2d1cc9e5"}
+  {:article/id "law/6458/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title "Kişisel veriler",
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "722b97f55f17cc848cbcbd0f5c8dc7e06d7a13e61f1a0e7216615001a04d7335"}
+  {:article/id "law/6458/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title "Tebligat",
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "d7858525f9441889e6e528b00de523581a0a3b84065c159805817cc26e3544df"}
+  {:article/id "law/6458/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title "Yetkili idare mahkemeleri26",
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "a9846b53eacdeb3aec441eab68a0a743a6f465a78f7f6911fef204b99738d8eb"}
+  {:article/id "law/6458/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title "İdari para cezası",
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "615d02b41e08cfe7807f734ff57d261b380470bb506e640f5958a045964cfe24"}
+  {:article/id "law/6458/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title nil,
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "f9bfd419adf1b90695c731b572419c5558cd0ade2079c3b372db4fe8abe70373"}
+  {:article/id "law/6458/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title "Görev ve yetki",
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "2768e60fb27432740e44c3355969d41e12c4203de321d68d96b89652e469b4b1"}
+  {:article/id "law/6458/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title nil,
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "e7a969227c81c0dfdb65312047cb1a3d5905ed6d3ba761ec756ad7ed45b7e1e5"}
+  {:article/id "law/6458/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title nil,
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "fcd20e368933d5408195fb595b0d1b65bd14d8e2c7ca2fbb2d8e3300df4b165a"}
+  {:article/id "law/6458/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title "Genel Müdür",
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "751a658275c4b02f0b767d0a5331f61a53ef5bdf82544c62f561ab87148de0f2"}
+  {:article/id "law/6458/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title "Hizmet birimleri",
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "ca7f0623377b9dba997d69cb674ad5bf602da4cd803d8ee7ea48359c2fe099c1"}
+  {:article/id "law/6458/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title "Taşra teşkilatı",
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "b081e6dbd42415f645a6d21facf1a5b9c3f8a6dd47329657f85b96cbffbe17d6"}
+  {:article/id "law/6458/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title "Yurt dışı teşkilatı",
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "70355d5c7be42864c6872107604a3c61fabe362d5b890f80b295acec1a56cfea"}
+  {:article/id "law/6458/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title "Çalışma grupları ve düzenleme yetkisi",
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "5f189290fec89dfb053f142fddf78bace80913891bb5e8dd391a279f0e3af1a6"}
+  {:article/id "law/6458/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title "Yöneticilerin sorumlulukları ve yetki devri",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "b2f3f84dfca5e916f017754640a2498d1a486cdb191ba39724b5660bac1fb5f8"}
+  {:article/id "law/6458/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title nil,
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "0debb93227de650072c5ec9d8c58ded7215276283dec567994b69d796b0d12d9"}
+  {:article/id "law/6458/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title "Göç Danışma Kurulu",
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "e002e9a2bbec757a0c8ea792851f82d221bd62bede3a3946676a2ccc67ca74ac"}
+  {:article/id "law/6458/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title "Uluslararası Koruma Değerlendirme Komisyonu",
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "5e230ccfea7d803d15042667f13696b4eb0496a78144254e4d0bb8cdc56bfc55"}
+  {:article/id "law/6458/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title "Düzensiz Göçle Mücadele Koordinasyon Kurulu",
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "806b7adb18fd4951c950896634bed940e3862423c7b7202e0478259bc370c59c"}
+  {:article/id "law/6458/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title "Geçici komisyonlar",
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "5f13d3388a52fb28aafd6c193ce9298e40406a6249cd754157adac7f1a8663ad"}
+  {:article/id "law/6458/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title nil,
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "c76c7a876b6e7a0942c4deb5b2dea9c2a0c8f0c21cdaec6d6a4a523b848fd816"}
+  {:article/id "law/6458/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title "Personele ilişkin hükümler",
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "1d9f562ea23db32cc88dcc312e84fb36d3afce0337e07ccd6a18d5ae9efdce4d"}
+  {:article/id "law/6458/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "ccbe52383e5f67e835cc42d73f7e9f76ff6d6e785d374fa59e06c08f0e211f0a"}
+  {:article/id "law/6458/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title nil,
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "a7040f16a891b1f0edc41ddcc1f294a2da66ebe8170eeebb650feb202d90342b"}
+  {:article/id "law/6458/article/121/A",
+   :article/type :normal,
+   :article/no "121/A",
+   :article/title "Geçici barınma merkezleri ödeneği",
+   :article/path "articles/madde-121-a.md",
+   :article/sha256
+   "e807f8c1456ff9a962fc69992310ee388791ced04a688617ffb2582b5e091897"}
+  {:article/id "law/6458/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title "Atıf yapılan hükümler",
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "ecfb2d27206b72d8caed86d916d2d3c3c9ca2e61e8ae4430b04d3ec213f96a54"}
+  {:article/id "law/6458/article/123",
+   :article/type :normal,
+   :article/no "123",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-123.md",
+   :article/sha256
+   "54f785fe9b91100be4338765eddad7d1b6f7ea281a97eee665352722246d2c41"}
+  {:article/id "law/6458/article/124",
+   :article/type :normal,
+   :article/no "124",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-124.md",
+   :article/sha256
+   "40bc0597b9a5b401e7ba892208e74514dd7e4c58771100cbdc047e414014e394"}
+  {:article/id "law/6458/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Göçmen kaçakçılığı suçunda kullanılan araca elkoyma",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "8f9bf016c8bcfdc510654e910c4f5394ba22c614c083ee3867a8bace34b4f8d5"}
+  {:article/id "law/6458/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Göç Vakfı",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "501a50f3e89f5d154920aa9e1fd2074ebe1dcfaede5233676f0103d17225580a"}
+  {:article/id "law/6458/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "8eb0f977b084cc579e6247ebe254a1eee983f0b06aa7ec61c7b6fa13e384a32f"}
+  {:article/id "law/6458/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Denetçiliğe naklen atanma",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d02915467de5731a99f865d4269ba7affc2a3930cb759ee1f3b69a21d73ca1e7"}
+  {:article/id "law/6458/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "ede86ffe77bfb6c793054344063abe7fc321d126a043a795bddf72b15d2b5ed8"}
+  {:article/id "law/6458/article/125",
+   :article/type :normal,
+   :article/no "125",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-125.md",
+   :article/sha256
+   "f31677e7c21740a9659c8212624959c84ee02a12d127287c0b1204b0062da69e"}
+  {:article/id "law/6458/article/126",
+   :article/type :normal,
+   :article/no "126",
+   :article/title "Yürütme",
+   :article/path "articles/madde-126.md",
+   :article/sha256
+   "e5ad36abec82ce10a34ad1e8c2a536370bb7c490b82f0a8d3dc9473a541f3add"}]}

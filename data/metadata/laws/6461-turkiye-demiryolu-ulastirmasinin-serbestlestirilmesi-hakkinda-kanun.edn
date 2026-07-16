@@ -1,0 +1,139 @@
+{:document/id "law/6461",
+ :document/type :law,
+ :document/number "6461",
+ :document/title
+ "TÜRKİYE DEMİRYOLU ULAŞTIRMASININ SERBESTLEŞTİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "6461-turkiye-demiryolu-ulastirmasinin-serbestlestirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6461-turkiye-demiryolu-ulastirmasinin-serbestlestirilmesi-hakkinda-kanun",
+ :document/sha256
+ "c98edda48ccdef054c06616dc38befc987b64eabe21c5521050f33ecc892d5ea",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6461.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:35.875-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6461/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b59b178b3fd25ecb7837e2184992790e55680ddc8f3367c4c3571d78e30bcb5b"}
+  {:article/id "law/6461/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "1a678e8b5549fc80807a3d488ea05e7e8273c87905f3ae2c0810a475af742e16"}
+  {:article/id "law/6461/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "aba177c7634b944fb4be6fa10c84fd11cd889a50f52d287914d42aa5954cb15f"}
+  {:article/id "law/6461/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3bbb9f9c5a1ccd96dfbf4b80868e427ccbb1544263e664538efb9d78f1b50f30"}
+  {:article/id "law/6461/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "TCDD yatırımlarının finansmanı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "521a0cb99db4454e10684b8e87cd2d7589d0a32b1d80be96fbc0db5a3e966d1c"}
+  {:article/id "law/6461/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "6da44c9e917902f760b38606cbde3d75ff0f361507a3cb7b831589ddf60179c6"}
+  {:article/id "law/6461/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Taşınmazlara ilişkin hükümler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b31096018dcb8a75e083ebe990c8d6f5a5b04f90f6770cd34d520c394ff09d6f"}
+  {:article/id "law/6461/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "55ac265f7bd1f1e92e5b0780b56db3f591adb4e9613a4ae7f50cfd98ffdfcd63"}
+  {:article/id "law/6461/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "10c30c2b48d865df214c485b508dced06de386659001bcbee19ac8d4b50a12c7"}
+  {:article/id "law/6461/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Değiştirilen hükümler ve atıflar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "a3fdfc4955bddea7cd3df6bfe37fa7570d29240df0af4d668c77e17f1e0cb0b0"}
+  {:article/id "law/6461/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "11ce73f475958ee61adde3cbfdf171d028f297de1e920d4c048891edd3c87d6e"}
+  {:article/id "law/6461/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Borçlar",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a3a538b76b570983bb4e24506df6a4c0763f53ad5f1fa6bee290429c12d33505"}
+  {:article/id "law/6461/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "TCDD’nin desteklenmesi",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "82208ec589507d66d49ce4eaadfc6a6143ab65b8e524670ebdf7031bb2f82537"}
+  {:article/id "law/6461/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "TCDD Taşımacılık A.Ş.’nin desteklenmesi56",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "ad7dcbfbb8d0d1893564ba8329bb879d8d7ee6d7eb037fade937c4514103a815"}
+  {:article/id "law/6461/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Emeklilik",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "f752d8cf1cf26fbdf07e098c809e45ea188410e9b43e001d79fe99972ed08021"}
+  {:article/id "law/6461/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bbf59198ccf1698221c6a0f9828fe9c109c52bf3083b6d866e6165bb3df06aa3"}
+  {:article/id "law/6461/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "f47f8c02207ffa995416792d2e796cdc93c2083e6831661baab90826e2e55533"}]}

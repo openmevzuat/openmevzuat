@@ -1,0 +1,61 @@
+# BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN
+
+**Kanun No:** 6495  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/6495  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Yayımlandığı Düstur : Tertip : 5 Cilt : 53](articles/madde-001.md)
+- [MADDE 2](articles/madde-002.md)
+- [MADDE 3](articles/madde-003.md)
+- [MADDE 8](articles/madde-008.md)
+- [MADDE 10](articles/madde-010.md)
+- [MADDE 11](articles/madde-011.md)
+- [MADDE 25](articles/madde-025.md)
+- [MADDE 29](articles/madde-029.md)
+- [MADDE 30](articles/madde-030.md)
+- [MADDE 31](articles/madde-031.md)
+- [MADDE 32](articles/madde-032.md)
+- [MADDE 33](articles/madde-033.md)
+- [MADDE 34](articles/madde-034.md)
+- [MADDE 35](articles/madde-035.md)
+- [MADDE 36](articles/madde-036.md)
+- [MADDE 37](articles/madde-037.md)
+- [MADDE 42](articles/madde-042.md)
+- [MADDE 43](articles/madde-043.md)
+- [MADDE 44](articles/madde-044.md)
+- [MADDE 46](articles/madde-046.md)
+- [MADDE 47](articles/madde-047.md)
+- [MADDE 51](articles/madde-051.md)
+- [MADDE 52](articles/madde-052.md)
+- [MADDE 53](articles/madde-053.md)
+- [MADDE 54](articles/madde-054.md)
+- [MADDE 55](articles/madde-055.md)
+- [MADDE 57](articles/madde-057.md)
+- [MADDE 58](articles/madde-058.md)
+- [MADDE 64](articles/madde-064.md)
+- [MADDE 66](articles/madde-066.md)
+- [MADDE 68](articles/madde-068.md)
+- [MADDE 70](articles/madde-070.md)
+- [MADDE 71](articles/madde-071.md)
+- [MADDE 72](articles/madde-072.md)
+- [MADDE 73](articles/madde-073.md)
+- [MADDE 74 — cc) (3/12/2010 tarihli ve 6085 sayılı Sayıştay Kanunu ile ilgili olup yerine işlenmiştir.)](articles/madde-074.md)
+- [MADDE 75](articles/madde-075.md)
+- [MADDE 77](articles/madde-077.md)
+- [MADDE 82](articles/madde-082.md)
+- [MADDE 84](articles/madde-084.md)
+- [MADDE 88](articles/madde-088.md)
+- [MADDE 90](articles/madde-090.md)
+- [MADDE 100](articles/madde-100.md)
+- [MADDE 101](articles/madde-101.md)
+- [MADDE 102](articles/madde-102.md)
+- [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)
+- [MADDE 103](articles/madde-103.md)
+- [MADDE 104](articles/madde-104.md)

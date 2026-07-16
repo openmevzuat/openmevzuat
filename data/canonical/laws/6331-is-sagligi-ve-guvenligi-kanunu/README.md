@@ -1,0 +1,63 @@
+# İŞ SAĞLIĞI VE GÜVENLİĞİ KANUNU
+
+**Kanun No:** 6331  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/6331  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç](articles/madde-001.md)
+- [MADDE 2 — Kapsam ve istisnalar](articles/madde-002.md)
+- [MADDE 3 — Tanımlar](articles/madde-003.md)
+- [MADDE 4](articles/madde-004.md)
+- [MADDE 5 — Risklerden korunma ilkeleri](articles/madde-005.md)
+- [MADDE 6 — İş sağlığı ve güvenliği hizmetleri](articles/madde-006.md)
+- [MADDE 7 — İş sağlığı ve güvenliği hizmetlerinin desteklenmesi](articles/madde-007.md)
+- [MADDE 8 — İşyeri hekimleri ve iş güvenliği uzmanları](articles/madde-008.md)
+- [MADDE 9 — Tehlike sınıfının belirlenmesi](articles/madde-009.md)
+- [MADDE 10 — Risk değerlendirmesi, kontrol, ölçüm ve araştırma](articles/madde-010.md)
+- [MADDE 11 — Acil durum planları, yangınla mücadele ve ilk yardım](articles/madde-011.md)
+- [MADDE 12 — Tahliye](articles/madde-012.md)
+- [MADDE 13 — Çalışmaktan kaçınma hakkı](articles/madde-013.md)
+- [MADDE 14 — İş kazası ve meslek hastalıklarının kayıt ve bildirimi](articles/madde-014.md)
+- [MADDE 15 — Sağlık gözetimi](articles/madde-015.md)
+- [MADDE 16 — Çalışanların bilgilendirilmesi](articles/madde-016.md)
+- [MADDE 17 — Çalışanların eğitimi](articles/madde-017.md)
+- [MADDE 18 — Çalışanların görüşlerinin alınması ve katılımlarının sağlanması](articles/madde-018.md)
+- [MADDE 19 — Çalışanların yükümlülükleri](articles/madde-019.md)
+- [MADDE 20 — Çalışan temsilcisi](articles/madde-020.md)
+- [MADDE 21](articles/madde-021.md)
+- [MADDE 22 — İş sağlığı ve güvenliği kurulu](articles/madde-022.md)
+- [MADDE 23 — İş sağlığı ve güvenliğinin koordinasyonu](articles/madde-023.md)
+- [MADDE 24](articles/madde-024.md)
+- [MADDE 24/A — Bakanlığın inceleme, kontrol, denetim yetki ve sorumluluğu](articles/madde-024-a.md)
+- [MADDE 25 — İşin durdurulması](articles/madde-025.md)
+- [MADDE 25/A — Ölümlü iş kazası sebebiyle kamu ihalesinden yasaklama](articles/madde-025-a.md)
+- [MADDE 26 — İdari para cezaları ve uygulanması](articles/madde-026.md)
+- [MADDE 27 — Hüküm bulunmayan haller ve muafiyet](articles/madde-027.md)
+- [MADDE 28](articles/madde-028.md)
+- [MADDE 29 — Güvenlik raporu veya büyük kaza önleme politika belgesi](articles/madde-029.md)
+- [MADDE 30 — İş sağlığı ve güvenliği ile ilgili çeşitli yönetmelikler](articles/madde-030.md)
+- [MADDE 31 — Belgelendirme, ihtar, askı ve iptaller14](articles/madde-031.md)
+- [MADDE 32 — Değiştirilen hükümler](articles/madde-032.md)
+- [MADDE 33](articles/madde-033.md)
+- [MADDE 34](articles/madde-034.md)
+- [MADDE 35](articles/madde-035.md)
+- [MADDE 36](articles/madde-036.md)
+- [MADDE 37 — Yürürlükten kaldırılan hükümler](articles/madde-037.md)
+- [EK MADDE 1](articles/ek-madde-001.md)
+- [GEÇİCİ MADDE 1 — Atıflar](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2 — Mevcut yönetmelikler](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3 — Sağlık raporları](articles/gecici-madde-003.md)
+- [GEÇİCİ MADDE 4 — İş güvenliği uzmanı görevlendirme yükümlülüğü](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5 — Mevcut sertifika ve belgeler ile ihtar puanları](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6 — İşyeri hekimliği yapan kurum tabiplerine yapılan ücret ödemeleri](articles/gecici-madde-006.md)
+- [GEÇİCİ MADDE 7](articles/gecici-madde-007.md)
+- [GEÇİCİ MADDE 8](articles/gecici-madde-008.md)
+- [GEÇİCİ MADDE 9](articles/gecici-madde-009.md)
+- [GEÇİCİ MADDE 10](articles/gecici-madde-010.md)
+- [MADDE 38 — Yürürlük](articles/madde-038.md)
+- [MADDE 39 — Yürütme](articles/madde-039.md)

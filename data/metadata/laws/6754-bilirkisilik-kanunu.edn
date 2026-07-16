@@ -1,0 +1,223 @@
+{:document/id "law/6754",
+ :document/type :law,
+ :document/number "6754",
+ :document/title "BİLİRKİŞİLİK KANUNU",
+ :document/slug "6754-bilirkisilik-kanunu",
+ :document/path "data/canonical/laws/6754-bilirkisilik-kanunu",
+ :document/sha256
+ "d642172e6f46ab2c76c153ae0a924a4c3d60367425614646a75a9281e3ef9b99",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6754.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:47.243-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6754/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d9fa5ecf2b147bb69ef9bebcb23133d68b396c0a4c9fb17329f43d55482532d9"}
+  {:article/id "law/6754/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "192fc17ec35e37b596cc72c24a874b6b118701de197fb31665299ce06b535a50"}
+  {:article/id "law/6754/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Temel ilkeler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "533f5f4735599a300a563b5ef912dabc5dfb716732da21ffb2c211f899c9fffa"}
+  {:article/id "law/6754/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "80971830c343568fc4dc460de1477d9cee62d2babde58cf796205eabf10f89ae"}
+  {:article/id "law/6754/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bilirkişilik Danışma Kurulunun görevleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "246c05ada170d9a1171e7791b4c38c125028a87cc9eb32b5a3ad5937757de8f8"}
+  {:article/id "law/6754/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Bilirkişilik Daire Başkanlığı ve görevleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4040b855ad439b5cefd986d5b81f11037ee29aebff789e7d93e3b6cd62b16539"}
+  {:article/id "law/6754/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Bilirkişilik bölge kurulları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bb7fc5f3bd1026212288b684eba3335506a457f457bbe1221c7dbbbee525c8ba"}
+  {:article/id "law/6754/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Bilirkişilik bölge kurullarının görevleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "eebfc12a29f27812642a08b770cfa77f6bc9aebb6f0c300edaa12a6719a7e033"}
+  {:article/id "law/6754/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Bilirkişilik bölge kurulu başkanının görevleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1c9eabd4d2193be59117afa9b7fc52d04a073742fd27cb7f4ee5f9d57eea705c"}
+  {:article/id "law/6754/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "739563279651a540ce710a57c66b569f4af99c3397fefcd4c72460894b49a9b0"}
+  {:article/id "law/6754/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Bilirkişiliğe başvuru, seçilme usulü ve sicile kayıt",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "f9153de248dccede4c8297dceb635c1e49dd75dae849b6c68a9221ed96751b45"}
+  {:article/id "law/6754/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Bilirkişilik sicilinin ve listesinin tutulması ile bilirkişinin görevlendirilmesi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6f57b9724995390d64c62a4077e9b80c814a18036366950b43ee5b643c23ba23"}
+  {:article/id "law/6754/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Bilirkişilik sicilinden ve listesinden çıkarılma",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "6837de8b3bc7a9c70bff3c601a6668c8c2a81e58d78cf54906b0a24b54bcaa6f"}
+  {:article/id "law/6754/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Denetim ve inceleme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "5167bd212032420eca3f80b8cb416bd562968ddfae3a7334815fd6512ab7d5f4"}
+  {:article/id "law/6754/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "8c40914d8f73d1a28a10151fc0a9d3da24f5d267387a776db7e78ce281e01d40"}
+  {:article/id "law/6754/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Huzur hakkı ve kurulların ihtiyaçlarının karşılanması",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b93a11a8f7e2a71136a0d2aec025b468d626f2bcc409e6e6c432b716d1f691ce"}
+  {:article/id "law/6754/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kadrolar7",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "6a7308d117512e6e28c1ad6e698e2f64f7c7cd56a6c7c52606fa5be8e261b0f3"}
+  {:article/id "law/6754/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "a562c2dfcd2ea79d498c9a9499a815a5384f50823d484905bda826a3317081ac"}
+  {:article/id "law/6754/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "b8894b6654ff605c31ef70b7642b1589ed6c534ec406e5c37eff28363d20b5a1"}
+  {:article/id "law/6754/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "86a829ac25857f8921c036e9728797ac6dccb2bb511055d2b65570d67abce2db"}
+  {:article/id "law/6754/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "cd613d4c309c5b06f23d8d6a59bc60fb4b775a557369c9ac3cbd393d38650070"}
+  {:article/id "law/6754/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "3227a7decd36ec5445c92f269c129732af769b6fad4b79500c7708919d98691b"}
+  {:article/id "law/6754/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "d5b3b658ff55378fa7dd22bdb03c28f8a705f435cfbf2e8d12abd0a839190958"}
+  {:article/id "law/6754/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "62fc2ea48ca6acb8e097315084652dad8ccdce1cdca0a848a6bef22b952e45ad"}
+  {:article/id "law/6754/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "448254dde4cf8cd0956ec23abaf5af9346c449aa3ae435a11cf80ff8a7bb8b2b"}
+  {:article/id "law/6754/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1f2fc5ecd2b769107143f289e63e780a16d765a14004fa1a95a5639c665d80a8"}
+  {:article/id "law/6754/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "fb29b71bdcafe84731547ce2a013dfaa0389729c79a07973aa4e0e302688cb6b"}
+  {:article/id "law/6754/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "c81f3c730b67bfa3bf1abc9a1e87bfa86f03dc546ea9c71d3a987230df4103c9"}
+  {:article/id "law/6754/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Yürütme",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "5f5760a42d965bee30a7fac991f4ef8effceefcd5900a7f2d75eef8d5eb4e79a"}]}

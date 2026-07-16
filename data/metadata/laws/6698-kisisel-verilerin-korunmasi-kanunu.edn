@@ -1,0 +1,272 @@
+{:document/id "law/6698",
+ :document/type :law,
+ :document/number "6698",
+ :document/title "KİŞİSEL VERİLERİN KORUNMASI KANUNU",
+ :document/slug "6698-kisisel-verilerin-korunmasi-kanunu",
+ :document/path
+ "data/canonical/laws/6698-kisisel-verilerin-korunmasi-kanunu",
+ :document/sha256
+ "8d74bd581f8f72de14f84d582d4cd5faa1b65a4b7eaffb5da32af36f7d52d7a7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6698.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:58.800-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6698/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "74b8353f4904edb8c36c7302bbc2e862cef81e79dbd05c4b7edd9927a6e52f8b"}
+  {:article/id "law/6698/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e60750f77eeff83757dc815a6d9be3c8c06610e5eeee783e8f7cce725784778f"}
+  {:article/id "law/6698/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1160f39066eb1bea90884d92a8d6f377fca6afc4e52c5ae3d1aa783f4f7b3906"}
+  {:article/id "law/6698/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b1060d8656a17116cfcf77845faa2b34f34a2e0387159577f7071409b9a4c45c"}
+  {:article/id "law/6698/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kişisel verilerin işlenme şartları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e9495da4a91d985e8634e8afb3f12928d0bfcda4a5ba811c64b24cc8468b0b81"}
+  {:article/id "law/6698/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Özel nitelikli kişisel verilerin işlenme şartları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "47b7d7062499a0832c855b297a9e426002c331cf0314152e34931984e516c5f3"}
+  {:article/id "law/6698/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Kişisel verilerin silinmesi, yok edilmesi veya anonim hâle getirilmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b2b59ddb8b8740cd6fcd2e93008cd8ae16b6aadce759057597e72fa59af89237"}
+  {:article/id "law/6698/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kişisel verilerin aktarılması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "da0003f5f1fafd211c9d10b2049e0c1f949654f3d19795378d248aaca24deff8"}
+  {:article/id "law/6698/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kişisel verilerin yurt dışına aktarılması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "35350070116d0d4bc661a8dcd1518ec1b02c26f6ec16c674f0e1d7427e7519dd"}
+  {:article/id "law/6698/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d24305764efca335e9866ac4e43309bb48995f52d67c22779ac9bbbce8150389"}
+  {:article/id "law/6698/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "İlgili kişinin hakları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5ef213a2cdfc52ae40011836442d37ca72dc39daab07b2863918377a11aa5176"}
+  {:article/id "law/6698/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Veri güvenliğine ilişkin yükümlülükler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "a86e494e97c234d75b2aac613c0e2b2454043cfec5d0be683f1f1e17fbe487b1"}
+  {:article/id "law/6698/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "789705c84a34b86404335677b5a1a604ca32075c98dc6193596b06e88e3e34b8"}
+  {:article/id "law/6698/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Kurula şikâyet",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "d90db0ce89efcc56a6b5423bc036e06bfd2da7c04d55ac3fddaa8d4128bd0cfe"}
+  {:article/id "law/6698/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Şikâyet üzerine veya resen incelemenin usul ve esasları",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "b187d173a7ad68ba57f1d89d4ec227a57b797f292440c81ef890aa17cee662d0"}
+  {:article/id "law/6698/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Veri Sorumluları Sicili",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "d5b47bd8e76f8fa6836f16830d25e3f947215bd2b992f9f294464ea7aeb438ef"}
+  {:article/id "law/6698/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "abf5b651df78983edebe02ff17347ef4e2e7f764cdf0ad3435209e3846b4e898"}
+  {:article/id "law/6698/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Kabahatler1",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8579800a5d65501616d219bc9a02a2d72456c394620c364b8295d6d0e70688c1"}
+  {:article/id "law/6698/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "704c7bf78f147cc5af3c62d726918601357e0976ff35e1b61db67f83cad59aa4"}
+  {:article/id "law/6698/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Kurumun görevleri",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "645d301bdbcd98f1ff437d869623e7877ec4c10a56b433424288cf3bc398c854"}
+  {:article/id "law/6698/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Kişisel Verileri Koruma Kurulu",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "bab7c8c6af3afd5486e8b816e63f76c2c73a1a47448cc3f34068ced484836730"}
+  {:article/id "law/6698/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Kurulun görev ve yetkileri",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "095d9d6a8aaa7147416c2ec1b67496c0f98ccc48a530f775bd37c6d475e22614"}
+  {:article/id "law/6698/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Kurulun çalışma esasları",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "e390975f34a1cea62b860a29d2a55387fddc5849383e68fbd0fc8901acf5161a"}
+  {:article/id "law/6698/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Başkan",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "41b8df0ae2244d71753b1bbb41171ac784fed2f09c6bb1dbf40e8dd5e15227b3"}
+  {:article/id "law/6698/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Başkanlığın oluşumu ve görevleri",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "8f38eb58d2d06a42f3b13117fea66c647fffabe3b7800d6b017e9147659b10ae"}
+  {:article/id "law/6698/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "c96a60944f78705c77d0b4f89a4c6e1f4f12681ac5af1939c1b85ea6c3844510"}
+  {:article/id "law/6698/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Personele ve özlük haklarına ilişkin hükümler",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "4ad42e3d6057ae412f6de1358bf9da47e7c7b9362a8b830337b0384252d0bcf0"}
+  {:article/id "law/6698/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "765de19f38bc9818b2026293ce3e018516f81e40981e59faeb773346af202afc"}
+  {:article/id "law/6698/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Kurumun bütçesi ve gelirleri",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "ccfe2540b35844de01b99c5e92a0642d856a9d22071f907dcde15724f22ba913"}
+  {:article/id "law/6698/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Değiştirilen ve eklenen hükümler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "2e78f7b803171990c1229028fb396eb59f46b84262ad13a04f2b6b336e3b0513"}
+  {:article/id "law/6698/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "89f71d5c15647a5de680bbd081143b275a5a625a0d09c87e64f3c5e7776b12bc"}
+  {:article/id "law/6698/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e71deaf97a9b13a7ead088f87a715fbf1eec2d1c53a9f337e1a9950f609cd589"}
+  {:article/id "law/6698/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "352a17508ca5c52d91d1d697a145e98920fe32432b1897d49b8df929c2bf7129"}
+  {:article/id "law/6698/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "7cad3b81185677d372d86003638bef96f0baabd4f392fefd0d89204d618b897a"}
+  {:article/id "law/6698/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "212f62222c3e760dc8ccfda96f03f23d4868843e2da520a3277cb86f064d554a"}
+  {:article/id "law/6698/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürütme",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "c3d24f91294caad5942f595fa869b15857b22ff4ab50848ff2d84f63b950c852"}]}

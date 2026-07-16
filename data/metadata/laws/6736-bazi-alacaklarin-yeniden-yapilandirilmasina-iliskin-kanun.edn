@@ -1,0 +1,134 @@
+{:document/id "law/6736",
+ :document/type :law,
+ :document/number "6736",
+ :document/title
+ "BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASINA İLİŞKİN KANUN",
+ :document/slug
+ "6736-bazi-alacaklarin-yeniden-yapilandirilmasina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/6736-bazi-alacaklarin-yeniden-yapilandirilmasina-iliskin-kanun",
+ :document/sha256
+ "d22f535b30eda5ccc5aa71653986d214f89096e6baca3667677250de2b27e59c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6736.pdf",
+ :source/fetched-at #inst "2026-07-16T03:02:23.008-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6736/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam ve tanımlar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cdcbf06775c439b7acb4f815e629bc181d5942a05a692f11e83f9f82526682c5"}
+  {:article/id "law/6736/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kesinleşmiş alacaklar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7c01547535fa3c66f963751e180f8d2ebd4c4cfb6d36ea2dc4e79177f0473c36"}
+  {:article/id "law/6736/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Kesinleşmemiş veya dava safhasında bulunan alacaklar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3ab208985424880b4a7cfadb520b8df4a92880b1976a848767deda4b0ad37fe2"}
+  {:article/id "law/6736/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İnceleme ve tarhiyat safhasında bulunan işlemler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f4b5a71cf0054133bf618362acefaa123b3ab053656764381cede310a47f8ace"}
+  {:article/id "law/6736/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Matrah ve vergi artırımı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2fd994f626c249383b2ccc5eec1639cca1293dd42735043f893f37cc917a2e28"}
+  {:article/id "law/6736/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İşletme kayıtlarının düzeltilmesi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d6ff1020c4a9ec9b755157fe6a27c6f221eee9217a7ad667be2a32075322602e"}
+  {:article/id "law/6736/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Bazı varlıkların millî ekonomiye kazandırılması5",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f3eb5ffb8de014a75020a4478824fbd6a40d80757f71f7b3c1d9befa2b10902d"}
+  {:article/id "law/6736/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kesinleşmiş Sosyal Güvenlik Kurumu alacakları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "72e303b2482a527e0e694a5a72ee54acaf2339fb4e0d948c2c4bb71d346c881b"}
+  {:article/id "law/6736/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "Ön değerlendirme, araştırma veya tespit aşamasında olan eksik işçilik prim tutarları",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c62b7ac681380f6dc99f5b4768e16413f85da613d880e74264b67d0b0056f162"}
+  {:article/id "law/6736/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Ortak hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "03e4bf2d279be00aaf7e1fc9d19e5205c565bd88b423523046dea461bad58d20"}
+  {:article/id "law/6736/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Diğer hükümler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "3d0ccf383d5d2af0c7030eb6e1c9f7109b17b503732eb37fad0ff867c2fbe2c0"}
+  {:article/id "law/6736/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6a279d75ebae7edf179aaff6c66c6698fcd54966466601bff6dc840acc442999"}
+  {:article/id "law/6736/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "cbed0f30985961630c062bfb8655529f7e33736179451e3d255b6c3b9d9d286f"}
+  {:article/id "law/6736/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "9d2b60ac27220ba6cae2155d396158a239bdf41416fbd54c7a832a95d29c5fb0"}
+  {:article/id "law/6736/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "e4f2fd870d4b2eeab6a65bb6de42b22a76b14999c8eff353b8b90b6c8cc9b097"}
+  {:article/id "law/6736/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürütme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "1a44317e97c70998def8f08d8ebc2b6108bbbf85c1011d5c17a1d18e9b82e3b1"}]}

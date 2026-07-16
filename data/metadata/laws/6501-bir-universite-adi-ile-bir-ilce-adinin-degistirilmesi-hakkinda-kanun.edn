@@ -1,0 +1,62 @@
+{:document/id "law/6501",
+ :document/type :law,
+ :document/number "6501",
+ :document/title
+ "BİR ÜNİVERSİTE ADI İLE BİR İLÇE ADININ DEĞİŞTİRİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "6501-bir-universite-adi-ile-bir-ilce-adinin-degistirilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6501-bir-universite-adi-ile-bir-ilce-adinin-degistirilmesi-hakkinda-kanun",
+ :document/sha256
+ "ea0834f6a07ed2290da962e81bbfad5a2e2a7b9f9725e6359ed4d0bd453a6f5a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6501.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:57.057-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6501/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 53",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e0f65bab2188ac9fde680a4113b7e2e96daddb506d053f6802ad80aedf45b82a"}
+  {:article/id "law/6501/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "40f92872d1d731b903074e7472db9cf1aa5ab57ab3a84ef3f34ef9ec2998f911"}
+  {:article/id "law/6501/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1ac9de3e7421bcc05a166afbbd426c670c516db35cca253cffa34616b1f97550"}
+  {:article/id "law/6501/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "“75) Nevşehir Hacı Bektaş Veli Üniversitesi”",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a2315595caa4059eaeff957714d1398638345e610eccf4a7624d11dba1aac4c0"}
+  {:article/id "law/6501/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e3fcdf5b5ce193ece6bd8484bd0c0b970265f2f6060bc45c5cf53c80ca97a1d"}
+  {:article/id "law/6501/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "17c0d926c278838d72a884fcf59d857eaa6bd1cb69cba878a3f9c7a3ae55eb06"}]}

@@ -1,0 +1,174 @@
+{:document/id "law/6415",
+ :document/type :law,
+ :document/number "6415",
+ :document/title "TERÖRİZMİN FİNANSMANININ ÖNLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "6415-terorizmin-finansmaninin-onlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6415-terorizmin-finansmaninin-onlenmesi-hakkinda-kanun",
+ :document/sha256
+ "688ad5bbbc600bba78073bf810c23a2daa9370e752d57b54f4661b442a47d19f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6415.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:21.578-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6415/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4ba862932fd4f74d66125cc830768c32e3245dad96c8f73cafcf68062353d427"}
+  {:article/id "law/6415/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "52a95fe3371794e93764e99a8ba4468ea7b9877b0ad0eb1b9c55a2e2ab5b6c3e"}
+  {:article/id "law/6415/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7963d914f9d137f9ef8f61f9c23db01c42141cd044be91cec3a3fe7ce146d0cf"}
+  {:article/id "law/6415/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Terörizmin finansmanı suçu1",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "af47025399142964dc446609aec07a87493162ca818816fb956d4bcf52238e1c"}
+  {:article/id "law/6415/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "09f4059d03e83876ec076fb56c51ab57ab86e11165249b5bbe5b17045bd5c2d4"}
+  {:article/id "law/6415/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yabancı devletlerce yapılan talepler2",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3625bcb9fedda84a7bcb9403f9cadb478297dbd238badbb08c337074a26d715f"}
+  {:article/id "law/6415/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a30dd759e19766baf5d6b6ab214da15afc073334e17cca085e8cb7b0ae5950df"}
+  {:article/id "law/6415/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Araştırma",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "402057e2d2900418b60ec894234787b37f6fe1b584fe49518c53458acde3e52a"}
+  {:article/id "law/6415/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Değerlendirme Komisyonu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "de916c445dd0858a0dd65b733f689cac3606c767ac44827457d4be494e4faf74"}
+  {:article/id "law/6415/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Malvarlığının dondurulması kararına aykırılığın hukuki sonuçları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "29e6c6a6ab6cdc5719750267b1f413e3237fb6c5f4c44e87237fe2c34c2180d4"}
+  {:article/id "law/6415/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Kararın tebliğ ve ilanı",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "21b5f417f0fad0861c62aca938adb2d18a6aad58e6e38ca677e2b850a71d0b80"}
+  {:article/id "law/6415/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Malvarlığının dondurulması kararlarının icrası",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "f8f03797127b83936fbd03f0f8b88284cb3c54f7d3e945ed48819db1ea1253a2"}
+  {:article/id "law/6415/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Dondurulan malvarlığının yönetimi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "6513f66818ee8b7901905805ff8250d98144f5781b162828871897eaeb10bf91"}
+  {:article/id "law/6415/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Denetim",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "9a8e2cce918e05c3832ac7a293dcadf26174f5c67e690a949fc86d43046cace2"}
+  {:article/id "law/6415/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4ca52081f4dee5a924ce487add1a5a7c2fc5536479f2aae4b1f663ccf5686bee"}
+  {:article/id "law/6415/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "2aa509fb2253c143034cef3fc8be7bcb343c7346aeca013278c8072435202468"}
+  {:article/id "law/6415/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "İhdas edilen kadrolar7",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "ba9ce28344e03564616205fc647f8b6b7f6817fcc500a7d16e0eed9fc6631d3c"}
+  {:article/id "law/6415/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "34c9bed48f52bd066abcfafd446ddd4ba2d7c6e43bf02ad1a18466421ef47bdc"}
+  {:article/id "law/6415/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "b6552b84186be9642938d0829eec7cd73c8f040c7850c512b5f632577626eb43"}
+  {:article/id "law/6415/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Mevcut kararların uygulanması",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "749712c616c8c0cb32b68356d3cb7054af8f7a6c888d743401d92020ca0c7a32"}
+  {:article/id "law/6415/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "4e459414341cb6fcd4d225fff54668d25d485500ee80ec124a77b4dd57b60517"}
+  {:article/id "law/6415/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürütme",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "de2466cc1b8fd334c09500d6999937909ed1051753d203ed2c1b37b63749f5dc"}]}

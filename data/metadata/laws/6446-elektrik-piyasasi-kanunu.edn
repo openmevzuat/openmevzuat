@@ -1,0 +1,549 @@
+{:document/id "law/6446",
+ :document/type :law,
+ :document/number "6446",
+ :document/title "ELEKTRİK PİYASASI KANUNU",
+ :document/slug "6446-elektrik-piyasasi-kanunu",
+ :document/path "data/canonical/laws/6446-elektrik-piyasasi-kanunu",
+ :document/sha256
+ "bab15ace20d37b7813e32d8765281528716891a5c6e8dd44be68fac0995b0ad9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6446.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:27.207-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6446/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7f3fa79be309b2e0d2cfcb323fffff4ef444ef23057d9639c929a2074f4a4a9e"}
+  {:article/id "law/6446/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c37e262cceaa3f4c14a57a3c0cf1e3fa23023759e7710ed41a6f46094e26dfd1"}
+  {:article/id "law/6446/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar ve kısaltmalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6f2ba742ca39470fd7f3e178bbcf7e565b0c1eaf9046565de1473295abcb5304"}
+  {:article/id "law/6446/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "979316eed015ab5bab9d89513304df8fb8dbcaecab616f00bad749cbce44316b"}
+  {:article/id "law/6446/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Lisans esasları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "21cfef7fa6be475c4e54beb00015322e552a6b061cbb70ad3aa4fb8b8bc2ee04"}
+  {:article/id "law/6446/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Önlisans esasları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9c438f42d7623b7f28e605c3ca1afb234ba7c8824da8a1edb18373b119c5febc"}
+  {:article/id "law/6446/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Üretim faaliyeti",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "11d23db01db0a12a47009bc9cc127ba5789b74f43a172ad528b10e3bfe15e597"}
+  {:article/id "law/6446/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "İletim faaliyeti",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6d50d4db0254f52192bcad1afefc237efa801724155febf44ba3a686cf3a61ab"}
+  {:article/id "law/6446/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Dağıtım faaliyeti",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a4e540bd56697b7c4fdd43736c3598ccec0f721690e19a4291c39f93c576aa6b"}
+  {:article/id "law/6446/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Toptan ve perakende satış faaliyetleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "48d6feda8ecd645c28bdcbe506350f62518083b62742c0d001b1049ffdbf6917"}
+  {:article/id "law/6446/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Piyasa işletim faaliyeti ve EPİAŞ’ın kuruluşu",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "8bdb60214fcfb1324212a98dbf2a8639b929684929db7f4beeb652ff59171cb2"}
+  {:article/id "law/6446/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İthalat ve ihracat faaliyetleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0491e5d04a5a9dbd97f358c7fa766369b0f62946a4da896bc312cee0474421bd"}
+  {:article/id "law/6446/article/12/A",
+   :article/type :normal,
+   :article/no "12/A",
+   :article/title "Toplayıcılık faaliyeti",
+   :article/path "articles/madde-012-a.md",
+   :article/sha256
+   "d2bddb9ed7ba75f6ce7b2e17bfac820b392e1513d6108bfcc6e9be602cf4d898"}
+  {:article/id "law/6446/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Organize sanayi bölgelerince yürütülebilecek faaliyetler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "b0960ee45285f69c217187cd7174f59a5709f322d53107933f414ef4d74fea8e"}
+  {:article/id "law/6446/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Lisanssız yürütülebilecek faaliyetler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "bff163badc05bd4ed48a5efe166ee060859fc9a3c44304e5b3c4162fa417bb14"}
+  {:article/id "law/6446/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1997f5a7aa8f193352f35e57af6e8bcd5114cea736831caa468b3dda5b26fcd0"}
+  {:article/id "law/6446/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "8501a7cc40d826dbc783073dd453ef1f2aafe3380079b9863e210f28d78ec054"}
+  {:article/id "law/6446/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "089bc240db7b7094ee02f249dc9056c95fac1cbac9354e534ca237f1f58e8f7e"}
+  {:article/id "law/6446/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Özelleştirme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "f6da89cc4419873228d25bd82da649c31be9839fd6e58b68d8c5e77a0aac0ee7"}
+  {:article/id "law/6446/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Taşınmaz temini işlemleri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "400bdc4840f8d2af2b429a340744bc23bf37ed0a8f4e00bf81c099c3a8cc230c"}
+  {:article/id "law/6446/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Arz güvenliği",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "19859536902627633e24a0394d83b19a1696fd7d321d85ea9b2ee4a63d830cbd"}
+  {:article/id "law/6446/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "483fc6eac4a85fec62565ba6e4c97657195a3799a9d2c4eed48be2da5e2cb41e"}
+  {:article/id "law/6446/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Hizmet alımı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "09827a7573c7c1b4172952c0d4afeda3b1726806e139942576cbb94dfc60a788"}
+  {:article/id "law/6446/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Bağlantı görüşü",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "964b5517c4f73d4608ef63b17ea34ced0ac81d34dafb5ec6a8db2befc4f5b4a9"}
+  {:article/id "law/6446/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Rölekasyon",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "120d2bc9eb215facbfba33b1f9eddd9905391e2888aded93c638b9ae64540a98"}
+  {:article/id "law/6446/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Vergi ve harçlar",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "f695ae485b796e87bcb0d6f0aeed8d8a26f61c21fe358d1a106f96a9193eb8aa"}
+  {:article/id "law/6446/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "EÜAŞ’ın hak ve yükümlülükleri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "a88abdbffcd88a8637edec263491211c16807cee8d586a1dbbb3fc56ded615f7"}
+  {:article/id "law/6446/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "TETAŞ’ın hak ve yükümlülükleri",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "5a4b56614ea549ca9d525a48f5cc347bd0d5bb9f0796e2307b5c6d401a39d9e0"}
+  {:article/id "law/6446/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yatırım bedellerinin güncellenmesi",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "6b2f46d3ad8dba8d9febc475522d7a54a09d8ff0bbc73406ae2b513e6c4ad788"}
+  {:article/id "law/6446/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Hidrolik kaynaklara başvuruların değerlendirilmesi",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "3d65beadfaf463659ec00ece2368b45f6a97c788673308daad628ac557309811"}
+  {:article/id "law/6446/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "a63b7f364dc827dd05350bc178842eed84bbce3bdb820259dc705adc53299eb4"}
+  {:article/id "law/6446/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Atıflar ve yönetmelikler",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "263c52c314dace4c8b2cd558c5d507fb465ce6d55cc2803da8c96bcca2447941"}
+  {:article/id "law/6446/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "140ac284f2599a761fbdcb2fd6be64f029a60b0c560469c7f9da3cd83f0e5401"}
+  {:article/id "law/6446/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "18174508cfb1bf4f7a6099c74fe32f5a9df8b4b1ce189c78579c510708103c04"}
+  {:article/id "law/6446/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "86ffb96b3d8d17dc710b915cce0f1dcee0e994655efb287df64a82567211bee1"}
+  {:article/id "law/6446/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "4b4f3e2480bc0a4f0e06805079bb8c98c9f496725a4d5eaf4dc4e07849fd9ccf"}
+  {:article/id "law/6446/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Şarj hizmeti",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "a895887530b519cc1e1cab88746c4abd36ebb40b2a002caa0a268cbe339a8dde"}
+  {:article/id "law/6446/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "4e187d679fcd74625d40cd42fa3b95107851dd795a53d9f06cdb456877de8aae"}
+  {:article/id "law/6446/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "9893f964d48dad8e4debf356bf5c4d238244bf8b86b5301fbbe9bcccc7ae3912"}
+  {:article/id "law/6446/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Yap-işlet-devret sözleşmesi",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "6617f255fd96864d09a0f73e07d2be01ebf6969de42c2f6513528b6fadcad88e"}
+  {:article/id "law/6446/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Vergi düzenlemeleri",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "94f8df77368fe9f578581be133960c7aa3222789367baf6ba6d00b1173677687"}
+  {:article/id "law/6446/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title
+   "Arz güvenliğinin sağlanmasına yönelik düzenlemeler2425",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "8317b3505a2241f9f1e50983471445a025a3e39e1c8b36a4faedc2ff17a45332"}
+  {:article/id "law/6446/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Elektrik Enerjisi Fonu",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "221075e217f3518602f563a944c4c0d67042849659a533a1b855c73affe2367a"}
+  {:article/id "law/6446/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Genel aydınlatma2930",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "0b3a0e31a4fd8cd33eb732af70f676181d8fa67270370df2f8f6a9379980f1e0"}
+  {:article/id "law/6446/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title
+   "Otoprodüktör lisansının üretim lisansına dönüştürülmesi",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "d6b9200f757ad1b56ad4ca3d72488349be6e6acae7cec7e074ee06ae7ab773b5"}
+  {:article/id "law/6446/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title
+   "Üretim tesislerinin çevre mevzuatıyla uyumlu hâle getirilmesi",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "6f6777be621c38fe8ccaddc4126072c2dcd0b44ec57702206aa43a5e5811d9a7"}
+  {:article/id "law/6446/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title
+   "İşletmeye geçmemiş ya da geçememiş lisanslara yönelik işlemler",
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "50e9516b33b807a1dc28ba39cb56426dcd8e94742a31537c5428dfc92c7081e2"}
+  {:article/id "law/6446/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title
+   "Mevcut lisans başvurularının önlisansa dönüştürülmesi",
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "1b261db2e82611dc6b572fedc3f1cd47a364b180f8729dc7e6c8096ef1675798"}
+  {:article/id "law/6446/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title "Tedarik lisansı verilmesi",
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "d9678b1dfb4c0730fc8b10ca2b3667d867f3ce65a79bc5058683dac353bee62b"}
+  {:article/id "law/6446/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title
+   "Mevcut sözleşmeler kapsamındaki üretim tesisleri ile projelere lisans verilmesi",
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "b44106f7756d741f077dbaecb7ebe69f63fe4be7bd2df0cc631a5ecd8ab45711"}
+  {:article/id "law/6446/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title "Hazine yatırım garantisi",
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "c3fb376280bae91c22d2f88e08ce6275701acdde90bf3f7739c38eaf13c3a49c"}
+  {:article/id "law/6446/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title
+   "İnşaatına başlanmış olan tesislere yeni lisans verilmesi",
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "504731fcf2f0bf3e8c2f48c5e40457ea280afd114c1a78e435c89e5ed1ebccbd"}
+  {:article/id "law/6446/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title "Atıl hidroelektrik santralleri",
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "e98f22acee2077f1f784465df6bde86f2d686e63b756c5f95accfb0573f2ad98"}
+  {:article/id "law/6446/article/16",
+   :article/type :temporary,
+   :article/no "16",
+   :article/title "Devam eden iş ve işlemler",
+   :article/path "articles/gecici-madde-016.md",
+   :article/sha256
+   "c60aa3ba47df6a649de0a04bfaac0d05f124c0a9e260f1772641952bee2ebd29"}
+  {:article/id "law/6446/article/17",
+   :article/type :temporary,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/gecici-madde-017.md",
+   :article/sha256
+   "0717d79daffd3cbcdb609e082ca8937b68feec862f58ebffea0e7e1cc7aa30ae"}
+  {:article/id "law/6446/article/18",
+   :article/type :temporary,
+   :article/no "18",
+   :article/title
+   "Dağıtım sistemindeki kayıpların azaltılmasına ilişkin tedbirler",
+   :article/path "articles/gecici-madde-018.md",
+   :article/sha256
+   "2cffb17eace1e160edbcbf3933e2dcc2d2cb81c0497239734c83e8e8f4918bb2"}
+  {:article/id "law/6446/article/19",
+   :article/type :temporary,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/gecici-madde-019.md",
+   :article/sha256
+   "d4eb3586a2901c329ca9c829b3710c6460a51399621a2e4a057d9e78108c9a08"}
+  {:article/id "law/6446/article/20",
+   :article/type :temporary,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/gecici-madde-020.md",
+   :article/sha256
+   "d52e31f2aa70a4998f197f1deb2369f5600b4024e7b2f70b4fb77e15e6023471"}
+  {:article/id "law/6446/article/21",
+   :article/type :temporary,
+   :article/no "21",
+   :article/title
+   "Üretime geçememiş önlisans veya lisanslara ilişkin işlemler",
+   :article/path "articles/gecici-madde-021.md",
+   :article/sha256
+   "8c091a610ba9949fb40c75724a97521863856b1632453a4264809420581c07c6"}
+  {:article/id "law/6446/article/22",
+   :article/type :temporary,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/gecici-madde-022.md",
+   :article/sha256
+   "4af6157c266b8d3388751fea093a6e54795caaf30e598a98fc1faaca79a60226"}
+  {:article/id "law/6446/article/23",
+   :article/type :temporary,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/gecici-madde-023.md",
+   :article/sha256
+   "a31def516ea9a0a7d7b81039688fe68ff7c831bb60b5df4fc50ae3524d0cd6ca"}
+  {:article/id "law/6446/article/24",
+   :article/type :temporary,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/gecici-madde-024.md",
+   :article/sha256
+   "c5aac8ad7e4bb2b9361197954a742dbea3ccc1c86d6e51ecadd73d8d8044d154"}
+  {:article/id "law/6446/article/25",
+   :article/type :temporary,
+   :article/no "25",
+   :article/title
+   "Lisanssız üretim projelerinde tüketim bağı kurulması",
+   :article/path "articles/gecici-madde-025.md",
+   :article/sha256
+   "ac334aad096bcf0d90177885e84bb9052572ea45a673d66f20dc138b34899848"}
+  {:article/id "law/6446/article/26",
+   :article/type :temporary,
+   :article/no "26",
+   :article/title "Sözleşme süre uzatımı ve devir",
+   :article/path "articles/gecici-madde-026.md",
+   :article/sha256
+   "1c3b92b152266c96a021aff9e27d516e544d3ccc7dd383315932f176c824ad82"}
+  {:article/id "law/6446/article/27",
+   :article/type :temporary,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/gecici-madde-027.md",
+   :article/sha256
+   "763b01ddac31eb51c91dc485fb179bec3c1bb995402c46435f6da7aaa2e9d180"}
+  {:article/id "law/6446/article/28",
+   :article/type :temporary,
+   :article/no "28",
+   :article/title
+   "Taşınmaz teminine ilişkin devam eden iş ve işlemler",
+   :article/path "articles/gecici-madde-028.md",
+   :article/sha256
+   "753354f9985084d67eef9c93726ece70c5308a6a73dcbb11af756b52829767ca"}
+  {:article/id "law/6446/article/29",
+   :article/type :temporary,
+   :article/no "29",
+   :article/title
+   "Lisans ve önlisanslara ilişkin sonlandırma ve tadil hakkı",
+   :article/path "articles/gecici-madde-029.md",
+   :article/sha256
+   "495cb69397c97a7030ea0bb64f140754212dad57afb4a3e5480f5dcc5eb7aeae"}
+  {:article/id "law/6446/article/30",
+   :article/type :temporary,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/gecici-madde-030.md",
+   :article/sha256
+   "fca30af0f7c2648bbc2f776d1bf17d4add85cdba8ffb14a6c2b492bcee3d3c7b"}
+  {:article/id "law/6446/article/31",
+   :article/type :temporary,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/gecici-madde-031.md",
+   :article/sha256
+   "fd9d89e92363100da6e3d6c8991de882a2ae32c06f4fd410f62395863d2af39c"}
+  {:article/id "law/6446/article/32",
+   :article/type :temporary,
+   :article/no "32",
+   :article/title
+   "Lisans ve önlisanslara ilişkin sonlandırma ve tadil hakkı",
+   :article/path "articles/gecici-madde-032.md",
+   :article/sha256
+   "f5c5e4c8905625b416d1fec57e6c5a30cb86d075c07577db21e3bed5d70f1c1b"}
+  {:article/id "law/6446/article/33",
+   :article/type :temporary,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/gecici-madde-033.md",
+   :article/sha256
+   "2274e5bfc40c4a6fbe3e7f913e2349293e94234331be9f94a1aaf5caf44d788f"}
+  {:article/id "law/6446/article/34",
+   :article/type :temporary,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/gecici-madde-034.md",
+   :article/sha256
+   "1dc146bd506292fda7b1682cbd112dc63ef1d98891657c115f632c930eb17920"}
+  {:article/id "law/6446/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "ff945aa63a4723d7497e23dc6d36ca5001da0f7ea4d1b352431f5b1df314bfe6"}
+  {:article/id "law/6446/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürütme",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "32281fa9aa922d8371ec7d1cc851a28ace9fc463f5b9e4c16fda4a581bae6f44"}]}

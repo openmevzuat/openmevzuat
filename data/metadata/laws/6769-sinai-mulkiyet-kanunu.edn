@@ -1,0 +1,1309 @@
+{:document/id "law/6769",
+ :document/type :law,
+ :document/number "6769",
+ :document/title "SINAİ MÜLKİYET KANUNU",
+ :document/slug "6769-sinai-mulkiyet-kanunu",
+ :document/path "data/canonical/laws/6769-sinai-mulkiyet-kanunu",
+ :document/sha256
+ "2ebee380879a09e7efa4d755c6670ad4f53864d4bff9bb9bf3a5d1d69381fdc4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6769.pdf",
+ :source/fetched-at #inst "2026-07-16T03:03:01.916-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6769/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c39b4e477390579d57856bce3593439c99263d8797bb9c82a823024aef7beb8c"}
+  {:article/id "law/6769/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "66bb4324d3fdfc00329425d3af5aff7d2ea20cafe3b8155a5af5330c14b0c188"}
+  {:article/id "law/6769/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Korumadan yararlanacak kişiler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "91898a653138aafe84c741c8d5a48e7fcae9a4a0fa42ea11f7694ee8ca6c7070"}
+  {:article/id "law/6769/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9e96d31a4ea304a8ff12f478cabcc9443f6bd29e7c44138352a288dfd3362b28"}
+  {:article/id "law/6769/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Marka tescilinde mutlak ret nedenleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "278222b4434b5bc327fbb57fe47ff0a8f229bf5cf97360e0e66bfed00f9ace74"}
+  {:article/id "law/6769/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Marka tescilinde nispi ret nedenleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a1fb85996dd6704b68d85133b1a4548b395c20ab7ad211cceec2d1b0d9bc92d4"}
+  {:article/id "law/6769/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Marka tescilinden doğan hakların kapsamı ve istisnaları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2c772127a47df42283eabbb0597705e0f466803a630098a3c8d6ba48aa302d3c"}
+  {:article/id "law/6769/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Markanın başvuru eserlerinde yer alması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8b3656917fa2abc928fdab31959dc8cb63a2f5cb0c1af9e0d3cd8eb1946069a6"}
+  {:article/id "law/6769/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Markanın kullanılması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ed71dac4de2d60b6fc83622f42ad949743e9f4289470f37582f7ef1956396a8c"}
+  {:article/id "law/6769/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Ticari vekil veya temsilci adına tescilli markaya ilişkin talepler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "05aa864c926e4056ad370afccb1d136ba2b72e63d04650f099d733addd6da92a"}
+  {:article/id "law/6769/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "af8c660ed7b8f34d4dec2c273f09addc9609fa35c2fc3450bbbd8bddfce0ba79"}
+  {:article/id "law/6769/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Rüçhan hakkı ve etkisi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "dadcbca6f4f89215cbef256dcffd2bb13452b64c0619328fc7ecaf56fa58777d"}
+  {:article/id "law/6769/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Rüçhan hakkının talep edilmesi ve hükmü",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "09c6b9b5b25ccf84af76399c419ad0a85da70095806ec78530a1682f2d4c669d"}
+  {:article/id "law/6769/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Madrid Protokolü kapsamında yapılan uluslararası marka başvuruları",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "a96a633b7d42e253f48e0f3e8aafb9a5080d53ac87a015a5e48fa44c7a6939cf"}
+  {:article/id "law/6769/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Şeklî inceleme, şeklî eksikliklerin giderilmesi ve başvuru tarihi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "66e4cff1964ae73a5bfea648617348fcf4698f3256cc883fbe8c78cad6aafc27"}
+  {:article/id "law/6769/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Başvurunun mutlak ret nedenleri açısından incelenmesi ve yayımlanması",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "146bbf495c2ec02cb1c581aaca13386cc25b10b75b86e310b7e29ad1f9a084d1"}
+  {:article/id "law/6769/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c9ff9949508d15d7537a28041f1ed9406fb3f10e1d04bdd907e3002a81d62620"}
+  {:article/id "law/6769/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yayıma itiraz",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "75aa390626c578c1db49e5c17fa9d185746709a3a1084facee271389d18b28c1"}
+  {:article/id "law/6769/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yayıma itirazın incelenmesi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ba916ac19867624a6e19ce4d334a8754ee484f06b42c5383d7a2d8725c064822"}
+  {:article/id "law/6769/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Karara itiraz",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d4b7a59d604fa2c525b32f8103a3658cdc213cea8e15eda3cbdfb215e4a56225"}
+  {:article/id "law/6769/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Karara itirazların incelenmesi",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "4d8693e0c6001516931743b4c70c9450acee4611fc709e06e212bd7af220af22"}
+  {:article/id "law/6769/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "380a3b4862fa3a332277fddb0508e8599b802e06449be5796ad7a4fcdcf93be6"}
+  {:article/id "law/6769/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Koruma süresi ve yenileme",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "4da2c1d1265ec6f8a72be725871f0cf4fdbd6f48161f81473591544da6f65d67"}
+  {:article/id "law/6769/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "0168f1bd18714b4428514b30d02d5952f8fb61d891902281538a219902778124"}
+  {:article/id "law/6769/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "689ae198eca9073a161da675e3d63402008f2d5dadf1eb5b3062de2f1901cabb"}
+  {:article/id "law/6769/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "İptal hâlleri ve iptal talebi",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "c33230a74996bfb956610177bb449d1a75e58d4b488d18504124dec3fd88e159"}
+  {:article/id "law/6769/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Hükümsüzlüğün ve iptalin etkisi",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "3a22948530c70def59826a93ae3b76dd15a4bc990dda7e15eeae7aa925afb8c5"}
+  {:article/id "law/6769/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "15830094061666f3ba2200479ea486744353bb5eae9891416eb2c2f62bb25c34"}
+  {:article/id "law/6769/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "179c51ca07e8e99948d321cacab8806d820f2b069036757d91ada4822c5c3b44"}
+  {:article/id "law/6769/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Marka hakkına tecavüze ilişkin cezai hükümler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "578c2c092ef62de0d23fa815e5713aac222a301c2a2046e85c1776832a445489"}
+  {:article/id "law/6769/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "6f76d94e49dcaec8293c30810fa28ef3f4da5883ae864aea9922e4cde118432a"}
+  {:article/id "law/6769/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Garanti markası veya ortak marka teknik şartnamesi",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "5975e65e54f064d1a60503b853d5560138abbabb22536e99089b4155f65947c6"}
+  {:article/id "law/6769/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "5678f9dd9bb839b231fbe3f3a462d2fa5fd482dc9cefd32b952b105bec2f90e6"}
+  {:article/id "law/6769/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Menşe adı, mahreç işareti ve geleneksel ürün adı",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "c350b513f635460413fdbe5f2bc275586c6705b55124c8a7b11d8afb5050b7ee"}
+  {:article/id "law/6769/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Tescil edilmeyecek adlar",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "cb66133547c9e2865b15588949592cfe28f017b32aee1c0de6afe0ec8685d687"}
+  {:article/id "law/6769/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "e08244eb37e2fe212d241b2ae6771a3a9336616ebc6be907950e465220f75c0b"}
+  {:article/id "law/6769/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Başvuru şartları",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "a67f8fbd8f5320a8bc5c3ce12aee9f78b98b5c52b5912c6ae5427ce040f52985"}
+  {:article/id "law/6769/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Başvurunun incelenmesi ve yayımı",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "f7bca48289729e45841723b79f22e34cfd7fdf19a6444086301dfa74d13ebeee"}
+  {:article/id "law/6769/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yabancı ülke kaynaklı başvurular",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "6260bdb74db800e14df392f01ba1534b5b4c39e7ad4cc147690d88f58cd16bb2"}
+  {:article/id "law/6769/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "1583aa2b636c4cce172a23f72029deec80a7c3b7a50f7411cab1f7379246a9b6"}
+  {:article/id "law/6769/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "9578ac377253ca4ba508f2127d9fb681f0dbf9dcacd175ba3f1d7c5d861306fc"}
+  {:article/id "law/6769/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Değişiklik talepleri",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "f40ce4f25f71979b759ab36a49600c88d37bbbe4119a3a2da1f074c203e640f3"}
+  {:article/id "law/6769/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Başvuru yapan veya tescil ettirenlerde değişiklik",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "70f6092f312b0aa8e4e914ee69ecbe303c6af5da87e142a240da8da891514ccf"}
+  {:article/id "law/6769/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "5fd79e202c4ca03b87f0f639895b8380c447f2e32db4fd43f1d16f6df31dacd5"}
+  {:article/id "law/6769/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title
+   "Geleneksel ürün adı korumasının elde edilmesi ve tescilden doğan hakkın kapsamı",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "84328576f7498617297de50ab194d94698089f5d83ae66412518777f74e8fc42"}
+  {:article/id "law/6769/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title
+   "Tescilli coğrafi işaretin ve geleneksel ürün adının kullanımı",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "da5124077fb1064e0d93874b15fbff3c1b5f91de9c2f8ff63a41803af0e9c083"}
+  {:article/id "law/6769/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "İyiniyetli kullanım",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "e1432c0f1ffb68f726e0db5cab3770992c461ce51dd49999393661bde4ae0650"}
+  {:article/id "law/6769/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Markalarla ilişki",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "50b9ebb649d45daae3323689fcd42efcd273ad021fb60b36c639777b4c3947b7"}
+  {:article/id "law/6769/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Kullanımın denetimi",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "e93c3e16f58c51bade83bb43b43de48519529d5e24a5752706220dc7402bea34"}
+  {:article/id "law/6769/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "841be4550525fb9bbf02c81beecfe9004348630653ce2fa7fb0a76dff3080507"}
+  {:article/id "law/6769/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Hükümsüzlüğün etkisi",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "19290ed2f81e11fd8b52b39ac61b726244c37fb4cef8fb8b7ca66dfc4a3b1f79"}
+  {:article/id "law/6769/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title nil,
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "943693d8d86a69ce16af62f6f2512919f695975efb2ee2370528ec52ac24e5f3"}
+  {:article/id "law/6769/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title nil,
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "36f35201aa12a40f46c70ea88bbaf57c21abdb400e2b545b19de10876801fc13"}
+  {:article/id "law/6769/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title
+   "Geleneksel ürün adı hakkına tecavüz sayılan fiiller",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "a514008bb5a499f2fb6e1634a9ed7a8af21580bacd056f6bfb5964c00bd100de"}
+  {:article/id "law/6769/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title nil,
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "8843fa8e09e86c6afaf4d25ad64dbae804aa0785a6ad7443313f6839975a8f50"}
+  {:article/id "law/6769/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Yenilik ve ayırt edicilik",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "01cb52adc3976ce3b7871c28343d95257e644a2b8989318905f2a59423cbd8f6"}
+  {:article/id "law/6769/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Kamuya sunma",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "98198453f001a8a9e17175c7527282279a84020314849dd6126a835c28a06533"}
+  {:article/id "law/6769/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Koruma kapsamı ve koruma dışı hâller",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "ccc58964fee4024cd23702382a48ddf3288a465497b350bb1d622830f6b2c88e"}
+  {:article/id "law/6769/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Tasarım hakkının kapsamı ve sınırları",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "c2e515379fb8b8c1e9c77ea9dffe6afb71b7dc9c3824601af70276b0d6031d8b"}
+  {:article/id "law/6769/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Önceki kullanımdan doğan hak",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "d4254f2816b5ba267b541525db82fd315daa49d353c718e593171dc2e3532b58"}
+  {:article/id "law/6769/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title nil,
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "c232652c9092ea41331f6980534d4cb8e33a6044953631abc83d4a1cba88a099"}
+  {:article/id "law/6769/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Rüçhan hakkı ve etkisi",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "c98818253b14e044a220fa4b57610842f83b5f7a6947e6d589cf4822c2ef47ac"}
+  {:article/id "law/6769/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Rüçhan hakkının talep edilmesi ve hükmü",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "48102ae50ed392896f77d7680092549a047f9e6cdefe73a54a6e8fc7b01e6cad"}
+  {:article/id "law/6769/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "İnceleme",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "4f1ef88c06334da7933b1eed2c035397486eec3e008a5b20d42fb2002f32ab08"}
+  {:article/id "law/6769/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "6998b3709cc4c2e545a774ba5cda042bcde557b76cc931ba4a92322ce2c6bd77"}
+  {:article/id "law/6769/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Yayımın ertelenmesi",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "47b26b5d2e94cdc6af64399a78291b8790197c939874c8f1681285127bb9c0b4"}
+  {:article/id "law/6769/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title nil,
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "6d622e95491a07cfa97ff1f863d95bf767376bc6ce73efcb4e8a56886588a9f9"}
+  {:article/id "law/6769/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "İtirazın incelenmesi",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "5a105fd327baae8375a05a82ca762e43c3ee7cc79a6f7f4c6624034c9e10063c"}
+  {:article/id "law/6769/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title nil,
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "fa13b5a09c9794834afaec33c0c27d14e831b84aaa9631135331f65ed1f2fd6f"}
+  {:article/id "law/6769/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title nil,
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "69d058bea33af1053f2ac29a0efb2308b533e4a49a083846768eb4fbdcbdb5f3"}
+  {:article/id "law/6769/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Tasarımın gaspı",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "fc667bd408ad45ceb9be9ea9f93b25cdb3852fa6ccb75e4c258900ff6a625ace"}
+  {:article/id "law/6769/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Gaspın sona erdirilmesinin sonuçları",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "73a70e6bdbc8d4ab0c2f67d0702d4e72c8db9a48c721ff6233262c3fb8b425db"}
+  {:article/id "law/6769/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title nil,
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "17099ccea2e49aad9f4eb57d8f6568e93328ed125c4b89a6ca0784876f9a1d82"}
+  {:article/id "law/6769/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title
+   "Çalışanlar tarafından yapılan tasarımlara ilişkin hak talebinde bedel",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "f5839b0d98fca826066a8d67e74f022b67cb5502ecb5c28efd5c0883e68969f5"}
+  {:article/id "law/6769/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title nil,
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "9786a101e4ca0cd58d562ea47bdc3ef20d81d40412fe038566a59fb3c8fd8fd0"}
+  {:article/id "law/6769/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title
+   "Hakkın devrinden veya lisans vermekten doğan sorumluluk",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "cd8d0952368f6afe5123de701594cc203460037483ff6f410c5503a370d2226d"}
+  {:article/id "law/6769/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title nil,
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "4690433f470cf64ea383ce3f00ffda9ae85cfb93bb6fd8ea46d5087673b720d3"}
+  {:article/id "law/6769/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "Hükümsüzlük talebi",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "839ee32bf09507c97df478c6f9b164e9fff310fddc17ac4af6f464ec95025f3f"}
+  {:article/id "law/6769/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "Hükümsüzlüğün etkisi",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "381258e8919e8466ac708ae822c300da39d79ac4c3b689ef07dff8114a1a542f"}
+  {:article/id "law/6769/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title nil,
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "99a0be8a29f838a8f011138d564d0f2a942a444aea7d1ded3400d21ecd48feaf"}
+  {:article/id "law/6769/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title nil,
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "103f2dbce0e45d473fc4b8e2e96035d18defcc6a642d27c04f4bd420131dd4c6"}
+  {:article/id "law/6769/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title nil,
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "256b3b993b2be11449d03f70465f140bf6dae73ff54bfa55b1f0f490a78e98e6"}
+  {:article/id "law/6769/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title
+   "Yenilik, buluş basamağı ve sanayiye uygulanabilir olma",
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "b0215b4e5d16c4b6bed19dfb67356f04bf082c8b0992ce919097d4fdec20ece6"}
+  {:article/id "law/6769/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title
+   "Buluşa patent veya faydalı model verilmesini etkilemeyen açıklamalar",
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "57ac852ee34a3bc49dfff3d17700da0e5a5d71306157f6e3812c47a20b1a5b3c"}
+  {:article/id "law/6769/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title nil,
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "513b87d9338636ef40bb107cc07b55692659ac2d71f65c658779fa717d455f1f"}
+  {:article/id "law/6769/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title "Buluşun dolaylı kullanımının önlenmesi",
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "cdbdc2015ba951ef6d756f4537d53b8a4b8344f4aba06d4c1cff4d2bc84b4d46"}
+  {:article/id "law/6769/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title "Önceki kullanımdan doğan hak",
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "4392c0a5222190882bca4df95934c5f8cd746e127cda4fe7cf531362831629e4"}
+  {:article/id "law/6769/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title "Kanuni tekel",
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "31ba1147126aa5200a87f035e30d9e1ec8b2706abcaedde152b158c33d0863de"}
+  {:article/id "law/6769/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title "Korumanın kapsamı",
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "8eec2a5237abbc14e2fecd84cf2c447de297411899a6049e827e08fc80fbf6d0"}
+  {:article/id "law/6769/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title nil,
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "26d57b9c680d464712a1d8d49fcc68c04884fb4d3c7fde88bb23d4519bf2c3d2"}
+  {:article/id "law/6769/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title "Buluş bütünlüğü ve bölünmüş başvuru",
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "f570e6b9d4eb416fbde7f3fbc33909969c95335a9a3066ec796e7d8473a6895a"}
+  {:article/id "law/6769/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title "Buluşun açıklanması, tarifname, istemler ve özet",
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "89678c25436a5f479213834bcaee6f9078b8b78356ad83172f611c7098f4028b"}
+  {:article/id "law/6769/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title "Rüçhan hakkı ve etkisi",
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "23c5afff67eb1f6d9c366c02ae71afaca7ddb60a18918a4c20dbad17a482dff1"}
+  {:article/id "law/6769/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title "Rüçhan hakkının talep edilmesi ve hükmü",
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "f8f98d5d167e7cb826775c70b38f0a6a4b396371a156997a357462827425ae90"}
+  {:article/id "law/6769/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title nil,
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "12269b1a0838edbce95dac02d9936abaf30a1331bb511743f18876f608ee40cc"}
+  {:article/id "law/6769/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title
+   "Araştırma talebi, araştırma raporunun düzenlenmesi ve yayımlanması",
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "211bac29acbbbb04e8f776907d9c8e73da1bb5476a7acdb2071f9c59741cea5c"}
+  {:article/id "law/6769/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title "Başvurunun yayımlanması ve etkileri",
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "458dec8c6a81db94572b50461d3592e146d2b673c904328d650af3266e35abf5"}
+  {:article/id "law/6769/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title
+   "İnceleme talebi, inceleme raporunun düzenlenmesi ve patentin verilmesi",
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "f700db380b3d00b3e557ce40573fc73ce299ec8e84bbdb577572668621053f54"}
+  {:article/id "law/6769/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title nil,
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "2ccd793841c9684f12bdaeca238590d49f15b1eee7baee90ba455f5d0cbc691d"}
+  {:article/id "law/6769/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title "Kurum kararlarına itiraz",
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "7b4ec18ae7604669aa3cc79b11a74c1ed1c3d4d007f76aa9ff24609b9c670cca"}
+  {:article/id "law/6769/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title nil,
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "abc1f870f95b11a62643ff83b930f1a09c5960a8ab5da0889f240593a803bfa0"}
+  {:article/id "law/6769/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title nil,
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "c764eb29f730c0e45e53688d5d13e63898a2c1630e1109602c2c4a0f70ef8e93"}
+  {:article/id "law/6769/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title
+   "Patent başvurusunda ve patentte yapılacak değişiklikler ve düzeltmeler",
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "d86a849717f850fd32423b644fc50d805565aefcefd8dcf74222c8bbfe3ffbb8"}
+  {:article/id "law/6769/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title nil,
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "26405b34eed220a65338d6ac1dcb992263bf8c7b0bfa0ac9b5583d015e078d40"}
+  {:article/id "law/6769/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title "Patent başvurusunun geri çekilmesi",
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "b2a2a2623a7ad54376642822904443c8479150de3fbb9b8e4143d886509fa4ab"}
+  {:article/id "law/6769/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title "Sicile kayıt ve hükümleri",
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "f6ff7d1f7951b09dcce2b9d11a302f0d003b7d8c56c58869a6d97514039af9d0"}
+  {:article/id "law/6769/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title
+   "İşlemlerin devam ettirilmesi ve hakların yeniden tesisi",
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "d50eeb6295f23ab774d0263d49f142f3f7e9db4f342324e73be8d3b9ff253a75"}
+  {:article/id "law/6769/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title "Hatalı işlemler",
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "0b994bf669fa43e13f53df3b520e43801d47db97d66143786d26ee670478d8f8"}
+  {:article/id "law/6769/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title nil,
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "91547588ba38ef4f82b41388a85c54ddb1bf35106485e35704e11c50d2b95752"}
+  {:article/id "law/6769/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title
+   "Patent başvurularında hak sahipliğine ilişkin işlemler",
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "7c1e8c6f1ba43f834895faebc750bdffc3581bf91978abfd8a1cc99fb85a60ff"}
+  {:article/id "law/6769/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title
+   "Patentin gaspı ve gaspın sona erdirilmesinin sonuçları",
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "b17506b2954f0873b145aab51562a519bf56a669e73f7f1ec8495f1d2b8b8ec9"}
+  {:article/id "law/6769/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title "Ortaklık ilişkisi ve patentin bölünmezliği",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "e936848f5e23b5de402df89b22ee453b33b4d6674259c6c6562213ba6c2347e4"}
+  {:article/id "law/6769/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title nil,
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "c3b2f7deade12486dcb5947cd837dd031117b31ddcc9e7e473c1a8a8b36c786c"}
+  {:article/id "law/6769/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title "Hizmet buluşuna dair bildirim yükümlülüğü",
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "f58849636119cd57ad0b2084b8920fe295da9f085676980c9d310e47e8d45ad0"}
+  {:article/id "law/6769/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title
+   "İşverenin buluşa ilişkin hakkı ve hak talebinde bedel",
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "27ebc207501fc696c1d44507bcbf11dc9c3795d3f03d90cc0e3dbac8faec3b3d"}
+  {:article/id "law/6769/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title "Hizmet buluşu için patent başvurusu yapılması",
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "dbc41593216d9ad6dc8e3aafe1e1cb4036b18af158e41198e789e96efde456c4"}
+  {:article/id "law/6769/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title nil,
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "ef54445b6aba0ac532e5129a8b823e1a8d868190400add0a02871b1191382952"}
+  {:article/id "law/6769/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title
+   "Tarafların patent başvurusu ile ilgili hak ve yükümlülükleri",
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "87fca9e338f5a2dbb0216b3d777bbd6273c8902e0c24037c749945fc850df8e0"}
+  {:article/id "law/6769/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title
+   "Serbest buluş, bildirim yükümlülüğü ve teklifte bulunma yükümlülüğü",
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "6afaccbd74444a6b1e2be375745bd05cb5abca8b2a96db9d42f8b5801a66e455"}
+  {:article/id "law/6769/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title "Çalışanın önalım hakkı",
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "1687cef822de198fb7ae48445c2260b163ce7d7bf27a5afe0eb7752972115a7b"}
+  {:article/id "law/6769/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title
+   "Yükseköğretim kurumlarında gerçekleştirilen buluşlar",
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "6740ee1a6456d21056d8dc5a2755ad32090f90bff4dd562c3c559a4a760a27fd"}
+  {:article/id "law/6769/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title "Kamu destekli projelerde ortaya çıkan buluşlar",
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "c9866d9c6ed562d69433cf3e1abc4e05a262d885590bb7a95c4e56efa3ec2e5b"}
+  {:article/id "law/6769/article/123",
+   :article/type :normal,
+   :article/no "123",
+   :article/title nil,
+   :article/path "articles/madde-123.md",
+   :article/sha256
+   "c5f36302ebbd948680e753fc2a63b3c33016a4c4e524a93246fb515bd9ef8618"}
+  {:article/id "law/6769/article/124",
+   :article/type :normal,
+   :article/no "124",
+   :article/title "Gizli patent",
+   :article/path "articles/madde-124.md",
+   :article/sha256
+   "40ebb6a7bc60dc93c95441444b488c1611e7cdc547a1ff4be14ca9e365a7e896"}
+  {:article/id "law/6769/article/125",
+   :article/type :normal,
+   :article/no "125",
+   :article/title nil,
+   :article/path "articles/madde-125.md",
+   :article/sha256
+   "75b28d50c933bcd023bbfa85a13736678314c8dcf0e0ba1ebfbfc31489fcccd9"}
+  {:article/id "law/6769/article/126",
+   :article/type :normal,
+   :article/no "126",
+   :article/title "Bilgi verme yükümlülüğü",
+   :article/path "articles/madde-126.md",
+   :article/sha256
+   "c7b65347d564fdd8dd5316a8810ae3481765a2dfb4e5c4b1d9e801900c368b22"}
+  {:article/id "law/6769/article/127",
+   :article/type :normal,
+   :article/no "127",
+   :article/title
+   "Hakkın devrinden ve lisans vermeden doğan sorumluluk",
+   :article/path "articles/madde-127.md",
+   :article/sha256
+   "05119a53b46b93dde891a470d7a2d5f0ae09a1ac2d5f608a4eb88b96bd741fa6"}
+  {:article/id "law/6769/article/128",
+   :article/type :normal,
+   :article/no "128",
+   :article/title "Lisans verme teklifi",
+   :article/path "articles/madde-128.md",
+   :article/sha256
+   "790f73f900e44b0c801009be1618c5618283c6a1369c9baaa08a643e90a2a8e8"}
+  {:article/id "law/6769/article/129",
+   :article/type :normal,
+   :article/no "129",
+   :article/title nil,
+   :article/path "articles/madde-129.md",
+   :article/sha256
+   "66a15f51877daf2199200d99935610468efb62d8ec053899d06a73d76ed542e5"}
+  {:article/id "law/6769/article/130",
+   :article/type :normal,
+   :article/no "130",
+   :article/title "Kullanılmama durumunda zorunlu lisans",
+   :article/path "articles/madde-130.md",
+   :article/sha256
+   "0cd120d7af1b92017879692c9fff9cfa0d296b5a782e7a0fd08d8a91f99479fa"}
+  {:article/id "law/6769/article/131",
+   :article/type :normal,
+   :article/no "131",
+   :article/title
+   "Patent konularının bağımlılığı hâlinde zorunlu lisans",
+   :article/path "articles/madde-131.md",
+   :article/sha256
+   "4214dfe658cec883861008173ed146a6e7d8eb02cc8625c96e6eb67644bdd549"}
+  {:article/id "law/6769/article/132",
+   :article/type :normal,
+   :article/no "132",
+   :article/title "Kamu yararı nedeniyle zorunlu lisans",
+   :article/path "articles/madde-132.md",
+   :article/sha256
+   "ca8f5ccd809762aa02305742d2b17143a4e25e382f03fa4293b5c77f4651068d"}
+  {:article/id "law/6769/article/133",
+   :article/type :normal,
+   :article/no "133",
+   :article/title "Zorunlu lisansın hukuki niteliği ve güven ilişkisi",
+   :article/path "articles/madde-133.md",
+   :article/sha256
+   "7594506db8aaff09a181cfe17c3e47416c4f2cf4ca06e3549940a6076e30390a"}
+  {:article/id "law/6769/article/134",
+   :article/type :normal,
+   :article/no "134",
+   :article/title "Ek patentte zorunlu lisans kapsamı",
+   :article/path "articles/madde-134.md",
+   :article/sha256
+   "7661b69a7e7f0ca5a1c79a492adb69718809185b4bb36478dfcb36b73287d27b"}
+  {:article/id "law/6769/article/135",
+   :article/type :normal,
+   :article/no "135",
+   :article/title "Zorunlu lisansın devri",
+   :article/path "articles/madde-135.md",
+   :article/sha256
+   "41d8dca0b465c37b5c5ef9703e913524b1a734f960b6db3bee4f1b080e4c6ab5"}
+  {:article/id "law/6769/article/136",
+   :article/type :normal,
+   :article/no "136",
+   :article/title
+   "Şartlarda değişiklik talebi ve zorunlu lisansın iptali",
+   :article/path "articles/madde-136.md",
+   :article/sha256
+   "255cf57388aaa57df5f132b3325fd6a7c1d09beaeef7f197413c12efe698be79"}
+  {:article/id "law/6769/article/137",
+   :article/type :normal,
+   :article/no "137",
+   :article/title
+   "Sözleşmeye dayalı lisans hükümlerinin uygulanabilirliği",
+   :article/path "articles/madde-137.md",
+   :article/sha256
+   "d2faebfd58b6cae2566a524d863074743802af8ae4b3be1ada38ab0744337d96"}
+  {:article/id "law/6769/article/138",
+   :article/type :normal,
+   :article/no "138",
+   :article/title nil,
+   :article/path "articles/madde-138.md",
+   :article/sha256
+   "dd4637b9f97764d924abd4a2a927a6f4d4b73c4427b9c2092b9a026a66310583"}
+  {:article/id "law/6769/article/139",
+   :article/type :normal,
+   :article/no "139",
+   :article/title "Patentin hükümsüzlüğünün etkisi",
+   :article/path "articles/madde-139.md",
+   :article/sha256
+   "d72cb00114d0a638bd45bd2d2c35b72548c4bfff00a96407036c21cfb3eb97d3"}
+  {:article/id "law/6769/article/140",
+   :article/type :normal,
+   :article/no "140",
+   :article/title nil,
+   :article/path "articles/madde-140.md",
+   :article/sha256
+   "85ec820d5a02cbf371707d04317fcba431ac88349024704957979b2e02d0914f"}
+  {:article/id "law/6769/article/141",
+   :article/type :normal,
+   :article/no "141",
+   :article/title nil,
+   :article/path "articles/madde-141.md",
+   :article/sha256
+   "8cf10feb1ec74aa32313c3a805fc10bb0efcea5500c75c37ee30c66bac618a95"}
+  {:article/id "law/6769/article/142",
+   :article/type :normal,
+   :article/no "142",
+   :article/title nil,
+   :article/path "articles/madde-142.md",
+   :article/sha256
+   "fb9c9c0a7ecba00b677110ed72b6fc1616061837e2046032b82fe9f677b53716"}
+  {:article/id "law/6769/article/143",
+   :article/type :normal,
+   :article/no "143",
+   :article/title
+   "Şeklî inceleme, araştırma talebi, itiraz ve faydalı modelin verilmesi",
+   :article/path "articles/madde-143.md",
+   :article/sha256
+   "9bf93f28f044667fff1d8bea3becce281fc72d90960245734dbcd10ecbc9467f"}
+  {:article/id "law/6769/article/144",
+   :article/type :normal,
+   :article/no "144",
+   :article/title "Faydalı modelin hükümsüzlüğü",
+   :article/path "articles/madde-144.md",
+   :article/sha256
+   "c43b7744cb201ce060ea00a433f70a6c69e1a767c1828708706b895c74ef26ae"}
+  {:article/id "law/6769/article/145",
+   :article/type :normal,
+   :article/no "145",
+   :article/title
+   "Patentler ile ilgili hükümlerin uygulanabilirliği ve çifte koruma",
+   :article/path "articles/madde-145.md",
+   :article/sha256
+   "1e9fbf9a66dedd827ef6de89bbb1fffee2a2cf5a3b8fac0deba6dcd12ae0d03e"}
+  {:article/id "law/6769/article/146",
+   :article/type :normal,
+   :article/no "146",
+   :article/title nil,
+   :article/path "articles/madde-146.md",
+   :article/sha256
+   "f7d34c6509c56bb86d89e61ce200d8fa62273f1397902abd387a8105e9da6cc3"}
+  {:article/id "law/6769/article/147",
+   :article/type :normal,
+   :article/no "147",
+   :article/title "Ortak temsilci",
+   :article/path "articles/madde-147.md",
+   :article/sha256
+   "e373e0e3119766ca55501d4a317bcd5a867e6c04d749abe26f4895e54cf14c1a"}
+  {:article/id "law/6769/article/148",
+   :article/type :normal,
+   :article/no "148",
+   :article/title "Hukuki işlemler",
+   :article/path "articles/madde-148.md",
+   :article/sha256
+   "98701b784680e523fb75d8af963ad33a88947564529f1eb6c6b45f74d4320d70"}
+  {:article/id "law/6769/article/149",
+   :article/type :normal,
+   :article/no "149",
+   :article/title
+   "Sınai mülkiyet hakkı tecavüze uğrayan hak sahibinin ileri sürebileceği talepler",
+   :article/path "articles/madde-149.md",
+   :article/sha256
+   "8aff20216087a39850e41a1bcc9e3c8267f655b99a168727e417c837367d7c17"}
+  {:article/id "law/6769/article/150",
+   :article/type :normal,
+   :article/no "150",
+   :article/title "Tazminat",
+   :article/path "articles/madde-150.md",
+   :article/sha256
+   "5717d18e07d26b02efb75494b9c06bd596fd1c9179d80a041502ff0e33a4e1b6"}
+  {:article/id "law/6769/article/151",
+   :article/type :normal,
+   :article/no "151",
+   :article/title "Yoksun kalınan kazanç",
+   :article/path "articles/madde-151.md",
+   :article/sha256
+   "6ec4036b5b0d2da210e31c213b5b845c441d53e859d2e6b26135a1537d1fdd31"}
+  {:article/id "law/6769/article/152",
+   :article/type :normal,
+   :article/no "152",
+   :article/title "Hakkın tüketilmesi",
+   :article/path "articles/madde-152.md",
+   :article/sha256
+   "a8553ac2aaa86868718a098f2bdc0b0e346b238c6b96b86e4cdf37eefcfaf091"}
+  {:article/id "law/6769/article/153",
+   :article/type :normal,
+   :article/no "153",
+   :article/title "Dava açılamayacak kişiler",
+   :article/path "articles/madde-153.md",
+   :article/sha256
+   "07b7735dd09801aec2ff667e9dcc3f2fa308b8ff54d7e7b2ec3eea4683dc91e8"}
+  {:article/id "law/6769/article/154",
+   :article/type :normal,
+   :article/no "154",
+   :article/title
+   "Tecavüzün mevcut olmadığına ilişkin dava ve şartları",
+   :article/path "articles/madde-154.md",
+   :article/sha256
+   "9af8882d7706398db86f9a57e846e7ddd47e7e0e0c02d41d4c0b386e1656b522"}
+  {:article/id "law/6769/article/155",
+   :article/type :normal,
+   :article/no "155",
+   :article/title "Önceki tarihli hakların etkisi",
+   :article/path "articles/madde-155.md",
+   :article/sha256
+   "ab9501d3603934dde102f64df4fc26dc49473a644998ebabc030cace1e134563"}
+  {:article/id "law/6769/article/156",
+   :article/type :normal,
+   :article/no "156",
+   :article/title "Görevli ve yetkili mahkeme",
+   :article/path "articles/madde-156.md",
+   :article/sha256
+   "6a46f74dda3bac61d94c6f5220c93ee5b98b959c16bb0c87f13ae897be590d43"}
+  {:article/id "law/6769/article/157",
+   :article/type :normal,
+   :article/no "157",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-157.md",
+   :article/sha256
+   "ac44f05d8aec4508fb7c5b86ede6bf422b68851d95485df48260c03b0daa1a3b"}
+  {:article/id "law/6769/article/158",
+   :article/type :normal,
+   :article/no "158",
+   :article/title "Lisans alanın dava açması ve şartları",
+   :article/path "articles/madde-158.md",
+   :article/sha256
+   "7caaf87b9a8862ee45a83db62d2275a6ef07f975f0f321eeda12fefd82fc0536"}
+  {:article/id "law/6769/article/159",
+   :article/type :normal,
+   :article/no "159",
+   :article/title
+   "İhtiyati tedbir talebi ve ihtiyati tedbirin niteliği",
+   :article/path "articles/madde-159.md",
+   :article/sha256
+   "5d3d7533c28c507eb3494b26456d3aaa5e2bc0c58444d37700cfc141890a20c0"}
+  {:article/id "law/6769/article/160",
+   :article/type :normal,
+   :article/no "160",
+   :article/title "İşlem yetkisi olan kişiler ve tebligat",
+   :article/path "articles/madde-160.md",
+   :article/sha256
+   "ca28174e3262d36490d3bd8e868c07e37b774f86bfee44f856bcc9ccda5fda3f"}
+  {:article/id "law/6769/article/161",
+   :article/type :normal,
+   :article/no "161",
+   :article/title "Ücretler, ödenme süreleri ve sonuçları",
+   :article/path "articles/madde-161.md",
+   :article/sha256
+   "a2db7d7ee5e791aac4a366e2617eea6a6da2b7993e5f0d38cbaad84c6ba2159b"}
+  {:article/id "law/6769/article/162",
+   :article/type :normal,
+   :article/no "162",
+   :article/title "Kararların uygulanması",
+   :article/path "articles/madde-162.md",
+   :article/sha256
+   "151abcd8c3ff4cebc9eb55862cb03b971ef4335c50b865e2ad541aece85df12c"}
+  {:article/id "law/6769/article/163",
+   :article/type :normal,
+   :article/no "163",
+   :article/title "Hızlı imha prosedürü",
+   :article/path "articles/madde-163.md",
+   :article/sha256
+   "7d1077e2af50a4411377fb8a897e80724a5d389a50ea924b37dfd5cc8124fb3d"}
+  {:article/id "law/6769/article/164",
+   :article/type :normal,
+   :article/no "164",
+   :article/title "Geleneksel ürün adlarına uygulanacak hükümler",
+   :article/path "articles/madde-164.md",
+   :article/sha256
+   "e1278c3041071886568619a3f363d4b3005719fc49e8b8a8a20dd39c1b41b357"}
+  {:article/id "law/6769/article/165",
+   :article/type :normal,
+   :article/no "165",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-165.md",
+   :article/sha256
+   "b5dc03c937ffaf37bd0de363dd9e83523a1b29c90f1da58314aed33a61e2b5e2"}
+  {:article/id "law/6769/article/185",
+   :article/type :normal,
+   :article/no "185",
+   :article/title nil,
+   :article/path "articles/madde-185.md",
+   :article/sha256
+   "a2669cbe687e3375ff0c4ee00689bdf67c2e0ac88f1683877bdc76348bf86002"}
+  {:article/id "law/6769/article/186",
+   :article/type :normal,
+   :article/no "186",
+   :article/title nil,
+   :article/path "articles/madde-186.md",
+   :article/sha256
+   "fb91f61b7174cc6e6442341d35883ce740e6a67fd6230ce18894c4dcbc08a611"}
+  {:article/id "law/6769/article/187",
+   :article/type :normal,
+   :article/no "187",
+   :article/title nil,
+   :article/path "articles/madde-187.md",
+   :article/sha256
+   "311a72d892452710cfcafb9d65dd52a81ca7faeca68d62d21cfd59534dd5063c"}
+  {:article/id "law/6769/article/188",
+   :article/type :normal,
+   :article/no "188",
+   :article/title nil,
+   :article/path "articles/madde-188.md",
+   :article/sha256
+   "4fa2f0128f49ea7871665afee8b6f2ce16821471e119faad3c2cfe647ec48757"}
+  {:article/id "law/6769/article/189",
+   :article/type :normal,
+   :article/no "189",
+   :article/title nil,
+   :article/path "articles/madde-189.md",
+   :article/sha256
+   "0c225a2e50b45f13ae4fc832a74ecd94a365389427dad16b1227c06e8c0347ef"}
+  {:article/id "law/6769/article/190",
+   :article/type :normal,
+   :article/no "190",
+   :article/title "Atıflar",
+   :article/path "articles/madde-190.md",
+   :article/sha256
+   "3345f1a80dcb7390083bea77d95bbb7dbe729a8c29fb34b7d28a187928315fe9"}
+  {:article/id "law/6769/article/191",
+   :article/type :normal,
+   :article/no "191",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-191.md",
+   :article/sha256
+   "ebfc826105383bded6c936f61445549824b60a5f05b4d35b3520fe74cf94fca1"}
+  {:article/id "law/6769/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e42dd3b88243d623c2e1a4ed9b7a9a71f4ce213dc8cdd5a43db57aa79820484a"}
+  {:article/id "law/6769/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Mevcut yönetmeliklerin uygulanması",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "86e4edeebf0aa54cccd1cc7e584fecc92be36c754703a5b8dfb611133a16f4df"}
+  {:article/id "law/6769/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Suç eşyalarının imhası",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "2c2418c7bd8b8f974eed96e5f944eb9e52fe5e479aa65ffa5bcc26caf0da3a65"}
+  {:article/id "law/6769/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title
+   "İptal yetkisinin mahkemeler tarafından kullanılması",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "1b12baebc756c8b48072aa18c22f895543d0cd42d055f1a09b0dd7865d98a6bd"}
+  {:article/id "law/6769/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Yenileme talepleri",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "286ecea4bffe0f23e1d320453a37b4f829a845111f6018d7b106d5927b8eb15a"}
+  {:article/id "law/6769/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Görülmekte olan davalar",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "abffb7f7358008d18f7dff98c077549175b23f630a9d177c75bd348968523624"}
+  {:article/id "law/6769/article/192",
+   :article/type :normal,
+   :article/no "192",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-192.md",
+   :article/sha256
+   "c30d9e2c6bc47355ad1edd24de317a828c5793d672d8c24806981f2ae978a624"}
+  {:article/id "law/6769/article/193",
+   :article/type :normal,
+   :article/no "193",
+   :article/title "Yürütme",
+   :article/path "articles/madde-193.md",
+   :article/sha256
+   "9d9ad323df65b2d77cb6610c66d4cd7d2f7134660b861b6d5977887ea9fefbdb"}]}

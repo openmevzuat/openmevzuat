@@ -1,0 +1,179 @@
+{:document/id "law/6320",
+ :document/type :law,
+ :document/number "6320",
+ :document/title "ÇAVUŞ VE UZMAN ÇAVUŞ KANUNU",
+ :document/slug "6320-cavus-ve-uzman-cavus-kanunu",
+ :document/path "data/canonical/laws/6320-cavus-ve-uzman-cavus-kanunu",
+ :document/sha256
+ "0e900166d7fdad09d53d28e255f39cf7456d9757de9fc3c212ee4f55d6f0dbeb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6320.pdf",
+ :source/fetched-at #inst "2026-07-16T02:59:20.948-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6320/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Seçme ve yetiştirme",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1f175fde33127a518cd087a6b2983fdb91dd20a60151a323e429d1b9fd845500"}
+  {:article/id "law/6320/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Çavuş olamıyacaklar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "18d0747e97b77e200bcca9e91b14de202e78274d979818327187bf15058d1120"}
+  {:article/id "law/6320/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kursta başarı gösteremiyenler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "739ff764bba3e3752d31178367d0f82ddfa3051c38e1df58a917f81255866fe2"}
+  {:article/id "law/6320/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5bae908e326f0c063bd5ac31a400625a82da741714b0a674d7bf215f807c0675"}
+  {:article/id "law/6320/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Uzman çavuşluk şartları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b0c2fe2c3d71e7bb9ecbf31d79400f854fe232d2bc10ca5496acf83c542acf0e"}
+  {:article/id "law/6320/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Uzman çavuşluk sürelerinin uzatılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4d7e90f6d9f5d844a74bedbc3c69cdd45dd30e35568b4a3eb278bd072bdd9ba0"}
+  {:article/id "law/6320/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Uzman çavuşların astlık, üstlük münasebetleri ve cezai muameleleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "ad6e93bdcf86576dc4f987d3f2743a0d665f009229377e1de6c75be270f8d7bc"}
+  {:article/id "law/6320/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "680346637f45c358a87056c96582407363cd4dc915358f855b6387dd151e9bc4"}
+  {:article/id "law/6320/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Tank, denizaltıcılık ve dalgıçlık tazminatı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f86c4bc7b9f70ce3f73d13d9f45b9a683f8c3cf831e89e7ae76edbd8ea9a7e0b"}
+  {:article/id "law/6320/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "aca7572b707a689d4491e3b84c149b0983ded51944bce3b5b373ec5967d5f41b"}
+  {:article/id "law/6320/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Uzman çavuşların yiyim, giyim, bakım işleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "ad2982145433d07c29bcac6778693f9f1ce5aa18620b7c1bed185bcb184abbf4"}
+  {:article/id "law/6320/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "2d28a06e626ecc641d9e17140119603a3f40d22a21ff13b9513f6767cfaee714"}
+  {:article/id "law/6320/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "İzin",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "4317f92dbc401b5cf706b8710468c46660fc17b1f7957cf85927cb8efba3096b"}
+  {:article/id "law/6320/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Başarı gösteremiyenlerin terhisi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "6fe1caf261836724e8fdffe958523a22964482cef28a1d57fcb719980525f1cf"}
+  {:article/id "law/6320/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "İkramiye",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "741a39fd685202bc771b6e92ab062f07a6c3120a3e45b4f1cce814bfefdd19f3"}
+  {:article/id "law/6320/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Kıyafet",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "c774265df8dce33fa35b685116c4f78bf5d9176d3f349aa0f0bff1226fe38423"}
+  {:article/id "law/6320/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "26670db4c949ba6759cf3c1f804b25160d65a89cfa046c2b1bebf8467cb7f5f0"}
+  {:article/id "law/6320/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "e39f984c16925d09724a0305206cdedb054b452f15233a0096a170f7422ead97"}
+  {:article/id "law/6320/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "87021256cf712c77a3b07871e4688a807f5a84154770385933a598395e08f536"}
+  {:article/id "law/6320/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "c782648cbe97bbc696e52da34fb04c2939f22a80fd63f83887bb74d920235a78"}
+  {:article/id "law/6320/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "24ff713c476728d62cf88172c6c899c1f1f54e1dc5272e1dc7659a382fe3a430"}
+  {:article/id "law/6320/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "fdb8102b0874715e0fa552a75010736a622ef43c230e1e35f34e3675393a470e"}
+  {:article/id "law/6320/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "b667cc357c8d2da4d56a59f4ab698048a1e96099ad332c7b72b9a05632e99fe9"}]}

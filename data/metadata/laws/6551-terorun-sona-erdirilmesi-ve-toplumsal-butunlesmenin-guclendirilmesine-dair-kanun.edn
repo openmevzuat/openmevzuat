@@ -1,0 +1,62 @@
+{:document/id "law/t5-6551",
+ :document/type :law,
+ :document/number "6551",
+ :document/title
+ "TERÖRÜN SONA ERDİRİLMESİ VE TOPLUMSAL BÜTÜNLEŞMENİN GÜÇLENDİRİLMESİNE DAİR KANUN",
+ :document/slug
+ "6551-terorun-sona-erdirilmesi-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/6551-terorun-sona-erdirilmesi-ve-toplumsal-butunlesmenin-guclendirilmesine-dair-kanun",
+ :document/sha256
+ "e0b85b1cdeba0c0614e6cc4aaf792df998629b73d8102f07c226034c84d1eecb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6551.pdf",
+ :source/fetched-at #inst "2026-07-16T03:01:19.404-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-6551/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7d3ad0b44849d762279b1215fea1fdcc1229073a51b9db0796bae4d3c5272e93"}
+  {:article/id "law/t5-6551/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Uygulama, izleme ve koordinasyon",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "85abdfa84542733b094c48f0e322715269fa5c79f4a74dab1ce6778b072d5d61"}
+  {:article/id "law/t5-6551/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yetki ve sekretarya",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9a3a57064810b67989c8c02858e1df521ef5c23c7919ccd199f243636310a19f"}
+  {:article/id "law/t5-6551/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kararlar ve yerine getirilmesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "bba9597b880234fd4f241f027529e588d23249dd81f0fb5da5174d5d0156badd"}
+  {:article/id "law/t5-6551/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/t5-6551/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c4fbe536e9a21945473c37b35ffd611a6cb171e13ce899781c09425f6ea05cb4"}]}

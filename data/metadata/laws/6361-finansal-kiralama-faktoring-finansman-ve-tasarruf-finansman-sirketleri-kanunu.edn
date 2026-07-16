@@ -1,0 +1,498 @@
+{:document/id "law/6361",
+ :document/type :law,
+ :document/number "6361",
+ :document/title
+ "FİNANSAL KİRALAMA, FAKTORİNG, FİNANSMAN VE TASARRUF FİNANSMAN ŞİRKETLERİ KANUNU",
+ :document/slug
+ "6361-finansal-kiralama-faktoring-finansman-ve-tasarruf-finansman-sirketleri-kanunu",
+ :document/path
+ "data/canonical/laws/6361-finansal-kiralama-faktoring-finansman-ve-tasarruf-finansman-sirketleri-kanunu",
+ :document/sha256
+ "f457f9010bcffadf289a7712397256192395eef530d2f2102c9f14b7d8c40305",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6361.pdf",
+ :source/fetched-at #inst "2026-07-16T03:00:05.637-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6361/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "29727de1981d3276c3e92bffd9b33b3f900e45da9f3d234ea47b2ca21e28ff10"}
+  {:article/id "law/6361/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "91df15a1b849dcc5d88239e27be0cfea7214f4f720e37fbc2571651f2b3cada4"}
+  {:article/id "law/6361/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c8e1c16750ff0f3ff98c04be456da04f38f9b788d9ce60eb182e71fc8b1797c6"}
+  {:article/id "law/6361/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9247e2705fe31f89ac993d4048d1bbc868ad6d3fbe67daa596a84add0a200366"}
+  {:article/id "law/6361/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kuruluş şartları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "907cbb7a0bb4e2f780f1bafda16d5b228d2769b63cfa767507a61dcd9feb451a"}
+  {:article/id "law/6361/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kurucularda aranan şartlar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1cf000698ade2686201b8bccd0caed2d4bcc98e1bce7f97dbe87e40036d56ace"}
+  {:article/id "law/6361/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Faaliyet izni",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "15f7f10348f14e208c06c98a04302fb8f9d2b9c4597d1be1a134e134d1af4428"}
+  {:article/id "law/6361/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Şubeler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "04513ec57c39ccd2ef566e8a9e69b0d15585ea89e17b3966e7af433f7cb4f2a1"}
+  {:article/id "law/6361/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Şirketin yapamayacağı iş ve işlemler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c042be1be6ce119679dfa56b8260231c0f3ac6c810274a28bcee26a38accbbec"}
+  {:article/id "law/6361/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c806e8933108546d7feddc1830b97efa524694dfe2f0df5087e52b493f8138fb"}
+  {:article/id "law/6361/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Pay edinim ve devirleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "f4889224bcb6762a392207f3a97c0e6cb084bfec309112a518bcf12ae243d499"}
+  {:article/id "law/6361/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "79a07a5e009fff73b683face4adab8cbf4b02c8d05cb7a3ef8ccc889670ad71e"}
+  {:article/id "law/6361/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "772896371dd58c44f86ab10df7fbc6736758c10de1c4e195bbb93f9b406b9269"}
+  {:article/id "law/6361/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "551d069a1a4270775720ebde7d401ee6436f7e732294d4355d1aa0b332e576b2"}
+  {:article/id "law/6361/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Koruyucu düzenlemeler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "07db0333a495e2545ba16a8cb1bfecf866d79b0098ad3c858bc69dcf4cbbdd12"}
+  {:article/id "law/6361/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Karşılıklar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "65ba30f052d81afc5018f08eee2aed436f8ebd565ebc87d813916e400229d3ca"}
+  {:article/id "law/6361/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Denetim, gözetim ve bilgi verme",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "cb230b20d8a1344968d975e3f3b064e471c612d66aadd267fcc35dc5280c60f1"}
+  {:article/id "law/6361/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8f40a25e499cab85e566966d67e7cbc900777f5f93a61d73255e817a44ff6935"}
+  {:article/id "law/6361/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Sözleşmenin konusu",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a0ce0ae8ff97e8f04fcdf18387abd1eb1e2af32c048d77ed9cf3a23094947fd2"}
+  {:article/id "law/6361/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Finansal kiralama bedeli",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "f8f8fd2d9b74d412eb34047e5acdc80407d3cfa382c009d63c6776bd5ae8f8a8"}
+  {:article/id "law/6361/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yurt dışından yapılacak finansal kiralamalar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "6064f261206aeafc640a0d3aa78a02f2d562651cbbf2555315ec666f83687456"}
+  {:article/id "law/6361/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Sözleşmenin şekli ve tescili",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "96c632e7ff67d75c415a78d3ab7a0c511c1f96f05749fd5c0ba636874ca277a7"}
+  {:article/id "law/6361/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Finansal kiralama konusu malın satın alınması",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "02d29ca1417eafee9be8f259562072e5e17cab97a0d03024a5d9226de34f177e"}
+  {:article/id "law/6361/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Tarafların hak ve borçları",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "9b198de36d5c3f19d874de982bca3f04d518aeaa642430c0210fe2f263ba4a39"}
+  {:article/id "law/6361/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Malın kiracıya teslim edilmemesi",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "0878fbc87ae03b2f859edef90824fb9ee2f2a940d1ea9f5c01e5a8a22a3b4829"}
+  {:article/id "law/6361/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Zilyedliğin ve kiracılık sıfatının devri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "03953f18d77d293f173f3e91f460e81f9415707a7a88c194fe023d9b4de9abac"}
+  {:article/id "law/6361/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Mülkiyetin devri",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "db7f0626091e54f6b2f5637e8ffc1d10cda6805f2830861fc11d41f23096fb0e"}
+  {:article/id "law/6361/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Kiracının iflası veya icra takibine uğraması",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "2d7e4d5baeea28dc926164d6393643ec2154cd664ead5086a529da3aea0698e1"}
+  {:article/id "law/6361/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Kiralayanın iflası veya icra takibine uğraması",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "b815e2c9cfdfc03d8ad8a78d03c5115b5393eb3193fbc042309a74848cba58ac"}
+  {:article/id "law/6361/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Sözleşmenin sona ermesi",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "cacca25787d1a3db9bc085cbf51f1bcbc070b1b48db6eea7077b584cff9b075b"}
+  {:article/id "law/6361/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Sözleşmenin ihlali",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "56954b7f885b5bbdb016f512b13def437c43f0938e4fb4a8afe1b108ed6a0713"}
+  {:article/id "law/6361/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Sözleşmenin sona ermesinin sonuçları",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "0ba6ddd3ee008a58d9326d0933600a843bc576124996ed7a7da053ea5b99e66d"}
+  {:article/id "law/6361/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Sözleşmenin feshinin sonuçları",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "294990b5edbfd9c406e2fb43682199281685c8bc98b41a22e412223058de360d"}
+  {:article/id "law/6361/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "94f40175abbdccac7b9f99a945677791206dab218b9acc4410d01f049d403db9"}
+  {:article/id "law/6361/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Teşvik",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "99e25b51732ecd2827123e7c542dbd9534f2c2e1431ee0ded486ed1bc1315d32"}
+  {:article/id "law/6361/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Gümrüğe dair hükümler",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "7b8da7808d95e74e432e297a0b90286ef093e34b055265eb9d9f83b809e41abd"}
+  {:article/id "law/6361/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "İstisnalar ve vergi nispetinin tespiti",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "422283164bbe926ac8952698c2296f30122e507601d1d068beb5fa833cbfe742"}
+  {:article/id "law/6361/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "9976173cf43317502ee53a34f75dc647ec36263d24a3be3d1560ba07b809cb04"}
+  {:article/id "law/6361/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Finansman sözleşmesi",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "2b24527a49806e4485d8af187c9ca4ab27d2f7b92c97890b9be6ecdad2b9d144"}
+  {:article/id "law/6361/article/39/A",
+   :article/type :normal,
+   :article/no "39/A",
+   :article/title nil,
+   :article/path "articles/madde-039-a.md",
+   :article/sha256
+   "e13f9279c7c790a0350a35c6e90a1e167ad7151f52ae2abd1a5e2bc73457a82b"}
+  {:article/id "law/6361/article/39/B",
+   :article/type :normal,
+   :article/no "39/B",
+   :article/title "Tasarruf finansman faaliyeti",
+   :article/path "articles/madde-039-b.md",
+   :article/sha256
+   "1407f9bb00456acddb557d3e6c03e950071946986ce5a3aa4f4fd787a6c0670c"}
+  {:article/id "law/6361/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "2bc7c39ab2e474a2472c2c8a6021d1be5081da5ba5654860a65dc5b538567ae7"}
+  {:article/id "law/6361/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Birliğin görev ve yetkileri",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "81dbe799113adcaabad19ef92a918a614b0e2a632b465c788104a5d16e8031ac"}
+  {:article/id "law/6361/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Organlar ve statü",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "867893ebabb82f72cbd54ae7464bb3d1dd385f21e534bff375532a057157bfb9"}
+  {:article/id "law/6361/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Merkezî fatura kaydı",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "956b63c28f316b4ac20129085fc42bc917493f35554609b002a8d287ede4c6a3"}
+  {:article/id "law/6361/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "7fb82940db332d9220a4736be60476f431bccd5ed4c4cb91331b0117e16a7ec7"}
+  {:article/id "law/6361/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Savunma hakkı ve kapatma kararı",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "928f75f6ae13e312a3159c38eb755fe1d04b588a7b6f28624ef15166895383c7"}
+  {:article/id "law/6361/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "2483510dda76e8f94b037e14eeabd6e660fd4450aa7d1d1516d2282f45dadf81"}
+  {:article/id "law/6361/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "ba3d32f29e0c6b343b43d391276c931cf8a30b5eb28c7b45f4b98e2980a611d5"}
+  {:article/id "law/6361/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Gerçeğe aykırı beyanda bulunmak",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "8b2c11882afafdc51b4444b552d9f9c0696e7cb3adb8fc32d892d7b26913f81d"}
+  {:article/id "law/6361/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Kurumun bildirim yükümlülüğü",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "3e4e7162bfba294a1085bc2b716fddff9fdf860bdcaa6af7f8a07040a6634f52"}
+  {:article/id "law/6361/article/49/A",
+   :article/type :normal,
+   :article/no "49/A",
+   :article/title "Tasarrufların çekilmesini engellemek",
+   :article/path "articles/madde-049-a.md",
+   :article/sha256
+   "52bc8d09de1f9b6cacb5419faed5b2aa3a7729a988d3573d13d5af17779631f5"}
+  {:article/id "law/6361/article/49/B",
+   :article/type :normal,
+   :article/no "49/B",
+   :article/title "Zimmet",
+   :article/path "articles/madde-049-b.md",
+   :article/sha256
+   "d4f0e94819a9a61d3517c7527dad8d03d3cdfef9100e8029795d35ad9227840e"}
+  {:article/id "law/6361/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "9439fda369e2e7e21277bac2321c8cf1cab8f18f95788750b5a37a4a4a6232fb"}
+  {:article/id "law/6361/article/50/A",
+   :article/type :normal,
+   :article/no "50/A",
+   :article/title nil,
+   :article/path "articles/madde-050-a.md",
+   :article/sha256
+   "c1d1d6409acf82bd0856572fbe47f4d38f4657a550ddd475a46121d7a99ccd7e"}
+  {:article/id "law/6361/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title nil,
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "5cdcf69d9a94efd8f50af4a189dd2dbe8a5d51134e776002eb91b1d1c46409c4"}
+  {:article/id "law/6361/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title nil,
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "efd64799a157032d4f46d18296dcccb3ccbe1d24e8a900e98f73db97f01c214d"}
+  {:article/id "law/6361/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Mevcut düzenlemelerin uygulanması",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7e709aafcca5e374f95b1f899160b56e4db6601472d0369e569cc94801cb7c4b"}
+  {:article/id "law/6361/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "İntibak süresi",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e9808a23d5272f6b2f6dede3d8c1772289b8e5e5a2b612306438c9cffe215b63"}
+  {:article/id "law/6361/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Birlik ile ilgili yükümlülükler",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "b313e0ddd69be7a638b62aa0b4e086f6bff7b087e98054b045720b78da245e94"}
+  {:article/id "law/6361/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Düzenlenmiş olan finansal kiralama sözleşmeleri",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "39e33e7e115cdb69db805bc96c8e468f64fb72a36dbe1a5ee855ef91fa06e25d"}
+  {:article/id "law/6361/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "İkrazatçılarla ilgili hükümler",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "5992d12735fdcdf4c304e5bab898f0ae2e7a78877d8e6058e1c5579309e26c7c"}
+  {:article/id "law/6361/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title
+   "Faktoring şirketlerinin asgari ödenmiş sermayelerinin artırılması",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "a56b5bb456240003e68608d54b17e6b267da99b31cd0e93b67b73aabae03596b"}
+  {:article/id "law/6361/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "Tasarruf finansman şirketlerinin intibak süreci",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "4eeb48e4201b2fc23006841bd35331d02a90d8f0e76ae6fe7973112f15ea1abe"}
+  {:article/id "law/6361/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title
+   "Finansal kiralama ve finansman şirketlerinin intibak süreci",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "acd3d19919119e751129b8e9c6b79f0ac1a2043c0cf6f6ce70b6934cdcfc92dc"}
+  {:article/id "law/6361/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "76287ede4790e4712fa6ccfb0491f99abeffef25e2d0b8c1adee96ecccb4dd56"}
+  {:article/id "law/6361/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "55b212f5725b4661267d52f6bc83a0362b4ed22f0d61e588bf7ff89937c2d078"}
+  {:article/id "law/6361/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Yürütme",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "4cf96ee6301fec9d9bc3f24c09dd3a75818497d381e222fcebbd94b6eaf61bc6"}]}
