@@ -6,11 +6,14 @@
             [clojure.java.io :as io]
             [clojure.pprint :as pprint]
             [clojure.string :as str]
+            [openmevzuat.catalog :as catalog]
             [openmevzuat.fetch :as fetch]
             [openmevzuat.hash :as hash]
             [openmevzuat.normalize :as normalize]
             [openmevzuat.parse :as parse]
             [openmevzuat.render :as render]
+            [openmevzuat.resmigazete :as rg]
+            [openmevzuat.slug :as slug]
             [openmevzuat.sources :as sources]
             [openmevzuat.store :as store])
   (:import [java.time Instant LocalDate ZoneOffset]
@@ -28,6 +31,16 @@
 (defn env-true? [name]
   (#{"true" "1" "yes"} (some-> (System/getenv name) str/lower-case str/trim)))
 
+(defn env-long [name fallback minimum]
+  (max minimum
+       (try
+         (Long/parseLong (str/trim (str (System/getenv name))))
+         (catch Exception _
+           fallback))))
+
+(defn update-window-days []
+  (env-long "OPENMEVZUAT_UPDATE_WINDOW_DAYS" 30 1))
+
 (defn edn-str [value]
   (binding [*print-namespace-maps* false]
     (with-out-str (pprint/pprint value))))
@@ -35,6 +48,139 @@
 (defn read-edn-file [path]
   (when (fs/exists? path)
     (edn/read-string (slurp (io/file (str path))))))
+
+(defn configured-documents []
+  (sources/documents))
+
+(defn catalog-law-documents []
+  (or (catalog/law-documents) []))
+
+(defn law-document? [document]
+  (= :law (:document/type document)))
+
+(defn numeric-document-number [document]
+  (try
+    (Long/parseLong (str/trim (str (:document/number document))))
+    (catch Exception _
+      Long/MAX_VALUE)))
+
+(defn document-type-rank [document]
+  (case (:document/type document)
+    :constitution 0
+    :law 1
+    :decree 2
+    3))
+
+(defn document-sort-key [document]
+  [(document-type-rank document)
+   (numeric-document-number document)
+   (:document/id document)])
+
+(defn document-map [documents]
+  (into {} (map (juxt :document/id identity) documents)))
+
+(defn source-url-set [documents]
+  (set (keep :source/url documents)))
+
+(defn merged-documents [& document-collections]
+  (->> document-collections
+       (apply concat)
+       document-map
+       vals
+       (sort-by document-sort-key)
+       vec))
+
+(defn all-law-catalog-documents []
+  (let [catalog-documents (catalog-law-documents)]
+    (when (empty? catalog-documents)
+      (throw (ex-info "Law catalog not found. Run `clojure -M:openmevzuat sync-catalog` first."
+                      {:catalog/path catalog/law-catalog-path})))
+    (let [configured-laws (filter law-document? (configured-documents))
+          configured-source-urls (source-url-set configured-laws)
+          catalog-documents (remove #(contains? configured-source-urls (:source/url %))
+                                    catalog-documents)]
+      (merged-documents catalog-documents configured-laws))))
+
+(defn all-catalog-documents []
+  (merged-documents (remove law-document? (configured-documents))
+                    (all-law-catalog-documents)))
+
+(defn selector->document-id [selector]
+  (let [selector (str/trim (str selector))]
+    (cond
+      (str/includes? selector "/") selector
+      (re-matches #"\d+" selector) (str "law/" selector)
+      (re-matches #"t\d+-\d+" selector) (str "law/" selector)
+      :else selector)))
+
+(defn selected-documents [selectors]
+  (let [ids (mapv selector->document-id selectors)
+        by-id (document-map (merged-documents (catalog-law-documents)
+                                             (configured-documents)))
+        missing (remove #(contains? by-id %) ids)]
+    (when (seq missing)
+      (throw (ex-info "Requested documents were not found in configured documents or the synced catalog."
+                      {:missing-document/ids (vec missing)
+                       :hint "Run `clojure -M:openmevzuat sync-catalog` if the catalog is missing or stale."})))
+    (mapv by-id ids)))
+
+(defn title-key [title]
+  (some-> title slug/slugify not-empty))
+
+(defn title-match? [expected actual]
+  (let [expected (title-key expected)
+        actual (title-key actual)]
+    (and expected actual
+         (or (= expected actual)
+             (str/includes? expected actual)
+             (str/includes? actual expected)))))
+
+(defn resolve-affected-law [documents affected-law]
+  (let [number (:law/number affected-law)
+        candidates (filter #(= number (:document/number %)) documents)
+        title-matches (filter #(title-match? (:law/title affected-law)
+                                             (:document/title %))
+                              candidates)
+        direct-id (str "law/" number)
+        direct-matches (filter #(= direct-id (:document/id %)) candidates)]
+    (cond
+      (empty? candidates)
+      {:affected-law affected-law
+       :reason :not-in-catalog}
+
+      (= 1 (count candidates))
+      {:affected-law affected-law
+       :document (first candidates)}
+
+      (= 1 (count title-matches))
+      {:affected-law affected-law
+       :document (first title-matches)}
+
+      (= 1 (count direct-matches))
+      {:affected-law affected-law
+       :document (first direct-matches)}
+
+      :else
+      {:affected-law affected-law
+       :reason :ambiguous
+       :candidates (mapv #(select-keys % [:document/id :document/title :source/url])
+                         candidates)})))
+
+(defn resolve-affected-laws [affected-laws]
+  (let [documents (all-law-catalog-documents)
+        resolutions (mapv #(resolve-affected-law documents %) affected-laws)
+        resolved-documents (->> resolutions
+                                (keep :document)
+                                document-map
+                                vals
+                                (sort-by document-sort-key)
+                                vec)
+        unresolved (->> resolutions
+                        (remove :document)
+                        vec)]
+    {:documents resolved-documents
+     :unresolved unresolved
+     :resolutions resolutions}))
 
 (defn- write-result? [value]
   (and (map? value) (contains? value :changed?)))
@@ -130,8 +276,11 @@
            :text (:article/body article))))
        (:articles document)))
 
-(defn manifest-map [documents run-at date]
-  (let [manifest-path (str "data/manifests/" date ".edn")
+(defn manifest-map
+  ([documents run-at date path]
+   (manifest-map documents run-at date path nil))
+  ([documents run-at date path scope]
+   (let [manifest-path path
         existing (read-edn-file manifest-path)
         docs (mapv (fn [{:keys [document metadata]}]
                      (array-map
@@ -144,12 +293,14 @@
         generated-at (if (= docs (:documents existing))
                        (or (:snapshot/generated-at existing) run-at)
                        run-at)]
-    (array-map
-     :snapshot/date date
-     :snapshot/generated-at generated-at
-     :generator/name "openmevzuat"
-     :generator/version generator-version
-     :documents docs)))
+     (cond->
+      (array-map
+       :snapshot/date date
+       :snapshot/generated-at generated-at
+       :generator/name "openmevzuat"
+       :generator/version generator-version
+       :documents docs)
+       scope (assoc :snapshot/scope scope)))))
 
 (defn prepare-document [document run-at baseline-date]
   (let [source (sources/source-by-id (:source/id document))
@@ -184,42 +335,95 @@
      :metadata-write metadata-write
      :full-text-write full-text-write}))
 
-(defn write-search! [prepared-documents]
-  (let [lines (mapcat #(document->search-lines (:document %)) prepared-documents)]
+(defn search-lines [prepared-documents]
+  (mapcat #(document->search-lines (:document %)) prepared-documents))
+
+(defn- search-line-document-id [line]
+  (try
+    (:document/id (json/parse-string line true))
+    (catch Exception _
+      nil)))
+
+(defn- merge-search-lines [existing-lines new-lines]
+  (let [new-lines-by-document-id (group-by search-line-document-id new-lines)
+        updated-document-ids (set (keys new-lines-by-document-id))
+        emitted-document-ids (atom #{})
+        merged-lines (mapcat
+                      (fn [line]
+                        (let [document-id (search-line-document-id line)]
+                          (if (contains? updated-document-ids document-id)
+                            (when-not (contains? @emitted-document-ids document-id)
+                              (swap! emitted-document-ids conj document-id)
+                              (get new-lines-by-document-id document-id))
+                            [line])))
+                      existing-lines)
+        appended-lines (mapcat new-lines-by-document-id
+                               (remove @emitted-document-ids updated-document-ids))]
+    (concat merged-lines appended-lines)))
+
+(defn write-search!
+  ([prepared-documents]
+   (write-search! prepared-documents {:merge? false}))
+  ([prepared-documents {:keys [merge?]}]
+   (let [new-lines (vec (search-lines prepared-documents))
+         lines (if merge?
+                 (merge-search-lines (some-> (store/read-file "derived/search/documents.jsonl")
+                                             str/split-lines)
+                                     new-lines)
+                 new-lines)]
     (store/write-if-changed! "derived/search/documents.jsonl"
-                             (str (str/join "\n" lines) "\n"))))
+                             (if (seq lines)
+                               (str (str/join "\n" lines) "\n")
+                               "")))))
 
-(defn write-manifest! [prepared-documents run-at date]
-  (let [manifest (manifest-map prepared-documents run-at date)
-        path (str "data/manifests/" date ".edn")]
+(defn manifest-path [date]
+  (str "data/manifests/" date ".edn"))
+
+(defn incremental-manifest-path [date]
+  (str "data/manifests/incremental/" date ".edn"))
+
+(defn write-manifest!
+  ([prepared-documents run-at date]
+   (write-manifest! prepared-documents run-at date (manifest-path date) nil))
+  ([prepared-documents run-at date path scope]
+   (let [manifest (manifest-map prepared-documents run-at date path scope)]
     {:path path
-     :write (store/write-if-changed! path (edn-str manifest))}))
+     :write (store/write-if-changed! path (edn-str manifest))})))
 
-(defn skip-manifest [date]
-  {:path (str "data/manifests/" date ".edn")
-   :write {:path (str "data/manifests/" date ".edn")
+(defn skip-manifest
+  ([date]
+   (skip-manifest date (manifest-path date)))
+  ([date path]
+   {:path path
+    :write {:path path
            :changed? false
            :skipped? true
-           :reason :no-content-changes}})
+            :reason :no-content-changes}}))
 
-(defn update! []
+(defn update-documents!
+  ([documents]
+   (update-documents! documents {}))
+  ([documents {:keys [label merge-search? manifest-scope]}]
   (let [run-at (now)
         date (snapshot-date)
-        documents (sources/documents)
         used-source-ids (set (map :source/id documents))
         used-sources (filter #(contains? used-source-ids (:source/id %)) (sources/sources))
         _ (fetch/preflight-sources! used-sources)
         prepared (mapv #(prepare-document % run-at date) documents)
         document-writes (mapv write-document! prepared)
-        search-write (write-search! prepared)
+        search-write (write-search! prepared {:merge? merge-search?})
         content-changed-files (changed-count [document-writes search-write])
+        manifest-path (if (= :incremental manifest-scope)
+                        (incremental-manifest-path date)
+                        (manifest-path date))
         manifest-write (if (pos? content-changed-files)
-                         (write-manifest! prepared run-at date)
-                         (skip-manifest date))
+                         (write-manifest! prepared run-at date manifest-path manifest-scope)
+                         (skip-manifest date manifest-path))
         articles-written (count (filter :changed? (mapcat :article-writes document-writes)))
         changed-files (+ content-changed-files
                          (changed-count [(:write manifest-write)]))]
-    (println "OpenMevzuat update")
+    (println (or label "OpenMevzuat update"))
+    (println "Mode:" (if merge-search? "incremental" "full"))
     (println "Documents:" (count prepared))
     (println "Articles written:" articles-written)
     (println "Changed files:" changed-files)
@@ -229,31 +433,107 @@
     {:documents prepared
      :writes document-writes
      :search search-write
-     :manifest manifest-write}))
+     :manifest manifest-write})))
 
-(defn update-or-skip-unreachable! []
-  (try
-    (update!)
-    (catch Exception e
-      (if (and (env-true? "OPENMEVZUAT_SKIP_UNREACHABLE_SOURCES")
-               (fetch/source-unreachable? e))
-        (let [data (ex-data e)]
-          (println "OpenMevzuat update skipped")
-          (println "Reason: official source is unreachable from this runner.")
-          (println "Source:" (or (:source/base-url data) (:url data) (:source/origin data)))
-          (println "Last error:" (or (:last-error data) (:reason data) (:cause data) (.getMessage e)))
-          {:skipped? true
-           :reason :source-unreachable
-           :source (or (:source/base-url data) (:url data) (:source/origin data))})
-        (throw e)))))
+(defn configured-update! []
+  (update-documents! (configured-documents)
+                     {:label "OpenMevzuat update-configured"}))
+
+(defn update-laws! [selectors]
+  (update-documents! (selected-documents selectors)
+                     {:label "OpenMevzuat update-laws"
+                      :merge-search? true
+                      :manifest-scope :incremental}))
+
+(defn update-all-laws! []
+  (update-documents! (all-catalog-documents)
+                     {:label "OpenMevzuat update-all-laws"}))
+
+(defn update-date-range []
+  (rg/date-range-ending (LocalDate/parse (snapshot-date))
+                        (update-window-days)))
+
+(defn print-unresolved-affected-laws! [unresolved]
+  (when (seq unresolved)
+    (println "Unresolved affected laws:" (count unresolved))
+    (doseq [{:keys [affected-law reason candidates]} unresolved]
+      (println " -" (:law/number affected-law)
+               (or (:law/title affected-law) "")
+               (str "(" (name reason) ")"))
+      (when (seq candidates)
+        (doseq [candidate candidates]
+          (println "   candidate:" (:document/id candidate) "-" (:document/title candidate)))))))
+
+(defn update! []
+  (let [{:keys [from to]} (update-date-range)
+        catalog-result (catalog/sync-laws!)
+        changes (rg/changed-laws! from to)
+        {:keys [documents unresolved]} (resolve-affected-laws (:affected-laws changes))]
+    (println "OpenMevzuat update")
+    (println "Mode: resmigazete-incremental")
+    (println "Window:" (str from) "to" (str to))
+    (println "Catalog documents:" (:documents catalog-result))
+    (println "Resmi Gazete amendment laws:" (count (:amendment-laws changes)))
+    (println "Affected laws:" (count (:affected-laws changes)))
+    (println "Resolved documents:" (count documents))
+    (print-unresolved-affected-laws! unresolved)
+    (if (seq documents)
+      (assoc (update-documents! documents
+                                {:label "OpenMevzuat update"
+                                 :merge-search? true
+                                 :manifest-scope :incremental})
+             :catalog catalog-result
+             :changes changes
+             :unresolved unresolved)
+      (do
+        (println "No affected laws to update.")
+        {:catalog catalog-result
+         :changes changes
+         :unresolved unresolved
+         :skipped? true}))))
+
+(defn update-or-skip-unreachable!
+  ([] (update-or-skip-unreachable! update!))
+  ([f]
+   (try
+     (f)
+     (catch Exception e
+       (if (and (env-true? "OPENMEVZUAT_SKIP_UNREACHABLE_SOURCES")
+                (fetch/source-unreachable? e))
+         (let [data (ex-data e)]
+           (println "OpenMevzuat update skipped")
+           (println "Reason: official source is unreachable from this runner.")
+           (println "Source:" (or (:source/base-url data) (:url data) (:source/origin data)))
+           (println "Last error:" (or (:last-error data) (:reason data) (:cause data) (.getMessage e)))
+           {:skipped? true
+            :reason :source-unreachable
+            :source (or (:source/base-url data) (:url data) (:source/origin data))})
+         (throw e))))))
 
 (defn usage []
-  (println "Usage: clojure -M:openmevzuat <update|build|clean-derived>"))
+  (println "Usage: clojure -M:openmevzuat <sync-catalog|update|update-configured|update-laws|update-all-laws|build|clean-derived>")
+  (println)
+  (println "Commands:")
+  (println "  sync-catalog             Fetch the official active Kanunlar catalog only.")
+  (println "  update                   Sync catalog, detect recent Resmi Gazete law amendments, update affected laws.")
+  (println "  update-configured        Update configured documents from resources/documents.edn.")
+  (println "  update-laws 193 2918     Incrementally update selected laws and merge search index rows.")
+  (println "  update-all-laws          Explicit full rebuild of synced catalog laws plus configured non-laws.")
+  (println "  build                    Alias of update-configured.")
+  (println "  clean-derived            Remove derived outputs."))
 
 (defn -main [& args]
   (case (first args)
+    "sync-catalog" (catalog/sync-laws!)
     "update" (update-or-skip-unreachable!)
-    "build" (update-or-skip-unreachable!)
+    "update-configured" (update-or-skip-unreachable! configured-update!)
+    "build" (update-or-skip-unreachable! configured-update!)
+    "update-laws" (if (seq (rest args))
+                    (update-or-skip-unreachable!
+                     #(update-laws! (rest args)))
+                    (do (usage)
+                        (System/exit 1)))
+    "update-all-laws" (update-or-skip-unreachable! update-all-laws!)
     "clean-derived" (do (store/clean-derived!)
                         (println "Derived files cleaned."))
     (do (usage)

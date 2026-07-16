@@ -113,12 +113,32 @@ Example:
 ## CLI
 
 ```bash
+clojure -M:openmevzuat sync-catalog
 clojure -M:openmevzuat update
+clojure -M:openmevzuat update-configured
+clojure -M:openmevzuat update-laws 193 2918
+clojure -M:openmevzuat update-all-laws
 clojure -M:openmevzuat build
 clojure -M:openmevzuat clean-derived
 ```
 
-`update` fetches configured official sources, normalizes text, parses articles, renders canonical files, writes EDN metadata, and generates derived outputs.
+`update` is the normal daily flow:
+
+1. refresh the official active Kanunlar catalog in `data/catalog/laws.edn`;
+2. query Resmî Gazete for recent Yasama/Kanun rows;
+3. identify amendment laws, parse their `MADDE` introductions, and extract the affected base kanun numbers;
+4. resolve those numbers through the local catalog;
+5. fetch and render only the affected consolidated kanun PDFs.
+
+The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`.
+
+`sync-catalog` fetches the official active Kanunlar catalog from mevzuat.gov.tr and writes `data/catalog/laws.edn`. It does not fetch or render law PDFs.
+
+`update-configured` fetches configured official sources from `resources/documents.edn`, normalizes text, parses articles, renders canonical files, writes EDN metadata, and regenerates derived outputs. `build` is an alias for this configured rebuild path.
+
+`update-laws` incrementally fetches and renders only the requested law numbers or document IDs, then merges those rows into the search index. For example, `update-laws 2918` updates `law/2918`; tertip collision IDs from the catalog can be addressed as `update-laws t5-3201` or `update-laws law/t5-3201`.
+
+`update-all-laws` is the intentional full catalog rebuild path. It uses the synced catalog laws plus configured non-law documents, and should be reserved for explicit full corpus refreshes.
 
 Temporary fixture mode is available for parser and pipeline development:
 
