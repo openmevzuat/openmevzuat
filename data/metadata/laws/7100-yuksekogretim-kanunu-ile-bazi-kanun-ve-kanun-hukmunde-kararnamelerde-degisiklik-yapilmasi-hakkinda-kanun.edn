@@ -1,0 +1,69 @@
+{:document/id "law/7100",
+ :document/type :law,
+ :document/number "7100",
+ :document/title
+ "YÜKSEKÖĞRETİM KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "7100-yuksekogretim-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7100-yuksekogretim-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "6a206315b16b192e4f2b72d312d5fcd1c84db2d33b77cfeb2561cb2596f5c2d2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7100.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:04.429-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7100/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 57",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a3a6e0ef53f50fad17dc1df2fbeed7eccf21478a08306e4a976ed208dae03487"}
+  {:article/id "law/7100/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "d4882e9697b881f9a7796a925338550d8c244c7ca6228920cd501fdfe67c76cf"}
+  {:article/id "law/7100/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "1bf819649190231f43e1e33c377e51f23fc2750e3ea44084e92a44bad6d4ffee"}
+  {:article/id "law/7100/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "48cbdfdb9380a302ff391495535f10ede6a3a00a2325a57c0f300cb7135e2e03"}
+  {:article/id "law/7100/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "79b8e570cc95bd5f28885242655b4b5bcfd1e84ac942a88a304c834e3afe16af"}
+  {:article/id "law/7100/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "9c260b8669032c776d037e83f2ae772fbde1c8461f2693c2b1cd500c1e1cbaef"}
+  {:article/id "law/7100/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "c8311f954da34479a4a7c128b8ad0103352f0126c1a3705c0fc8f9a95f75b90e"}]}

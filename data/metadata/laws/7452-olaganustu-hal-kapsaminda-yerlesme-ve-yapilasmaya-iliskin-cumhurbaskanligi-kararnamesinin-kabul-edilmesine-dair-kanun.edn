@@ -1,0 +1,76 @@
+{:document/id "law/7452",
+ :document/type :law,
+ :document/number "7452",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA YERLEŞME VE YAPILAŞMAYA İLİŞKİN CUMHURBAŞKANLIĞI KARARNAMESİNİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7452-olaganustu-hal-kapsaminda-yerlesme-ve-yapilasmaya-iliskin-cumhurbaskanligi-kararnamesinin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7452-olaganustu-hal-kapsaminda-yerlesme-ve-yapilasmaya-iliskin-cumhurbaskanligi-kararnamesinin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "8582b9d46efc74238f77f8d767a9e3118eed61278d7635c6d0e1c34ed268dcd8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7452.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:37.321-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7452/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8def0c81dcafc17f2c085d00d7805dd20dec81ec4bd7b7d543d7d718f2936209"}
+  {:article/id "law/7452/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yerleşme ve yapılaşma hususunda alınan tedbirler1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6caa83712ee3994e6caed95cf782208e92174734654fdbcc34fa95b595619a5e"}
+  {:article/id "law/7452/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Personel görevlendirilmesi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7b6fada92ba7fdc1d017e5709ce17214674101408470f584374431fc82919388"}
+  {:article/id "law/7452/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "452baf1a627db2e06ce8d237d5e8f6f32aa1b3c27604d966f28d0c2963ee799d"}
+  {:article/id "law/7452/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "f1adff154e71eb3647ba28687c4df9577d3680d24329e3b4a6dffaab154845c3"}
+  {:article/id "law/7452/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "71814dc0cef5e19694e507daaa3be15c4777fba626db08ad50d08187a153c116"}
+  {:article/id "law/7452/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9e25ace78175d8a79fac2d456257e50134148081df450f1861197c4a565ccbc2"}
+  {:article/id "law/7452/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "19f46c6a8b53e4d32a20d3ac0f7cb67db4cc208c97f57a87f199218fe0a16213"}]}

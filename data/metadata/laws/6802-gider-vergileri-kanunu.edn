@@ -1,0 +1,228 @@
+{:document/id "law/6802",
+ :document/type :law,
+ :document/number "6802",
+ :document/title "GİDER VERGİLERİ KANUNU",
+ :document/slug "6802-gider-vergileri-kanunu",
+ :document/path "data/canonical/laws/6802-gider-vergileri-kanunu",
+ :document/sha256
+ "1bb9f9cb77754a3f998420eeba5f024fbe657cc73b31c3727584ddcd14529e3b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6802.pdf",
+ :source/fetched-at #inst "2026-07-16T03:03:11.189-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6802/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "BİRİNCİ KISIM",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "34fe4e981c0f9256f71ba96e022acf251a35899e653cf219b20e9fac7b8630b4"}
+  {:article/id "law/6802/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "34dc865f388f2c2a680e6853bfcdf643f1b9dbe7f1c99f71f2a92517eee711fe"}
+  {:article/id "law/6802/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "dd0c05bbca2c9384b95994c4eef7b8288eed786475a556da10b89b8ab78a67fb"}
+  {:article/id "law/6802/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "67ee118a282b95655aa3b3190f5fe9ac6fcda08049887fc4f35fc0d2366667a5"}
+  {:article/id "law/6802/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "35a4f0483a8cdd1408b6cc5122f8d5b4968ac38ea7444fc838173d33c8523200"}
+  {:article/id "law/6802/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "565e781bd8abfa51e7820c6d00034089ce671189447a4f770c3e2afd258fb19f"}
+  {:article/id "law/6802/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "d3a7b736ffd22401f4268d6216a698dacf0d9441c71e252b7eb0bcec15b90de5"}
+  {:article/id "law/6802/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "8de5acc2dc7d297135ca1f02ae6d98e4d0f5ce4158361648688a2aaa839e68b2"}
+  {:article/id "law/6802/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "3404a605534b6b6c49a8749f83c035042d2bcaf03f5d4dc5902b3a8965006c4d"}
+  {:article/id "law/6802/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "1de741c791ef47a0407524ff671b67a51c392c937fe8333d71a0f7d79c765101"}
+  {:article/id "law/6802/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "5dc84dcc7acc2300316d4345b1ad3dfa2f41e5c18db9401b6361110ff8edce9f"}
+  {:article/id "law/6802/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "3d2bc3591c4be84394becf233fa17c181c1f2a70ed42f80e9f5849ebe9d57970"}
+  {:article/id "law/6802/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "DÖRDÜNCÜ BÖLÜM",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "9e340b15d08ed3ac2027ce3da96a6b429cf2476ee371528120275de723edea47"}
+  {:article/id "law/6802/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "ÜÇÜNCÜ KISIM",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "335357f211229c84770a50f57a71341e8f99b5ae2e5f194b6644afc335b8c8cc"}
+  {:article/id "law/6802/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "9614c0766c7597c0cb2652439bf55e6a08e5de84277e4072eff8625da791abb3"}
+  {:article/id "law/6802/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title nil,
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "96dc07c4d78415efd24edfd6c5f37abdbcdcab80c4c43da35f1ab9d3f3b11418"}
+  {:article/id "law/6802/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "4f55a8db14e4beba87e445d1d27090236a5edd160704a19525e1d51ff28a3a9b"}
+  {:article/id "law/6802/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "1fcf0682721ab8fcbfffa2b537e8334363c92c789bb25afc991e4050f2582b2f"}
+  {:article/id "law/6802/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "917dbad6f32b942e635013ae0fa60d8528cc94fd40985dc6a7754adf5b7657f2"}
+  {:article/id "law/6802/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "5aa6d01223019b63696a7f11abcf007b524dee135bd2260c981d808935e06ac3"}
+  {:article/id "law/6802/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "7ab015b1da5448ecb9f7a9de3e9f2440b7cb9e7cd558a772da7d75eec5027107"}
+  {:article/id "law/6802/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title nil,
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "165801057d8419e1274e6732f3698755eb0bd912279e7bbbfefcd33f939e5ac8"}
+  {:article/id "law/6802/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "ÜÇÜNCÜ BÖLÜM",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "f1b8fbb4037d156145a7d34d4098058a5daaded447a48fb8bc80852d89375031"}
+  {:article/id "law/6802/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "DÖRDÜNCÜ BÖLÜM",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "a0e6bdb41e693c111a411681c2a4f1374724100734a20e8f3b7b1598db75b7a1"}
+  {:article/id "law/6802/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "BEŞİNCİ BÖLÜM",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "4f9c83687096cf12154ac22edae8ac434ce0d9815d5edca32159835485571b3d"}
+  {:article/id "law/6802/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "c058da41048783fb160029e7de24878cbb3f3b0d3fd20af410916817bd8d18ba"}
+  {:article/id "law/6802/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "cfa8810b2a3506d0a7bae1910f7258977cf2ea93524012b7c160ea4ad02df627"}
+  {:article/id "law/6802/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title
+   "Muvakkat Madde 2 – (Mülga : 25/10/1984 - 3065/61 md.)",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "54dfb1c05c4b8ad4d1d44e2c7d3be93b72d7ca9f06354fd88649a2455919981b"}
+  {:article/id "law/6802/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title nil,
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "c841fab31c26c1e2b50b9986f68bb1f1dedcba5b2f2133f558578a521bf69384"}
+  {:article/id "law/6802/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title nil,
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "802f42881656aa7a259bc55e8358a54918a0fcbda73f14220e8a8eba5872c9dc"}]}

@@ -1,0 +1,56 @@
+{:document/id "law/7310",
+ :document/type :law,
+ :document/number "7310",
+ :document/title
+ "ATATÜRK ORMAN ÇİFTLİĞİ ARAZİSİNDEN 725 DEKARININ SATILMASI VE EVVELCE MÜBADELE EDİLMİŞ OLAN BİR KISIM ARAZİNİN İLGİLİ ŞAHISLARA FERAĞININ İCRASI HAKKINDA KANUN",
+ :document/slug
+ "7310-ataturk-orman-ciftligi-arazisinden-725-dekarinin-satilmasi-ve-evvelce-mubadele-edilmis-olan-bir-kisim-arazinin-ilgili-sahislara-feraginin-icrasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7310-ataturk-orman-ciftligi-arazisinden-725-dekarinin-satilmasi-ve-evvelce-mubadele-edilmis-olan-bir-kisim-arazinin-ilgili-sahislara-feraginin-icrasi-hakkinda-kanun",
+ :document/sha256
+ "2e959d0396adf68a7706d95deeec7cabaf55338bc7af17a8986789048532e4bb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7310.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:39.867-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7310/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 40 Sayfa: 1217",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9a5e6922f904b22d58317743611257d4102dc4ccd22e7968e766848dcffb3ecb"}
+  {:article/id "law/7310/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d7574074e9ab33f1b8c2ab89164d5c8ed0f367def974daacecfa60182c01fa03"}
+  {:article/id "law/7310/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e02279a6bcd714b9701ec80505992e8c455ee2943ada3b2b1711c596736965a4"}
+  {:article/id "law/7310/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c9dd13cf74b505cc1335d89bd0846c60b25614432ccb9211a627cb82681c2cc9"}
+  {:article/id "law/7310/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "103c800f75adabed6d566caf6913ded6f9ef2959f4c433fb03df060703c6eee1"}]}

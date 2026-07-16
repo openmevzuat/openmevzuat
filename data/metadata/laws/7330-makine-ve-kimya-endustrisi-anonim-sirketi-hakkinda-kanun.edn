@@ -1,0 +1,118 @@
+{:document/id "law/7330",
+ :document/type :law,
+ :document/number "7330",
+ :document/title
+ "MAKİNE VE KİMYA ENDÜSTRİSİ ANONİM ŞİRKETİ HAKKINDA KANUN",
+ :document/slug
+ "7330-makine-ve-kimya-endustrisi-anonim-sirketi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7330-makine-ve-kimya-endustrisi-anonim-sirketi-hakkinda-kanun",
+ :document/sha256
+ "424538ac7c39cfec762da450656d505cd27b1eebcbb50bc9adc93854b67b3eb0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7330.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:48.221-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7330/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "832a12d528dcbba160a9a902a87cf7e9c2ec764466317ecb7d0169215e253b14"}
+  {:article/id "law/7330/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "43f3ef03dc3b2ceecdf0cc51d7ce1fa45a287cb6b85261fbc0afafc01e15fcaf"}
+  {:article/id "law/7330/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "068c5cff48d305b3dc39f49138c73e74896c264d00d153332c72baa378318270"}
+  {:article/id "law/7330/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Görev ve yetki",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "31ac63d0ed3b7b36234d7e28a15ad551c6b0a7b05524a05689def97f069379ab"}
+  {:article/id "law/7330/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Denetim",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "79b8a9e7ce9bb7059f1ca79f23a512cd78a482dc005e711b1b2d08d29d3f6f25"}
+  {:article/id "law/7330/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "88af5e0f5bddc316b59f9ef9055a7894443fdb12e27ca8f79feef53eed032824"}
+  {:article/id "law/7330/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Personel rejimi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "64016a18cc4e84e9ca4bd0c2ddb9f2d1fdf40d06dcf63a122a5fa43e3274a170"}
+  {:article/id "law/7330/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4cdf7750361424f01eeb35a2873c258160d82bbd051f894d72b3d312049fe387"}
+  {:article/id "law/7330/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Atıflar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c9c36093336ee5f94b153a71e920a06a408d240bd1bc9c07bc52c9e6d3ecaf16"}
+  {:article/id "law/7330/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "db498ccdb376acbe45048d879aec49b5635ac67a0b6e8f7234f615357f27f096"}
+  {:article/id "law/7330/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Personele yönelik geçiş hükmü",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "51ff06c5dc6badbc18681100f6c00500edfdf87cb701ba389044657144e7bdc8"}
+  {:article/id "law/7330/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Devir",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c6a4a2eed4f9e46f07c337d3df247ca57f68ccce309ffca324760f4f3499f73f"}
+  {:article/id "law/7330/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bbf59198ccf1698221c6a0f9828fe9c109c52bf3083b6d866e6165bb3df06aa3"}
+  {:article/id "law/7330/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0638cdf8547f89b6064106e840b30d6a310d63afa382fca1a1723825dab83c6d"}]}

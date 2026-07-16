@@ -1,0 +1,62 @@
+{:document/id "law/7420",
+ :document/type :law,
+ :document/number "7420",
+ :document/title
+ "GELİR VERGİSİ KANUNU İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "7420-gelir-vergisi-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/7420-gelir-vergisi-kanunu-ile-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "0c33f3be409c5ee9c77a7ba505fffddab36f5bdea824f676c4391c090731367c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7420.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:08.000-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7420/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "46a3d7892be9217c23572051888916a1352dc7ff1941685a49dde3acf1941db3"}
+  {:article/id "law/7420/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "3256b9baef2e3506d27d09c490f369e53dd98b4cb4a332d746041ad3c9e33071"}
+  {:article/id "law/7420/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "df924dbe698c5e54fd05e4b8720f304293b5a85f39d9b7c73a2d14faca723659"}
+  {:article/id "law/7420/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "398c157d2d946d5194d75793ec23d334bfec78a39648ce44a6cc7a590984d3d0"}
+  {:article/id "law/7420/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "f206f8caab6b8008c15a101e0e3056a38aa73418932aab8bd56142d6c35d867d"}
+  {:article/id "law/7420/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "89840c1034486426a69be476c5425c5a233a66fd6b4cbea46884ae2167936b8e"}]}

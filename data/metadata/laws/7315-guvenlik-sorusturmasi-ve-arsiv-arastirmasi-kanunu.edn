@@ -1,0 +1,132 @@
+{:document/id "law/7315",
+ :document/type :law,
+ :document/number "7315",
+ :document/title "GÜVENLİK SORUŞTURMASI VE ARŞİV ARAŞTIRMASI KANUNU",
+ :document/slug
+ "7315-guvenlik-sorusturmasi-ve-arsiv-arastirmasi-kanunu",
+ :document/path
+ "data/canonical/laws/7315-guvenlik-sorusturmasi-ve-arsiv-arastirmasi-kanunu",
+ :document/sha256
+ "d60d46e0fce6d0c4045e600dcab04072b534b6c0867e087b8e4060065b38275f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7315.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:42.135-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7315/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "390b87e14eb74cddaaa479c4d20289b08e67b81fd44312fc73b40c5a0b58eecf"}
+  {:article/id "law/7315/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "80547024e3cc71dd16e94bfd7dab364e7e0360c97a420681b267cb62f22776a5"}
+  {:article/id "law/7315/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "56dd7cc10dc552d13e7fa853d84aebb1ed605d8d1786702b79b9977a2079cb43"}
+  {:article/id "law/7315/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Arşiv araştırması",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "423bc3a74aa5865d0dc7683f340671274399f3b870c3f5e7523ccab30132cc9d"}
+  {:article/id "law/7315/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Güvenlik soruşturması",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2432d305c21f7cd83694e2ed8dfe357a11621bdca1d76352b240545c6b827008"}
+  {:article/id "law/7315/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Güvenlik soruşturması ve arşiv araştırmasını yapacak birimler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ec4b7c7b78d24888089738da83f728721eecc32c2e27e1706325ea12918867b8"}
+  {:article/id "law/7315/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Değerlendirme Komisyonu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "eeda931382fe7274e718dbeac95882d262e822e7d3680c3974de3fce4d7e392b"}
+  {:article/id "law/7315/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "69f2dff626f0437cafdfb53514ecc44510f46d7eb474c99303b32388851306f4"}
+  {:article/id "law/7315/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d451afa80260d9cefaf05ba837febf7bf1e401b380f65695e57f967e0c079beb"}
+  {:article/id "law/7315/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Kişisel verilerin silinmesi ve yok edilmesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "919e5cbeeafd67bc79e0a58f7eec2eb08d9feb028578ba102928ae3eec77b592"}
+  {:article/id "law/7315/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "eabbef0a6773714aebe106d8ed0af226dbbce44e2086b5e88064676beb15689e"}
+  {:article/id "law/7315/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e403e009bb9ac0460ce268f0fd005278b2d41162136b5ae34be9e920986f422d"}
+  {:article/id "law/7315/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "b2def19fe650aa4c66c95171252d451987a6ca67cf5f82dff7fdb0bf56e1a0d8"}
+  {:article/id "law/7315/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Atıflar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "061331cea2de2cc7d3a156e9b99ed7896419bbe05bdb01ab71d3d9728d8a9e28"}
+  {:article/id "law/7315/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a1665f480b0b1865eef91c0df624d7bf23c9721ca0d7f90d602edf5d1d9052e5"}
+  {:article/id "law/7315/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e40ad19a6c2da171d360c40cd0e6e20ef551bfae1e722a4a19f41aa143031677"}]}

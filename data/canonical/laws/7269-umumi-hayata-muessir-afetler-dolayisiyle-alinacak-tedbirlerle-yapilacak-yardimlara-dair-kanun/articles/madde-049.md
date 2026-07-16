@@ -1,0 +1,5 @@
+# MADDE 49
+
+(Mülga: 23/1/2002-5728/578 md.)
+
+Çeşitli hükümler:

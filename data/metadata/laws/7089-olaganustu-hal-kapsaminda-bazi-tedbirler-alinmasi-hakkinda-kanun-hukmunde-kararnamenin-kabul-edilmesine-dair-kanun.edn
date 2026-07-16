@@ -1,0 +1,77 @@
+{:document/id "law/7089",
+ :document/type :law,
+ :document/number "7089",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7089-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7089-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "3886babf359423b35298e8e20949f3149af60fe2d85ed60724d0838429fecc7a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7089.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:49.641-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7089/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "abdf02e74c634d85b0d90da6d7d7f90c8e38475837b42ddb91fef8451e4940c4"}
+  {:article/id "law/7089/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a9bd422959f346f63c79692ade2fb80e080095557cf8a96a907fbf5200fe58c7"}
+  {:article/id "law/7089/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Rütbesi alınan emekli Türk Silahlı Kuvvetleri personeli",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0c57e9f90056ad072c2b57f57321608bc5063bfed10765ff8540987dda6435eb"}
+  {:article/id "law/7089/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kurum ve kuruluşlara ilişkin tedbirler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f7dc59fae3c535c1eb26c9ca5f8ccc9e220511b3f6a4c58f0190e4d312703006"}
+  {:article/id "law/7089/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yurtdışında öğrenim görenler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e32a70423564787785a47b28bbb21b1fa42526b9d39f6fe7c61f7b7556fadefb"}
+  {:article/id "law/7089/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Geri alınan madalyalar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "7a07de1c1086ca027f3274368603e0da7c92c954060dcac554a41da906e1924b"}
+  {:article/id "law/7089/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "05a00b74071041eb5f518e9e1c8ffed8e4da055088684b6fc301a4329a014671"}
+  {:article/id "law/7089/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4ec65dd85fc0a47c9d705c5f7dacad968f16faeafe61e3dc1c286df7a4680a3d"}]}

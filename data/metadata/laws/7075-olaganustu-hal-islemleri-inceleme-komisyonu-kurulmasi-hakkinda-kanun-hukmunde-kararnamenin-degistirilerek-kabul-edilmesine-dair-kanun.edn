@@ -1,0 +1,174 @@
+{:document/id "law/7075",
+ :document/type :law,
+ :document/number "7075",
+ :document/title
+ "OLAĞANÜSTÜ HAL İŞLEMLERİ İNCELEME KOMİSYONU KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7075-olaganustu-hal-islemleri-inceleme-komisyonu-kurulmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7075-olaganustu-hal-islemleri-inceleme-komisyonu-kurulmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "e96d01113536278589d107ba044094aa4a65bc30526a427515f5cc0869602bec",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7075.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:12.654-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7075/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Komisyonun Oluşumu",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "59de112e5ee0ae952a279abe42c2409754bffa10f8d7b5980ed0f9e2d58cba8f"}
+  {:article/id "law/7075/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Komisyonun görevleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8d0581850d3abe96151103bb8833fbc073e1c449bb7f09693b540ed8f1c45ea2"}
+  {:article/id "law/7075/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Komisyonun görev süresi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "aa8b9db171da6d6e36ab1b79c00a874d07624aa66ce2e07feb3fd542e2c7aab8"}
+  {:article/id "law/7075/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Üyelerin güvenceleri ve hakları4",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a3f40a5e5b1280ffd55335584a4f16448cacbce0c6b432116d6cd73acb677648"}
+  {:article/id "law/7075/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bilgi ve belge talep etme yetkisi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bb32777cf4368d30dcfeed7a23a9e8d3a1cac989ac36cb738d08aee1f2879683"}
+  {:article/id "law/7075/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Gizlilik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "93148f004bbf1c6514b8871f4ba0b7b6174ac7df6c8e6b1947dad018da62de3f"}
+  {:article/id "law/7075/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Başvurularda usul ve süre",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "286e9a51605effe86f557bdbb1067d17b392a2a8501598eccd1f2f1a89c4e0c3"}
+  {:article/id "law/7075/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ön inceleme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "fb5709027a1473262b7e0000b0bfecc8c5061445eb5fb68f2ef183f2766ddda8"}
+  {:article/id "law/7075/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İnceleme ve karar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "378fe796eb27d4984c773546f10f29ae9796322e9229dc2038a05ac4df993551"}
+  {:article/id "law/7075/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Kararların uygulanması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "bf326ce1f068ec82d39f6118b363b513aa24acabba7a8ec4f57b174e299d6a5a"}
+  {:article/id "law/7075/article/10/A",
+   :article/type :normal,
+   :article/no "10/A",
+   :article/title nil,
+   :article/path "articles/madde-010-a.md",
+   :article/sha256
+   "d6179d6ab8aed18575ce143c01b8cc2e7226eb41778d1dd2fdbc5650d6905d70"}
+  {:article/id "law/7075/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yargı denetimi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "e1333e019ea6c9b1d9ce3155ea4e55b5f000e0a123da4d1fbfa1c28b3ab9dd45"}
+  {:article/id "law/7075/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Sekretarya8",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "06cd1e07bb695cfe9d8af572b398e4873a86369c01ad5b0c21044c5224458d17"}
+  {:article/id "law/7075/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Usul ve esaslar9",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "94b6f236bb1b67789d8e87ab74d79a8fc7e01f3058e6c6d834497d49ee22ff5b"}
+  {:article/id "law/7075/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Açılacak davalarda husumet",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "1052ff031caadd5112b36be29779079b8f47e85d1a33e2a2f07e40406fc57618"}
+  {:article/id "law/7075/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "06e99a07213e1bb120d6014130f85fc1d07bb2c08a33b104c037a530b1284a30"}
+  {:article/id "law/7075/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Komisyona intikal ettirilecek başvurular",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "28ca919928370e4998eaa21ea10eea8429edbd2d5e6bb4b48465c5de6d0e4df7"}
+  {:article/id "law/7075/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Komisyonun iade kararlarının uygulanması",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "6b1ff9287173e9ed09612c7bd3cdc2b33f4842d7474080188583bd909dc07301"}
+  {:article/id "law/7075/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "İlave tedbirler için başvuru yolu",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "09203d5eb8dde0b974dc5d25988b0a281dab70abf5ad7ee6d32633c098f685d1"}
+  {:article/id "law/7075/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Komisyonun görev süresi sonrasına dair işlemler",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "5bea185eeaeb1e8ab93cff8a378d953b066f5d302144cc74143ba3f57f8ebdc6"}
+  {:article/id "law/7075/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "b30f63039668c7693b4a3a7d3fc2c090669773f2bedb9fed8a0e722e8fd2777f"}
+  {:article/id "law/7075/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "6dc128382bc87026a06af2fe7959e3bbb4e8331c3f7d9fd84ff1af47facf44d2"}]}

@@ -1,0 +1,115 @@
+{:document/id "law/7036",
+ :document/type :law,
+ :document/number "7036",
+ :document/title "İŞ MAHKEMELERİ KANUNU",
+ :document/slug "7036-is-mahkemeleri-kanunu",
+ :document/path "data/canonical/laws/7036-is-mahkemeleri-kanunu",
+ :document/sha256
+ "4aa481e80ab34cf598d31b0d737eb5cbd60ab214b9256def03904f65c8ff8a94",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7036.pdf",
+ :source/fetched-at #inst "2026-07-16T03:03:45.427-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7036/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "59e579943d9d918e94fc8d536c124546dfca93f802238aa8aa7aad4086c6d4f6"}
+  {:article/id "law/7036/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İş mahkemelerinin kuruluşu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6b1c7e3ac83dfee7500ee1eb2275dfed13bb0872b02d80119c999f1ce0d662ac"}
+  {:article/id "law/7036/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Dava şartı olarak arabuluculuk",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "34c8fda9a009dd245e6a4a7631cc94d36046eedf55e513331ebb5e4f6556303f"}
+  {:article/id "law/7036/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sosyal Güvenlik Kurumuna başvuru zorunluluğu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b9525a9b55a254b82bc052def38b37e3ee16b48d5a610691494ab1d567f3db78"}
+  {:article/id "law/7036/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Görev",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1cc4ba649e2175776ea2b613ac8ec6d3634c660af47e0e3e7ab6a6d9820a7af2"}
+  {:article/id "law/7036/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yetki",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ee32308a56baa6b5d69750f16ea8c4bcd6c9a7c92f2df070a03714b82dcdc74b"}
+  {:article/id "law/7036/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yargılama usulü ve kanun yolları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6e48c899e59ccba06e1100c669ea36587c081303241fa170d516484cd22366a3"}
+  {:article/id "law/7036/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Temyiz edilemeyen kararlar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "85989e80e324b09c787496c03b994578e80e492dcd43691e3ca80bc3a3351ecd"}
+  {:article/id "law/7036/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Hüküm bulunmayan hâller",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "972f553a4af7bca4816078c62003f4bfc3fc2c9633d2a270d687df79c1de81e9"}
+  {:article/id "law/7036/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5dc3dda9c13426d1db2ef482a49140dc8d25ca741380470ca189feb65f844a97"}
+  {:article/id "law/7036/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "61485178df75ce67540d55b2debbe7b8dce12204d6117f2db5e04aba00f7c815"}
+  {:article/id "law/7036/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1358a5f0d6bc51f6af18e0fa64882da02537d316b645e1fbeb061df2ae891a98"}
+  {:article/id "law/7036/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "876139d3681a4b03125adda6234d6ebc77a2b92455f476415a9922334c53a582"}
+  {:article/id "law/7036/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yürütme",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "5952c1913aeccea9150c1a15030a8982b8034f700311a334b7bc7784b2ec893c"}]}

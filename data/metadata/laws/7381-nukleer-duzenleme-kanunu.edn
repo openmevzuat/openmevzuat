@@ -1,0 +1,228 @@
+{:document/id "law/7381",
+ :document/type :law,
+ :document/number "7381",
+ :document/title "NÜKLEER DÜZENLEME KANUNU",
+ :document/slug "7381-nukleer-duzenleme-kanunu",
+ :document/path "data/canonical/laws/7381-nukleer-duzenleme-kanunu",
+ :document/sha256
+ "cb70f10bfa82e6c9adf95f535873fe87a0e36f69f2bece945dd0cc5b31888a68",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7381.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:53.974-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7381/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "38ec2e2e81a09e773bb1cacb419c17d81d4c4d77c04ae38edc7b193c88e8e2e2"}
+  {:article/id "law/7381/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b25d84377c6a44391021c603dc4deb0188a15bcaf78950135b31e6664defffbf"}
+  {:article/id "law/7381/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9809fcf887b2fd6b45b05b551095dd2b1a4751aea73b47fb4dee76b7277bc5d4"}
+  {:article/id "law/7381/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c096d16d9a3e843e4a3769771e3fa59f337ae42ab928c55da46e24278f1a4454"}
+  {:article/id "law/7381/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yetkilendirilen kişinin sorumlulukları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "77c64a61ad1cdfaeae7e4c1ca3cb6ba4f4d7522fad80a6b76f933c417bb60fd1"}
+  {:article/id "law/7381/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Onay",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "216438907ecd7c26305a5a485af89eb18cd974a59d67d4209a9836cb55f04a7f"}
+  {:article/id "law/7381/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Denetim ve yerinde inceleme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "8ef7f018079e06027d1b626d130a203f2547682bd3cfed04ec6597a9ce4027e7"}
+  {:article/id "law/7381/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kurum denetçileri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e9c08f8adfdb3d2de67686a2975a21f25a28b82904fcbc61bcebcbf9f9b63123"}
+  {:article/id "law/7381/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "9bb986021e48188fb48003c57d5eb0a9864364fe77e704c2dd81024b2b4ea62a"}
+  {:article/id "law/7381/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Özel hesaplar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "41df62ce93a12fc022bdfc05f1f9e8acffdc1879bbd763873b872960484e8da1"}
+  {:article/id "law/7381/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Hesaplar Yönetim Kurulu",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bb23b05af80e2b6a2a70efa89ed8de6edf8f6e729f30600a2e1aa6aed455ab45"}
+  {:article/id "law/7381/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "84662561def657f7c2437e0e977145b7d56287226d9a4f10de45b7375c6f0618"}
+  {:article/id "law/7381/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "İşletenin sorumluluğunun sınırları",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "4ebf74f33a88a2e9309f9daae247f59ea5d2f5aa8d52b1d88543c1a0fd39c671"}
+  {:article/id "law/7381/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "İşletenin sigorta yaptırma veya teminat gösterme zorunluluğu1",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "cbaab55f082ae7ed8f8cd649b1ec4b374469de3603be6e283bd49b60d606da51"}
+  {:article/id "law/7381/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Nükleer sigorta havuzu",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "ea8ed1c7dba5143437cbcccba04bfeeb767d03d7ce831d4fb81df4a8a8dc76de"}
+  {:article/id "law/7381/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Nükleer zararın tazmini",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a1fcb3b00fe6c9a818fe79f0345a5e8367cd6545be6436c3d528ecf752f2706b"}
+  {:article/id "law/7381/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Doğrudan talep veya dava hakkı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "ed1488e1fa47d6dedf0778b9894eb6e5ebd62a66ddc2d8570784194df510b332"}
+  {:article/id "law/7381/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Nükleer Zarar Tespit Komisyonu",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "36a63e04fe460acda10f62775529cd4f6bdec42cef6f762e227718131dd9636a"}
+  {:article/id "law/7381/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Rücu hakkı ve zamanaşımı",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "80fb6f90624dec53d87a7dd5a88aa5364ef537432fb9e5056236087e3860d13a"}
+  {:article/id "law/7381/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yetkili mahkeme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "33aa58e5f553fd4449dfbf95b3c81cb31106bb9566f4a19608318e5375796f01"}
+  {:article/id "law/7381/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "852a118305d7e16dbea2d3ebe8edb8aac2c6bcaa2c49963a78a2874673953cac"}
+  {:article/id "law/7381/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Personel",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "1bddec542882358e81361f4c010fc94b4e9700c18f016def03410a8a49fc42b9"}
+  {:article/id "law/7381/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "f6a27727bff3446aeaaab526f95f724c632637d59331241524b8d5d2a19910e8"}
+  {:article/id "law/7381/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "49bed30827c16c1e925c5e99e1fc169bc73c191415120887862acef5d3d9b5a3"}
+  {:article/id "law/7381/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İdari yaptırımlar",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "19b33f2ceb7553ffbefec43f3a6dc0cf4a3005f423a34ad95fb870d0ef7e2c24"}
+  {:article/id "law/7381/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "d775f287fcc11ed8d287953a58a2c7f664d72ca1432e5a952cb7b9c18be8510e"}
+  {:article/id "law/7381/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "1e1df21416fc76a9a1a06b8d7e8027c1156dced61f34655186ecec56b6e5fc45"}
+  {:article/id "law/7381/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "32537d682d8266542f38b8bcf5a53f73d6f5a8fb55ad7f94e1ec89a24a680aa0"}
+  {:article/id "law/7381/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "e2511aae38349bf49000842faaa9de8809c9547998a09be2f03dedb1e630f18b"}
+  {:article/id "law/7381/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürütme",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "d8882ef84a7c8cbd8dfdd0b0f86f49b7a955f4de8ae23e9e7ba040ac855ed4bd"}]}

@@ -1,0 +1,102 @@
+{:document/id "law/7174",
+ :document/type :law,
+ :document/number "7174",
+ :document/title "KAPADOKYA ALANI HAKKINDA KANUN",
+ :document/slug "7174-kapadokya-alani-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7174-kapadokya-alani-hakkinda-kanun",
+ :document/sha256
+ "e04dc85af62a406c5613be74c33074f7091e7344d4d03b4d35f57a5d94423e5a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7174.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:38.410-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7174/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7f4a99b005dc0a25d2f2b4cd675470ea22186840e004e50982974917447e24b3"}
+  {:article/id "law/7174/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7813dffc1169af2bd879d04356bf34c2220e3ef9ca27cc6813c06e308080cd03"}
+  {:article/id "law/7174/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Genel esaslar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "96eec30dd5a2bd031162dae2743e8df22806f6b8b774d9f0e321ecb3956331f9"}
+  {:article/id "law/7174/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e638e88d5d72027200afe30e5706d7257e315427bef07faede179bb221d3a0a0"}
+  {:article/id "law/7174/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kapadokya Alan Komisyonu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f4826a60d6db11ae6c89999e8a1c9ac889be24e3d8e67452aea85d45a81eb62f"}
+  {:article/id "law/7174/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1af7aace967011b078b999290f6f934a427cbcaafb403f67d5d43b10a84fccc5"}
+  {:article/id "law/7174/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Muafiyet ve indirimler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "af482519e2c2ea876e98f2f689fac66ce76a01d295dacd42bdfddd3f07356b7a"}
+  {:article/id "law/7174/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Cezalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a555596f7ee81d338dfc4b79ccb77e5eaefa950fb726e03af55b79acbb770dc9"}
+  {:article/id "law/7174/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "27e9b595637b756a6ff030b3d39e1b2bd259b7e39a30e2deeaa7afcb9d5bc4b5"}
+  {:article/id "law/7174/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş dönemi bütçesi ve diğer işlemler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "03e757e2eae2fd58e6be8b001640c0c8117976bdc1ac17bcddcdeeb246055a8a"}
+  {:article/id "law/7174/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b6b13e58d61d6125f89a66c4129647635b92bf199e610efea695e2259eb42050"}
+  {:article/id "law/7174/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "e2d0ae93ea4873981620da882a350ce81ffab21ba9541ed03eb840c28f454f9b"}]}

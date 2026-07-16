@@ -1,0 +1,69 @@
+{:document/id "law/7088",
+ :document/type :law,
+ :document/number "7088",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7088-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7088-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "5756d778b970b0ef78b2967f3e7d15aee4f525b0233e84d7b4fe0d87d5a54861",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7088.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:46.915-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7088/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "63e97a2ce561199348fdd1a56c1ae1b9d4eb44739f9d70f96e3785d89439c621"}
+  {:article/id "law/7088/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "47811f3c3f382c27fe3a70917ddffad32b57589aebfd0492aa3a8aae4fe2fa8c"}
+  {:article/id "law/7088/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kurum ve kuruluşlara ilişkin tedbirler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c9bc56878b02caf1a4998c1d39782438ef309cc85eea7092d698dbbebbdf97cf"}
+  {:article/id "law/7088/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yurtdışında öğrenim görenler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "77ce1908adf93db7815323bd32e44c998dd876b57aff39c95ff13b17d81d2ee9"}
+  {:article/id "law/7088/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Değişiklik hükümleri4",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "023ae78b1550c6e3e12476aa9e51b5fe3cf865f7428f33834628fae0dad2733a"}
+  {:article/id "law/7088/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "aeb819029592e1c431d67b8a366e72d1bdde8dd874f8d4a40d9b95ec261376a3"}
+  {:article/id "law/7088/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "eda8f19195ec7b04581ca1c06663fb6d0c1e1bc8586bb221a27bed1c9edba56b"}]}

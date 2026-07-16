@@ -1,0 +1,48 @@
+{:document/id "law/7142",
+ :document/type :law,
+ :document/number "7142",
+ :document/title
+ "6771 SAYILI KANUNLA TÜRKİYE CUMHURİYETİ ANAYASASINDA YAPILAN DEĞİŞİKLİKLERE UYUM SAĞLANMASI AMACIYLA ÇEŞİTLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI KONUSUNDA YETKİ KANUNU",
+ :document/slug
+ "7142-6771-sayili-kanunla-turkiye-cumhuriyeti-anayasasinda-yapilan-degisikliklere-uyum-saglanmasi-amaciyla-cesitli-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yap-c70df506d138",
+ :document/path
+ "data/canonical/laws/7142-6771-sayili-kanunla-turkiye-cumhuriyeti-anayasasinda-yapilan-degisikliklere-uyum-saglanmasi-amaciyla-cesitli-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yap-c70df506d138",
+ :document/sha256
+ "c5d3fd998a91bf81ead8b03d2c87988472274885e40e95f62fb6dfed9ebec604",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7142.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:15.521-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7142/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d11b7a83413f5203f996cf17c053c7ccdf4663e25f0ab884d42a657ecbaa5161"}
+  {:article/id "law/7142/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İlkeler ve yetki süresi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c701d8d6a8b0ddb50a0fcd0f4491def56bf0e6a3a14308bfdaac6882505ae12c"}
+  {:article/id "law/7142/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "18ffa25ac6801e8313861b581ce3aaedcb21f8e0cbbcb7aa37ba3d1dfcfbc1ee"}
+  {:article/id "law/7142/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürütme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c7ebfbae1b408afeac0bdfae98c2b53de717ac69fc6ac624697b750f09394c99"}]}

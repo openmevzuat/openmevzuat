@@ -1,0 +1,82 @@
+{:document/id "law/7472",
+ :document/type :law,
+ :document/number "7472",
+ :document/title "ZİRAAT YÜKSEK MÜHENDİSLİĞİ HAKKINDA KANUN",
+ :document/slug "7472-ziraat-yuksek-muhendisligi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7472-ziraat-yuksek-muhendisligi-hakkinda-kanun",
+ :document/sha256
+ "545b1c51ffc523eee896118cd85afa0fbbd3fbcb0373c8abc4b03a3ff1f1be2e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7472.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:49.070-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7472/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 41 Sayfa: 1101",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1798bf2760167125ee9e4c3eed8badc106a14555f0ea7ea4e6678be06b5c38c6"}
+  {:article/id "law/7472/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f298407c96fd8737fe652e87a7ca12d523bc1cc7ffb676ae490ceaaf01ee309d"}
+  {:article/id "law/7472/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "005e13ef8fd22e5ceb5a27b9f9cde99d50e5d998d7d8ad7bb83ffbf520b1961b"}
+  {:article/id "law/7472/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "afe8084bb9f17b785e8b5b03cafddd931027f354cf0d7f5ae49f1bd999d8a5cb"}
+  {:article/id "law/7472/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3e27bb7f298ff15814e48a43732d77ac9f63ca8d3c1022dadfef5195011c6245"}
+  {:article/id "law/7472/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ae8496d5a8a00f6a1233afdcc89ed99964dfdd44ca6a767f8053371eb9f2ca31"}
+  {:article/id "law/7472/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6ec6dee092fa2efcbe02205ec42e06de1bb266dec135ef754349efea4ba4ec15"}
+  {:article/id "law/7472/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "356f2989a2b9fdb02689c93a217a5c023edfe3f0482bf21b5b846242d9ee4db2"}
+  {:article/id "law/7472/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e21ce120f2c95d1af44d1325ae63feef8d5c19378d57111aa47bdf9a0dee859d"}]}

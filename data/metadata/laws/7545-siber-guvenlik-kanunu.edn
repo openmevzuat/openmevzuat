@@ -1,0 +1,171 @@
+{:document/id "law/7545",
+ :document/type :law,
+ :document/number "7545",
+ :document/title "SİBER GÜVENLİK KANUNU",
+ :document/slug "7545-siber-guvenlik-kanunu",
+ :document/path "data/canonical/laws/7545-siber-guvenlik-kanunu",
+ :document/sha256
+ "81573f15608d5ebcf6695c8cf4a6c6a14a70f3a4276729478f6810957c9662a4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7545.pdf",
+ :source/fetched-at #inst "2026-07-16T03:08:11.437-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7545/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8043aa5831df5e3755108a779996e9f3c08ee990833c10ed24ecf1d984b05d0a"}
+  {:article/id "law/7545/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9364415c6c8b77262b78246c9e3b12490fe3e4f2e83825e04fa30232f28071be"}
+  {:article/id "law/7545/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanım ve kısaltmalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "88bd451996bc1485459f7f60a320a1e9b3dcaa55d21986a950b71aec2e82bcc9"}
+  {:article/id "law/7545/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Temel ilkeler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1ef5c08d65bed15c84a3ccd514146fb908f3bf5dc04e9565f1cd3df1bf9427f1"}
+  {:article/id "law/7545/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0345a727b3cec91a7dbc609d342604af894b5c302b31ebb5689b42d7697f6280"}
+  {:article/id "law/7545/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yetkiler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cc9ab1e3a4568611d5edbede78e2041003b979b497f91043e3524be3762cedbe"}
+  {:article/id "law/7545/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Sorumluluklar ve iş birliği",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "848320bfa3b0ad89faa93c7cec2d7cc0c200e280b89e15c73eda9ffcdd69b400"}
+  {:article/id "law/7545/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Denetim",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "704b04ae543b0e74cdfa09972b6fa0950df9187fd229ab59b0e1a38745307ac2"}
+  {:article/id "law/7545/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Siber Güvenlik Kurulu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ea150a155995a13d3897443f78264dea8c7742c209843b6029d89065abce5187"}
+  {:article/id "law/7545/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "e02e149466a439955625417962e42a728a5fd487609dd25600b21446f26fce5a"}
+  {:article/id "law/7545/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Zorunlu hizmet yükümlülüklerinin devri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "26ca5d071c2f576cce5a482fd178ed854d63555f44286661ed4d0341d21c2439"}
+  {:article/id "law/7545/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yasak hükümler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "bc3cb2324b90cac008bf64a52b2d5418fc3b80dac19fc0c59be877890dc7ed51"}
+  {:article/id "law/7545/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Sır saklama yükümlülüğü",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "54b839f640db65a552688a95728e1675ee801626af74246807a6a8385eef5605"}
+  {:article/id "law/7545/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "75c6977da7352b45aec1abaf946a9e472da27092035a7ebed9de1dfc501d828a"}
+  {:article/id "law/7545/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Muafiyetler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "104b4c009d7086d30ff762723a535456f8275c35a3da17c73b9def13c9fcd2b7"}
+  {:article/id "law/7545/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "0df312f394f193c2c758e6c4c49ecd70af24093311bba183a00c83f7dabdb5bd"}
+  {:article/id "law/7545/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "İdari para cezalarının uygulanması",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "b5889afb3fe784a7410a2c3dad9c445b1d91104ed66de72a7057296f25b28078"}
+  {:article/id "law/7545/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "2d78f12356bbcc0283c3bb32a1738613e9a4b1f6cceb035196bbd83b11eddd36"}
+  {:article/id "law/7545/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a8b464d8e803fa426300498021d4eb8b21044b6b9cd07eaa3b336ea605c974a2"}
+  {:article/id "law/7545/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Uyum, geçiş düzenlemeleri ve kuruluş işlemleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ab12ba561d8a2fc665738b3a48de30f5362342e42d6fdf94c1a9bf980b850b2a"}
+  {:article/id "law/7545/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "4e459414341cb6fcd4d225fff54668d25d485500ee80ec124a77b4dd57b60517"}
+  {:article/id "law/7545/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürütme",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "feaa88328557f04a687338cad965c72c6fa324169d80233b59680f5d26494000"}]}

@@ -1,0 +1,89 @@
+{:document/id "law/7441",
+ :document/type :law,
+ :document/number "7441",
+ :document/title "AFET YENİDEN İMAR FONUNUN KURULMASI HAKKINDA KANUN",
+ :document/slug
+ "7441-afet-yeniden-imar-fonunun-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7441-afet-yeniden-imar-fonunun-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "ad2ad27efdcf9842d474cdb01d6bf3cc33837af4b07424f44a142e1c3a921c95",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7441.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:26.661-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7441/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "80f064a508925510df0f99f24b95d5a9269605a322ea7e1f980b577c078adbb0"}
+  {:article/id "law/7441/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Fonun kuruluşu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c4fb7b85120552c8992eaf8a58fc0025ca83572eb64e4268f19e12afa305ba03"}
+  {:article/id "law/7441/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Fonun yönetimi ve işleyişi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8ba2ae24684136d0bd47ce0619424cbbfbdfbd4460b9f133038dad9bea2c659f"}
+  {:article/id "law/7441/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Fonun kaynakları ve finansmanı",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3f2de0fd2e0664193d4dee0d2d796f9174abd4d7f5d7b30f1ba46d7b015effa1"}
+  {:article/id "law/7441/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Fondan yapılacak kaynak aktarımları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9b839c8ec9a4b59ce55d686646ebd7ea303afe780d38b716b9883086da74e2e3"}
+  {:article/id "law/7441/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Denetim ve raporlama",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d5368dde8c260b35df91e0174df755d8ce5c2a2968089cca94234b834392b3d9"}
+  {:article/id "law/7441/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Muafiyet ve istisnalar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "1d700d875d32322cdd96ccfca0cbdf8a71673fb6abf036e621b2e1f62ea3aaac"}
+  {:article/id "law/7441/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "50e9795f09ba3456a28b2ffee4ef30b492a763c182f674b0344875f401de76ba"}
+  {:article/id "law/7441/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "79c780c517f51a0c7a2af6fac9932ac20b25023efbdf3caa753cbc678e4109c6"}
+  {:article/id "law/7441/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d6e7ef3cf74e5d357d79a093ed33368838fc75f3eec24648a3d10976a8d9e604"}]}

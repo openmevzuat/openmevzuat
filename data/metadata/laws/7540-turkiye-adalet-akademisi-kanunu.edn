@@ -1,0 +1,165 @@
+{:document/id "law/7540",
+ :document/type :law,
+ :document/number "7540",
+ :document/title "TÜRKİYE ADALET AKADEMİSİ KANUNU",
+ :document/slug "7540-turkiye-adalet-akademisi-kanunu",
+ :document/path
+ "data/canonical/laws/7540-turkiye-adalet-akademisi-kanunu",
+ :document/sha256
+ "d9ca203431ce5b10bd11c447d86bae4cf235e7eb31284056c7a2fa8ba4e583bf",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7540.pdf",
+ :source/fetched-at #inst "2026-07-16T03:08:09.301-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7540/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "52ce6905222f9e104c39e8c1ea676e4a3b5983e4c29b137da74e178f36ef8640"}
+  {:article/id "law/7540/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "036f2e045b1501f954687b29e364f1001e6b5b52edb07ca1dec1c07a461ff55e"}
+  {:article/id "law/7540/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "bd79e5a79d3723e5ba9ec655630ce7bdae01cd9721bc6d274965b3e640e2a689"}
+  {:article/id "law/7540/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Akademinin görevleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "aa5b0af7f430648a4d433eae1c05c66330726b1e53ea4250058243d895553f78"}
+  {:article/id "law/7540/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8f66d85bdf15d4f292c64a54d57e87c1640bfd0374c637515d4abc0deaf8a376"}
+  {:article/id "law/7540/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Başkan ve daire başkanları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8443862f4f2f199214c4d72d148241743408ed3b5bed0106f92715b2fd315e51"}
+  {:article/id "law/7540/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Eğitim Kurulu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "972592231a401aff6bfb140f7c845391fc4420dd1467de3f46311997046af3c8"}
+  {:article/id "law/7540/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Hukuk Araştırmaları Merkezi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "fa6a076e250460c1daab6ed5c6314422404dcde9f8a5022facd5ddb9e6a436dc"}
+  {:article/id "law/7540/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e90bb00d072607141757495893ac455b1e7123ae04858e85994439439db80147"}
+  {:article/id "law/7540/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Öğretim elemanları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b15a9cca6a86b1c1cf2de332764e6ff02ddcc7227005953b607c75f613fe5a64"}
+  {:article/id "law/7540/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0c048a4c2a49b09cf6a07f22bf6a8cf8c5283d0786b60001d38455f9f84d71d9"}
+  {:article/id "law/7540/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Uzmanlık ve sertifika programları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e9ae17d2a7db171a3ea89dc53df57197c66e9818a08addeccae0bb6e0fda3dc6"}
+  {:article/id "law/7540/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "0f8453c5da3a7fadf6e64759b15834366b9a592bc100001bc2dd86df534d2461"}
+  {:article/id "law/7540/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Hizmet ücreti ve yatılı tesisler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "8c7a9e9d5406e3db3a5b0d71c096ca9373d9a9b721478bcecbc9da41b55a5e69"}
+  {:article/id "law/7540/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Denetim",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "f78390b6d0e90f7067548d3f86b21951aacfa22d4319e66ac5899132b2a9bb9b"}
+  {:article/id "law/7540/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "0c6193d473dc6686ee9f3e4294bdfd62846158060b6e8d045c0754708ffab287"}
+  {:article/id "law/7540/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "d3d1ade127e2e09d653ffe67e8199a97936297321d1e6d43c5a9b2a944ec5263"}
+  {:article/id "law/7540/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "23bba31c1aa2e5a8c68269cbf421679d9ca2140427c4a176148e5c400726094d"}
+  {:article/id "law/7540/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6638912e300863475f5fecafe92a8102be41d76761125d0679ed0e7d065b179a"}
+  {:article/id "law/7540/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "2d761012456508c9638d0f8f398f855f4753d97af2cf29e1feb2a155d237f9e7"}
+  {:article/id "law/7540/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "3b266c287d817f2a1a090a201f2ca6f44d5d5e0484ca1dd587e352a0d7c91511"}]}

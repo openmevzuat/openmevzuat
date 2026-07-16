@@ -1,0 +1,76 @@
+{:document/id "law/7098",
+ :document/type :law,
+ :document/number "7098",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7098-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7098-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "fb815ee5b34af84a0abadbe1d85eee02e2a0014a069519574dbb2e58137951e0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7098.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:00.611-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7098/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3e4da4076af36d3e72d53ec2006e1ae1aaf932afab2503bc07644585e87116d7"}
+  {:article/id "law/7098/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d3822ba5b7bdc10efe71aa3edba0c613b90ed701fbd81da741db6fb3dcde50e9"}
+  {:article/id "law/7098/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Rütbesi alınan Türk Silahlı Kuvvetleri personeli",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f5d675ff34ed4ea44157fe77824f015d197cf8e81bfc433acd93e935b746e070"}
+  {:article/id "law/7098/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3b6b72919f8af114daa8c84fb9848e5229f4215de6345dcecb8c94e8f3c9a486"}
+  {:article/id "law/7098/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "21f9a144326afed48a2ee4e18a11b9512f277f2b67eff49d9cdb1cc02f9fb7af"}
+  {:article/id "law/7098/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "085a16b8e62f9120b3d148d0ba9878c9d3bde2869e669512a75f9a66c1467dd8"}
+  {:article/id "law/7098/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/7098/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ae0f4fe2924bb93797cda7259edebc1372a6bcfff506c281507f4629762551de"}]}

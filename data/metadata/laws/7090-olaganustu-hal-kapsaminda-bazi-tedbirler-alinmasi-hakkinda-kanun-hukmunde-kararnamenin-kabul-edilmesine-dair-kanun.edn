@@ -1,0 +1,63 @@
+{:document/id "law/7090",
+ :document/type :law,
+ :document/number "7090",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7090-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7090-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "523bc49c617a12c5baa7c86ea02d0d487bcf86cfeb7e28fadcb78c0d808edf2e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7090.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:51.872-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7090/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "41ba49118b9bdc23652b1c39b73e386a6eb8e9df6b3546fe73862d252a28e9f8"}
+  {:article/id "law/7090/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3668b577e4fa07d36f360dc444d79cfa72482f2bd8cdd63bd4feeedbcaad3d66"}
+  {:article/id "law/7090/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Rütbesi alınan emekli Türk Silahlı Kuvvetleri personeli",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "452a91176719856e146f1d6a9ecc9b122469b6106a46d344b7056ff052ed4a66"}
+  {:article/id "law/7090/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "93fe2576eb32253c5cb6a94513dedaa17c3ae85e41d84d9eb433965ec3218327"}
+  {:article/id "law/7090/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/7090/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4725d1fa1afa4f90a51dc557f95e589346a3e4e0f805f10a316a9bb540e29781"}]}

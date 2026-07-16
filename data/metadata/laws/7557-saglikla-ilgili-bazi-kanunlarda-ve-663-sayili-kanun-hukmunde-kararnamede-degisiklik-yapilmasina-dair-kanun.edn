@@ -1,0 +1,41 @@
+{:document/id "law/7557",
+ :document/type :law,
+ :document/number "7557",
+ :document/title
+ "SAĞLIKLA İLGİLİ BAZI KANUNLARDA VE 663 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "7557-saglikla-ilgili-bazi-kanunlarda-ve-663-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/7557-saglikla-ilgili-bazi-kanunlarda-ve-663-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "d0bef039ddbe4213afc56fa1eca51f7266430cc8ce0e173d5af1a4602dc5ab80",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7557.pdf",
+ :source/fetched-at #inst "2026-07-16T03:08:16.691-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7557/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "77e3c574ead5c376520bb359d6e13f24232ca104117cf539f0506ababe440a5f"}
+  {:article/id "law/7557/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "ac219db4aaa1680e01d106d67f3ecc8163be53d1b8d76fb483d1e24f0bc3710d"}
+  {:article/id "law/7557/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "a656723a46c872b89db1f02aee939dc3f1ffa301ecb4112143d378f970f29f10"}]}

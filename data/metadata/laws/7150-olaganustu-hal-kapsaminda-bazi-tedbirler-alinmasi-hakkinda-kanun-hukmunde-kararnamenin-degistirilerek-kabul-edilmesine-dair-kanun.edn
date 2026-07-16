@@ -1,0 +1,91 @@
+{:document/id "law/7150",
+ :document/type :law,
+ :document/number "7150",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN ",
+ :document/slug
+ "7150-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7150-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "354792f3b1504abed03c662f0886ae15e8769cc6cb7c1f5f877e6fbb35a41807",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7150.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:31.797-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7150/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "46493d17e58e403f31c46b12772ea5ca245d356a2ef868b793a86024322b82ab"}
+  {:article/id "law/7150/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b3c57824ae7ca5d579e8340027e968b63dbcd9005e82bf8259c57a60ae286260"}
+  {:article/id "law/7150/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Rütbesi alınan Türk Silahlı Kuvvetleri personeli",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4ef46b38790734c76795f0268bf18ef466f9077ba1043648640afce61cdc597a"}
+  {:article/id "law/7150/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Rütbesi alınan Emniyet Teşkilatı personeli",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "62048bdd20e777ba7f423903154a0327919cea3b42969fc2bb4b2c746015ca53"}
+  {:article/id "law/7150/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Rütbesi alınan Jandarma Genel Komutanlığı Teşkilatı personeli",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f28f26e6895461c82d84efb21f3c604c5e0dda1ed52b16bd698ac87c683bf052"}
+  {:article/id "law/7150/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yurt dışında öğrenim görenler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8ea5b372ed750a1a8e79d8c6d57da041765c8a74a7d7cc77e1dbe851f7a218f6"}
+  {:article/id "law/7150/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kurum ve kuruluşlara ilişkin tedbirler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e8fc79388f74620a2884d86ceadda7c007a9ebcb9a3f6a9a7a4541d5e19d5227"}
+  {:article/id "law/7150/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1f4f7d69bde3cd66f98f9057b885029e7a5af3339adb6ff29c2f48bb5b098abf"}
+  {:article/id "law/7150/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f6286aae4eb41a3b64b6b8a4d19b73d38609480143e2a460b63b2f00e202a25"}
+  {:article/id "law/7150/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a401b72da1724147bc92cbdc0dc24c06b7b7dd6d9b3befdea129623b443ba266"}]}

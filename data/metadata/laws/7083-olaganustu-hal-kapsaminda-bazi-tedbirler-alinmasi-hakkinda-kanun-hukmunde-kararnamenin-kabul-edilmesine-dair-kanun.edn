@@ -1,0 +1,91 @@
+{:document/id "law/7083",
+ :document/type :law,
+ :document/number "7083",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7083-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7083-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "9986efc7ff37fab8e565a91cf5b99e109da945041c3e907c3b401096e59d6eb5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7083.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:32.038-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7083/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d6d724caf1eccbcd0dada6f84a60b017924b897af28dcbe282c7bba3de9f934a"}
+  {:article/id "law/7083/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Göreve iade edilen kamu görevlileri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "00c00838ec71b5f79d959fe2163fecf12bb17e7cd9b9fdea64a43f291155fc3f"}
+  {:article/id "law/7083/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Kapatılan ve kapsamdan çıkarılan kurum ve kuruluşlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4f3b966ae36aeb04c9fbf22bd4343e06c00a4a2a6c21fc340218d88a4bdd9fac"}
+  {:article/id "law/7083/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sınavlara ilişkin tedbirler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b7c68351c2511ceaeaa7a9d947145f87fa618db87f953d3a9dcba05a826bf695"}
+  {:article/id "law/7083/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Askeri okullardaki lisansüstü öğrenciler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0a5d12a60a08dcf8b78fe05132803c3666d670811ad66017d05f6d9abc234356"}
+  {:article/id "law/7083/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Tazminat taleplerine ilişkin kısıtlama",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "63008f4da2f30e20b0973a5a27e57457e231e16cfc4e04cf142e026cbb9bc327"}
+  {:article/id "law/7083/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kayyımlık yetkisinin devri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7eb2a0b95e458065ecca383cdd6ea13c7287e8aeedb757e38873f50ff4d3fb50"}
+  {:article/id "law/7083/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "İptal edilecek ihaleler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "401cad6939a15bcd7d4826d9db11a205ad2fad6094f37b8afeb9bc40b79bf909"}
+  {:article/id "law/7083/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "79c780c517f51a0c7a2af6fac9932ac20b25023efbdf3caa753cbc678e4109c6"}
+  {:article/id "law/7083/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "f35bd8029b11edd8c5c21fa62f11b243e328b270a02845f188f8156e698bcccb"}]}

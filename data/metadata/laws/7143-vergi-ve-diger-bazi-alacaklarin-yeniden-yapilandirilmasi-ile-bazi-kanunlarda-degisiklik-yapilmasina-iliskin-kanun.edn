@@ -1,0 +1,204 @@
+{:document/id "law/7143",
+ :document/type :law,
+ :document/number "7143",
+ :document/title
+ "VERGİ VE DİĞER BAZI ALACAKLARIN YENİDEN YAPILANDIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+ :document/slug
+ "7143-vergi-ve-diger-bazi-alacaklarin-yeniden-yapilandirilmasi-ile-bazi-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/7143-vergi-ve-diger-bazi-alacaklarin-yeniden-yapilandirilmasi-ile-bazi-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
+ :document/sha256
+ "b37757c820ab25f18970590c59399b75138bd9e4c7b04ba21613b468744b72c5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7143.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:17.718-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7143/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam ve Tanımlar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "701f3f8f88f474fe5d1f0a1e0224023613bacb979e6ac65c44d8c3e96551aed7"}
+  {:article/id "law/7143/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kesinleşmiş alacaklar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f914a83a97311b81759d1874cbdb354b8db1512f0dd8bdd77211995f4d2b5437"}
+  {:article/id "law/7143/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Kesinleşmemiş veya dava safhasında bulunan alacaklar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "84a476efe242d64b9391ede4efc6b09c893a0dd1266fb7bc5b8662eaab4b92f6"}
+  {:article/id "law/7143/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İnceleme ve tarhiyat safhasında bulunan işlemler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "802a7737cbea9c66888ab31f40e0c54fe8f79363a9c07a2691cb445530b55718"}
+  {:article/id "law/7143/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Matrah ve vergi artırımı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4a24c6a26ee811a3e5428a86d34036475ca64b0932edef09e7d6db3ee22a4e1f"}
+  {:article/id "law/7143/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İşletme kayıtlarının düzeltilmesi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b74be22199caa081d1deb5f9f7ea5eee5430c1fc76030cf75e7816fbc27d573d"}
+  {:article/id "law/7143/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kesinleşmiş Sosyal Güvenlik Kurumu alacakları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "de60520e54a623a500dce3deb72256a69e8174c9fb5fc97c03497c47a9540591"}
+  {:article/id "law/7143/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2189332368772a54eae78b1d76e22a11dcb7d16347efb30d3d7d668b48a23487"}
+  {:article/id "law/7143/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ortak hükümler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ba77c3461a2ca912d56108324e83c539ad32a9b7b3844ca282fdf26b0697c30e"}
+  {:article/id "law/7143/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Diğer hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "7b39569d0b76bc0abe02c17d38d7fde4882a117040c2c1277050de15285d47f2"}
+  {:article/id "law/7143/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Mücbir sebep hâli sonlandırılan bazı yerlerdeki beyan ve bildirimler4",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "852791c7d943d452a5dd558e9fbc9529e85a8dfaf3fcd81dd6b075ada8aa19d7"}
+  {:article/id "law/7143/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "987d224e60e821bcb970a419b489c17c5d988472ad3bd82de4f786e0cb7b48e8"}
+  {:article/id "law/7143/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "0e770ee6d08fdb9da3656f5273095c0c8914326c2218ad4a69771ad9dbacf74e"}
+  {:article/id "law/7143/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "9a567219c75f927d80dc54f8e26f19531bd922acb942509a865e907f1fe0ee12"}
+  {:article/id "law/7143/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a9ee491c053e7f54c63a32b05cd010634cd5f07a079fe322787d04bf4b7aa5b9"}
+  {:article/id "law/7143/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "7825630efc528f77cc633a6fcbfa341199f7c31fe22c9267200ade3de87dc7a8"}
+  {:article/id "law/7143/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "aab25a97608736640a6e5557eb1da40cdcfc9f1c6237e3a153513184dee2220b"}
+  {:article/id "law/7143/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "16fdef9fb86c9c51c6e31df3e7da7a7854e94c3c2c534b13893123914e8abdc4"}
+  {:article/id "law/7143/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "f5e6cad4b6e7b3341221c0dfa616397395f63669ce6ff4c3fa63fe4802370dbc"}
+  {:article/id "law/7143/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "5be057fc2fe243099ffc0153c1d3f600f261dfff63b718d3146c944c8320b1e8"}
+  {:article/id "law/7143/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "9850155472dc39f0544ea6571b06540b4d06b07174037e83f125fcc520d4cdc0"}
+  {:article/id "law/7143/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "82d9b0b60096f8f879f007e74d3ab0e4563ee73962dd350563d1dcb8fe8a674a"}
+  {:article/id "law/7143/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c836410128bbbb5d5f7d4034136ef610bc75d8057ead987c483f4597ffb14e69"}
+  {:article/id "law/7143/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "7b47d8c813158df196a79431416e3b2d5d4f6a394733f1d01cb8a5fd3aee6415"}
+  {:article/id "law/7143/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "f5aaec737d111c679e1aab9fd42928db7e0e272a17c50ebc4675ca19a45b915d"}
+  {:article/id "law/7143/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürütme",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "5c8358af67991c46529d12154b58a26b87b3671fdd185ff4d3a09992a81c6047"}]}

@@ -1,0 +1,151 @@
+{:document/id "law/7245",
+ :document/type :law,
+ :document/number "7245",
+ :document/title "ÇARŞI VE MAHALLE BEKÇİLERİ KANUNU",
+ :document/slug "7245-carsi-ve-mahalle-bekcileri-kanunu",
+ :document/path
+ "data/canonical/laws/7245-carsi-ve-mahalle-bekcileri-kanunu",
+ :document/sha256
+ "a051ec8eae3feccfd42d4662a270ce8632b3f554d31d8d90378137be413488e7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7245.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:14.387-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7245/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0b2f9d3c6bef725bc3d5a6c1911b68359fde449116d2fdd80f3dcf1e783a45f7"}
+  {:article/id "law/7245/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İstihdam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0ea20298f65739e8c0d6ba1fca7291541f54f1f6e35b76966fdaef958937aac1"}
+  {:article/id "law/7245/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f76dcf62d18d020a90e1c8ba223b543b8ad3f98263e698f5877c340b00d9eb1a"}
+  {:article/id "law/7245/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Atama ve adaylık süreci",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7ccee5bc6427bee4bd1e3eb9a54635a4e985dc7986f8489d8ec2c099810d2a77"}
+  {:article/id "law/7245/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0b1f6f678efb49e447e412b07f9771be1ff6bc2ea90f50d4b22a8e2397710b3d"}
+  {:article/id "law/7245/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Önleyici ve koruyucu görev ve yetkiler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "51bb8685adca5e73aa99c853dec68b7951fc95def552f13832e319699adda9db"}
+  {:article/id "law/7245/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Durdurma ve kimlik sorma",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "5a4737d937a748a2898bdb51c5f5517e1c69737f0a9203cb9e73008c2aec092c"}
+  {:article/id "law/7245/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Adli görev ve yetkiler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4ce1eaa0f40332006e06d9285e44bbfc359fcf36bf6a7f559c8ea62937e498a3"}
+  {:article/id "law/7245/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Zor ve silah kullanma yetkisi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6db11d230e4a27419d52b69b8bc4eade72b4df0a5012bf3cc4d55516873f2f5d"}
+  {:article/id "law/7245/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Genel kolluk kuvvetlerine yardım görevi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "598f691c10b55f1c635a5b91fa859e75528f377c9ede38be92e3c37106fb2f22"}
+  {:article/id "law/7245/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0a4c627e78c995486934b35c7418b6447a9b7ead228f2db2652fdbe759a0671f"}
+  {:article/id "law/7245/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Çalışma saatleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "5d5c2523b8655e31437ae893a40437ce5ea8c7f59856c100808a0b199cf02725"}
+  {:article/id "law/7245/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Disiplin, ödül ve performans değerlendirme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "c334358e5bcb046e66f0d54f77eb6e52fe5422da1d9c12e4fefbf924435fd5c9"}
+  {:article/id "law/7245/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "3c43c0ddfa3e7e467da42ee58c50309e4d34cf4b742ff51a36814bbd723f1cff"}
+  {:article/id "law/7245/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "0ccfa8dfc8d33a8e5423096cece9a0464ccc439caf6b246c66bc2185d279ef28"}
+  {:article/id "law/7245/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürürlükten kaldırılan Kanun ve atıflar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ce6e6cc66e2b2471a5846c42d3ee6e26bb57d4db7f22950b5035f5d4a21c3de9"}
+  {:article/id "law/7245/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "8309901d2a61e2b62d3eae8f3cf46b69841a2bd00a2edb0ac2623ccc5ab62193"}
+  {:article/id "law/7245/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "12ad3fb7343704fa11f331c376d623400540ebf96a44a87dad8480997e771b6a"}
+  {:article/id "law/7245/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "dda67533ccd3b662cf5d381f1bf67744b337c78e2a434feea503dcfd0cb3b9e7"}]}

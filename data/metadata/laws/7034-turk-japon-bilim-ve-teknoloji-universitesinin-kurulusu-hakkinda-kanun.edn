@@ -1,0 +1,90 @@
+{:document/id "law/7034",
+ :document/type :law,
+ :document/number "7034",
+ :document/title
+ "TÜRK-JAPON BİLİM VE TEKNOLOJİ ÜNİVERSİTESİNİN KURULUŞU HAKKINDA KANUN",
+ :document/slug
+ "7034-turk-japon-bilim-ve-teknoloji-universitesinin-kurulusu-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7034-turk-japon-bilim-ve-teknoloji-universitesinin-kurulusu-hakkinda-kanun",
+ :document/sha256
+ "8d81aa3a37b2071b42cb0460e25d7edc2e3b413c01ae220d1d507cc6270c7568",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7034.pdf",
+ :source/fetched-at #inst "2026-07-16T03:03:40.839-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7034/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "be034cdbf7a91eca91f35909431f809e8056a4e8f452184b9e5ebfdecd7b9b30"}
+  {:article/id "law/7034/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "24959bd84579045bd566208e6219246124ef0f356fa88cdcb3cb52408aa02193"}
+  {:article/id "law/7034/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kısaltmalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "cb5285f3404e781e6579d90ea8011e6a885a44a1014e16fcb790f91af247c8d1"}
+  {:article/id "law/7034/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Üniversitenin gelir ve muafiyetleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4cce36818b471efb4af281df972944d8df71eee7d7cfb0aa977dcbb3762aea26"}
+  {:article/id "law/7034/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Vakfın gelirleri ve muafiyetleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "41123631061927cace11d9261e05ea3888ae8e25c22ce87b9efd2e5075944724"}
+  {:article/id "law/7034/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "23f0d63545f64b55c15ff4f29d50e033038208b1de09c5dc67ca09b7fec98033"}
+  {:article/id "law/7034/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Çeşitli hükümler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c7b8ded60c94696dd83f5b52ca32b7c7cc0d8522ff42f146246e9f56d3bf31eb"}
+  {:article/id "law/7034/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçici hükümler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "92a2957ed96b28a98d01fc87125dd09a961fee6677e93d85c415bd6c376daec8"}
+  {:article/id "law/7034/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f6286aae4eb41a3b64b6b8a4d19b73d38609480143e2a460b63b2f00e202a25"}
+  {:article/id "law/7034/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "fdda4e6113d9409a1f03ea06595fd21eaef4098fd7a482500cfe589576670188"}]}

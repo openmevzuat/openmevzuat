@@ -1,0 +1,189 @@
+{:document/id "law/7071",
+ :document/type :law,
+ :document/number "7071",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7071-olaganustu-hal-kapsaminda-bazi-duzenlemeler-yapilmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7071-olaganustu-hal-kapsaminda-bazi-duzenlemeler-yapilmasi-hakkinda-kanun-hukmunde-kararnamenin-degistirilerek-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "fa0e5dd3d5d7feec14d2cf21afc08b6f14cf96923aa0ce290ccc78cef1c3c0a6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7071.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:04.417-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7071/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Güvenlik ile İlgili Düzenlemeler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4e486b0a3bd8fdfc553e4ab44c2377c8b754aecc0c5114e24123e2feae108e68"}
+  {:article/id "law/7071/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d1f6a4dd4616c1bdd04baefac913e1bb88dbeb2af8093fa94fe88601b5fff457"}
+  {:article/id "law/7071/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "910512ca9a43f7413dd410cf4262254af3875e6bf340967504c2b4ebfe9c580f"}
+  {:article/id "law/7071/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "934716bda8eafb2ae1019f2fb9d500d555c049cb26e6ed1c643bec0bea2e2b59"}
+  {:article/id "law/7071/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "KANUNLAR, NİSAN 2018 (Ek-101)",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "41bfb166ddfec51a4ca127ef0128eb8c482534e3bdbc1a6a876fb30eb153b175"}
+  {:article/id "law/7071/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8093d4c176b8251af940b1aefa523c128ea52b02cb0d12ea9f85e68ec90209aa"}
+  {:article/id "law/7071/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5fe35b1887d20f1a87f9cbf7f4d2dbbba4f24646ccd8b213a004984b56619a15"}
+  {:article/id "law/7071/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "b85a4cf2fd1e4919b9fbb2f3a82b285cbc9876b209e850efd2f2c60959040674"}
+  {:article/id "law/7071/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "e67d014c9a574573707b04667fa756e5e05113cb50172c889c1b64f1b485643c"}
+  {:article/id "law/7071/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "0519a651429c1ec3800d3bdcb191a9ad4640b47c5e1be2828aca07e35c559277"}
+  {:article/id "law/7071/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "ccc7999f7709189ebfc8d7b3fcf945e0416cdc1fde428aef3a85b5e64b61deb4"}
+  {:article/id "law/7071/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "30d1308716f35906587b95ec75ae58904ce224e67b363eafade32e04535cf5f0"}
+  {:article/id "law/7071/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "dd103bc251a2bc84269d9d14dfd0408cf8d553d827bdec0c3e9e018c2c7aa34c"}
+  {:article/id "law/7071/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "3b8e521537f5ff947585afb017afb84eff4c23fb742ad80315265c5aaa746855"}
+  {:article/id "law/7071/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "5e995794689826d78f22c1d9d0d4f604c1c2ef279fb0bb335712e0a4427a511d"}
+  {:article/id "law/7071/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "e208ac376112fdea329c998e783305c55562941b6e8c7d23c39b07c0411ee64e"}
+  {:article/id "law/7071/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "ff3efad9f54aec413a2fb61a195721ba3b2fb18476277abf9dffc56ef7b94012"}
+  {:article/id "law/7071/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "598da8879e87b84a506fb2c590cecee2d9ecf99edb23f7e220a1784f8909bafb"}
+  {:article/id "law/7071/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "59efbacaec689753d21616a1ebc5c3b4c9af4a8028e07c7e6f3c9bc1c86486c5"}
+  {:article/id "law/7071/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "ce043d4af533d0fe1e857a062267ecf632e397dd84525b1bfd14cb51df32b8f8"}
+  {:article/id "law/7071/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "KANUNLAR, NİSAN 2018 (Ek-101)",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "ff05bd4c0a96e429b31c3de7911fe6ba9647a73f78c9619edd89c35f408795b8"}
+  {:article/id "law/7071/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title
+   "TMSF’nin kayyım olarak atandığı şirketlerin kefaleti",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "06e09e48324fb5b6cabb0e020c804d1c67921abb1d5d90e009c9d597c523500d"}
+  {:article/id "law/7071/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "396cf5cb268f21868d7a534ddad245c3af581f2ec9727868f275a49ed5e32fc5"}
+  {:article/id "law/7071/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "3e48794199acac80ca94b8aa66a822dd6c2b69d3bec479b5412c9d5941d95a26"}]}

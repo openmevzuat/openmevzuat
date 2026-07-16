@@ -1,0 +1,48 @@
+{:document/id "law/7039",
+ :document/type :law,
+ :document/number "7039",
+ :document/title
+ "NÜFUS HİZMETLERİ KANUNU İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "7039-nufus-hizmetleri-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/7039-nufus-hizmetleri-kanunu-ile-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "b53088c750407f2df298e00a551c3357a3397e401ad02cea80914951bd1475e7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7039.pdf",
+ :source/fetched-at #inst "2026-07-16T03:03:48.401-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7039/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "ile ilgili olup yerine işlenmiştir.)",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "f6e6f35454c1356a27a7a81796b5039e91ce55e90f076bc4d528e6ba51c7c9ad"}
+  {:article/id "law/7039/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "d58653cbf07d9442b0c7d54d12a3b2d9b6f25abd0fbd222a2c367ef4e6786e7c"}
+  {:article/id "law/7039/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "69603d150bdb47435fa4f0b4429e719a510bb8ff916ddede8d2d0517ca130f9f"}
+  {:article/id "law/7039/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "f3ab72d090b40c3d405ae112e163ef0b86b339b7cfb26df7e124b32a20d16bdd"}]}

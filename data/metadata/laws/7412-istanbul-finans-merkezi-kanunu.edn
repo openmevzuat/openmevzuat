@@ -1,0 +1,118 @@
+{:document/id "law/7412",
+ :document/type :law,
+ :document/number "7412",
+ :document/title "İSTANBUL FİNANS MERKEZİ KANUNU",
+ :document/slug "7412-istanbul-finans-merkezi-kanunu",
+ :document/path
+ "data/canonical/laws/7412-istanbul-finans-merkezi-kanunu",
+ :document/sha256
+ "6d9a11663f82e7614457d32cb7ae91447ca04bae9add8107aeb9eef69ac1291e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7412.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:03.065-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7412/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "acf0de1fa54fc27607e28ce6f099f2425a5ca914d5d4ac3e7d05d9422767c512"}
+  {:article/id "law/7412/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar ve kısaltmalar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8306c95652b17703cd9e0d8420cb8e33260a76691fea372c65e651e6a7c358cb"}
+  {:article/id "law/7412/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Alan ve katılımcı belgesi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "17bf69581345c60674ee499ef20de1d39727ccfb9e4df49f4ff13d2609245337"}
+  {:article/id "law/7412/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tek durak büro",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "16b85791894e3b1852bb170f299f98534cfb3f3846951d3e9b184e8be39a9d4a"}
+  {:article/id "law/7412/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Finansal hizmet ihracatı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d5a61d6b716820b262e382347d6ef62b14ff86328e75e968a2a9e54046c3ed3f"}
+  {:article/id "law/7412/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Vergi ve diğer mali yükümlülüklere ilişkin istisna ve indirimler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "822b7ccb3eb9cdd20e764858ed01238f69a60fbeb86f6c7059ae7e58c94c1534"}
+  {:article/id "law/7412/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ortak düzenlemeler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bc0ca04c83933ce06f382868de0d5a0db4a59b9fd365e0207e560cf1df8042ff"}
+  {:article/id "law/7412/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yabancı personel istihdamı",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "682e81e8e8228399df687ef8427544e1feb3ce3e4d12a7b4a91a005962cf67e1"}
+  {:article/id "law/7412/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Taşınmazlara ilişkin düzenlemeler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a7e30c5d4f4195b8cabb608e2536d6acea5aa33a7e526d92883381d7c52d475d"}
+  {:article/id "law/7412/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "dccf490b1e0abf573460ed776d49bb24a65d8f01aa627d400a6740cd7240e1ce"}
+  {:article/id "law/7412/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title
+   "Kurumlar vergisine ve harçlara ilişkin ilave muafiyet",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2ee302edb5eb870e3629d6716945395cc13c6d40715d30651adb45f4d8845bcb"}
+  {:article/id "law/7412/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d249ae078176b9fa7287dbd51b7741eecd93055648b0606305d4d5a8405bc35b"}
+  {:article/id "law/7412/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bbf59198ccf1698221c6a0f9828fe9c109c52bf3083b6d866e6165bb3df06aa3"}
+  {:article/id "law/7412/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7e55efa60b2c03f78e3699afda3b2c60e92d3db46bdd7c39c796aafed214cc3b"}]}

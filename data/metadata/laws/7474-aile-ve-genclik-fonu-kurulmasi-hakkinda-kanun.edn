@@ -1,0 +1,81 @@
+{:document/id "law/7474",
+ :document/type :law,
+ :document/number "7474",
+ :document/title "AİLE VE GENÇLİK FONU KURULMASI HAKKINDA KANUN",
+ :document/slug "7474-aile-ve-genclik-fonu-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7474-aile-ve-genclik-fonu-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "01da67bbd799b2bb0f19a18fa0b29253ac765239e74e9b88c12fc2d66648fbd7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7474.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:51.021-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7474/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3d41a9b5ce65bcbbbd00a530ec9eaf7e4b93104c2c53ecbc200cec344e88729b"}
+  {:article/id "law/7474/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Fonun kuruluşu, yönetimi ve işleyişi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f583eedb7c390aa1f36eaa588cb6be3fc0364ca243d6e10aedf1986c51c06bc7"}
+  {:article/id "law/7474/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Fonun kaynakları ve giderleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ef493a61e80ae279f110ecc37a794cfac3a0f2f02cc40c17465abad26948cc20"}
+  {:article/id "law/7474/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Fondan yapılacak kaynak aktarımları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "12fb2c27bebd596657eda5fc571d263e2af60b014fab1e2be3b9435cdb0cd27a"}
+  {:article/id "law/7474/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bilgi verme ve raporlama",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6bc42d85869de2ec2b6152dda6a4ea055e5d45e8eb8ff6b3439b30a2421e819f"}
+  {:article/id "law/7474/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Muafiyet ve istisnalar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e980c243382aabd903788fba78bef57a825a34e91af195332ea1f30a65858fbd"}
+  {:article/id "law/7474/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d7baa9b99781bb1fa6fe22a2449d631607d593ed5308ce7c1f514bbcbfb8b984"}
+  {:article/id "law/7474/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f6286aae4eb41a3b64b6b8a4d19b73d38609480143e2a460b63b2f00e202a25"}
+  {:article/id "law/7474/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "15c3eed1066127c5e4d793e6fc4b7f02fdd8f4727d7a704ebde2e58152eecd2c"}]}

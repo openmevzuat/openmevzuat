@@ -1,0 +1,317 @@
+{:document/id "law/7068",
+ :document/type :law,
+ :document/number "7068",
+ :document/title
+ "GENEL KOLLUK DİSİPLİN HÜKÜMLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7068-genel-kolluk-disiplin-hukumleri-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7068-genel-kolluk-disiplin-hukumleri-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "118f3dff68ba0fada64ab54c808b82f8036790e26af1d3c079cfbc4de7aec2c9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7068.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:00.931-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7068/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "833cbbf68f9983ecfca63e03780f6ea9f6581e1ce5eccf61cb1ea74e24f4cca7"}
+  {:article/id "law/7068/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f852cac480761bfabbf2770bd7bf6afd57881b261fff6e05142aad15f8fc93d0"}
+  {:article/id "law/7068/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5f0ddd646394971787b809c07f67f51d5652c926a3c6bfb753007686a9190acc"}
+  {:article/id "law/7068/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9822d23fbb2028a183032f396507a9e653722a8e62bd5d67881a92cc41f26371"}
+  {:article/id "law/7068/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Disiplin soruşturmasının adli soruşturma veya kovuşturmadan bağımsızlığı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3c99060146e0c0c0ac099bd472a62c5a9c0f593f6664381ae3dbf2dda33e9e8e"}
+  {:article/id "law/7068/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Takdir hakkının kullanımı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "fb1a266af2fe50146cd946ffc4bcc550f62304abb92ab756c14a000ed0bf3dc8"}
+  {:article/id "law/7068/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d75d18b6602fa3fdace744151d50e2cac709eb5494d4f93dabd0298d6e2300a6"}
+  {:article/id "law/7068/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Disiplin cezası verilecek fiiller",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7345f75046b82a79b725631a1d0ed4059ce9c7fac9b3f61645f71508587b7130"}
+  {:article/id "law/7068/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Devlet memurluğundan çıkarma",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "aebca504aa19f3c50f19dc0c1a4a42b71727a859a744fbf01aad9461b483632a"}
+  {:article/id "law/7068/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Ağırlaştırıcı nedenler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "94a7071a6af05c7606f0eb129a0647a38796e994fa31c69a860f1f25e3f6fa09"}
+  {:article/id "law/7068/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Geçici olarak kontrol altına alma",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "8d16fa480dcbdfd77cea199330ac119c84e5120314bf3a40d445ab847e97ba57"}
+  {:article/id "law/7068/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Disiplin ceza puanına bağlı olarak meslekten çıkarma cezası verilmesi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "92ffd38ce0759d106836bb65a7c9a02f572ffaf04429e4273e8c4c2c9ffe86d6"}
+  {:article/id "law/7068/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d0aa6cd845f5cd6db6e6c04413783df72eea7876b43a3546f8ae8f7656586e7b"}
+  {:article/id "law/7068/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Disiplin amirlerinin soruşturmaya ilişkin yetkileri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "2300e45b9c8ee4e5bc4a3c878ca76e734b5b2578600beafcf06edf127a4c9a5c"}
+  {:article/id "law/7068/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Disiplin amirinin disiplin cezası verme yetkisi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "66200a96f23d22a42d8f63d567613c081b992fd2a6769dd52316bdac9c0ef653"}
+  {:article/id "law/7068/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Emniyet teşkilatı disiplin kurulları",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "341679aca251e29d0e889818c61834264f849858d5f4d43dcee8bacbc0c51bd8"}
+  {:article/id "law/7068/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Emniyet teşkilatı disiplin kurullarının görev ve yetkileri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "4ce5d6733673965f0715c4bd7a1b65ed5d47ad6854c78d703b444e3554071ccd"}
+  {:article/id "law/7068/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "Emniyet teşkilatı disiplin kurullarınca verilen kararların kesinleşmesi",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "23a5ceffbb84cf1a0f4a809b32969c43596c494ddaf949683f104a80977dc34c"}
+  {:article/id "law/7068/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Jandarma teşkilatı disiplin kurulları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "3c4ade0afc7f439da51ed681293f79cb9935fd49c49515c44e95bff9d405b5be"}
+  {:article/id "law/7068/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title
+   "Jandarma teşkilatı disiplin kurullarının görev ve yetkileri",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "7a51ccf2daa4cfc6f7e8be59a4d20282337f20170dac1ce060be36920e9251a1"}
+  {:article/id "law/7068/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Jandarma teşkilatı disiplin kurullarınca verilen kararların kesinleşmesi 13",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "42cfe5b66fc2e04a7019db0e620ef15da4076a282f012c7134d1ee77c1716e79"}
+  {:article/id "law/7068/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "97f19bc38363c2ea475a2091ede0dae8d4f20d3b696d0f16b8bc36f1e03db4f1"}
+  {:article/id "law/7068/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title
+   "Sahil güvenlik teşkilatı disiplin kurullarının görev ve yetkileri",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "5f2c16a6ab87c4842fa31dedcf156b9ccb8dcec142333378178b19fc1d8fcca2"}
+  {:article/id "law/7068/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Sahil güvenlik teşkilatı disiplin kurullarınca verilen kararların kesinleşmesi",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "3cd1045125c6a3aea47451ebc54a41a1436ad11844c5a2b79d66b8578ea939c5"}
+  {:article/id "law/7068/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Kurumların en üst amirleri hakkında soruşturma",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "66bf05cfce30c4d36545946c86da015f14655bf4cb413785bdc8a77c2f5219b0"}
+  {:article/id "law/7068/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title
+   "Disiplin amirlerinin ve kurullarının belirlenmesi ve çalışmasına dair esaslar",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "75c5727c5e86514132de3241b2b602efc289d4398b32a1b17c6e3f5255efd3d0"}
+  {:article/id "law/7068/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "515dc7663ccf5cec876fc8fc6d89ca26deb2b0ef6da4721f1fc9fb4f16db141c"}
+  {:article/id "law/7068/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Görevden uzaklaştırma",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "90d1883aeb0cffc2e423f0adca70fbebfbff0b72fd0e350d9ed5bf32778c2fad"}
+  {:article/id "law/7068/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "a8e9784c378928d9e8d1bbef0998bce206e71c30cadc2a55428c76d25622c967"}
+  {:article/id "law/7068/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Cezalara itiraz ve cezanın kesinleşmesi",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "3f62d6619ee4e05fcc061dd891b604fcdd6b9e1dc913ce5c292a8605a8a67e81"}
+  {:article/id "law/7068/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Savunma hakkı",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "f66ce49334e1e94cc89586841b21c64ba651f2f486b0d379d8468a76478d0357"}
+  {:article/id "law/7068/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yargı denetimi",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "4e00970d2b018352a06d0400b50b71755b5097397c305229490f4b95be340b91"}
+  {:article/id "law/7068/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Cezanın yerine getirilme zamanı",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "c3a95e2f29f020855bbf20c5396e2acfec6213fc24a753da2bea68891c0d2f1c"}
+  {:article/id "law/7068/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "59eda0df3f5393ccf9e37da2f4be0891944ea03b536b788e5c6cf47c0e25a06b"}
+  {:article/id "law/7068/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "50cc73ae91107a43291f204db482dd34db0d087f61f3d5566bcf3e6bc3ae0dd4"}
+  {:article/id "law/7068/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "b44f7d5fb6f8bc2707e99e1bd9877c854375a6f008590e1c58aecc3fa2f26a04"}
+  {:article/id "law/7068/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "2a66f0fb88f4fbe076bc796f68ed81c99fdeb1bef775a682af532fe7ee36f3ea"}
+  {:article/id "law/7068/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "cc70775b38296a7b3126f53d9f1bf6684a9c29f459c166db49c4603b6c9e239d"}
+  {:article/id "law/7068/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Durdurma cezalarının uygulanması",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "7244c07f5b7944457795ae353230ca6c7eac71f9a6d503a1ebd5cf91778a0084"}
+  {:article/id "law/7068/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "e9df0dee40c13c6eccc861585107b939ebd97f218863ccdf9b7714aaa0141722"}
+  {:article/id "law/7068/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yürütme",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "2650acb3ecac4449f089bd747a90b13c41083390b798d8a1bdfd95df1f63627b"}]}

@@ -1,0 +1,56 @@
+{:document/id "law/7221",
+ :document/type :law,
+ :document/number "7221",
+ :document/title
+ "COĞRAFİ BİLGİ SİSTEMLERİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "7221-cografi-bilgi-sistemleri-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/7221-cografi-bilgi-sistemleri-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "4c6c002264f5b36b6e16ba6026a292b7117eb0996804bcba4bda083839c900ff",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7221.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:00.122-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7221/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Coğrafi verilerin toplanması, üretimi, paylaşımı ile mali ve cezai hükümler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "eb449fddf8bc2c8e76e817625d44493429c510b3e283e4bfab7d404692630187"}
+  {:article/id "law/7221/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f3f6594439b3bfcd875ebd61863ffc8c276a9216ecad29e82fb844ec62d9bc84"}
+  {:article/id "law/7221/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9842444cc0625823d91018721a24e4bcce5d7adac8f365b24606836b70589a59"}
+  {:article/id "law/7221/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2393d0d374846f412541ae5d9a6a1fc092213af818e65197027f86ee7ebe561d"}
+  {:article/id "law/7221/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "04f5ca87555729590628fd8aad08892649ff305ddcaea6285a637a6d2184eaff"}]}

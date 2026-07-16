@@ -1,0 +1,153 @@
+{:document/id "law/7464",
+ :document/type :law,
+ :document/number "7464",
+ :document/title
+ "KONUTLARIN TURİZM AMAÇLI KİRALANMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "7464-konutlarin-turizm-amacli-kiralanmasina-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/7464-konutlarin-turizm-amacli-kiralanmasina-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "b00f5f8e14622135f01e9e1667e0cbae6e2db86c4c520ed9d21ccf3a6c4b85d1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7464.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:44.946-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7464/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "681079a09b49922f2f4113a82dc9f413503988294f64825ecf7d609cb3a5359b"}
+  {:article/id "law/7464/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "269018998d33a9dfc3f59a745989c840aa88d1e84f2b80b3478a78368b6d0abc"}
+  {:article/id "law/7464/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7e578dd1b319e91a01a4268eb612b894578462f359d4e1250ea88dfe635f6433"}
+  {:article/id "law/7464/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Uygulanacak idari yaptırımlar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "695c2e513edb1dbb336bdbba7cde2954ff37921b0ab077eb0a965fa0f0759c6c"}
+  {:article/id "law/7464/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İzin belgesinin iptali",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b20a9ec1288f42a4b182ab263c1d72c70ce5ed675565e5cb1c0ef60a84f00196"}
+  {:article/id "law/7464/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d3118229c9d381ef208c3dee690122817fc6f560ca25838a4d5c7ac0dafebd96"}
+  {:article/id "law/7464/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Daha önce yapılan turizm amaçlı kiralamalar",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "15c5e0aa997833723a8f4d4511c841a4fa578cf55e3835c598cbb6242f64b16b"}
+  {:article/id "law/7464/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "74c651a0f01b421bd98523e29c9ccf2e1e38300379034d55166c34edc2b16847"}
+  {:article/id "law/7464/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4ffa9d05f8937ed3807c1fcf45376da127a9574cbfd3d03b627768cdb086021c"}
+  {:article/id "law/7464/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "86fe31e7acecedb54734081df8444e0015b436a48d54346fdf61788aed2ff664"}
+  {:article/id "law/7464/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "9008ba1bc6bd84c9f8f06d62d573a6efc80c723c5cc8d4a0836d7d99bd8d4219"}
+  {:article/id "law/7464/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "9bfd5cee91a7323dddf55b6f402b68d8d2cff9f07e115bb8094f3a91c051552e"}
+  {:article/id "law/7464/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "86df2b1a9d023c2e5839e2874effecff466d7d565489c82887c318f86961447d"}
+  {:article/id "law/7464/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "e3ddd03fdda294cdaba1c91daadefa6b7495ea68a8a6212a9fe8aae7c4a78aac"}
+  {:article/id "law/7464/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "3f56925c1dadf7498c9fc0e202a69eead44e102eb9c5daf5abf946f664faba72"}
+  {:article/id "law/7464/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "084e268fdc7f130c1046cafb3a24139ad2ee7b078b64110764f8e8dd09523679"}
+  {:article/id "law/7464/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "f1eb784dd10843b236fa69fb64329c5ae45aba1b7bd6b848c04816afaca9bb0d"}
+  {:article/id "law/7464/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "d36c19f5c1f4f4e12d36206593094b3c7ff84b0f37a57e3f97c9c370161695f9"}
+  {:article/id "law/7464/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Yürütme",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "21e863a94d49989bc103b7ab9697f00fb15233c9f729d421552c06e008c97ca0"}]}

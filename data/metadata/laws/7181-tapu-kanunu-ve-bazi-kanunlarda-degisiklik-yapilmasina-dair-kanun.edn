@@ -1,0 +1,105 @@
+{:document/id "law/7181",
+ :document/type :law,
+ :document/number "7181",
+ :document/title
+ "TAPU KANUNU VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "7181-tapu-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/7181-tapu-kanunu-ve-bazi-kanunlarda-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "a914ab167b98fd5d4eda259fd3dded22578a90631bb29491ff24b1eb0f107aec",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7181.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:48.150-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7181/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete : Tarih : 10/7/2019 Sayı : 30827",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b59a956d3e1c05729562ad35473fadd26895178023675631f57688d6ee12fad6"}
+  {:article/id "law/7181/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "476f878b7d585c6ee7ca887785e24268a03f7556ed814f78a0145e1e45f89baf"}
+  {:article/id "law/7181/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "2a0f81bfbd24ed4f42bfce2c7b1a7fe96c2639bfb9575cd05afe862abc282c5d"}
+  {:article/id "law/7181/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "64ede39dfc16c110489d65366670fa6bc9e337da030d3afd3b195a226dcaec35"}
+  {:article/id "law/7181/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "27643ec4bae98420a2faadd555451f07b52a828f197526923561b28b7c35fb66"}
+  {:article/id "law/7181/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d8a626e06df6809f4299922d1b8ffb4f7bc89d6bde3a49490a61b95416050b13"}
+  {:article/id "law/7181/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "714a16a3c1cc6b3dce6b33fe7af198dd363e2ef11cff1b591caa71f9bc3aafeb"}
+  {:article/id "law/7181/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d5e638ce39729d6ec27e0dc6d9e942d79c92b240855dd6e7d5ec527ea613af7d"}
+  {:article/id "law/7181/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "d8aa1af05f6b927db927e68c32e367b43d991e9b48f71eb541cbb1aa0ddaa707"}
+  {:article/id "law/7181/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "49c1caed3129be58bb2a64f87ba96785d1ca68cc84f0fed3129bad86b9255e00"}
+  {:article/id "law/7181/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "67e937c5bd292a40a6a00b3c08bfc38e0439ee5e2fbc14c9e5505c2c4e457b73"}
+  {:article/id "law/7181/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "a656723a46c872b89db1f02aee939dc3f1ffa301ecb4112143d378f970f29f10"}]}

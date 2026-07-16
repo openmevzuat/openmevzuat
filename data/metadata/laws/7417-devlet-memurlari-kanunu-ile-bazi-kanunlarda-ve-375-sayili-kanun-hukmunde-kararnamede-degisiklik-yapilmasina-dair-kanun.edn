@@ -1,0 +1,41 @@
+{:document/id "law/7417",
+ :document/type :law,
+ :document/number "7417",
+ :document/title
+ "DEVLET MEMURLARI KANUNU İLE BAZI KANUNLARDA VE 375 SAYILI KANUN HÜKMÜNDE KARARNAMEDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN ",
+ :document/slug
+ "7417-devlet-memurlari-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/7417-devlet-memurlari-kanunu-ile-bazi-kanunlarda-ve-375-sayili-kanun-hukmunde-kararnamede-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "32bbca4f673131d7868249f19ed007e2b11e72feced4da2f7fa1db2a3d21b2e7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7417.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:05.723-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7417/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7286a875abfb8f3210afe1cbede55ed0a669fbb62f4f1b5dd9dced18b018daf0"}
+  {:article/id "law/7417/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "51de533a29787cd1dc65d185e64b78ef3eed6ef92b0c458ecaf9410c8176c0e6"}
+  {:article/id "law/7417/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title nil,
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "3575df3177fe45c1b01c3d57dcea80e981ee3a4a7092604868d19f9d9be921c8"}]}

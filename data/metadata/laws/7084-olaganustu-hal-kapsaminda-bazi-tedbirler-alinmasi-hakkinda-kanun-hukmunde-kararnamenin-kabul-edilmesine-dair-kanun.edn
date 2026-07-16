@@ -1,0 +1,78 @@
+{:document/id "law/7084",
+ :document/type :law,
+ :document/number "7084",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7084-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7084-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "26dc8e1bae1611aeebf3fcb19977805458cd42460c58d821b5808e4af4764f25",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7084.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:35.313-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7084/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "eb7909f8195cea5c8d566d8570af4ae299aa981272d13c7b9db4b58722ee368e"}
+  {:article/id "law/7084/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Emekli Emniyet Teşkilatı personeline ilişkin tedbirler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "194d5fd5a237079ae38d00535c894e800e3ac848a62e509edad0ae0d20350fa1"}
+  {:article/id "law/7084/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1945712310aead8602232378fec8035526f627b6b20ffdb48a5ce7102e54b14b"}
+  {:article/id "law/7084/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yurtdışında öğrenim görenler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2fff1a314d43fba153f8879277000cabb34fcbc8f7051b933b458037e9ba1394"}
+  {:article/id "law/7084/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Kapatılan ve kapsamdan çıkarılan kurum ve kuruluşlar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dd674e69b6537adfaf79fcae1c271430b45e81869597bdb5972993f12b8c7f2a"}
+  {:article/id "law/7084/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Değişiklik hükümleri5",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1116641d0a0f62354505809506aaca66bec9f61f1297f3e5daa4cb767001aefd"}
+  {:article/id "law/7084/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "71b55eeabac26cef82a929bd7edfa62070aed7aaf5561347fa8218005eded0a6"}
+  {:article/id "law/7084/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "fe11aa165b0681fc9e8e327644fb59b192b8c0f7add6b1bcd2efc91bcca05c26"}]}

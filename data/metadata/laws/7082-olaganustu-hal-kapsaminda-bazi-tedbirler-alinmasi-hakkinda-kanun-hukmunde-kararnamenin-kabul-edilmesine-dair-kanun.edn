@@ -1,0 +1,154 @@
+{:document/id "law/7082",
+ :document/type :law,
+ :document/number "7082",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7082-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7082-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "2cc5da7037ea1ba534f86d3551250c14abf5eeee2bb89b41246478bee43a219b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7082.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:29.055-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7082/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9bba07856928874a7fa28e8297a82d51166d1e6c23c987658c80c0f3eae10ff5"}
+  {:article/id "law/7082/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Emekli Emniyet Teşkilatı personeline ilişkin tedbirler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "153033e0d879fd769a149b174bed3319dd58e46dba065cb67df7b5e893dc530b"}
+  {:article/id "law/7082/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Göreve iade edilen kamu görevlileri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ee32c34b1972df0cdb9cd32c788774603a71981cc2b783ea27055fb2c4064187"}
+  {:article/id "law/7082/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yurtdışında öğrenim görenler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "74076b83f614344d588a0874522923cb03339399bf646774300f11bc06b37ae9"}
+  {:article/id "law/7082/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yayın kuruluşları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "43904e7a0429b986b7d48891e7599857067c176544e2e31cda56ab484406e243"}
+  {:article/id "law/7082/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İptal edilen geçiş işlemleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d648dc7128792fc4e9f753fde8839c5589a8bd275222eba493c37096a85f6f7c"}
+  {:article/id "law/7082/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Rütbeleri alınan askeri yargı mensupları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f293ae836af154d63132b64c8a677ac09243d16c4819a63529584b25dd75ddf1"}
+  {:article/id "law/7082/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Banka ve finans işlemlerinde cezai sorumluluk",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "9631334e9bb977ea2e1ab00598cb2fdc4b1d4b78796004579abf6abdba3d8557"}
+  {:article/id "law/7082/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kayyım atanması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "40238198f60bed7e456a9aa306c0141a0aec57c737dfa0423e36e348bd04c69e"}
+  {:article/id "law/7082/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Peşin ödenen aylıklar ve mecburi hizmet",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "965c86e78209acecd153c5b851dcd0fe4e589fb87acc6a5b462d5254ca2ef579"}
+  {:article/id "law/7082/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Atanan kayyım ve yöneticilerin sorumluluğu",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "59ae5ceee390be154944fa67893a5a2af22ea0358ae3d30cec33bd6f102febc5"}
+  {:article/id "law/7082/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Muvazaalı devir işlemleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "eb0ac89bf75b3f7be1fc9c681abe43c04b9c3b825041c615d8bf001d9301c20e"}
+  {:article/id "law/7082/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Soruşturma süreleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a42cf4406f1d5c8b4eec963fc497a55cd7980afd3ae1151d2e924988bfafc886"}
+  {:article/id "law/7082/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Gazilik unvanı verilenler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "3fb373f7dd63d89dad28969d78545eeea8bb7e62dcd10b99f9d7ba60fe7bf0a4"}
+  {:article/id "law/7082/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "İhraç edilen personelin bildirilmesi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c0779db9eefc35ec925fba4f8094f13ddeb5d9fc61f0c402a482defe1f64c6ad"}
+  {:article/id "law/7082/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Dava ve takip usulü",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "7f105d834486d6dee84ed7df835adc733d56db397bfe4276a45451dd9e6c12d2"}
+  {:article/id "law/7082/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Değişiklik hükümleri4",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "27b6fdb389f179b35c671152d9fc87fddae352fae9c96b23f92de303ec25662a"}
+  {:article/id "law/7082/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "44ba9627b312b1b21b23a94ac73ed0d84dbe8a014191cae2f9b84bcc626ff7c7"}
+  {:article/id "law/7082/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürütme",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "0021241795079747291b66f73b21add54e5037b2902ff8f3aad3796909f04469"}]}

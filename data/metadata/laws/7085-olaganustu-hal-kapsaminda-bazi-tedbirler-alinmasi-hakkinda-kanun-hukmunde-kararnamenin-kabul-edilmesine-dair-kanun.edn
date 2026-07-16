@@ -1,0 +1,83 @@
+{:document/id "law/7085",
+ :document/type :law,
+ :document/number "7085",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7085-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7085-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "7dd19c17ffe2c39288fbe2daf7562fd54fc002e9d96bd5ba0a655bec505074a1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7085.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:38.302-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7085/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d64810af4a37ca2901e1b0297febeac80381639aeaf847290af268a36453787e"}
+  {:article/id "law/7085/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e62a42b4c4abe9957c39dc74bbc4d03c517c9fb46be1f8874c2976f06b652fb4"}
+  {:article/id "law/7085/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kapatılan kurum ve kuruluşlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e69dfb00b526c71775dc3b16e687146001b24fdedf0a1329f6fbf43c883a3992"}
+  {:article/id "law/7085/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Doçentlik başvuruları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b44edfb857d03434b92ba6405cf29d6b65de2c216dcecdb38f5cf1caf213ce1a"}
+  {:article/id "law/7085/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sermaye piyasasına ilişkin tedbir",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "50e41b7dd5258ac2a24689051534312587eb6d77446751e32e605dba25d3ad9c"}
+  {:article/id "law/7085/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Türk Lirası ile yapılacak tahsilat",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1ed08764523dc8a40823bdae366c87297dbad9887dc1295bb8eabe02d9fec160"}
+  {:article/id "law/7085/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Şahsi sorumluluk davalarına ilişkin tedbir",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "64aa646819aae8305b1123c28a4061a6d491bd86b4ff270d4a8b1582f02bbf0e"}
+  {:article/id "law/7085/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f6286aae4eb41a3b64b6b8a4d19b73d38609480143e2a460b63b2f00e202a25"}
+  {:article/id "law/7085/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c4d22f907260c40c709e06474f5c3b925cec863e9e76c835229eedcd8b55a7f6"}]}

@@ -1,0 +1,119 @@
+{:document/id "law/7462",
+ :document/type :law,
+ :document/number "7462",
+ :document/title
+ "EREĞLİ DEMİR VE ÇELİK FABRİKALARI TÜRK ANONİM ŞİRKETİ KANUNU",
+ :document/slug
+ "7462-eregli-demir-ve-celik-fabrikalari-turk-anonim-sirketi-kanunu",
+ :document/path
+ "data/canonical/laws/7462-eregli-demir-ve-celik-fabrikalari-turk-anonim-sirketi-kanunu",
+ :document/sha256
+ "24e40e875690e928c25d0951de7e26412b6c152f70d40d59362700d8d6dfe6ad",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7462.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:42.433-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7462/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e9a185eba557ebe1cf6cf8214016df6dd8b8722196801ee4762591ff174cbf05"}
+  {:article/id "law/7462/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Sermaye",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "42023a1d9a6f5362c85674aa46d30a436ac656e866a0168d95ec0e7761601a32"}
+  {:article/id "law/7462/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Türk Ticaret Kanunu hükümlerinden istisnalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "204389d87ba9c9197ed8a4641e956e749f8043aff30cd24b728ba2c8542e06f2"}
+  {:article/id "law/7462/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ac0a3f56ebe11807abd4f246e5ee69b2b97c91241db9a9b2864f6112ef940f8d"}
+  {:article/id "law/7462/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yabancı Sermayeyi Teşvik Kanunundan istifade",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a4e44fdf09c045625643cec84f6fbe49f5926dbb9fbe1c28be0400c63dd94de3"}
+  {:article/id "law/7462/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Temettü garantisi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f928bb0f51aac045be86a9f7ef9223fb5c4ec2b41088b27049d4fcc557e8b7b3"}
+  {:article/id "law/7462/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İstimlak",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b66866e02c8f935e6939b102164ee5fe8b0a22f6dc88a449eb5ac83a796339ae"}
+  {:article/id "law/7462/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Şirketin faydalanacağı vergi, resim, harç ve ücretlerle ilgili muaflık ve istisnalar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b3467b5ca8c0fbc58e35f85bbeb38e4da12597ba9ff92720dc5be3fe2d3a6692"}
+  {:article/id "law/7462/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Şirketin tabi olmıyacağı kanunlar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "8d0c2c358e7c97cdeb29a2638bb91346227b745959fa7c53f8cd94aa9e6fa6a8"}
+  {:article/id "law/7462/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "77de4d1543e24b0a6a227b60cc20929159268f26479bf475ca656291314fb148"}
+  {:article/id "law/7462/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "6e17aca1b404f0a571045ee682f6ebbaa5eb755007617ad5bd026bc7176048d7"}
+  {:article/id "law/7462/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "012322eb639428345a86e1ef2f4340233f1fc94769f5ecaf7203094b21201c3e"}
+  {:article/id "law/7462/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b76bb13941c202c332796945f16eaf7c391e947a14e804867ee1c63d77e5c544"}
+  {:article/id "law/7462/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d98335c8339cd6ec5282eea2ef9d7e73b7ddb1856675ba6afd61485b19793dec"}]}

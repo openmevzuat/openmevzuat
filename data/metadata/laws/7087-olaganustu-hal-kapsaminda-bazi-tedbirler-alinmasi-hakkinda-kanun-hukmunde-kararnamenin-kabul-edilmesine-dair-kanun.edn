@@ -1,0 +1,41 @@
+{:document/id "law/7087",
+ :document/type :law,
+ :document/number "7087",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA BAZI TEDBİRLER ALINMASI HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7087-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7087-olaganustu-hal-kapsaminda-bazi-tedbirler-alinmasi-hakkinda-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "d5456d8c83359d80ac410f6014af4cf34be4de22581494a85a48b5e99bdd5259",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7087.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:44.724-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7087/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "İade hükümleri",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4b0371aead2831ad7b5d71701c3020ebb5532131db8c1e0fdc4ae35bce0a7a1f"}
+  {:article/id "law/7087/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "817e0de4434bed5b2d454e9eb4db29107e34a434302d723f280775cfe041c86c"}
+  {:article/id "law/7087/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürütme",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "eaadb6ffe4397ddcd0b0213eac64b1ba6df0b02c9dcbc4623a8429a6735d1208"}]}

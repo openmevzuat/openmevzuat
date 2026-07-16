@@ -1,0 +1,218 @@
+{:document/id "law/7223",
+ :document/type :law,
+ :document/number "7223",
+ :document/title "ÜRÜN GÜVENLİĞİ VE TEKNİK DÜZENLEMELER KANUNU",
+ :document/slug "7223-urun-guvenligi-ve-teknik-duzenlemeler-kanunu",
+ :document/path
+ "data/canonical/laws/7223-urun-guvenligi-ve-teknik-duzenlemeler-kanunu",
+ :document/sha256
+ "cea2b3e6566793b164d4c504d09ff5737c248e845c550250313aed508a15de75",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7223.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:02.784-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7223/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b1e75e5c415556676e5458f5fa7b5696c08d02e1ef67015008b96423f4ae16c7"}
+  {:article/id "law/7223/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f9e4c5a8ec35e14ef6e80bb3c53cd4dd9f2125186f0de06191c6a74b72b8c3ec"}
+  {:article/id "law/7223/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "961b9d8980771e62868c655dd54314bcb4360c506052452c021ea2e665e08431"}
+  {:article/id "law/7223/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b2e999729170087bc85dcff10945baead9bd04b3ea45418bee501f58087e982d"}
+  {:article/id "law/7223/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ürün güvenliği",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "308128f9fc3c3a420c29991ef15929ebf3bc59a66a2198dc70b8345c7ad6dcb4"}
+  {:article/id "law/7223/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Ürün sorumluluğu tazminatı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "6f0b90ad9bd451c77762f82a12ed54efa7665eb99060ca7534d04b11f8a366dd"}
+  {:article/id "law/7223/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İmalatçının yükümlülükleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "db1ad92986080b0b55c18e07b3d8fa36a8d8b07ee83e6be496a9247e4585b37e"}
+  {:article/id "law/7223/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yetkili temsilcinin yükümlülükleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "34f43a4e204d289e59df12d085021ba89b1e746cabbd55116ea59042d15f69d8"}
+  {:article/id "law/7223/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İthalatçının yükümlülükleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f1a23b54fb3d4f26c7b26616c3a6b37d55d6aa2699434e6be215c30f8be722a3"}
+  {:article/id "law/7223/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Dağıtıcının yükümlülükleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b23b00f858de261f7f61e97c1325652bf8555f757b91165de1bf9e1cf968622a"}
+  {:article/id "law/7223/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "301a5a76a33b4374e97459511277ddc7b379edf846b87b2de140d1cb8aa05d61"}
+  {:article/id "law/7223/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İzlenebilirlik",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "afd7167a22646649e24a23601473638adae944879d9e77c8e7036331caca48cc"}
+  {:article/id "law/7223/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d48add255adc3bca324cc998a9e55f579ac54bd9e8e9a4b4fba66ed3362ff34b"}
+  {:article/id "law/7223/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Uygunluk değerlendirme kuruluşları ve onaylanmış kuruluşlar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "146ca168739bac82c09d4a6e926c9a47ba5f20084c842660b7695c62dcab0313"}
+  {:article/id "law/7223/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "9a5a73979fc01ec97e63a53d7d1833144dba2bc22980a5040e63cf5dea87c23a"}
+  {:article/id "law/7223/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Yetkili kuruluşun piyasa gözetimi ve denetiminde görev, yetki ve sorumlulukları",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "7d70cf4878f27767206cc602d9fd5bee5b1e50159408e900ea242df72ef366c8"}
+  {:article/id "law/7223/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yetkili kuruluşun denetime ilişkin diğer yetkileri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8175c4e401e7b12402d54700d30a3e6dc2f9b0ce8b18404d8cb1ae1703998d78"}
+  {:article/id "law/7223/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "İktisadi işletmeciler tarafından alınan önlemlerin duyurulması",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "981c47165c4107df57056288d22a2cd10cf6fff08772839593f5305928ead1cf"}
+  {:article/id "law/7223/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Ürünün geri çağrılması",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "97f99b1079059ff750bcec0545d04962c49a9083245d3838d6283ee735fe3b29"}
+  {:article/id "law/7223/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "541a3fc96af2a6576a60c4340c96ee51b272754d789cd45c70be78f8142c9b23"}
+  {:article/id "law/7223/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "İktisadi işletmeciyi sorumluluktan kurtaran haller",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "2fbbb8e5e5d54c81ad4286b4338351e54c50ac418a95406d54d23ce65cbd04eb"}
+  {:article/id "law/7223/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title
+   "Masrafların rücu edilmesi ve idari yaptırımlarda yetki ve itiraz",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "7f4b167ccb4b2b2882ed8a948aa414814876e124e0ec4d962e243cd344edf44c"}
+  {:article/id "law/7223/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Gizlilik, ticari sırlar ve şeffaflık",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "78693d32904c299db4d234e4ca97c82534d71cb49f0924a779748afdd35b3d0d"}
+  {:article/id "law/7223/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Uygulama mevzuatı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "1898a20bd863dd6ea33c2cb1695ce85031459970e397413e1f99261970f08f67"}
+  {:article/id "law/7223/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürürlükten kaldırılan Kanun",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "772e044009366742c135d29dbf5050c53c5eaf6a7205402889f5c7b64b86186f"}
+  {:article/id "law/7223/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "abe9234cb4037bf1d5feecad414bcf5fc29ace71409cc9b0e38998424f74bcd5"}
+  {:article/id "law/7223/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "6bce493fc9d734308869825a2d80094d82ca08348dbc4f1bc1230351ee827d70"}
+  {:article/id "law/7223/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürütme",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "aa18d99b2ff3c42fb26dc2f54262c5c7f06251790b5e78bee2533bd8790e0b31"}]}

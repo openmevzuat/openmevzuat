@@ -1,0 +1,42 @@
+# MADDE 1 — Dijital Mecralar Komisyonu
+
+(1) Kanunlara, bireylerin kişilik haklarına, özel hayatın gizliliğine ve
+diğer temel hak ve özgürlüklere aykırı yahut çocukların fiziksel ve psikolojik gelişimlerine
+zarar verici şekilde internet kullanımının önlenmesi amacıyla alınan tedbirler ile yapılan iş ve
+işlemler hakkında inceleme, görüşme, raporlama, tavsiye ve görüş bildirme işlemlerini
+yürütmek ve bu maddede belirtilen diğer görevleri yerine getirmek üzere, Türkiye Büyük
+Millet Meclisi bünyesinde Dijital Mecralar Komisyonu kurulmuştur.
+(2) Komisyonun üye sayısı on yedidir. Üye dağılımı siyasi parti gruplarının parti
+grupları toplam sayısı içindeki yüzde oranlarına göre belirlenir. Komisyon, üye tamsayısının
+en az üçte biri ile toplanır ve toplantıya katılanların salt çoğunluğu ile karar verir.
+(3) Komisyonun görevleri şunlardır:
+a) Kendisine esas veya tali olarak havale edilen işleri görüşmek, Komisyon
+Başkanlığının talebi üzerine veya ihtisas komisyonlarınca talep edilmesi halinde; Türkiye
+Büyük Millet Meclisi Başkanlığına sunulan kanun teklifleri ile olağanüstü hal sırasında
+çıkarılan Cumhurbaşkanlığı kararnamelerini görev alanı yönünden inceleyerek görüş sunmak.
+b) İnternet kullanımının kanunlara, bireylerin kişilik haklarına, özel hayatın gizliliğine
+ve diğer temel hak ve özgürlüklere aykırı yahut çocukların fiziksel ve psikolojik gelişimlerine
+zarar verici şekilde gerçekleşmesinin önlenmesi konularında görüş ve öneriler sunmak.
+c) İnternet kullanımı yoluyla işlenen suçlarla etkin şekilde mücadele edilmesi
+konusunda görüş ve öneriler sunmak.
+ç) (b) ve (c) bentlerinde belirtilen konularda uluslararası alanda kabul gören
+gelişmeleri izlemek, bu konular hakkında gerektiğinde yurt dışında incelemelerde bulunmak
+ve bu gelişmeler konusunda görüş ve öneriler sunmak.
+d) İnternetin hukuka uygun kullanımı konusunda kamuoyunu bilgilendirici etkinlik ve
+projeler yapmak.
+(4) Komisyonun yetkileri şunlardır:
+a) Görevleri ile ilgili olarak kamu kurum ve kuruluşlarından, 4/5/2007 tarihli ve 5651
+sayılı İnternet Ortamında Yapılan Yayınların Düzenlenmesi ve Bu Yayınlar Yoluyla İşlenen
+Suçlarla Mücadele Edilmesi Hakkında Kanun kapsamında faaliyet gösteren içerik
+sağlayıcılar, erişim sağlayıcılar, yer sağlayıcılar ile yerli veya yabancı diğer gerçek ve tüzel
+kişilerden bilgi ve belge istemek ve ilgililerden bilgi almak.
+b) Görev alanıyla ilgili faaliyet gösteren kamu kurum ve kuruluşları, üniversiteler,
+sivil toplum kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşlarının çalışmalarından
+yararlanmak.
+c) Gerekli gördüğünde uygun bulacağı uzmanları fikirlerini almak üzere çağırmak.
+(5) Komisyon Ankara dışında da çalışabilir. Komisyon çalışmaları ile ilgili olarak,
+yurt içi ve yurt dışı görevlendirmelere ait giderler, Komisyon kararı ve Türkiye Büyük Millet
+Meclisi Başkanının onayı ile 10/2/1954 tarihli ve 6245 sayılı Harcırah Kanunu hükümlerine
+göre Türkiye Büyük Millet Meclisi bütçesinden karşılanır.
+(6) Komisyonun çalışma usul ve esaslarına ilişkin olarak bu maddede hüküm
+bulunmayan hâllerde Türkiye Büyük Millet Meclisi İçtüzüğü hükümleri uygulanır.

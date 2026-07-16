@@ -1,0 +1,117 @@
+{:document/id "law/7432",
+ :document/type :law,
+ :document/number "7432",
+ :document/title "ULUDAĞ ALANI HAKKINDA KANUN",
+ :document/slug "7432-uludag-alani-hakkinda-kanun",
+ :document/path "data/canonical/laws/7432-uludag-alani-hakkinda-kanun",
+ :document/sha256
+ "a99614cd7c22aa26d8d8b3f15c9a5a80ea91ff149f50fd88f2c4274d37a53bb7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7432.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:14.861-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7432/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "be0a75401288574451a4719bbfeb789a1929f1127a69d653d35e5a61a139fd54"}
+  {:article/id "law/7432/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b663e93966af05712f73e6422e1db536563f3ad116b907cd25901552e4b02016"}
+  {:article/id "law/7432/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Genel esaslar1",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5b00943fb111190f697bcbacdd56eab06a80a11e28b6b4464f99333f21bfbcc6"}
+  {:article/id "law/7432/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Uludağ Alan planları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "bcb95089853d26a47099c1e4b1ce21942e9b915f01ea27a61cba40df256644f2"}
+  {:article/id "law/7432/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Komisyonun belirlenmesi, görevleri ve çalışma esasları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0396bcb7d04e6961dfc049c74287c2a3991f426e1e63565aa87c527de8c8ad7c"}
+  {:article/id "law/7432/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Danışma Kurulunun belirlenmesi, görevleri ve çalışma esasları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "62edf4ca028ab34e04f8ccd4d41250f0b8cb344a98996c6d2121ee8a59ea05c4"}
+  {:article/id "law/7432/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Başkanlığın gelirleri ve giderleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "100db1b393cf2d45a3600bff217a13039930696d78e4fc2735652dd7cbc025be"}
+  {:article/id "law/7432/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Muafiyet ve indirimler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d03cc94d05e4fbec643de68e3d211912e22960fc4980ce0c2ed652bbab753a59"}
+  {:article/id "law/7432/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yasaklar ve cezalar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "cd1f08419840e19bf827c6c48fd7ab8c0567928c707982819e1e48631db58e41"}
+  {:article/id "law/7432/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Çeşitli hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9e301758b429e8e40573e5e967ccc3973ebc6abbe8512cbcb762ea4f6dea0f21"}
+  {:article/id "law/7432/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Değiştirilen hüküm",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "f905f25cfc29c6c50c2588bff0489346b8e9b05f7ead995140263c6c48c8861f"}
+  {:article/id "law/7432/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş dönemi bütçesi ve diğer işlemler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "8fdb4c56a38a73d537114f0748af855ee072c78d996bb59b0f2084d438252eaf"}
+  {:article/id "law/7432/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "974127557175027ba67dd8f4d50e265079f8d6a004baa0ed4d686fc9a54aab0c"}
+  {:article/id "law/7432/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürütme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "fe71fd665eb2427ce910aca412f74922a84dd84b7f47b8c517ae4b31a826804c"}]}

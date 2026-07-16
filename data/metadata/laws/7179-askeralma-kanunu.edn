@@ -1,0 +1,492 @@
+{:document/id "law/7179",
+ :document/type :law,
+ :document/number "7179",
+ :document/title "ASKERALMA KANUNU",
+ :document/slug "7179-askeralma-kanunu",
+ :document/path "data/canonical/laws/7179-askeralma-kanunu",
+ :document/sha256
+ "e8ed14fb6d78bed994196f3000cdc8b0eb8314100bc16c0250cab349e47a7c18",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7179.pdf",
+ :source/fetched-at #inst "2026-07-16T03:05:44.381-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7179/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "baa9fba80438067cca9d3a1420a61af3820f6d1a2baf5f31e9f089a38a222495"}
+  {:article/id "law/7179/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "bd1d822e045da6aaa99e27e2c393fae7a875dda150ea51980b1937dbe48fb702"}
+  {:article/id "law/7179/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b9547df146c49a324cdc4a6311b1d13c1815e8103f7230233214f31cc6de395f"}
+  {:article/id "law/7179/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1af976ae545783e1f629b172de696d73f1241bf4d6a671343c14d9501f967f78"}
+  {:article/id "law/7179/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Askerlik çağı ve hizmet süresi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0e7d3ff8f732c45bc9f0ee2e71c229d4b2da5ba2c8e78e2e4bae05b6258c32d4"}
+  {:article/id "law/7179/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İhtiyacın tespiti ve tahsisi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d1ee2191a1225b4df785bbd65e89062efc05c734e13e9053676834f264af09b4"}
+  {:article/id "law/7179/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yedek subay seçimi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "38198510130b6c35f456b51c71fa770a7304caaf0a5ad11945823b559390c1d6"}
+  {:article/id "law/7179/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yedek astsubay seçimi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7db07f7827b65868901a41088517e46d3e35ebb1b757560ed0afb244695f9d2e"}
+  {:article/id "law/7179/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c252b9c6c2771b3619b961bef156e2151418bf75e7a0fadc752372e25d4a7af7"}
+  {:article/id "law/7179/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "e47f6ecd0119fbe04db66db8a20c693b6493788027de7b7ea892a743397177d2"}
+  {:article/id "law/7179/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Emniyet Hizmetleri Sınıfı mensuplarının askerlik hizmeti",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "1dce36b1686051d7f4201f4f5bc205f1a8599cb46f7a8b0ddda2622e4fe61baa"}
+  {:article/id "law/7179/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "49e493d6bce86597f5d86292f498127c7ed98d6e07ca9e56ee37efe51d00598b"}
+  {:article/id "law/7179/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Tabiplerin askerlik hizmeti",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a8375695292b20726f755deaec5c338318a9d2ab23d43003b4de03e49e73f9eb"}
+  {:article/id "law/7179/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7bf99dec01a18223e2868beee19bf51d0c281d2d5b95bbc4a40eb23d3cde2e50"}
+  {:article/id "law/7179/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Sağlık muayene ve onay işlemleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "065cb73d8fab192935a380f773a926dd315464bd51a166a4b8697572759f5b33"}
+  {:article/id "law/7179/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Sağlık kararları",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9216eb3cbf24f0d0d365cb38cc1e3300c8090a23fb06a40f920a4bff74978114"}
+  {:article/id "law/7179/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Sağlık kararına itiraz",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "27e911bc1c0266306c7c867e69d62b58311ab013a725a2c7e98c613f43a2b2ef"}
+  {:article/id "law/7179/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "Şikâyet ve ihbar edilenler ile idarece yeniden muayenesine lüzum görülenler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "68953df2137c3bf2992854d61a3b3a3687c5c5fa11137fc83f7a827b86962739"}
+  {:article/id "law/7179/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yükümlülerin sorumlulukları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "9ccdd67a456a8441cf0a4463340d44a637d59e99b352ea7f3fbbd31ac45b68b5"}
+  {:article/id "law/7179/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Erteleme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "fc35875fa7525890bfc81a60df16289be29638841742718c028d966e56d84b44"}
+  {:article/id "law/7179/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Yoklama kaçağı, saklı, bakaya ve geç iltihak bakayaları",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ccedec5d0f75405581ab53f37703c1b33e2fef4586a36c9b51fc32dd09978396"}
+  {:article/id "law/7179/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Celp ve sevk esasları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "466ca5f887eebadecbdcdf2f74faaa34e2047a0ca8aaa5b27d62f1eed8da947f"}
+  {:article/id "law/7179/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Sevke ilişkin mazeret hâlleri",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "1f9257c1fdc8b7c6826a9e0ba1744964af03d5eaba01e8a3930af0e1b0f1b839"}
+  {:article/id "law/7179/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Yoklama kaçağı, saklı ve bakayalara verilecek cezalar",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "fe87477c460f7cdda825b48eaab592d683675717a007ffcd2dcb415783d4b378"}
+  {:article/id "law/7179/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "cb2c2971fb97afea1413610d1fcf4a9c2955e28c3d65139e8c6deaf0852813bd"}
+  {:article/id "law/7179/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yoklama kaçaklarının ve bakayaların takibi",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "d2ec26dda969e02b8dd21521f658a443b2db12365ff0b40b6bb82fcb2f0acfb2"}
+  {:article/id "law/7179/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yoklama, celp ve sevk duyuruları",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "6c922c64703231fe1adc7e521958129f287da26eedf618602c6b9f646ab822f0"}
+  {:article/id "law/7179/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "d1d0bd774466b075d406b633899b41d4ff474e44e15a609c61e58f2fb98655b8"}
+  {:article/id "law/7179/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Sağlık izin süreleri",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "3beb261a5ec011ad9bd2159b62779ea001188ad0df107350cf43afd0c251ce56"}
+  {:article/id "law/7179/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Firar ve hava değişimi/izin tecavüzü",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "5a58d79f709cfb625f3368f8320c3d0f838489b4a7c3f5ff5674d1beed4d8dc6"}
+  {:article/id "law/7179/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Askerlik hizmetinden sayılan diğer süreler",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "afcba1ddbf353d83cafd7d60fc807eab2c9b69e87dbd1dd040937d6f1323f043"}
+  {:article/id "law/7179/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Askerlik hizmetinden sayılmayan diğer süreler",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "c2a67fcdb7f8c0be1b69f0a2694c2c48eb87aa0fa708f7f163ed383249020a26"}
+  {:article/id "law/7179/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "326f61941062772b5be3ad7241d6dc10407419f95d88207a6679b4da54ac9411"}
+  {:article/id "law/7179/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Katılış, statü değişikliği ve terhis",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "f4398e78c60030579648ad5cf94e3b99a1213ab3535d1414636016bc28109733"}
+  {:article/id "law/7179/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Noksan hizmetlilere ilişkin işlemler",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "e981891c62a102dbd0fde4268680fdf91b285bb87c43949804b287740722fc63"}
+  {:article/id "law/7179/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Tutuklu ve hükümlü işlemleri",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "fb4afc1e29877d77c6e8c00b33a2d74db1c182db32b968ac2ae7493383f72c93"}
+  {:article/id "law/7179/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Diploma, sertifika ve ehliyet gibi belgeler",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "c98da1191e57dde4565884f0e955f19e7715fbfef1db92e31d1a59b9289743fe"}
+  {:article/id "law/7179/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "d3f1b6de9b814641b6c7f0ab013fe7d01dfd56c3b50d844ce4fdbed3fd3c8d81"}
+  {:article/id "law/7179/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Dövizle askerlik",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "3ae3a973f617aa83a2e33b4961beed56a736916f3a681e6c7155d3cf2e211d64"}
+  {:article/id "law/7179/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "762b32aa5346cae84a45d37e385818bcc3609fbba75d048ad8fa7d48a30c7c3e"}
+  {:article/id "law/7179/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Yaptırımlar",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "51346bf3417affb30cb57ba9b778832ff55b7966b4890bd335b18aa6efc909fa"}
+  {:article/id "law/7179/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "7bd331bd0b6b784a18aa387ea55130a0f968b6f65250f87c619df563092c7a81"}
+  {:article/id "law/7179/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title
+   "Vatandaşlığa sonradan alınanlara uygulanacak erteleme ve muafiyet",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "af23bd683b7e4f90094fc3753c694eb6375c252e434369f08d0d652c1056b06b"}
+  {:article/id "law/7179/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Kuzey Kıbrıs Türk Cumhuriyetinde askerlik yapanlar",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "701680fee006ab4a78ce352b6fa514bb61d98adf14ec203e2a37c6a424bd75d6"}
+  {:article/id "law/7179/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Özel durumlarda muafiyet ve erteleme",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "3d6513261a74debc568aaa3cad666f078c33648df505257f990807cdb8d5b8c1"}
+  {:article/id "law/7179/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Askerî okullardan ayrılanlar",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "1113e2b832841e8a812e1452800c8b5eeb9368259bf250aae78cbd001c534549"}
+  {:article/id "law/7179/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "825555bdefa3a04d3bf7a0586a2933415921de6bc1a45566b9d25da47d8ca40e"}
+  {:article/id "law/7179/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "11f52112982654e466794cc99612337a7b7bfa4f2e5604f8184251c0d3046401"}
+  {:article/id "law/7179/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "682d30b84c26756743eaaf4726f7b8668746fd1c572fd0dcc2e0b7f836b20d8e"}
+  {:article/id "law/7179/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Yaş sınırı",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "349572d4daa06d8c9aca49793e87d99b96308d80d240746af33de02301f25902"}
+  {:article/id "law/7179/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Silahaltına çağrılma",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "458bdc5c98542bdeb085ae256aee868693f2e8b84daabdc4cfbaf63f96ecb007"}
+  {:article/id "law/7179/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Sefer görev emri ve tebliği",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "23154c209dd033b73d431d3148eef5dee350bf07e1668f9b4c99a46d3140e6c5"}
+  {:article/id "law/7179/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Silahaltına alınan Devlet memurları ve işçiler",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "794bbdd8a8f47ac3ee2111d55df77df8f8787c8b0dbf6e0c0eca3fed771fb8e9"}
+  {:article/id "law/7179/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Silahaltına alınanların terfi ve kıyafetleri",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "54a8f42308c386711a1a5ba18cfe15580d34ca82eec1316313fc2ce5933bd558"}
+  {:article/id "law/7179/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title
+   "Silahaltına alınan yükümlülerin devam eden ve biten adli kovuşturmaları",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "2a6beb647966b67862137f316f11ab0c152f7fd7b206bbc564648a8d243240e4"}
+  {:article/id "law/7179/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Celp, sevk, katılış ve bakayalar",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "f6658e746daa1f63ad342fa2464e8bb5b4fd8c92491a3c262d9e7b7660de11a1"}
+  {:article/id "law/7179/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Yedek personelin ertelemesi",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "388471615de0fe7d548105d10d903a15ab470ab2844c13cc8cca35d94098e8cf"}
+  {:article/id "law/7179/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Sağlık sorunu bulunanlar",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "aaa15d95fa98a44c5ee6943980ad544a5ba34ec0b9329517702392f0d699bb07"}
+  {:article/id "law/7179/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Terhis",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "55ef87c50fa830cc9b2e20e74e394fe72cbe1ca18248a0d095ccac3046546453"}
+  {:article/id "law/7179/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title nil,
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "e497a3e02ec0a5e9eb80d2668f4850217f4459086ff42f9c45842cf479b36f8f"}
+  {:article/id "law/7179/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "b634af8e790e529683ee1a7d33c300101bec7a0d8018228bab322b3a3e1c0d1e"}
+  {:article/id "law/7179/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "abe7c5d79946855a5507522fcb0b4f4c1d953d1ef0dcbfc3caecf37a59871a01"}
+  {:article/id "law/7179/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Yürürlükten kaldırılan kanunlar",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "a3b73d3f3d43cb044dc0297739a4ab142b965d52a7788e4ccccea4aa96761b72"}
+  {:article/id "law/7179/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ced7c1aa71dbf1d47432b5c8b108e6a8c3922a433b4d97e2ce07a2a31e3fe848"}
+  {:article/id "law/7179/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "67606fd5f02ec3dc0ed0bd2d8f55438122ca4a89956709dead7c7e54c1154bea"}
+  {:article/id "law/7179/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "3cbfe97979801d33f6df03006b8bad05bf406aa522ef4c1e31c98a8113c7ccf7"}
+  {:article/id "law/7179/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Yürütme",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "45a6f609700d86e730560421c231f5fb6f063d5f7cf84e93378ad5359cdf90e7"}]}

@@ -1,0 +1,49 @@
+{:document/id "law/7248",
+ :document/type :law,
+ :document/number "7248",
+ :document/title
+ "1924 TARİH VE 491 SAYILI TEŞKİLÂTI ESASİYE KANUNUNUN BAZI HÜKÜMLERİNİN KALDIRILMASI VE BAZI HÜKÜMLERİNİN DEĞİŞTİRİLMESİ HAKKINDA GEÇİCİ KANUNUN BAZI HÜKÜMLERİNİN YÜRÜRLÜKTEN KALDIRILMASI VE NEDEN OLUNAN MAĞDURİYETLERİN GİDERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "7248-1924-tarih-ve-491-sayili-teskilti-esasiye-kanununun-bazi-hukumlerinin-kaldirilmasi-ve-bazi-hukumlerinin-degistirilmesi-hakkinda-gecici-kanunun-bazi-hukumlerinin-y-5cb74d89fbfa",
+ :document/path
+ "data/canonical/laws/7248-1924-tarih-ve-491-sayili-teskilti-esasiye-kanununun-bazi-hukumlerinin-kaldirilmasi-ve-bazi-hukumlerinin-degistirilmesi-hakkinda-gecici-kanunun-bazi-hukumlerinin-y-5cb74d89fbfa",
+ :document/sha256
+ "e4720a38151f0e61ad46de44ad486dfd1308b9f0f62dae3d315afef711a84faa",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7248.pdf",
+ :source/fetched-at #inst "2026-07-16T03:06:16.409-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7248/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete : Tarih : 1/7/2020 Sayı : 31172",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5903da1bf9a87b2f98dca3acc7d532d14de4904dd3258503b0e57634675cce27"}
+  {:article/id "law/7248/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c57314c36ed2ec628932030da55749af9269c0ed54f4205e17667d9da9c735db"}
+  {:article/id "law/7248/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "269a8ba2c5935c7c719228fa2ba75f396d5769bc0133ba7c50b3e4c29b50df91"}
+  {:article/id "law/7248/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f10eab20821e9ec66fc01c910526117450913176dbda39a7b4ebdcf9008d8d9e"}]}

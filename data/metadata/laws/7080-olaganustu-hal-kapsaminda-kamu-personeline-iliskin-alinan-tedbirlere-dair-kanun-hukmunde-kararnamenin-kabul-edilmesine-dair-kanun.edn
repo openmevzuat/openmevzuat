@@ -1,0 +1,48 @@
+{:document/id "law/7080",
+ :document/type :law,
+ :document/number "7080",
+ :document/title
+ "OLAĞANÜSTÜ HAL KAPSAMINDA KAMU PERSONELİNE İLİŞKİN ALINAN TEDBİRLERE DAİR KANUN HÜKMÜNDE KARARNAMENİN KABUL EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "7080-olaganustu-hal-kapsaminda-kamu-personeline-iliskin-alinan-tedbirlere-dair-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/7080-olaganustu-hal-kapsaminda-kamu-personeline-iliskin-alinan-tedbirlere-dair-kanun-hukmunde-kararnamenin-kabul-edilmesine-dair-kanun",
+ :document/sha256
+ "51d9c6a67094d22effac8e56597d21156662964e58be294e3325cb98a64c5714",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7080.pdf",
+ :source/fetched-at #inst "2026-07-16T03:04:22.957-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7080/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9e1edfab3fdddeecb3fbce3c510aa30e22dd5e1847ca947788cc0555fe5cfb18"}
+  {:article/id "law/7080/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kamu personeline ilişkin tedbirler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2dbd5f5926e50b01f4c11788140583a602b9c943fa67b31d8772fc95fe27f3e2"}
+  {:article/id "law/7080/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "18ffa25ac6801e8313861b581ce3aaedcb21f8e0cbbcb7aa37ba3d1dfcfbc1ee"}
+  {:article/id "law/7080/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürütme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c7ebfbae1b408afeac0bdfae98c2b53de717ac69fc6ac624697b750f09394c99"}]}

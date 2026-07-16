@@ -1,0 +1,77 @@
+{:document/id "law/7471",
+ :document/type :law,
+ :document/number "7471",
+ :document/title
+ "TÜRK SİLAHLI KUVVETLERİ GİYECEK VE TEÇHİZATI KANUNU ",
+ :document/slug
+ "7471-turk-silahli-kuvvetleri-giyecek-ve-techizati-kanunu",
+ :document/path
+ "data/canonical/laws/7471-turk-silahli-kuvvetleri-giyecek-ve-techizati-kanunu",
+ :document/sha256
+ "3816cdf7da54415c2f620239ceed5b21674553b7cabe85038e907c61538f3220",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.7471.pdf",
+ :source/fetched-at #inst "2026-07-16T03:07:47.020-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/7471/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 41 Sayfa: 1009",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8552e14904ab23e999f67dbca1b7601a3eaca5507518baecf12e407d3179704b"}
+  {:article/id "law/7471/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e035d979bc0353f2575688ad79f2e3342f5851545228ec0264f9374381c2ed4b"}
+  {:article/id "law/7471/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ae89aa422c00953a626383eb3d90d5d86ee89a82458a2a0219c24a8e76e84451"}
+  {:article/id "law/7471/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3a32275fbc82035d7742bb967647f13a2072bee9e26c860c58ad163eeb91de4b"}
+  {:article/id "law/7471/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "acd88691b376c00dd588a446cd2b7d28ed300a126377085f5197b5a7b5b44ba3"}
+  {:article/id "law/7471/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "696d9f9dcbcbfa510a70f7d01b569ecaf0774e14c1ea561e52ade931bb1fd01d"}
+  {:article/id "law/7471/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "580e44525f2441a39665809a420bb668e7cf3110be13cbd1dbb33a9459a5ff8b"}
+  {:article/id "law/7471/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7ed207dc134e35c8a373c28518843a3a2e9b215546246cdd4f800b2a10580e5c"}]}
