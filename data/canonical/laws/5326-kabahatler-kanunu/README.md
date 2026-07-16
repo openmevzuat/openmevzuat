@@ -1,0 +1,63 @@
+# KABAHATLER KANUNU
+
+**Kanun No:** 5326  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/5326  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç ve kapsam](articles/madde-001.md)
+- [MADDE 2 — Tanım](articles/madde-002.md)
+- [MADDE 3 — Genel kanun niteliği](articles/madde-003.md)
+- [MADDE 4 — Kanunîlik ilkesi](articles/madde-004.md)
+- [MADDE 5 — Zaman bakımından uygulama](articles/madde-005.md)
+- [MADDE 6 — Yer bakımından uygulama](articles/madde-006.md)
+- [MADDE 7](articles/madde-007.md)
+- [MADDE 8 — Organ veya temsilcinin davranışından dolayı sorumluluk](articles/madde-008.md)
+- [MADDE 9 — Kast veya taksir](articles/madde-009.md)
+- [MADDE 10 — Hata](articles/madde-010.md)
+- [MADDE 11 — Sorumluluk](articles/madde-011.md)
+- [MADDE 12 — Hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenler](articles/madde-012.md)
+- [MADDE 13 — Teşebbüs](articles/madde-013.md)
+- [MADDE 14 — İştirak](articles/madde-014.md)
+- [MADDE 15 — İçtima](articles/madde-015.md)
+- [MADDE 16](articles/madde-016.md)
+- [MADDE 17 — İdarî para cezası](articles/madde-017.md)
+- [MADDE 18 — Mülkiyetin kamuya geçirilmesi](articles/madde-018.md)
+- [MADDE 19 — Saklı tutulan hükümler](articles/madde-019.md)
+- [MADDE 20 — Soruşturma zamanaşımı](articles/madde-020.md)
+- [MADDE 21 — Yerine getirme zamanaşımı](articles/madde-021.md)
+- [MADDE 22](articles/madde-022.md)
+- [MADDE 23 — Cumhuriyet savcısının karar verme yetkisi](articles/madde-023.md)
+- [MADDE 24 — Mahkemenin karar verme yetkisi](articles/madde-024.md)
+- [MADDE 25 — İdarî yaptırım kararı](articles/madde-025.md)
+- [MADDE 26 — Kararların tebliği](articles/madde-026.md)
+- [MADDE 27 — Başvuru yolu](articles/madde-027.md)
+- [MADDE 28 — Başvurunun incelenmesi](articles/madde-028.md)
+- [MADDE 29](articles/madde-029.md)
+- [MADDE 30 — Vazgeçme ve kabul](articles/madde-030.md)
+- [MADDE 31](articles/madde-031.md)
+- [MADDE 32](articles/madde-032.md)
+- [MADDE 33 — Dilencilik](articles/madde-033.md)
+- [MADDE 34 — Kumar](articles/madde-034.md)
+- [MADDE 35 — Sarhoşluk](articles/madde-035.md)
+- [MADDE 36 — Gürültü](articles/madde-036.md)
+- [MADDE 37 — Rahatsız etme](articles/madde-037.md)
+- [MADDE 38 — İşgal](articles/madde-038.md)
+- [MADDE 39 — Tütün mamullerinin tüketilmesi](articles/madde-039.md)
+- [MADDE 40 — Kimliği bildirmeme](articles/madde-040.md)
+- [MADDE 41 — Çevreyi kirletme](articles/madde-041.md)
+- [MADDE 42 — Afiş asma](articles/madde-042.md)
+- [MADDE 42/A — Asılsız çağrı ve asılsız ihbar](articles/madde-042-a.md)
+- [MADDE 43 — Silah taşıma](articles/madde-043.md)
+- [MADDE 43/A — Tüzel kişilerin sorumluluğu9](articles/madde-043-a.md)
+- [MADDE 43/B — Tüzel kişilerin bildirim yükümlülüğü](articles/madde-043-b.md)
+- [EK MADDE 1](articles/ek-madde-001.md)
+- [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)
+- [MADDE 44 — Yürürlük](articles/madde-044.md)
+- [MADDE 45](articles/madde-045.md)

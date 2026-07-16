@@ -1,0 +1,39 @@
+{:document/id "law/5339",
+ :document/type :law,
+ :document/number "5339",
+ :document/title "2006 YILI PROGRAMININ HAZIRLANMASINA DAİR KANUN",
+ :document/slug "5339-2006-yili-programinin-hazirlanmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/5339-2006-yili-programinin-hazirlanmasina-dair-kanun",
+ :document/sha256
+ "c867c168b3a09643d8ac3c4afebdfa51ab270ca617a7ad8af53ef03dce691c2c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5339.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:30.486-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5339/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 44",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1e6d7087b1c8b6b24bca0e83a4827dd8c3587e4928d7abd376e5b8fdd7ce52d2"}
+  {:article/id "law/5339/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/5339/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

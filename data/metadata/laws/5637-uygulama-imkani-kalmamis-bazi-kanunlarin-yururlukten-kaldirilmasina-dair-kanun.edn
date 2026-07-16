@@ -1,0 +1,41 @@
+{:document/id "law/5637",
+ :document/type :law,
+ :document/number "5637",
+ :document/title
+ "UYGULAMA İMKANI KALMAMIŞ BAZI KANUNLARIN YÜRÜRLÜKTEN KALDIRILMASINA DAİR KANUN",
+ :document/slug
+ "5637-uygulama-imkani-kalmamis-bazi-kanunlarin-yururlukten-kaldirilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/5637-uygulama-imkani-kalmamis-bazi-kanunlarin-yururlukten-kaldirilmasina-dair-kanun",
+ :document/sha256
+ "bcde48d732f9d63316e1f94cb22101522d5f7330fa39a75392d1bcccafe1fa26",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5637.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:31.613-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5637/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yürürlükten kaldırılan kanunlar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7595c601c5cf8cca1f95bb1f09ea4dab679f998593fef70a658f46c442f49ae9"}
+  {:article/id "law/5637/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "817e0de4434bed5b2d454e9eb4db29107e34a434302d723f280775cfe041c86c"}
+  {:article/id "law/5637/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürütme",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "67ee724f8e4a45b899c6eb955a8e42abed82512fe5bacc174aa86b0756c24249"}]}

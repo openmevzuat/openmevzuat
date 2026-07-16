@@ -1,0 +1,221 @@
+{:document/id "law/5355",
+ :document/type :law,
+ :document/number "5355",
+ :document/title "MAHALLİ İDARE BİRLİKLERİ KANUNU",
+ :document/slug "5355-mahalli-idare-birlikleri-kanunu",
+ :document/path
+ "data/canonical/laws/5355-mahalli-idare-birlikleri-kanunu",
+ :document/sha256
+ "163a8bf233a0c524a21598d9650a0a548dfe0804e14a481cc36c33523239d1c8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5355.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:42.256-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5355/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9df8c4f550f7476c181ac4613c56b4a50c748b06ec610eb16c71cb16330dad00"}
+  {:article/id "law/5355/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7b845e2b7688f2112776459e71acacebd37636bf0086f858f3bbdb1189c13432"}
+  {:article/id "law/5355/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7adb974665ccfcec3f600a0a8e7e8ae4fa3bd9903b87f35595a8ab82e01b171c"}
+  {:article/id "law/5355/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4bfeb6f4651530cef60946b396f7fbc1969998dbe449e3255691d0e35274a251"}
+  {:article/id "law/5355/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Birlik tüzüğü",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "46186be2102d1bf19c44f2b60356c249b0734e2d8c6c2eace4a038d8565aa041"}
+  {:article/id "law/5355/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Birliğin hak ve yetkileri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "94a9170f769ba298dce1cbd3d08017cfdb94c3d25d8e13f5dbc6b476a09ed55e"}
+  {:article/id "law/5355/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6a91fc5f5ca85b2f6b42ab335e44fabdbc0f3d2490354885f274026b8f02c6d2"}
+  {:article/id "law/5355/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Birlik meclisi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ab5267cb6f280ad4fc3dbfb035cb143fca213d33f3ba0376d43f13aac5a51d03"}
+  {:article/id "law/5355/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Meclisin görev ve yetkileri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f0471a821f0ca660141568b765fe61a76e4820cef2f352461645add0408ce34b"}
+  {:article/id "law/5355/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Meclis başkanlık divanı",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "4462bccb6d095f3b93e6a2013ab76aee0360068a3ea055822abdccc190a8ad83"}
+  {:article/id "law/5355/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Meclis toplantısı",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "355ecfbbf62a1b965483b4f879a6e3ec5543ecbf984d7dab6b6e05531a0fea21"}
+  {:article/id "law/5355/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Birlik encümeni",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "b6f919e3b59038789c802d81b4c2ba12d7b615963960b60ab6d87cabc9d112ec"}
+  {:article/id "law/5355/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Encümenin görev ve yetkileri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d796d9b019a6a575b7e2c2fd1c71fdba678eaaa0454fa31320109b104f301e71"}
+  {:article/id "law/5355/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Birlik başkanı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "2b3bac9ed7e2af97f4a4b27911a69e745c6d4961fd114fb872e15d35bd9da29c"}
+  {:article/id "law/5355/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1cd0b3d7f94ad99abf893027c059b27bff8ccad7e40219ee431bf8340537ebf8"}
+  {:article/id "law/5355/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Birliğin giderleri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9a529a5d818f83cec1fd11ccad89ce4fb3a99b45076c4eaa0352ab1937779247"}
+  {:article/id "law/5355/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "5f630017aa1798b61ab4097db89f12bc1caf628ae64ebdf48fe2e3f0e7859cfa"}
+  {:article/id "law/5355/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Köylere hizmet götürme birlikleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "b27614b0b28cb1be331528b6cd7d1b4c9c18ab16bb74dcd67d37f9a9c8617525"}
+  {:article/id "law/5355/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Sulama birlikleri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "be6f6204209d6c84f15ba7874f64d2f4bfe28da834f7bb065905f464cec678f3"}
+  {:article/id "law/5355/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Ülke düzeyinde birlik kurulması",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "01b88534f514bb5be73a466845a310f8931abf9b251a08b40a2a24cd44ef72a7"}
+  {:article/id "law/5355/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Birlik üyelerinin yükümlülükleri",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "3f9d72302713dc6251b44173b8852c1bc6d861523d8197406252295a4affdbd7"}
+  {:article/id "law/5355/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Ortak hükümler4",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "99118f4c34734fed6e2218b67e8672ecbbe085dfbeb4442af0438f0859a293e7"}
+  {:article/id "law/5355/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Turizm altyapı hizmet birlikleri",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "d51602f4f1f7aca41fdbf1091f9145bf8120b7979f441958e86e41e8095d205e"}
+  {:article/id "law/5355/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Ceza ve yasaklama",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "2df840d2fc1975f7a57fc94039bc38b1259206029f1142c1483aa75b51b3e9dd"}
+  {:article/id "law/5355/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "5ef9d15e06b621d2d619413c05c1a7426c3ca090e573b59a378fe82836ad009f"}
+  {:article/id "law/5355/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "dce8c47f2f4410711ac7c62cb1f6861d5da52b609d0cc1b88c81460b36dcbc7a"}
+  {:article/id "law/5355/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Turizm altyapı hizmet birliklerinin kuruluşu",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "b80fbd892493ff086a840a21e03145d3486e34a463b339c49ff9b6ea374cd89e"}
+  {:article/id "law/5355/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "8e5497425a4efb8d30edb5379eb14c497ae5020e0ea76a44234188295f30f66a"}
+  {:article/id "law/5355/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürütme",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "3d9114ebdac2fc3f5113e383a6c5bbf77f1a39728c90017565c2f56ea3d5f69f"}]}

@@ -1,0 +1,244 @@
+{:document/id "law/5320",
+ :document/type :law,
+ :document/number "5320",
+ :document/title
+ "CEZA MUHAKEMESİ KANUNUNUN YÜRÜRLÜK VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
+ :document/slug
+ "5320-ceza-muhakemesi-kanununun-yururluk-ve-uygulama-sekli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5320-ceza-muhakemesi-kanununun-yururluk-ve-uygulama-sekli-hakkinda-kanun",
+ :document/sha256
+ "0af6d9625a21930da8d752653996f71f36fb0d3931972f868930559bfbd6fb01",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5320.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:15.563-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5320/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4b262bc4aff12415bbda30a0059f84dc8d1fc5ed08c18f7af7b07c60688a63fa"}
+  {:article/id "law/5320/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8cb6a0d5f922c3ec3c16a2f73a88f894362bdbfb5f6ad377048e7f3ef78d69fe"}
+  {:article/id "law/5320/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9eb903891ded1a512e4666c1376213d93be9f45c5d259e2ec40a403ef99d18fb"}
+  {:article/id "law/5320/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Mahkemelerin görevleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5222938909c6b89d41d4bcb5b377b059d6c1727f4654c8d16ff5122e34db7516"}
+  {:article/id "law/5320/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Gıyabî tutuklama kararları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0f5e969114ad7645c9a68eb0d13d99619a41dad21ab989e99675df6a8d364a6d"}
+  {:article/id "law/5320/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Koruma tedbirleri nedeniyle tazminat",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "08d55d7a3234c7a388b0a6317bff99f8fe3482ba2ba6df3e489f18957e048b41"}
+  {:article/id "law/5320/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İtiraz",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "8e00e046ca4c6925f23f2f1b6177bec88d0ac691f503a3c1371ef392667db0f4"}
+  {:article/id "law/5320/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Temyiz ve karar düzeltme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a2811607cc4a5ca8cdd2e61cfadf500796a7b44c2cc1e41798908c96db7e70fc"}
+  {:article/id "law/5320/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Şahsî dava",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "335e87e454de84b0d9eaf7d1e864c5317507ab4df1395d15a9f206ee4b5921f9"}
+  {:article/id "law/5320/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Ceza kararnamesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "0b0ca6a1a6076fbaed8d65c103c3f3c6cc35a6c4a012809273310804e1a1cef9"}
+  {:article/id "law/5320/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yargılamaya katılamayacak hâkim",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bc69c23fe660a273a0496ab750ee79de49d782e847336c1e3c1e4491bb613a3c"}
+  {:article/id "law/5320/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Tutuklulukta geçecek süre ve tanıkların dinlenmesi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "ad7f67cd99ff2ce9beb2e5ca9c68308dc73a0f225cac8e0e05c6000c03eba410"}
+  {:article/id "law/5320/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Müdafi ve vekil ücreti56",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "12fd6a5329da2fbf17be20eb71f4bec4c4d01eca0c159f3e18b079a164ee92f7"}
+  {:article/id "law/5320/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ea6871dc9c61c9954d71fd31d088b0403467d3beff6b90945f30d43a86d1f305"}
+  {:article/id "law/5320/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "e449cd3a0a84944c037a938842c9bda3d452c772355c717b09d9ee8e043d2503"}
+  {:article/id "law/5320/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Kolluğa bildirim",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "c95616e4c1166706bba13b6ceb1d0356c6a4f1ee2572f34c71ce4c3d661521f3"}
+  {:article/id "law/5320/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Parada sahtecilikle ilgili bilgilerin toplanması",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "da46af70a4b273fc4890308d5ca7eb2cd475fc35bec7359535ff0ada4b59af3e"}
+  {:article/id "law/5320/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlükten kaldırılan kanunlar",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "b05a33c929937554e39f501f09b849e93633cb9863a9486c3dc3b4defd13d1fd"}
+  {:article/id "law/5320/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "1f5c8f4ef78548c9d7290107da5db179f43dc399838e20f1d7005b2e4069c8bf"}
+  {:article/id "law/5320/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6da0803d97d3b42877e88042455c9dd91a093c1afae82aedd0ea5b5e60d6f0b2"}
+  {:article/id "law/5320/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "2576f594a5d6216f6185b603f3c681fe3fa90e1f1940e1291c6ff2127f56fe70"}
+  {:article/id "law/5320/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "ccf53f20303d8eaae8067b70ba269a702f4fd5a7feec6d9eb86f5faa73dc6f70"}
+  {:article/id "law/5320/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "4b50979585140826fc704baf3dc5a5a5c53ecafd34d1f07dd977f13ca622fe2d"}
+  {:article/id "law/5320/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "c1ecc9b717b5b3ceea2df7d4ce7b762594622be7b2bca825c8832379fa90c912"}
+  {:article/id "law/5320/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "c0753c7ad2bc68f4067923ec65adf6659fe4ece5f646c26f15125a3ed30cdcae"}
+  {:article/id "law/5320/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "88fd49117a46c3ab516789432a70105e6f50f0a188fb7fa3f590fa1c4819312a"}
+  {:article/id "law/5320/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "f71a3a0b62f95c8f13bf4094fd861d1abb1e66a8a96eb09bd9d0a1e256bf0fab"}
+  {:article/id "law/5320/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "eedf87eb00b0307c5ec808e26bd78a83291ec20172af2252590205e5dc598149"}
+  {:article/id "law/5320/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "2ea6e9c85a86c1c395b6d9101454bfc25fb9ace9053a20ffc5fe4bccb2380225"}
+  {:article/id "law/5320/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "4d2cd284919055b0ce8295177fe1add15b5b86f34090593668cbb1b47725a2c6"}
+  {:article/id "law/5320/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "88ab91bc6113a73024eeb91c6997802005b74a2c5406b6d2bc8e4821fdf2ea1f"}
+  {:article/id "law/5320/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "0b36dacc539ef4f992de8bf5f7392a7d092188d0304993b8e2a9ea10215ce3c3"}]}

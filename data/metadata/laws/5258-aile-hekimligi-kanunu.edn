@@ -1,0 +1,87 @@
+{:document/id "law/5258",
+ :document/type :law,
+ :document/number "5258",
+ :document/title "AİLE HEKİMLİĞİ KANUNU",
+ :document/slug "5258-aile-hekimligi-kanunu",
+ :document/path "data/canonical/laws/5258-aile-hekimligi-kanunu",
+ :document/sha256
+ "126606b262505619d8ac775983779af4e0e2163d0ff91508c0203bfd0a6c7665",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5258.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:30.502-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5258/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dae18dd35eae990a129ff11eadce1b3aab6585b3db4a18b84522d251aa8d8187"}
+  {:article/id "law/5258/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "97de2129c3c1ac85b8d493e6ef7f1f8076e6f3d2dd9a25b0e2f7d1aa2bbd7524"}
+  {:article/id "law/5258/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "62bacef30db309143e488ec3be216a49a831e0aa71fc594cd09fc13bb3d98122"}
+  {:article/id "law/5258/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kamuya ait taşınmazların kullanımı",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "74ce4a2233054a775072b44f0645f15ed0c404e30c5e340e7e77cbe582811be3"}
+  {:article/id "law/5258/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hizmetin esasları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "41509f8b038531beca8fae7a83373b70bfa2733e045bb6361b51eb8aa4a08b5e"}
+  {:article/id "law/5258/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "45a3e11ff72dbf40b57c6961b2a181a1ee7033f552e20e5c82246ec882a1642f"}
+  {:article/id "law/5258/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c6c17a543145a65d0693b910cdd3ee9e449b56cdad2a0309184209d300712c96"}
+  {:article/id "law/5258/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c6147e29aaf78159ea0d6b497729e0c597e71eb9209d0b03e4f7f026fa10d105"}
+  {:article/id "law/5258/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5931f5030f164af0fc5ef4ad24d8d51fcc01c07575dedfb8d298642278ca5bde"}
+  {:article/id "law/5258/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "37e5b8fcbadcc3ca436b171e97c9244abf7ca214c2703b408dfa7893f2dd5715"}]}

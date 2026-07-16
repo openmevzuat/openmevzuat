@@ -1,0 +1,48 @@
+{:document/id "law/5282",
+ :document/type :law,
+ :document/number "5282",
+ :document/title
+ "SOSYAL SİGORTALAR KANUNU, TARIM İŞÇİLERİ SOSYAL SİGORTALAR KANUNU, ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU İLE TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNU KAPSAMINDA ÖDENEN GELİR VE AYLIKLARDA 2005 YILINDA YAPILACAK ARTIŞLAR HAKKINDA KANUN",
+ :document/slug
+ "5282-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-kurumu-kanunu-ile-tarimda-ken-c0613aee64bb",
+ :document/path
+ "data/canonical/laws/5282-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-kurumu-kanunu-ile-tarimda-ken-c0613aee64bb",
+ :document/sha256
+ "74c5f53cbcd2386470edfe7a820bc61e1b96ac5c5e37bd108a461d981a833cde",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5282.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:50.302-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5282/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 44",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "21d8407ce99dae8e1cbfafeb740b6d2dc6f86095cccd8ea6fb9d979e77147fdd"}
+  {:article/id "law/5282/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7a563e34b13e4e2d5a1150751309bcf1bc1d69c9cf232757d027a866b29aec20"}
+  {:article/id "law/5282/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/5282/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ff5aed8cefa131cdd46dae4e4a063c39a54a285aef09ee2ec3b3a63d0dbcd24a"}]}

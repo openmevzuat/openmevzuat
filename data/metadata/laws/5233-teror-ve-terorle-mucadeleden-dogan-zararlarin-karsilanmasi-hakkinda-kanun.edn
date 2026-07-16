@@ -1,0 +1,204 @@
+{:document/id "law/5233",
+ :document/type :law,
+ :document/number "5233",
+ :document/title
+ "TERÖR VE TERÖRLE MÜCADELEDEN DOĞAN ZARARLARIN KARŞILANMASI HAKKINDA KANUN",
+ :document/slug
+ "5233-teror-ve-terorle-mucadeleden-dogan-zararlarin-karsilanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5233-teror-ve-terorle-mucadeleden-dogan-zararlarin-karsilanmasi-hakkinda-kanun",
+ :document/sha256
+ "85bbfcb4f36444c90704ce9d2f6c305a46cfd219c76b4fdf4b0244091b04ff73",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5233.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:06.900-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5233/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "792cf30288aa0a6e19dfd23c22e95771bbc9e9fe61522a96f9f816e2e4add033"}
+  {:article/id "law/5233/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "bf494372c6cad5d03468133981dff1901bee4164507549930ee02a7bfe10bbbf"}
+  {:article/id "law/5233/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "677d5ba3cae3d30327742d97a59a64f09064573bd9bcf9addebddddbb00b3619"}
+  {:article/id "law/5233/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Zarar tespit komisyonları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "00cc187d495bc1fc7e58825e0b56e6e46031357a844df18dcd027c1be40e2aa1"}
+  {:article/id "law/5233/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Komisyonun görevleri1",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "98153710f7cf283a166b18b1501eb3a7e7b4adf7fd0e1f7ef72b839788391ee7"}
+  {:article/id "law/5233/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Başvurunun süresi, şekli, incelenmesi ve sonuçlandırılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "6b5dd31bd242c54f061236e3c44832faaeabc0b977921a3751e1fc5d8e6bda8e"}
+  {:article/id "law/5233/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Karşılanacak zararlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "be25c4ae3046d68f33343dcaa8f68c747c2a1c3e992056a4dcbe94a1c5a647e6"}
+  {:article/id "law/5233/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Zararın tespiti",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3dfe263911fd6678bc5575f3e08620386d38d0928d2eee59efbaf0645bc971fb"}
+  {:article/id "law/5233/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "Yaralanma, engelli hâle gelme ve ölüm hâllerinde yapılacak ödemeler6",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b2c77b1ae7d93019afc92a9bb76c11fc434266e27967d4a20a6c72502b62a867"}
+  {:article/id "law/5233/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "031416a068b3c05f138b753d59e258d683fc2f3ef9aec8a2acdfbdb41e24ed1e"}
+  {:article/id "law/5233/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Mahsup edilecek miktarlar",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5c9885d11d443772e31f0bd4f75d25eec6822d2ef69fc13c5e89efc107cecf68"}
+  {:article/id "law/5233/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Zararın karşılanmasına ilişkin sulhname9",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6d7270f4d701be2fa30e4b24d54aa90fea0b8c2a4d9c97f64bcf32f6abb2bc95"}
+  {:article/id "law/5233/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Zararın karşılanması11",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "86ee29e301c1a12395e9ea9e3077b3ad9ca4077fb3a1fac2fc3b1938893550bf"}
+  {:article/id "law/5233/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Denetim ve sorumluluk",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "803e2c6163bf7cbdb8bba65d884176822ab7e592a9914424a0feaad976d41af2"}
+  {:article/id "law/5233/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "İstisna ve muaflıklar",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "345a09651289a41eb0aec49b3e20d1dbe6c383003a3d6a08881bc4cb5cf380a1"}
+  {:article/id "law/5233/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Tebligat",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "164b9972c1d5826bf5126800d6e7dfe58349d4b8b9155783f480ba161e6ed406"}
+  {:article/id "law/5233/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "9d7bfb43a4a89d1f01086417f03c73fe028c87cf90394cb7d1690b934f96fb5b"}
+  {:article/id "law/5233/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "e5f892600e911a54be262b3a8fc1a82d006453f07d62cf9f9818007fd6a2285d"}
+  {:article/id "law/5233/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c873a02c1a3d50ebf40cf9d5f4df744c9452e9e9adac0462eea5b776f5e2f15d"}
+  {:article/id "law/5233/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "9058c8c8894289c09e34df006293ba77de65162eb2c3e1016271ff54ab02732d"}
+  {:article/id "law/5233/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "4364b482d4eb5a4183acf708d183fd894447eaaac7ed6829c92ddaa907b53a4b"}
+  {:article/id "law/5233/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "74f99143720dfe1248d185254d1787ec4763e7086d3155eed6c9187faae86534"}
+  {:article/id "law/5233/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "1991738018e2d7fbbd4c57322ef77dcfbf9effb6f3bee8de1b67e5e8d935722c"}
+  {:article/id "law/5233/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "107508c04c91c33f4ee1b900e471cbc928d2b5366ccf1cdc057fff50e51cb9ca"}
+  {:article/id "law/5233/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "23cb5aa00e3b4ae7b9a43ea81b3d6b5a1879d7f08745f048666ff1319598f198"}
+  {:article/id "law/5233/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürütme",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "e06337ed5cd416c2aae195227180af5a3ef50bfe784c2fbfa17d37a9fb34d145"}]}

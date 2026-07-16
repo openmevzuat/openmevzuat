@@ -1,0 +1,217 @@
+{:document/id "law/5346",
+ :document/type :law,
+ :document/number "5346",
+ :document/title
+ "YENİLENEBİLİR ENERJİ KAYNAKLARININ ELEKTRİK ENERJİSİ ÜRETİMİ AMAÇLI KULLANIMINA İLİŞKİN KANUN",
+ :document/slug
+ "5346-yenilenebilir-enerji-kaynaklarinin-elektrik-enerjisi-uretimi-amacli-kullanimina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/5346-yenilenebilir-enerji-kaynaklarinin-elektrik-enerjisi-uretimi-amacli-kullanimina-iliskin-kanun",
+ :document/sha256
+ "2a7a100ef1bf704e6aa474e2de5b43709828e0054344c9cb47ee1bccfabff461",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5346.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:35.485-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5346/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b261b02e6c7bab8d5bdc1575ff9140efc27a057d6bf73cb03e4b638241b68ca2"}
+  {:article/id "law/5346/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4705b0d101cd2ee049afd8060800aff5ce5f762206957ab7a09438acb2aed40a"}
+  {:article/id "law/5346/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar ve kısaltmalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "cda8c6c7603a6cba6169de1b4b80ad77bfd92959cc14c4abfd37743f6cb50e2e"}
+  {:article/id "law/5346/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2edd06caf060ae970ff661081964891c548195e6a986b79409fb5dbbd15f5ad4"}
+  {:article/id "law/5346/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "YEK belgesi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e4d3f0c913ff37e97fac9de6b7c2960b28c518ed455668135903a8e5218dacd2"}
+  {:article/id "law/5346/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0afe2b9f5e4c15f5a67a33c4af4576bcced24015fa5cb1c34f2661e3c6c6d2fb"}
+  {:article/id "law/5346/article/6/A",
+   :article/type :normal,
+   :article/no "6/A",
+   :article/title "Lisanssız elektrik üretim faaliyeti",
+   :article/path "articles/madde-006-a.md",
+   :article/sha256
+   "3e7e4c2eaf258c140d8844f4f968d8d8b84a46d47c129dee12d0c2a1429c0960"}
+  {:article/id "law/5346/article/6/B",
+   :article/type :normal,
+   :article/no "6/B",
+   :article/title nil,
+   :article/path "articles/madde-006-b.md",
+   :article/sha256
+   "698b0b21c22182c59203cd5ad77ed3b0a969cbfefc0447d1953432bad7aa8d82"}
+  {:article/id "law/5346/article/6/C",
+   :article/type :normal,
+   :article/no "6/C",
+   :article/title "Diğer uygulamalar",
+   :article/path "articles/madde-006-c.md",
+   :article/sha256
+   "971b89f403170acdfe41b96104b54680be0694bacb1dcdd134136d8029366049"}
+  {:article/id "law/5346/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "cf4b79d0a55285d18fb8119696a61a81d12b26590f44660cfaa3a514ef043cbc"}
+  {:article/id "law/5346/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Arazi ihtiyacına ve diğer izin süreçlerine ilişkin uygulamalar 13",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4c3807fe2ae9fc13c8df310cb3268d253820383b1ae3aeee2aa4fb7f5714e916"}
+  {:article/id "law/5346/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "990dc0bfa5d4df1ab2999a140ff95c8cbaef1c2c59661f8cb192d608ea8a174e"}
+  {:article/id "law/5346/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yaptırımlar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "90a40166f89323456367abee0a58d5eeeaa8fd5a04cda6299f3efcff30f24afd"}
+  {:article/id "law/5346/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9cddb49060eda42d8d9e1d722f86cc9d203b809775dcdc74d09b362a865bb06c"}
+  {:article/id "law/5346/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "709b1210f88028e2b8afb55358dc199ed8c1cc4283d7b49eee6bd1c90fb24683"}
+  {:article/id "law/5346/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "202b30e8fc2d6e37c6303fc09ee5a01d25dbbbaa7ba54cd3120de586a98b1f41"}
+  {:article/id "law/5346/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "İmar ve ruhsat işlemleri",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "1a45a541119cc9b5fe577d436171ba3d2c928e16df0ab97d201b34a0935e2bd4"}
+  {:article/id "law/5346/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "19609a0a75e74c4315f4f543e241adcdf927769e59de4603b70b4fc8c8a3766a"}
+  {:article/id "law/5346/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "9d65b161053e124095b008c4fe3a6dd9598c010884af9bf985a2583de42b7075"}
+  {:article/id "law/5346/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "be10f810038b16dd0ed234be03eeb24c1f1f2619c0b4b0f10310d27352cb7f4f"}
+  {:article/id "law/5346/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "c33e64b83dcfd3602fb2355bd36cbb52955f158b62c8c43370f8d696b3dcd9f0"}
+  {:article/id "law/5346/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "a0e04df8f3875909c3772a1e0b6b0c4c83ab98525eaa3ced9beda0eb378032df"}
+  {:article/id "law/5346/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "5a13d993c7701b1f0ea288f6b06ca07e66947296f99f5ec239a9be530f62b126"}
+  {:article/id "law/5346/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "98d1bd70255a7b7fc2cef99f6b9d82b742e567e4559850d9e5834520113eacfe"}
+  {:article/id "law/5346/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "eeb36e5160f3c442ed4bd38e07c55d1a25dd62a5793c060052bd5f32ee6551e1"}
+  {:article/id "law/5346/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "cedf878a89585db12d8e16799505fa10c583c41ac434c2dde794a857ec084042"}
+  {:article/id "law/5346/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "cf16d2889f86c1d52270c86f239620e1c721cbf1b025be67c591611d64831c6a"}
+  {:article/id "law/5346/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1e6e0adcbd00147dc795738bf3745bf0493e5174c9b2ce26418386f71db7c4f8"}]}

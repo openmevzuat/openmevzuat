@@ -1,0 +1,470 @@
+{:document/id "law/5235",
+ :document/type :law,
+ :document/number "5235",
+ :document/title
+ "ADLÎ YARGI İLK DERECE MAHKEMELERİ İLE BÖLGE ADLİYE MAHKEMELERİNİN KURULUŞ, GÖREV VE YETKİLERİ HAKKINDA KANUN",
+ :document/slug
+ "5235-adl-yargi-ilk-derece-mahkemeleri-ile-bolge-adliye-mahkemelerinin-kurulus-gorev-ve-yetkileri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5235-adl-yargi-ilk-derece-mahkemeleri-ile-bolge-adliye-mahkemelerinin-kurulus-gorev-ve-yetkileri-hakkinda-kanun",
+ :document/sha256
+ "6731b854dc819339e315a6eca113f4cb9a31acbd5bd030053ec598d69dfabbb5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5235.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:12.202-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5235/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b0bad0225b5ed50d92c403f043310117dc47e39145a4b452d2376c42197bc261"}
+  {:article/id "law/5235/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İlk derece mahkemeleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e69039c065ae14d907607b6ffee59859ef7f389b156a4f5d6514724dedcfc9f1"}
+  {:article/id "law/5235/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Bölge adliye mahkemeleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ee89852e089d37ab50acf77b945c22c7ad550c446e1d5f27fda7ce0f1ca8fbe2"}
+  {:article/id "law/5235/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "90456fa44e25dfc42452db7ff4cd749f75e93cb8239d85a600125ee781ad8d52"}
+  {:article/id "law/5235/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hukuk mahkemelerinin kuruluşu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "72c71cb16e42c2b3aef60e428afce731c6b2836cf5ab746fbbc2f875f14eaca9"}
+  {:article/id "law/5235/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Hukuk mahkemelerinin görevleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9a10d47763fed368ce7d6a8eb8ef71c76066dfe10fae8310b2de9a723d3b2221"}
+  {:article/id "law/5235/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Hukuk mahkemelerinin yargı çevresi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "189b4a905d33376ebf95653142133267bdabe2df03cdef4efa5288d9c987cecd"}
+  {:article/id "law/5235/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3fa75cebb5199805dbe487f39cad38e636c2e3cec68f63da904812bf20e56f8e"}
+  {:article/id "law/5235/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ceza mahkemelerinin kuruluşu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ab46057582d59cf62a8775645f8272e718ef3fb57d61f437ecc62b26024ec67d"}
+  {:article/id "law/5235/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Sulh ceza hâkimliği7",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d341a7c252eeb5b95fe86b878057299cbbe0c720a62e55f29503cd66ffb9fe60"}
+  {:article/id "law/5235/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Asliye ceza mahkemesinin görevi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "efffdabe8b001ab123059ea5a9c9080950a6cadd8b169d3f6907c1dfa91f811d"}
+  {:article/id "law/5235/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "9560e20604ece6311d9c3f35b65663b0cdefc0c048a2ff78b83894ce6a8bd07c"}
+  {:article/id "law/5235/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Diğer ceza mahkemelerinin görevleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "7a8b61ae04dcdbfba0e072f12c949c98d8f860a5824d78f28a8a00761d58dc25"}
+  {:article/id "law/5235/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Mahkemenin görevinin belirlenmesi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "db7183c20d2c971962910a3d175b40bbe463ad9b932d59e0f2a571123cbae594"}
+  {:article/id "law/5235/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Ceza mahkemelerinin yargı çevresi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "e89c66b5754e20cccfb45e60c0960fb910d20ba05ffe79e2e455327e7e603714"}
+  {:article/id "law/5235/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9d008ede46b033ee33fb98354e7e25beb58bc299698308b59fce1b38bf74d0d2"}
+  {:article/id "law/5235/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Cumhuriyet başsavcılığının görevleri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "6b40b66d7d4b9696df0e1459c1a657e82de9ed375574259e029c80717fb15624"}
+  {:article/id "law/5235/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Cumhuriyet başsavcısının görevleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "e1d9e8834cd97eb84f9422395b3e10900d63ff2b10a1e5e18c5080a83080fda2"}
+  {:article/id "law/5235/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Cumhuriyet başsavcıvekilinin görevleri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a384ed106f33985d5124b59e9b48ff489f823387165eed8b159d3c347ced145a"}
+  {:article/id "law/5235/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Cumhuriyet savcısının görevleri",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "4834f0e8d469ddaa38c7bc4afd8dfe2b5c63412e848c95b7df66b7568b934160"}
+  {:article/id "law/5235/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Cumhuriyet savcılarının yetkisi",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "7ddde71e05b18b45fce12f58f2075f1248e1c216e20c608efe11e9632a8c75e3"}
+  {:article/id "law/5235/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Duruşmalarda Cumhuriyet başsavcılığını temsil",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "b4465aafe6dce4d1c4d3105183e069e69f1e946197841c5a7986e605847934a0"}
+  {:article/id "law/5235/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "5c85cd769897be162564419b29de398c07b16c1f88f3902fd027230a73567806"}
+  {:article/id "law/5235/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Müdürlükler",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "7f6b2d241e0c657590b6c81b17cbb1571abab094ec3dd267287b21949ed09353"}
+  {:article/id "law/5235/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "5066b038ec60830f519892b3e2ec35c88624e915f3bab0f3f51a39f8bd96f7c4"}
+  {:article/id "law/5235/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Bölge adliye mahkemelerinin oluşumu",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "d05e52803e9b0ea115d0a9113cb8a22f1dedc4a956db0015af3c29c97ba5f2cf"}
+  {:article/id "law/5235/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "e0908ab2cd3c5b7233afb9064d6907e3b5029470f3d5717f834034e0e011de39"}
+  {:article/id "law/5235/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "başkanlar kurulu11",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "8f9801169ea6ad679f4c730dfdcd842e95218e34d9191d9a924688bffd79f933"}
+  {:article/id "law/5235/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Bölge adliye mahkemesi daireleri",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "6d64c1e3eb7d384d5980dea971e2b471466c370214dbe8ca846218958590ab62"}
+  {:article/id "law/5235/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Bölge adliye mahkemesi Cumhuriyet başsavcılığı",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "e5c037fc5e3cd023425f5ef4fa9a4f8fe029feb37a1b019d169610e196fa4e5f"}
+  {:article/id "law/5235/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Bölge adliye mahkemesi adalet komisyonu",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "59d40007a263ae25adc5e08cf740a89acbf36e33fad2c80bf929b612de6c418a"}
+  {:article/id "law/5235/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "7b9e72c06477893dafbdef34bfae470574cafc6fb4fdf2dd0f80f66d1a56f3c1"}
+  {:article/id "law/5235/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "dc77ccf6ef30169b9ec473972e2fb3a7de421247e58d6dd574c1874e6b1e1e53"}
+  {:article/id "law/5235/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Başkanın görevleri13",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "3a164cde6a000dfc052b921433e849cd0bed2b721941228c643820a838705cad"}
+  {:article/id "law/5235/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Başkanlar kurulunun görevleri15",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "a2f6452f19921b1a34117d16891061a6a9266d1cc1d9b077152df11f8d467344"}
+  {:article/id "law/5235/article/35/A",
+   :article/type :normal,
+   :article/no "35/A",
+   :article/title "Hukuk daireleri iş bölümü incelemesi",
+   :article/path "articles/madde-035-a.md",
+   :article/sha256
+   "8e31d943a182dfcd0ba2a5f770d503901f35d5c00f6ae8c8c944f03760c3142f"}
+  {:article/id "law/5235/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Hukuk dairelerinin görevleri",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "0ea8b1d956aad2d555541d859afeccc67186931c7003979e6f985f687e559984"}
+  {:article/id "law/5235/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Ceza dairelerinin görevleri",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "e53d3dbebeecb659d5031edff9d562264fec7dc8d7a934515c21fde3187979c9"}
+  {:article/id "law/5235/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Daire başkanlarının görevleri",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "63996088251851eaf13ea2075f3d98bee0b0813ccafe1e0a413ed88fe20a9d48"}
+  {:article/id "law/5235/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Üyelerin görevleri",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "f95af21762fe5344df0f76f5d943f25602eca3c0673abbe7227f6f6694a85a1f"}
+  {:article/id "law/5235/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Cumhuriyet başsavcısının görevleri",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "2a8134e9c10af01325fb2a93c11d85ec8fd8d2dd454d0904ebda8c73eb90c5a2"}
+  {:article/id "law/5235/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Cumhuriyet savcılarının görevleri",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "fefbba2d4ddde02bdd71cc7db2910a08646892a394d7200e7519a79d8a259738"}
+  {:article/id "law/5235/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title
+   "Bölge adliye mahkemesi adalet komisyonunun görevleri",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "e6e1d19c9a21f35fa5c8254401b7191ce1502c0b5fac5b63449f188380ce8423"}
+  {:article/id "law/5235/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "401eaf43e18af83c6a9ff4a011ddeb80d9377295e8a00dbd801cdcdf0407ce59"}
+  {:article/id "law/5235/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title
+   "Cumhuriyet başsavcısı, başsavcıvekili ve savcılarının nitelikleri ve atanmaları20",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "f6e7316e3b5577f8f9423a354fdaae37153c2a528d8016f5203d3e991afa7f8f"}
+  {:article/id "law/5235/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "İstek üzerine atama",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "5fa72e6003bb5bb057c1f837b9028825e1323622b1033358bcea8e65afa5038b"}
+  {:article/id "law/5235/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "419df228c85b75ae831fd8e5618cccedb1eca96abab2b221410847f36c9c582e"}
+  {:article/id "law/5235/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Soruşturma ve kovuşturma usulü",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "6e3c55c2eeb5e65f7e1812f978d34833dde436d1ba29c7c3ab78fd77a6c929a9"}
+  {:article/id "law/5235/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Denetleme",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "3faabc8c796793c1bbe8440272480df301ced29659a3c52267870f9f98776c9a"}
+  {:article/id "law/5235/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "3fcf348aab488a8296edfe9f8301f28e65e2d649b7408fb85f96fffe0393a8ac"}
+  {:article/id "law/5235/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title nil,
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "f42311432444f379cf4c0cbe12b2cbd2789b954da350888614bbf0100423a510"}
+  {:article/id "law/5235/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title nil,
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "b26b29865f9c2abf5e6e84c9c8e8642ea1de8faf5d4cb0663f6c698e9236c123"}
+  {:article/id "law/5235/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title nil,
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "72e68245684c4a5b80bda0c42b7e5a843222468fb26874e22362d8d3195534d9"}
+  {:article/id "law/5235/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title nil,
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "1ed9051436cf5a99dde7116ca33ab54d89167d281abb48ef39cfe4ebb9361a8a"}
+  {:article/id "law/5235/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Yargı çevresinin değişmesi",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "635442f990e9a3ffe8624b5d6bba265e9c49dec85733c00cc2563fa0d4c40a83"}
+  {:article/id "law/5235/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "bf2d0f2874e208181cf3787e6382ec735ee75260057a8308b20a566def8b6056"}
+  {:article/id "law/5235/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "5ece38fb4e133e38b09397c7ee0e401a78fbe91e7c00976de1e0674697137597"}
+  {:article/id "law/5235/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "d7ae24a5ba1b4410d1dbe5adc20f1ce369c5ab12b27a418c6cf9fb6a21a4a1eb"}
+  {:article/id "law/5235/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "2c98e35bd4c4016e04600edc7c36231a29f5f5b09caf5a1ea10ca2679e1be4a2"}
+  {:article/id "law/5235/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "57e3ef85131b02cc86894df714bf4dc1082732e5b241714ba6f79b7261aba4df"}
+  {:article/id "law/5235/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "fe3671b403d05c312e5aa908eed2fa2758bb2b7810f86efd95f371bc68868cf6"}
+  {:article/id "law/5235/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "dfa736efd30fe818e137b1683fc5b535fdc90ff40297cfc035d8c8dd22d1e24b"}
+  {:article/id "law/5235/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "3db702362cb20f1ee5cc972fba0b216e650e41a2cef0208dfc75452a62e2aa46"}
+  {:article/id "law/5235/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "8b026610348cbfa9dc1b323e64d296125fe91f2ca84cfc540be8852ce50c538f"}]}

@@ -1,0 +1,129 @@
+{:document/id "law/5369",
+ :document/type :law,
+ :document/number "5369",
+ :document/title "EVRENSEL HİZMET KANUNU",
+ :document/slug "5369-evrensel-hizmet-kanunu",
+ :document/path "data/canonical/laws/5369-evrensel-hizmet-kanunu",
+ :document/sha256
+ "64712f78c50a1f27f771a3687c7dfbbcc4805e915d885e3c0ddf3e38b3a2d815",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5369.pdf",
+ :source/fetched-at #inst "2026-07-16T02:39:00.756-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5369/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç2",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "416dd685e4549136555179d89c6cbaa316683b8ab0a3648deff3524ea9323770"}
+  {:article/id "law/5369/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "05f115c4af865fe7c077f5627af50d7821010d9817581629d1674135cbcc4989"}
+  {:article/id "law/5369/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "14f481a92a6c61044d4bf4e550c40f6941a105547f54747fe0deb8d803e4fc8e"}
+  {:article/id "law/5369/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İşletmecinin yükümlülüğü",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8a9776fbf36f83df4731c3a14dbf9fa90364df4e7124ed859fd3c116270e62f4"}
+  {:article/id "law/5369/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Evrensel hizmetin kapsamı45",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1c34f56b4f960d174236f93a4cd057b78b811ea8d16d6c0aa6c87ed35c322e6f"}
+  {:article/id "law/5369/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "36d7edb1b82fb7e2a4fd24243139a4aa036db9d7f5631ff6c686ece855475c85"}
+  {:article/id "law/5369/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Evrensel hizmetin net maliyeti",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "3ad3b770b81afb8f5f0d8926784e5cb98c76347597aa0402c650dabeb893c9b3"}
+  {:article/id "law/5369/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7f2fe3c3ab83e3ba3bd98454ae9ff8c972fe046abd8d48b6def1ef0063e9cca7"}
+  {:article/id "law/5369/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "482cd59f22f066ef76fe2c65d263d5e85dc74ede7e2acb76b30b176b6895a3bc"}
+  {:article/id "law/5369/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "1dd8c2aebaebc3794fb12dcc5aff47730d206745d3722d215221b2fcd46dcf40"}
+  {:article/id "law/5369/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6f7b493d6e02c60b74077dcc6be071c1748fad1d04e7184af69becbb01b81fb4"}
+  {:article/id "law/5369/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "cc7ae51201fda1d0aeec2d3c4120d9c94a42c9e7f9efe4744062ffff132d579f"}
+  {:article/id "law/5369/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "920e0e45a7b77901b2ce2b158b36f6121cfe43a5080706724199c73385c14db6"}
+  {:article/id "law/5369/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "30b83a1466361fb6b8a674bf40c40414c0457adf868a2c152607979f60c510e1"}
+  {:article/id "law/5369/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "e4f2fd870d4b2eeab6a65bb6de42b22a76b14999c8eff353b8b90b6c8cc9b097"}
+  {:article/id "law/5369/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürütme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7ad787000fa94c3c0c5e92c9c1d004a764472f2dd1814a0fffdc97b05a82e695"}]}

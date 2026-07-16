@@ -1,0 +1,95 @@
+{:document/id "law/5624",
+ :document/type :law,
+ :document/number "5624",
+ :document/title "KAN VE KAN ÜRÜNLERİ KANUNU",
+ :document/slug "5624-kan-ve-kan-urunleri-kanunu",
+ :document/path "data/canonical/laws/5624-kan-ve-kan-urunleri-kanunu",
+ :document/sha256
+ "9d4bdc7f9793bff2d82356f34919435b7a0e557cf4544bb2cc5d3034449dfd4d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5624.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:25.786-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5624/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f5593e1a76188ea9cbdfe0537d31caffd54f51b9df57f99cfab964bdd5020fa8"}
+  {:article/id "law/5624/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "cbc8600503b1155cee80d90fe6b2ecef4567354b4314106bcb9aa1d0a6cacc38"}
+  {:article/id "law/5624/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "a85724c73f066a720d09d53df194b1b47f8a38ba5561c2c1bda605db22478cbb"}
+  {:article/id "law/5624/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kan ve Kan Ürünleri Kurulu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "32619b8783a072faf58d3f62937f5f7d752f4a837a083b21097c8890d5748273"}
+  {:article/id "law/5624/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "85ca9043032b8d3607dbebcc2f3c1cea712f9ca35bfb31f19a00fbf0f8d24e67"}
+  {:article/id "law/5624/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "74cfdd1943747aebd6e5da65758054f9909e5882a90f26b847b947948814ced6"}
+  {:article/id "law/5624/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7287b5a581a679a6537306d60e92a8dc1463238e57fdf2788bf39f8b6bc17a95"}
+  {:article/id "law/5624/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "5539d5ac1ecdd42ebdbc87b07479646c780a3ccd0ae66de0b3fff724d51a4ada"}
+  {:article/id "law/5624/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title
+   "Yönetmeliğin yürürlüğe konulması ve mevcut birimlerin ruhsatlandırılması",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a8b448c7b1ad94f358464346e703038b010195b9fbe34de8d882e3dde8852b50"}
+  {:article/id "law/5624/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "79c780c517f51a0c7a2af6fac9932ac20b25023efbdf3caa753cbc678e4109c6"}
+  {:article/id "law/5624/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "31bb3b9251cc9467836c99e6341390a591afbbb76a7554d712fed4be3ad2eaae"}]}

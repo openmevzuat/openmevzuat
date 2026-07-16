@@ -1,0 +1,211 @@
+{:document/id "law/5651",
+ :document/type :law,
+ :document/number "5651",
+ :document/title
+ "İNTERNET ORTAMINDA YAPILAN YAYINLARIN DÜZENLENMESİ VE BU YAYINLAR YOLUYLA İŞLENEN SUÇLARLA MÜCADELE EDİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "5651-internet-ortaminda-yapilan-yayinlarin-duzenlenmesi-ve-bu-yayinlar-yoluyla-islenen-suclarla-mucadele-edilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5651-internet-ortaminda-yapilan-yayinlarin-duzenlenmesi-ve-bu-yayinlar-yoluyla-islenen-suclarla-mucadele-edilmesi-hakkinda-kanun",
+ :document/sha256
+ "71801077c65fc69415dda790f4e0d8b0b86bb230c0ab249289fc827bae41e28f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5651.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:39.428-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5651/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fff30ae13266c2f0a718fb52626e6b3ea84667bdbc4a1f698350e48e0f8d4d75"}
+  {:article/id "law/5651/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9a1aff38db5291a80ee21b926504d7f9a42f20adeba0a5fb92e8aeb24c261039"}
+  {:article/id "law/5651/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Bilgilendirme yükümlülüğü",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2f5ba0ff822d52a50e9f6916dd20be274ca397a9c84fdd8f28f34752a3c2d2e5"}
+  {:article/id "law/5651/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İçerik sağlayıcının sorumluluğu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0d37edaa1721dba6dd79ad4841905360b958b111f9f8b43907ea94d5b666e8e4"}
+  {:article/id "law/5651/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yer sağlayıcının yükümlülükleri4",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "36ca072db3fc68460725411f3098b2f43c086474c7ba3572efaffe38f4900397"}
+  {:article/id "law/5651/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0178b47b1c723d20c2bc3f062b781df15d01d372aa943b6ff08621e6720ca3b9"}
+  {:article/id "law/5651/article/6/A",
+   :article/type :normal,
+   :article/no "6/A",
+   :article/title "Erişim Sağlayıcıları Birliği",
+   :article/path "articles/madde-006-a.md",
+   :article/sha256
+   "f1c2a4d0d615dd7be267e4d2342460dd3dbbc85167cbbdd4190eb96be7781b29"}
+  {:article/id "law/5651/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Toplu kullanım sağlayıcıların yükümlülükleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "eb5d3447aba2d29eec58fc9c6b63494d7db021d7a94f5798c91489493a33d85f"}
+  {:article/id "law/5651/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "43a6c0ad91741d406428e92342ddd59928cf6cd6c60e8a8ad6cbd4f8a9180ed2"}
+  {:article/id "law/5651/article/8/A",
+   :article/type :normal,
+   :article/no "8/A",
+   :article/title "engellenmesi303132",
+   :article/path "articles/madde-008-a.md",
+   :article/sha256
+   "a1cb3141b8fb1c022701e52e34e44544e9f6edd6232a14de992de51cf6642673"}
+  {:article/id "law/5651/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title
+   "İçeriğin yayından çıkarılması ve erişimin engellenmesi33",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "41fcc99ec4a71d18bf97d090fb0770d693b829bde51e848e0bc0f385fe96f78d"}
+  {:article/id "law/5651/article/9/A",
+   :article/type :normal,
+   :article/no "9/A",
+   :article/title
+   "Özel hayatın gizliliği nedeniyle içeriğe erişimin engellenmesi3435",
+   :article/path "articles/madde-009-a.md",
+   :article/sha256
+   "fa80b473f00cf88abf3ff67f9adcaa6e60232558eb1c4e94470534b1e37efe61"}
+  {:article/id "law/5651/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İdarî yapı ve görevler3637",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b6d454a8081a2d6a8f50c1a873f2d646a0ab43a2379a965ee06b91ee1d074ffc"}
+  {:article/id "law/5651/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "b52d9de92eb7f8c26d45a269ec7cab72d7319081a2a489efa057b01568a7ac63"}
+  {:article/id "law/5651/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İlgili kanunlarda yapılan değişiklikler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "5797342e19051e231abbe71c273147185254c1fcb15523cc54527d1e91c9c6dc"}
+  {:article/id "law/5651/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "fdeb95f5846ed71ac81801e8f5de9588047b86b5db96e826ed7e641353cafeda"}
+  {:article/id "law/5651/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "8f76a26b2e44db1e979ef4d98dd2f3c9b40cb6f1590620dba05dce43f6882025"}
+  {:article/id "law/5651/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "75663209924fd073b31b8f97dbea21881e3da8310c2dd48dae5767d866187106"}
+  {:article/id "law/5651/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "b29868293c438fe6771071ef132166c50a72e7a437c2b4049c1b016ba7c6b471"}
+  {:article/id "law/5651/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ca780d485c146ae03d9c2ece02219f5468986e6238cdb1b3384dac460348afce"}
+  {:article/id "law/5651/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c05e7f05523b2ceb81a734cf46dadb322902cb5f50ec7b2f6c84165b16056381"}
+  {:article/id "law/5651/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "4ae200eb9d6c3495d642c43a873bfc28f6968e19ab87c21e888561bad25fc48d"}
+  {:article/id "law/5651/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "9ecb3274b46867ee3700a721576504d73a89dadcc95fa3f866ddbef5cf23cea4"}
+  {:article/id "law/5651/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "d2dd1d5a8bf4653905e6a3d1942aa3aefc5cbf8f6553807d86090a1db9cc5714"}
+  {:article/id "law/5651/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "c9a0f01fb3bbd3635b89f5f24ba11ec5071e2a29ad38178557a5ad29e97d805f"}
+  {:article/id "law/5651/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "124486a06b45f90155a5925213dda1742158805c36a24ffd44204be630caa944"}
+  {:article/id "law/5651/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürütme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "dbbef5d0f5edbf1736891e241f4e0f4f13efad27e9aad1a29897ec9c67315f0d"}]}

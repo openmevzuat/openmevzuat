@@ -1,0 +1,665 @@
+{:document/id "law/5490",
+ :document/type :law,
+ :document/number "5490",
+ :document/title "NÜFUS HİZMETLERİ KANUNU",
+ :document/slug "5490-nufus-hizmetleri-kanunu",
+ :document/path "data/canonical/laws/5490-nufus-hizmetleri-kanunu",
+ :document/sha256
+ "f6b6152dca4fe2028e4b78a159e6b00d15ebb5b376200148e5d41e57232c8ae5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5490.pdf",
+ :source/fetched-at #inst "2026-07-16T02:40:11.860-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5490/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "99a3052cf0d8cf568b08c4a0b83ceaf454134a4dfc3940361d09d671ee8874a8"}
+  {:article/id "law/5490/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4064ca682c3c76f05d9c86ef38e52534b81dded1d30e9ce80a5e17fb5a8eb096"}
+  {:article/id "law/5490/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "599ea19b0a47386575028eb271771ecc335df1bd4e50a96d54b7a6e33286fac6"}
+  {:article/id "law/5490/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6943c9fda28b5b531fa42cdb31a174fdfd0cd78d2420c92f38c288ac49b2176e"}
+  {:article/id "law/5490/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hukukî mahiyeti",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "adeb8aeae1114d40c0eb61b517cdf3a4d21cb7b194fde5e1f76bd1f7a9957a2b"}
+  {:article/id "law/5490/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Nüfus kütüklerinin tutulması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "80ccd4590766e9b87c774377530b4863ce4e9272a6a0aa9ac5b50c4a37b30acb"}
+  {:article/id "law/5490/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Aile kütüklerinde bulunması gereken kişisel bilgiler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a611d339d877453ac26d40c532e339642b394fbc97957bdebbbdfa5c1b3972c1"}
+  {:article/id "law/5490/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yabancıların kayıtlarının tutulması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "40df2202a8e0a9ce9fa1a8f83a56d2ab1ab356e96e00528c5c43229db7092f48"}
+  {:article/id "law/5490/article/8/A",
+   :article/type :normal,
+   :article/no "8/A",
+   :article/title "Mavi Kartlıların kayıtları",
+   :article/path "articles/madde-008-a.md",
+   :article/sha256
+   "7d1b92e709a6b2e681d71bcb82985421c8032d8721b8916e62d5522db0937d36"}
+  {:article/id "law/5490/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "15f5d326e395e2b340cffaf3b591ca0ad2a69977567f12a440e7eb1bb199191d"}
+  {:article/id "law/5490/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Resmî işlemlerde esas alınması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5f63cb9675e8d4c705cb62cd55b4b8993088afb1d4e853dbc6517ebd25d8d66b"}
+  {:article/id "law/5490/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "7ccddc4f4e74405b477cc1d7e8ef307901ae442034680ee58aa38412bf3386ab"}
+  {:article/id "law/5490/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Tescilde dayanak belgesi zorunluluğu",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "719b3fc48cb4931604ad9d7b80aa23c3af13895c236fbf34e79c273eff813e3d"}
+  {:article/id "law/5490/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Tescil",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "11e364f38a1cc08899f59a20b4bdb25f287bf1b5c6e57e580b1e5f478091aed4"}
+  {:article/id "law/5490/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Kaydın kapatılması ve yeniden açılması",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "60c7059cbd2f53184e861b42b0795e9fe50b91b6ce6a85a7b8076b2907333fb8"}
+  {:article/id "law/5490/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "619de8b68872909f9f433da7f49ff77bcad48a252514af11b3662b4881abe73c"}
+  {:article/id "law/5490/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Süresi içinde bildirilmeyen doğumlar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "620cd06851be12316ad4e1cd3f094cbc32e685cde653d555cbf55ff953bc3117"}
+  {:article/id "law/5490/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Nüfus müdürlüklerinin yetkisi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "46c59d0650484f38a299d411708607ce6dd564fab9832681e6185f4fc1fa6190"}
+  {:article/id "law/5490/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Bildirimle yükümlü diğer görevliler4",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "835d6b771e41b85d79dbcc674a740ac409719c859374b75256e614d6a8a231ac"}
+  {:article/id "law/5490/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Bulunmuş çocuklar ve zihinsel engelli kişiler5",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "328b98b550b208f68a7add83410554af0b0f9b79bea3de4bfc10954b628d8956"}
+  {:article/id "law/5490/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Türk vatandaşlığını kazananlar",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "11d02f538a39e6fe1fa264fa458806ee9db1a2ececc39b3750548bb35964962a"}
+  {:article/id "law/5490/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yabancıların nüfus olayları",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "e2390b5c5fc5013b91fb75cd73301a7b53f7606d3e1e1ea4fc0fbd7862f6f2a2"}
+  {:article/id "law/5490/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "2bcda876932883358b0d8ab9da218cac8fbd15f8dcb4218674cbcd4b6f020030"}
+  {:article/id "law/5490/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "44387d2b49bb9dd9c268ad01ae57824bee7cc7338c0e97c506e128153ca799bd"}
+  {:article/id "law/5490/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yurt dışında yapılan evlendirmeler",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "f928e01ca5707b0283c674f489a07af422e17d3886b806d235a126549447c0ed"}
+  {:article/id "law/5490/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title
+   "Evlenmekle Türk vatandaşlığını kazananların tescili",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "4e698f15852d7ee8c132a58b0ea1dc4c4eee50ddff574458b046e41742783ae4"}
+  {:article/id "law/5490/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "2a392da003c00e35bec5884a26ae8585c0a8fac73240a59514b96809acc5daaf"}
+  {:article/id "law/5490/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title
+   "Boşanma veya evliliğin iptali kararlarında bulunması gerekli hususlar",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "3d32506a03f800fccee996a5953a5de6d96943d915c3c591aba91586aec38978"}
+  {:article/id "law/5490/article/27/A",
+   :article/type :normal,
+   :article/no "27/A",
+   :article/title nil,
+   :article/path "articles/madde-027-a.md",
+   :article/sha256
+   "05e92c608a7388c6a2602b6d70cde06d05eb26ec33d42330f46ad2378d019999"}
+  {:article/id "law/5490/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "1b549dec6e426f322889249b73fdc248873a47ea4adeebd3f25739b26d87f333"}
+  {:article/id "law/5490/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Evlât edinme işlemi",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "b2f95c1b93debce4d5997fb93637ebbab45c06f0ca667b681b772f179d56e34d"}
+  {:article/id "law/5490/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Yurt dışında yapılan evlât edinme işlemleri",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "c84c5e902646fcc919dd59fe79913997aeaf1244261f160bfc52e59ec7bde135"}
+  {:article/id "law/5490/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "1bf73b1b6eff6de53337bf033616ef508aac9c802c688c1c8b95ecf0e8e35c2c"}
+  {:article/id "law/5490/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Ölüm karinesi",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "c490fb681c7ccbd8c3028d6cbabed93550b5da413b71a06ff11dd99ee112415b"}
+  {:article/id "law/5490/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Ölü olduğu halde aile kütüklerinde sağ görünenler",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "9e628d89e64fdb86bc4167a17b18bca485720b93c968caa8ec3f3d1c9d2c659a"}
+  {:article/id "law/5490/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Gaiplik işlemi",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "c82724d7bee5a9fffe34b4680a6de7e04a32f1e80baa4c6b333a6a9e5c6512db"}
+  {:article/id "law/5490/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "41014ebc276b5a8214a47f350af45f60179929b6397c14d87a0c65f1651c4be5"}
+  {:article/id "law/5490/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Nüfus davaları",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "8d5a703e3859d625de41b4df4982b2518f0e5428fb4993a29055e98a1f3e3173"}
+  {:article/id "law/5490/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Nüfus müdürlüklerinin yetkisi",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "1bd4f2fd727c4d988ca531d66f9f8577c0f9b520b13c0da6d8186918e582dffd"}
+  {:article/id "law/5490/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "163eeb0f681e86d39491e11753302bc223b3d2745a7785c0411f598ea9f8f89f"}
+  {:article/id "law/5490/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Tarihlerde düzeltme ve tamamlama yetkisi",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "69649bb9519e742f77db3f37de986ad2df579e18a9e77da2140dda87093855e1"}
+  {:article/id "law/5490/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Nüfus kaydının iptali",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "176e547452d630a4e4b1a329767eedff7ccd528c449afba6c2ac5087912f9e04"}
+  {:article/id "law/5490/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "02e290a9b8c36f891989d7726173c0a5a7e57b5966daf521b47869b4ac815704"}
+  {:article/id "law/5490/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Talep belgesi13",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "bc780fa6668c3f8f1bad27f0d8aaad74816f626dff58f3cca89b6f61ef2973c5"}
+  {:article/id "law/5490/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "6dd63e2c0361104251673f7e4f44b95f4821b71f60089141647edf263f0b5b8f"}
+  {:article/id "law/5490/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Nüfus kayıt örneğini almaya yetkili olanlar",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "d725791b94efbd51e428ce2254c82af85e77c395d47426dd28aadc2a5b8570ae"}
+  {:article/id "law/5490/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Kimlik Paylaşımı Sisteminin kullanılması1516",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "399b9a509f1a249b555534c3c8596b7951409ef3f4521c1c96432aa956fc1bc0"}
+  {:article/id "law/5490/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "f9b47749eccdf91dfd277932ba13692a564f56446143f004e31d29ef535536ba"}
+  {:article/id "law/5490/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Kullanımı",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "3ae3314dea1c6a93bff09d01914d51961d26ef6151e72f9ac5c0184a20411ad3"}
+  {:article/id "law/5490/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "287fbca138837e9f9d6b4f6a589e0d56237e142ee287f14ee41e311e192fb53c"}
+  {:article/id "law/5490/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Adres bilgisi ve güncellenmesi",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "a43a1f593585cc06a8110892d6c20910c71483f4e5fc0c21af57ab614ca5fa77"}
+  {:article/id "law/5490/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Bildirim yükümlülüğü ve süresi19",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "cf73f9800a4de1b203b474062b8ef8ac26951681774cf5d32328e6da9033f9f6"}
+  {:article/id "law/5490/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title
+   "Adrese dayalı hizmet sunan kuruluşların yükümlülüğü20",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "210e171803833af9791c050c91e8344fc15f664a17ad598499a36d0551c5779a"}
+  {:article/id "law/5490/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Adres bilgilerinin kullanımı21",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "ca47d5a6488ea42820e070cdda2fc5ec3fc7aa22c936ac9feada171478cc8256"}
+  {:article/id "law/5490/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Koordinasyon ve işbirliği",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "4b93c6d7f18b0c9b73dd9bc46f3aae229dc9804ae8997ccd9290724893a8b7b3"}
+  {:article/id "law/5490/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title nil,
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "59adbe9872c2185a1db7e3920d0cb73bfe9338f0c470a0a044e426cba0753527"}
+  {:article/id "law/5490/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Mahkeme yazı işleri müdürlerinin görevleri22",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "3768ca171e340c65fe01a0b09dec014c02767f69caeb4fbb9a00c1a9768707a4"}
+  {:article/id "law/5490/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Sağlık kuruluşlarının görevleri",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "708728449cb9ee0fa3eccbb59108a6532b7123e82396f79b41dea8ae03138b88"}
+  {:article/id "law/5490/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Vekiller",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "98892b3d451564834ce36ac4e2f10e7ca582e74b1901d598acf4632e9a675f7e"}
+  {:article/id "law/5490/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Yazım dışı kalanlar",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "fecae979135318196b65f8df86a50590a05d8413bc68b8019563b34834bd7076"}
+  {:article/id "law/5490/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Tutanakların imzalanması",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "27b9c8ea31dd9172e3eb4f0a76b4f25a65d106750235ef345926e1785401718c"}
+  {:article/id "law/5490/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title nil,
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "2b44f1d3c11f93884e4306dcbe84b64dae2b9195fdb7847f1e65fce07a94e634"}
+  {:article/id "law/5490/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title nil,
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "ddda4ec5b55aa7a5f74cd763ada497ee89d47e47519ad728f38256eac10ab6b2"}
+  {:article/id "law/5490/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Atik veya eski aile kütükleri25",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "f42c13de70142438afb4e076c4904f264009d105a1fa84a1c5c01e8262c12e9c"}
+  {:article/id "law/5490/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Askerlik çağına girenlerin listesi",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "50bedaae387817863a39cea831848b3cc94c98d6099f543df7ea6d1ed5d93a42"}
+  {:article/id "law/5490/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Formların düzenlenmesi",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "57fc090a5e248b51b8315a56edb4d772cec596665209cbfb021d3fd5cffd944a"}
+  {:article/id "law/5490/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "198609d449882cdf76c9aa107a915e9aecb6863e0aa967a165f61fc1a2d8a6d0"}
+  {:article/id "law/5490/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Fazla çalışma ücreti",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "e644221476a1154081cda201adb4d588115f34626d17fa63430097eaedb0973a"}
+  {:article/id "law/5490/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title nil,
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "ad71862bbbd056d15d04048f55865df7f6519fe32512e70d50e4fc71d37940eb"}
+  {:article/id "law/5490/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "İdarî para cezaları",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "6c1f757ad260f51c8fae3b08e519dd8dfeadf588860bdb2dc1e7f391fa7e43ea"}
+  {:article/id "law/5490/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title nil,
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "bfccfbe72be075b07d1d7df69f5b3757a9498d3bb14464f3f11b6298b7268b28"}
+  {:article/id "law/5490/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "053a84c532bf19331937a6b187f002571ec128a993b414b59335ab567f0f0d1e"}
+  {:article/id "law/5490/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Kaldırılan hükümler",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "d9c54137f3cf74b8160e0b1d32b62c20b5078682f9294577464cfc1842ab4f7a"}
+  {:article/id "law/5490/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Diğer kanunların değiştirilen hükümleri",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "b83dfe5cbbb4914132a1a2c5b44071b858aa2bfda71756b3b7e468ad4e6fac46"}
+  {:article/id "law/5490/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title "Diğer kanunlara eklenen hükümler",
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "51d5f9a239b3a6e9a4577b04b5689d583091add11d503ce350bcb318dd358ba4"}
+  {:article/id "law/5490/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Atıflar",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "913385e0b985221b78bb2d3d9e8a7a28808edc7e1f60e5fee3fafd6ca4095b88"}
+  {:article/id "law/5490/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Tescil yetkisi ve görevlendirme",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "6aa4df3bf8d629bc236df1552ecbd0e10c358b4a92eabf18bacaa106e2f6e7bb"}
+  {:article/id "law/5490/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Soyadı değişikliği",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "5395ea7eddec7965f691c50f180e0784e10d919ce5aafc019eca77ca4eb7c4a1"}
+  {:article/id "law/5490/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "Ölüm olayının tespiti",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "b01f5d609cdcc77f9b400876c3292782149796fcdd0855262f9d002351345ffe"}
+  {:article/id "law/5490/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b409219c1781780723896ce4b960d24c4e8229f3f33ab1e10ad410fe0ea73aed"}
+  {:article/id "law/5490/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "213ee7df065f8e016a3a5a7489b3f3e44b95fd918bb32aa849cf4d9c17c79f93"}
+  {:article/id "law/5490/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "49670c48a436ca13e0401837b98c6546db35062cfa4de57632ffb5d0497d7700"}
+  {:article/id "law/5490/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "249b984bf2a7226c671e0bcfd6632932438cda46eb746db3948583e0904d72ec"}
+  {:article/id "law/5490/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "c225cca5be4cf5b1679ce4ae92fcf22b49c445f9987ff67e958ec0cdf5be8578"}
+  {:article/id "law/5490/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "7c19d85fb538811cc4e92661353388a40d0fd87585750865363c876fcd834591"}
+  {:article/id "law/5490/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "Katılma payı",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "abddb5ac93899be57350b2143b9ce5b23f05ca49a9b7cb330be62831ef6c9618"}
+  {:article/id "law/5490/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title "Ad ve soyadı düzeltilmesi",
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "9f27b0dd23d1799ddf5dbe773d1b716338adb8cf593877d3804f0b36f141432a"}
+  {:article/id "law/5490/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title "Göçmenlerin doğum yeri ve tarihinin düzeltilmesi",
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "3097b05bedcfdf461655c9fb6b3623ef5132f3b97b951e840f153141f2061197"}
+  {:article/id "law/5490/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title "Evlat edinilen çocuğun ana ve baba adı",
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "d06f708282a183854d94ceef4112be495df198d596f4d5d51a3a8f66ac369dbd"}
+  {:article/id "law/5490/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "b4259af286f1a6e4c1fbb26d37124751e696d760b42a6f828e21dffe43f4fa87"}
+  {:article/id "law/5490/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "9207e9d99e503f99f514aabee570c84fd4272cd8e69d6bb81cd044b4ab5e84ff"}
+  {:article/id "law/5490/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "Yürütme",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "d2cff1f53d7ba1c8bd74832cc1bbf0fd7081ff8479a83e90409f716f42a82c70"}]}

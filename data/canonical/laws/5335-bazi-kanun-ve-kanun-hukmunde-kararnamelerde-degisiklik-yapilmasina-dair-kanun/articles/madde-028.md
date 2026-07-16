@@ -1,0 +1,23 @@
+# MADDE 28
+
+a) (16.12.1960 tarihli ve 167 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+b) (14.7.1965 tarihli ve 657 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+c) (11.10.1983 tarihli ve 2914 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+d) (13.10.1983 tarihli ve 2919 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+e) (10.10.1984 tarihli ve 3056 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+f) (2.7.1992 tarihli ve 3835 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+g) (8.6.1994 tarihli ve 3996 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+h) (15.11.2000 tarihli ve 4603 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+i) (29.6.2001 tarihli ve 4706 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+j) (6.6.2002 tarihli ve 4760 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+k) (6.6.2003 tarihli ve 4876 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+l) (10.12.2003 tarihli ve 5018 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+m) (10.7.2004 tarihli ve 5216 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+n) (7.12.2004 tarihli ve 5272 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+o) (8.12.2004 tarihli ve 5273 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+p) (28.12.2004 tarihli ve 5277 sayılı Kanunun ile ilgili olup yerine işlenmiştir.)
+r) (13.12.1983 tarihli ve 178 sayılı Kanun Hükmünde Kararname ile ilgili olup
+yerine işlenmiştir.)
+s) (13.7.1956 tarihli ve 6802 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+t) (25.8.1999 tarihli ve 4447 sayılı Kanun ile ilgili olup yerine işlenmiştir.)
+u) (2.3.2005 tarihli ve 5307 sayılı Kanun ile ilgili olup yerine işlenmiştir.)

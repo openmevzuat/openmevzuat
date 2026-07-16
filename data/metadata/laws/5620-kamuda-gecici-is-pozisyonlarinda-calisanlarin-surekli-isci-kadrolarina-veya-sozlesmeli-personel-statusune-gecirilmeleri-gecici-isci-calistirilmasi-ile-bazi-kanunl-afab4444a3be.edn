@@ -1,0 +1,113 @@
+{:document/id "law/5620",
+ :document/type :law,
+ :document/number "5620",
+ :document/title
+ "KAMUDA GEÇİCİ İŞ POZİSYONLARINDA ÇALIŞANLARIN SÜREKLİ İŞÇİ KADROLARINA VEYA SÖZLEŞMELİ PERSONEL STATÜSÜNE GEÇİRİLMELERİ, GEÇİCİ İŞÇİ ÇALIŞTIRILMASI İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "5620-kamuda-gecici-is-pozisyonlarinda-calisanlarin-surekli-isci-kadrolarina-veya-sozlesmeli-personel-statusune-gecirilmeleri-gecici-isci-calistirilmasi-ile-bazi-kanunl-afab4444a3be",
+ :document/path
+ "data/canonical/laws/5620-kamuda-gecici-is-pozisyonlarinda-calisanlarin-surekli-isci-kadrolarina-veya-sozlesmeli-personel-statusune-gecirilmeleri-gecici-isci-calistirilmasi-ile-bazi-kanunl-afab4444a3be",
+ :document/sha256
+ "fb1c595791948501d16575787bca478dd914f417acd3f5ef76c1a81d5e240b18",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5620.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:23.432-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5620/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d80be18d9dcf0ce4c9179ccf0a8e7559b703a6543139ab29ab059fc65032dc77"}
+  {:article/id "law/5620/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Geçici işçilerin sürekli işçi kadrolarına veya sözleşmeli personel statüsüne geçirilmesi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b3da75d0b268fe0afd0f12709fae42d85cd685ff20b64b8826f4dd8faa81e2b4"}
+  {:article/id "law/5620/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Geçici iş pozisyonlarında işçi çalıştırılması",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4917f43f7039aa666ecf5eac065956d4df8eb4d0e2f87136ed9ed457fee36633"}
+  {:article/id "law/5620/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Çeşitli hükümler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "11c9a6785fcbdcf19f571f44f2c89f5ad45991de70e8652eaca2aad8a498d1b3"}
+  {:article/id "law/5620/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "e6b3fb7379a4e050f644c00cafdf3c8e86b5f8b5dcd69e93068bbf34416378a0"}
+  {:article/id "law/5620/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "6648e1ed1b41c58cbab9efa43e78cc38e082bde579a3b991dc9ce1164131917a"}
+  {:article/id "law/5620/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "6f2b10ae934e92f6577e7fc8264166bdffb5365e7562a54cf55fd74472e4c762"}
+  {:article/id "law/5620/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title
+   "Sürekli işçi kadrosuna veya sözleşmeli personel statüsüne geçişi yapılamayan personel",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "160a4849951484395d21eb34a6d49f5a7b8fc657ba368844a3c7a6040310f2f6"}
+  {:article/id "law/5620/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "İş sözleşmesi feshedilenler",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "b81ade9a29b57fb13d3cd3735ce2b7969c07db59e51bba711673a6c14f6f19b2"}
+  {:article/id "law/5620/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "be585ca22e96735d23e79e8e258d7d53427b789812a265c7efba3fdc9c8a16cd"}
+  {:article/id "law/5620/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "1cf630d3798fe2b6cbf8eeb36f284e761c717cc1b38037b629f3dd831f7de070"}
+  {:article/id "law/5620/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/5620/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f679ba54a2d7d493b83ea4d4f7619eb5b267e1713e6206201f249d4291516470"}]}

@@ -1,0 +1,280 @@
+{:document/id "law/5449",
+ :document/type :law,
+ :document/number "5449",
+ :document/title "KALKINMA AJANSLARININ HİZMETLERİNE İLİŞKİN KANUN",
+ :document/slug
+ "5449-kalkinma-ajanslarinin-hizmetlerine-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/5449-kalkinma-ajanslarinin-hizmetlerine-iliskin-kanun",
+ :document/sha256
+ "b46fd30b05fe400316a48e2c82284782acf569be8c8d91ea92eefb3f60f5b319",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5449.pdf",
+ :source/fetched-at #inst "2026-07-16T02:39:53.798-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5449/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f95e6d8740d8ed66d5ada9a5d3d09f4f761a2cd252139c16a40d56ba7c999e8b"}
+  {:article/id "law/5449/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d683fbb8e5673cf4ce9192dbf4f3a2a2923e67e0730b5345b155b3c9e7011ef6"}
+  {:article/id "law/5449/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "08abd7af8b7b077c9818a5b6be1c4daf5de6ccc727761a4ce6e9bcf9d4797fb3"}
+  {:article/id "law/5449/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Genel koordinasyon",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ba1e3a51f8efa162a9a8834a08136041f1c5fa1d94b88a8484301c5e73e5a754"}
+  {:article/id "law/5449/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bad6d05ecb6a3d974f71cd02f3510b043bed9d55dcc38a7eb719beb2fe32a423"}
+  {:article/id "law/5449/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Bilgi toplama",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "67f9b1f563ec493b8d96456c5430e11a2542184ec4084516d36b1a40dee95b7b"}
+  {:article/id "law/5449/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "09c7a38e6c9c7b7abc3e43fadd6d447fb134723927d2a928bb23e1d9de6f88c9"}
+  {:article/id "law/5449/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kalkınma kurulu",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "bb282ebb8c7b5f248b2de5a91d57d51d70847e7a5e1a3549428947572ed481ad"}
+  {:article/id "law/5449/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6a5ecf9a20c2783454c533eda97ea66756738f53193d91fee6a4b7e9305a9616"}
+  {:article/id "law/5449/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yönetim kurulu",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8fb0dfcdcc204259247b8770a31528d110d02f6db119b8bd0c970136d285a7a0"}
+  {:article/id "law/5449/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yönetim kurulunun görev ve yetkileri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5e49e647e38da10af06f6c1583a3c547ea055716ea9ca26d02140f69e20ef1df"}
+  {:article/id "law/5449/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Genel sekreterlik",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "20db50c4048ed8b1f0bf99237ac026fb8502cfa4a823b25f6f110dbd96d37eb1"}
+  {:article/id "law/5449/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Genel sekreterin nitelikleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9b324c6b55c58558032278a97fd439a64bf91992da075644d9f311b76373c391"}
+  {:article/id "law/5449/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Genel sekreterin görev ve yetkileri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "25c80882a8ba54dbe4fec4a07cebe6bad275a9fc0d0a37ff85bf2687acd47d98"}
+  {:article/id "law/5449/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yatırım destek ofisleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c7aeb713cd92942fbd7cc833a555e1a92cbe2f8e9c201bedc9c650961f83c04e"}
+  {:article/id "law/5449/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yatırım destek ofislerinin görev ve yetkileri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b6adc02aeb5da9a1a292e72201be05b55e27df065066a66f49031163dcc233b6"}
+  {:article/id "law/5449/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yatırım destek ofislerine başvuru",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c008df25f61dad3572911db9902a990ddf05a01732bf85105d8eda144ba80e21"}
+  {:article/id "law/5449/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "e9be9e168a6539d18134213fe5d02042629b15a1d6eee188360cab9c7fd42b97"}
+  {:article/id "law/5449/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Ajansın gelirleri ve yöneteceği fonlar şunlardır:",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "cd4018a7c940b0c05fa8b67d1b611e862c944a840803d5f6ae995e5d3b99dd50"}
+  {:article/id "law/5449/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Giderler",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "663bb4bc7c8e29773fa0564e1f1edd78e7bd9a8d2a1469559c202c12be0d0adf"}
+  {:article/id "law/5449/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Malî saydamlık ve hesap verme sorumluluğu",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ab5eb170e34d45a15b6c8e82c4b00df0fb71df24ddff91e0109c8e5aa33df333"}
+  {:article/id "law/5449/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Bütçe",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d6b45122c27b7ff51b97f0c8af0d1e3a87dfd00aa2f976e64ba69dad3d2cf492"}
+  {:article/id "law/5449/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Bütçenin hazırlanması ve kabulü",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "fbf5d21a685e89c82c146a9d358f0fb7172ab17d051974c88cde2af73f33ed1a"}
+  {:article/id "law/5449/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Bütçe sonuçları",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "688920cb17d875def7eb164e4a5d310bc11c78fd023d25a886166bd8be51be13"}
+  {:article/id "law/5449/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Denetim",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "01405f3b2fd250e884ed9e319c42b2e17a236ed0541d834977b1b3dc64cfcce3"}
+  {:article/id "law/5449/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "aa1eecdc0cf8c27e75e92d98badc5ff50bad6323b51b3d4e1b3cafd24e41c218"}
+  {:article/id "law/5449/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title
+   "Ajans, 10/12/2003 tarihli ve 5018 sayılı Kamu Malî Yönetimi ve",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "1f9f856df66f6ab455a6663c227f570bf15c3303c3cd417e9e92dc76bdb3ca3c"}
+  {:article/id "law/5449/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "42ffd3da2d7a130eebcfcdd861646ac3515bb34aa00625011931e6c8b2fa441f"}
+  {:article/id "law/5449/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "3cf7b28f2cbafb46550c7d769ffa598c4defaa4d2d75ab36ae30517cbe42fdfb"}
+  {:article/id "law/5449/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ee40680b6c238e6b478d37fc274b88539d51c1568faa389a3348caedf4e5bd1e"}
+  {:article/id "law/5449/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "068824ed8990ec62b41ae6f7b0aa9cd248622a4c41933579d59e3fcda74fdff1"}
+  {:article/id "law/5449/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title
+   "Türkiye-Avrupa Birliği Malî İşbirliği kapsamında yürütülen",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "99c5bbf51e9d7df75be57ee681936f237940c207f8e5c2c492de93b1d7bd803a"}
+  {:article/id "law/5449/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "47932bad978f859e70a496e2c0bacc38dbc9b99df4aafab07326869c58d88b9e"}
+  {:article/id "law/5449/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e76a350488aa7670811903c60cc07c7ad5f783cc4fbcdcf6518bcff6b03411a7"}
+  {:article/id "law/5449/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "368d20da81c0c159ad3091d2c8d2a365bce75114001a0e70f5f7a351861b06d7"}
+  {:article/id "law/5449/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "1f604ce6e854aeae66d3db92897214a4bdf4c1f88873ef31774a8456d36dd8f7"}
+  {:article/id "law/5449/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "826e56063ff66ee1625d2c07dfdef05bba24de5ffc31f0b45e26bd852dbccdae"}]}

@@ -1,0 +1,1009 @@
+{:document/id "law/5275",
+ :document/type :law,
+ :document/number "5275",
+ :document/title
+ "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
+ :document/slug
+ "5275-ceza-ve-guvenlik-tedbirlerinin-infazi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5275-ceza-ve-guvenlik-tedbirlerinin-infazi-hakkinda-kanun",
+ :document/sha256
+ "4bbb2998a47d862781f0e03986a53e556c3ef8781ad0bff3c09de916fa9164a4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5275.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:46.117-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5275/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "74d523b2a25fecddc533d59af00b4a7c4e88ca4619a2043f627ce9a471bd536c"}
+  {:article/id "law/5275/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f1857f6418ab4f8284457ff7adc689c5eb7fb4f24ef8dade9876d739094bb492"}
+  {:article/id "law/5275/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İnfazda temel amaç",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "479277b9f7fd108da6b97649d63614143beed54163acbddb28de017a847315d3"}
+  {:article/id "law/5275/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İnfazın koşulu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "79bb55235d65149aa2c5db733e2e37ed6b2e299220f4c1c441a97058e2f00aea"}
+  {:article/id "law/5275/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İnfazın dayanakları ve kimin tarafından izleneceği",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "96c97be25661f21915599b7c209e733ab16f7f70cc9adf34f22b9e80e024786a"}
+  {:article/id "law/5275/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e6b4d950986e88f5d980f846f0434aad13254fa7467ff7c7f507abdc6bab85e7"}
+  {:article/id "law/5275/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İyileştirmede başarı ölçütü",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7fcf5678cfbfa8d17fa1944af6c58741c8de2db3367f97d5e7536c9fe1d57ac9"}
+  {:article/id "law/5275/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6080e0bd0d197fb4a77477d9320aaa1012c6c88d6b419e1b74d64e42e08f453b"}
+  {:article/id "law/5275/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yüksek güvenlikli kapalı ceza infaz kurumları",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "9106ffc0ce269637efedc24dc7ec7909ceccdcf17b7da3bdca397aeba0cb6b0c"}
+  {:article/id "law/5275/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Kadın kapalı ceza infaz kurumları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "1e75f6c2b9b67289f7cd0d83803eb09bac975a4c0d858ae07fcef1eb5e6ffa3e"}
+  {:article/id "law/5275/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Çocuk kapalı ceza infaz kurumları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "ac02f3909fe4d20b6336e0ceb85ac2bedb2b85df26746ed6e8cb3a1826135a54"}
+  {:article/id "law/5275/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Gençlik kapalı ceza infaz kurumları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "28363cf89eaf9d4668948d0a085f77d3eb49c170213792485ff2c86d24fb161a"}
+  {:article/id "law/5275/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Gözlem ve sınıflandırma merkezleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "c9112430633d787a04e625d42ea965a957a5a3c45638d5403657a36c6c321bf0"}
+  {:article/id "law/5275/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Açık ceza infaz kurumları",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "524e9e7adad75ec7208a6c91caf693248d3e6b5ca435518455452d1d00a11006"}
+  {:article/id "law/5275/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Çocuk eğitimevleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "dc9bb246bce00a43027e225bcacf79d2e7addb3b69ef98d071da789cd9863299"}
+  {:article/id "law/5275/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "35aef4973ddc08849db613f30544c124f9a5e1a8949656c87161cac94d45ef19"}
+  {:article/id "law/5275/article/16/A",
+   :article/type :normal,
+   :article/no "16/A",
+   :article/title nil,
+   :article/path "articles/madde-016-a.md",
+   :article/sha256
+   "b4349ee3bc1f0ad4192c1b3ac4707cacefd3f9bc8344a20ed9ffb42171065332"}
+  {:article/id "law/5275/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Hükümlünün istemiyle infazın ertelenmesi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "055b797738bf47cc294783dbfdf20c6fef78aa7555b5ed8d0f5aa18f704dffe0"}
+  {:article/id "law/5275/article/17/A",
+   :article/type :normal,
+   :article/no "17/A",
+   :article/title "Mahkemece infazın ertelenmesi veya durdurulması",
+   :article/path "articles/madde-017-a.md",
+   :article/sha256
+   "3800f7a14a4df953d6748d14899197b6326b1d9b7ac139db50becc83fc623fdd"}
+  {:article/id "law/5275/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "Akıl hastalığı dışında ruhsal rahatsızlığı olan hükümlülerin cezalarının infazı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8415853923690a9078bfd00c5c3093f8f9b9a439cca6cfe18a8ac632a7d2d86c"}
+  {:article/id "law/5275/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yakalama emri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ca6e75dfe598d8039fa0ec00865f9e8bb5f2ac8b0bd7a8c4c639e8ea9a0f373a"}
+  {:article/id "law/5275/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "75a565281639492c7aa8c98bd35e7e92dc269a411d0f37d2aec1a7bfd0f3cf70"}
+  {:article/id "law/5275/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Kuruma alınma ve kayıt işlemleri",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "d95ac54b5f69dfec5b1262056685e3fd57b63ec975f987606ee7a43ad1f8ff5d"}
+  {:article/id "law/5275/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title
+   "Hükümlüler ile yakınları ve ilgililerin bilgilendirilmesi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "0adb4a07c9da25eb837456e7b77b4b54691c978f0e51e1a8eb714c88ca2f7231"}
+  {:article/id "law/5275/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "6893d09edac7e355bac9d3c9152dbd35e4ef501bcb41b9e0a3a5d7717c3b9e82"}
+  {:article/id "law/5275/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Hükümlülerin gruplandırılması",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "fc774467c06983620c628f3dc7de83a71ec1a8c6ba22f64c33a16e33d7c7c9e2"}
+  {:article/id "law/5275/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Ağırlaştırılmış müebbet hapis cezasının infazı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "be21f8042cb7d1e9f9cf49fb0e9078464af97f73c96e0953b19f9c8402497752"}
+  {:article/id "law/5275/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "8a293fcdda61248b32458127ca34e7174bfd0a7d293a6ffad7bb46ad9dd45c3c"}
+  {:article/id "law/5275/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Sağlığın korunması kurallarına uyma",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "8fb861aaf9ff8d88ad267d501a3ae255d93362cf86c09ac632a574ac431b5060"}
+  {:article/id "law/5275/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Bina ve eşyanın korunması",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "3c16123ed07154c3baf7644c5f35038d36a3fd147d0fec1da294463c2f5a4854"}
+  {:article/id "law/5275/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Hükümlülerin çalıştırılması",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "ca0e14147361f91b8504d3dbe1b0469c2fc3ff0e0cf5200309ab02e22fd7141c"}
+  {:article/id "law/5275/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Kurum dışında çalıştırma7",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "f098187b3e1ffece2aa8c644c81b7161853bc4e85f52bb09daf352c05d466243"}
+  {:article/id "law/5275/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Kurum hizmetinde çalıştırma",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "f17990a8179662845ab5d759129d59631333819495a2ea83da73a6f057910c8d"}
+  {:article/id "law/5275/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Ücret ve sosyal haklar",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "3b37a314ecaf5f39e02c630ad1e9d32aea1782699e32a94712a3e8e3d5ec0187"}
+  {:article/id "law/5275/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "d2b17866ddb5296daf3ef6f61cf448a88bd3080a639f53359d5ce38db32ea22d"}
+  {:article/id "law/5275/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Kapıların açılmaması ve temasın önlenmesi",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "932cd5a448ee5406ab5850955a588c06ec3d9277de1d58f3339733e6d8a91fee"}
+  {:article/id "law/5275/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title
+   "Oda ve eklentilerinde bulundurulabilecek kişisel eşyalar",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "c31366bf61118c6d051f28ea350c5eac3722bb56392c436b908af9b4613d12e6"}
+  {:article/id "law/5275/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Arama",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "8bd717b313eed5ab90aed3b5fec90a851962251bb9cca0eca7b8004082d33845"}
+  {:article/id "law/5275/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "0b2341249cf4223ab2cc61fd3cf9356c2181e8f2fb0ee0c1d00a94ae2156f520"}
+  {:article/id "law/5275/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Disiplin cezaları ve tedbirleri",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "9e4f8b83de4c4f89432d7fbb134950b02161f881b9ab049478d51397178e7d52"}
+  {:article/id "law/5275/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Kınama",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "97c025afbc3e8e3f162275767914f2bb035ea6926afafe823c76814c720f57b6"}
+  {:article/id "law/5275/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Bazı etkinliklere katılmaktan alıkoyma",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "3063bbcf50d7b9a25933b20442b4506c520e65e902d8702ba2ae5900190a5625"}
+  {:article/id "law/5275/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Ücret karşılığı çalışılan işten yoksun bırakma",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "1ef8837f0dd000e7caf611327dff76e23951ea2e9cd40875aadc3768d2baced0"}
+  {:article/id "law/5275/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title
+   "Haberleşme veya iletişim araçlarından yoksun bırakma veya kısıtlama",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "a9156244f638dc352d313a37da4ed5e444739f76cca518ebb740e8d7d9873d69"}
+  {:article/id "law/5275/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Ziyaretçi kabulünden yoksun bırakma",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "8a8f051b94b618b3b2576f78720ad9ab8a89adbb86faf5db7273752d38b3f703"}
+  {:article/id "law/5275/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Hücreye koyma",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "eae392f335674e831b0b5169c84bac6ed11df8411dc451046bd70217b450c429"}
+  {:article/id "law/5275/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title
+   "Çocuk hükümlüler hakkında uygulanabilecek disiplin tedbirleri",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "926ad15baa9911f9152b138f1a62ebd4612781040962feb32b7dd2d9bb8df811"}
+  {:article/id "law/5275/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title
+   "Çocuk hükümlüler hakkında uygulanabilecek disiplin cezaları",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "12fc4288d4bcbe4f1866b7df2edcdbe754a772357c070766d60bdca62ad4ee6f"}
+  {:article/id "law/5275/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Disiplin soruşturması",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "2a8aa13a2bad8ebe65b787fff6383a63d54b54b43d173ebf60f5b7ebc3988599"}
+  {:article/id "law/5275/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "05d9128f812b590249721f1e3f7d45b905843df8371614abea4cd7066605ce72"}
+  {:article/id "law/5275/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "e56f88b3e8ef2b403cfa056795fe46cb689e9bd9ba50a8fc3f1727dd9ca7c96e"}
+  {:article/id "law/5275/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Zorlayıcı araçların kullanılması",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "7d32469af3fc394627d5ccc8d39ae1497caee9829420b2f5f349b5097ef33cf0"}
+  {:article/id "law/5275/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Ödüllendirme",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "ccf93709864fab3cdefbb9ad80c31ffb662d3b656ea68fb2c3cc64c8fb6343b6"}
+  {:article/id "law/5275/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Şikâyet ve itiraz",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "a811c75fe869259813ed39008b73c3b545767f4a04ef3f8428c02bd27ccab47c"}
+  {:article/id "law/5275/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title nil,
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "d6f92fed4207a0f478e0de688b52468d60f650d734431424d6d65f26768ac0fd"}
+  {:article/id "law/5275/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Kendi istekleri ile nakil",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "41b6ddf72ab548a82ff52814cc2e98367bf039b213e5a255dbb57f44a7b0e392"}
+  {:article/id "law/5275/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Disiplin nedeniyle nakil",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "2adea1b33adda8db0e54c06dc5beac6bccd12c8a5ef1804f188256ded2a99f94"}
+  {:article/id "law/5275/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Zorunlu nedenlerle nakil",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "5d2c7984f55b63dc7fc024996e034c36ac87f6eefbeaf94d2648e84bbaedd1a7"}
+  {:article/id "law/5275/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Hastalık nedeniyle nakil",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "d54e84edd9cd28095b8a87f42d14c971ca1b7db9958e294fddb772f31ec8d80d"}
+  {:article/id "law/5275/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Nakillerde alınacak tedbirler",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "eff9b5cb5b079fc742fc6897704d0ef5279e2e13aa073e5747d74b72fb1ad67e"}
+  {:article/id "law/5275/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title nil,
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "55b5877b1cdb6d6a0f6184a4d16a5deb234f5f7042c7b88a25b79252a424f50b"}
+  {:article/id "law/5275/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title nil,
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "99a91111a1909b972a2e52dfce75dcf51a6cb56bdf86782501d220c55d579f42"}
+  {:article/id "law/5275/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Kütüphaneden yararlanma",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "ea98a59962cd6bad71614108808e65a8a0927d2a641b9a393b5c2f2476ef3d10"}
+  {:article/id "law/5275/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Süreli veya süresiz yayınlardan yararlanma hakkı",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "3039cc4467ea95f9dd3245819285370e155d5b10e609a68484e2579e22fb710d"}
+  {:article/id "law/5275/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title nil,
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "a5d0a7bd2377bf0e2c3b728df611a65b47d77fc6b5f168b96c7cd6fc68222d8a"}
+  {:article/id "law/5275/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Hükümlünün giydirilmesi",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "396312497768c5307e090fe184bf762e8b09501ed4ee6fd95d71dec8e4993cd0"}
+  {:article/id "law/5275/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title
+   "Hükümlünün bakıma muhtaç çocuklarının barındırılması",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "5c6e8c256521ed487bdddc6caf8891f3ee552d2017cc80f7f163985301c80e6a"}
+  {:article/id "law/5275/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Hükümlünün telefon ile haberleşme hakkı",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "e1d06443f9562ff81ec979ea2c6021dc5294604b9ca25591fe983f9e3ed445be"}
+  {:article/id "law/5275/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title
+   "Hükümlünün radyo, televizyon yayınları ile internet olanaklarından yararlanma hakkı",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "1141098a2dd322cc98ca8bff18a5cc1004fcad64ac1b5167db87f400abd4d475"}
+  {:article/id "law/5275/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title
+   "Hükümlünün mektup, faks ve telgrafları alma ve gönderme hakkı",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "e20aa9fd11e9cca7dd7264f9e234ccaa23bac0b2127ec125c3c5bf34d1593b0d"}
+  {:article/id "law/5275/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title
+   "Hükümlüye dışarıdan gönderilen hediyeyi kabul etme hakkı29",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "4c108569203e0246f0b2c38a2976415dd31e87b8391c7fb2b7e5304c13371e20"}
+  {:article/id "law/5275/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Din ve vicdan özgürlüğü",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "acd8e96edc9d2cd396fe3caf70e10f88345fb57dcb872a6945375817312a637b"}
+  {:article/id "law/5275/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Hükümlünün muayene ve tedavi istekleri",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "b6805649d0e215cd2962ae932e72132aa86d2a3d9b1d9054045c3bd45d64054c"}
+  {:article/id "law/5275/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title nil,
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "1a26983a6db9db14e199331716fd4a9001632145cec172abea4124ed6085a792"}
+  {:article/id "law/5275/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title nil,
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "97f026c5fa424e1605c62989aaa0fd58143a050665385e5b5c078a2ace7d836b"}
+  {:article/id "law/5275/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title
+   "Hükümlülerin sayısı ve uygulanacak güvenlik tedbirleri",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "f25c3ed970f930473bd79b6c2f60368133529d7468c6bfe4eeb8a2dd3d3a3bbe"}
+  {:article/id "law/5275/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title nil,
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "5397deee14c4badc265e47a65655bc27e09970164f92296c4ccb24f0741ad27d"}
+  {:article/id "law/5275/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "Öğretimden yararlanma",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "a5755ee84b58678628ee4cac5e967308e3187ef7510bfe2f6816e9a453b91477"}
+  {:article/id "law/5275/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title
+   "Dernekler, vakıflar, gönüllü kuruluşlar ve kamu kurum ve kuruluşları ile ilişkiler",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "53f040eebeaebc40b0aabb937fcb9a22745930164fd17b5704ba2d0b1ca4575b"}
+  {:article/id "law/5275/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title nil,
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "3b5bbe42d4ebd1c230f8f7f11d18760d6b5feec1b187525bea42c3ceac54126d"}
+  {:article/id "law/5275/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "Sağlık denetimi",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "9acf13cbb1f59b3704834382711a3152b628d25d2b6311c59075d43e194d744f"}
+  {:article/id "law/5275/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "Hastaneye sevk",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "3a29f702dd8010c4e7259054b44dda5ab5032be61e87046f0303ad4cbf938835"}
+  {:article/id "law/5275/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title "İnfazı engelleyecek hastalık hâli",
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "53d2ccd3ea0551665053ea223aa7290ff514a693cc4edf8c3cf6de0e250af8f3"}
+  {:article/id "law/5275/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title
+   "Hükümlünün kendisine verilen yiyecek ve içecekleri reddetmesi",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "c870f9a990b2c0892b7b7407525d092bdd067cd18016aa1133e121d9242d612f"}
+  {:article/id "law/5275/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title nil,
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "5c1e846ef0bb4d0e742b64f2c456b91590da80ccce0d755b5544cb89735eb039"}
+  {:article/id "law/5275/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title "Yabancı hükümlüleri ziyaret",
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "648557be232ea9051e522b7806fb873a4d7334634031f6209320a5c7cb2bd1c9"}
+  {:article/id "law/5275/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title "Adalet Bakanlığının ziyaret izni verme yetkisi31",
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "ff6ccb9745d6188282ebb9f7ba8384c8468223dfa89346f91cb2740a1554c110"}
+  {:article/id "law/5275/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title "Ziyaret ve görüşlerde uyulacak esaslar",
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "040f8f69be36df5d2106652426f9524c91b7f793682d7c6e41a53d56664bc1ac"}
+  {:article/id "law/5275/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title nil,
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "5166e7911cc48132956084d0601cadbf2e426a6442c08693f24ab8544597dee4"}
+  {:article/id "law/5275/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title "Kütüphane ve kurslardan yararlanma",
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "f35d92191b450fcc0cdb0e96af6cec1da3721817af373f691e17eefd2ed4aeb5"}
+  {:article/id "law/5275/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title nil,
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "1455df9a830ab33fa5c1e1cf75a005094dca12c31449e7d5c14ec9765d071252"}
+  {:article/id "law/5275/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title "Salıverilme öncesi için önlem ve ilişkiler",
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "4cb3de916e776b66ac51f91b4058197faead2d26a07cdc4085d8c7cf0e197f7b"}
+  {:article/id "law/5275/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title "Hükümlüye iş bulmada yardım32",
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "845965a3e13c71e3a203188f24e54a3b97e6173d7754f32ce8f49a4c1a17c185"}
+  {:article/id "law/5275/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title nil,
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "cab9f1e7b64a8820fe0c61f158e748aa8ad9c627451c632e7d59805c5ab1f3ba"}
+  {:article/id "law/5275/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title nil,
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "dd8197ffabde456a7c7f903b6fcf6a8f9bea5c751f30ca8288ac86514cc79c2f"}
+  {:article/id "law/5275/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title nil,
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "d07d009b7e50f4170f2551c61384ebb84bd15d2f765033509dc85e7d1b698fbe"}
+  {:article/id "law/5275/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title "Özel izin",
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "db3b82b9fcf618d2ea706fbf990f2cfc7b50cba9b936d995df7a6f0519e36f94"}
+  {:article/id "law/5275/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title "İş arama izni",
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "12e10de1ed68f061e987aa58e9a9636bf531c7bdbfe3498b698b5154ddd3ee45"}
+  {:article/id "law/5275/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title "İzinden dönmeme, geç dönme",
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "379bae510dad3785fd576fd9e71595115c6b44b43071890cab823b94de5e1e62"}
+  {:article/id "law/5275/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title nil,
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "963b5ac498dc2cd33815d12bb5aed92370ce5f280941d5d0f766da8a4ccbbf12"}
+  {:article/id "law/5275/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title "Birden fazla hükümdeki cezaların toplanması",
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "fcc33b086ab362c1e1e7bde8b34798164e747b39d22329683c1ad0180e72bd3d"}
+  {:article/id "law/5275/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title nil,
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "9b6be433f027b3d36896d6dffd3423cde08f319c2b9cab5b9f7eba6aef336b5e"}
+  {:article/id "law/5275/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title nil,
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "7b770bcb327425f1592854b73c3313f8705220b1a438cbc43d8ded56208e2be4"}
+  {:article/id "law/5275/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title "İnfaz kurumuna dış yardımlar",
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "a2203ec38bdcbbfe5aad8981f8b4eb46198ddde1e772dcb1787e073cb120848e"}
+  {:article/id "law/5275/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title nil,
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "c4c92dbf0b0e888210943cc3a8f8da891676b7f6f49605860a35cb5b20f96087"}
+  {:article/id "law/5275/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title nil,
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "b7cbd7eca5e8984456061fff4eba67c7714788a2918f5cf1a870a7b9733b8898"}
+  {:article/id "law/5275/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title nil,
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "1037924c6abe4722768b248dd528777b54d09bc81d14238afe4415b52b8e01e5"}
+  {:article/id "law/5275/article/105/A",
+   :article/type :normal,
+   :article/no "105/A",
+   :article/title
+   "Denetimli serbestlik tedbiri uygulanarak cezanın infazı44",
+   :article/path "articles/madde-105-a.md",
+   :article/sha256
+   "45718c5bd757022ecd4b111c07f7acb77ab63fa41330d3c847ca908519feafe2"}
+  {:article/id "law/5275/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title "Adlî para cezasının infazı",
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "2b557e2cd011649d96e29a72c0621265fb6ed89b8c14a28dbef0a3e283751816"}
+  {:article/id "law/5275/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title nil,
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "7ad34199e7a753bf5ee253cb3a6db085a999807ed7a3b778145e894f671f4a89"}
+  {:article/id "law/5275/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title
+   "Mükerrirlere ve bazı suç faillerine özgü infaz rejimi ve denetimli serbestlik tedbiri60",
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "76e40ce248d1a861e5607afab83d4a51093c8b7a86f0f18b4a113b7f6bb6c1c4"}
+  {:article/id "law/5275/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title nil,
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "35ea16a7aad7c19db7abd4cbc8ffa59187a3be383d5e1abbae941f3ce09e602d"}
+  {:article/id "law/5275/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title "Özel infaz usulleri65",
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "61e99582154e89d85525c6923093af125fd851f0608ebdbf92e913b5f32ba62f"}
+  {:article/id "law/5275/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title nil,
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "057d169635d45f84550f6c13284e79dc9ccf28ca248f414c714871a85914e1c4"}
+  {:article/id "law/5275/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title "Tutukevine kabul",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "ec40fdde646a49972f27c2ac6cf789dd6834eb5a0f9b30ca3f2fed8f46d66a1c"}
+  {:article/id "law/5275/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title "Tutukluların barındırılması",
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "4686b5e15a1a101e40d24475edd9b4f5f91dee5fb8e62107ef798941126aeb10"}
+  {:article/id "law/5275/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title nil,
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "e72bb1c31beb77928595688f319419c20a0893a337e5b364e60fa32635bea81b"}
+  {:article/id "law/5275/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title "Kısıtlayıcı önlemler",
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "dfffbcfc65acd60ac0c19e8245a719450e61557a1f094343be6eccf74d6b74b1"}
+  {:article/id "law/5275/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title "Tutukluların yükümlülükleri",
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "12040dfc9b50d0f4a2304c26a26cd055581941d60eae5b6970dc81c61bf1fe75"}
+  {:article/id "law/5275/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title nil,
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "a0b01683dd9a0db6f49a957e80709dcbbc3545fa41ff2dc347f0b8d810de858a"}
+  {:article/id "law/5275/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title "Asker edilen kişilerin cezalarının infazı",
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "279b616ca932bcfb0779d4d41549ee1e694b23f496ffd218863b30a6d962e82e"}
+  {:article/id "law/5275/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title "Bu Kanunda geçen terimlerin etkisi",
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "09bec439e580243df8a7ff7e0f104aa5c6f152d40eb0205cba2227de49bef846"}
+  {:article/id "law/5275/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title "Diğer kanunlarda yapılan yollamalar",
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "25760af6fbf6b1e686c1285d706423ec6618dc506b648d8aa3d9ac0ebf7a9bca"}
+  {:article/id "law/5275/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title "Yönetmelikler72",
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "3e59d14b2a6156e709e85911ec358ff316872c18c11ff70a20346e4bd618c3e8"}
+  {:article/id "law/5275/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "0fb65c448c9dc2575fe1660365ef51a056825fea0ceb3a84cfc5a6e913deeeae"}
+  {:article/id "law/5275/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "cab53ea312445c584c1261d182332371d1ba032d264c7bc82d2e16502e570699"}
+  {:article/id "law/5275/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "892c0ed5bd6d190ae1c0277d2b361d95aaed7ca006480dc97fa5ef63d703c4b8"}
+  {:article/id "law/5275/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "7248f1e3dec3df6e59643a3b763197deec352c5a46ffc0b389422c8afb51498e"}
+  {:article/id "law/5275/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "8e4186d0e4de3fa1a9c3f2b9ab1c09d5f224e35b9419d7be44edd81fdb4cf61e"}
+  {:article/id "law/5275/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "817c068cd9c2d4521feea295f6be5fb4a7835c9e6cccf77d3a12585dbcc2e2c1"}
+  {:article/id "law/5275/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "a7eb97b2157a0277569848ae9f53b90101b1b2e9d8aa9c9b08abb6b1a84fa0c3"}
+  {:article/id "law/5275/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "497124c2a073f625303fc2bf72a514fe8977a91b0096912bd24b65ce987098dd"}
+  {:article/id "law/5275/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "8748718c6b6ecc3613deea50812f26941600fb1de76c8fbbbf4dba92eee2cbe0"}
+  {:article/id "law/5275/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "02513aa7082fd46150fd4edb3767c74af325c150edf6c190963f8d7121054d04"}
+  {:article/id "law/5275/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "c315e30fee8e63ef0da04c3d7b5816a9a48839ac4d88fcdc0e5d995054894efe"}
+  {:article/id "law/5275/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title
+   "Bu fıkra hükmü 31/7/2023 tarihine kadar uygulanır.76",
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "abb806b9b95900316b211f65a11716a589da02f5297c24fa5ef2403945e8ebcb"}
+  {:article/id "law/5275/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "7b152d9635a1bdea7eb837cae6e8e60c6cdeba940bc591e93c44acbf6fb19594"}
+  {:article/id "law/5275/article/123",
+   :article/type :normal,
+   :article/no "123",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-123.md",
+   :article/sha256
+   "b6271e22afefe338665e7fa5d16b73f70876deaa41fba3ef1b59014682355bbb"}
+  {:article/id "law/5275/article/124",
+   :article/type :normal,
+   :article/no "124",
+   :article/title "Yürütme",
+   :article/path "articles/madde-124.md",
+   :article/sha256
+   "f7ef7c1c95929e2188a24f52b6fd45a003b23efe4a98dbdd5c782f70d196683b"}]}

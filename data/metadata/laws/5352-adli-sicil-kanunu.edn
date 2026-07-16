@@ -1,0 +1,179 @@
+{:document/id "law/5352",
+ :document/type :law,
+ :document/number "5352",
+ :document/title "ADLİ SİCİL KANUNU",
+ :document/slug "5352-adli-sicil-kanunu",
+ :document/path "data/canonical/laws/5352-adli-sicil-kanunu",
+ :document/sha256
+ "d0152b3c0745a0ff3ac2f23ebab3a1a3dc8880c9771e6a5e7f4ca03614081855",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5352.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:38.974-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5352/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dc7c850694ed20d0358660d36aa743ee197ecdefe5e09b2c19591355893057a7"}
+  {:article/id "law/5352/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Adlî sicil kayıtlarının tutulması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6fd3655c56dc81ef524860c94b82521165cc65258aacf98f0ea644d1ad69fa38"}
+  {:article/id "law/5352/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Merkezî ve mahalli adlî sicillerin görevleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6a29b82d02b675425bff64d40de3e1e713db999db604797df5eeb26d4b8bcf8d"}
+  {:article/id "law/5352/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Adlî sicile kaydedilecek bilgiler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7df5791becd4975d3d6891adec8e1ad0e2fc77334dfa2aa473fc733f04436838"}
+  {:article/id "law/5352/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Adlî sicile kaydedilmeyecek bilgiler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8289cb6dc2e34d404c13b72623c4b34ffdafe9562ee3b21b7dbf9694ca9d3c5f"}
+  {:article/id "law/5352/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Diğer bilgilerin kaydı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "bba4fb5e0aa59a8ec9df8bc6895c758077b5cb119b1f02b6f64dd5d74b4a8df9"}
+  {:article/id "law/5352/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Adlî sicil bilgileri verilebilecek olanlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c2e941215a2a57e3bf9a6cdc53a980063945bdbb997773c21f41a14f2e6ff9a7"}
+  {:article/id "law/5352/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Adlî sicil bilgilerini verebilecek merciler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ee5b306bc0c03fbedd5ef7b7a8531d11e65797dbb1d40553818dd5e41bbf3382"}
+  {:article/id "law/5352/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "698110f1099c4ee4844539b8002472e78a05b69419ac833a10980071116886e9"}
+  {:article/id "law/5352/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Arşiv bilgilerinin istenmesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b68a017dde9ea7ab25126816425996b4696161c6a0e9cd8faf7fa84f15ffbc8d"}
+  {:article/id "law/5352/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Adlî sicil ve arşiv bilgilerinin gizliliği",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "c815959a0a4817cd2ef8c3e4f0e8866e23acb1d89f8d235b0d502c88e2a086ba"}
+  {:article/id "law/5352/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Adlî sicil ve arşiv bilgilerinin silinmesi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4d740258d27e66da08671b119e6908ea7fe2dc4c29047982bb4212c6e863e04b"}
+  {:article/id "law/5352/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Adlî sicil ve arşiv kayıtlarında sorgulama yetkisi verilmesi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "5e91970f004164f9da2eb49e01804fcd83cacaa7551678ee4353fb6547b13f12"}
+  {:article/id "law/5352/article/13/A",
+   :article/type :normal,
+   :article/no "13/A",
+   :article/title "Yasaklanmış hakların geri verilmesi",
+   :article/path "articles/madde-013-a.md",
+   :article/sha256
+   "fa8410ea79a4cb7f8402ca210ab054978b8292122eedfe006e77ef27d979af45"}
+  {:article/id "law/5352/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Komisyon",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "3983851372d0e82afaaec85c3113e8e8c15ec025ef28517b9eaa0214cbdf1745"}
+  {:article/id "law/5352/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "0689715a29cc0b18a9c73a75532ef685d8eb134b7ce6be4a3b941888114b151f"}
+  {:article/id "law/5352/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Merkezî ve mahalli adlî sicildeki atamalar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "731babf6f00f59eb110454a6fa9994585c09450ba1e46201df7c55e423b29597"}
+  {:article/id "law/5352/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Malî hükümler",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c5e678976bb8316ee693d4c55e4dc8ae5eaf6d49d2b2434dd2c30baee8f1dcef"}
+  {:article/id "law/5352/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "e7d0690add35b2d8323954b4b3afa7453e30a63b9173d415f9bf8e29473198b3"}
+  {:article/id "law/5352/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "f4c9318bb7357020fb0b1f15a0955e090b0c1eacec246b51ce6a71417e8bf93b"}
+  {:article/id "law/5352/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "0531322db58f992b9f5d86d9cfca7743d697ecbc44567de2cf95f744cec1c5eb"}
+  {:article/id "law/5352/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "96119a1db24e6363d354020047ea2481c165bd66b1cd4fbf69f3abdb2f8c3bc4"}
+  {:article/id "law/5352/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "7a49b7f088d737e0dc953401a5b9b4728d59e141d89d1753c86f2bd01ed7143f"}]}

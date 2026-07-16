@@ -1,0 +1,69 @@
+{:document/id "law/5597",
+ :document/type :law,
+ :document/number "5597",
+ :document/title
+ "YURT DIŞINA ÇIKIŞ HARCI HAKKINDA KANUN İLE ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "5597-yurt-disina-cikis-harci-hakkinda-kanun-ile-cesitli-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5597-yurt-disina-cikis-harci-hakkinda-kanun-ile-cesitli-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "c5e062f072bac8bcf9ea1e214d2ee704c019d252f8f104cdedb099eb4d017f54",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5597.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:09.417-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5597/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yurt dışına çıkış harcı",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e30aac6612a1aac6d11e815db4bef11da6c99b6f27dd7a5b70d920e9f648901a"}
+  {:article/id "law/5597/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "98eb623e246bb1277b35313c7ef30325de39592a405bc38888448ae85479e002"}
+  {:article/id "law/5597/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "00e380f35cb74f0e6a3946c475d1979613da7252f48a4f3119132d4360cfc077"}
+  {:article/id "law/5597/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4be0663e959b4f65ddb530d36d4262b23023de3517d5757df2d119093037de97"}
+  {:article/id "law/5597/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a6abd8456e34bd2aa3823d884cde2eda6d234aa5736816db37ab591c56a990c2"}
+  {:article/id "law/5597/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "29aa1b40588623e79131f076942f6451bab274d83b6668a400a9fed42163a331"}
+  {:article/id "law/5597/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "85fd20626c536c8d1242a745f8951d0c31e9d8e217fb76009cfaecf7d0b74120"}]}

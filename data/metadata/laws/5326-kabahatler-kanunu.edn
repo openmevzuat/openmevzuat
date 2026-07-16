@@ -1,0 +1,383 @@
+{:document/id "law/5326",
+ :document/type :law,
+ :document/number "5326",
+ :document/title "KABAHATLER KANUNU",
+ :document/slug "5326-kabahatler-kanunu",
+ :document/path "data/canonical/laws/5326-kabahatler-kanunu",
+ :document/sha256
+ "53e927f60946f4d2d324561ef018a9a8657c0598c24ea84c933ae189bcfa6638",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5326.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:21.395-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5326/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "aad9b5e96c8b2e4dff1305b800e302cb92e67c72e182d1f6f2eb000a0ab67079"}
+  {:article/id "law/5326/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanım",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "60dec3a778434a9c766c0869105363ae61222d555dd6fa32db7143941e20f1d9"}
+  {:article/id "law/5326/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Genel kanun niteliği",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6d2c8eb8af80aa62184ba4b85eb29b207aaa1997fada5cf9512fa3e3664df457"}
+  {:article/id "law/5326/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kanunîlik ilkesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b2df257698e73327874439656313d68ce89d687765a25247022cdd099f30ee94"}
+  {:article/id "law/5326/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Zaman bakımından uygulama",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dca5f12cd514c90115479171f956ad759c2e1a6001e4e82d2300a83fcbc57df9"}
+  {:article/id "law/5326/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yer bakımından uygulama",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "265236c6cfd31b9f23601c210cc51a7b0f4fd5023a5ee0477e1027b280a4ed9b"}
+  {:article/id "law/5326/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9cee6e1a0e60e1fa9ba65851bfdfb9c20f01fca7336ab6caf1df0faa7ca5a26a"}
+  {:article/id "law/5326/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Organ veya temsilcinin davranışından dolayı sorumluluk",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c3826026efee66de1bd5df850440a76651b323543acaba9e53966c853cc8db71"}
+  {:article/id "law/5326/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kast veya taksir",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6576445cc1dab715f8278c940ca4871ae4bad7e256db136a38336fc4b1cdef97"}
+  {:article/id "law/5326/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Hata",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "7f12cde7ba0e2c012afb9ff00961b3d52ee30400347e0c82c51c24b2f5e9b6b8"}
+  {:article/id "law/5326/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Sorumluluk",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6da581f4625de9963cdd2418892f2a1fd72667c3b232254bf98ed075e85e8b36"}
+  {:article/id "law/5326/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Hukuka uygunluk nedenleri ile kusurluluğu ortadan kaldıran nedenler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "d9b650714e3b076d020cb9e04ac32903620fe4a6200be64c9114671357c8a3d1"}
+  {:article/id "law/5326/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Teşebbüs",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "0fd4d93424d95d8fe921ca23c92c326019a5dc2dc056fb9de5ff82c6480054d2"}
+  {:article/id "law/5326/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İştirak",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "87e91aecb416b5095afa4e22e7da68c91e5d7cca9f278362f71868bf73b0ad2d"}
+  {:article/id "law/5326/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "İçtima",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "77bc096b3410eb94eedcc65290d2b44d411eb05a9c81a47404d11ed5f5f7b847"}
+  {:article/id "law/5326/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "d3d308214906482704e2599245c5a67b44c9add59460cb6dcdcac2556216bfdf"}
+  {:article/id "law/5326/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "İdarî para cezası",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "5f66df3ec2bd4f4f6177a5487c0762b311b491e78712ca9733cfa3dd5605dfba"}
+  {:article/id "law/5326/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Mülkiyetin kamuya geçirilmesi",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "82016566caec3a4a1cbef55ac9638306094ba0f1740dfb54bae225c93faf75e6"}
+  {:article/id "law/5326/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Saklı tutulan hükümler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "7150aae2d9acf5eb924fd0b65fb716b7bdd45cf69479facc50d9d6f1a0e41322"}
+  {:article/id "law/5326/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Soruşturma zamanaşımı",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "9fa1c96c7abeba6992ed36fdd0e380c8ac5dd456db6f1c4fed3b4f9430765042"}
+  {:article/id "law/5326/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yerine getirme zamanaşımı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "b624bbac918f2d9f24880b48843de8448ee1c5e8ff087de1b60ef3ddeb9031cd"}
+  {:article/id "law/5326/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "ccd8bfbeb8cfa959a07db3249fa547cd04c58fe39243cae7655588a27200d028"}
+  {:article/id "law/5326/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Cumhuriyet savcısının karar verme yetkisi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "0f2e4297203a308396c3d123197b75dd1bf154c9ce1cbfb6de4ca98a38941991"}
+  {:article/id "law/5326/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Mahkemenin karar verme yetkisi",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "ed1920db2b0458527dc9c0cfa74bbc831bdacf6981e491d3ca446dfa8fbf15aa"}
+  {:article/id "law/5326/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İdarî yaptırım kararı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "50e3ac438961ddc938fc788da13f50c5428a96ac4ce3797350355e68dafa7ebf"}
+  {:article/id "law/5326/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Kararların tebliği",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "c6419cd1a2ab028d31f6dd34b7b44c5455f2a1a34d05d60b955a56b2307ad689"}
+  {:article/id "law/5326/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Başvuru yolu",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "1ffe005dd461cb5d9f77afbbe9d9a38f9a415bb5e2ea339ceca0677d7941668b"}
+  {:article/id "law/5326/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Başvurunun incelenmesi",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "ff6c4d96555de86f4a32bd47fe4425f962d6120b59ed45c2df5f3d687cfb6ce6"}
+  {:article/id "law/5326/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "177a906c960db277f04f1acbccddc8572b89b17158dfe58e5a6fcbf27b31d8db"}
+  {:article/id "law/5326/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Vazgeçme ve kabul",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "c0d4970c3f4ff18022e4f905df72f902b72d1a4f6c6509cc696c4501932363e7"}
+  {:article/id "law/5326/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "6b6abd08b1c46457766bb70d09f99e4e6b987d2b074a69bfd559f42a97a4d02e"}
+  {:article/id "law/5326/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "c00b091783a1bae00c144f374c02d352ca98d6f7ad041ee4f3473e7db6e91435"}
+  {:article/id "law/5326/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Dilencilik",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "d9cd3bca0577b073d1bed5ca1e7329832651729467f55984fdf09896755513ae"}
+  {:article/id "law/5326/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Kumar",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "5b3a342dc4c6005ccac9521967e3a84e82f958a28e3627a94c35d25f02337933"}
+  {:article/id "law/5326/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Sarhoşluk",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "b43e1af1e46e1a8a10ceefec7e5c6f0831b0256fa075a7c053a8c7c2f0a0dcb1"}
+  {:article/id "law/5326/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Gürültü",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "b6bc82ca339342e2953479a784df506c28f12f156e9c6a7bacceb86c25bf024e"}
+  {:article/id "law/5326/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Rahatsız etme",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "4b780afb669f77442c59b8ad238810dfe7fdfae430bf621a1189afb74e5274c6"}
+  {:article/id "law/5326/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "İşgal",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "20f1e5009cc4bafe5b66ded8e3d0bbe07b3835b4ca1acaf4e3edc52722ad1cf6"}
+  {:article/id "law/5326/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Tütün mamullerinin tüketilmesi",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "6d8070d24043830d72fcb74db775152a8c422bfd8292c9272a5c8bfea2c503e3"}
+  {:article/id "law/5326/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Kimliği bildirmeme",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "c848cc389979586ff71bba4ced8353cb281d4a6b0a8c039f4fc8f52e4c310899"}
+  {:article/id "law/5326/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Çevreyi kirletme",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "b42283045317da39a2780adff6ff66885559badbe025b427cefdd63d99216a7c"}
+  {:article/id "law/5326/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Afiş asma",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "3858b1163f7ba0079b0da7841e6ac27f6822743e509bf2d1eaa9c064f7413875"}
+  {:article/id "law/5326/article/42/A",
+   :article/type :normal,
+   :article/no "42/A",
+   :article/title "Asılsız çağrı ve asılsız ihbar",
+   :article/path "articles/madde-042-a.md",
+   :article/sha256
+   "37e288db186c49e1263052533167e35420fe0814eebd3543e9d781c41cdb7934"}
+  {:article/id "law/5326/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Silah taşıma",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "e05f5cff7d3bc1d361be964e047b9993e8a6847ae0186f2e0ac464aa170e4c9f"}
+  {:article/id "law/5326/article/43/A",
+   :article/type :normal,
+   :article/no "43/A",
+   :article/title "Tüzel kişilerin sorumluluğu9",
+   :article/path "articles/madde-043-a.md",
+   :article/sha256
+   "97842fd339334713c904d6550e5653827550c963c85d8e1bb9f72f2f755c122e"}
+  {:article/id "law/5326/article/43/B",
+   :article/type :normal,
+   :article/no "43/B",
+   :article/title "Tüzel kişilerin bildirim yükümlülüğü",
+   :article/path "articles/madde-043-b.md",
+   :article/sha256
+   "31f4c92b3e2f0246719b0f7d6deb8cb8d91e40a21a562c36201fc6d3df877a10"}
+  {:article/id "law/5326/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "74944aca809b0f964830be8d086dee7fe625d07881cf6635cd56731a806815cf"}
+  {:article/id "law/5326/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7aaf4b00e5d09bbcc03336b7bab231caf15e74f71d894bac8c20abf192a56c81"}
+  {:article/id "law/5326/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "5e04788501ced343a586a648bfa303d4ed80d54cfc98433f3e21fa63ae62ac25"}
+  {:article/id "law/5326/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "e8ab76e125438596328ad6f15d014e98dbb8859df0a0bfbedd6859945a05115a"}
+  {:article/id "law/5326/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "b6fbb5de088fd96ab5e9c1b10ea3e1db56821b4821c4cb3a527d241df18a1486"}
+  {:article/id "law/5326/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title nil,
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "aab0f00738170e770654447f29f47e8651500b6d85d39b29e4036324172d210c"}]}

@@ -1,0 +1,129 @@
+{:document/id "law/5262",
+ :document/type :law,
+ :document/number "5262",
+ :document/title "ORGANİK TARIM KANUNU",
+ :document/slug "5262-organik-tarim-kanunu",
+ :document/path "data/canonical/laws/5262-organik-tarim-kanunu",
+ :document/sha256
+ "da1098a9171997955269e792c22ad67c6a830e774507e77b03eaa8cde4bf5e7b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5262.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:33.454-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5262/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "03db3e1de5a83492e5898b7e9cbcd8a4902907ec70b14586bb618172f8761c12"}
+  {:article/id "law/5262/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ab7065dbf7933aad3d2e95df01d51c492139aac572f9b1b91ea8a660b785e408"}
+  {:article/id "law/5262/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7f16ed9e33a78002f1d5966646e8f5a9a9d19ce4a2a18f831920bb4158f36fbb"}
+  {:article/id "law/5262/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "94ab866df544e281b4638cab6a5469713108f483ca2ef2a1a56c7b946b0e6569"}
+  {:article/id "law/5262/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yetkilendirilmiş kuruluşlar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f3c3652a1eacf7e5a7d2707c448b942a1f3d085c497600ca7fe62c1f1d038b20"}
+  {:article/id "law/5262/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Müteşebbis",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "eb9c3b9cf4c7ec7b1de62fd06f1c26eb08c7dd1b1ce3455721c901cf6a8e0552"}
+  {:article/id "law/5262/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b14f622f4a9a8eace28e693afe3c44bb5d57fade788ad70617bb18d6515ef8c4"}
+  {:article/id "law/5262/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Organik ürünlerin ve girdilerin reklam ve tanıtımı",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7c2c426b7102b54a2bcbb46112377bbd6a7acf771f9ed62ed000c3dd04dda212"}
+  {:article/id "law/5262/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Organik ürünlerin ve girdilerin ihracatı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "79daf55ed0a7387370febba02e37a2048977b0fefc7835c68f9a0b82f6fc3a56"}
+  {:article/id "law/5262/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Organik ürünlerin ve girdilerin ithalatı",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "620cccaf63cdf4dded30c626f7ed3ea2c67fb8131153a7ba3eb5d777b10b4dc5"}
+  {:article/id "law/5262/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Denetim",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "17ae1b44a9bbad8ec9d218aef3f59f95ec55c7385c5a02bff8aa276658933ff8"}
+  {:article/id "law/5262/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0e9624fa3b7c56d2778153bb9c9184495ab35e91da0659ed2aab1d6e82bdd857"}
+  {:article/id "law/5262/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Cezaların tahsili ve itiraz",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "de4246352f0a8b9b3d7fbdcec093dd7aa6e07a94ea6b96a94aaf33cf7d6e5368"}
+  {:article/id "law/5262/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "98f8982d561be9efa24ed8326a8e4f4fc5ef5f8a5a767d31a48f830d2929ffe2"}
+  {:article/id "law/5262/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "cf16d2889f86c1d52270c86f239620e1c721cbf1b025be67c591611d64831c6a"}
+  {:article/id "law/5262/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "14a63230720f114a930e6291fbda2a0116af3f46d1208009f87fdd693f5c274c"}]}

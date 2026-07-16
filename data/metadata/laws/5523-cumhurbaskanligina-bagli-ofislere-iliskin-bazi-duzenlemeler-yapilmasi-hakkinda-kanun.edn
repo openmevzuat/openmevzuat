@@ -1,0 +1,139 @@
+{:document/id "law/5523",
+ :document/type :law,
+ :document/number "5523",
+ :document/title
+ "CUMHURBAŞKANLIĞINA BAĞLI OFİSLERE İLİŞKİN BAZI DÜZENLEMELER YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "5523-cumhurbaskanligina-bagli-ofislere-iliskin-bazi-duzenlemeler-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5523-cumhurbaskanligina-bagli-ofislere-iliskin-bazi-duzenlemeler-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "da1a35efeda1798c27b2b9271033cd14f27ff01f6d35edca83588bf7af6faf31",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5523.pdf",
+ :source/fetched-at #inst "2026-07-16T02:40:33.116-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5523/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kuruluş",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a5f31c4e855104f23d42039990ab53fc1f967159fa2b41d3744ad550639bed4d"}
+  {:article/id "law/5523/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "bdf63311cb9a955501844a8fea974b871b54938e97d900fbdeba77ef1d7eaf58"}
+  {:article/id "law/5523/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Ajansın görevleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8a6eaa102b3307a667594fbe0f8c2b26c4d4c0ff35753f8c311ab422b1388fc5"}
+  {:article/id "law/5523/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Teşkilât",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ef55aac61e03b97fe083cd161ec7c7f85f0ed9e83fe2297e9f975745f13a0737"}
+  {:article/id "law/5523/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kurul ve görevleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "7ffb27c31950108dd43918ab73e5495dd1ee762e957b9973c866ee9f124ec91c"}
+  {:article/id "law/5523/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Başkan",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "bb9984e3c37c6135657ede736525b6470a75670f6f354bfca23dd93d16c324ab"}
+  {:article/id "law/5523/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ana hizmet birimleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fbec29d95df92ec5f06020a79ab00d6ff0bd11479a937010deb04193ca3e87f0"}
+  {:article/id "law/5523/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Danışma ve yardımcı hizmet birimleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "23edba17bd8fd576b1e95d09baba20e0acde6aa8722b9ecf8a868cb30f9d307c"}
+  {:article/id "law/5523/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Bütçe ve denetim34",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "fa1d2b3c24bd9d14fa5863066bce76a89a41a3d141966e17a04e3084d1cee3fe"}
+  {:article/id "law/5523/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Personele ilişkin hükümler56",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8608b3cb6e9a27d718a4ea796227f6a61ae3d254245d3b8866808f285f2c0363"}
+  {:article/id "law/5523/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Sözleşme ile araştırma, etüd, proje yaptırma",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "269a2375c849d611e3b4f141b2f701c743f5783d7a8fdcf098a5fb4af2a066c4"}
+  {:article/id "law/5523/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Bilgi isteme ve gizliliğe uyma",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4039cbd677de5de3847b27bdbde30a3d86f0ff420a4efb802a5aeb7e7927815e"}
+  {:article/id "law/5523/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "bdb93e41319508897076b195c92f26d6f85e2b1f50fff1298573a07c5239e0aa"}
+  {:article/id "law/5523/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "68c0b6ad91548933ca1d0ed2c51afb3d283d7839851841cc8eff595b8477d971"}
+  {:article/id "law/5523/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "98bc19056385e7fa0f90f6e1205e2d5b0ad1f8621dd022f49f8fa0971186b94d"}
+  {:article/id "law/5523/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a1665f480b0b1865eef91c0df624d7bf23c9721ca0d7f90d602edf5d1d9052e5"}
+  {:article/id "law/5523/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "094481ed0d10f2c8523a3bf521b441cece112ba208ce75c74badb0c51cee65f1"}]}

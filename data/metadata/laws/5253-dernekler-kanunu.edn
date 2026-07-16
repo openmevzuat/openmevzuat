@@ -1,0 +1,350 @@
+{:document/id "law/5253",
+ :document/type :law,
+ :document/number "5253",
+ :document/title "DERNEKLER KANUNU",
+ :document/slug "5253-dernekler-kanunu",
+ :document/path "data/canonical/laws/5253-dernekler-kanunu",
+ :document/sha256
+ "d7218284b1f3bd24ba84af04efae4049a528d0fa43d22c28f4995d47b716376b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5253.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:24.287-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5253/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dfb0bf6ade924d58a72c9f53921e146494f61e5568cc53a18ea66b1088fc8df4"}
+  {:article/id "law/5253/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a2f2a3ff279de82252b7703455654b0e49560e7e45be79ed2b373a65a1accea3"}
+  {:article/id "law/5253/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "45247e7003be8e59816bc8f267a73f2b3e4db8020cd5e69cd9e5df16f0f8dad8"}
+  {:article/id "law/5253/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Dernek tüzüğü",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2ac4d8b3bc66f9074ae0e90a6769d979bef775ab254e7e5916808b3b9fbd70c0"}
+  {:article/id "law/5253/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Uluslararası faaliyet",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0a00353d849b62f3e2265c1cad634100b96a0f61ab1825c2a6e2ad634fb52f05"}
+  {:article/id "law/5253/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Tüzel kişilerin oy kullanması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "564945199f8ce5192d40747b256a9760559b6df482bccc3607376b6017bb9b9e"}
+  {:article/id "law/5253/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Şube genel kurulları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9f8a034d9e6e42990b8a417cbbb74b26b52a759896d278be188db8b6868d9699"}
+  {:article/id "law/5253/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Federasyon ve konfederasyonlar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c4e285155708d3a33b2fe742948f5370764182abac6abad9d3932d304380ad60"}
+  {:article/id "law/5253/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İç denetim",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "00dda88d7c995110113e05cc7708075e11d51e25c589df630d7207731ffed450"}
+  {:article/id "law/5253/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yardım ve işbirliği",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "07dcd0cd24beca81ffc63b4fa0caff5db68404a436474be30660004bd2d619ab"}
+  {:article/id "law/5253/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "472e97c8704fe025e88db7721bdc1743f5c3b23634ba00c43bbec07348513e67"}
+  {:article/id "law/5253/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "c0d1aaf7aac89161037fd290515dfea8d2b1e6789f6c240deed74b82d8e6ed46"}
+  {:article/id "law/5253/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Dernek görevlileri ve ücretleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "be37898e35736445234ddb4402ca58e3f147a8c3a8d3863ed979213cfb404f7a"}
+  {:article/id "law/5253/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Gençlik ve spor kulüpleri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "4754a0f9c11e409a55d44be2f0db29f3fd40b7ed3ffeba078ce861b85401f472"}
+  {:article/id "law/5253/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Tasfiye",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "650825293c1b4c017c5167d4aaf36fa0155a1c9c77a420d0513ac064a851afd1"}
+  {:article/id "law/5253/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Basımevlerinin sorumluluğu",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "1adcf76cad1db61a110759f7e6afac26e1f8bf0f2c38cf36b860411ae963813f"}
+  {:article/id "law/5253/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Hata ve noksanlıkların giderilmesi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "b14041857a6c4b3757fd46cb05524487b4d407b31a9fb662c5a9269ca7f71e44"}
+  {:article/id "law/5253/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yargılama usulü",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "e4c925bddc9fc351ff87683ec1f56a50bc4e5a464212858c965c60d50610bc37"}
+  {:article/id "law/5253/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "458b5d8ee3d89a0c921b830656109e855f5ddeb18ac72a76e0a7dff692fb11ab"}
+  {:article/id "law/5253/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Kolluk kuvvetlerinin yetkisi",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "b62c7d2578eaf9704329e7c5f4ee4960b943e376cdc61651acc44b5cad391ba9"}
+  {:article/id "law/5253/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yurt dışı yardımlar6",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "307b114acf0d28ad039b719d2245f9e43cff06f41904475edff79fa3a8887766"}
+  {:article/id "law/5253/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Taşınmaz mal edinme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "88e7010a2052206103a25b4831339f7d92ac9a4045e32a8b6d04c45141afeb30"}
+  {:article/id "law/5253/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title
+   "Genel kurul toplantısı ve organlara seçilenler ile üyelerin idareye bildirilmesi7",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "49afa7ebf43d99d46b80bd85f9e4fd5085610e7d2a45e2be8166ffad15668127"}
+  {:article/id "law/5253/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Temsilcilik",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "d5c1e4210f2cb284b51231e9f3a5fe8c49dcceb178f5ccab0915b65608199c2b"}
+  {:article/id "law/5253/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Plâtform oluşturma",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "2b47ac92bbb8fa66714ee8e8713c28006f294b946143b54b023047214764c150"}
+  {:article/id "law/5253/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "286feaaf271ccbbd18bbcd9b23c57b1e8cebbff36b60811e01ed019867d555ee"}
+  {:article/id "law/5253/article/26/A",
+   :article/type :normal,
+   :article/no "26/A",
+   :article/title "Dernek lokallerinin açılması ve işletilmesi",
+   :article/path "articles/madde-026-a.md",
+   :article/sha256
+   "723c08200964b39555d03ae31ba3fb7734b3c81f1054b42e24d4213ab357ba09"}
+  {:article/id "law/5253/article/26/B",
+   :article/type :normal,
+   :article/no "26/B",
+   :article/title "Dernek lokallerinin denetimi ve kapatılması",
+   :article/path "articles/madde-026-b.md",
+   :article/sha256
+   "5f95303bf92412867163ad8e364ad72f3f4f7c34bc63ad14bd3dab1baa3bf998"}
+  {:article/id "law/5253/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Kamu yararına çalışan dernekler",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "5dd124ccc086465e42bb130679df5d00be11427909b126001d0d085ed3e6ac8a"}
+  {:article/id "law/5253/article/27/A",
+   :article/type :normal,
+   :article/no "27/A",
+   :article/title nil,
+   :article/path "articles/madde-027-a.md",
+   :article/sha256
+   "c136a22d9743b54424a9bd860523c36442fd4aaad9a541b385a826375e11aaa4"}
+  {:article/id "law/5253/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Dernek adları",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "b5bbd6623bd32b0db91a747a8e1d6bc0e052c408c3d587fa9419e1c66b235dae"}
+  {:article/id "law/5253/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "b1f0259714f3a8bd625bf87486e4119d17bf4685cebed3b324c7464f8b868d02"}
+  {:article/id "law/5253/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title
+   "Kurulması yasak olan dernekler ve yasak faaliyetler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "a9cab19bb83e6a3ad35f37aacd78c0e028a83737c2c3dd4b0f4518da0f981d84"}
+  {:article/id "law/5253/article/30/A",
+   :article/type :normal,
+   :article/no "30/A",
+   :article/title
+   "Görevden uzaklaştırma ve faaliyetten geçici alıkoyma",
+   :article/path "articles/madde-030-a.md",
+   :article/sha256
+   "a21726ee9463d1c75173572fbdcb438583d8d6b95b9107a0fe80e4c07a3ca2cc"}
+  {:article/id "law/5253/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Kayıt ve yazışma dili",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "031b3e6527657b549944a663de4bd5622ad1a322e5c82ede05f8ef1e633165fc"}
+  {:article/id "law/5253/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "174566ae6663a226f54ce45f33c72b83d7dfbbfa52497198f7e5ecb972dd296f"}
+  {:article/id "law/5253/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Cezaların uygulanması",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "722ead7e9856492aa2e6b0f3eea250579432f6048f3a92ab6815b325356b8ec1"}
+  {:article/id "law/5253/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "d2f9f9027c531536d7767319c6cf6774bcfc368fdb818e9f923be19869d750c2"}
+  {:article/id "law/5253/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Kanunun meslekî kuruluşlara uygulanacak hükümleri",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "23ed929988559db3a4be56e6a7c54a083ffcf065baf102018ead353c23ec7c44"}
+  {:article/id "law/5253/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Uygulanacak hükümler",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "5b60c831111706fa41d12e359fc50ca712d19de3b62da1984e78b7878a5a5244"}
+  {:article/id "law/5253/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "7dc92978db57f1e3a569da5bd51d67b5eb595b48d9fdc9de0b7cfc9f6e4278ec"}
+  {:article/id "law/5253/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Değiştirilen ve yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "0259ba2084161cc43513967fd0879a3264fac60ec7a1cc73c336fc41fba230a9"}
+  {:article/id "law/5253/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "21c917d23d5ad7ab28fa9fc5da2ffe8a1fd06f43aa784162bfd199f87ac5c22e"}
+  {:article/id "law/5253/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "Derneklerin kayıtlarının tutulması ve işlemlerin elektronik ortamda yapılması 13",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "4be743848a41a432c1499b0f48e6c36ea932cdc884a931c8bf15d01ccd4bf20f"}
+  {:article/id "law/5253/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Üyeliği devam edenlerin bildirilmesi",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "15329419de551aed5980753fa516e8806b543188afc7e75665d325ea3fd09ffc"}
+  {:article/id "law/5253/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "98a38355cec95cf953374e35867a58cd330ae3f598276a5e6e6f2991363bca8f"}
+  {:article/id "law/5253/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yürütme",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "66492ee207c9b9685604383eeb11a12ccc04a2504bd75c535dad92e0307120d2"}]}

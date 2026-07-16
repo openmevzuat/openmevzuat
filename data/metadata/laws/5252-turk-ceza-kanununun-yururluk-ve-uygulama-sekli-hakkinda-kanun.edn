@@ -1,0 +1,127 @@
+{:document/id "law/5252",
+ :document/type :law,
+ :document/number "5252",
+ :document/title
+ "TÜRK CEZA KANUNUNUN YÜRÜRLÜK VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
+ :document/slug
+ "5252-turk-ceza-kanununun-yururluk-ve-uygulama-sekli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5252-turk-ceza-kanununun-yururluk-ve-uygulama-sekli-hakkinda-kanun",
+ :document/sha256
+ "5831bd2a56bdbfc36d01bf2432256da9a974ccc6574c4f94812c6d9aacd8d2f2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5252.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:20.714-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5252/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d87e40a7ea9e50a91583e52e38b85a8131e06ef3a701d1b6c71b3c22e7199a57"}
+  {:article/id "law/5252/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "96379fcba22ae28c5f6851cd16928931a93d95ec892befce3afd608738f2a1ff"}
+  {:article/id "law/5252/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3351fddf2187a1bb101745605deda1a7cdee08dd2a6d6f30d838136cc2069aba"}
+  {:article/id "law/5252/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Diğer kanunlardaki para cezalarının artırılması ve usulü",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e07fcc76bb50026b8b2747b29d72c6377ed609db0fe34fc94506e8096b8291b1"}
+  {:article/id "law/5252/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ağır para cezasının dönüştürülmesi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0e1d29b16f7710f364e4ead0fc536e9aea37f1a6ce8ef0ff9a29fcd47b773c4f"}
+  {:article/id "law/5252/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "beb09d5b294b42fa3eec37286a0ef503c3d4c14bbbcb904416bea04fcfb4f06e"}
+  {:article/id "law/5252/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Hafif hapis ve hafif para cezalarının idari para cezasına dönüştürülmesi7",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6e898be7dbccfd7d27a1cde8dedc9fa7837de2728af00a29614f162e508999eb"}
+  {:article/id "law/5252/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "db171a1ec3c3fdee1d64c327de9ef9ead9be0eef1f5e16cb0b8291f2acc9ca7c"}
+  {:article/id "law/5252/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Lehe olan hükümlerin uygulanmasında usul",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "4841587421bd163d4f3dc9366ea5d1a4b87b1eb79f8931465c106e41381f8a2a"}
+  {:article/id "law/5252/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İnfazın ertelenmesi veya durdurulması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "98d671006878cf9d384c8ac649b2d386d9086d79cd70df8ac3f9f7904cacb8ac"}
+  {:article/id "law/5252/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0e966eb6cc602a8ec09ca92a87289ee214580bce9a160046b8eec5178263d6d5"}
+  {:article/id "law/5252/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7e99474b578d0a558f43ad646984b3433a64aef0df609dd14b33a0c23483b2f6"}
+  {:article/id "law/5252/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "616cf4b38856cd7183f26c0b91fa36673f36c838cb9a13a376896506767376c8"}
+  {:article/id "law/5252/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "37a9ea7376bf9d3e6be2c7ad3fedf3c541465922b5015b0e691496bf4a7420c8"}
+  {:article/id "law/5252/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürütme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "e17f9b2709031817e64f1c262d9fdfe1d6fd674ff22767e39df3113dc15d379d"}]}

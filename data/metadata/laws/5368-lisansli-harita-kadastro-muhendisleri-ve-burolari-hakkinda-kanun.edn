@@ -1,0 +1,134 @@
+{:document/id "law/t5-5368",
+ :document/type :law,
+ :document/number "5368",
+ :document/title
+ "LİSANSLI HARİTA KADASTRO MÜHENDİSLERİ VE BÜROLARI HAKKINDA KANUN",
+ :document/slug
+ "5368-lisansli-harita-kadastro-muhendisleri-ve-burolari-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5368-lisansli-harita-kadastro-muhendisleri-ve-burolari-hakkinda-kanun",
+ :document/sha256
+ "6661ea3f3a969aa1fc9c804c5e63d920af9fe8be9c506ac654dbf7c70ea0a5f2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5368.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:57.679-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-5368/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0edd6615e8f5846f3fd9a145d4aba136c64cb4b72c576abcbd61b7e0973c816a"}
+  {:article/id "law/t5-5368/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Lisanslı harita kadastro mühendislik bürosu açacaklarda aranacak şartlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c8360db6520ef6c9763a8164e91dd5f1b891766d949008b0e7083d92890513ba"}
+  {:article/id "law/t5-5368/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Lisanslı harita kadastro mühendislik sınavı",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4f4e960db37f681207ad7a20837c6f0df9c69867d38944bc7bcf686647141120"}
+  {:article/id "law/t5-5368/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kuruluş, görev, lisans verilmesi ve denetim",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4f0223fbe56b45807530005a4e0f0c233e140c79593b9af0af68f62163165447"}
+  {:article/id "law/t5-5368/article/4/A",
+   :article/type :normal,
+   :article/no "4/A",
+   :article/title "Disiplin suç ve cezaları",
+   :article/path "articles/madde-004-a.md",
+   :article/sha256
+   "89ce628299714f63070219df46549ef5a4ce61dc2abd302c877707d2fef87abf"}
+  {:article/id "law/t5-5368/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yemin ve sorumluluk",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "59f9c2f4fea7489a22d701f386f69b6bc9848ef377e335382039da1b29812986"}
+  {:article/id "law/t5-5368/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Büro tescili",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cc57b6d0ca27d3a5c9abf48128669fb7b4014dde69cacb65d31fbd0f244dbdfc"}
+  {:article/id "law/t5-5368/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yasaklar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f7382015619dec94c63b9fea78f67cc53b8894ea6a2b08747d6edcf2d32a05e3"}
+  {:article/id "law/t5-5368/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Tutulacak defter ve belgeler ile uygulanacak ücretler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b50f7c257c81297f310f583bd439e297b3f6e56451824279ee3d7490f7194d69"}
+  {:article/id "law/t5-5368/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Lisansın iptali",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c1dc84ffe3d2d8166bb31d43ceae8dddbb31ba3219151eca8f89161ded0655e8"}
+  {:article/id "law/t5-5368/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Cezai hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "cbd80678a2d7916f11dd724300b86ce4616bf78358490af00ff9784ba0e28aa4"}
+  {:article/id "law/t5-5368/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "68ece3138c7045bb249ac61e808ecf39002127ad3a3148f83f3f3ae9f20ba51d"}
+  {:article/id "law/t5-5368/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "01a7233979aec4c5467332bf412cc07989d5ded53e3d396449c3b0bb5b83de5e"}
+  {:article/id "law/t5-5368/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "ab0b7660752f83d2ca2caab89d2ba657e675fa77a06767c3960cd05c7a9a6176"}
+  {:article/id "law/t5-5368/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "94262c1d8891403f22402c10aebbf381ce9f00ff61c2860f70105c15673329b0"}
+  {:article/id "law/t5-5368/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürütme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a00d68d78e60c0cdd26483f9a68528051299a761f0c8c5760256b432ed69a7d4"}]}

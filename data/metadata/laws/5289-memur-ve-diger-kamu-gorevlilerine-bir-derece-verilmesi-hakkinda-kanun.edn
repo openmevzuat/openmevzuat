@@ -1,0 +1,41 @@
+{:document/id "law/5289",
+ :document/type :law,
+ :document/number "5289",
+ :document/title
+ "MEMUR VE DİĞER KAMU GÖREVLİLERİNE BİR DERECE VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "5289-memur-ve-diger-kamu-gorevlilerine-bir-derece-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5289-memur-ve-diger-kamu-gorevlilerine-bir-derece-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "15625ee2fd739e50a6ce9add8cc2e1d83e0d89d9835518957eec5098b165eaf3",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5289.pdf",
+ :source/fetched-at #inst "2026-07-16T02:37:58.601-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5289/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 44",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3d5beb8a6fab7adb613a4e6877cf3230817d8b2507c3844c1981ac6b5b7a0689"}
+  {:article/id "law/5289/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "59d47b52ea205aa504fc48fa71c1a1e849104451080dee5dd2d7e5aeccaf98d9"}
+  {:article/id "law/5289/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

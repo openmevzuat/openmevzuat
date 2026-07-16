@@ -1,0 +1,62 @@
+{:document/id "law/5569",
+ :document/type :law,
+ :document/number "5569",
+ :document/title
+ "KÜÇÜK VE ORTA BÜYÜKLÜKTEKİ İŞLETMELERİN MALİ SEKTÖRE OLAN BORÇLARININ YENİDEN YAPILANDIRILMASI HAKKINDA KANUN",
+ :document/slug
+ "5569-kucuk-ve-orta-buyuklukteki-isletmelerin-mali-sektore-olan-borclarinin-yeniden-yapilandirilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5569-kucuk-ve-orta-buyuklukteki-isletmelerin-mali-sektore-olan-borclarinin-yeniden-yapilandirilmasi-hakkinda-kanun",
+ :document/sha256
+ "816f6c0606cdeed1cf0c107ae5a3ceaa57f8ec62ada96a71f9c2b0abb548115e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5569.pdf",
+ :source/fetched-at #inst "2026-07-16T02:40:59.754-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5569/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7d2b4ef4cc3da090808569ac70fe43f7734884c8fad876b06506e8aaaabd479a"}
+  {:article/id "law/5569/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c0b1513b523a8340ce57ef44b377c026528a820d2bd590126e80c9f6189b58a1"}
+  {:article/id "law/5569/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Finansal yeniden yapılandırma çerçeve anlaşmaları",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "24868c811ec881c2d2bfb2a66a9728c7c64d1245b83b7ec62c303ca5b3c59cf2"}
+  {:article/id "law/5569/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Vergi istisnaları ve teşvik belgeleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c066dd1013c276d582ea9f4f9e3bf14ec48b976eca5fa6d4cd1c171b51f40e7c"}
+  {:article/id "law/5569/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9548281606e58c9990316e084642132e12e4cd1090988965bfd12eefec7a8373"}
+  {:article/id "law/5569/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f679ba54a2d7d493b83ea4d4f7619eb5b267e1713e6206201f249d4291516470"}]}

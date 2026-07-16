@@ -1,0 +1,328 @@
+{:document/id "law/5300",
+ :document/type :law,
+ :document/number "5300",
+ :document/title "TARIM ÜRÜNLERİ LİSANSLI DEPOCULUK KANUNU",
+ :document/slug "5300-tarim-urunleri-lisansli-depoculuk-kanunu",
+ :document/path
+ "data/canonical/laws/5300-tarim-urunleri-lisansli-depoculuk-kanunu",
+ :document/sha256
+ "146643703209c8bcfbc7fbb02923243187670ab30cfb92b18f869c716b95dbeb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5300.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:00.821-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5300/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "be43697f85c1219b0c1717c9e50524eea517c12f8bdd10adef7e02f8de1e7a98"}
+  {:article/id "law/5300/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8b410d92589a528c0fabbd2fadcfcded85dcd8a4ce4b4706617c2c5fe25daf33"}
+  {:article/id "law/5300/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1592f843ac62008a9d62e9bf367681a40a6a452c8d2103b30804730e603cef7a"}
+  {:article/id "law/5300/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "14577ae4fa7c2bdc906a7fe7a95acdf9588f2e42591ff7daecdd8e25906b35c5"}
+  {:article/id "law/5300/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Lisanslı depo teminatı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a1bbdcffacefa40eac41519c9b76cda97793b60a1939468771a45090415a24df"}
+  {:article/id "law/5300/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Sigorta",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0f3162cac2419b790f91a9fde23163c9b0309392cf4203e92c3ce1afea0570dc"}
+  {:article/id "law/5300/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Lisanslı depo işleticisi olması yasaklananlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "23b939546bbc805e0131d269c390cb7cb3011b5e7091c929ab75c77af0bff536"}
+  {:article/id "law/5300/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8b8ebb9785ef707a0cb35a36740e2232ca28b3d85e9d536392c9b693250be954"}
+  {:article/id "law/5300/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Lisans talebinin reddi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "cb24d64694f154cde516b1c49d57da3270fe9cb0c95fca65b9b947c4d5665b0e"}
+  {:article/id "law/5300/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Lisansın geri verilmesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "6371ff8abcc14e696c133b7241ed6d457aa54624195a84d1521e28b778e8090e"}
+  {:article/id "law/5300/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Lisans belgesinin zayi olması",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "dd58c702f891e1d8483dbe7622b6aceac76d22a8f877c771352e8031a8a6e2a7"}
+  {:article/id "law/5300/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yetkili sınıflandırıcı lisansı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "73062097a83cd1f9b6f15288ee8a00edcca9c06924cf1e6b1ff4701d13b6423e"}
+  {:article/id "law/5300/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Lisansın geçerlilik süresi ve uzatılması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "2d1a2543fb48a8e7469f4a33d69d8602444a5bfd87d9bcca293fba3e4114b010"}
+  {:article/id "law/5300/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "04039309675e4fbc74411c9f0b42b668f479fcd981baf4b627d84407eb4d4ae5"}
+  {:article/id "law/5300/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "7f7fd1d35b092f3ba089314df91b176eef492612f565224dc8b64bfdb32498e3"}
+  {:article/id "law/5300/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Ürün senetlerini imzalamaya yetkili kişi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e6882b120f3a48394b9e34e69e60c0a7e5d465f16b9585e008c6f40984f69647"}
+  {:article/id "law/5300/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Ürün senetlerinin kaybolması, zarar görmesi ve haczi",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "456ff479d3ccab85e9533dd69404509363ddc0e4adbeaa701d4ed393eb4cb30a"}
+  {:article/id "law/5300/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "fedd6abfbdbc835efb90df4a6e0f2d5d0e3c34c30ab400c7c10480ab343de920"}
+  {:article/id "law/5300/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Lisanslı depo ücret tarifesi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "00b2b7f2cc600256517361f784cb1a00280ba43241df3af0b27be09d473b3bfe"}
+  {:article/id "law/5300/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Ürünlerin karıştırılması, prim ve indirim tarifesi",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "9f7d5aacea44356b95a2f00407d5ee6001119e812a2e6a9556577509de1094c5"}
+  {:article/id "law/5300/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Teslim yükümlülüğü, yeri, zamanı ve hapis hakkı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "c5d3397b0196ac28163f7e9870db4a31fbe8c8dd89200f0745955cb91cbaf42c"}
+  {:article/id "law/5300/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Borsa ile sözleşme yükümlülüğü",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "b83051768c0bbdf21165affe13a0055b4055ea272ab7d880333c2f40cdbb4414"}
+  {:article/id "law/5300/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Kayıtlar ve defterler",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "86de81b70d0c68788e19ff003e52767779a1d3f8728c3861c654cc49dc5dca81"}
+  {:article/id "law/5300/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "49cbc019d95eef8e13028db8346020e09440e56edbdad1154d546617715061d9"}
+  {:article/id "law/5300/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Zarar görenlerin müracaat hakkı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "e7810e976139146067c7c2c68ef5fbc926599276db8c4d8655dcf3b82fcac497"}
+  {:article/id "law/5300/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "99325cbbb0c08b2fd02fe904ff7c058a9d9fcefcf52e44e90aad7b63a418ef42"}
+  {:article/id "law/5300/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Bakanlığın idarî tedbir ve tasarrufları",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "85461d07242683e98fec37cafc86a14fc834d908a742dd958b44c7e50676b142"}
+  {:article/id "law/5300/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "76da20e3919c80d65d6f8e8fac13cca9e32b259aada6d53b0a6ac99c4ab972d8"}
+  {:article/id "law/5300/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Denetim",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "94ebd9d9a18f280082a626987f91eaa05abc768128634f6bafeaf8e215b317fd"}
+  {:article/id "law/5300/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Denetim kurulu üyesi atanması",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "0a2e2d6818c06ca48224707eafa13d56beb1a82f9f1cf49c8cf6876067cd7459"}
+  {:article/id "law/5300/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title
+   "Bakanlıklar arası işbirliği ve kuruluşların yardım zorunluluğu",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "bdb58eefe246a472d576fc9b3bbe997025435798d20acb458030e2b2e4c84202"}
+  {:article/id "law/5300/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "ce68db630481e356409047f5310d279eaa4c9ae863f8906024fe3704671b6624"}
+  {:article/id "law/5300/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yasak faaliyetler",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "288b9f66559823bcd82216bd260edf80b504dcc0efadf6880803f4b60a1159a1"}
+  {:article/id "law/5300/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Hukukî ve cezaî sorumluluk",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "f903352b10ff6c1e100b270167f658da403ae5a41ec3391bb6dc0668e8ff6fa4"}
+  {:article/id "law/5300/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "9bfcccce5443732062760b4e6458e6af70400ce7642a53bbff981dc3c8a38705"}
+  {:article/id "law/5300/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Tarım ürünlerinin sınıflandırılması",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "a52172ed0bd905119c1a4b667a82a632971204abd36b9e11f0da057b7f3e0348"}
+  {:article/id "law/5300/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Ayrı depolama, ambalajlı ürünler",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "13e4ab08014ace9c65115399307b8411fe72ce2f2e3649e1058d760551b0e08d"}
+  {:article/id "law/5300/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "b8d763a7ee6972aff5325d98919778487a0b94f2e7cabadf3691b65aee07037a"}
+  {:article/id "law/5300/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Uygulanacak hükümler",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "72da255658ed5c6bdf1b826c7c8a01177866b26091736ff663dd2abfb6edaf82"}
+  {:article/id "law/5300/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7df1076c8aa3d4493698654a38dff6d40e5391fd0493f041563b76f7372ec891"}
+  {:article/id "law/5300/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "8021d0dce69ded656669d6363aca3b79191f7ebed65ab05240b0ec4dcac5eefe"}
+  {:article/id "law/5300/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "11dc6aa0bb25e450e1b883c76539420d6306b2fdba9e648f4df6391e5c5333f1"}
+  {:article/id "law/5300/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "eb475d2378879090e27a6759aa18b72ef6869368aaf7fccf974d9164807ff9c6"}
+  {:article/id "law/5300/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "77ad5ac44444e76ecec41fcc7586bf0313b4f665b0ae71e7181378197b31e5d3"}]}

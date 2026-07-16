@@ -1,0 +1,91 @@
+{:document/id "law/5366",
+ :document/type :law,
+ :document/number "5366",
+ :document/title
+ "YIPRANAN TARİHİ VE KÜLTÜREL TAŞINMAZ VARLIKLARIN YENİLENEREK KORUNMASI VE YAŞATILARAK KULLANILMASI HAKKINDA KANUN",
+ :document/slug
+ "5366-yipranan-tarihi-ve-kulturel-tasinmaz-varliklarin-yenilenerek-korunmasi-ve-yasatilarak-kullanilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5366-yipranan-tarihi-ve-kulturel-tasinmaz-varliklarin-yenilenerek-korunmasi-ve-yasatilarak-kullanilmasi-hakkinda-kanun",
+ :document/sha256
+ "830d4bcd0c9652982d89406e31fe8fef4eb6cf16196f42c75f05bfbd62cca67e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5366.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:53.478-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5366/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "773ba50ccd9d0c626472c461b438af0d570faa36583fcd1d7f2bb8f61c5cf9e2"}
+  {:article/id "law/5366/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Alanların belirlenmesi1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d0700a2bc8444ec2604dd2f0de61cdf2501235fbfa5ff9c49984b0cd05ef1143"}
+  {:article/id "law/5366/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Uygulama",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f0bac15cf3ad1d72d7b90491428e9f38dfdcc8ea494eefb0f6afe4efe27b930d"}
+  {:article/id "law/5366/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Taşınmaz tasarruflarının kısıtlanması ve kamulaştırma",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ad56d6a6f8d0008297cd154ab8d0fdbf1ab327ec4091b2d0e5f63cf857584989"}
+  {:article/id "law/5366/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sınırlı ayni hak tesisi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "ae909d41ca3c737f248103a239a2acbd50f5bb26965659bddd766062af2c961b"}
+  {:article/id "law/5366/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1d425f98c1f1db1bad3a8043a31a7e5b47d7ec5511e898ecfa513fe243828c7c"}
+  {:article/id "law/5366/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c563c0bcac6bcb5ffbcba0f804cdd2cc44e1291142b9810828f0f2bfa0832007"}
+  {:article/id "law/5366/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "02ce681b018ac3e8188a4b0c1a056eeb90c4119ef50afd5193b6d7d1661dea03"}
+  {:article/id "law/5366/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c98e2ce7bb371959acf543aa5cdf0cad70a04425b113e212b0047281930b20f2"}
+  {:article/id "law/5366/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d15676e6c933647d1a2a23ac381b9322a0be195ccf34dd4bdd306b68f114df7a"}]}

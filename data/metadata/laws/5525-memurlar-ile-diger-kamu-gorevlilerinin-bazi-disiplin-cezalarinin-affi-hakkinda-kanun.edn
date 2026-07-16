@@ -1,0 +1,62 @@
+{:document/id "law/5525",
+ :document/type :law,
+ :document/number "5525",
+ :document/title
+ "MEMURLAR İLE DİĞER KAMU GÖREVLİLERİNİN BAZI DİSİPLİN CEZALARININ AFFI HAKKINDA KANUN",
+ :document/slug
+ "5525-memurlar-ile-diger-kamu-gorevlilerinin-bazi-disiplin-cezalarinin-affi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5525-memurlar-ile-diger-kamu-gorevlilerinin-bazi-disiplin-cezalarinin-affi-hakkinda-kanun",
+ :document/sha256
+ "07cd0323f5a2dd9c9cf8b2ce23d247b0b574d74f0a4507a2bd509b596f9f1037",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5525.pdf",
+ :source/fetched-at #inst "2026-07-16T02:40:35.980-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5525/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Disiplin affının kapsamı",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "280ed50d94fb688d42cef1d83ffe3c27b83d457d0d386438280614452876aa51"}
+  {:article/id "law/5525/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Disiplin cezalarına karşı açılan davalar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "cdb640da6542db8093fac4ef892b57f4b57abf49535baa46b935c9710a2bcdff"}
+  {:article/id "law/5525/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Af kapsamı dışında kalan personel",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3cb397f20ac88b0e5db8590ab3bdb7f4f3c0ff6de80c941a95698893f43497d4"}
+  {:article/id "law/5525/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "70327a4ff278635911ed2529cef05dfbe6d23b56a189b7713971aaef06c0f798"}
+  {:article/id "law/5525/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "01c521cffcc8eddd2a567eadbd3695b707c85ca5a6e0208278aeb9b39ef1eb28"}
+  {:article/id "law/5525/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8b7c9b340784d05601fc3dd745e3802278b7232e7ccf82500e0550968f9ccef3"}]}

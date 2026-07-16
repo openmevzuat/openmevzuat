@@ -1,0 +1,46 @@
+{:document/id "law/5604",
+ :document/type :law,
+ :document/number "5604",
+ :document/title "MALİ TATİL İHDAS EDİLMESİ HAKKINDA KANUN",
+ :document/slug "5604-mali-tatil-ihdas-edilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5604-mali-tatil-ihdas-edilmesi-hakkinda-kanun",
+ :document/sha256
+ "438c207d31ca480869a415facf937b8c1b2b9136e07a536776de474a865f12e4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5604.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:14.552-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5604/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 46",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f0211efc7ce1c9cc696a7a1fb2ddc20ead90c76de47c4b3b90b7338863600cb6"}
+  {:article/id "law/5604/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "953628b8c3f4b16f19229e5458e5b7bb93d1906e08d6ab555833d6a12023cb60"}
+  {:article/id "law/5604/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "a519aa7e79c375a5392606c2c7fbcda3245a2dfbbfdd73ddd2d8946faec776ab"}
+  {:article/id "law/5604/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e57081a974a56f07f22d517f954c0b6a00549129512030a9bfe0cbc1de7b9194"}]}

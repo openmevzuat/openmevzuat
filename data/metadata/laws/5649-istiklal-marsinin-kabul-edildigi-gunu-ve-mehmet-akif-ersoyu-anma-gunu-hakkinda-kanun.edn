@@ -1,0 +1,55 @@
+{:document/id "law/5649",
+ :document/type :law,
+ :document/number "5649",
+ :document/title
+ "İSTİKLAL MARŞININ KABUL EDİLDİĞİ GÜNÜ VE MEHMET AKİF ERSOY'U ANMA GÜNÜ HAKKINDA KANUN",
+ :document/slug
+ "5649-istiklal-marsinin-kabul-edildigi-gunu-ve-mehmet-akif-ersoyu-anma-gunu-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5649-istiklal-marsinin-kabul-edildigi-gunu-ve-mehmet-akif-ersoyu-anma-gunu-hakkinda-kanun",
+ :document/sha256
+ "15536b9ee6890f9cfbcbc9f547d2c999160a2e2c0aba1f727f4fef1f1a5a754a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5649.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:37.000-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5649/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 46",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "48607fd806b65397de1a78deeb3c582d0af19ae94bc761d8b8fd64d008ee2b25"}
+  {:article/id "law/5649/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d239e75284af7692b104a505858d01b12a6ea8fa71abfb7a88d468a7ddba5198"}
+  {:article/id "law/5649/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "eec9eaf931b57ca8febd4a50f68fcedec1e04b05a86999afb5aff7418189aa51"}
+  {:article/id "law/5649/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "a519aa7e79c375a5392606c2c7fbcda3245a2dfbbfdd73ddd2d8946faec776ab"}
+  {:article/id "law/5649/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6a13ccac7e9a6ca83dd7ed28ea3118535aaad2ffd7fcf2aa928b0a19b81aeb32"}]}

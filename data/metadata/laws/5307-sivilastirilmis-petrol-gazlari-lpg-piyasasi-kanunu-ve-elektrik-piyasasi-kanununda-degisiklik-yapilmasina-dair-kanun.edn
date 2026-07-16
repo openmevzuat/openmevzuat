@@ -1,0 +1,232 @@
+{:document/id "law/5307",
+ :document/type :law,
+ :document/number "5307",
+ :document/title
+ "SIVILAŞTIRILMIŞ PETROL GAZLARI (LPG) PİYASASI KANUNU VE ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "5307-sivilastirilmis-petrol-gazlari-lpg-piyasasi-kanunu-ve-elektrik-piyasasi-kanununda-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/5307-sivilastirilmis-petrol-gazlari-lpg-piyasasi-kanunu-ve-elektrik-piyasasi-kanununda-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "6e1535d2457b8944c4d10f0065bfd6ee573cbdd7381079ae8f773de515e1c8c2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5307.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:07.973-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5307/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b56101c1e477d0d1c58c7c8e5410cee93c930edffd8b23280ac33b8de8b5901f"}
+  {:article/id "law/5307/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "647dd008ecefb769c3872fab25966c6bc7c4b69701e9ca492ae1159166f8d00c"}
+  {:article/id "law/5307/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "24157a5f2d8b83a02860e0185bfc09300915456385d2c209d67c2fba2b555a7b"}
+  {:article/id "law/5307/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Lisans sahiplerinin hak ve yükümlülükleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8e3aa8d66354212702c813074fef0195f2f6ce08ad44f799b8da9fb0aaa3287f"}
+  {:article/id "law/5307/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "66449e859ea2114189e03ca53b569e64b5125a6d6ee5cc20320e0c9d7380473b"}
+  {:article/id "law/5307/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Taşıma, depolama, dolum, tüp imalatı, tüp muayene, tamir ve bakımı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "dad626be6406e6497bea529fefa5aaae5ec661ac5732571dc54d3a81fba88e41"}
+  {:article/id "law/5307/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Otogaz bayileri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "52c52b50611e14bc7c37cbc6143443997e4d355f3b52ce6947b049077fe19aea"}
+  {:article/id "law/5307/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7513c35fd579cc07c33490e880601436f016b2874547a21edaa01fc04551b6e1"}
+  {:article/id "law/5307/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Dökme LPG kullanıcıları",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "02c749aabe40b31c57ef5a11fe96a0903f7cbb868db41d3d093272ec6c0d5783"}
+  {:article/id "law/5307/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5274235b1a0a0c33205042eaffb8d8cf346ef6276f7ec02d2ced9ca86e175f4e"}
+  {:article/id "law/5307/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "4644b32bb35d8e37047d6279d2fb23e568d61ceb8ad36d4a653a4bdf0fc1a1df"}
+  {:article/id "law/5307/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Bilgilerin toplanması, kayıt düzeni, denetim ve tebligat",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6217aa13962094d88b92ecc8f2aaa3154d75e9601c6e94f097414b655a3baaea"}
+  {:article/id "law/5307/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Sigorta",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "7c496c41e3d417bc0e1d1c8dcfef18e6358cf702c16c6635d6929798911f9e8d"}
+  {:article/id "law/5307/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "8a73d9380e8e4a0de66b06d70a8a85ca0797e5a0535985ff64ac5768037bb758"}
+  {:article/id "law/5307/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Eğitim",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "ec64d2407f5c4a9f6419e690a477a9b45ba46498fa90c5d4ee7c9b4aae10a1ce"}
+  {:article/id "law/5307/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e60f058d6f99115a5d9a4a0f6a6f69625963a2e7de335578b2bebd7bb5bbe80e"}
+  {:article/id "law/5307/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "İdari Yaptırımlar",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "3af9ac9f70cdf1aeffb887be46c7da38b2afc6ccf06aefda6786aec3873ccd17"}
+  {:article/id "law/5307/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Ön araştırma, soruşturma ve dava hakkı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "77fcff4805f197189a2514efdd5aa0b089413ebd80309de10afae4c8f88edfa5"}
+  {:article/id "law/5307/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "99518f4f15ee3dae2039da6bbdaa944ea78dd81ef3660110e5adbaadd084fb9a"}
+  {:article/id "law/5307/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "8e76e80613f7c44800d87f6ffef7170db88d315845a546a29f5055046a4a0b1f"}
+  {:article/id "law/5307/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "9e8a71a83d936e79a2bdc13e3d9de81013e4a995da6ebe711cf3bf20d76eefab"}
+  {:article/id "law/5307/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d83a21ef2f798b9728c4f06e13e93b743c28d74a2eebab8e8db1f6410827a386"}
+  {:article/id "law/5307/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "8a8a0a6984a9312e4d94cca6e474a4999e51115d0b6128f34235c15155475b29"}
+  {:article/id "law/5307/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "e4bd29f7844edc3a08cd10edd83551a92a67fbc52c5dc1327131d4317b485b0b"}
+  {:article/id "law/5307/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e94f28d741781a154acb6a3dbd57cff2297b3223d5b6c35821ea1119bbae36b5"}
+  {:article/id "law/5307/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "44bcbd76154abce043502658cb1936208f8441f735533d01007d3a966c949547"}
+  {:article/id "law/5307/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title "b) (Mülga: 14/3/2013-6446/30 md.)",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "7541c9e05ce3f0b07f4340ea1f101f1aeaff4259d1292f72b55812b6afcc151b"}
+  {:article/id "law/5307/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "166da0d291db726a2d94cb8781e52f70fa1c2e2c1cc0b72bc6fb5012e56fc118"}
+  {:article/id "law/5307/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "d4f6864521d098bd783b4833653751c22691ca5478dd9b1db5f5457d24def85b"}
+  {:article/id "law/5307/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürütme",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "e85069e7291bb6ffa20850ec363a188e50b596ae6560b06c6eccf0389f7327d5"}]}

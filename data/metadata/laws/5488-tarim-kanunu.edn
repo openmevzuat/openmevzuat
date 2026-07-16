@@ -1,0 +1,242 @@
+{:document/id "law/5488",
+ :document/type :law,
+ :document/number "5488",
+ :document/title "TARIM KANUNU",
+ :document/slug "5488-tarim-kanunu",
+ :document/path "data/canonical/laws/5488-tarim-kanunu",
+ :document/sha256
+ "6313ab33b954679b81cbb38242aa8957e782a7cb3aab3d3068b37efda32ac3a6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5488.pdf",
+ :source/fetched-at #inst "2026-07-16T02:40:08.662-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5488/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2364a803f6f828daf09dd0622c09d1119c451425253fa54ed392c414a54c46ac"}
+  {:article/id "law/5488/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "758afd814c06a713a9f29994dea2a714bddace5ffef1f212b39f47f8ac8b5d0f"}
+  {:article/id "law/5488/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d4dc17d1b4aed4df6465304136c964f34fc4f825c9e18878f3d88a732a893eb1"}
+  {:article/id "law/5488/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tarım politikalarının amaçları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7674940c4bd3b8c78f9e1d1d8591325651ffb21d0d8038e6e818c5faf41f1b46"}
+  {:article/id "law/5488/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Tarım politikalarının ilkeleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "ebd806172923c524b6e27c255818e7023ee99226056cfc41af6e5120daf0ee6d"}
+  {:article/id "law/5488/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Tarım politikalarının öncelikleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1444a17d2f6c94aec329cfd2ca35327d076ebe979b2c4181bc8c03bf3c8106cd"}
+  {:article/id "law/5488/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yetki",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "116ba5f28a34c365af6f781dc043a9129fd35813e20c66e6ffef3887eccc920e"}
+  {:article/id "law/5488/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Tarımsal araştırma",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a78e82721a7e6d2c614d03aa94493163aa0afbbd9c69b3a57c5bb60a1ac47016"}
+  {:article/id "law/5488/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Çiftçi eğitimi, yayım ve danışmanlık hizmetleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "31c0f4286ea5aedeb108e0df7199da275ba352906af4bdfd6b1b8f780d1f1224"}
+  {:article/id "law/5488/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Biyolojik çeşitlilik, genetik kaynakların korunması ve biyogüvenliğin sağlanması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3dd1358d63872bb4db9de595008cf0efd4330aaed5f06cac55ce8548fa36f14f"}
+  {:article/id "law/5488/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Ürün konseyleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "262850370cc4e0322b9ffc6ca5282c80250cc17212722be325ea51fcfee3b56f"}
+  {:article/id "law/5488/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Üretici örgütleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "2bcd6711878187f600e5e5a7938cc1e82717ee3b88eb2c643f89dd046ccc4d22"}
+  {:article/id "law/5488/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Sözleşmeli üretim",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "5df7d7165146d283c2437912100df736cded1f9145df2fb321040e618a004bfa"}
+  {:article/id "law/5488/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Tarım havzaları",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "70a8c44ef6eda0708dfdfe6a9b7394f326d9686f44d869fd0e9ab4950e092172"}
+  {:article/id "law/5488/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Kırsal kalkınma",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "87d11fe7bacb10a478dbe33734178afd75687e80881cd6b235d723138cd4be49"}
+  {:article/id "law/5488/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Tarımsal Destekleme ve Yönlendirme Kurulu",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "0e8bb412cada9aad3a5b757b0029ec4ca26a00ca2d9d6aba8c7da3844680f2fd"}
+  {:article/id "law/5488/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kurulun görevleri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "29b5d28a69dadb33f13e90e2a0ac99923f00807c292232ab5c4f13b766c14166"}
+  {:article/id "law/5488/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Tarımsal desteklemelerin amacı ve ilkeleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "968558de4bc98af118809ecc658d16bcb82046f630ca1c6c909f7a14eced3cfe"}
+  {:article/id "law/5488/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Tarımsal destekleme araçları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "b498be001c879428b0c8bab0a02122ff4f33665bcbeb6eeaae8388a14b58501a"}
+  {:article/id "law/5488/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Tarımsal desteklemelerin uygulama esasları",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "380635e212f950a32c2eaab427adc7ee8cf5cf5b66e12b97588da2b397fcbfeb"}
+  {:article/id "law/5488/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Tarımsal desteklemelerin finansmanı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "4c9185c8c426de9b1c34336a316a1c0b177c0b31d7bb7eeb4790987a0056f116"}
+  {:article/id "law/5488/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Salgın ve bulaşıcı hastalıklardan korunma",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "ce078d6bed0bf9ae85cd28c7b344fb3a061dbf741aa67f48cdae0edaa9e6aa76"}
+  {:article/id "law/5488/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "2cbc5f6273e799ed8be797e48b2df43339c8e812e2d35664a8a6bc7472757291"}
+  {:article/id "law/5488/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "cef9dfaf9f38b3e04964ff25608a4f515fa844107bec61915a2d5d5af08720af"}
+  {:article/id "law/5488/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "9087bd7d826b8ca5c2a465b7b36b7a7fe294c6d99d07eb499edbda7578c63440"}
+  {:article/id "law/5488/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Saklı hükümler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "42f37e65261a3e6e638f811330d278c58fb8abe47a146e44b4249cb5c8a2d2bd"}
+  {:article/id "law/5488/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Çiftçi kayıt sisteminin esas alınması",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "7f77885e8aa88a3168146a325b44617660ae035bbb2af6281c4bdf176ae927d3"}
+  {:article/id "law/5488/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "09ae12a91f19a0c1dce2c4c128bbbe1ccf83e828525a0e0d610d16f29733b398"}
+  {:article/id "law/5488/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "2df12f5c46583018fbe5964459c3eb12588997ee36ae701d975964f852a48970"}
+  {:article/id "law/5488/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "4b4bc2b732a9f3e3e9081c453a2defed0faa7e4ba4d95f2f539c4a41df7d792a"}
+  {:article/id "law/5488/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "39fa1c4565e6081587a7615b06c7f6384054429a9c2666d4f32f1594181b809b"}
+  {:article/id "law/5488/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürütme",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "0842381e8e93ac183d91fc7e8287af55630f53282082ee6e1a573ec44be8f5cb"}]}

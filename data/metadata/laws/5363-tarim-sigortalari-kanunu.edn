@@ -1,0 +1,164 @@
+{:document/id "law/5363",
+ :document/type :law,
+ :document/number "5363",
+ :document/title "TARIM SİGORTALARI KANUNU",
+ :document/slug "5363-tarim-sigortalari-kanunu",
+ :document/path "data/canonical/laws/5363-tarim-sigortalari-kanunu",
+ :document/sha256
+ "d12f0c3023e1917e7a4b830ec94bf33d70e911c18194600f05d52c5adca6f492",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5363.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:49.558-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5363/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e436009bf099d3c82293b6000d60844e0c2edc1bf3e1df414012c6c4afd39b32"}
+  {:article/id "law/5363/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ac4064e316d3f5ff56fb23299ce33f4fb10ed87867e48670d9d5188229dcd10d"}
+  {:article/id "law/5363/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5d1099638b2fbbe20bea18d8f7508b40349dc2068d4a1107b07c4580bffa3c94"}
+  {:article/id "law/5363/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a59c3a075bde0bf4afe4d8d4b18e36e8e1aec67d8ded9b288506ece6c0db4333"}
+  {:article/id "law/5363/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kurul",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6269e06891851274337019e07f519b62fcdf56eed1d634ae58afe2f2ab73f198"}
+  {:article/id "law/5363/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kurulun görev ve sorumlulukları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "bf608951f21f785a7e38255d2d68fe28e7a0dd5de53ef678332482aaa310bb6a"}
+  {:article/id "law/5363/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Havuzun kaynakları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "66ddab8972196035240aa2dfa8e24be2945d4854b90ed027d3d0e69567abaa8d"}
+  {:article/id "law/5363/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Havuzun kaynaklarının kullanım yerleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "1d555850e5678f00d337d8db3c87a62108ca92ffcab7c5cfc9f842c99978b5e0"}
+  {:article/id "law/5363/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Şirket",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1677c48ceb992d912b07d064b1c100ee25e7356e7eaa0293fa61ea5b534d260f"}
+  {:article/id "law/5363/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Bakanlığın görev ve yetkileri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d296707eb4911543db6b69cc49eb74bda23538c51160399add78a454ff1b4978"}
+  {:article/id "law/5363/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Denetim",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "75d7a594fb36b9e41be3c047a7d26cd83cdbd3828741421c89624fe3b2f2521d"}
+  {:article/id "law/5363/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "1d07a2fa670f839541f495ee80b0d24a5a157c76d4a147fe1351317fb67c167b"}
+  {:article/id "law/5363/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "0618519ae6e41e28c96df856fd41e5d850727ef78a086347d98e8e6e935e7653"}
+  {:article/id "law/5363/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Sigorta sözleşmeleri ve Havuza katılım",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "bc3010d28bca062adac407ee4560d2d8cd732b6e4031410ea204a8280186eb48"}
+  {:article/id "law/5363/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Reasürans",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "cb74b91d3a6152ccc076841c44ef6462d6d4bba2d014cee9997744098ee35ee2"}
+  {:article/id "law/5363/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Hasar fazlası desteği",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "d13ec4741e303390fa385ab117cc77c96383d250881e5dbfbb0bd06e8b134e6d"}
+  {:article/id "law/5363/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "0093cb9b2086baae25786e4152c334331ed57dc70e7372f42e3352a20837b358"}
+  {:article/id "law/5363/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "403e3cc178db98a0a35ec3c6d04d8afe843719f5864d4b8d1f9c9a0b5aa3f450"}
+  {:article/id "law/5363/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "151427a190486796636a73278588e9df11788dcd5768908730cf87c12ffb6772"}
+  {:article/id "law/5363/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "fe4f0c673651a15761925e6000ecad605dde158c30e12c4b30faa99911979007"}
+  {:article/id "law/5363/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "7f1c971c4bfb093009cd8151cf0c25bc94a51bb8a7d4d67fa1c0b480b6859f37"}]}

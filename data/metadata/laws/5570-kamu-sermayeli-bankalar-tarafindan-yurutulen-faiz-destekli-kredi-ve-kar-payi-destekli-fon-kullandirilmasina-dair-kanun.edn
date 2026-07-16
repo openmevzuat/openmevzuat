@@ -1,0 +1,41 @@
+{:document/id "law/5570",
+ :document/type :law,
+ :document/number "5570",
+ :document/title
+ "KAMU SERMAYELİ BANKALAR TARAFINDAN YÜRÜTÜLEN FAİZ DESTEKLİ KREDİ VE KAR PAYI DESTEKLİ FON KULLANDIRILMASINA DAİR KANUN",
+ :document/slug
+ "5570-kamu-sermayeli-bankalar-tarafindan-yurutulen-faiz-destekli-kredi-ve-kar-payi-destekli-fon-kullandirilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/5570-kamu-sermayeli-bankalar-tarafindan-yurutulen-faiz-destekli-kredi-ve-kar-payi-destekli-fon-kullandirilmasina-dair-kanun",
+ :document/sha256
+ "956a4439acd5aec7ef5c35dcd0987c0bd252affc369d3b00bf31f7efa3d467e0",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5570.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:02.203-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5570/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 46",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "a4f03f01e0d92fa23d321ed5663a9d0a6b9d1c030494a091068454b49bdc2683"}
+  {:article/id "law/5570/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c7bd09422f53de22a4a25a0a62d1f31b6f4b6a8e119e01f0e1e23e86ca9d12c4"}
+  {:article/id "law/5570/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "455f34136162b9f9103437fa85212d58c03fc769d18254f103e56adf96532576"}]}

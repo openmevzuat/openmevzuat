@@ -1,0 +1,95 @@
+{:document/id "law/t3-5368",
+ :document/type :law,
+ :document/number "5368",
+ :document/title "VEREM SAVAŞI HAKKINDA KANUN",
+ :document/slug "5368-verem-savasi-hakkinda-kanun",
+ :document/path "data/canonical/laws/5368-verem-savasi-hakkinda-kanun",
+ :document/sha256
+ "5251af14edf8cfb4303a555c5c6cf52eb5b748d7058649d7791c509ce377b7ef",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5368.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:55.711-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t3-5368/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 30 Sayfa: 921",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3ad9259796e2040b236e53308a8d8acf229e0b0d92f54272b0d12906959af5bf"}
+  {:article/id "law/t3-5368/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "18c11cbc14bbfdf928272f17461891722841f523faf0959538b1edf89bb4d020"}
+  {:article/id "law/t3-5368/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7cfd463933a76c8a57dd35c94c0a4c364ca10c80c45e046ca1c29645e4bc0296"}
+  {:article/id "law/t3-5368/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5e16e81acb4bff8730f03a4de6f960a21319ac3813563a8a787a28d1638c274c"}
+  {:article/id "law/t3-5368/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bed079d4f2f6a494166bab11df2c0c470cc8906f95d592f436979c1c862df52f"}
+  {:article/id "law/t3-5368/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "544cd6a958f55550122044f183580397f43fdabecb9252eea630b92785ac44fe"}
+  {:article/id "law/t3-5368/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "31b7a857bcc533d2253e896607e79b83f041a6330b00d0e8c6b9d5642dec6038"}
+  {:article/id "law/t3-5368/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "bf04d1e516d57191ba3ca1de32b315a17ce0eb19bbbac11fd61c9afd1a80682b"}
+  {:article/id "law/t3-5368/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "bb62767f1f411fa6955d0774b549877b7ae36b462b050e0d2ad9869ce4284dc5"}
+  {:article/id "law/t3-5368/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1b2164910ba96dc5e07f511b7d80ce07cdd94633dcb70d38beda9f3f7ac44aaa"}
+  {:article/id "law/t3-5368/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a904f81f72110943ed8b67e34f135fa81adffa2959af1fb581d9d4a02cc2e9e9"}]}

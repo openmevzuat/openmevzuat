@@ -1,0 +1,91 @@
+{:document/id "law/5401",
+ :document/type :law,
+ :document/number "5401",
+ :document/title
+ "ASKERİ ÖĞRENCİLERDEN BAŞARI GÖSTEREMİYENLER HAKKINDA KANUN",
+ :document/slug
+ "5401-askeri-ogrencilerden-basari-gosteremiyenler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5401-askeri-ogrencilerden-basari-gosteremiyenler-hakkinda-kanun",
+ :document/sha256
+ "a9af9a25470e072509eb36684e7e4c8bffc9008b40056b44c2894522e3a89f7c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5401.pdf",
+ :source/fetched-at #inst "2026-07-16T02:39:15.378-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5401/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 30 Sayfa: 1079",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "52f5566f02b6e8a5737e06f12d84427b26777ea56a307a823ed5b5daf30b4aa4"}
+  {:article/id "law/5401/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "50b4778b3764b1a51e8bc3d1653f3c789c4161fe25a16f30feb75234cf674919"}
+  {:article/id "law/5401/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f8c6e664bf6bbe6a41c22c60701842f7c27fc54619beeaa570b5494643b926cd"}
+  {:article/id "law/5401/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "04507f09970d7042b7a41140026a2d891db39c2f436a3b1907da0311b0598df7"}
+  {:article/id "law/5401/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "cdfd731b1ea719d8c958025e074052cd461e5a6d13e83c68ec93a6eed02448dd"}
+  {:article/id "law/5401/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "371394d02a5387213e3fe2aba6b16a9cfa3943d79062e07cde6cb2f560125f36"}
+  {:article/id "law/5401/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "afa9fa2f73c6bedb423de8c5528a9638cec49b0296a4618d5d3883cc69ba0855"}
+  {:article/id "law/5401/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "bee21ac7051fdf77a1fda19bbc265ac655bfd53c142918fed678ae96fa7ced7c"}
+  {:article/id "law/5401/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1b2164910ba96dc5e07f511b7d80ce07cdd94633dcb70d38beda9f3f7ac44aaa"}
+  {:article/id "law/5401/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "4226bc749ba0792316e68818f527e787bb09a954ae8260198df2ba013a639335"}]}

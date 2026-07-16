@@ -1,0 +1,93 @@
+{:document/id "law/5454",
+ :document/type :law,
+ :document/number "5454",
+ :document/title
+ "T.C. EMEKLİ SANDIĞI, SOSYAL SİGORTALAR KURUMU VE BAĞ-KURDAN AYLIK VEYA GELİR ALMAKTA OLANLARA EK ÖDEME YAPILMASI İLE SOSYAL SİGORTALAR KURUMU VE BAĞ-KURDAN AYLIK VEYA GELİR ALMAKTA OLANLARA ÖDENEN GELİR VE AYLIKLARDA 2006 YILINDA YAPILACAK ARTIŞLAR VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "5454-tc-emekli-sandigi-sosyal-sigortalar-kurumu-ve-bag-kurdan-aylik-veya-gelir-almakta-olanlara-ek-odeme-yapilmasi-ile-sosyal-sigortalar-kurumu-ve-bag-kurdan-aylik-vey-078cc34c6770",
+ :document/path
+ "data/canonical/laws/5454-tc-emekli-sandigi-sosyal-sigortalar-kurumu-ve-bag-kurdan-aylik-veya-gelir-almakta-olanlara-ek-odeme-yapilmasi-ile-sosyal-sigortalar-kurumu-ve-bag-kurdan-aylik-vey-078cc34c6770",
+ :document/sha256
+ "d6c9564be1c3d3d3ab6e9bb4cac706d6c4f37cf0d1b24c83f0c5db5abaf350d4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5454.pdf",
+ :source/fetched-at #inst "2026-07-16T02:39:59.729-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5454/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "T.C. Emekli Sandığı, Sosyal Sigortalar Kurumu ve Bağ-Kur tarafından;",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c434f3df61da72194d2577fe5dcb5b05bab7142b7584b11454ce96c6c1910415"}
+  {:article/id "law/5454/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6f28c97d056fd99c0b6f9c3467d79df336fcda4692d6f47cbb5dc3eaa0647b99"}
+  {:article/id "law/5454/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "eea3291521cfad279f96d0b366088eaae32824cc1d9922eb86715aadc9cc8d6d"}
+  {:article/id "law/5454/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0feac8af76f1f286dbd117b878277497429d0c388bd3263f6e4c23535ad00d3a"}
+  {:article/id "law/5454/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "68765a64917f76ea401db4210d5239b5c413d7584daf9ef3b1c55b8be4960108"}
+  {:article/id "law/5454/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "96a0a7db03995371040aa6163873d6927dad8bf8142f4a2d8eda2e10cdf4c29e"}
+  {:article/id "law/5454/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "a) 2/2/1984 tarihli ve 2978 sayılı Vergi İadesi Hakkında Kanun,",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "ace7a7c6c8016c33d93df0fe49f55ce11f6e7ad64656af315276df22a5d7e7a2"}
+  {:article/id "law/5454/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title
+   "Bu Kanunla yürürlükten kaldırılan 2978 sayılı Vergi İadesi",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "5efc0781ef1ada54f06a85dedc90ecd6909e3fb087810c107365382e9ac25471"}
+  {:article/id "law/5454/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Bu Kanunun;",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "beae36a95ce9b438317e8c35cabb0a133623b3e8096884c0143cafa30dcfbd4d"}
+  {:article/id "law/5454/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7992637a79d51089a2d5381daf0ccb7d61cd2e2db371b67f8a9e29cd14acff66"}]}

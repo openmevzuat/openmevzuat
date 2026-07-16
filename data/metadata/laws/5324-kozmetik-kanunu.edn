@@ -1,0 +1,94 @@
+{:document/id "law/5324",
+ :document/type :law,
+ :document/number "5324",
+ :document/title "KOZMETİK KANUNU",
+ :document/slug "5324-kozmetik-kanunu",
+ :document/path "data/canonical/laws/5324-kozmetik-kanunu",
+ :document/sha256
+ "c9bea271803d6e960eae5f1c7c54474acb3d1586f8c87d48c787e1c3d46a1ee5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5324.pdf",
+ :source/fetched-at #inst "2026-07-16T02:38:18.921-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5324/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2373fee318094381d29ab487f260d96043cacba4e0e2c91102829624e2bb84ef"}
+  {:article/id "law/5324/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ccef901d415f7559d45d3b0966828932f29c9ca3bc6d9cd2562348c67bd23b9b"}
+  {:article/id "law/5324/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Bildirim ve denetim",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "25a52da4b7c5cf8373532343ceb6852c4d067eb66d8a68fbe7b8f8485a76af64"}
+  {:article/id "law/5324/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Üretici ve yükümlülükleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "28950bf983fb75235041ff45c1ab0f860844da987faa2e84a99a0b7a9e6d822b"}
+  {:article/id "law/5324/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İdarî para cezaları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b06cd34c0abf62e8f9785048e4b175f78c8c0ac5d869deae44a4546e70857173"}
+  {:article/id "law/5324/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Diğer idarî müeyyideler ve tedbirler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d04eb1e9eebef099f61f7f88fdc43922157a453a30d1d9022b0c862706971722"}
+  {:article/id "law/5324/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "761858178fa8c025dfc4ba56ee3270a5faadcc165008f7a7b69433ae7952bce4"}
+  {:article/id "law/5324/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "08f4a3facbeb086e29221ee8243e62bff58e92f2fc755011c14edd9600ce929d"}
+  {:article/id "law/5324/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "627551ce861f3286f1544d7275c10342404ddecf83c8cc6e668fa84c4b2007bb"}
+  {:article/id "law/5324/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f6acb5bb40444cd0dd3e4e556e7e94b3d52f5bdf49b500ea21fd68d97538866a"}
+  {:article/id "law/5324/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9da70b57895deafc4a9c10bc580b911e381c274f5bc1c4b562cf7315384075dc"}]}

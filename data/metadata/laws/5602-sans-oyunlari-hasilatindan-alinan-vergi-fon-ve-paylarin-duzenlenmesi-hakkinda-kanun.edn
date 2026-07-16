@@ -1,0 +1,174 @@
+{:document/id "law/5602",
+ :document/type :law,
+ :document/number "5602",
+ :document/title
+ "ŞANS OYUNLARI HASILATINDAN ALINAN VERGİ, FON VE PAYLARIN DÜZENLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "5602-sans-oyunlari-hasilatindan-alinan-vergi-fon-ve-paylarin-duzenlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5602-sans-oyunlari-hasilatindan-alinan-vergi-fon-ve-paylarin-duzenlenmesi-hakkinda-kanun",
+ :document/sha256
+ "0c0dd221de8e0ed1876970a1b79abcd0745354e3dc6035aedc19e22db2447c6f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5602.pdf",
+ :source/fetched-at #inst "2026-07-16T02:41:11.407-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5602/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7a56c26a65e12fd6e3aac9d9b12c0cedc8cd43c54f1fb1de7f85643a734d84b6"}
+  {:article/id "law/5602/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "59ae5d23a9fe141a383040601cbacf5bcc64f2800e2016236baa7d4b230d3649"}
+  {:article/id "law/5602/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b06e63a973c26aa89b1f03e77be578e6783b0292ac7aeb466d3b7bdbfe037e25"}
+  {:article/id "law/5602/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İştirakçilere ödenebilecek ikramiye tutarı",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "97165401a5c504c75cea9fa0ea038dd8e013f9bfe343bd0156dc084b7225ed67"}
+  {:article/id "law/5602/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yatırım ve işletme giderlerine ilişkin sınırlama67",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "039ab1ebeab036dacc381b785fc259109102ec88adfaea99e7e295da5ccc3bd8"}
+  {:article/id "law/5602/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Şans oyunları vergisi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d635299c914410c84665401240edddff716ec6995b6e2eafdea463c7c0c604fd"}
+  {:article/id "law/5602/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kamu payının dağıtımı",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "4c96fc1962a28c66189da05fc5f814c902be4a3bcbda6fd5f480d18fb9821f47"}
+  {:article/id "law/5602/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Mutabakat işlemleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ac54bae7e05a69f240b392e41683532d3f05f7b91c693cdff7b9add1524b4ec0"}
+  {:article/id "law/5602/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "636347e2b4f6a074876d869a13854e4576d6fc79d4bbf8dc900a8814090ee7ab"}
+  {:article/id "law/5602/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "20fa64cc8ddb6ea6460b089eadc9849e85f3243f8a139a4fc0876c0edc8790a8"}
+  {:article/id "law/5602/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "107b7f541f57a80714c731a793e5308c4d9a046c9aa02dd28fa13daa2a49eb96"}
+  {:article/id "law/5602/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "ae3ebc47dcd4b6b1f2922f8ca6feb092fbf962f864a06da80281212f11f11a08"}
+  {:article/id "law/5602/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "e44835bc908dcbacbe584c15f7edd631edc8e16bbd4f4a6fbf8241bb751bd6a3"}
+  {:article/id "law/5602/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c454546b9201ce3a273ad97c748948baa9ad16be4eabcad1a4e54dc9879fbe06"}
+  {:article/id "law/5602/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "2d99af8db2c302f09ff301ad0e25219474f729cb062f38f505ce147cc83898e5"}
+  {:article/id "law/5602/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "4ff6544a07b2cec9b0b788c82f91a5c47e35a9719df6c2079e1a0a20e89a68ca"}
+  {:article/id "law/5602/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "2852412d7d48bc44a2c3bde7c073140da47991e1443ddb92668bd922678b05c8"}
+  {:article/id "law/5602/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "c464b49b4e56b98a502a06ef88dc24fc3b33d5bfc5c73a2bfa7e829e0c2f25ac"}
+  {:article/id "law/5602/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "3bb5e1896268b1f85f672de7fe5aaa23116b1d32e1a36792be19e97c6b27e0be"}
+  {:article/id "law/5602/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "fbee896acf17dd28f351b84dd9d25b6efc7c4ef1709e7247e75dd54ef217f5ac"}
+  {:article/id "law/5602/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "1e111095bf924771b37ce9e925aceeaf72c0fb9d9ad22067e6c3f614473079c3"}
+  {:article/id "law/5602/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürütme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "ceb37eac10d39360c5250d4826cbebcb79ed8db912aea0aa79ef911ac7152015"}]}

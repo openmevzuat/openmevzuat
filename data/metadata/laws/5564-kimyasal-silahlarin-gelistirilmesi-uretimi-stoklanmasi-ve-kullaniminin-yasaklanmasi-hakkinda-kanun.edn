@@ -1,0 +1,98 @@
+{:document/id "law/5564",
+ :document/type :law,
+ :document/number "5564",
+ :document/title
+ "KİMYASAL SİLAHLARIN GELİŞTİRİLMESİ, ÜRETİMİ, STOKLANMASI VE KULLANIMININ YASAKLANMASI HAKKINDA KANUN",
+ :document/slug
+ "5564-kimyasal-silahlarin-gelistirilmesi-uretimi-stoklanmasi-ve-kullaniminin-yasaklanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5564-kimyasal-silahlarin-gelistirilmesi-uretimi-stoklanmasi-ve-kullaniminin-yasaklanmasi-hakkinda-kanun",
+ :document/sha256
+ "1c91e9e4da5dec7c5cb2b6350a9f6380c9109df4837f8266092dbd652f531f54",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5564.pdf",
+ :source/fetched-at #inst "2026-07-16T02:40:57.239-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5564/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2af69376b13bd185ea2f6b91daf502716f1ac8858e28078706d02c81f06d983e"}
+  {:article/id "law/5564/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "285e2796f2ade2bc47558ab4d4f5bb21c3dedeadbb02f73cc949dce35e3eba75"}
+  {:article/id "law/5564/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Toksik kimyasal maddeler ve bunların prekürsörlerine ilişkin cetveller",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b07d26f3a597a21e1f086001d5ffa4b4a980e85fdc69e77594e2eee2756b7bf1"}
+  {:article/id "law/5564/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "47e7bf04b61fe889aa1f76d6be2ff37d73ef48e39053192a057290d7fb74b731"}
+  {:article/id "law/5564/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yasaklanan faaliyetler ve uygulanacak cezalar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "51979865734d887918f08e442112d9427ae37d890b0c42d2a367a40377991c38"}
+  {:article/id "law/5564/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Zehirli kimyasal maddelerin ihracatı ve ithalatı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c03249a425b16c87b04cc1afd6a668fe60c3ecc1ed1c61244e98116bb8d6fd1c"}
+  {:article/id "law/5564/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0d02c915bede97de5482b2d636c62d243be8c5eeba14593cd02308be2dd9890a"}
+  {:article/id "law/5564/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "dc3b0b478f088773d1fa39613c37f4ba6666b7533362121642a951b76b1f7875"}
+  {:article/id "law/5564/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "f17e71e195eccd7dc968b585e441c6ca00ef0a99b2f191be94d03e89dfc633c0"}
+  {:article/id "law/5564/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f6286aae4eb41a3b64b6b8a4d19b73d38609480143e2a460b63b2f00e202a25"}
+  {:article/id "law/5564/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "81f30873fc063e367c6b397bba99e2a6bcced13ac3ad6fbac1d725ae6cf7f2af"}]}
