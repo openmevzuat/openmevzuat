@@ -1,0 +1,298 @@
+{:document/id "law/4915",
+ :document/type :law,
+ :document/number "4915",
+ :document/title "Kara Avcılığı Kanunu",
+ :document/slug "4915-kara-avciligi-kanunu",
+ :document/path "data/canonical/laws/4915-kara-avciligi-kanunu",
+ :document/sha256
+ "8f53d54b0c0ed957885f661fa4ee9f5f6881213bc72ce5d3c15bb2ff65d46bd4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4915.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:27.756-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4915/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0330904913d8c1887d65301b927fb8a9db773362f3f3fe3ed3914d34445db0c7"}
+  {:article/id "law/4915/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e801f7a7106730abaa867568122ec6973e802ecdc4428603e1518846a96e6f41"}
+  {:article/id "law/4915/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9382c06383e0fbdc059cefbb298680cff3e3cd7f9b59bf0c7e2e56b83917a81c"}
+  {:article/id "law/4915/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5d0d9555def0f112938ca2a4a56c8cad1d1e103b73f5aceb0f01a3bef9890512"}
+  {:article/id "law/4915/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "fa6714245b3ba7b6f9fd715a65646806705ef86c3ae847625d88c713c4ed0a51"}
+  {:article/id "law/4915/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Avlanma esas ve usulleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1a6deb79892e43459e6f9f4481195989cb62cf5bd7273940161e1e50e391b52c"}
+  {:article/id "law/4915/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Av ve yaban hayatı yönetimi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "992eb556a12f1aab1dc2b864c32258ad28efcdb7c36b62f384017e2bd9ac5da3"}
+  {:article/id "law/4915/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "19dd0813b129154b1c2fc0aa2af2b99ea1f42c645a09a0f40d70c23038ce2d3b"}
+  {:article/id "law/4915/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ücret alınmayacak hâller",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "44aa0e9ef399fe1eee637f8f5ed2ef0f748164ec7d38394e677a890f8e0368de"}
+  {:article/id "law/4915/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b24f384c30b41f49fc4e5b8d02d8023c06d4db0626d7fdfbb7ea54a651c03776"}
+  {:article/id "law/4915/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "58bae232de2c4696d0f2f00834a1c2ad2922de04993e911ae51925df1106a354"}
+  {:article/id "law/4915/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "İzne tâbi, yasak ve serbest av sahaları11",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "9c64e69c2f79cd16eb675c3a7f370cc25152052b4349d4e6879d5a15e4b0b55e"}
+  {:article/id "law/4915/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d7c337086b0a7460272e02445adbfe4f008699219f5d821778c1ff34b6e936f7"}
+  {:article/id "law/4915/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Avlanma izni13",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "e26382f961cda729b0c4b9db54e067387d3b8ca7a319a98685ee30603725cc3e"}
+  {:article/id "law/4915/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "590f5f806c2a86ccbd0f7a67cabf4ffc2174ceb97f6494d66528d4ddd61eda03"}
+  {:article/id "law/4915/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yabancıların getirebilecekleri av teçhizatı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b98022d6fd22fb1a7b5daf802b77b073a5052c5298c52cb874b0668fb3e10c15"}
+  {:article/id "law/4915/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yabancıların götürebilecekleri av hayvanları",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "0bd189881ff1b9be90046e41c070d3a776d22ec560cd775a2c607d7099d251c5"}
+  {:article/id "law/4915/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "cd9040eb4422eb6ea421c3187b955f472e34044286f7e3c5e1d28e46725a883f"}
+  {:article/id "law/4915/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Üretim esasları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "c1884fa2c89c612ff17722441919b9b9379ac166d74ebd4d0bbc396e210f3357"}
+  {:article/id "law/4915/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "bffa5ddc05569ca41be4c9368499c86932b39b2d65bf6a7dbdc53b2fb75e33ac"}
+  {:article/id "law/4915/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "3001c747b041bd26fefcc90cc9bb21d0cd3b64f43595ff19708056a9c6bd6d26"}
+  {:article/id "law/4915/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Özel avlakların kuruluş amacı dışında işletilmesi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "6c75776d604e7b8ee6b47067f5317b8b1c7c6d543ef02518be3e971cda0453e7"}
+  {:article/id "law/4915/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "65e0544fed680952962b795ba9685fb4faa03d0a09bee9daf08f8b8530a283d9"}
+  {:article/id "law/4915/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "6ed3fe132b31fdd83fb2894f2aa6a61c2fce773eff3de14c088a283516639763"}
+  {:article/id "law/4915/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yabancılarla ilgili yasaklara uymama",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "d7490b84d2d6f3fdc0164e4a47954c70bd26676cd3386b61f6896b23c328768f"}
+  {:article/id "law/4915/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Av ve yaban hayvanı ticareti yasağına uymama",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "2517ecadef3681deb2137efbf7a339f66aba6bff731a6f5910356b4395b23a64"}
+  {:article/id "law/4915/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Cezaların güncelleştirilmesi",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "d1ac663bcbf801841b28f2152c4396a372916678e163d0180e94f089a677cbda"}
+  {:article/id "law/4915/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title
+   "Avdan men etme ve mülkiyetin kamuya geçirilmesi2526",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "67694ae90a54e8b7e48e7c5d08930f93234280de864dea7ed541cbbb26b12066"}
+  {:article/id "law/4915/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "783cb4cb51a959881bad35c7ff64e7d528b0d4757a61c60e420119bc67bbd9ba"}
+  {:article/id "law/4915/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "İdarî para cezalarına karar verme yetkisi29",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "140621ce477d56cd1deb4161182588f0c715d64082e3aac51266e7ad1d2ab4df"}
+  {:article/id "law/4915/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Davaların görülmesi",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "6d5d507694c19acccb72dd1ebec125d4f597d482502438cbdbf9c0d257dd5179"}
+  {:article/id "law/4915/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "9c7246469cec9c2bfa1a9081b3a928ec3dddc667a47c9b6c3cbca792f7e0d34e"}
+  {:article/id "law/4915/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "499bb2b9aad714b924a6791904158e3d8d5b541e7ff0d7f4e8a1dddc3c714c45"}
+  {:article/id "law/4915/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Kaldırılan ve değiştirilen hükümler",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "f390b1a0076d2c06674274506e86113a20a3b8f9200bd9c7f43158b2dbdddd87"}
+  {:article/id "law/4915/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1651b17b21d6c3142fe1e887fad5e81e8763623aa782037c85c06a88a0bb89a6"}
+  {:article/id "law/4915/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "012c11e2a91588c30adc2bf6e033a14a40c09dd83d14d0697dc94bfc262fafa9"}
+  {:article/id "law/4915/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "5162f83514796833b20455f6acf88a972c55c19a8cf6e612f9641ad0235ead09"}
+  {:article/id "law/4915/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "23aa0750eb366d83bcc2898dc872aebd27b95bcebf3e51e55e71de13468d1f08"}
+  {:article/id "law/4915/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "b64e53f66e1c9e5b9252d91b06b03d204a8da0aad95375ddc10ae60cd619d58f"}
+  {:article/id "law/4915/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Yürütme",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "1eff051d9c391539b6f06749ae98b3d065bc8160c74c4b06aa9bd805d4548f09"}]}

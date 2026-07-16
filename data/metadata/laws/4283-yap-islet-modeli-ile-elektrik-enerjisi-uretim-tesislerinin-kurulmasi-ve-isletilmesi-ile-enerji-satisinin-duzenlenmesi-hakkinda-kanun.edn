@@ -1,0 +1,91 @@
+{:document/id "law/4283",
+ :document/type :law,
+ :document/number "4283",
+ :document/title
+ "Yap-İşlet Modeli ile Elektrik Enerjisi Üretim Tesislerinin Kurulması ve İşletilmesi ile Enerji Satışının Düzenlenmesi Hakkında Kanun",
+ :document/slug
+ "4283-yap-islet-modeli-ile-elektrik-enerjisi-uretim-tesislerinin-kurulmasi-ve-isletilmesi-ile-enerji-satisinin-duzenlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4283-yap-islet-modeli-ile-elektrik-enerjisi-uretim-tesislerinin-kurulmasi-ve-isletilmesi-ile-enerji-satisinin-duzenlenmesi-hakkinda-kanun",
+ :document/sha256
+ "8168b990195c107f11ea89fbb18edf5efdb9b0b4c6f59466928fbcc0299fbbfb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4283.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:11.307-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4283/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5c4b09325f0c0a7901f57de26ae2467f499be755f3f2d7b17aa377f92093f536"}
+  {:article/id "law/4283/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c52cead2d8de42da0388aa6eeeaeaac04e1009c7d65935d1be32732da0eedba5"}
+  {:article/id "law/4283/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Üretim tesisi kurma ve işletme izni verilmesi ile enerji satışı esasları",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "162771cc97f9a31b98440917a6694687233e5138d3220d3481f9791b070c3f62"}
+  {:article/id "law/4283/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "cf551b02d1c13566db0283243b57addd5756c1b78d13a8ab031fa3447d1d31cf"}
+  {:article/id "law/4283/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "553c6ad99b06cff779ad7cf437aef6dc5ed05fee1de7cb69855398cb1cc84bcf"}
+  {:article/id "law/4283/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "55b70713431ff267a568b01f6d41af3177339c9518a0f9c5bbad2ab8a5bb4fe8"}
+  {:article/id "law/4283/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "923e58417f44fc5f56473c6f59f9f448c6c7da520ef7f866e35ff828d52c5176"}
+  {:article/id "law/4283/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "19fac5a64641ccc1a10517071d364871704f27555dceaa2d75ef4cb01d2bf8e8"}
+  {:article/id "law/4283/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/4283/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cb0ddae63108fb20618b4db51cf3d7849644cb16bd48d2571cb6c155e891ac31"}]}

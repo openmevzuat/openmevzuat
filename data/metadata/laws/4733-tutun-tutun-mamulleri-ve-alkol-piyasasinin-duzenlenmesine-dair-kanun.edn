@@ -1,0 +1,226 @@
+{:document/id "law/4733",
+ :document/type :law,
+ :document/number "4733",
+ :document/title
+ "Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun",
+ :document/slug
+ "4733-tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/4733-tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun",
+ :document/sha256
+ "928d3f603c38dc866f2e0c8d1c62c4e53f947ee0c60958950ea6a4ecf494d199",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4733.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:20.207-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4733/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç2",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c060df3654faad0f1db69421640db366541ad58982709bdc9fa04d5a26885a73"}
+  {:article/id "law/4733/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Tütün ve Alkol Piyasası Düzenleme Kurumu ve Kurulu3",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0231e31bc4a663c63f3781bac9c0d9e56ae15eb40a7581b4d847187f0785db60"}
+  {:article/id "law/4733/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kurulun çalışma esasları, görev ve yetkileri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "bd5b1f0391e57b9b2c79c31907a14c0ac7c1d2866f8afedc69f8c458b1af61f6"}
+  {:article/id "law/4733/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Kurum personelinin atanma usulü, statüsü ve özlük hakları4",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a54ca5394f23325becf0005bc315b828831b10ba85205a547f75a3c28ff86324"}
+  {:article/id "law/4733/article/4/A",
+   :article/type :normal,
+   :article/no "4/A",
+   :article/title "Kurumun hizmet birimleri",
+   :article/path "articles/madde-004-a.md",
+   :article/sha256
+   "cdb7d334ebaf5e12676221badf0d894cd530c59270e8b7a61d0b530baf74072a"}
+  {:article/id "law/4733/article/4/B",
+   :article/type :normal,
+   :article/no "4/B",
+   :article/title "Görevler",
+   :article/path "articles/madde-004-b.md",
+   :article/sha256
+   "d0a9d3ad767cad217b43f0c091241ea95b89cffbecec540f8f0d43a79cb96777"}
+  {:article/id "law/4733/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kurumun gelir ve giderleri ile denetimi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "cce94938faf993d1d7d7bb529a44b85768614e36893936c99e56d5223b170883"}
+  {:article/id "law/4733/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1bf97fd5fd04effe4a3b31a998211dbc7aed5f76416278977e80cf08d7d24fb1"}
+  {:article/id "law/4733/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Tarımsal destekleme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fcb0b290163e4f7a334bf7ed19f0990bf4da872ba4966cf15aabdb05e0f05a62"}
+  {:article/id "law/4733/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Cezai hükümler13",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ae81dfba4492546f0d690db7195da8f99b795d3540bf35d72dda1992da0eaf46"}
+  {:article/id "law/4733/article/8/A",
+   :article/type :normal,
+   :article/no "8/A",
+   :article/title "Teminat alınması",
+   :article/path "articles/madde-008-a.md",
+   :article/sha256
+   "33e516557b1469c012506412f76b86a9f72ea0dd7a008e744217d38afdeab3b2"}
+  {:article/id "law/4733/article/8/B",
+   :article/type :normal,
+   :article/no "8/B",
+   :article/title nil,
+   :article/path "articles/madde-008-b.md",
+   :article/sha256
+   "b6912664bc5e3f9a1d8533b807623bf530b84902b2c2efb96973357518199f51"}
+  {:article/id "law/4733/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ce4b882fd4d57ab041d3ae5c6b4e7dfc5a35c19343708767e2da71598fa29400"}
+  {:article/id "law/4733/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "A) 8.6.1984 tarihli ve 233 sayılı Kanun Hükmünde Kararnamenin ekindeki",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c1d0d7aa92383edb56aaad6bbd479e078aa11b22d28a74cb15a32012422f8b2a"}
+  {:article/id "law/4733/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "543315e83a3711105314e479f064f12057cdc18cc114259a4b4e4dc1f600fa06"}
+  {:article/id "law/4733/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "31b4a48d2222746f2fa3b47add8239f7cbe00fd257cb1f643a02a8e2636108fd"}
+  {:article/id "law/4733/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "2c29871ff23618c43e18c05ba79a5532910343d6088141dde9fb0a127e467f74"}
+  {:article/id "law/4733/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "daf2eff4a0a1ef882190563db72ec85a7af43974e0ab0c9b181f9810edac88a5"}
+  {:article/id "law/4733/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d2515d280593aa0ab6cdf06df6f85ab917a166f967e0a2149641b10186b35842"}
+  {:article/id "law/4733/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "fdb9fcf82a1f6f91ce7bb48cc6cb19728d5db557ae8f58f9ef1dfc75ec422264"}
+  {:article/id "law/4733/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "069fc731628fabf6715f1e3c4bc7decf65c61403823563ce88abb42fc34ebfc2"}
+  {:article/id "law/4733/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "3fb93c7aad370ceb4715dc27ee11db80998856eaea9788ea827dc25ce88e5ea4"}
+  {:article/id "law/4733/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "08839d24df9a191bf8378d76932a5824ac5f0d3774cd77f3666d5c74ecb01f11"}
+  {:article/id "law/4733/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "868d32cf84a5f246692694aff24b60340bea8253a067314b25b2eebffa98bf21"}
+  {:article/id "law/4733/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "ad94f88fc67b4787fbfc9c8db9415706e7a5bb209161d8fde3ff97ba824d59dd"}
+  {:article/id "law/4733/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "0752e3165663863edb5efaed9cdbced9c55945269efcfe3763c37d10b2e712bc"}
+  {:article/id "law/4733/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "257f7b3a7932c1702d722fa20b0866de2664b60a7e0a1ea1712d7e80cf369d4a"}
+  {:article/id "law/4733/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9c4256900f79ba8f8bebe87981574f1487dc46e6ce237392a05314696214bc07"}
+  {:article/id "law/4733/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7992637a79d51089a2d5381daf0ccb7d61cd2e2db371b67f8a9e29cd14acff66"}]}

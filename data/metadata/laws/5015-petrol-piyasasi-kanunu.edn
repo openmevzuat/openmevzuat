@@ -1,0 +1,285 @@
+{:document/id "law/5015",
+ :document/type :law,
+ :document/number "5015",
+ :document/title "Petrol Piyasası Kanunu",
+ :document/slug "5015-petrol-piyasasi-kanunu",
+ :document/path "data/canonical/laws/5015-petrol-piyasasi-kanunu",
+ :document/sha256
+ "b0ef3861c7b953cfc77004847b880e0e026a4149e970034c7b27e120e03cab1b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5015.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:30.461-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5015/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4639e5ada919a6100d459d5693dd30d1ba8d3bffb34a9cacccd015d4380c40a9"}
+  {:article/id "law/5015/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar ve kısaltmalar1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0cea83d1e8af0d1414c10502ea9983c2e8423180a017a13c62ae203ae3b5878b"}
+  {:article/id "law/5015/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1a4cbf7a0a4f5ea626c2bbe4cdfab7bc5d91ef0f022423bf1f1ca000865eecf7"}
+  {:article/id "law/5015/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Lisans sahiplerinin temel hak ve yükümlülükleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "aafb55513b91e359e204189384308d09357f386e1cd79b5bfaccf03020fa122a"}
+  {:article/id "law/5015/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b71dca0328ee2d388e52a336bacdf94ae93952555e49377706490b5dd0350625"}
+  {:article/id "law/5015/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "aec9378813c94ba9f431e7d3ab454868cbaa292e35a34a354854edd6601a39a7"}
+  {:article/id "law/5015/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Dağıtım",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2f621c94919992f89105f66cc292b19a2eb5c554e3a5e9b99ed4a684702056dd"}
+  {:article/id "law/5015/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Bayiler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "1f362e4ac410459f72367941ee10c0f0911f17dd2ed712093439a5b63bb8e38a"}
+  {:article/id "law/5015/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Faaliyetlerin kısıtlanması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "fcb60ceba05302b3afdfe1a127b4d766719e645c7a65c329aeda52404ae4831b"}
+  {:article/id "law/5015/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "21497783e4b1af06bc3287dbb33bb7b5b562a155fc4ceb5df6f1479aa44f9b26"}
+  {:article/id "law/5015/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "cf0a21a13833e9d1ac62a76ea2a91cc661a080816b984cae574084462085fc10"}
+  {:article/id "law/5015/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "İletim tesisleri ile lisanslı depolama tesislerine erişim",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "71b81e8c83a3f424ad39d773e57f8f58e851a4de1ad205eeec453b40f5bd51b6"}
+  {:article/id "law/5015/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Eşgüdüm",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "f54543f2751fa53e2eb86cc8ec407463cadb0039700fb6eb8c9bf021b5987c5e"}
+  {:article/id "law/5015/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "a1f59ec4c69ef806a53268b1c32817c7564002cc4a9261da745fbb9d2f4c5737"}
+  {:article/id "law/5015/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Sigorta",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "5bba876a2dd97679d50be3973abb8dccf503f18dd6dd32179115090d832301b1"}
+  {:article/id "law/5015/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "1654a16d257fd28ab646a82f9a7d09927c01d7b775e4d52ad62939c283158629"}
+  {:article/id "law/5015/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Serbest kullanıcı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "4ebbf1f3029ff789348ca702088d4789a7af5ca288a0b198952b8b0d9e236dc3"}
+  {:article/id "law/5015/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Ulusal marker",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "144affed3c74914fa7accc138e7b740d2fa94ff9ee139b9d6ff5530996b7a977"}
+  {:article/id "law/5015/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "8c8cbb5bf60d83d8423d2e0cb2627323626f6c78efa834b6a4698a4ad99ce4ac"}
+  {:article/id "law/5015/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "İdarî yaptırımlar",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "c4e3bd14eaf3809184fa0d078c8bc0f59c2cdb4ed0e086e362c85563448bfc93"}
+  {:article/id "law/5015/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Ön araştırma, soruşturma ve dava hakkı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "a2acfd93e8f4386575d882a2591fca968dbd07b38d942d6240e23b065a575137"}
+  {:article/id "law/5015/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "468c44bd6c799fc2da128fd07f525dc6489d09b6718976d50865631cc31af0f7"}
+  {:article/id "law/5015/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlükten kaldırılan ve uygulanmayacak hükümler",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "fcc60a077252133d5633e823fed09b5a067cc61481e5450db57047736f2e0f5d"}
+  {:article/id "law/5015/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "cf6709fdd47c3037ba1ccce032a0c04fd13b99bf186e6f290feb3da6dfb0e0ae"}
+  {:article/id "law/5015/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "a2427e9dc31d5a8a8e0c866f3effd6bfda127aad280acb320d753637cbcccc7d"}
+  {:article/id "law/5015/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Kaçak petrolün tespiti ve tasfiyesi",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "df74c9ee9db5015ae890c9143c8935d5e543a3fe17e8aaa3ee87e16a0165acb1"}
+  {:article/id "law/5015/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "İkramiyeler",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "5fad389d576ed247cc857236029f1d8d07d047f513e73906f6d2401807a8a728"}
+  {:article/id "law/5015/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Kaçak petrol ile ilgili ceza hükümleri",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "710e32b66caea2df8ce54bae450d160b2ac5a5cd2f2e498fd333680761c7207a"}
+  {:article/id "law/5015/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "54d3a6317e82e8aa91116f3e98c393d129cf52961ed20e666d9c1e7a04abb625"}
+  {:article/id "law/5015/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "49d2b17cc169fdac2e59037904fa61256fd402d8215dffb8dfa591162ac141ae"}
+  {:article/id "law/5015/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "c2720d8ce038055d2dea6afdbdbeb6ccd1af756b9e92093464e926e299080d93"}
+  {:article/id "law/5015/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title
+   "Yönetmeliklerin ve düzenlemelerin yürürlüğe konulması",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "a8d9c0bb0155db98cc5fcd8ac09884336c1e471854fcce69b7b50cb785cf003b"}
+  {:article/id "law/5015/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "b9a553cefeca85e3ecc0cbc93263c73723d8b8126a862622b9977d1cc09798a2"}
+  {:article/id "law/5015/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "08aced816df2b6064065fdd8ea4b2d430365965f2daa683aaac1dbba14d0d669"}
+  {:article/id "law/5015/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "1407aba6b49475504cb13cae7e4cba4660207a942da927171599a98fbe6e35ba"}
+  {:article/id "law/5015/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "a8adb1b1285e63cefdab8465356d3a7d0c14f53d009b9266c5b2c61af30851e6"}
+  {:article/id "law/5015/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "c0f06ea0d71b0877129984bbbc0b4f6c0fbeb264555d0cc87a98c1250056ffc4"}
+  {:article/id "law/5015/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Yürütme",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "e586565a8768f0117734fb376f6bfbb4a8dcb4ee7367cf8fd77b56d84cb87c0a"}]}

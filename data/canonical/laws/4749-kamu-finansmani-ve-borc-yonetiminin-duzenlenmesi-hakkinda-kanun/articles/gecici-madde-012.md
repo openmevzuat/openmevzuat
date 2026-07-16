@@ -1,0 +1,18 @@
+# GEÇİCİ MADDE 12
+
+(Ek: 26/12/2006-5568/3 md.)
+5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununun eki (II) sayılı Cetvelin (A)
+bölümünde bulunan kuruluşların yılı yatırım programında yer alan projelerinin finansmanı için
+1/1/2006 tarihinden önce imzalanan dış kredi anlaşmaları çerçevesinde sağlanan krediler, anılan
+kuruluşlara tahsisli olarak kullandırılmaya devam edilir. Bu maddeye istinaden kullandırılacak
+krediler ile ilgili olarak krediyi tahsis eden kuruluş hakkında, 14 üncü maddenin beşinci ve altıncı
+fıkralarının 5018 sayılı Kanunun eki (I) sayılı cetvelde yer alan kuruluşlara ilişkin hükümleri
+uygulanmaz.
+(Ek fıkra: 16/7/2008-5787/16 md.) 5018 sayılı Kanunun eki (II) sayılı cetvelin (A)
+bölümünde bulunan üniversitelere, 1/1/2006 tarihinden önce imzalanan dış kredi anlaşmaları
+çerçevesinde sağlanan ve ödemesi devam etmekte olan Hazine garantili dış borçlar, anılan
+kuruluşlara tahsisli olarak kullandırılır. Üniversitelerin 1/1/2006 tarihinden önce imzalanan Hazine
+garantili kredilerine ilişkin olarak Müsteşarlıkça yapılan üstlenimler ile ikrazen kullandırılan
+kredilerinden doğan Hazine alacaklarının ve anılan kuruluşların uzlaşma kapsamındaki Hazine
+alacaklarının, bu maddenin yürürlük tarihi itibarıyla ödenmeyen bakiye tutarını, Bakanın teklifi
+üzerine (…)68 terkinine Maliye Bakanı yetkilidir.

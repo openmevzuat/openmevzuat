@@ -1,0 +1,356 @@
+{:document/id "law/5403",
+ :document/type :law,
+ :document/number "5403",
+ :document/title "Toprak Koruma ve Arazi Kullanımı Kanunu",
+ :document/slug "5403-toprak-koruma-ve-arazi-kullanimi-kanunu",
+ :document/path
+ "data/canonical/laws/5403-toprak-koruma-ve-arazi-kullanimi-kanunu",
+ :document/sha256
+ "690c3d4282c9ee3f5ae2b28db884650d2af6f5b1072fee8fb396a20655ba80d5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5403.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:37.988-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5403/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dd8657f7653424cea9d14c01aa99ef6d08395d78f24b630931a3ccf5bbbdfd42"}
+  {:article/id "law/5403/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3935de94cd769b2b8c9fbd45ae245dea422b5e1ac95d24f49e52c752f572083d"}
+  {:article/id "law/5403/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "91bb541c5576a8c17072a8f1df22971e0378375f9962316a0b0eaac51f42ed77"}
+  {:article/id "law/5403/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "db7fe97a46757a29ed8f383c7c592477ab765ebf535786d47aa43acbfe027963"}
+  {:article/id "law/5403/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Toprak Koruma Kurulu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c10749ea583728c632cd7342249b3d35e84c49a7ad9cb8a500007890f1f07d13"}
+  {:article/id "law/5403/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kurulun görevleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e2f03d9e17ed7441f9ae1ca7331e62440abe1a0d872ae189421bec18c5401873"}
+  {:article/id "law/5403/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a533ad415f5b8a8350bdb09fce332d7b480fb709ca09536ab9a74091c738d16b"}
+  {:article/id "law/5403/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "76245b3a2fdc48d2f257674e22860a6ecaae8b14a3020abd15fea47df1311a6f"}
+  {:article/id "law/5403/article/8/A",
+   :article/type :normal,
+   :article/no "8/A",
+   :article/title "Yeter gelirli tarımsal arazi büyüklüğü2",
+   :article/path "articles/madde-008-a.md",
+   :article/sha256
+   "3b4395ddf026489500235b907166d6ad43e885798da0421d95036b7d2c8e2285"}
+  {:article/id "law/5403/article/8/B",
+   :article/type :normal,
+   :article/no "8/B",
+   :article/title nil,
+   :article/path "articles/madde-008-b.md",
+   :article/sha256
+   "7b266678db07116f7d22cf444c7e75e771ed43f10bdaa9b77550d940d6018eb4"}
+  {:article/id "law/5403/article/8/C",
+   :article/type :normal,
+   :article/no "8/C",
+   :article/title "Devrin yapılacağı mirasçı",
+   :article/path "articles/madde-008-c.md",
+   :article/sha256
+   "3beb2a957cb61b1581db026b5cab7759451be440542691c5ee5c916cb663453e"}
+  {:article/id "law/5403/article/8/D",
+   :article/type :normal,
+   :article/no "8/D",
+   :article/title "Diğer mirasçıların paylarının ödenmesi",
+   :article/path "articles/madde-008-d.md",
+   :article/sha256
+   "d6df354582c72095df2e773e7e4c874e38e3ff94330c2bc26923cf4155c5633c"}
+  {:article/id "law/5403/article/8/E",
+   :article/type :normal,
+   :article/no "8/E",
+   :article/title nil,
+   :article/path "articles/madde-008-e.md",
+   :article/sha256
+   "cf595d5a8fcc657e59f09424ee47693f3205c6efdd459676c3ea632d762d81ff"}
+  {:article/id "law/5403/article/8/F",
+   :article/type :normal,
+   :article/no "8/F",
+   :article/title "Ölüme bağlı tasarruf ile düzenleme",
+   :article/path "articles/madde-008-f.md",
+   :article/sha256
+   "db5c83014bb6039d3fad9baa7bcc6b38df3040e1a852f8dec8cfc8ae6203d511"}
+  {:article/id "law/5403/article/8/G",
+   :article/type :normal,
+   :article/no "8/G",
+   :article/title
+   "Yeter gelirli tarımsal arazi yönetiminin tedbiren verilmesi",
+   :article/path "articles/madde-008-g.md",
+   :article/sha256
+   "2d4720f55ed1fa52f07c61238295f43a22ea3fe4d496444817be5041b917bf1b"}
+  {:article/id "law/5403/article/8/H",
+   :article/type :normal,
+   :article/no "8/H",
+   :article/title "Yan sınai işletme",
+   :article/path "articles/madde-008-h.md",
+   :article/sha256
+   "c54f5d16acf022038b66c6045ee2141f7b84f48bfecf07c6fca6d902c7e90075"}
+  {:article/id "law/5403/article/8/I",
+   :article/type :normal,
+   :article/no "8/I",
+   :article/title "İstisnalar ve muafiyetler",
+   :article/path "articles/madde-008-i.md",
+   :article/sha256
+   "91d08efa86fd83adb4a0882a243c53c0bacbff5900bb48df9afd8c242c89a47f"}
+  {:article/id "law/5403/article/8/J",
+   :article/type :normal,
+   :article/no "8/J",
+   :article/title "Sona erme ve tasfiye",
+   :article/path "articles/madde-008-j.md",
+   :article/sha256
+   "7a38ad5cf08ee554919c06b16927a31f8265f06f16cfbb3cdcb210490c67af3c"}
+  {:article/id "law/5403/article/8/K",
+   :article/type :normal,
+   :article/no "8/K",
+   :article/title "Tarımsal arazi edindirme iş ve işlemleri",
+   :article/path "articles/madde-008-k.md",
+   :article/sha256
+   "c771f67d2aa798af668f06dee942717a201170df63736795ab1e0ca99993c0a4"}
+  {:article/id "law/5403/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6a2a5b58f83fc792a3aed8310b77f01958c7f440e702b949cb64476424f496e3"}
+  {:article/id "law/5403/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Arazi kullanım plânlarının yapılması",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5fca0672472e3bc1a6dd32b931650f357a96634f77a12408cfdf10ebe8b1cae6"}
+  {:article/id "law/5403/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Tarımsal amaçlı arazi kullanım plân ve projelerinin hazırlanması",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0e4e758612b720042e82777e50d0602effe3890ba9ad1c399434dbedaf30cf8f"}
+  {:article/id "law/5403/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Toprak koruma projelerinin hazırlanması",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "743e6ef9289a485a3ff11b60ea9f9754f5c3ffc01a69ab1feb470282a5272a7e"}
+  {:article/id "law/5403/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Tarım arazilerinin amaç dışı kullanımı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "26ce7826481dade2789ed6171815962906b77af857eb11d0e89841e0768471ac"}
+  {:article/id "law/5403/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "a0419611a524a99e42c27a081d0c3b8842a7435472d426e8603d2bcbef4683d2"}
+  {:article/id "law/5403/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "7b2982bc76d1faf9f5863542d3c1c9e38c079a63055c7f6524674c5ed9e0ac47"}
+  {:article/id "law/5403/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Toprak kirliliğinin izlenmesi ve önlenmesi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b7d6fbfb18ad53291b2a9b945bc538532e571ec2464141c4eec30be887a1fc64"}
+  {:article/id "law/5403/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Arazi toplulaştırması ve dağıtımı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c1e54949669e79f442af198d4fc310152cb17beead7cc6fcf4111821832d4679"}
+  {:article/id "law/5403/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7ed87445e540eb5ffe8a1d3ca8d36a2e428bfc88850b23874550320f87209f27"}
+  {:article/id "law/5403/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Denetim",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "83c9d5a3201cfd78b882dcd7a053d1c5cb205edaefdf67afd1a254c50f4d2980"}
+  {:article/id "law/5403/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "f45ae99b17cf23d2c81ee502681c6646b8dbe4cbc3284429e02728d04f53081e"}
+  {:article/id "law/5403/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1f804f0ba18484696367c8da11aab58688e7391b7cfd441033c568cf487b7a1f"}
+  {:article/id "law/5403/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "İdarî cezalara itiraz ve para cezalarının tahsili",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d69fdb2f7b67022c29342a75f07228ca8a93a5f1f791cec004d5088ac95d367d"}
+  {:article/id "law/5403/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Gelir ve giderler",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "910cddae60f34a9706b4b6cd22a75048522e4111b8272e575632efb7e400460e"}
+  {:article/id "law/5403/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "52d6a20c5c0140b3f7b806ea17318b2d1546ca0a4e8ade19d531a1bcdc78cbc2"}
+  {:article/id "law/5403/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "d637a9a8c2da0957bbdb8f6c1fea966d653d2004358d67e205f1f39649f7c576"}
+  {:article/id "law/5403/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "8dba868ce3cff059a5edcfe312e4f7d613995894a0a9db150a17ef67e2d32ef4"}
+  {:article/id "law/5403/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "cba898b80e96ddd9a8c68bd3bdff2d5b178866ddf4a746ffb28c36c6c14385da"}
+  {:article/id "law/5403/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "8344eebf143e0181299804ba005730846a24d48c1f14e7c05046e953e8b52dcb"}
+  {:article/id "law/5403/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2c74b40a84d553e25bb217bf6beccbf9f163da62083c3ff1cc9cf08d819f272a"}
+  {:article/id "law/5403/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "42fb7cf105a08369f42363d4e540c104b73e6c52ee6335f3db70adc977baa8f3"}
+  {:article/id "law/5403/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "e3c4ada7e2276b74efbb964f7937d99bd7ec08e93211785aa6c0baa0e73583ac"}
+  {:article/id "law/5403/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "c7c312c16ecb9d7fd1f3bc2f6ed4e7fcc42e1848fcbab6c8e7dd0dd9e3d39981"}
+  {:article/id "law/5403/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "691e216378e030049a28f7d694ca5b53eb360f14556a9b0229203c7977d3640c"}
+  {:article/id "law/5403/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "2e680a94a468394471e4baf4bff4b5df73ed4138e1c52913373eb1fad895afff"}
+  {:article/id "law/5403/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "4929211252ca4cb267e8f7fc59b28438c52eb399e13287f02d4af31f69fbb150"}
+  {:article/id "law/5403/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "96a4754337555734ce3c5ff7cc1f902a310c3dd31bcb32eef0c85fc2bfc79504"}
+  {:article/id "law/5403/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürütme",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "0ec22eff5a530bf7ded057712ca53bdd2ce944f1785b282e9579deb28e883269"}]}

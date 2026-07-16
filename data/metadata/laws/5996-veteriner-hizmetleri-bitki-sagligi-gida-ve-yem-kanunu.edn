@@ -1,0 +1,442 @@
+{:document/id "law/5996",
+ :document/type :law,
+ :document/number "5996",
+ :document/title
+ "Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu",
+ :document/slug
+ "5996-veteriner-hizmetleri-bitki-sagligi-gida-ve-yem-kanunu",
+ :document/path
+ "data/canonical/laws/5996-veteriner-hizmetleri-bitki-sagligi-gida-ve-yem-kanunu",
+ :document/sha256
+ "b5409e6abe953658b45fcd56f2c94a78c80b223789dad0202ba0c62c169003a1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5996.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:47.671-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5996/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1dbdf5f69420247f51473be7b53f2aadab0b2786039d6c2241faf0ecd24b7eb3"}
+  {:article/id "law/5996/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0be291c1ae40c705ff2887884b1679dd40b3d517754272cd525d1a9eb318e10d"}
+  {:article/id "law/5996/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c6ebf0c69167586488c15aef03673bd7b0d270ffee7dbb509da50e57f374c5de"}
+  {:article/id "law/5996/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e0a17ce5df11a38efdba6ac4e394da31b5c8ecc3954c08928536537fe015ce9b"}
+  {:article/id "law/5996/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hayvan hastalık tazminatı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "24277fa29b141cae397c2890ffa878829e939f6ea40d5f607b45386c8af9e498"}
+  {:article/id "law/5996/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "İnsanlar tarafından tüketilmesi amaçlanmayan hayvansal yan ürünler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c0399625fa6d0c56bb11ca135c4bfa068a4565d32bb1dc3b7a975d1d834d0926"}
+  {:article/id "law/5996/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "cf28d30f13bc1ac9a164d8bde41634abe73ccee7d9274af2a07d8e5f87320ab3"}
+  {:article/id "law/5996/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2e0d4de5eb5f98bb5ac60a8340ec6ae10c2ee9d023c84a89ded5682af6fd3f50"}
+  {:article/id "law/5996/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b019e778ab23adcaa6b44cce7611f956850dc6a8da6daa8bf363c058f7359c10"}
+  {:article/id "law/5996/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Zootekni",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8ce04013b37a6bc766e666fa564cd849403b99da2997d9e5f1e78d650170409c"}
+  {:article/id "law/5996/article/10/A",
+   :article/type :normal,
+   :article/no "10/A",
+   :article/title "Islah amaçlı yetiştirici birlikleri",
+   :article/path "articles/madde-010-a.md",
+   :article/sha256
+   "48c40682fbbcad4f59ec7819b01ca7ea468fcfcd0255bfa7d7354287e40ee9ec"}
+  {:article/id "law/5996/article/10/B",
+   :article/type :normal,
+   :article/no "10/B",
+   :article/title
+   "Islah amaçlı yetiştirici birliklerinin organları, yetki ve sorumlulukları",
+   :article/path "articles/madde-010-b.md",
+   :article/sha256
+   "3808984e86ca1cc5c0367e2d07109b3541a395936f97a09a41243eb4308e6bc5"}
+  {:article/id "law/5996/article/10/C",
+   :article/type :normal,
+   :article/no "10/C",
+   :article/title "Islah amaçlı yetiştirici birliklerinin görevleri",
+   :article/path "articles/madde-010-c.md",
+   :article/sha256
+   "18bcaeebdd422e3116bec772e76e9a956271315faeff65900fda5de3d7d990bb"}
+  {:article/id "law/5996/article/10/D",
+   :article/type :normal,
+   :article/no "10/D",
+   :article/title
+   "Islah amaçlı yetiştirici birliklerinin gelir ve muafiyetleri",
+   :article/path "articles/madde-010-d.md",
+   :article/sha256
+   "a746a583ad21bbc0d3d88012ce3dcc8bc5bc48c5d3be6f617a685e8728193e4c"}
+  {:article/id "law/5996/article/10/E",
+   :article/type :normal,
+   :article/no "10/E",
+   :article/title "Islah amaçlı yetiştirici birliklerinin denetimi",
+   :article/path "articles/madde-010-e.md",
+   :article/sha256
+   "2c02c038e94eefb0b1047ef19afb395d163480a35539fcb53ffb981c306fd748"}
+  {:article/id "law/5996/article/10/F",
+   :article/type :normal,
+   :article/no "10/F",
+   :article/title
+   "Islah amaçlı yetiştirici birliklerinin dağılması ve tasfiyesi",
+   :article/path "articles/madde-010-f.md",
+   :article/sha256
+   "0941c4c4f25208ece87802f42ee918d7869fec4b0518f8b8cf39c4fdf88b6926"}
+  {:article/id "law/5996/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "54c26cad361a5c8dba073e5adaf777d1449a56385b0b6acd62aa30cfc1b610a5"}
+  {:article/id "law/5996/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "a7793a90bb7822460f3253d498638c0bd753b0e80d4c352b0dd3c83cbfc1bd1b"}
+  {:article/id "law/5996/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Veteriner tıbbî ürünlerinin toptan ve perakende satışı, tanıtımı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "e547ebf98b9816bc9125d7c229852c8af78f25e5646b46d102e5cb4354cd6adc"}
+  {:article/id "law/5996/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Veteriner tıbbî ürünlerin uygulanması",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "1e235d4935e076c8bc59fec97b307cf22a73989544cdf097b22611f88e455f71"}
+  {:article/id "law/5996/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "463e3acd3a7a65b183c91c0b04e54a8e583dbf4539ac15805b4925bcbb88a70f"}
+  {:article/id "law/5996/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Bitki hastalık ve zararlıları tazminatı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "5591b62e2fd90b5c8592ddc4df92ebc68d807d8c1debbe889f472436b6f7b44f"}
+  {:article/id "law/5996/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kayıt ve bitki pasaportu",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "d76668e76462f25418cc2942680938273594a46b2f795e3fc21034c70efedd61"}
+  {:article/id "law/5996/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "3ac6126fbbab1c1b533e6413477e54908f176b2c18d67734bf503be5917a2234"}
+  {:article/id "law/5996/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Bitki koruma ürünlerinin toptan ve perakende satışı ile tanıtımı",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "267bba907e02387bcc86f6e6265d583a4a5182b28402923d50b4315c78280433"}
+  {:article/id "law/5996/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Bitki koruma ürünlerinin uygulanması",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "28f2a9e3490884c356261c53ee2646333083e3a1e17b31fe0113f4b8b4717556"}
+  {:article/id "law/5996/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "e66a5dba0029aa25de480fe605016625c64a2c7df54c64c504a06fdac78fb9ad"}
+  {:article/id "law/5996/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Sorumluluklar",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "41c938b620c756495c2c611411165beb43128f5cb5974f46f00256faed79b2ab"}
+  {:article/id "law/5996/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Gıda kodeksi4",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "bc620f3a3c3fe2f9a9e6d61b02bbdcc095d2aa8331ee2cd67472fdeb54c6b791"}
+  {:article/id "law/5996/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "f1c1eb6038cb09cda2db59fa3f5f45378367ab5cca20ac01f8025442ec8e087b"}
+  {:article/id "law/5996/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "3c941a706e34a78fe6ea54807bd7030436639c6e600956027624cad505187361"}
+  {:article/id "law/5996/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title
+   "Risk analizi, kamuoyunun bilgilendirilmesi ve ihtiyati tedbirler",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "eca1fcb1d454c7d11cba8ff732898ed0bbb3957e189c8241cec94aac349f0f8d"}
+  {:article/id "law/5996/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "2386da05548ba16271ec710b816485b2cb0c222d08c858416adc23b0fcdc4b35"}
+  {:article/id "law/5996/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title
+   "Takviye edici gıdalar ve özel tıbbî amaçlı diyet gıdalar",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "7cc426e2a2e2f00fc8e4e33966f656baf25c47a83a40743b0b184a06ab7e0ba4"}
+  {:article/id "law/5996/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "3871dedbae23e000a2fb1cd57517f952d720cb0c52ff006259f353e132628bfa"}
+  {:article/id "law/5996/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "İşletmelerin kayıt ve onayı",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "796abfa26fad17eeb5eb2498d1fa345c13ddd4de93e457fd00c86db1b51a729d"}
+  {:article/id "law/5996/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "49e3a4c4b7c0fa94b218ab60e17d3dd23e4c858518dbd98e3820086297a924d7"}
+  {:article/id "law/5996/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "a686642a93b29bf21d46fcc3b1643e4aa12be111fa035ab89ceb4538f41f6757"}
+  {:article/id "law/5996/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Laboratuvarlar",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "1e0930e97422e53dac8e383ae31bb6696c8a147ffc2be59bd29a4db4e5e55afe"}
+  {:article/id "law/5996/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "0e4d12e20491af96364e9bf21ccf16b1a23c5670d6edcbf635b9d5d4c02693f5"}
+  {:article/id "law/5996/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "b4770fa3687f5f74d0773b9b75bf1f4844b075f3baa59f4d271aa9eba0d0b28c"}
+  {:article/id "law/5996/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "79d3bfd04079be415d917b56ae64f7d5186edd9f7df1f27b41d803afacd5b508"}
+  {:article/id "law/5996/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Veteriner sağlık ürünleri ile ilgili yaptırımlar",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "cf2ffd23111b5bce735b21b566fe157bbc8a35cb2076f9a9ac9a0e10600c1aa8"}
+  {:article/id "law/5996/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Bitki sağlığı ile ilgili yaptırımlar",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "cc0f6e698d34a831baf3417c62b1f559c3ff09df4e8adef2a864a37bf06e6b7d"}
+  {:article/id "law/5996/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Bitki koruma ürünleri ile ilgili yaptırımlar",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "f94d5aae96aa350beb1f565d7c0b913c1cb62df5f64111f1ca0c85bd55377171"}
+  {:article/id "law/5996/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Gıda ve yem ile ilgili yaptırımlar",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "060a93f54ae4cc3dc057bb81c05ccc862c49889bc753b37ea908a11a0c306bff"}
+  {:article/id "law/5996/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Hijyen ve resmî kontroller ile ilgili yaptırımlar",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "508223f65853e5ad5c4ac2dd03b1676c5a8090f1d8dbfc8e6c061eb644e7a75f"}
+  {:article/id "law/5996/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Cezaların uygulanması, tahsili ve itirazlar",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "3d1190b4071d0702dcf6e54ae51fdca065b2166d6777d7620ebff96cc551418d"}
+  {:article/id "law/5996/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "a5cdf3be5bd0c5c922e04b6a1672050d232fc205c5462fec5c251381140a2906"}
+  {:article/id "law/5996/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "İstisnaî uygulamalar",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "196cd130549e4040cab036b379f5f5914c40400377fe7046f718f5628d05e4f9"}
+  {:article/id "law/5996/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Yetki",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "a8aa1860650a333267b901feb696ab9077cff9e62db304cd9ac475a1ee3eadfa"}
+  {:article/id "law/5996/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "05a68299f626b0d4978546d52c1cf18b550b5e8022fb6e27883768bf9441034b"}
+  {:article/id "law/5996/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "b26812ec7aa576de68574844ab1c55535af84ac0057d6cd389b1d2142bfd0d03"}
+  {:article/id "law/5996/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Uygulanmayacak hükümler ve atıflar",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "329351f23a56e06bf47ae12835e03045454b0bac438660130cddc6837f7cb3c2"}
+  {:article/id "law/5996/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "4db480d106e587406c2e071f829ac5e31f9f64cf96c5fd6b186efd8d3272065e"}
+  {:article/id "law/5996/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title
+   "Mevcut ıslah amaçlı hayvan yetiştirici birliklerinin uyumu",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d3863686f40a8ccfab368c58f4544a5a94689973c4243da7fe06c64513f54de2"}
+  {:article/id "law/5996/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "b19ab9ecaad3d97d94a0d4482307541c9a86c891c9992b0490af4be8e860d2b7"}
+  {:article/id "law/5996/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "20d075ec1d166dbfe1c3ee12b7ccfcc65c5189bed04283d8cdc28ace36e0241b"}
+  {:article/id "law/5996/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Yürütme",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "f09f3a1bcb6b1424310c62280cb1ef2c445087c5c9d28749316284993b856514"}]}

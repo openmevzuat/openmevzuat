@@ -1,0 +1,3209 @@
+{:document/id "law/213",
+ :document/type :law,
+ :document/number "213",
+ :document/title "Vergi Usul Kanunu",
+ :document/slug "213-vergi-usul-kanunu",
+ :document/path "data/canonical/laws/213-vergi-usul-kanunu",
+ :document/sha256
+ "ef554f3537a4f3c9cd42b6bb2f57a4c17a89a7516f6a32cf182bd5ccbe67b229",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.213.pdf",
+ :source/fetched-at #inst "2026-07-16T00:37:27.439-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/213/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kanunun Şümulü",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7b70cf9a31ea9988c508d50b8d6b05cfa9dc2168e8840dbd6d3ff41a278a1f0e"}
+  {:article/id "law/213/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "db38dfd1a73b44d7c3b2a2fa19cc8997413922710b7d109a0dc3ff9be9dbc5db"}
+  {:article/id "law/213/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b81e11eac6b826ed8bd2229645cc312dab987328b69620519a3b33a318a24a3d"}
+  {:article/id "law/213/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8a1668d6aef1dec899506d27376d9597f34fe1bed25e7445e960a98c16e5eb4d"}
+  {:article/id "law/213/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9eb4210e637d184ad9c0770f7f7e581cf10c6470d6050f3cef61c856b835becc"}
+  {:article/id "law/213/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f42a834ea9861345a9f7fa3001f19687000999e10bc2b07109750cce6df2dee3"}
+  {:article/id "law/213/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2d9487fa3166ec78f5fc0bca2f62247a15290e0e1ebb6ec79584d94d6a3be52b"}
+  {:article/id "law/213/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "086a105b66ad88a03f8a171ef5c2d9977bd487d213ab706dd5e4bb2375f8e00f"}
+  {:article/id "law/213/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b154d2d0c06175c31af956855f1717845fb62665f9e57badc9f7bf03e69a5aa9"}
+  {:article/id "law/213/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "149a9a6e6b2277add340d45eac0aff748fceab2e59b2a3d8ef5aec138f55813d"}
+  {:article/id "law/213/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9b430b564fce00337839f24e7966a17fe5f9810c701ebe78d9b96f82dfa748b5"}
+  {:article/id "law/213/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "5e90c121dce44eb8c92b3a8becf9cd8c00bb542508d2d84bd5ee542fc658efe7"}
+  {:article/id "law/213/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "f24eddc33b1c749e91ffc012cfde7cae00cbfaca6e414628f4f0063e3ac5449f"}
+  {:article/id "law/213/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "b014f6c1494d7cfa1baace9a0d149e75d4ee3b0cba65f0f4e9b044a5abac448a"}
+  {:article/id "law/213/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "27c1dffb536384aae6de98894301ab664089e00a167f45c2fce7dcd909f8644e"}
+  {:article/id "law/213/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "35e20cbc7a6bd7dfe2e10434addc0f89590b342bb5ffda711a5723057c850cc9"}
+  {:article/id "law/213/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "cc99d58881baea02b429ca30dd1b99473096461f6d6aa6cbe4d1a96ce6bcabf5"}
+  {:article/id "law/213/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "bebf5ca6869b8176855d7e7aa9c68dd6f7006f430cbbc11246dff5851f3403d6"}
+  {:article/id "law/213/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ded889ea388fee66300b3496f732c7295e978bce981b5ec7ec32fe2457d84364"}
+  {:article/id "law/213/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "2e6dd75bea424936b14d424340e85eb91b927f1878a17fca16d3d64d43ec1a56"}
+  {:article/id "law/213/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "674e2e1d80e25bc5bbb0346305a4d17c15fbc74f2e0767938861c52feaaed145"}
+  {:article/id "law/213/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "8d97eb3313afe5a3fb877452ee8e575c451eae8fa2e7af1e59aaab3972449806"}
+  {:article/id "law/213/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "597b3036f482e2a1201a1c3030b736010300bc3132a317a7deb70ef0748cf7d0"}
+  {:article/id "law/213/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "57f2b98a2dc26ae75b84be04e5f7d60bbb1a829d2a20970578d8cb11d4bf2ca9"}
+  {:article/id "law/213/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "3e2c63a64418e0d7df92d53338302482f3a3fb467a144b4907ab9d269cc3ea67"}
+  {:article/id "law/213/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "a0975e4da4db10090ed2d66f0264d259ccbf611666a40a4bc722d4e77e56bd16"}
+  {:article/id "law/213/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "086f23a6a6bfd21f2ac52cf23784e34401efbf2e48eea84b8338b6d806e6fe7d"}
+  {:article/id "law/213/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title
+   "Vergi beyannamesinin postayla veya elektronik ortamda gönderilmesi7",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "d72a06947810774755dcc9e428ce3b8e05d3de81d1e4da34bbc62af4c46b9689"}
+  {:article/id "law/213/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "be74d5bf753405f1619ab46674c266f06e50af821073925f9cc4cc9cdc1b53e5"}
+  {:article/id "law/213/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "76a75594bde196ad0dac2a3ec927d77507b35afb1ae128bd7429d0514532d831"}
+  {:article/id "law/213/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "d12be1e20df4175a8b8c613d4f6844b898d94a30c232b3b4b8fb976500a8027b"}
+  {:article/id "law/213/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "794b972866a3c47e6c3e0ecc25df608c2843367268f16497574acacd33f0a64e"}
+  {:article/id "law/213/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "4634d0789bf551a13b42ef7b6ea08bafddab10430a37c2826407b367faf995ef"}
+  {:article/id "law/213/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "721d33e1bfa76c4d06e81f86d5c84191d514c6a678864e5525c27530b81f1b09"}
+  {:article/id "law/213/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "62d5077e16bab7ba480137eb2ba3fa1c8474c1eec6de1dd7c9383d53f0d28981"}
+  {:article/id "law/213/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "03c6cae04329b9a83b63db3de1d952ff529a960d44d7d1578b060e773753dd7c"}
+  {:article/id "law/213/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "8f88c892950069deee17171b0b9af3680aa3722e38bd76eb4edcbe63ca2cf8ed"}
+  {:article/id "law/213/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "e2fd34f8d11c91a213d400bb0a241fc31e8115a5449b5a37543129b6870ed0e2"}
+  {:article/id "law/213/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "43e925ec500bbae0620d0efe5528ee369bb6456a5aa7945002112cb4b5b40e96"}
+  {:article/id "law/213/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "5c0b1aa124e6c2b6f90d0a533d8f09495de29691e54b6139a0347dab00c50b84"}
+  {:article/id "law/213/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "9f04465206b2ddfbabc30ed3ffeeb6086f5467ac01858e3587a4b2ecfd69977d"}
+  {:article/id "law/213/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "eb18efbecc192caeb940b34f130f0cc6bb76452e295ecfa92b7c2f6680b01a1b"}
+  {:article/id "law/213/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "69e9d63f97377c2541c3e0b7a90d0d7d7d98762f73dbbb2348989eda42ddcd13"}
+  {:article/id "law/213/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "aa923dc05c4bf5efe40b84434e5fc9877d0a3e467051450470b6d124f0b1a130"}
+  {:article/id "law/213/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title nil,
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "2b8e686ae07a01307f23eaeaad0541f992c52d8a53070dc684c2d7ed020dbbcf"}
+  {:article/id "law/213/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "b6ccec85d3556f6327bfff1988898cce876da94758e7b9284a2e2eb3f8325106"}
+  {:article/id "law/213/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "e7c1b58024c83ad385eca85c20c907fb9656f2d29d663015d4c51933f11f45ec"}
+  {:article/id "law/213/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "c3d3e6f3e51fd520b3335fe57d3231d8873336bcf775fc36597d4b1f897b4562"}
+  {:article/id "law/213/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "7378ad2b80b331097b456a1a9836231d8a2691ed772f937e757166087bfa0b09"}
+  {:article/id "law/213/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "9ce7420baa3c26174b30dd6f3ef9f8a73ceda4018045dce93b356c284431534b"}
+  {:article/id "law/213/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title nil,
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "905bc7e71be7f2d86c7aa6423ad29069561ad5dd79ac6da0cde164c622f49336"}
+  {:article/id "law/213/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title nil,
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "f0cafb460dca639264fd3115d79cd14fc908961f53a7e773a31e50ef893d707e"}
+  {:article/id "law/213/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title nil,
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "5b9cbbf892676117397e81f18617bb96cfcb71de950ffe2ec9a58b9c5b9bce9c"}
+  {:article/id "law/213/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "075f2f8ac2ef7c662636c8df7c01304d40d544c9c5f81bfd4475101514686386"}
+  {:article/id "law/213/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title nil,
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "66619407158152b47db4ecb9371365557f4917c3c694e2f87b7600f296e3be16"}
+  {:article/id "law/213/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "aba7515de1e301a11aa650cac76cdfeea8b5457b50528f5ed9af922c8bc87560"}
+  {:article/id "law/213/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "34ab49dd1abccb43b29c2e4e26e6fed625293c8648d3f9ad3781cbe11f75fe4c"}
+  {:article/id "law/213/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title nil,
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "de35fee7bb38eaeca79d3aa73287769270f0496021a13c80d4522e0ed540e424"}
+  {:article/id "law/213/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title nil,
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "cbc294184a193b462f7d776a3143868561df6dc0648034de3866aabcd4fbe1c1"}
+  {:article/id "law/213/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title nil,
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "62039b7f3223d93c365381d9489be1cb69791fd343778e58caf6559f8f33ea08"}
+  {:article/id "law/213/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title nil,
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "5b59cf3be017c79b828466924d46aedf3c4043bab3bceb85181b4342b6da9fef"}
+  {:article/id "law/213/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title nil,
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "e0ea3217e29ebb9413ffd6d1982650c7c040da6375a4018d8cef01141e217eee"}
+  {:article/id "law/213/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title nil,
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "773bf31092c0ec9bb909a69a25d907ade8dd510f2bd6f4e0ff7e80db0e0b9e1b"}
+  {:article/id "law/213/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title nil,
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "e5e8c2aba85545a75091f738abf67cbd816cc42132b17de79f1616475d108ff1"}
+  {:article/id "law/213/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title nil,
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "2abe82479adfe165e3a4b3b5a7949073abee8bd6ccf10f2e15e9b80b997fb505"}
+  {:article/id "law/213/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title nil,
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "6026f98d49e91cc5531b0183450b555f77be60d25512de10a13f886203582b4d"}
+  {:article/id "law/213/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title nil,
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "6c59b45539048c1eaea78cf4782b7c7d56c354a1447d474cb7cea4f0f1650ca4"}
+  {:article/id "law/213/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title nil,
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "75c32b0fe85ce0c7bc9e352f4ce4182bdbed8b9901f2671c0ed5432261f42edf"}
+  {:article/id "law/213/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title nil,
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "feb26fd41c059514bcd79675d1275f53a4c680a53ebb3b63eabea2291454876e"}
+  {:article/id "law/213/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title nil,
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "f57831d292b3ef43317074917e797ef6a6a130b0ea2fbf1341f2af3ebe7125d5"}
+  {:article/id "law/213/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title nil,
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "bd02bbfb712ef4feb103f7433aec18a89bbd4c13357f1b08fb1a50e4e26226a1"}
+  {:article/id "law/213/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title nil,
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "b06861f3bbfbc738b36fc92002dc04b5783236db711eb4a5bbefafa5de7f73ab"}
+  {:article/id "law/213/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title nil,
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "846ae616b63f7d948aec3d9a71b4204ceec28b2c5d92b15e5e37dbf15cd37c49"}
+  {:article/id "law/213/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title nil,
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "bb90ac2a5a9f287b32e26ac90f9ed1b4ae0de8c2e4906e5d679eabe967cbafa7"}
+  {:article/id "law/213/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title nil,
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "4d9c55b675f4ffc365c7a43f50e76c44b36936ae24f4fae65ee5b7182d230654"}
+  {:article/id "law/213/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title nil,
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "a60c883e7efb788f187698e941c1f312ee8c8b840173a01cb9580717d9a273d6"}
+  {:article/id "law/213/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title nil,
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "0675be559e69e00a6694b7a9779e63834ea86d921663591d633df1df04b538b4"}
+  {:article/id "law/213/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title nil,
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "1ee9b4ef534b4f1e52415826147877defa7bf95284d84139152ea06292bcbd27"}
+  {:article/id "law/213/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title nil,
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "e35ad86bafe65402131abdec6508145a98ea78042ab6ebdbe2524b83a29d11e2"}
+  {:article/id "law/213/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title nil,
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "4b0d07d3ea92ff34b0bcd6a41797aa37cb98df463aaeecaa72546e37260b9c81"}
+  {:article/id "law/213/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title nil,
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "72613dc5fa5d164db9d8d8a70c46d049201db09166c4d9d6dc166acac1345abb"}
+  {:article/id "law/213/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title nil,
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "ff4d5e00ab0da98768b29299651aeabd4e45471de3ff7872bab88f7ab0ef42ab"}
+  {:article/id "law/213/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title nil,
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "4e61c341e26e99db1a926acc256b77df42ed8a491f17d0cb3a18806b7d2b8b0e"}
+  {:article/id "law/213/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title nil,
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "b67c07cfc05f569304b5e2eba8dcccd87f4ebb3324df35a30eeb06c74b64807e"}
+  {:article/id "law/213/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title nil,
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "b02085f11e15afc4e62dc227fd5fbdbc38b81a0d944aea94f52a494bbc793b74"}
+  {:article/id "law/213/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title nil,
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "9052faaf5f1219609fd3f83b67d238748cd32cd442c46338df20daca99354c31"}
+  {:article/id "law/213/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title nil,
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "cc439fa19ac702acc1de8b5747da0b9018c8ea4ed878ad4985c1cb5f88274cd1"}
+  {:article/id "law/213/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title nil,
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "ebf91d29b5ebcd62b4351c3037703dbf816de3da7583b751fdf6ec3ac89d43c1"}
+  {:article/id "law/213/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title nil,
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "b34ef38406c907d0055b6034084b5bc9df90c28457921b4fb5001adc9d6e4409"}
+  {:article/id "law/213/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title nil,
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "647f7b7083c787609c5dc1dd215132117dd0f9be857207193320a4e292f86b15"}
+  {:article/id "law/213/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title nil,
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "8c9b316850b99ca280167ba3bc2e3edca8e32d5f16d1299c6565e2c02902f4aa"}
+  {:article/id "law/213/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title nil,
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "4ad33885b9485934bef9d8e1d7a5810e50e0734c0c7b490696719a5c4cdb28d9"}
+  {:article/id "law/213/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title nil,
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "4d4504d3063b7804fdb447bb0035d69a0e0794f713b1b77f071e75037339ecd7"}
+  {:article/id "law/213/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title nil,
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "de962bdb57adbe3edc81672773a2098066a80c5ddeb86a8eab8e989e97a77595"}
+  {:article/id "law/213/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title nil,
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "94a4ee098839efdfaa85887289237975a4a7a663274e340e619d46737f59e21f"}
+  {:article/id "law/213/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title "İlanın şekli:23",
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "781719165d93c0d390bea00c7393e32e521a2cd70a3f7667e4ff316b9a1e1281"}
+  {:article/id "law/213/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title nil,
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "c325584b5380a398797681152ea1c8be035fabce1b6be7faba608a6e5078a680"}
+  {:article/id "law/213/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title nil,
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "7fc39ffa42ed804b40e7c1f88e07e97f0eaf67e527281c6a12675609d6d5d9d6"}
+  {:article/id "law/213/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title nil,
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "e0769fa9bf1425591139a2dd0a587503dad507f0df9f5a7261e071a8eb2b4bdb"}
+  {:article/id "law/213/article/107/A",
+   :article/type :normal,
+   :article/no "107/A",
+   :article/title nil,
+   :article/path "articles/madde-107-a.md",
+   :article/sha256
+   "ffbe006767a726bd189c4c3c9f336a99e930d0d8c253b3f7c686c8c36188678e"}
+  {:article/id "law/213/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title nil,
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "fa197aa39e5e6dfcd011bec9fcafb3956d9e242157ba826aa3124f9f8ca96d94"}
+  {:article/id "law/213/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title nil,
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "05f2df358c58c7de8d73836cc48c23230a5416cbc5634b714fbc8c85b540e1a4"}
+  {:article/id "law/213/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title nil,
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "3eb1b19fe501ee7a5cb84ea4ca902f1e76fcf8ae8982fecb898a73955ca7bad1"}
+  {:article/id "law/213/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title nil,
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "40f079b2b661a1100a5ac3daaa9cadcd555376b2a134137772f8b5c9a59f2721"}
+  {:article/id "law/213/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title nil,
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "3e8ab41ce2905502a68e44e46587cab4ee45ba33f42ab15594e7ee9fd3f75067"}
+  {:article/id "law/213/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title nil,
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "5b04ed98e08743cbd8c184c8aeb53c0bafe2de3a4ebc975a272ab55d7bbb9d91"}
+  {:article/id "law/213/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title nil,
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "9335018d2eaf0f1874cb60e3edabd25e3175a6bb536996efcc87d79005fa2ea4"}
+  {:article/id "law/213/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title nil,
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "600fd2148d2b94d27b7f21e07af84dffc8d5c54eac9d9635198b04c5fd320541"}
+  {:article/id "law/213/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title nil,
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "5e6887e5909eb6e06de98b58c1606a63a1cd6d4d32e71bfff8b15a9d5bab1233"}
+  {:article/id "law/213/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title nil,
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "ae1b57b30fbcbcea023f48cd0cccc6391167d22ccef2cbb74d9222481f99510b"}
+  {:article/id "law/213/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title nil,
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "bbb15ea9e0d0712fe2ed9351a6e457d7e7e422c0a051519c29b2395ccd7c9c34"}
+  {:article/id "law/213/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title nil,
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "fe2625d66c388ccf73efd17844d64d1ed1bce3924650b09d29cb03734e756a64"}
+  {:article/id "law/213/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title nil,
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "aa33b4ccfb4dd1b2915f3333995468fb3c900255362bf40aabe49efae84f7fee"}
+  {:article/id "law/213/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title nil,
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "df13a22afeeec9b1b2793468ba24118e975bd1bf2c71be9b1fbbfca199d77935"}
+  {:article/id "law/213/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title nil,
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "586a65e11c792769be2a5120ebcf5e7c7865437460e39608193de3e734c73e77"}
+  {:article/id "law/213/article/123",
+   :article/type :normal,
+   :article/no "123",
+   :article/title nil,
+   :article/path "articles/madde-123.md",
+   :article/sha256
+   "d887bde29d37db5bac61904763592126584350ca0beec384f6d835d336490464"}
+  {:article/id "law/213/article/124",
+   :article/type :normal,
+   :article/no "124",
+   :article/title nil,
+   :article/path "articles/madde-124.md",
+   :article/sha256
+   "47825fd22842cfe7eaa2578edaa66d61f8f71307567c1716ee349d43084af441"}
+  {:article/id "law/213/article/125",
+   :article/type :normal,
+   :article/no "125",
+   :article/title nil,
+   :article/path "articles/madde-125.md",
+   :article/sha256
+   "d05b4eddec094051a23dcfb250534d349b37136b07bb35ad75e2e1b125627cd3"}
+  {:article/id "law/213/article/126",
+   :article/type :normal,
+   :article/no "126",
+   :article/title nil,
+   :article/path "articles/madde-126.md",
+   :article/sha256
+   "124c103d02a5440f79d42ded2b92898ff700384e2589c8fa6ad16a572f2ddbb5"}
+  {:article/id "law/213/article/127",
+   :article/type :normal,
+   :article/no "127",
+   :article/title nil,
+   :article/path "articles/madde-127.md",
+   :article/sha256
+   "87bf130afd5159c3e399611c5a09d3e91fcb836850b5553357c94c90619c5fd5"}
+  {:article/id "law/213/article/128",
+   :article/type :normal,
+   :article/no "128",
+   :article/title nil,
+   :article/path "articles/madde-128.md",
+   :article/sha256
+   "2d899e8df41dbca59d091411c6d6924bc1f25a7844948d6978d75b2fd99dc873"}
+  {:article/id "law/213/article/129",
+   :article/type :normal,
+   :article/no "129",
+   :article/title nil,
+   :article/path "articles/madde-129.md",
+   :article/sha256
+   "793116c2ddd5e53c37f4eaa3101a6ad4d4583b67841a55fbba7d71e4ac1f6b90"}
+  {:article/id "law/213/article/130",
+   :article/type :normal,
+   :article/no "130",
+   :article/title nil,
+   :article/path "articles/madde-130.md",
+   :article/sha256
+   "f922e5d09c884fa69c1dab3a3372d74ef0ba822f174206c5f36d852c1b45314c"}
+  {:article/id "law/213/article/131",
+   :article/type :normal,
+   :article/no "131",
+   :article/title nil,
+   :article/path "articles/madde-131.md",
+   :article/sha256
+   "02ec8ef0d03d97116bb7959797d1523aab9ffdc859ccc16ac5e7134b111b6015"}
+  {:article/id "law/213/article/132",
+   :article/type :normal,
+   :article/no "132",
+   :article/title nil,
+   :article/path "articles/madde-132.md",
+   :article/sha256
+   "0dfb9be09664eb8622592dcf5ed30f3e53f990daff87b8d75352f370f82d66f7"}
+  {:article/id "law/213/article/132/A",
+   :article/type :normal,
+   :article/no "132/A",
+   :article/title "Elektronik yoklama",
+   :article/path "articles/madde-132-a.md",
+   :article/sha256
+   "20afc73f311d5405873fcc345b0ba66a50c3e6c14d3ca0bb71482042aaf25ae0"}
+  {:article/id "law/213/article/133",
+   :article/type :normal,
+   :article/no "133",
+   :article/title nil,
+   :article/path "articles/madde-133.md",
+   :article/sha256
+   "4713d2c163dd2c4cb98bcdb8a75e1006f171a1e70f378ddc5b8ad2b707ec60f0"}
+  {:article/id "law/213/article/134",
+   :article/type :normal,
+   :article/no "134",
+   :article/title nil,
+   :article/path "articles/madde-134.md",
+   :article/sha256
+   "6261d0ddb414e23cc77c55da56d0f11cf02286a59e4a77e81a768720833f7b06"}
+  {:article/id "law/213/article/135",
+   :article/type :normal,
+   :article/no "135",
+   :article/title nil,
+   :article/path "articles/madde-135.md",
+   :article/sha256
+   "690fdc8e3e0c2142da84cef4780d0a91ba5ec180a22121df24feca7193bdcaee"}
+  {:article/id "law/213/article/136",
+   :article/type :normal,
+   :article/no "136",
+   :article/title nil,
+   :article/path "articles/madde-136.md",
+   :article/sha256
+   "c5bb1d132ff43d9e1c2a55a4f2c1456d2a7843147e321b5c8d8b06c545899043"}
+  {:article/id "law/213/article/137",
+   :article/type :normal,
+   :article/no "137",
+   :article/title nil,
+   :article/path "articles/madde-137.md",
+   :article/sha256
+   "6c22a85bad3157cca9a0ae7ad30e62da84efa0c869eb1f3dcb6805da2793e82e"}
+  {:article/id "law/213/article/138",
+   :article/type :normal,
+   :article/no "138",
+   :article/title nil,
+   :article/path "articles/madde-138.md",
+   :article/sha256
+   "24abccce9739895b317153ca054ff057cce892eb31058fdb06b6477d18468cba"}
+  {:article/id "law/213/article/139",
+   :article/type :normal,
+   :article/no "139",
+   :article/title "İncelemenin yapılacağı yer:33",
+   :article/path "articles/madde-139.md",
+   :article/sha256
+   "2964b3a5e3d4e5cee80dd68b51e88df250d538054454e2eddd78317225e2fb2c"}
+  {:article/id "law/213/article/140",
+   :article/type :normal,
+   :article/no "140",
+   :article/title "İncelemede uyulacak esaslar:34",
+   :article/path "articles/madde-140.md",
+   :article/sha256
+   "4bcf7d3c75281708b1727b870e0eeca1a1d43d268616293aa3ce9f6f33402fed"}
+  {:article/id "law/213/article/141",
+   :article/type :normal,
+   :article/no "141",
+   :article/title nil,
+   :article/path "articles/madde-141.md",
+   :article/sha256
+   "663a7e3962ea2f6c01cd8d9ff12c18c973b856b21a63b9575a78c7fc2220dde0"}
+  {:article/id "law/213/article/142",
+   :article/type :normal,
+   :article/no "142",
+   :article/title nil,
+   :article/path "articles/madde-142.md",
+   :article/sha256
+   "da34638fd1b2e934cab94bc55386a4b2ea095c458817e0b73bbcf03c795daa1d"}
+  {:article/id "law/213/article/143",
+   :article/type :normal,
+   :article/no "143",
+   :article/title nil,
+   :article/path "articles/madde-143.md",
+   :article/sha256
+   "575ec044cdb9dbeb3fcc13007293e3c96c16e6f90b3971f79155a514e2d7e23c"}
+  {:article/id "law/213/article/144",
+   :article/type :normal,
+   :article/no "144",
+   :article/title nil,
+   :article/path "articles/madde-144.md",
+   :article/sha256
+   "8c75014a0b54de0002934f24d4ac0199746d442d0bcb9888dfb67bbb4278622e"}
+  {:article/id "law/213/article/145",
+   :article/type :normal,
+   :article/no "145",
+   :article/title nil,
+   :article/path "articles/madde-145.md",
+   :article/sha256
+   "1d8793291d963c555fda86577b59a40f8b55fe80a3597620c3e08607b895de0f"}
+  {:article/id "law/213/article/146",
+   :article/type :normal,
+   :article/no "146",
+   :article/title nil,
+   :article/path "articles/madde-146.md",
+   :article/sha256
+   "e469b3b12d3c45d281494c1477e9c550aa469e3df10239e3e74a2ba19a007967"}
+  {:article/id "law/213/article/147",
+   :article/type :normal,
+   :article/no "147",
+   :article/title nil,
+   :article/path "articles/madde-147.md",
+   :article/sha256
+   "7c212bf23aff2e246f436f74c03aeab4826807581452cb6da5d3d34a80aab325"}
+  {:article/id "law/213/article/148",
+   :article/type :normal,
+   :article/no "148",
+   :article/title nil,
+   :article/path "articles/madde-148.md",
+   :article/sha256
+   "eb8377e4a893da70444b3f7b2bf1622851ca217eac1c82f4f4b1a1bc96263a59"}
+  {:article/id "law/213/article/149",
+   :article/type :normal,
+   :article/no "149",
+   :article/title nil,
+   :article/path "articles/madde-149.md",
+   :article/sha256
+   "978886852a990df49d163c08f9d94286bf11a33e5b54766add91f7e6b9a74668"}
+  {:article/id "law/213/article/150",
+   :article/type :normal,
+   :article/no "150",
+   :article/title nil,
+   :article/path "articles/madde-150.md",
+   :article/sha256
+   "852792f8854a72db0cf81efb670427694d08f6960e264a5d1bcb0807907a985a"}
+  {:article/id "law/213/article/151",
+   :article/type :normal,
+   :article/no "151",
+   :article/title nil,
+   :article/path "articles/madde-151.md",
+   :article/sha256
+   "e9df5acb94e6dae6f87e0d12130ac6e8e7af2e6d1d21098ef57ffd22fe200fb3"}
+  {:article/id "law/213/article/152",
+   :article/type :normal,
+   :article/no "152",
+   :article/title nil,
+   :article/path "articles/madde-152.md",
+   :article/sha256
+   "5a2e3f332d78e2547991def5ab32a1d3bb48e53be38fd445a0ad3bafc1beb31c"}
+  {:article/id "law/213/article/152/A",
+   :article/type :normal,
+   :article/no "152/A",
+   :article/title nil,
+   :article/path "articles/madde-152-a.md",
+   :article/sha256
+   "84e412249861c8a0155123d4bb427a2c584027218a98fb57374f645916eee2a9"}
+  {:article/id "law/213/article/153",
+   :article/type :normal,
+   :article/no "153",
+   :article/title nil,
+   :article/path "articles/madde-153.md",
+   :article/sha256
+   "9796e72612665f9af53f9057712d1e79e31e7d44aab62d672373104ef22523cc"}
+  {:article/id "law/213/article/153/A",
+   :article/type :normal,
+   :article/no "153/A",
+   :article/title nil,
+   :article/path "articles/madde-153-a.md",
+   :article/sha256
+   "4768494cd000a9bff99c4eecddad9b0b90fff98fcf5c2566dcba1aa4f039f51d"}
+  {:article/id "law/213/article/154",
+   :article/type :normal,
+   :article/no "154",
+   :article/title nil,
+   :article/path "articles/madde-154.md",
+   :article/sha256
+   "dee7711c40d20aad757950225ae970da0646270180b06f696e5bbaff6348929d"}
+  {:article/id "law/213/article/155",
+   :article/type :normal,
+   :article/no "155",
+   :article/title nil,
+   :article/path "articles/madde-155.md",
+   :article/sha256
+   "81c08c5d1e3e47653e942ccec6504f767319b1e8af0d9449905b77ddb1ce689f"}
+  {:article/id "law/213/article/156",
+   :article/type :normal,
+   :article/no "156",
+   :article/title nil,
+   :article/path "articles/madde-156.md",
+   :article/sha256
+   "c94cf36ee853291918d0e4962201a3ccb03f5a6fbc0689b0c951345d936cb5ee"}
+  {:article/id "law/213/article/157",
+   :article/type :normal,
+   :article/no "157",
+   :article/title nil,
+   :article/path "articles/madde-157.md",
+   :article/sha256
+   "885a0af0fc4e0955456f512e0b25c9270300695e3fa39c552a28ffdcfa68e6d1"}
+  {:article/id "law/213/article/158",
+   :article/type :normal,
+   :article/no "158",
+   :article/title nil,
+   :article/path "articles/madde-158.md",
+   :article/sha256
+   "f62105f462e76e659e6893845ac2a3a0d2804d0476f9b1646f5cd74f3fa69173"}
+  {:article/id "law/213/article/159",
+   :article/type :normal,
+   :article/no "159",
+   :article/title nil,
+   :article/path "articles/madde-159.md",
+   :article/sha256
+   "8c036bd9062982ab9a70c4c1e4bdd11983429cd3b532f210675dd5e85660ab1c"}
+  {:article/id "law/213/article/160",
+   :article/type :normal,
+   :article/no "160",
+   :article/title nil,
+   :article/path "articles/madde-160.md",
+   :article/sha256
+   "d1a127378e355a3574e631ec4ff9995b223d2bb83180811286f16a9a5115cc52"}
+  {:article/id "law/213/article/160/A",
+   :article/type :normal,
+   :article/no "160/A",
+   :article/title nil,
+   :article/path "articles/madde-160-a.md",
+   :article/sha256
+   "0e31774f1f5c6bc7acca2a13cb47cbcb0e181bc5116f7a09e5e761aa4e011d84"}
+  {:article/id "law/213/article/161",
+   :article/type :normal,
+   :article/no "161",
+   :article/title nil,
+   :article/path "articles/madde-161.md",
+   :article/sha256
+   "2a208d1a8a686ac68c7b9cbbb7a382c8c63b61c4c6c87ed8f8bed44725ee61eb"}
+  {:article/id "law/213/article/162",
+   :article/type :normal,
+   :article/no "162",
+   :article/title nil,
+   :article/path "articles/madde-162.md",
+   :article/sha256
+   "68f074978e9002ae25efff462be62cd37c827d89d519e5780db45367471cfc98"}
+  {:article/id "law/213/article/163",
+   :article/type :normal,
+   :article/no "163",
+   :article/title nil,
+   :article/path "articles/madde-163.md",
+   :article/sha256
+   "91f6dbedd7677be4068cc490a4968c9846ea3e719f12e6715c248757aca7cc2d"}
+  {:article/id "law/213/article/164",
+   :article/type :normal,
+   :article/no "164",
+   :article/title nil,
+   :article/path "articles/madde-164.md",
+   :article/sha256
+   "2918ba54c982be3d39abcf52765d64c0d08d6ebc2cdf5beff7fd77b59c6991c2"}
+  {:article/id "law/213/article/165",
+   :article/type :normal,
+   :article/no "165",
+   :article/title nil,
+   :article/path "articles/madde-165.md",
+   :article/sha256
+   "f40606e46416bf7e10af030a8b17c9b5e4e7c87c4be20c43424941af0a3b38bb"}
+  {:article/id "law/213/article/166",
+   :article/type :normal,
+   :article/no "166",
+   :article/title nil,
+   :article/path "articles/madde-166.md",
+   :article/sha256
+   "d179ee2995e6ce445f924dd89023f3766835c684f9f3f5b571ee6123705dac1c"}
+  {:article/id "law/213/article/167",
+   :article/type :normal,
+   :article/no "167",
+   :article/title nil,
+   :article/path "articles/madde-167.md",
+   :article/sha256
+   "577def26e272eff4d471cc0754f5f17bda53bf00791b71f72094c5b47c33f860"}
+  {:article/id "law/213/article/168",
+   :article/type :normal,
+   :article/no "168",
+   :article/title nil,
+   :article/path "articles/madde-168.md",
+   :article/sha256
+   "1a8d01c486390112a1727e0d940eb437ae53881c0b021e6b12450ce5e1bfc365"}
+  {:article/id "law/213/article/169",
+   :article/type :normal,
+   :article/no "169",
+   :article/title nil,
+   :article/path "articles/madde-169.md",
+   :article/sha256
+   "470892a3614bf8a43587cdb2c9b55401ee6ce174c39c6702bbb3fe926969631d"}
+  {:article/id "law/213/article/170",
+   :article/type :normal,
+   :article/no "170",
+   :article/title nil,
+   :article/path "articles/madde-170.md",
+   :article/sha256
+   "416ac62206a87eaa77d6fb8be482b3b774fe6cf2d68960bc363fb9de5d1422d3"}
+  {:article/id "law/213/article/170/A",
+   :article/type :normal,
+   :article/no "170/A",
+   :article/title nil,
+   :article/path "articles/madde-170-a.md",
+   :article/sha256
+   "ddb3d55ca1cd99d7d40199cbf28239d44f34b546df1e776a09dd1a2e153cd4a7"}
+  {:article/id "law/213/article/171",
+   :article/type :normal,
+   :article/no "171",
+   :article/title nil,
+   :article/path "articles/madde-171.md",
+   :article/sha256
+   "a423b93a99ebe12281b30aeb3b376584ca57d1803b7f26ce12969cedd21536c1"}
+  {:article/id "law/213/article/172",
+   :article/type :normal,
+   :article/no "172",
+   :article/title nil,
+   :article/path "articles/madde-172.md",
+   :article/sha256
+   "6c17c106002e58367042be3359f67998664e9352873b7543f07fcb517c142595"}
+  {:article/id "law/213/article/173",
+   :article/type :normal,
+   :article/no "173",
+   :article/title nil,
+   :article/path "articles/madde-173.md",
+   :article/sha256
+   "4da1031eb72654d4b21f423822bdf7342e99e175988ade450228410d99278397"}
+  {:article/id "law/213/article/174",
+   :article/type :normal,
+   :article/no "174",
+   :article/title nil,
+   :article/path "articles/madde-174.md",
+   :article/sha256
+   "e525ea88a1bd065dd5b9f88319ab05e20d73a663e33a6d227b7aa36887e1de18"}
+  {:article/id "law/213/article/175",
+   :article/type :normal,
+   :article/no "175",
+   :article/title nil,
+   :article/path "articles/madde-175.md",
+   :article/sha256
+   "7e2b6ad29e9a76c87b26e4f0c2dabc595eeac6dd9d39db1a73cebbdffbabeac5"}
+  {:article/id "law/213/article/176",
+   :article/type :normal,
+   :article/no "176",
+   :article/title nil,
+   :article/path "articles/madde-176.md",
+   :article/sha256
+   "0e8fbc024b28ba52075c4fa55f000d38b795c928e2ba0f000000952cfbc9d68b"}
+  {:article/id "law/213/article/177",
+   :article/type :normal,
+   :article/no "177",
+   :article/title nil,
+   :article/path "articles/madde-177.md",
+   :article/sha256
+   "57aef0a820898c75b206e7e8b0bc11f5c64752945020b241f717fbfff9b1b4e2"}
+  {:article/id "law/213/article/178",
+   :article/type :normal,
+   :article/no "178",
+   :article/title nil,
+   :article/path "articles/madde-178.md",
+   :article/sha256
+   "9d04752f7755b3e161e30e80aad00adc61e94af1b325e24bed96913de16df208"}
+  {:article/id "law/213/article/179",
+   :article/type :normal,
+   :article/no "179",
+   :article/title nil,
+   :article/path "articles/madde-179.md",
+   :article/sha256
+   "4bf802cee77c6b952a7399c341838d7db0b0dd97269c386837b94112ce1dac85"}
+  {:article/id "law/213/article/180",
+   :article/type :normal,
+   :article/no "180",
+   :article/title nil,
+   :article/path "articles/madde-180.md",
+   :article/sha256
+   "139fcae27987653cd9cd1d081098eb16ea2d1a83168d4a6575e01e7dda589fb6"}
+  {:article/id "law/213/article/181",
+   :article/type :normal,
+   :article/no "181",
+   :article/title nil,
+   :article/path "articles/madde-181.md",
+   :article/sha256
+   "27615ca5a8a82359fb7754bad7bca22698d4a411ae4c80951fc21242512938e3"}
+  {:article/id "law/213/article/182",
+   :article/type :normal,
+   :article/no "182",
+   :article/title nil,
+   :article/path "articles/madde-182.md",
+   :article/sha256
+   "204f2d15fae95843d9e3540daaef875444c8af97e1eef3c63f6d0d617004834c"}
+  {:article/id "law/213/article/183",
+   :article/type :normal,
+   :article/no "183",
+   :article/title nil,
+   :article/path "articles/madde-183.md",
+   :article/sha256
+   "e2700b58ac6860a9dcf791d76a3160729ff084c8558e5cd14278aa6f726be950"}
+  {:article/id "law/213/article/184",
+   :article/type :normal,
+   :article/no "184",
+   :article/title nil,
+   :article/path "articles/madde-184.md",
+   :article/sha256
+   "f6cd926e6c8e349555a674ead7999975d3e87541446ed0fdef825cad3931e527"}
+  {:article/id "law/213/article/185",
+   :article/type :normal,
+   :article/no "185",
+   :article/title nil,
+   :article/path "articles/madde-185.md",
+   :article/sha256
+   "f7e5e009bc5c1aee6acfb8139520a4606ae7175a4ecf75cb1939b939bcbb65f5"}
+  {:article/id "law/213/article/186",
+   :article/type :normal,
+   :article/no "186",
+   :article/title nil,
+   :article/path "articles/madde-186.md",
+   :article/sha256
+   "edb72be6b065cbec6f9db005d4add28274784ab8aa05c97b9c22aedb7448043b"}
+  {:article/id "law/213/article/187",
+   :article/type :normal,
+   :article/no "187",
+   :article/title nil,
+   :article/path "articles/madde-187.md",
+   :article/sha256
+   "892926e65d2c8be8a96e13f4121fe4051c08b363a8acb0a38fda01650457b458"}
+  {:article/id "law/213/article/188",
+   :article/type :normal,
+   :article/no "188",
+   :article/title nil,
+   :article/path "articles/madde-188.md",
+   :article/sha256
+   "0a4251a6cccc05f4c308f2733b248c9a30052877d62c6c0f037b950ff42b7c50"}
+  {:article/id "law/213/article/189",
+   :article/type :normal,
+   :article/no "189",
+   :article/title nil,
+   :article/path "articles/madde-189.md",
+   :article/sha256
+   "73f195472d1cac190f113a5a748327a7cdb77ef89a7ff8b30a1a01348b23d5ea"}
+  {:article/id "law/213/article/190",
+   :article/type :normal,
+   :article/no "190",
+   :article/title nil,
+   :article/path "articles/madde-190.md",
+   :article/sha256
+   "ff351106daf4aa616d8fef09098e266e582fda28cdfa8ccfcfa4da7c209c8960"}
+  {:article/id "law/213/article/191",
+   :article/type :normal,
+   :article/no "191",
+   :article/title nil,
+   :article/path "articles/madde-191.md",
+   :article/sha256
+   "cd981fff9d3323701edb050eb8432655cdd01261bbf1930f51fd7415aa1995ec"}
+  {:article/id "law/213/article/192",
+   :article/type :normal,
+   :article/no "192",
+   :article/title nil,
+   :article/path "articles/madde-192.md",
+   :article/sha256
+   "22ed3cacab8687ae8203faab3749a2fc2fd573894b41cd7834f4308ef47b575d"}
+  {:article/id "law/213/article/193",
+   :article/type :normal,
+   :article/no "193",
+   :article/title nil,
+   :article/path "articles/madde-193.md",
+   :article/sha256
+   "c601530c9322ec6c8aaffffa34d2ef2c4c0a70a3a7961ced3a5466c9f83316de"}
+  {:article/id "law/213/article/194",
+   :article/type :normal,
+   :article/no "194",
+   :article/title nil,
+   :article/path "articles/madde-194.md",
+   :article/sha256
+   "daffb437afec4367b107418cfcc6b8aa342a67538f3de7786203cdc0c05106ff"}
+  {:article/id "law/213/article/195",
+   :article/type :normal,
+   :article/no "195",
+   :article/title nil,
+   :article/path "articles/madde-195.md",
+   :article/sha256
+   "3ff3c716ccef00fbfc874d1101c525ab53cbe8d63c18c883b1c9a468c212cf20"}
+  {:article/id "law/213/article/196",
+   :article/type :normal,
+   :article/no "196",
+   :article/title nil,
+   :article/path "articles/madde-196.md",
+   :article/sha256
+   "a6625e18124bc3ea176da5d29fd61ecaccee4e6ddab26157d1dcc5667d4c66e6"}
+  {:article/id "law/213/article/197",
+   :article/type :normal,
+   :article/no "197",
+   :article/title nil,
+   :article/path "articles/madde-197.md",
+   :article/sha256
+   "27b5e7c5b1862780d942047110bad6bea4f429cfd9c80e1e3a9d9bf23061e424"}
+  {:article/id "law/213/article/198",
+   :article/type :normal,
+   :article/no "198",
+   :article/title nil,
+   :article/path "articles/madde-198.md",
+   :article/sha256
+   "d4a7bc93cb0f3da038fafd3d856521269462ac84dfbf876352222f585b848f17"}
+  {:article/id "law/213/article/199",
+   :article/type :normal,
+   :article/no "199",
+   :article/title nil,
+   :article/path "articles/madde-199.md",
+   :article/sha256
+   "207085208c281e750e11da5953f270f6eace577ac6a7b73dfa28e264013c4984"}
+  {:article/id "law/213/article/200",
+   :article/type :normal,
+   :article/no "200",
+   :article/title nil,
+   :article/path "articles/madde-200.md",
+   :article/sha256
+   "dd30f28fc86f74a62de8ae7439645a436122fe54069b3f99efb0adff831a605c"}
+  {:article/id "law/213/article/201",
+   :article/type :normal,
+   :article/no "201",
+   :article/title nil,
+   :article/path "articles/madde-201.md",
+   :article/sha256
+   "fd01780b752274941f9d3fdd2a6fe5b675fadc320a26579874b35c20642ddfcb"}
+  {:article/id "law/213/article/202",
+   :article/type :normal,
+   :article/no "202",
+   :article/title nil,
+   :article/path "articles/madde-202.md",
+   :article/sha256
+   "03f55bae3ca6ca6ce9029c5d0ada1c939f1d15b0c11245a3138b3c9525d6fb3a"}
+  {:article/id "law/213/article/203",
+   :article/type :normal,
+   :article/no "203",
+   :article/title nil,
+   :article/path "articles/madde-203.md",
+   :article/sha256
+   "422dd56c6c17b75ad9a4245d5437945b730edf036c17797dcf21f61d969831e7"}
+  {:article/id "law/213/article/204",
+   :article/type :normal,
+   :article/no "204",
+   :article/title nil,
+   :article/path "articles/madde-204.md",
+   :article/sha256
+   "c10461457349d1b711ba8fa3c1cc430c8597f6a0fda62c8ab06e4be68fc61b0d"}
+  {:article/id "law/213/article/205",
+   :article/type :normal,
+   :article/no "205",
+   :article/title nil,
+   :article/path "articles/madde-205.md",
+   :article/sha256
+   "79cce4c05f03a5e5c9c2b554f86dae873757bb1f8e4557a2d1aa245fd9430615"}
+  {:article/id "law/213/article/206",
+   :article/type :normal,
+   :article/no "206",
+   :article/title nil,
+   :article/path "articles/madde-206.md",
+   :article/sha256
+   "c1533da3378340411d06782ccaea6d94e807372abb1d6c9a0068f7c1d77704c7"}
+  {:article/id "law/213/article/207",
+   :article/type :normal,
+   :article/no "207",
+   :article/title nil,
+   :article/path "articles/madde-207.md",
+   :article/sha256
+   "4b8ff8030aa8cfe2908876d40fccf9ae332afe01cf74de1866277dd4823ea713"}
+  {:article/id "law/213/article/208",
+   :article/type :normal,
+   :article/no "208",
+   :article/title nil,
+   :article/path "articles/madde-208.md",
+   :article/sha256
+   "95044b05f7481acf0af86e00006997176ea67f6f30bf03518f055dfea5669f08"}
+  {:article/id "law/213/article/209",
+   :article/type :normal,
+   :article/no "209",
+   :article/title nil,
+   :article/path "articles/madde-209.md",
+   :article/sha256
+   "9c540ea72a052ed7b580454e825b0b366e26f35d70e48ed14af8f42e72dadfc4"}
+  {:article/id "law/213/article/210",
+   :article/type :normal,
+   :article/no "210",
+   :article/title nil,
+   :article/path "articles/madde-210.md",
+   :article/sha256
+   "f683fe743a73bd9a2e7083397241b47cf8bdeb7da2e356929dfe51671888bc47"}
+  {:article/id "law/213/article/211",
+   :article/type :normal,
+   :article/no "211",
+   :article/title nil,
+   :article/path "articles/madde-211.md",
+   :article/sha256
+   "c10377aec5ab22ea742c1178ed1802e0751d1da984fa6e7ce5911ce0b331cdb7"}
+  {:article/id "law/213/article/212",
+   :article/type :normal,
+   :article/no "212",
+   :article/title nil,
+   :article/path "articles/madde-212.md",
+   :article/sha256
+   "79684b91388a8d22189bf3cd753ac4cedba5a544424baa7717730c80aab20419"}
+  {:article/id "law/213/article/213",
+   :article/type :normal,
+   :article/no "213",
+   :article/title nil,
+   :article/path "articles/madde-213.md",
+   :article/sha256
+   "924c5007a76ad8c9955f00a634d781cc7a2735eafab5bc228ba7beb8b6436f78"}
+  {:article/id "law/213/article/214",
+   :article/type :normal,
+   :article/no "214",
+   :article/title nil,
+   :article/path "articles/madde-214.md",
+   :article/sha256
+   "c229773f96ece053666a16bb114cbf189e8dc83ff69dfa7313bef6937901c456"}
+  {:article/id "law/213/article/215",
+   :article/type :normal,
+   :article/no "215",
+   :article/title nil,
+   :article/path "articles/madde-215.md",
+   :article/sha256
+   "8a506a0f2a02eb74fda84ad3b0c945fbf57604f16ba7c63749554593e4990dcd"}
+  {:article/id "law/213/article/216",
+   :article/type :normal,
+   :article/no "216",
+   :article/title nil,
+   :article/path "articles/madde-216.md",
+   :article/sha256
+   "0a77f467ffd670eca94100273ba37d23e01eb50fd93acad55c5cdc885bcfef7f"}
+  {:article/id "law/213/article/217",
+   :article/type :normal,
+   :article/no "217",
+   :article/title nil,
+   :article/path "articles/madde-217.md",
+   :article/sha256
+   "20eb7250e5288b8e24f115053f082300f6d71cd9ebf0f155fa15eb570e3eea34"}
+  {:article/id "law/213/article/218",
+   :article/type :normal,
+   :article/no "218",
+   :article/title nil,
+   :article/path "articles/madde-218.md",
+   :article/sha256
+   "07160aa6febee08e65bbeb4ba0dc5575bbb3e5cc71c82e9a2d3a9efa13ad2a9f"}
+  {:article/id "law/213/article/219",
+   :article/type :normal,
+   :article/no "219",
+   :article/title nil,
+   :article/path "articles/madde-219.md",
+   :article/sha256
+   "8b83eb12b50d176bd9925bf140b16abd45d3aba2d497eae5e5bc3853c72ebfee"}
+  {:article/id "law/213/article/220",
+   :article/type :normal,
+   :article/no "220",
+   :article/title nil,
+   :article/path "articles/madde-220.md",
+   :article/sha256
+   "7fa6b5445be7a5f86a2f747df7b7ca9094b7bd0d0229234300ba6c72c2c3347c"}
+  {:article/id "law/213/article/221",
+   :article/type :normal,
+   :article/no "221",
+   :article/title nil,
+   :article/path "articles/madde-221.md",
+   :article/sha256
+   "584830b98a8a8f28f2932d9b8262f069c1d62bf72f06f84c2778e751c17c3372"}
+  {:article/id "law/213/article/222",
+   :article/type :normal,
+   :article/no "222",
+   :article/title nil,
+   :article/path "articles/madde-222.md",
+   :article/sha256
+   "b02656837764c232e96d9cad7dcf74bd37e7334faa4a190ff467999df8e26ba3"}
+  {:article/id "law/213/article/223",
+   :article/type :normal,
+   :article/no "223",
+   :article/title nil,
+   :article/path "articles/madde-223.md",
+   :article/sha256
+   "2ca4ba0f4ea3a434d1fa36e6bb492805120c1f1a1a19e89a788262da5822eff0"}
+  {:article/id "law/213/article/224",
+   :article/type :normal,
+   :article/no "224",
+   :article/title nil,
+   :article/path "articles/madde-224.md",
+   :article/sha256
+   "3aec0d7b4407516ec64e0fe377e5479149214f013b7931890666491cdda8f0a7"}
+  {:article/id "law/213/article/225",
+   :article/type :normal,
+   :article/no "225",
+   :article/title nil,
+   :article/path "articles/madde-225.md",
+   :article/sha256
+   "2fb01f5f923a7d48202cdc69fd851fd21ad4b5d75d18c6074db0ac945d047d20"}
+  {:article/id "law/213/article/226",
+   :article/type :normal,
+   :article/no "226",
+   :article/title nil,
+   :article/path "articles/madde-226.md",
+   :article/sha256
+   "4e13c10a42dd9840f912f4bf30d6f3c187faa3dadceb9f033fbfd7db279f78c0"}
+  {:article/id "law/213/article/226/A",
+   :article/type :normal,
+   :article/no "226/A",
+   :article/title nil,
+   :article/path "articles/madde-226-a.md",
+   :article/sha256
+   "b299b801eb18bf17d111e8e974c05057f8420247c9671e5ca71e2404161fcb8b"}
+  {:article/id "law/213/article/227",
+   :article/type :normal,
+   :article/no "227",
+   :article/title nil,
+   :article/path "articles/madde-227.md",
+   :article/sha256
+   "7deb6789bd31c9c9f7148a345fc4452930febff3c0263d78bf31a653fca680bc"}
+  {:article/id "law/213/article/228",
+   :article/type :normal,
+   :article/no "228",
+   :article/title nil,
+   :article/path "articles/madde-228.md",
+   :article/sha256
+   "1b7fe2057db767f4a21146e31e6b501a4b874d28cc3d442740bd8f104528ed2f"}
+  {:article/id "law/213/article/229",
+   :article/type :normal,
+   :article/no "229",
+   :article/title nil,
+   :article/path "articles/madde-229.md",
+   :article/sha256
+   "895b9d90d9de63435bf10c66bdad57d8096a389451e7481ea38abc213e7c3d68"}
+  {:article/id "law/213/article/230",
+   :article/type :normal,
+   :article/no "230",
+   :article/title nil,
+   :article/path "articles/madde-230.md",
+   :article/sha256
+   "8259f5bcb82c017cc4218f9a3fd5967c2875eb98411688de977771010b6ffd0f"}
+  {:article/id "law/213/article/231",
+   :article/type :normal,
+   :article/no "231",
+   :article/title nil,
+   :article/path "articles/madde-231.md",
+   :article/sha256
+   "aae5660b84048da0a8f90d762df56fa436cea5dfa61a5744dc1b17a80e808d2c"}
+  {:article/id "law/213/article/232",
+   :article/type :normal,
+   :article/no "232",
+   :article/title "Fatura kullanma mecburiyeti:6162",
+   :article/path "articles/madde-232.md",
+   :article/sha256
+   "0dd21d10c41f747f2b63742948e5779fd670b031aeed76d811e770e938fc34a5"}
+  {:article/id "law/213/article/233",
+   :article/type :normal,
+   :article/no "233",
+   :article/title nil,
+   :article/path "articles/madde-233.md",
+   :article/sha256
+   "cfd103ef6236abae46ead8ffe9c1cf6339756be3f4a5be9e5e3c1eb009fd5c37"}
+  {:article/id "law/213/article/234",
+   :article/type :normal,
+   :article/no "234",
+   :article/title nil,
+   :article/path "articles/madde-234.md",
+   :article/sha256
+   "98a7eaa4f54012b7d28ae1f0dafe440231a6532611fb8a1b6af91b9d1c9c03a9"}
+  {:article/id "law/213/article/235",
+   :article/type :normal,
+   :article/no "235",
+   :article/title nil,
+   :article/path "articles/madde-235.md",
+   :article/sha256
+   "a9577c39dc6eb4f86101e8557ed64d80dc7962ae7fb1ff232de4762c5f6aab17"}
+  {:article/id "law/213/article/236",
+   :article/type :normal,
+   :article/no "236",
+   :article/title nil,
+   :article/path "articles/madde-236.md",
+   :article/sha256
+   "b4fe62068e45c4d1103920918d873732b65f2445d1f146c4011defeb2f425d43"}
+  {:article/id "law/213/article/237",
+   :article/type :normal,
+   :article/no "237",
+   :article/title nil,
+   :article/path "articles/madde-237.md",
+   :article/sha256
+   "2ea513480ff60781357be594d51805a21056237e9d46521a08c1cf1c624bb527"}
+  {:article/id "law/213/article/238",
+   :article/type :normal,
+   :article/no "238",
+   :article/title nil,
+   :article/path "articles/madde-238.md",
+   :article/sha256
+   "544a97d8308d83dd4d983c2472d417688d63bc690c583af6580a6276c530b82c"}
+  {:article/id "law/213/article/239",
+   :article/type :normal,
+   :article/no "239",
+   :article/title nil,
+   :article/path "articles/madde-239.md",
+   :article/sha256
+   "490f33f0e91022af5a625805e647d511d90d824bac706691046162486010a2f3"}
+  {:article/id "law/213/article/240",
+   :article/type :normal,
+   :article/no "240",
+   :article/title nil,
+   :article/path "articles/madde-240.md",
+   :article/sha256
+   "f8dae4d0bf9eb856326b47414c17f9a500ac4f1893e0081a6eef259794ba3dd6"}
+  {:article/id "law/213/article/241",
+   :article/type :normal,
+   :article/no "241",
+   :article/title nil,
+   :article/path "articles/madde-241.md",
+   :article/sha256
+   "38510959fe67caade679172b952c566d700b2a7ce2bf62f013b3fadfc6eb140d"}
+  {:article/id "law/213/article/242",
+   :article/type :normal,
+   :article/no "242",
+   :article/title nil,
+   :article/path "articles/madde-242.md",
+   :article/sha256
+   "50e3dc5e097de786cae3fb2dd34262d7b0775db392de662eaa00973753438a8e"}
+  {:article/id "law/213/article/243",
+   :article/type :normal,
+   :article/no "243",
+   :article/title nil,
+   :article/path "articles/madde-243.md",
+   :article/sha256
+   "c1582126a7d721b64c183c933efab9ede316e03b3241f089001329ad26c7cbef"}
+  {:article/id "law/213/article/244",
+   :article/type :normal,
+   :article/no "244",
+   :article/title nil,
+   :article/path "articles/madde-244.md",
+   :article/sha256
+   "1ee28765608ffb9454c3eb42a122065311a3397ffdc490cff348e9870ee205ee"}
+  {:article/id "law/213/article/245",
+   :article/type :normal,
+   :article/no "245",
+   :article/title nil,
+   :article/path "articles/madde-245.md",
+   :article/sha256
+   "f56f269e6207ad47def1bef51ff1e627d6cc7801b466db180d9035321730e019"}
+  {:article/id "law/213/article/246",
+   :article/type :normal,
+   :article/no "246",
+   :article/title nil,
+   :article/path "articles/madde-246.md",
+   :article/sha256
+   "41480918ffc471347585310f2c94882a9f7390ae98af7e8f1b85bcb72bc8d323"}
+  {:article/id "law/213/article/247",
+   :article/type :normal,
+   :article/no "247",
+   :article/title nil,
+   :article/path "articles/madde-247.md",
+   :article/sha256
+   "05c201a4fb69879e3f2ee805892096e9b793cdd9fefe46fb7fcacca08e32a484"}
+  {:article/id "law/213/article/248",
+   :article/type :normal,
+   :article/no "248",
+   :article/title nil,
+   :article/path "articles/madde-248.md",
+   :article/sha256
+   "cbbc49b7e3aabb344228f350371c27188fde4e06c089799bc820fb82eadbf8dc"}
+  {:article/id "law/213/article/249",
+   :article/type :normal,
+   :article/no "249",
+   :article/title nil,
+   :article/path "articles/madde-249.md",
+   :article/sha256
+   "edc94cb483d940d4ea78907d96874775740727ba5e15d6ab26cf94b06dc128db"}
+  {:article/id "law/213/article/250",
+   :article/type :normal,
+   :article/no "250",
+   :article/title nil,
+   :article/path "articles/madde-250.md",
+   :article/sha256
+   "f7a08408b3b75bf0fbb394ae26a333c20658672fa3d0fd3fef5fd8b8cb259112"}
+  {:article/id "law/213/article/251",
+   :article/type :normal,
+   :article/no "251",
+   :article/title
+   "Karnesiz hizmet erbabı çalıştıranların sorumluluğu:73",
+   :article/path "articles/madde-251.md",
+   :article/sha256
+   "836a7e291f5b394dfe635bdab03c7c7538c632011af65d119b48fd660ade41c8"}
+  {:article/id "law/213/article/252",
+   :article/type :normal,
+   :article/no "252",
+   :article/title
+   "Karnelerin şekli, resim ve harçlardan muaf olduğu:74",
+   :article/path "articles/madde-252.md",
+   :article/sha256
+   "f2de162d18080746a37fca9234f940526c7ea852f17b0dd8c2eebcfbf442328d"}
+  {:article/id "law/213/article/253",
+   :article/type :normal,
+   :article/no "253",
+   :article/title nil,
+   :article/path "articles/madde-253.md",
+   :article/sha256
+   "c5a1a893f21033bd7129eec23e80f53a138ac0d1648e106902aba8db9710bb4d"}
+  {:article/id "law/213/article/254",
+   :article/type :normal,
+   :article/no "254",
+   :article/title nil,
+   :article/path "articles/madde-254.md",
+   :article/sha256
+   "0155b96803710ed1f2ff7f364b0dfa643f66a329b1ea8b4803b8cee1d639d4fd"}
+  {:article/id "law/213/article/255",
+   :article/type :normal,
+   :article/no "255",
+   :article/title nil,
+   :article/path "articles/madde-255.md",
+   :article/sha256
+   "6a0ef4f6c84116212767f68c26c52832ca45bf87795815e4261a369ff4133684"}
+  {:article/id "law/213/article/256",
+   :article/type :normal,
+   :article/no "256",
+   :article/title
+   "Defter ve belgelerle diğer kayıtların ibraz mecburiyeti7576",
+   :article/path "articles/madde-256.md",
+   :article/sha256
+   "c3a9ca205ff6af40fb83af83a9b65fa33f9a56e3e36e18e7f3455cc9582bb64b"}
+  {:article/id "law/213/article/257",
+   :article/type :normal,
+   :article/no "257",
+   :article/title nil,
+   :article/path "articles/madde-257.md",
+   :article/sha256
+   "cdb2eaff71a07f98e6033830faf7f35fcfdbeed1a24ffdf45e1ffff76b846641"}
+  {:article/id "law/213/article/258",
+   :article/type :normal,
+   :article/no "258",
+   :article/title nil,
+   :article/path "articles/madde-258.md",
+   :article/sha256
+   "4c7b2e6ed4076670e5d90b99a048aff96d8e0b8931a9773183f71b0e3c45c64c"}
+  {:article/id "law/213/article/259",
+   :article/type :normal,
+   :article/no "259",
+   :article/title nil,
+   :article/path "articles/madde-259.md",
+   :article/sha256
+   "bf57a7263a949584bd1dee1789a62798e913df72ea98facf08e5538b0ed9c68b"}
+  {:article/id "law/213/article/260",
+   :article/type :normal,
+   :article/no "260",
+   :article/title nil,
+   :article/path "articles/madde-260.md",
+   :article/sha256
+   "976ecf714cb735f5b455064a7b5229ecafb01f377facef83ea0daff7ee7ca490"}
+  {:article/id "law/213/article/261",
+   :article/type :normal,
+   :article/no "261",
+   :article/title nil,
+   :article/path "articles/madde-261.md",
+   :article/sha256
+   "742d40ba797827feda58bdef3be0d461827137e40cd433ab86d613e19bfb246d"}
+  {:article/id "law/213/article/262",
+   :article/type :normal,
+   :article/no "262",
+   :article/title nil,
+   :article/path "articles/madde-262.md",
+   :article/sha256
+   "f9974876082475645501aa38171fd339dfcd7057e8bed276f18cf7f06d7aaaf5"}
+  {:article/id "law/213/article/263",
+   :article/type :normal,
+   :article/no "263",
+   :article/title nil,
+   :article/path "articles/madde-263.md",
+   :article/sha256
+   "f55a5961d848a0a7dfcf1f13285bdb184d148e49d52d8aa10f3bded86b319ace"}
+  {:article/id "law/213/article/264",
+   :article/type :normal,
+   :article/no "264",
+   :article/title nil,
+   :article/path "articles/madde-264.md",
+   :article/sha256
+   "5a4421545ae80da8e4f00f1ce4c1bf3bdb53dbfa6415047cc78a063b58fc948c"}
+  {:article/id "law/213/article/265",
+   :article/type :normal,
+   :article/no "265",
+   :article/title nil,
+   :article/path "articles/madde-265.md",
+   :article/sha256
+   "a609587db851a1890402d4eb285647ef100218ce2e7f590268c21ecf49233b4f"}
+  {:article/id "law/213/article/266",
+   :article/type :normal,
+   :article/no "266",
+   :article/title nil,
+   :article/path "articles/madde-266.md",
+   :article/sha256
+   "30eb2f7519bcb538caf10ae48ff3c4ce75227ed13076900cd0558c423075c330"}
+  {:article/id "law/213/article/267",
+   :article/type :normal,
+   :article/no "267",
+   :article/title nil,
+   :article/path "articles/madde-267.md",
+   :article/sha256
+   "09da1527d109cb3df68889a5e9b0a374002384a56f1de17a270567f744f75693"}
+  {:article/id "law/213/article/268",
+   :article/type :normal,
+   :article/no "268",
+   :article/title nil,
+   :article/path "articles/madde-268.md",
+   :article/sha256
+   "7026eeb59ce9e0c61ce322ec9977f39ee3ed78a3ea11075cf827ed66ebafed1b"}
+  {:article/id "law/213/article/268/A",
+   :article/type :normal,
+   :article/no "268/A",
+   :article/title nil,
+   :article/path "articles/madde-268-a.md",
+   :article/sha256
+   "c99b7ab041c156df534eb7911fdb8926691436abeef5c6f5f3494647441cfd80"}
+  {:article/id "law/213/article/269",
+   :article/type :normal,
+   :article/no "269",
+   :article/title nil,
+   :article/path "articles/madde-269.md",
+   :article/sha256
+   "af500769dc509eb6cccb7c5af0974bcb75ca6ebc570b48992387127047e56aeb"}
+  {:article/id "law/213/article/270",
+   :article/type :normal,
+   :article/no "270",
+   :article/title nil,
+   :article/path "articles/madde-270.md",
+   :article/sha256
+   "4b9633bb28d2548ba761587838599f9ef215c75bdffb81954a1e16a558fd2ee0"}
+  {:article/id "law/213/article/271",
+   :article/type :normal,
+   :article/no "271",
+   :article/title nil,
+   :article/path "articles/madde-271.md",
+   :article/sha256
+   "04af96c62b1147289854c161e8c3571605e0c99ae878e4d5246729530a73cfcc"}
+  {:article/id "law/213/article/272",
+   :article/type :normal,
+   :article/no "272",
+   :article/title nil,
+   :article/path "articles/madde-272.md",
+   :article/sha256
+   "cc9b2675edf8f2377e9a55ff2128e6fd10778a223e23b1103c2a7f6fabf2eb0d"}
+  {:article/id "law/213/article/273",
+   :article/type :normal,
+   :article/no "273",
+   :article/title nil,
+   :article/path "articles/madde-273.md",
+   :article/sha256
+   "acd622df9096132a517bf12fc32827c71d95892b0d73a422f2f089f3c67f169b"}
+  {:article/id "law/213/article/274",
+   :article/type :normal,
+   :article/no "274",
+   :article/title "Emtia88",
+   :article/path "articles/madde-274.md",
+   :article/sha256
+   "8cb39e8775469f91820bb96913dad30f5d889cd225118f8f3795b456c29bb3aa"}
+  {:article/id "law/213/article/274/A",
+   :article/type :normal,
+   :article/no "274/A",
+   :article/title nil,
+   :article/path "articles/madde-274-a.md",
+   :article/sha256
+   "bfafad7ca679d35a309858f22daca9d6ab3cbfb51f7f93b76ec25a6c10b6943b"}
+  {:article/id "law/213/article/275",
+   :article/type :normal,
+   :article/no "275",
+   :article/title nil,
+   :article/path "articles/madde-275.md",
+   :article/sha256
+   "1560063047331fcb0d278a5c0f600055dc150c7cf60054dc5424ccb06ed0c5d9"}
+  {:article/id "law/213/article/276",
+   :article/type :normal,
+   :article/no "276",
+   :article/title nil,
+   :article/path "articles/madde-276.md",
+   :article/sha256
+   "c94f24e663d2f746706df1a6d882f4c56a1813bbbe14fc98f4381b0a27a76c4e"}
+  {:article/id "law/213/article/277",
+   :article/type :normal,
+   :article/no "277",
+   :article/title nil,
+   :article/path "articles/madde-277.md",
+   :article/sha256
+   "59b615f79ba98c5dcb140a3cca1190cde62dca82bd60eeaf4594e3b1c6fe4423"}
+  {:article/id "law/213/article/278",
+   :article/type :normal,
+   :article/no "278",
+   :article/title nil,
+   :article/path "articles/madde-278.md",
+   :article/sha256
+   "9297e762cd727984c8d273844c54993c50280f87e5b50bb7715baad8fcd9d6e9"}
+  {:article/id "law/213/article/278/A",
+   :article/type :normal,
+   :article/no "278/A",
+   :article/title nil,
+   :article/path "articles/madde-278-a.md",
+   :article/sha256
+   "989d0e88a6f005117012510ac6596ca90f1ac824158fcbdd0beca927c048bf23"}
+  {:article/id "law/213/article/279",
+   :article/type :normal,
+   :article/no "279",
+   :article/title nil,
+   :article/path "articles/madde-279.md",
+   :article/sha256
+   "b415a3548783f8ae0ba281c8b7b2302597939bb2c559994745ad668800b65c72"}
+  {:article/id "law/213/article/280",
+   :article/type :normal,
+   :article/no "280",
+   :article/title "Yabancı paralar:89",
+   :article/path "articles/madde-280.md",
+   :article/sha256
+   "07aa86df050568fef15fad1ea4fd5be6236225c9fa0bfabb692cbf16447a30da"}
+  {:article/id "law/213/article/280/A",
+   :article/type :normal,
+   :article/no "280/A",
+   :article/title
+   "Yurtdışından getirilerek sermaye olarak konulan yabancı paralar:90",
+   :article/path "articles/madde-280-a.md",
+   :article/sha256
+   "f5baf7a20cfa0e0e4ffa0949177ca13e6416845928784c0876effc51ba38cc0a"}
+  {:article/id "law/213/article/281",
+   :article/type :normal,
+   :article/no "281",
+   :article/title nil,
+   :article/path "articles/madde-281.md",
+   :article/sha256
+   "6869dd2ab719b926ad32f16a203e2dfd8c0f653b31eb8ae706e1761c26ece83b"}
+  {:article/id "law/213/article/282",
+   :article/type :normal,
+   :article/no "282",
+   :article/title nil,
+   :article/path "articles/madde-282.md",
+   :article/sha256
+   "bc03422b5a5c276ff81500d72fecbb9d7aa4ab5072dfe1961f7b47565b617c34"}
+  {:article/id "law/213/article/283",
+   :article/type :normal,
+   :article/no "283",
+   :article/title nil,
+   :article/path "articles/madde-283.md",
+   :article/sha256
+   "afd87992094cdc75ea8d94bb8a0c624b1e1f677e074e557931d812abe30c9a5d"}
+  {:article/id "law/213/article/284",
+   :article/type :normal,
+   :article/no "284",
+   :article/title nil,
+   :article/path "articles/madde-284.md",
+   :article/sha256
+   "3b5c5e9dadfadccf73fceaadeb256bb26b4a2cdf735e1a3f2bcf01e871c51c65"}
+  {:article/id "law/213/article/285",
+   :article/type :normal,
+   :article/no "285",
+   :article/title nil,
+   :article/path "articles/madde-285.md",
+   :article/sha256
+   "771b5640af889b31484f3c82d4537033e3d415cea5c6980c679149e1cb2001bb"}
+  {:article/id "law/213/article/286",
+   :article/type :normal,
+   :article/no "286",
+   :article/title nil,
+   :article/path "articles/madde-286.md",
+   :article/sha256
+   "d92ac8251da085ef18893481b9daf3ce35a10e505fbf538aa2dc9b1152edc3fd"}
+  {:article/id "law/213/article/287",
+   :article/type :normal,
+   :article/no "287",
+   :article/title nil,
+   :article/path "articles/madde-287.md",
+   :article/sha256
+   "5de3c1ebe7a9aaa05b05033427a701137d6a305389caf0935db4ceba2aed0ede"}
+  {:article/id "law/213/article/288",
+   :article/type :normal,
+   :article/no "288",
+   :article/title nil,
+   :article/path "articles/madde-288.md",
+   :article/sha256
+   "4e00dd44ae2f6d60e4c918bc864a3429a102c18e073aa6b8cc42ad371c0dfadb"}
+  {:article/id "law/213/article/289",
+   :article/type :normal,
+   :article/no "289",
+   :article/title nil,
+   :article/path "articles/madde-289.md",
+   :article/sha256
+   "ad0351718214c1ff5c1eaacfd88185bec7f0081c23c093aa3093e2bae4d52ac6"}
+  {:article/id "law/213/article/290",
+   :article/type :normal,
+   :article/no "290",
+   :article/title nil,
+   :article/path "articles/madde-290.md",
+   :article/sha256
+   "6916f0eae646003e7b4de0c3e09962fba140620e318b05df8ed4ca3e4ab880bd"}
+  {:article/id "law/213/article/291",
+   :article/type :normal,
+   :article/no "291",
+   :article/title nil,
+   :article/path "articles/madde-291.md",
+   :article/sha256
+   "2e7c00b9110330d776e75871168a9a1d5f9e95f8f75b31c9d52c04728c37de6b"}
+  {:article/id "law/213/article/292",
+   :article/type :normal,
+   :article/no "292",
+   :article/title nil,
+   :article/path "articles/madde-292.md",
+   :article/sha256
+   "98ee85d5a9600acf4a1e4415fbcccb4909762c18b6294ed5db950792abe461de"}
+  {:article/id "law/213/article/293",
+   :article/type :normal,
+   :article/no "293",
+   :article/title nil,
+   :article/path "articles/madde-293.md",
+   :article/sha256
+   "9971b761ef3e5a204546fbbbbf866d7efb20601bb53f1caf8bfe599f9deb4023"}
+  {:article/id "law/213/article/294",
+   :article/type :normal,
+   :article/no "294",
+   :article/title nil,
+   :article/path "articles/madde-294.md",
+   :article/sha256
+   "8560baea4db23ddbf89e6dffee368c61e96ee4e4b5e224ef00597a7405057e13"}
+  {:article/id "law/213/article/295",
+   :article/type :normal,
+   :article/no "295",
+   :article/title nil,
+   :article/path "articles/madde-295.md",
+   :article/sha256
+   "83949e665eff1fff0325ce200d8ddcc1f9c5d62852367312d3d41f5b5d035768"}
+  {:article/id "law/213/article/296",
+   :article/type :normal,
+   :article/no "296",
+   :article/title nil,
+   :article/path "articles/madde-296.md",
+   :article/sha256
+   "c6166589a4bcf6f1dbd822b2b70a8404f54781d39cc45c00825b2b46b1d9786c"}
+  {:article/id "law/213/article/297",
+   :article/type :normal,
+   :article/no "297",
+   :article/title nil,
+   :article/path "articles/madde-297.md",
+   :article/sha256
+   "21c8eadf950f3bd043484bee05617764b7342c4c03253845cf95fdff623d821e"}
+  {:article/id "law/213/article/298",
+   :article/type :normal,
+   :article/no "298",
+   :article/title nil,
+   :article/path "articles/madde-298.md",
+   :article/sha256
+   "c9207214d027c0a5838b3fd639c43f9de6d38626f0cfd6d016e6102a7bfadc7c"}
+  {:article/id "law/213/article/299",
+   :article/type :normal,
+   :article/no "299",
+   :article/title nil,
+   :article/path "articles/madde-299.md",
+   :article/sha256
+   "f0e10ca9acbbbf0baf16ce602aed06e62c671adf076d6482a858a6b99d11a0f3"}
+  {:article/id "law/213/article/300",
+   :article/type :normal,
+   :article/no "300",
+   :article/title nil,
+   :article/path "articles/madde-300.md",
+   :article/sha256
+   "545ebe54ba68e71081b23501724f33ecd27aea0cac37a76172d81fac758205a0"}
+  {:article/id "law/213/article/301",
+   :article/type :normal,
+   :article/no "301",
+   :article/title nil,
+   :article/path "articles/madde-301.md",
+   :article/sha256
+   "7197e0cc813af65db37b81a1be932e69b25b78c88681dedee3065c8b512dc9c9"}
+  {:article/id "law/213/article/302",
+   :article/type :normal,
+   :article/no "302",
+   :article/title nil,
+   :article/path "articles/madde-302.md",
+   :article/sha256
+   "3cf028a88c5bad1ce6ec63130e6c08edc945ccb4e435aaa7eb7ffc1647fcbeb9"}
+  {:article/id "law/213/article/303",
+   :article/type :normal,
+   :article/no "303",
+   :article/title nil,
+   :article/path "articles/madde-303.md",
+   :article/sha256
+   "de38ced1f70d8b0144aa832f14a3a3df47e4e2201366cc576865bc26f2387714"}
+  {:article/id "law/213/article/304",
+   :article/type :normal,
+   :article/no "304",
+   :article/title nil,
+   :article/path "articles/madde-304.md",
+   :article/sha256
+   "5534d91f3994565841dc0188e68de2efa6710649497dc0dcda8013fa8c7e4fef"}
+  {:article/id "law/213/article/305",
+   :article/type :normal,
+   :article/no "305",
+   :article/title nil,
+   :article/path "articles/madde-305.md",
+   :article/sha256
+   "249cf3e33f19d4880d3123bc7c8ff4605f4cb4d069a55482fb72a1c1863d0d8c"}
+  {:article/id "law/213/article/306",
+   :article/type :normal,
+   :article/no "306",
+   :article/title nil,
+   :article/path "articles/madde-306.md",
+   :article/sha256
+   "f7982d28fbac959d52fd595096f4cb62374afdaab942bdf20ef6f1f8b9249f3f"}
+  {:article/id "law/213/article/307",
+   :article/type :normal,
+   :article/no "307",
+   :article/title nil,
+   :article/path "articles/madde-307.md",
+   :article/sha256
+   "8593a64cd2264454f0a12715c7fc309040a31440de586b5809ad1448202712c6"}
+  {:article/id "law/213/article/308",
+   :article/type :normal,
+   :article/no "308",
+   :article/title nil,
+   :article/path "articles/madde-308.md",
+   :article/sha256
+   "efa690401a0e55a86e2751ffeeaac464fd25fa0d1f2695609e14c2e41ae7597a"}
+  {:article/id "law/213/article/309",
+   :article/type :normal,
+   :article/no "309",
+   :article/title nil,
+   :article/path "articles/madde-309.md",
+   :article/sha256
+   "df4881bbaabf466379729fc51ff7c08ecc6f6308f3b4243aedf7c978fd24f2f0"}
+  {:article/id "law/213/article/310",
+   :article/type :normal,
+   :article/no "310",
+   :article/title nil,
+   :article/path "articles/madde-310.md",
+   :article/sha256
+   "e372148c4bb234902ab17b8996c7e54c275ecf78b45651c22424f26e9352be4f"}
+  {:article/id "law/213/article/311",
+   :article/type :normal,
+   :article/no "311",
+   :article/title nil,
+   :article/path "articles/madde-311.md",
+   :article/sha256
+   "bedf44a8e0d50584fd2aafafc7beae47f203d4ce78f0fcb96c441e21482852d0"}
+  {:article/id "law/213/article/312",
+   :article/type :normal,
+   :article/no "312",
+   :article/title nil,
+   :article/path "articles/madde-312.md",
+   :article/sha256
+   "9e7ff16f72c4e2bfa90e092b7615a6b8548c6404bf1f0951ecb7ae7b6a8661a3"}
+  {:article/id "law/213/article/313",
+   :article/type :normal,
+   :article/no "313",
+   :article/title nil,
+   :article/path "articles/madde-313.md",
+   :article/sha256
+   "d696ac6f74d68bbba43fdc1930908ed3d858096bbb1ad7b56f2bd549c699f5fa"}
+  {:article/id "law/213/article/314",
+   :article/type :normal,
+   :article/no "314",
+   :article/title nil,
+   :article/path "articles/madde-314.md",
+   :article/sha256
+   "2c846713120302de5980535a1dca07acba0d30cd26109a8a41ad205210c4d04f"}
+  {:article/id "law/213/article/315",
+   :article/type :normal,
+   :article/no "315",
+   :article/title nil,
+   :article/path "articles/madde-315.md",
+   :article/sha256
+   "668532236d2ac3cf56d6bb0d493e9021c8b22e2a6d371e92912d879f4ac9f141"}
+  {:article/id "law/213/article/316",
+   :article/type :normal,
+   :article/no "316",
+   :article/title nil,
+   :article/path "articles/madde-316.md",
+   :article/sha256
+   "a84aa0eefd9707344894a9e0aedef5862b5e4beb0a72fc108334995b240f53d5"}
+  {:article/id "law/213/article/317",
+   :article/type :normal,
+   :article/no "317",
+   :article/title nil,
+   :article/path "articles/madde-317.md",
+   :article/sha256
+   "bde7fab2d478ec73c3e1fa9f260ffd4856bb0fd2db371146eb7fdd3157b73dcd"}
+  {:article/id "law/213/article/318",
+   :article/type :normal,
+   :article/no "318",
+   :article/title nil,
+   :article/path "articles/madde-318.md",
+   :article/sha256
+   "28a280eb3f3f336d0fd9f1e7bb2ed8f6c35fae83c5a9cd844f8c862fa5cbeac5"}
+  {:article/id "law/213/article/319",
+   :article/type :normal,
+   :article/no "319",
+   :article/title nil,
+   :article/path "articles/madde-319.md",
+   :article/sha256
+   "c6a40b5fc13e63e4180ea9a60655784d899b2000de505b254697395fae0865e9"}
+  {:article/id "law/213/article/320",
+   :article/type :normal,
+   :article/no "320",
+   :article/title nil,
+   :article/path "articles/madde-320.md",
+   :article/sha256
+   "2ea32f34ad4d4a57e13ee40ae8b09b5bdabe1fdb11d7445489ea858a574da810"}
+  {:article/id "law/213/article/321",
+   :article/type :normal,
+   :article/no "321",
+   :article/title nil,
+   :article/path "articles/madde-321.md",
+   :article/sha256
+   "5852963a0f9fa7e7bf7854099c5f9d1fb55eb686460f32017e79e4a21bf8428c"}
+  {:article/id "law/213/article/322",
+   :article/type :normal,
+   :article/no "322",
+   :article/title nil,
+   :article/path "articles/madde-322.md",
+   :article/sha256
+   "0db61a25925a28c6fd3d3ef99bf4825e68afa4ac5b365f594e6103a02c5e20e3"}
+  {:article/id "law/213/article/323",
+   :article/type :normal,
+   :article/no "323",
+   :article/title nil,
+   :article/path "articles/madde-323.md",
+   :article/sha256
+   "c3e145f46ec77140b806272d91224ae251bd2c182a4b54bfad0be3fa07bae023"}
+  {:article/id "law/213/article/324",
+   :article/type :normal,
+   :article/no "324",
+   :article/title nil,
+   :article/path "articles/madde-324.md",
+   :article/sha256
+   "ec66cb1d81f02b06c4d7f2c73b78cdcdaba52caf16e8dcd7db01af032dc14e88"}
+  {:article/id "law/213/article/325",
+   :article/type :normal,
+   :article/no "325",
+   :article/title nil,
+   :article/path "articles/madde-325.md",
+   :article/sha256
+   "c99fa1e57e550d85b0d8ec30bcd7dca680a5259a6c2c4e2712e27a532105e748"}
+  {:article/id "law/213/article/325/A",
+   :article/type :normal,
+   :article/no "325/A",
+   :article/title nil,
+   :article/path "articles/madde-325-a.md",
+   :article/sha256
+   "81a8905fbceaaebfe24c2dd72cb4917deca8281e1afccd5ac609da76e46f8a99"}
+  {:article/id "law/213/article/326",
+   :article/type :normal,
+   :article/no "326",
+   :article/title nil,
+   :article/path "articles/madde-326.md",
+   :article/sha256
+   "0a626a61641ca6a0c70dab8048ac98db88d969c79f0d84524b1eeff04364c9d0"}
+  {:article/id "law/213/article/327",
+   :article/type :normal,
+   :article/no "327",
+   :article/title nil,
+   :article/path "articles/madde-327.md",
+   :article/sha256
+   "93d52a6482854160573491640680902037d770fad49188520c5aaecae2142ed2"}
+  {:article/id "law/213/article/328",
+   :article/type :normal,
+   :article/no "328",
+   :article/title nil,
+   :article/path "articles/madde-328.md",
+   :article/sha256
+   "0db61e552153926ebdbe0d249a82afd96b52384e954eb0badb2dc981a18083f8"}
+  {:article/id "law/213/article/329",
+   :article/type :normal,
+   :article/no "329",
+   :article/title nil,
+   :article/path "articles/madde-329.md",
+   :article/sha256
+   "6374c052fc4a76ac16adefcd2d2bc421eb6906594774f021f7e81912cde804c0"}
+  {:article/id "law/213/article/330",
+   :article/type :normal,
+   :article/no "330",
+   :article/title nil,
+   :article/path "articles/madde-330.md",
+   :article/sha256
+   "9e4d476ed9f5e75305858d1bac01996845ec9ce07f3bd37ce860ab44c92682aa"}
+  {:article/id "law/213/article/331",
+   :article/type :normal,
+   :article/no "331",
+   :article/title nil,
+   :article/path "articles/madde-331.md",
+   :article/sha256
+   "a1fdc8acaf61539479f948312fc1e4a0feb6d75613538ba149a8aa8fb03376f5"}
+  {:article/id "law/213/article/332",
+   :article/type :normal,
+   :article/no "332",
+   :article/title nil,
+   :article/path "articles/madde-332.md",
+   :article/sha256
+   "852a8b2a5d79c7955b3b0a2ea21ce9049c414a4d3c516573fe116512e9fbe926"}
+  {:article/id "law/213/article/333",
+   :article/type :normal,
+   :article/no "333",
+   :article/title nil,
+   :article/path "articles/madde-333.md",
+   :article/sha256
+   "931dd520fa08b6a04207578a0ff67356be36977475bdafdcdfff340bbb65cc3d"}
+  {:article/id "law/213/article/334",
+   :article/type :normal,
+   :article/no "334",
+   :article/title nil,
+   :article/path "articles/madde-334.md",
+   :article/sha256
+   "f40e0db38b6a90301f8331398370bad6530e294bd81683f8beb4a27ebf04dd6e"}
+  {:article/id "law/213/article/335",
+   :article/type :normal,
+   :article/no "335",
+   :article/title nil,
+   :article/path "articles/madde-335.md",
+   :article/sha256
+   "dac91842ccf3f2359631c98f405383c96d284ee837544003fa02ac6a063c5f30"}
+  {:article/id "law/213/article/336",
+   :article/type :normal,
+   :article/no "336",
+   :article/title "b) Muhtelif cezayı istilzam etmesi:112",
+   :article/path "articles/madde-336.md",
+   :article/sha256
+   "4aaf0206701aebb2bfb629e7373e0ff15dc730c2cb1ed2dde509f28c0c063de4"}
+  {:article/id "law/213/article/337",
+   :article/type :normal,
+   :article/no "337",
+   :article/title nil,
+   :article/path "articles/madde-337.md",
+   :article/sha256
+   "1cd1c5adc5b39af0b87352cc105686c8f2d3ca6dfbf056534fb9430a6f839f6f"}
+  {:article/id "law/213/article/338",
+   :article/type :normal,
+   :article/no "338",
+   :article/title nil,
+   :article/path "articles/madde-338.md",
+   :article/sha256
+   "3f5e0023a4991cc0216fc214b63286cfd0bafd144e5358cb6ca066f8405c4f6b"}
+  {:article/id "law/213/article/339",
+   :article/type :normal,
+   :article/no "339",
+   :article/title nil,
+   :article/path "articles/madde-339.md",
+   :article/sha256
+   "c144af4040fea50fa8c9247f6508081e6a2cf0ac70639063f94e7a0b6762385b"}
+  {:article/id "law/213/article/340",
+   :article/type :normal,
+   :article/no "340",
+   :article/title nil,
+   :article/path "articles/madde-340.md",
+   :article/sha256
+   "6eb63c44523fe3130b5fdeaf8967883bb75ec24d96c38e33afc1b69f795d396b"}
+  {:article/id "law/213/article/341",
+   :article/type :normal,
+   :article/no "341",
+   :article/title nil,
+   :article/path "articles/madde-341.md",
+   :article/sha256
+   "c240f45cefa40659ebc8e09a99c695452a28780aba32661de05efa7fc0281bbc"}
+  {:article/id "law/213/article/342",
+   :article/type :normal,
+   :article/no "342",
+   :article/title nil,
+   :article/path "articles/madde-342.md",
+   :article/sha256
+   "f0f6c02e0d3c1b69f6833b2edb710afa153dcb959aafd31f64150d3ceff8723c"}
+  {:article/id "law/213/article/343",
+   :article/type :normal,
+   :article/no "343",
+   :article/title "En az ceza haddi:114",
+   :article/path "articles/madde-343.md",
+   :article/sha256
+   "020b5cba114956aa4af681cbde1aa2730c23ec8c9c3ca4359d14da2d034000fb"}
+  {:article/id "law/213/article/344",
+   :article/type :normal,
+   :article/no "344",
+   :article/title nil,
+   :article/path "articles/madde-344.md",
+   :article/sha256
+   "4911865989d2ea98a2ae572ce47dc40d4c0f1855564a731514b59140b741e4a9"}
+  {:article/id "law/213/article/345",
+   :article/type :normal,
+   :article/no "345",
+   :article/title nil,
+   :article/path "articles/madde-345.md",
+   :article/sha256
+   "7cbf5dd1faff57135f7a9c9ca983b0adc2e9c2d6dd252b2eb662f71bcf33aede"}
+  {:article/id "law/213/article/346",
+   :article/type :normal,
+   :article/no "346",
+   :article/title nil,
+   :article/path "articles/madde-346.md",
+   :article/sha256
+   "3990e159149c257b514d7d3963642f62f4ddb2e1ce79a81e3caa33756a92f981"}
+  {:article/id "law/213/article/347",
+   :article/type :normal,
+   :article/no "347",
+   :article/title nil,
+   :article/path "articles/madde-347.md",
+   :article/sha256
+   "9734c5013c541e302b41fb321fdbce0e5a617445417dc7ffdc70fb1a60d21f07"}
+  {:article/id "law/213/article/348",
+   :article/type :normal,
+   :article/no "348",
+   :article/title nil,
+   :article/path "articles/madde-348.md",
+   :article/sha256
+   "8f2c91fa7db19049a629f04faac4a01c2c57f34ad212ac6f8ac7262f6182cc13"}
+  {:article/id "law/213/article/349",
+   :article/type :normal,
+   :article/no "349",
+   :article/title nil,
+   :article/path "articles/madde-349.md",
+   :article/sha256
+   "f47957b7824196d7687d64b03630c7041dd2e0f04eb3766078c51ca5ca468faa"}
+  {:article/id "law/213/article/350",
+   :article/type :normal,
+   :article/no "350",
+   :article/title nil,
+   :article/path "articles/madde-350.md",
+   :article/sha256
+   "9e97c68886136653fccb2eef4f29f107e75ef5adca27facfc35e267c2dd66db4"}
+  {:article/id "law/213/article/351",
+   :article/type :normal,
+   :article/no "351",
+   :article/title nil,
+   :article/path "articles/madde-351.md",
+   :article/sha256
+   "a1411301b32b748a086d510545803d2956df640e3d592273869912d5560ae8ae"}
+  {:article/id "law/213/article/352",
+   :article/type :normal,
+   :article/no "352",
+   :article/title "Usulsüzlük dereceleri ve cezaları:118",
+   :article/path "articles/madde-352.md",
+   :article/sha256
+   "460908b4f3eeef0485d0636c7e5f54c9ecb2cf6b0ecf19956d42ac101549badb"}
+  {:article/id "law/213/article/353",
+   :article/type :normal,
+   :article/no "353",
+   :article/title nil,
+   :article/path "articles/madde-353.md",
+   :article/sha256
+   "3f148c06321361a91b283450b5718a635d25897e06201cb33d41590c4cc15ffe"}
+  {:article/id "law/213/article/354",
+   :article/type :normal,
+   :article/no "354",
+   :article/title nil,
+   :article/path "articles/madde-354.md",
+   :article/sha256
+   "f913da78eaa241fffd1197634f4cc62aacb00fde51e2dee0c02251ddb6c2f689"}
+  {:article/id "law/213/article/355",
+   :article/type :normal,
+   :article/no "355",
+   :article/title nil,
+   :article/path "articles/madde-355.md",
+   :article/sha256
+   "735d072a13de8a8d41b10fbe388d507155f1d2c5f7348abfa13f8110271a83c9"}
+  {:article/id "law/213/article/356",
+   :article/type :normal,
+   :article/no "356",
+   :article/title nil,
+   :article/path "articles/madde-356.md",
+   :article/sha256
+   "95c37502c853ec2638e5df4885ff75380b8307e69c4b466c16259aaaf0188c8b"}
+  {:article/id "law/213/article/357",
+   :article/type :normal,
+   :article/no "357",
+   :article/title nil,
+   :article/path "articles/madde-357.md",
+   :article/sha256
+   "188a6daeb9985464b0f1e4542dd7b184110804e83718190c69ea2c8a4fbc6eff"}
+  {:article/id "law/213/article/358",
+   :article/type :normal,
+   :article/no "358",
+   :article/title nil,
+   :article/path "articles/madde-358.md",
+   :article/sha256
+   "6dbd0c1a2767e17bdd9a05f65c00df0e882058e8cdcb572098ecc3b0738747ac"}
+  {:article/id "law/213/article/359",
+   :article/type :normal,
+   :article/no "359",
+   :article/title nil,
+   :article/path "articles/madde-359.md",
+   :article/sha256
+   "1a767c8f57d9eba5194b8c23503eac417af6235d71d12e13cc733b0e796984f8"}
+  {:article/id "law/213/article/360",
+   :article/type :normal,
+   :article/no "360",
+   :article/title "Cezadan indirim139",
+   :article/path "articles/madde-360.md",
+   :article/sha256
+   "556d590f7f9ea31d32525c944ba8c81fac0db97af2bedebd5d97a9ab53b94e7b"}
+  {:article/id "law/213/article/361",
+   :article/type :normal,
+   :article/no "361",
+   :article/title nil,
+   :article/path "articles/madde-361.md",
+   :article/sha256
+   "ba78f4ac3924a1b685a86720fc1205762c65ed955370d597b715ec99d224a74e"}
+  {:article/id "law/213/article/362",
+   :article/type :normal,
+   :article/no "362",
+   :article/title nil,
+   :article/path "articles/madde-362.md",
+   :article/sha256
+   "982871214f682a3298022d6f4d21e7cd97a2f473f7b2fd98cfc4c492105b3d01"}
+  {:article/id "law/213/article/363",
+   :article/type :normal,
+   :article/no "363",
+   :article/title nil,
+   :article/path "articles/madde-363.md",
+   :article/sha256
+   "bda16f433b2e7d98cbc4eb82c491ada4ba6057ca712f089a6c4c09f7c2937d9c"}
+  {:article/id "law/213/article/364",
+   :article/type :normal,
+   :article/no "364",
+   :article/title nil,
+   :article/path "articles/madde-364.md",
+   :article/sha256
+   "bf7c45bdd9fff27ae7cc50392a7ad02fd4415731e70436d83ff0adb42cd77790"}
+  {:article/id "law/213/article/365",
+   :article/type :normal,
+   :article/no "365",
+   :article/title nil,
+   :article/path "articles/madde-365.md",
+   :article/sha256
+   "3eb602ec99e2eb7bdd4bbb61abe4ec7a7177bfb0cddf56100ed5bd5a57c0c4e6"}
+  {:article/id "law/213/article/366",
+   :article/type :normal,
+   :article/no "366",
+   :article/title nil,
+   :article/path "articles/madde-366.md",
+   :article/sha256
+   "4c25b8db81a3f0e2bb7162845d54b10cdaed9a0fd93bf25e57dd44cb7ddd2762"}
+  {:article/id "law/213/article/367",
+   :article/type :normal,
+   :article/no "367",
+   :article/title
+   "Bazı kaçakçılık suçlarının cezalandırılmasında usül:140",
+   :article/path "articles/madde-367.md",
+   :article/sha256
+   "969be4ce00ce1a21683c9f8c1ce480534669be63fb8b806baf119e309ee7d376"}
+  {:article/id "law/213/article/368",
+   :article/type :normal,
+   :article/no "368",
+   :article/title nil,
+   :article/path "articles/madde-368.md",
+   :article/sha256
+   "54f30c2f669c3c8d5a595c6856fd49f5e12e2392df8ac830edaddb66616b859d"}
+  {:article/id "law/213/article/369",
+   :article/type :normal,
+   :article/no "369",
+   :article/title nil,
+   :article/path "articles/madde-369.md",
+   :article/sha256
+   "b92df11d5ce8afc08f5e3c28d5ccdb6e22a0d263fa17fd0451d06c1d34e33873"}
+  {:article/id "law/213/article/370",
+   :article/type :normal,
+   :article/no "370",
+   :article/title "İzaha davet:145146",
+   :article/path "articles/madde-370.md",
+   :article/sha256
+   "0fcb779f8ebb9cc239dd9d597ddc6f0fec01b3fbf2bb0aca9abab68bb6dc6f7d"}
+  {:article/id "law/213/article/371",
+   :article/type :normal,
+   :article/no "371",
+   :article/title nil,
+   :article/path "articles/madde-371.md",
+   :article/sha256
+   "f211258b360c97dc0d52d873632d4fbbddd25a8d9c8546efef311126f20ebef1"}
+  {:article/id "law/213/article/372",
+   :article/type :normal,
+   :article/no "372",
+   :article/title nil,
+   :article/path "articles/madde-372.md",
+   :article/sha256
+   "999314a837523804adff0f384dfaeebef0404125c88e5cb260c081d041f248a9"}
+  {:article/id "law/213/article/373",
+   :article/type :normal,
+   :article/no "373",
+   :article/title nil,
+   :article/path "articles/madde-373.md",
+   :article/sha256
+   "6015d7ca8c58e00984048282890652cd0edc2cd855b8ab05f7252f8f64c537b4"}
+  {:article/id "law/213/article/374",
+   :article/type :normal,
+   :article/no "374",
+   :article/title nil,
+   :article/path "articles/madde-374.md",
+   :article/sha256
+   "7ee895a5a9c3aa4ba474a95f42541583847635a5f50d66fc9104b1e9796ea3af"}
+  {:article/id "law/213/article/375",
+   :article/type :normal,
+   :article/no "375",
+   :article/title nil,
+   :article/path "articles/madde-375.md",
+   :article/sha256
+   "36ad10dbb82bbacc07c6bab44cf385b58c71f8e0ad887612275f77077adb33f6"}
+  {:article/id "law/213/article/376",
+   :article/type :normal,
+   :article/no "376",
+   :article/title
+   "Vergi ziyaı, usulsüzlük ve özel usulsüzlük cezalarında indirme",
+   :article/path "articles/madde-376.md",
+   :article/sha256
+   "9203b74998d0f3459b3cef8fa3e0951e61219c9a18eb08a6d2a1416b0a263e17"}
+  {:article/id "law/213/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "810a27bec13d8436c4b764b1c8f5d92980b9d008a6cb346ed925e99846ac881b"}
+  {:article/id "law/213/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "06e0ff3aea8b28942500eaaed7535d241d1c3a5cdcbe38cd3eb9cbc4a0d7d5b3"}
+  {:article/id "law/213/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "cc1f0c837b45a44a16ecd81f9d7db1008d640a78f7b11d4550d4d17470d74f4f"}
+  {:article/id "law/213/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "dc60f1a439ba9ab387aa09b22b935b70cb8ad0873bd7daf1ea77faf95efe6bcf"}
+  {:article/id "law/213/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "bcf262285e3d889ab41acec20b68c0f90be65cde96a0e5420d79392d16969440"}
+  {:article/id "law/213/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "3d78da76d1da659bd2295cda48b3168b5e15995f775a2d4a5edb2b91b5a290ce"}
+  {:article/id "law/213/article/7",
+   :article/type :additional,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/ek-madde-007.md",
+   :article/sha256
+   "16c11121e2b5157e070c5520c446d945f98ee4e3e40e71f53ff489db62496321"}
+  {:article/id "law/213/article/8",
+   :article/type :additional,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/ek-madde-008.md",
+   :article/sha256
+   "a19c15d8b2edff4414658c7e2212ffcfc8993bffdcb4797452ef500998e093f4"}
+  {:article/id "law/213/article/9",
+   :article/type :additional,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/ek-madde-009.md",
+   :article/sha256
+   "7c81d1c9f3729fb369bcf211c6ba275fee0e99b8f8f3c90691857c28b5163acc"}
+  {:article/id "law/213/article/10",
+   :article/type :additional,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/ek-madde-010.md",
+   :article/sha256
+   "3ffff644cc09eb99d62e8fbb2d4bd9a343df699f3d8586519d92175cee455e4a"}
+  {:article/id "law/213/article/11",
+   :article/type :additional,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/ek-madde-011.md",
+   :article/sha256
+   "c08354c080613004be59c14e0926623ad6b3270748643598eabad0d88e528527"}
+  {:article/id "law/213/article/12",
+   :article/type :additional,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/ek-madde-012.md",
+   :article/sha256
+   "b8c28d61e7e31c177d5139815dc66023ce47142ff03add796ea030f1183a305f"}
+  {:article/id "law/213/article/13",
+   :article/type :additional,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/ek-madde-013.md",
+   :article/sha256
+   "8eabb772ddcbdbde0ae9aa5403715b064081c6e2d1fc98c0110870b561536e07"}
+  {:article/id "law/213/article/14",
+   :article/type :additional,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/ek-madde-014.md",
+   :article/sha256
+   "1d489012583e2844187c3f2a06f7e101fff84c9dabbf8062a6115edeeac34472"}
+  {:article/id "law/213/article/15",
+   :article/type :additional,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/ek-madde-015.md",
+   :article/sha256
+   "21474befa703fc63961a761686c911f65dfe3430f3a33bed4edecbb8974d7684"}
+  {:article/id "law/213/article/16",
+   :article/type :additional,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/ek-madde-016.md",
+   :article/sha256
+   "257a3983273300acfdb523fc1e78984d9aa609c0c372bdd9efd9dd58858c980b"}
+  {:article/id "law/213/article/17",
+   :article/type :additional,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/ek-madde-017.md",
+   :article/sha256
+   "d9c8ffb9455f4791f2f3fe3d331b926c860d0274b29c9603b4891509ccc99a67"}
+  {:article/id "law/213/article/18",
+   :article/type :additional,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/ek-madde-018.md",
+   :article/sha256
+   "dfb2f511feaa5b35add71ab2d4e9fe10be4e869e91d179e0b054fd1e149de5ce"}
+  {:article/id "law/213/article/377",
+   :article/type :normal,
+   :article/no "377",
+   :article/title nil,
+   :article/path "articles/madde-377.md",
+   :article/sha256
+   "c3629b2b0ffd3c8cb7ecc9bc12299e6505fb3314798eba12bbe0e58652247aef"}
+  {:article/id "law/213/article/378",
+   :article/type :normal,
+   :article/no "378",
+   :article/title "Dava konusu:168",
+   :article/path "articles/madde-378.md",
+   :article/sha256
+   "e945116accdce64d347c70c5f609236f0a7e046b385655ef1be4c368c2b831d2"}
+  {:article/id "law/213/article/379",
+   :article/type :normal,
+   :article/no "379",
+   :article/title nil,
+   :article/path "articles/madde-379.md",
+   :article/sha256
+   "3ad6abaeeca519fd3d09840b237d7a64091eae7b332767b6d832bc085c92cc56"}
+  {:article/id "law/213/article/380",
+   :article/type :normal,
+   :article/no "380",
+   :article/title nil,
+   :article/path "articles/madde-380.md",
+   :article/sha256
+   "880661556cbdc6ce888a17f86a0d023f11e4d372d4658bb25d8a8b7dc94d291d"}
+  {:article/id "law/213/article/413",
+   :article/type :normal,
+   :article/no "413",
+   :article/title "Mükelleflerin izahat talebi:169",
+   :article/path "articles/madde-413.md",
+   :article/sha256
+   "166341961fa5b06bca65e0d750484d5ad9c6882ae7d66b12b261358480c29eac"}
+  {:article/id "law/213/article/414",
+   :article/type :normal,
+   :article/no "414",
+   :article/title nil,
+   :article/path "articles/madde-414.md",
+   :article/sha256
+   "3e42f5b7ff7f37a6361c49ab2804ffc717393346b60e8e6535422701cf594846"}
+  {:article/id "law/213/article/415",
+   :article/type :normal,
+   :article/no "415",
+   :article/title nil,
+   :article/path "articles/madde-415.md",
+   :article/sha256
+   "f34616150b2e030608b1b432602ef0c91012e645a7675c920f031bbe04a28b3c"}
+  {:article/id "law/213/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ab4d80f062856dd4d146164148f5e69c63eb061a414bee7a5b6d2c27ff9433fc"}
+  {:article/id "law/213/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "daf2c47a033619f65ea24bfa85e8b4a0d8a0cc100225dbd8db3a8ac803557629"}
+  {:article/id "law/213/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "dfa5f245bbb8b8b455680204220d07a5935cb44819e418fa618723dca40b5155"}
+  {:article/id "law/213/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "7178188b3e82e44e68bfa66d15eebd012e916c108ebfb3b0d952d87bf7bab550"}
+  {:article/id "law/213/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "a185d91a3f55938ec5d3830c66105dab69e0cdfc5499cf4c59cb17b2502c06cb"}
+  {:article/id "law/213/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "001356ac6cd64ff329ce238b2d4222d9479307e31f96a1c4c750e16ceb4fb2c2"}
+  {:article/id "law/213/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "8bdc218c8bca15a9d5cc07024035fe05bef2f3edaf6196235ec13c7a39abe197"}
+  {:article/id "law/213/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "de14723a539409a135ab0f6624f11813b7bd41d905624709b6b35682b3ab906c"}
+  {:article/id "law/213/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "abd819132293f476d5f331d56b3c2e4cbd5d19254895acab3ef0b3586792a817"}
+  {:article/id "law/213/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "045cb5d9dc2e0f6cc37caa61230725961241c1ee2df422c3c151d174c53047ad"}
+  {:article/id "law/213/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "4328cf47a5039de6024548e8c6db0197d1a2bb73c253378794335ac0e1531c27"}
+  {:article/id "law/213/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "28540c5f18ea3961fe9ec254129376335e340569a68614a714409740773e08dc"}
+  {:article/id "law/213/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "cd500cca9cfb4dcd3b714de4f7031e89e7521f930c10f74da472fe283e939afd"}
+  {:article/id "law/213/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "c9f6a1f18a1edcc4980d05d8d13fdbb12a060c4d03fb35d33fe9d30b10ec2c59"}
+  {:article/id "law/213/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "7f93f6a6b00a0b24fbeff2d89c7ba35c05b6a4043f52396feafde73941ef9384"}
+  {:article/id "law/213/article/16",
+   :article/type :temporary,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/gecici-madde-016.md",
+   :article/sha256
+   "4c9ee669d8c23706ed6801d5b2cf01bc19c3b480bf14b4841c8d30e50d52aa9f"}
+  {:article/id "law/213/article/17",
+   :article/type :temporary,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/gecici-madde-017.md",
+   :article/sha256
+   "e1ac7e6509aee04559d20033b080564856bb8d1f3197592eddb6c030ef520109"}
+  {:article/id "law/213/article/18",
+   :article/type :temporary,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/gecici-madde-018.md",
+   :article/sha256
+   "a57c178d3434cb25cdab9c58a11bede1201f628080d495728e866af1f708234e"}
+  {:article/id "law/213/article/19",
+   :article/type :temporary,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/gecici-madde-019.md",
+   :article/sha256
+   "f2bb1866a2a433379631e4a4095d13838b997c519e574efc4983d0db7d23b473"}
+  {:article/id "law/213/article/20",
+   :article/type :temporary,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/gecici-madde-020.md",
+   :article/sha256
+   "e7604e68db0d2d75d6262971af1d00b8ba79bd245fabe8cbd4d303c63fe96076"}
+  {:article/id "law/213/article/21",
+   :article/type :temporary,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/gecici-madde-021.md",
+   :article/sha256
+   "636cf7f4bc2892529feb0d410566eeab423f880014b7fb332b840c1a33570d4e"}
+  {:article/id "law/213/article/22",
+   :article/type :temporary,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/gecici-madde-022.md",
+   :article/sha256
+   "ee01815ab39b081e122be7e5c25674e92efe958733559adf6ae5298eec11d00f"}
+  {:article/id "law/213/article/23",
+   :article/type :temporary,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/gecici-madde-023.md",
+   :article/sha256
+   "9e4c33bacc1d1aef569639579bfbdac26818dae613ac1da741fc812acbc93259"}
+  {:article/id "law/213/article/24",
+   :article/type :temporary,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/gecici-madde-024.md",
+   :article/sha256
+   "f9f0b8a2f94bed2390fad3f0f9c3a0ad60a1c522da4415c7c365d13ac6d5d08d"}
+  {:article/id "law/213/article/25",
+   :article/type :temporary,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/gecici-madde-025.md",
+   :article/sha256
+   "978b94b61f267df169e32526f8a4cca4f219ad2d5406c4cc6cef4500352dd744"}
+  {:article/id "law/213/article/26",
+   :article/type :temporary,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/gecici-madde-026.md",
+   :article/sha256
+   "fbf68cb5cf0743b116289558aa5b59462f322cf9cca482cc2b5fc7095250eb09"}
+  {:article/id "law/213/article/27",
+   :article/type :temporary,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/gecici-madde-027.md",
+   :article/sha256
+   "d6b229cf70f6cb3d4e0ce994d827522d3d01e8cc678d21e0ce3c11762985d655"}
+  {:article/id "law/213/article/28",
+   :article/type :temporary,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/gecici-madde-028.md",
+   :article/sha256
+   "87a38a80aa9b9cb046abf8d16e42f1e513c71409b4c16162ae07f474d4b238ba"}
+  {:article/id "law/213/article/29",
+   :article/type :temporary,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/gecici-madde-029.md",
+   :article/sha256
+   "67762f7bf154da1e551c64d63ac4115313dcc250e22b0c1077df40ffd862342c"}
+  {:article/id "law/213/article/30",
+   :article/type :temporary,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/gecici-madde-030.md",
+   :article/sha256
+   "74907010d6e7beab30a402d24570bd6c970c99d58487bc951b24d3357d51ae1f"}
+  {:article/id "law/213/article/31",
+   :article/type :temporary,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/gecici-madde-031.md",
+   :article/sha256
+   "297d85e060428c1427bf6924cb05e0069cda9bdbe927d891fc33cab83718c0dd"}
+  {:article/id "law/213/article/32",
+   :article/type :temporary,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/gecici-madde-032.md",
+   :article/sha256
+   "db1930a84159fe8e420bb74424e9270704dafb81615ab1e696dbc691f0262a25"}
+  {:article/id "law/213/article/33",
+   :article/type :temporary,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/gecici-madde-033.md",
+   :article/sha256
+   "788c08e3227a08460ab38827d7b53baed1f4ed4b581b0b4243cbce3b1618084a"}
+  {:article/id "law/213/article/34",
+   :article/type :temporary,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/gecici-madde-034.md",
+   :article/sha256
+   "042e8aba9618bc061f6e8017fcd2b62abef2d3f846fb7449079d26fb29569a1e"}
+  {:article/id "law/213/article/35",
+   :article/type :temporary,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/gecici-madde-035.md",
+   :article/sha256
+   "84c7eeefa4110de3e1be15a0ebee2740df14d9248fdd78945622f5918eb03388"}
+  {:article/id "law/213/article/36",
+   :article/type :temporary,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/gecici-madde-036.md",
+   :article/sha256
+   "ecf89b3f102d87f685e5d64f8133be88bc88d606857df7c160894056702ea25d"}
+  {:article/id "law/213/article/37",
+   :article/type :temporary,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/gecici-madde-037.md",
+   :article/sha256
+   "00b783355c47345ca8501a289c1108efc9906ab72c7b0c892c0c709b16c793eb"}
+  {:article/id "law/213/article/38",
+   :article/type :temporary,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/gecici-madde-038.md",
+   :article/sha256
+   "ad1a21dda9d553986270ffddadfc0b6fe2a715e11de1fa02aaeee50f4646a09c"}
+  {:article/id "law/213/article/416",
+   :article/type :normal,
+   :article/no "416",
+   :article/title nil,
+   :article/path "articles/madde-416.md",
+   :article/sha256
+   "f0608a931569a171fb57ee4a9bcb9d23de5bc1ff27a18ca2042ae8979fd90ff3"}
+  {:article/id "law/213/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "9e03c81c90de37989e10e480b85587ab4589c0cdb3dbd2a9d10ea4c2dfbab2e2"}
+  {:article/id "law/213/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c08e36562dafdb2b56b26af24356b80f2e38d1952b65728ef647874a5c1d0c1a"}
+  {:article/id "law/213/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "e099410bca8983d7d314fec02990626f33cb192637acb5f9c727cb3845d69b5e"}
+  {:article/id "law/213/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "920335769d59016f9351d8944fabaa7aad6588fd66c06a198b3d132909d35d18"}
+  {:article/id "law/213/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "fd86114fce739ab1e8b00ac84156dc613c2187384217cb48ce7f8a7c0a225a88"}
+  {:article/id "law/213/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "4e8fc51a81b34c47573a558d14fc756b769d003c35c72a5f5d5d5d9a5b192fc5"}
+  {:article/id "law/213/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0e7af1364fa28a7ec5daec02c76bd9ac382285141d67045be58fb87ca31e9391"}
+  {:article/id "law/213/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "25feb1770fbecdbf756c22fc6bd7ac4ef3f09101ff31fd7a62c5928849854066"}
+  {:article/id "law/213/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "636530a93070d0a9eeb859941427f79430e6405f5cc3e67d00eb63c54db63838"}
+  {:article/id "law/213/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "a9e85b5473849297287d84a179c585a1d43e5abbea4570b18be4ef9285be2421"}
+  {:article/id "law/213/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "97f9c37a32728f3718605e7f2af1b360da93c0102e80e671be9c3e97f93958fe"}]}

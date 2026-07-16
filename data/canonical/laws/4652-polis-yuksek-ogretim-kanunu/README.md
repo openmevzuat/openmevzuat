@@ -1,0 +1,61 @@
+# Polis Yüksek Öğretim Kanunu
+
+**Kanun No:** 4652  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/4652  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç ve kapsam](articles/madde-001.md)
+- [MADDE 2 — Tanımlar1](articles/madde-002.md)
+- [MADDE 3](articles/madde-003.md)
+- [MADDE 4](articles/madde-004.md)
+- [MADDE 5 — Başkan, dekan, enstitü ve polis meslek yüksek okulu müdürü](articles/madde-005.md)
+- [MADDE 6](articles/madde-006.md)
+- [MADDE 7 — Akademi Yönetim Kurulunun kuruluş, işleyiş ve görevleri](articles/madde-007.md)
+- [MADDE 8 — Eğitim ve Öğretim Yüksek Kurulu](articles/madde-008.md)
+- [MADDE 9 — Bilimsel Denetleme Kurulu](articles/madde-009.md)
+- [MADDE 10 — Polis meslek yüksek okullarının kuruluş, öğrenci kaynakları ve öğretim süresi](articles/madde-010.md)
+- [MADDE 11 — Başkan ve dekanın görev, yetki ve sorumlulukları](articles/madde-011.md)
+- [MADDE 12 — Fakülte öğretim kurulu ve fakülte yönetim kurulunun kuruluş, işleyiş ve görevleri](articles/madde-012.md)
+- [MADDE 13 — Diğer kurullar ve genel yönetim birimleri](articles/madde-013.md)
+- [MADDE 14](articles/madde-014.md)
+- [MADDE 15](articles/madde-015.md)
+- [MADDE 15/A — Adaylarda aranacak şartlar ve sınav](articles/madde-015-a.md)
+- [MADDE 16 — Öğrencilik sıfatının sona ermesi](articles/madde-016.md)
+- [MADDE 17](articles/madde-017.md)
+- [MADDE 18 — Soruşturma yetkisi ve doğrudan ceza verme](articles/madde-018.md)
+- [MADDE 19](articles/madde-019.md)
+- [MADDE 20 — İhtisas bölümlerine ayırma ve uygulama eğitimleri](articles/madde-020.md)
+- [MADDE 21 — Devam-devamsızlık ve mezuniyet](articles/madde-021.md)
+- [MADDE 22](articles/madde-022.md)
+- [MADDE 23](articles/madde-023.md)
+- [MADDE 24](articles/madde-024.md)
+- [MADDE 25 — Öğretim elemanlarının hak ve yükümlülükleri](articles/madde-025.md)
+- [MADDE 26 — Öğretim elemanı yetiştirme, lisans üstü eğitim-öğretim ve enstitüler](articles/madde-026.md)
+- [MADDE 27 — Enstitü sekreteri](articles/madde-027.md)
+- [MADDE 28](articles/madde-028.md)
+- [MADDE 29 — Döner sermaye](articles/madde-029.md)
+- [MADDE 30](articles/madde-030.md)
+- [MADDE 31](articles/madde-031.md)
+- [MADDE 32 — Yürürlükten kaldırılan ve değiştirilen Kanun hükümleri](articles/madde-032.md)
+- [EK MADDE 1](articles/ek-madde-001.md)
+- [EK MADDE 2](articles/ek-madde-002.md)
+- [EK MADDE 3](articles/ek-madde-003.md)
+- [EK MADDE 4](articles/ek-madde-004.md)
+- [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)
+- [GEÇİCİ MADDE 4](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6](articles/gecici-madde-006.md)
+- [GEÇİCİ MADDE 7](articles/gecici-madde-007.md)
+- [GEÇİCİ MADDE 8](articles/gecici-madde-008.md)
+- [GEÇİCİ MADDE 9](articles/gecici-madde-009.md)
+- [GEÇİCİ MADDE 10](articles/gecici-madde-010.md)
+- [GEÇİCİ MADDE 11](articles/gecici-madde-011.md)
+- [MADDE 33](articles/madde-033.md)
+- [MADDE 34](articles/madde-034.md)

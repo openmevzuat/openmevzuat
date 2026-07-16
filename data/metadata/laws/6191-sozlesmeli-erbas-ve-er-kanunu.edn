@@ -1,0 +1,160 @@
+{:document/id "law/6191",
+ :document/type :law,
+ :document/number "6191",
+ :document/title "Sözleşmeli Erbaş ve Er Kanunu",
+ :document/slug "6191-sozlesmeli-erbas-ve-er-kanunu",
+ :document/path
+ "data/canonical/laws/6191-sozlesmeli-erbas-ve-er-kanunu",
+ :document/sha256
+ "e1e64d1421d34be0765f501cc2741190dbed6208f9f260c2f4284f0e803ed749",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6191.pdf",
+ :source/fetched-at #inst "2026-07-16T00:38:52.182-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6191/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7425af1bfe9b7e23a110df73e0ef269a388c8836e0f5ad78fb1f625db00b36c2"}
+  {:article/id "law/6191/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a8a8b51248959cd6145935dbb2f65593fdc21804339759a0f9a46d5efd8c1121"}
+  {:article/id "law/6191/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "2f44f1b87db90b49c7afaa56745fb322457319370f00c97520b77aefdaae2e5b"}
+  {:article/id "law/6191/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sözleşme, hizmet şartları ve yedeklik dönemi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "abfc70df25a55a01390ba947cb22bb314284a953e89786d9bff4dd7e16e8d595"}
+  {:article/id "law/6191/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1bbe2de64b96b68bec65090edae774e6a338e5e099909b38a75a691c0b8280d1"}
+  {:article/id "law/6191/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Sözleşmenin idarece feshi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "61aec8638479f5649a6b2d0f03849d7b721ba2af6fff72c3fb00dc412faa2d0e"}
+  {:article/id "law/6191/article/6/A",
+   :article/type :normal,
+   :article/no "6/A",
+   :article/title "Görevde başarısız olma halleri",
+   :article/path "articles/madde-006-a.md",
+   :article/sha256
+   "4ecbab571fba820cacd59ed5fa8d4349da9470c5ea14e683eb1cd021ec333a24"}
+  {:article/id "law/6191/article/6/B",
+   :article/type :normal,
+   :article/no "6/B",
+   :article/title nil,
+   :article/path "articles/madde-006-b.md",
+   :article/sha256
+   "18e7c634750cc52b1d7cb0953b23c5f945d6aa97b335d1bf694b00fc8fab70a8"}
+  {:article/id "law/6191/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fcdffd3bcc7bd1a93e9828cf937939f431db36bbf8e89b00dc85f093dcac2dfc"}
+  {:article/id "law/6191/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "İzin, sosyal haklar, tertip edilme ve kuvvet değiştirme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "19c697c6440dd514e3d59fc0e71fe0d0bd517e4473abf9f7fa2676c75885afa8"}
+  {:article/id "law/6191/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Özel hükümler ve yönetmelik",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "8c625a6fc33901fce5972f8a22748a612102c56d2aff51c32ad90ea30ee0f84d"}
+  {:article/id "law/6191/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "f2a061476c33031b3ad970727daa595888473d3f511c78298b819d1bb68ba0f0"}
+  {:article/id "law/6191/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Kamuda istihdam",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "36e786c4d8e0d3e5a89db96a755efe46a42f4781e8cb9f877d18918d13f6343d"}
+  {:article/id "law/6191/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "66cff90abf1bfc1df14baa68e8d2c7145c533cc0f91e60e40da4256f62415b12"}
+  {:article/id "law/6191/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title
+   "Sevk tehiri, askerlik yükümlülüğünün yerine getirilmiş sayılması",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "7f78a83f6dbb227153c8ff5b538fdd1f4091b3f614f765cbe724961c5499f295"}
+  {:article/id "law/6191/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "Yetki devri",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "680d003440db82aedead3bfd7f8841edd4815a968bfaf26ff87725ec47c09803"}
+  {:article/id "law/6191/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Uzman erbaşlığa geçirilme",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "ec46c5691458a3d78e2b9a5e052743598efb6440f44dece64ee75dee134d0629"}
+  {:article/id "law/6191/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3167a1d817560cc948e7709b61bc83974f38b3ba3c8f2df745d43d43be46fc6e"}
+  {:article/id "law/6191/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bbf59198ccf1698221c6a0f9828fe9c109c52bf3083b6d866e6165bb3df06aa3"}
+  {:article/id "law/6191/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e2673e11d07e9f658fa1b61f8d66674515eeb53284de6d767b08313886f93dc8"}]}

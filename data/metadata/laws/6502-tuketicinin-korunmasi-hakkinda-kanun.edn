@@ -1,0 +1,686 @@
+{:document/id "law/6502",
+ :document/type :law,
+ :document/number "6502",
+ :document/title "Tüketicinin Korunması Hakkında Kanun",
+ :document/slug "6502-tuketicinin-korunmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/6502-tuketicinin-korunmasi-hakkinda-kanun",
+ :document/sha256
+ "852d7ed763525e15bcc567ecdea28ca7fb5e425ed67fba27f5ffc3068141b305",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6502.pdf",
+ :source/fetched-at #inst "2026-07-16T00:39:06.146-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/6502/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5a09c68ebd323f28974a02714b829d2671d341590ec2c13f5080be29d4fcb447"}
+  {:article/id "law/6502/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "30c9c75fae548d233ac1c566489644bc5505d9e1d519d8cdd987afd2d74e462f"}
+  {:article/id "law/6502/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7ba68b56e0ca5289ffe17ea07afcec47c8f6345a239f6801c55d58e0c4d4fc8d"}
+  {:article/id "law/6502/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "847b75ed6815b6861922ed1882d9610512a929dda3671e6f11815dc65dcf0899"}
+  {:article/id "law/6502/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Tüketici sözleşmelerindeki haksız şartlar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "32041045873da0e8bcd71ed0e170d3de64bab47131c761dde15a651f8484f875"}
+  {:article/id "law/6502/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Satıştan kaçınma",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "7703f82aebc4fe4519847712db4beb58a8a7676cf74e7ea78f200e0829dd9045"}
+  {:article/id "law/6502/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Sipariş edilmeyen mal veya hizmetler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "c4dab1cccbac284b898874e3d929e0fc61bc163522ac5081d4438709953f5b50"}
+  {:article/id "law/6502/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8a8dd9ae381f7b52b98502c8e61c486e4239ac25c3e93281216b2da7ce341ee8"}
+  {:article/id "law/6502/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ayıplı maldan sorumluluk",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "abb3498fef58d9abaadca91dd40cb60cd77459ec7d5039ba440b5bc2b5ccf071"}
+  {:article/id "law/6502/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İspat yükü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "f9d777966b7a0515dc68030a05389667df3cb6d5d6dc1873d61b9365f5d4f31f"}
+  {:article/id "law/6502/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Tüketicinin seçimlik hakları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "a248518f540a5e8174ea93a8de3eb7442cca300494585acb27228318b222de63"}
+  {:article/id "law/6502/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "610cd44776d6ad1f0db674d045fc29d4b6f06b87c6a4c1e1f958a9281bd6dbb0"}
+  {:article/id "law/6502/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3da0f6cbeb24ade9e057bf35f084a9f37e63eea61ce2059fe474474c3f9e1ec2"}
+  {:article/id "law/6502/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Ayıplı hizmetten sorumluluk",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "b19cc3db7b23b52214222931f314521e57d578665ca2c55f193bb8eeac03642a"}
+  {:article/id "law/6502/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Tüketicinin seçimlik hakları",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "44a5658a992e28722275de8a0ba9532389a092f1aec8b5416360a2277ffc3e57"}
+  {:article/id "law/6502/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b289704cb239268ba5cc55391a76eb3461a6c394eb614f08e7ab3f5b32121d99"}
+  {:article/id "law/6502/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "47c81612ca30d7cbeaf95d75027ec0513d0a9188ae2734e64e1ee2f6e84b6c02"}
+  {:article/id "law/6502/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Cayma hakkı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "d9085768f76beee7f22ba43c9c6556d819835eccb221a3751a190d7afa08db63"}
+  {:article/id "law/6502/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Temerrüt",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "45e7596bfba41aa45ac27560f62ec16c5d17590886a45524393f2970bae02580"}
+  {:article/id "law/6502/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Erken ödeme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "0b0fae9f987b20f86883c1acb14ecce65489e900a365deeb00ff78a72f0b57fd"}
+  {:article/id "law/6502/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Diğer hususlar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1a2f6e574d9e3aec774777e1c208fce0874003f71b13a58cad6d629519bc2e38"}
+  {:article/id "law/6502/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "bd408ed8d9def8dd51a9871c95f90067e11e7d263c66b95e3cf7e5d0d4ad63f0"}
+  {:article/id "law/6502/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "db31350e52ad8d7e9c5c83e69b9485e0bb54bdb18ff607d5f8cf24120e7259c5"}
+  {:article/id "law/6502/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Cayma hakkı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "3e9675924291256b476bda67e79d8ffa1c3ac75fce617ed5b8f543d54cde6e39"}
+  {:article/id "law/6502/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Faiz oranı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "c8fdb9ed43be44867a1a1b8b694cb96e97e8d901fcac29cd0193c04e2098eb73"}
+  {:article/id "law/6502/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Sözleşmede değişiklik yapılması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "c07a1be67387dcfb8a1018c0b8729e32640a8ea889875e31c75d4cde4b3b6c3c"}
+  {:article/id "law/6502/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "2e0bdd7a6f36ec223d27ac30c8a384e72e9fe65227138bc975457c9d1fc50857"}
+  {:article/id "law/6502/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Temerrüt",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "71b9eb1b3afde7e60cd48aaa4c90f7a7a5a04920a910c1a64bb9e7c4b46582c6"}
+  {:article/id "law/6502/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Sigorta, yan finansal ürün ve hizmet sunumu",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "fef9828bf735cb624bce5b12b5f1abdcc2017f187841ea23f7938470abd2a189"}
+  {:article/id "law/6502/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Bağlı krediler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "eca94cb5943787a2261a5f5cd9be2c2f6d8810575abf78730f1cbabfc65a7371"}
+  {:article/id "law/6502/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Diğer hususlar",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "3fb7ee9f3f97338f436225b47c51b77a24e25adb7cd04f16fb556372a09949c4"}
+  {:article/id "law/6502/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "1a8e0fa88052fb738a2523ec54fe4d898921bbb927facb776f0a6d7fedf7e71a"}
+  {:article/id "law/6502/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "672bf265ee3328d6c1e0c90e9ed1bb4903678ffd926af38ebe34c5d085bff2c8"}
+  {:article/id "law/6502/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Temerrüt",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "dfeefab1b0b1f5cf5df2e4be2c50d92ff1e60af10effca83e5e0e26e547c3407"}
+  {:article/id "law/6502/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Bağlı krediler",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "f66bb55798d80255ab5a3cca7f56eb02fc1ce51d903c8a451c7dd401c0dbb5b4"}
+  {:article/id "law/6502/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Faiz oranı",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "7707f443dcdd74fa2f413cf78d4c310329b8b177af957d493f313097facbfd88"}
+  {:article/id "law/6502/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Erken ödeme",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "6e1212a4795aaeb2799944338c1357e261dc518e7a83550edc299b06538ae808"}
+  {:article/id "law/6502/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Sigorta, yan finansal ürün ve hizmet sunumu",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "46bbb7f7bbccdd5c3ba4f213028fe3b6709a5a4d621bb4c13f3b9706b4dbe6ee"}
+  {:article/id "law/6502/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Diğer hususlar",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "ba225858c3b4eb38f440b0f764230705bd81fabb8fa440c391b61426f419de03"}
+  {:article/id "law/6502/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "83fd2ee42e632bfe801ba12102ae6f422ffa50bc1dc9a476a1b399d4768d34ef"}
+  {:article/id "law/6502/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Şekil şartı",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "b972145ad61a7d0835a4564cf1b5c63f8036dc09d406ff84b3f5bf9494aed7a7"}
+  {:article/id "law/6502/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Teminat",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "9a0284a37380cbdb7d47d0cbb2d005313e4e5c8e99db4643cd911c0b859e91e1"}
+  {:article/id "law/6502/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Cayma hakkı",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "d7c1bc77b4aca81645e57004779dc1a489e4b9cff1998bd3a9d87f3cbbd03c02"}
+  {:article/id "law/6502/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Konutun teslimi",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "1ecca5f2977dad97f604b75c7175312a4482646ff2aa19e7eeb63db208048594"}
+  {:article/id "law/6502/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Sözleşmeden dönme",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "50d05531d6d1a249380415fd2ded745eaab6b2ebda85a3df71c3a97e97d15079"}
+  {:article/id "law/6502/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "e5d64f866d1383a54bf7516436bba5336a7b916ee3af2062003cd23cab5e3620"}
+  {:article/id "law/6502/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "ff75f1cf3aa97534dbc54baf8f6490308abcb55fe6552390ad700f89784ae3e6"}
+  {:article/id "law/6502/article/47/A",
+   :article/type :normal,
+   :article/no "47/A",
+   :article/title "Doğrudan satış sistemi",
+   :article/path "articles/madde-047-a.md",
+   :article/sha256
+   "2de7b5ed537778a840c1abc67d25c3b7c68da7f517d8cd6287f00a42f2b66a94"}
+  {:article/id "law/6502/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "5746cb12cba2b94d39af2de57e3ba8011dd1917c1994f03493260ffb48288276"}
+  {:article/id "law/6502/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "48f5c419f8cc613bbf4c6139301bf09823cd100eb7181093aa38c007bf3a9f85"}
+  {:article/id "law/6502/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title
+   "Devre tatil ve uzun süreli tatil hizmeti sözleşmeleri",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "2e4eaf20e249ee0813f3b75d25fe506db0f4f6a18df51376dd7459677dbe91c9"}
+  {:article/id "law/6502/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Paket tur sözleşmeleri",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "474ad8ef1fbcdad1f9c528331bcffe9ae48d98c5dcfddb2cd4c829307efdba3f"}
+  {:article/id "law/6502/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Abonelik sözleşmeleri",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "89835f58a64fe9b7f66df9c4040c51c83b432fe8e1b614f9e2ce99bd830261bd"}
+  {:article/id "law/6502/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title
+   "Süreli yayın kuruluşlarınca düzenlenen promosyon uygulamaları",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "037dca6a45278244d94510e6b95fcab697a38ddbcd58d5769b9915db59306899"}
+  {:article/id "law/6502/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title nil,
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "1808ca1857116f8ecbf911f68ec0e98ef24de4195f08aea0f50b41318a595941"}
+  {:article/id "law/6502/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Tanıtma ve kullanma kılavuzu",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "797e007da0cdc9d09224bf2bd78546b883ce4596e58ef3fcbf8e7649332660f0"}
+  {:article/id "law/6502/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Garanti belgesi",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "09792cf8f723e27641f5fce2c71efa033bd33b1e80ea4853bce6b11d714ce980"}
+  {:article/id "law/6502/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "İhtiyari garanti",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "49a7bc980764bbaf48ee9fcdcc4f095542d1856a56053c799214bc62b0e42d1c"}
+  {:article/id "law/6502/article/57/A",
+   :article/type :normal,
+   :article/no "57/A",
+   :article/title "Yenilenmiş ürünler",
+   :article/path "articles/madde-057-a.md",
+   :article/sha256
+   "585fc61e92a46c452af73ac48446a84cd3eb7d3e6b901379f437019d23c6cf1e"}
+  {:article/id "law/6502/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Satış sonrası hizmetler",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "a9762cb23f94106ef45be91c3bc005ce7e5d942d8e236b5affa2f4ae5cbbeec6"}
+  {:article/id "law/6502/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Tüketicinin bilinçlendirilmesi",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "baf7c32b0ac0a8d344a874c1687f4bdc8fae3c8b511fcb546d15da0fe73ce5f3"}
+  {:article/id "law/6502/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Tüketici ödülleri",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "c2e66eea1686bc2a776f9c839a6fe1ca2dbdcf25769f905cd35fd22151b29b85"}
+  {:article/id "law/6502/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title nil,
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "972a7914b60982be9177530450731b09df917e3f36fb5c5d1bbb33e976fc8b84"}
+  {:article/id "law/6502/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Haksız ticari uygulamalar",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "f89f26514aa619f9f0579ae05fef65a92b7b9b94bcc27ceabf0b66d82f097056"}
+  {:article/id "law/6502/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "Reklam Kurulu",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "90edb66f6d19fdb381b9c76b9c0f3d9c2018a6db578efd0752ac540c365c8c25"}
+  {:article/id "law/6502/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "34213910584aab124bfa5f8cafcd29dad8ce993f01bb8f3bfff18ebd12dd1033"}
+  {:article/id "law/6502/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Reklam Konseyi",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "cfbca797c6d1e3dace35313f5cd984c67bb1ef143a8841a72888fe03ef4a3f0b"}
+  {:article/id "law/6502/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title nil,
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "e547c9426b7b694c7e60401b04da742e6ffdce3e09bbe4d11a8d74234c29d292"}
+  {:article/id "law/6502/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title "Raportör",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "ac5a743662917d47def506390c9003913c39ec65e79d0d51261a11bb760e3146"}
+  {:article/id "law/6502/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "Başvuru21",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "61af748511c63d3069f5f98e4b01af5d58ea902fb44da7166f8491dc3063a2f2"}
+  {:article/id "law/6502/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "İnceleme",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "e2a9d39390e88ac504a195cc1238789eabb128cf7d3e9bfe063cb8e98ab5e4e2"}
+  {:article/id "law/6502/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Karar ve karara itiraz",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "8c743a25215f2633f2774e63d013cb941bb9edd87c0da0933c81b1f5e45f200f"}
+  {:article/id "law/6502/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Huzur hakkı ve ücreti",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "a7d676503d435207ff0300f50a23c61735e1bcb44a8a3e845ced85ca6186c765"}
+  {:article/id "law/6502/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Diğer hususlar",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "62bf2bcda9db6a2633b366c4795a3d47ad8760e5fd31dafbefe889cfb1c24cda"}
+  {:article/id "law/6502/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title nil,
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "bc7297ec53fbf7c083a961480132bf1dcd9c5cc507048f8f693585bf01149d9f"}
+  {:article/id "law/6502/article/73/A",
+   :article/type :normal,
+   :article/no "73/A",
+   :article/title "Dava şartı olarak arabuluculuk",
+   :article/path "articles/madde-073-a.md",
+   :article/sha256
+   "7a0128621ab54acb4eb00bb081966886425f01c4cbf8d1cebb9cbd1dee1b9d27"}
+  {:article/id "law/6502/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title
+   "Üretimin veya satışın durdurulması ve malın toplatılması",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "d67707ae9d96da7823c1cbb1f585bfa9f582fabc6bbabdc5e55c4259d2fa782f"}
+  {:article/id "law/6502/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "Denetim",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "a2a8d9476e2553ad0756f208c80d26ab92b1c70f0970ac7aaed34614bb7fa608"}
+  {:article/id "law/6502/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "Tüketici ürünü ve hizmet denetimi",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "0984d52d87e12df92411ef8c407b7ca3cd759a0d91f73a3c65905f22bf037ea7"}
+  {:article/id "law/6502/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title "Yaptırım hükümleri252627",
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "8b10fbfe9319610a7f0c75bbffa33cb60b8e6c88c97ac26bac32d9736b7c3230"}
+  {:article/id "law/6502/article/77/A",
+   :article/type :normal,
+   :article/no "77/A",
+   :article/title "Uzlaşma",
+   :article/path "articles/madde-077-a.md",
+   :article/sha256
+   "9901d031442708a8c61e0e2d8c244df05694b559529e71697c4f291899952678"}
+  {:article/id "law/6502/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "Cezalarda yetki ve itiraz",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "2451f2ae1c5920b61a39bf8062cc765688cd2f34fe68deed655a36c6b8c791dc"}
+  {:article/id "law/6502/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title nil,
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "9ec9700ca1ac522ae293e93c9e4b6e61a77097499400420e08ee430dc491be68"}
+  {:article/id "law/6502/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "Piramit satış sistemleri",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "6bfd63a0ad7cd67ddb43685d3e27f0ef4b4664b4801b498e2631453c74556e89"}
+  {:article/id "law/6502/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title "Test, muayene ve analizler",
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "548908f28c5161778bb2e2d1dd9acd24354cbbe5f4987a295a90182fa559df8a"}
+  {:article/id "law/6502/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title "Ödenek",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "27b5842e68e1941972c9339abf02c5c9f3e5c2bd4ac5531114d84995d3a9f08e"}
+  {:article/id "law/6502/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title "Diğer hükümler",
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "b751696c70b54b94d7b25da3fd95ab62e504ed526e79a84f65935e57c1da6e40"}
+  {:article/id "law/6502/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title "Yönetmelikler ve diğer düzenleyici işlemler",
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "fbd3aff157b5d5fdcdf1b66c92de1f28c709b0922d647e4ec63778832dde887c"}
+  {:article/id "law/6502/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title "Kadro ihdası31",
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "b771f364a189e9c340fab0279ce50ca07ad7fa3e498cb9a622925446169abba7"}
+  {:article/id "law/6502/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "744026d90524473870a9500652a037991f197a4e1e7365293c038e6760079c1b"}
+  {:article/id "law/6502/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c4229042c046548237885466fcc63fdcf7a7a8dc291c4826abf0b77d1fb6c28a"}
+  {:article/id "law/6502/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "93ed4911e9b03c1ee46b29bf4f728aac857bc34aac36762b98bd4cdbbeb7e9c1"}
+  {:article/id "law/6502/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "42337189d0d8f2d0224186c82d1c4931e23991c6b82115a5ec1f73cca609457a"}
+  {:article/id "law/6502/article/87",
+   :article/type :normal,
+   :article/no "87",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-087.md",
+   :article/sha256
+   "57d7cb2c05e107cf20f73d6d57324d506cf70e4701465328b3e7bb1744f11e7d"}
+  {:article/id "law/6502/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title "Yürütme",
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "47546944a8105947f41e40969080c9c6d755d368553b25379b4499f69c5e3b2e"}]}

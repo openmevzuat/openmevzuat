@@ -1,0 +1,496 @@
+{:document/id "law/2942",
+ :document/type :law,
+ :document/number "2942",
+ :document/title "Kamulaştırma Kanunu",
+ :document/slug "2942-kamulastirma-kanunu",
+ :document/path "data/canonical/laws/2942-kamulastirma-kanunu",
+ :document/sha256
+ "1719cb523ba12d904f881f97e583b87a61dc5cfeb6502bedfeea9352326e9399",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2942.pdf",
+ :source/fetched-at #inst "2026-07-16T00:37:51.528-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/2942/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dac1b69d0a48fdbf5c9f4f14912617cf04681b4236106b663485f43597325e69"}
+  {:article/id "law/2942/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "bc2ac16f2ddeec92bcc1190cd52ed80c1d103969ed49c6d7241fa96bc9387a51"}
+  {:article/id "law/2942/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4d9661f110aa427a8f9185555c1be7351982d1dd8d2f2968b384b6b0c922025b"}
+  {:article/id "law/2942/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İrtifak hakkı kurulması",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8da153e023fa8d9ab68178de4c2c7e82f80e5dab89c4ede186eaec1779412bfa"}
+  {:article/id "law/2942/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "7edf1f57536cb099f3135f4a6f20ce2285daca869dea0277dbf76fa3035964e2"}
+  {:article/id "law/2942/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Onay mercii",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "fdb1c644caa71dd1a2a34f6372c1853c1c65065acb965b39c96fe6c6a360203b"}
+  {:article/id "law/2942/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Kamulaştırmada önce yapılacak işlemler ve idari şerh",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "908d722c71b9022948508e0300e788a1d70b85e35d29ca376f3124b5501934f3"}
+  {:article/id "law/2942/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Satın alma usulü",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "302b97a199c12d7b7a03d437bae97cd84489d90987247c3d520c9d0f3ca029ad"}
+  {:article/id "law/2942/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kadastro görmemiş yerlerde tespit işlemi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "0ca944505e7a3a68a47c306fdf3a29ec69ab2d765c21985749603de7d9d7440e"}
+  {:article/id "law/2942/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "73bbdc72ec6b62946c5089d1a2699bd9fb589224d8c65f88982a92a6d61d1b3e"}
+  {:article/id "law/2942/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Kamulaştırma bedelinin tespiti esasları:1314",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "4be1b1d7fe282fe873bb314e90ade99a9a49a5764222235712a11e396850fdd3"}
+  {:article/id "law/2942/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Kısmen kamulaştırma",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "1974186fcc4638a982d6d19539aa0c263b03d8b383e56435236580b9d2a5fe33"}
+  {:article/id "law/2942/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "92688fe72449e8f8154bae36afa1982eee10723684d541ad7ea97b27c78f1842"}
+  {:article/id "law/2942/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Dava hakkı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ed08299a91784348ec8ae16916c3a7f1afa364586466e6e742381bac80feea57"}
+  {:article/id "law/2942/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Bilirkişiler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "3d2f7da9a88505eabc1e0d2184edc053ffcf109f73004e76ef46a047a1da1f2a"}
+  {:article/id "law/2942/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "f0073814ea15bd186b4187e64a22480f73293cd04ea02e378a432082776d7155"}
+  {:article/id "law/2942/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "fd7f6f3c15e1932afaa99d0d7821705fefa22346b3b733afdc8b932793956de9"}
+  {:article/id "law/2942/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Aynın ihtilaflı bulunması22",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "d3c7db1d9293f29fdc4efc27433d664aca7468fda0fadcb59a5c00c1328bc634"}
+  {:article/id "law/2942/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Tapuda kayıtlı olmayan taşınmaz malların tescili ve zilyedin hakları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a332fc98943c360de282a47e2a9b460467ae49c1a4adfaa36c898f794ad41f03"}
+  {:article/id "law/2942/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "b27e4f2965917bf551768071feda2ecbfc4e524d79f68637fa4240081848a64f"}
+  {:article/id "law/2942/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "60ebe1c5f29826b5c9ee17febd8a20c88389fe53c790fa141c2dbcab9f873b92"}
+  {:article/id "law/2942/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Vazgeçme, iade ve devir25",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "a1bdc031b3bf0537191e9dcb6586c1ac7ca641f7662f5ceee550cbdda28a2f98"}
+  {:article/id "law/2942/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Mal sahibinin geri alma hakkı",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "f58ad23f8f6d7372b5a5a280f29923fa81c9657743df8302cb512ed80e77f7ec"}
+  {:article/id "law/2942/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "86f60e930205f311d94670fbb0bc9b0f61d6fbb70f72ffbb1e17ec86531cbc29"}
+  {:article/id "law/2942/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "66c8b23ef01db08f8b62929fbbc693997d93f2db2f4616096fb10dfae0fca706"}
+  {:article/id "law/2942/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "9ecc4165236ead10262646db73a20fcf966923c916a48fc2107c1bbc81e23ac0"}
+  {:article/id "law/2942/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Acele kamulaştırma",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "85dbc2ea461936ee0d2bcff7ac381a4ade7ebf2e312fbe744f721b9ae1016349"}
+  {:article/id "law/2942/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "79ea2efe27584b1ce31778872480e321d18567a3a662d0c72355c5379109ef7e"}
+  {:article/id "law/2942/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Giderlerin ödenmesi",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "bc81967fd68d620cb70a6fae4a73eac2050cc800023bed5334e06f11ddc8d8e6"}
+  {:article/id "law/2942/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "13321a297372453891ce35b67aebdb48b32a4c58dcb37762f79ec43b60d3e857"}
+  {:article/id "law/2942/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "056e39a560fb93cddd6e2c05eb3e67efa9c40df1ed5291c86dc349547911dfdf"}
+  {:article/id "law/2942/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "ab5994f24efc3fd13ec226adba1e0e04e987619705a850d4a7a17f3ad46516fa"}
+  {:article/id "law/2942/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Cezalar",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "cbe0c119fa33dcbc2c005f2fcd241e49284e08014ea140f704de8a7fe27e97c5"}
+  {:article/id "law/2942/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "58b2210d3e8d691e63662999461fe087de80931831191c2c65930b7113eebe51"}
+  {:article/id "law/2942/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "1517abad7f3fd94a93fb1664a2499d0f4f5c3fc8b935bd6ca744c82f063e6c32"}
+  {:article/id "law/2942/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Kamulaştırmadan sonra alınan tapu kaydının iptali",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "815fc724662a95fca61e38826bdc0318897eaedbf85cc13116a84dbbb715e149"}
+  {:article/id "law/2942/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yetkili ve görevli mahkeme ve yargılama usulü",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "a7016cccfe8993c44b2dcf682db1bf43824dab6e75a9f0576ca55dbe78a1e661"}
+  {:article/id "law/2942/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Hak düşürücü süre",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "ec7f98f4a85e55bb06398f8494c44bf21b0bab58d74b5a51b9977aa413216f92"}
+  {:article/id "law/2942/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Vergilendirme",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "4e3ab4f8e3727a40f6ffcbb7d58997c22127ce2120a084f4936f153f072c84ec"}
+  {:article/id "law/2942/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Kaldırılan ve saklı tutulan hükümler",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "83f2cf79ad07216eb29d014721c66bcdc1d0894752b0af726b7df95f15df4a52"}
+  {:article/id "law/2942/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "İstimlak Kanununa yapılan atıflar",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "eefd19a7d20a1735979e5ba797b93fb7976e64c0033622f367d05ba5283251db"}
+  {:article/id "law/2942/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "87b0d537fc0a825c838de16091967dd927b8494d0dbf9e2d5ef092988679a040"}
+  {:article/id "law/2942/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "42fba6eb5d59e921e85db95f13a3c6a5ca7c948eb6dfbf4690a6260d6038a6ab"}
+  {:article/id "law/2942/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "117979f3324cb67673777910c7d8176edf588c57daf87e550380c903423e88e2"}
+  {:article/id "law/2942/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "8585d51404958e5648942264118741f2e98b08ce9a8240dc4414a267a264b997"}
+  {:article/id "law/2942/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "8fa9426865e6846f2b7014cb411d0b7a74edef191cdb4d251ffb261756d0f50b"}
+  {:article/id "law/2942/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "79a4a577a8591cad2f2174c3e1764bb11e8fa0783a4b1d3f3ae7e52b0ea0801d"}
+  {:article/id "law/2942/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "69baf8daf05fe4dc8c04be1e764e63d96a778ef73826f79f0a833a90a687282b"}
+  {:article/id "law/2942/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "604c0430ad1340ba9989bd01ca81a5554d03b48e3dd0f4aa60e24aabd4622398"}
+  {:article/id "law/2942/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e93766bb8fe6aae28daec9ea60059142bd2fcd2e2db22d6470a6cb61b66ed805"}
+  {:article/id "law/2942/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title
+   "Kamulaştırılmaksızın kamu hizmetine ayrılan taşınmazların bedel tespiti32",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "6458603af598569fa0668cd0fcad57bcb3a6652e7d66030ab228551d445ebe34"}
+  {:article/id "law/2942/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "6d771cff5ca4290eaef076efe845700da9cf988f7947a890082d5d5ac1fab5e6"}
+  {:article/id "law/2942/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "9b17d9e9f6354147a3c4e2251d530a2a25e7a37ca90956feed6e4ba5d5896715"}
+  {:article/id "law/2942/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "26a4e928ee7d403223b817b55aaf74cef088dfc410ca1110b6d7ba4e1a27a3f5"}
+  {:article/id "law/2942/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "35ad13e5b09467e9b4bd71eb038edfeae291f91242b7efed34944e6d4eb3bba3"}
+  {:article/id "law/2942/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "2b6b478068f7b8ffab5abedfe8adc019b89c3332f10d2cbefbfdf333df2a2405"}
+  {:article/id "law/2942/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "02e2a62e2258123c044ecbcf36f28e2c0f0bd33264267d63aae6ba0cb9a9a21c"}
+  {:article/id "law/2942/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "1b510eb8a84fa816bbf9f8744b6e50a033e24d5064041cfa1e65b16d227a62e7"}
+  {:article/id "law/2942/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "4c89fd74fe9fb35b7a802cda70b81e98d922185e11c350620acd09696fa2db9f"}
+  {:article/id "law/2942/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "e07060635841b5e60f03fb5ad8192acc8ad3815d79526a75aae5e4a3f35f0c00"}
+  {:article/id "law/2942/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "929561554b6f50b6cba0a836ca13b62c604fc241e5289334649dcf9599c0dd2c"}
+  {:article/id "law/2942/article/16",
+   :article/type :temporary,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/gecici-madde-016.md",
+   :article/sha256
+   "4ba5a862db7f96386ffd3e1e88dd704863b1ef32b2e5ac9dc24f8649c976f4a9"}
+  {:article/id "law/2942/article/17",
+   :article/type :temporary,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/gecici-madde-017.md",
+   :article/sha256
+   "128ce19be7f3bb58541dfca814d0d9aa397d4d751bbc2bb942476f71db3cf802"}
+  {:article/id "law/2942/article/18",
+   :article/type :temporary,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/gecici-madde-018.md",
+   :article/sha256
+   "14548fffa4a518eba5110286efa30a8ed4a548f2823ab7d041ca5c1362bb186b"}
+  {:article/id "law/2942/article/19",
+   :article/type :temporary,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/gecici-madde-019.md",
+   :article/sha256
+   "8dd5af2e68795fac067331c418c5188ab1d4474768d6c269260c64ae6ffde15a"}
+  {:article/id "law/2942/article/20",
+   :article/type :temporary,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/gecici-madde-020.md",
+   :article/sha256
+   "8165812cd20b5f325a75a30aca121197db3292b8dafc3654bcd5e2c5d7197ffa"}
+  {:article/id "law/2942/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "86aa350f9d8d082756640555d916e6684d77effc0da808cd14c03926ef00ef65"}
+  {:article/id "law/2942/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "96a9830569d9b97a6f25eaa70da61a8a4aa62511f0c8dc2e67b0d7dfab1592f5"}]}
