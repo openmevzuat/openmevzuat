@@ -1,0 +1,170 @@
+{:document/id "law/4737",
+ :document/type :law,
+ :document/number "4737",
+ :document/title
+ "ENDÜSTRİ BÖLGELERİ KANUNU (ENDÜSTRİ BÖLGELERİ KANUNU VE ORGANİZE SANAYİ BÖLGELERİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN)",
+ :document/slug
+ "4737-endustri-bolgeleri-kanunu-endustri-bolgeleri-kanunu-ve-organize-sanayi-bolgeleri-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4737-endustri-bolgeleri-kanunu-endustri-bolgeleri-kanunu-ve-organize-sanayi-bolgeleri-kanununda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "4d5a3db056792a6cd61fecabcefd45b04eb7498d763b9bf7e3a9196c205ecce4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4737.pdf",
+ :source/fetched-at #inst "2026-07-16T02:33:25.928-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4737/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "07ce4042a10640c329a7d8f9f97e4d5cd1c584ba12094bcca91cd9e46f9fb18e"}
+  {:article/id "law/4737/article/1/A",
+   :article/type :normal,
+   :article/no "1/A",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-001-a.md",
+   :article/sha256
+   "d944398e877161a26ba48d7313880f259f6e974df5494041b537fb7414ef2705"}
+  {:article/id "law/4737/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Endüstri Bölgeleri Koordinasyon Kurulu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d1142cff16fce45e81bdc816e44cddac4b9c3fd314865a6b75c9880d75189e7e"}
+  {:article/id "law/4737/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Endüstri bölgelerinin kuruluşu ve ilânı3",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "00d549850897a2384d6d5fd2b395a91b0f004fcf6ab43412c7f674fe7193a37c"}
+  {:article/id "law/4737/article/3/A",
+   :article/type :normal,
+   :article/no "3/A",
+   :article/title "Yatırım izni",
+   :article/path "articles/madde-003-a.md",
+   :article/sha256
+   "f2ad9ccf2f31dc56debbed44c21b3300dff199b85ef5f11ae3de60d4b88d12a4"}
+  {:article/id "law/4737/article/3/B",
+   :article/type :normal,
+   :article/no "3/B",
+   :article/title "ÇED süreci",
+   :article/path "articles/madde-003-b.md",
+   :article/sha256
+   "42b2d88dc634b9d45b0274afa61d7890bc3bd6ca8cb4d1a974ac1ac940b38721"}
+  {:article/id "law/4737/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Teşvik tedbirleri ve mülkiyet (Değişik başlık:20/10/2022-7419/5 md.)",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "048984d43c8cc899454df59f55b632af93fd565229215219de364384c7de1631"}
+  {:article/id "law/4737/article/4/A",
+   :article/type :normal,
+   :article/no "4/A",
+   :article/title
+   "İmar plânları ve altyapı (Değişik başlık:20/10/2022-7419/6 md.)",
+   :article/path "articles/madde-004-a.md",
+   :article/sha256
+   "f95796b9c8df4f23e4fee357e98181e7dabd8cbc2ec64ad32c1f0c9e48b22e8c"}
+  {:article/id "law/4737/article/4/B",
+   :article/type :normal,
+   :article/no "4/B",
+   :article/title "İhtisas endüstri bölgeleri",
+   :article/path "articles/madde-004-b.md",
+   :article/sha256
+   "b6688a9147420e9fa2ae2278d1c8ed3b00b5a09922cbf318c175c87e6f77a3bb"}
+  {:article/id "law/4737/article/4/C",
+   :article/type :normal,
+   :article/no "4/C",
+   :article/title "Münferit yatırımlar",
+   :article/path "articles/madde-004-c.md",
+   :article/sha256
+   "bbe25548fc8c58e9522b4c0ea92d76ae7d7460ac58ae7d8528b78131d803d95b"}
+  {:article/id "law/4737/article/4/D",
+   :article/type :normal,
+   :article/no "4/D",
+   :article/title "Yönetici şirket",
+   :article/path "articles/madde-004-d.md",
+   :article/sha256
+   "a9947dc81a4f491f816722d9d13022de005aeb338a13ea9dfff74f0ac1867277"}
+  {:article/id "law/4737/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "67afd2c2ac0b791e33c48e42a67dd08900aac1041a0a37e9c46a1c02a3ff7964"}
+  {:article/id "law/4737/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9b9d5becad57359d53f85c59b01fe394397e83aad50af60145ff5e38848a332d"}
+  {:article/id "law/4737/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "be3b60875241f3840b01f37769c71281920895eee7291d77ec39dbad7da38572"}
+  {:article/id "law/4737/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0a95711bc0a5caf0aa4f8e80956e5418990ff00a3b13e1a0eccbb38ccfbe4535"}
+  {:article/id "law/4737/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "2e849b908072575f84571ceb57f753cc6e5a1b8a495c7726ca50b805647674d1"}
+  {:article/id "law/4737/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "4a3095c1ffa11b2699d55651528974616681f680963b263c3eadef53683a715e"}
+  {:article/id "law/4737/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "d57cad9187ccae00dc7a71a9afcd8fa88373cabdcb191afe8b7aceec27d17861"}
+  {:article/id "law/4737/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title
+   "Münferit yatırım yeri ve ihtisas endüstri bölgeleri",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "a397e1566278b313a0ccada93136bcb0aef7dc5b5cd04fffd2bc851c87015ce6"}
+  {:article/id "law/4737/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6d5dea3c60439db3be3505476856789045b945f9ce89b8e45dae379fb14f9f5e"}
+  {:article/id "law/4737/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0f95af171f087e85d51dd5e2f79f3e9a40e4715e8af2180eae9f4b208d638346"}]}

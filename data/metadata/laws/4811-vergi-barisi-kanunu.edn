@@ -1,0 +1,181 @@
+{:document/id "law/4811",
+ :document/type :law,
+ :document/number "4811",
+ :document/title "VERGİ BARIŞI KANUNU",
+ :document/slug "4811-vergi-barisi-kanunu",
+ :document/path "data/canonical/laws/4811-vergi-barisi-kanunu",
+ :document/sha256
+ "721514cfc3891cfc9b592f0ccabaf902cab58bc0601bee6edcc42f649f65a53e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4811.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:10.851-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4811/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "88298b6f3d398a9a84bffc79b4cbd25b9b4da29a0b88b45f16ea3d7183b0c32f"}
+  {:article/id "law/4811/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "52c7382993d6bd09284f1a3b41c22981c563ba4ef6cdec7b9ae8d55450c61b39"}
+  {:article/id "law/4811/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Kesinleşmemiş veya dava safhasında bulunan kamu alacakları",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "69bec9d4af41bc8c220f57dfc91c6705e4f45afb79652a31ba5a29916006f551"}
+  {:article/id "law/4811/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Gecikme zammı uygulaması",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "55b50d25a5188f321f7822973da5a3fcf854244f2b68a2e07e50fb6f5d81f0b4"}
+  {:article/id "law/4811/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2ca7fb8beba010123e95b67e5f9c6c39c822f905e373d39060231f2ef2b956c6"}
+  {:article/id "law/4811/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Pişmanlıkla ya da kendiliğinden yapılan beyanlar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "34d9baa0dc351415e1232c5c2ba7bb008e3136af9078a427b80406489b7b3a95"}
+  {:article/id "law/4811/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "be99391f710fef12a0d98d2fd21cfa525186900f01df98d38bfb238d129ede78"}
+  {:article/id "law/4811/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Katma değer vergisinde artırım",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d3475ffe203763a7990775fc5db03497c8b748dd7abd360c2823012ab6771596"}
+  {:article/id "law/4811/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Gelir (stopaj) vergisinde artırım",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f53046d5d6603803695de0e874bf692f59fd01c93244d293acab224817e7986e"}
+  {:article/id "law/4811/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Matrah artırımına ilişkin ortak hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "741935a5b35c2a5260db17d9c65a8ad0c4fb73b259cc07ff4dcb270b6b374e2b"}
+  {:article/id "law/4811/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d5e80ced0bab124142b24eb03de74167fb0b2636df7b9fce920fb86667b9821b"}
+  {:article/id "law/4811/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Kayıtlarda yer aldığı halde işletmede mevcut olmayan mallar",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "5dd52e715b651baa9ff3bd5f639e57bd0f1c24ccf205f8da882bbe57a7be6326"}
+  {:article/id "law/4811/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Kıymetli maden ve ziynet eşyası ile ilgili değerleme farkı beyanı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "b43def020af234d050ea515850c8b0a0b2b747dc021feb5ce14b39756d669521"}
+  {:article/id "law/4811/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "190f55e5658473e41f7aa4d53cb17c0b51f7c7116e4fd20ba316d50fa744bfcb"}
+  {:article/id "law/4811/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Ecrimisil ve bazı alacaklara ilişkin hükümler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "26106e7eda7d73d18cc2807fa3be87368960aa7d5336e68fd4725138cffd2597"}
+  {:article/id "law/4811/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Belli tutarın altındaki alacakların terkini",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "0b9d13eba0e09d1f65350a93aec09fb05709abe83e72e986ea0e5a13103e7a9d"}
+  {:article/id "law/4811/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kamu kuruluşlarının taksitleri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "181429fc7ed008d4fcb90bd1146911d761fcdb5b53ea77132e00ce779524665e"}
+  {:article/id "law/4811/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Süresinde ödenmeyen taksitler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7b7e962fde95260e38ff0c8df90e012154863537aa41111a9178477d73963310"}
+  {:article/id "law/4811/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "ece34cf1a14b9c7c9f9998c155008a9b6b6fbaabe8d07bdbbdcecf329ff55a7f"}
+  {:article/id "law/4811/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "52b17f473cf6dd905ec0a598558f3a09fc28dd95c9ba191beac87aa650f921d9"}
+  {:article/id "law/4811/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yetki",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "75ffa23524c56e433b55f586b710f5263f6a3a9ef30c0ed80ef2ce36f12b6745"}
+  {:article/id "law/4811/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "4d26d2009a27e54c0108253827d76d2420c49dd7ef708f6ba32cd2c424efa975"}
+  {:article/id "law/4811/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürütme",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "4d5078d2426d6407851193fa2520821a33d64ef8f14be3dc3eea6cb0fbfc3c1f"}]}

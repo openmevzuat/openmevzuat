@@ -1,0 +1,48 @@
+{:document/id "law/4639",
+ :document/type :law,
+ :document/number "4639",
+ :document/title
+ "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ HAKKINDAKİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR YETKİ KANUNU",
+ :document/slug
+ "4639-memurlar-ve-diger-kamu-gorevlileri-hakkindaki-bazi-kanunlarda-degisiklik-yapilmasina-dair-yetki-kanunu",
+ :document/path
+ "data/canonical/laws/4639-memurlar-ve-diger-kamu-gorevlileri-hakkindaki-bazi-kanunlarda-degisiklik-yapilmasina-dair-yetki-kanunu",
+ :document/sha256
+ "55eb419d32e2170cc92e0fd0eb7ef9befe206311e2ca2e47fcfb5a9121816c9a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4639.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:00.958-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4639/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fc9781c8304436f277598ac6ec4fec85d8da0e041acbef85c4f994de1968e069"}
+  {:article/id "law/4639/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İlkeler ve yetki süresi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "66747df9666ad72726f3ffba71df0525bad6a16461b04acdd638bfd73c270df3"}
+  {:article/id "law/4639/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0819bd34777b99c88fe38a0fb61ca7d0e6ee48b30db592f8bb339addc15e2a5d"}
+  {:article/id "law/4639/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürütme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "fd094a651fc0aa645269adeafb7e456377f63978d509b948dc78ffc50ded9715"}]}

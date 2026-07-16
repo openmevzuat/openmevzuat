@@ -1,0 +1,81 @@
+{:document/id "law/4875",
+ :document/type :law,
+ :document/number "4875",
+ :document/title "DOĞRUDAN YABANCI YATIRIMLAR KANUNU",
+ :document/slug "4875-dogrudan-yabanci-yatirimlar-kanunu",
+ :document/path
+ "data/canonical/laws/4875-dogrudan-yabanci-yatirimlar-kanunu",
+ :document/sha256
+ "cdb2652e60f8d9a8e34be65fa18bdc9ac7ea2597200c20d2e5e12bdbe5f57c51",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4875.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:31.684-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4875/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f1f202baf50b925f9ffc7124d0efee1e83a2d2ff00c95581cc0d886592b7e6e2"}
+  {:article/id "law/4875/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "15dda3342f1913f88220cc11ee0ceca303f66ff62a7ebc395fd7c9bcf170254f"}
+  {:article/id "law/4875/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Doğrudan yabancı yatırımlara ilişkin esaslar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f1f198d8bb5caa37ed1133653bdd5ec73fa47d59804aedca4cd104ebc9d0f678"}
+  {:article/id "law/4875/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Politika belirleme ve bilgi isteme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e5354351c553f0b902cab3896af58d1b55c5a3b000ed76c1321e6e55113fecc6"}
+  {:article/id "law/4875/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Çeşitli hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dbde29a2faa9498ec075ee4e21bd5dba5937b605641c9391700e5c5f7261eda3"}
+  {:article/id "law/4875/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Nitelikli hizmet merkezi",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "7808caeccff4b2ff080d3f50123159d2f7fcf2521f6fceb648b8ff9034441865"}
+  {:article/id "law/4875/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2187c8b1afea779df6102a0f10ef743f48b801c321623a31637ecc82741a0de5"}
+  {:article/id "law/4875/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f61ce005c4b958beee866186a7950d425f10fd7aecf91e35814add2f33d877dc"}
+  {:article/id "law/4875/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bbd31c51265adbc91f235aced288b2c14c28a89799f2be7546dc326339ed925d"}]}

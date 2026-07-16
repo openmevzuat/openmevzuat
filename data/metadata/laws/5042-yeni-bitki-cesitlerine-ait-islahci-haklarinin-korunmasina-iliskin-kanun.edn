@@ -1,0 +1,573 @@
+{:document/id "law/5042",
+ :document/type :law,
+ :document/number "5042",
+ :document/title
+ "YENİ BİTKİ ÇEŞİTLERİNE AİT ISLAHÇI HAKLARININ KORUNMASINA İLİŞKİN KANUN",
+ :document/slug
+ "5042-yeni-bitki-cesitlerine-ait-islahci-haklarinin-korunmasina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/5042-yeni-bitki-cesitlerine-ait-islahci-haklarinin-korunmasina-iliskin-kanun",
+ :document/sha256
+ "297f729a7651c36ac6f1b958acce464d21ab571d72e0c615554e08241e50cd11",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5042.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:41.463-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5042/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e997ac40797378adff89f2765609fc3c919bcd0b6b4bda461f1514ee1c9f3b3c"}
+  {:article/id "law/5042/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6e47a216c558620b363f0cef115f20cede269b30fa31c704769743b594be68b6"}
+  {:article/id "law/5042/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7dee50b7a22a883f429c55afcf67e35a40f742c5672ad57bef52c9bedb5620cd"}
+  {:article/id "law/5042/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Korumadan yararlanacak kişiler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7ebba9fbd5615cfc2d2e878915c369646b3c976854ae05ff85f3fbb74e7956c3"}
+  {:article/id "law/5042/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yenilik ve yeniliği etkilemeyen durumlar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "36228ac2a3d5e161e79ab4c0a5a0fb74db8110bfd79a539ed7da45f7a2bcf550"}
+  {:article/id "law/5042/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Farklılık",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "fb6fc3e2fc46820702513f3931d3a6306eda0bb57567f27050c3d6f7597e1459"}
+  {:article/id "law/5042/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yeknesaklık",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "04dd768d8534e79225a01cf7cd100ac07cbd22f3116c3f29358b17ccc645566b"}
+  {:article/id "law/5042/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Durulmuşluk",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "54757bada2e6bf928d2976ebe40bf590e09a8cefe213009706c77f73cffe4724"}
+  {:article/id "law/5042/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İsimlendirme ve ismin kullanılması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5cce211e6fb3eae65aa12cd1037d503cca7bf42cc1941e557ea8c866ba81b151"}
+  {:article/id "law/5042/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "bca62d86ab44e96a4193ac8d0af0331eeddd67b7efe01f06a588c54666de0805"}
+  {:article/id "law/5042/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9e2b4bed366004ddbd99cf8e2ca56c53437029a71858ae010654ad99d9f78a69"}
+  {:article/id "law/5042/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Hizmet ilişkisinde hak sahipliği",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "be9587e877d3e367795452fe14565c4cc5de4f4cf94a3d31ef91945a4452dd23"}
+  {:article/id "law/5042/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Hizmet sözleşmesi dışında kalan sözleşmelerde hak sahipliği",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9cea148d7a04fb0399b4591a635a9d1885780135f76d3402c2caf13ff17b1b09"}
+  {:article/id "law/5042/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Hak sahibinin yetkileri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "28e98a96bd6222e1aad36d0be7417878f4f7b36cfd82f324b3f9e01a956aa0e4"}
+  {:article/id "law/5042/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Başvuru ve tescil tarihi arasında kalan süre içinde yetkiler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "b5b4eac94af8d8a304d3bb5d3bde01efce256378f95c789baa7675d4f0439f6d"}
+  {:article/id "law/5042/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9c116b1fa2d35f1ece4098940825507afab2ab49c0ac00fdc70a2a9c714434d0"}
+  {:article/id "law/5042/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Çiftçi istisnası",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "6718af6e2e674b3332e5efae369c01709e9aeac45a6909b1dac959cbc8868e2a"}
+  {:article/id "law/5042/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7d1e3dbcc2f6de2086dac415cd19ede3c02e300a15eb35911a9925b509311516"}
+  {:article/id "law/5042/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Zorunlu lisansla ilgili arabuluculuğun talep edilmesi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "02f609a7f41144e636bc0dabea594c234cf2eb582fabb4419cd7c222256a2f20"}
+  {:article/id "law/5042/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Bakanlığın arabuluculuğu",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "233bafd3bef7b5c79ff83235dd1a7b9e156a138ad2b4fc129b0f640896bb3743"}
+  {:article/id "law/5042/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Arabuluculuk işleminin yapılması",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "8df29397f145e344e11a536c4681cd217dcbffe5e7bd0e51a08b0198bada8479"}
+  {:article/id "law/5042/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Arabuluculuk faaliyetinin sonuçları",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "20d7c1d2ccb3ef8e7cf80114303879efe7bebbb56be78c1681b2e3f5b8d8f622"}
+  {:article/id "law/5042/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Zorunlu lisansın talep edilmesi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "7c0d8c4261b4a278cf4a41c84619d1826215daff5e05d5fe3c49aa88074e74ce"}
+  {:article/id "law/5042/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Zorunlu lisans işleminin başlaması",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "591b7f43f858031b52614d78a42a41aad78af18fa6e44b7893c685e81803bb9c"}
+  {:article/id "law/5042/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Zorunlu lisans kararı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "1b8f4aaa39f03a4e1e84ed877d81ff8586a7b493f4e8a276dbf87e50a630cafb"}
+  {:article/id "law/5042/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Zorunlu lisans işlemlerinin durdurulması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "f9525d19a3ba03e5a5ce34b5fd0fcf00cc60d5e78adba547654bdeb9d3068b3c"}
+  {:article/id "law/5042/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Zorunlu lisansın niteliği",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "b4543a32d448a80b74c9e4260a595815af508b51b0ea88bc5e785a12e58108f1"}
+  {:article/id "law/5042/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Zorunlu lisansın devri",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "6d7dbeb37ef4e2e62a2e57842aaa384074b2e4380d319c485fdb38f0d09c93ab"}
+  {:article/id "law/5042/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title
+   "Esas itibarıyla türetilmiş çeşitlerde zorunlu lisans",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "8a8a6cd2f5983aeb8f6a6dcac8c256a185fb24a5455959d51165f064c99856e2"}
+  {:article/id "law/5042/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title
+   "Sözleşmeye dayalı lisans hükümlerinin uygulanabilirliği",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "8c1265b57bae37e6e184dd0fc5dba8a6eaeea7143b8c29ab78127d24c7ddb968"}
+  {:article/id "law/5042/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Islahçı hakkının tüketilmesi",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "638ffeeece8a3253f074e141ff2d43febedffbce8998141a25b86a9ecce1aac1"}
+  {:article/id "law/5042/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "0dae0dacefd539e6e709d63bae5066b1a933b23005db8e042953624d99e7742f"}
+  {:article/id "law/5042/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Başvuru şartları",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "f2ff4b96328f942cbbbb4ccff87087e5ce75851e8296a3fbc75f1e1c4ddc7654"}
+  {:article/id "law/5042/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Rüçhan hakkı",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "87c3b641d53b5d125f7adc2ddc49098bb0d628ea1116ddc529bf569affc7ce0e"}
+  {:article/id "law/5042/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Başvurunun incelenmesi",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "32a95db001930c2da32e31b82289fcdbcaaebb5bc1f467545b333edead09b45f"}
+  {:article/id "law/5042/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Başvurunun Bültende ilânı",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "47c92316802d91137f8ff03ca78893628f96dc71d73ed94aa4252f8052ff0357"}
+  {:article/id "law/5042/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Başvuruya itiraz",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "6f33c5f05c715b28725f29e397775acf57080e1d8ab2a9240770c13a84ff6f87"}
+  {:article/id "law/5042/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Başvuruya itirazın incelenmesi",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "259653650887f51dc53a3aafd60e63f8007af08a0b30281ee43d2962ca1256fc"}
+  {:article/id "law/5042/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "9a0c219c25e9b279a8e69662c18c47b5d179cbfa458eb37e1dbfe63371d9f6da"}
+  {:article/id "law/5042/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "İnceleme raporu",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "08e22ab75e78b5b900191b04ca6435c3ace529faf23cdf51f787c64426850b2f"}
+  {:article/id "law/5042/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Geçici ismin kesinleşmesi",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "9e6d8f41de41b752d4409fe1d49bb69e85a24c17c9bf380f1d12161f2f80ecaf"}
+  {:article/id "law/5042/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Başvurunun ret nedenleri",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "d3804fa63a51366ce7167f0b744adf26595fd5a91494828b55a63c96a3a0c149"}
+  {:article/id "law/5042/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Tescil",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "a3955bb73e2b9c0d97db567d254ec66fb07509f4723c0c130ad8a21d0c6558eb"}
+  {:article/id "law/5042/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Tescilin ilânı",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "13063467b10b6fb2df73e22d82b9f4dab8d83ffb13ff7432ae520816bb23786c"}
+  {:article/id "law/5042/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Tescile itiraz",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "3d0d3277d254d3d83c1551e08649f1a79d0ee9f89a1dda4fd5bb8866f00a3230"}
+  {:article/id "law/5042/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title nil,
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "282f6cf3a4edbac0674a8ed147949a93dba7b2fa86f2d3421ca3277122a4c236"}
+  {:article/id "law/5042/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "a2cdec7aebacdd3ec00fd91dc734e108cb7ec71e9d1e8f3957a65121391d5f6b"}
+  {:article/id "law/5042/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title
+   "Bakanlık tarafından yapılan denetim ve ıslahçı hakkının re'sen iptali",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "58e62cfb0e239811df6bb36dd42c05195b5734d3a76da21e0c3e5d23edb4cfa3"}
+  {:article/id "law/5042/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title nil,
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "80d58e5f1c7b1c96b9ac536ffa19f2780599d8d9cb98c1c31daad07b7fd34055"}
+  {:article/id "law/5042/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "8e8339ba38fff3b8b2e383a26500953d4de17e0cdca5cf6acebc103e7f8c13db"}
+  {:article/id "law/5042/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title
+   "Hakkın devri ve lisans verilmesinden doğan sorumluluk",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "cd0b8bfae7ed5cdcefbd797a4dfb40dd567ab5968a8678e43d53329941707428"}
+  {:article/id "law/5042/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title nil,
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "ed5970e30e9e9cecee8ec271e5b4acdbb0e0de61a5e2ceaac4cc9242b69177cc"}
+  {:article/id "law/5042/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Hükümsüzlük talebi",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "7bbd3ca176856fa3d71c982bd0fd2e0543ab5e96e5a86d1d1808ffd57fd9aa0e"}
+  {:article/id "law/5042/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Hükümsüzlüğün etkisi",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "e3af80e157873cb34fdc5d461d57caac8fd10a71617aacb0cd9330f50e8a6643"}
+  {:article/id "law/5042/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title nil,
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "7d5023dc0b3dc7d94bd3b7739d9fb9cdc0bfb10ad198362bda1653510ad81a50"}
+  {:article/id "law/5042/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "efc55ad88986c9d4d4ac919816e96e8417f8bf24d925be010f83f6fd4b2f37a1"}
+  {:article/id "law/5042/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title nil,
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "9c68b419e39f05c0c270e9a866fead9c51712e8fa106d38a224cbaa932a0b721"}
+  {:article/id "law/5042/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Tazminat",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "4c1bffc12d5128a1b7fe9f922bb7aea826fea246406c53fb117bf789781876ac"}
+  {:article/id "law/5042/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Yoksun kalınan kazanç",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "16df43f2ffae810b4f112b4266a85e24f3c1784e617ab770160a50074b5ed54d"}
+  {:article/id "law/5042/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Bedel davası",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "e6ed2776436b1f72fa9164f3134871c094d07777012a19c545c2a1f67621949f"}
+  {:article/id "law/5042/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Hakka tecavüzün olmadığı hakkında dava ve şartları",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "40ed7532b2958d2a172a87aa40cf473b48fb21478d10cc9bb2059b66b60eebbf"}
+  {:article/id "law/5042/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Tespit davası",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "e7fe36fef8509382784bd0ca3933e1a8d818ecbb9c9abf0d87cdbf830dfb5e07"}
+  {:article/id "law/5042/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title "İhtiyati tedbir talebi ve niteliği",
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "4a6b02c7caf943a466d2cd8757f42075771ec37be91e853f75023c4603546a59"}
+  {:article/id "law/5042/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Hukuk Usulü Muhakemeleri Kanununun uygulanması",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "ae4a571dc919f6271d1f0bc55d923a08b519ef97e9d56bc78f7e46b70509efdf"}
+  {:article/id "law/5042/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "7fcba3f99dc5b967ae5b4ebc7c1dc32d74831679ddeff35ccd17219b325ea157"}
+  {:article/id "law/5042/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title nil,
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "35f60c57722f4e904ddcec3b983004dd72bacc3da5d05345feb14bbbf03dc457"}
+  {:article/id "law/5042/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title "Usul ve zamanaşımı",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "77605c2e83bdceafafa61b53f1f7fb75557c7fa1ac7c87f267fc77a7f216ef8a"}
+  {:article/id "law/5042/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title nil,
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "2467dd2766a48d9a6ac2cf9a2747cda087e9b42c057c67a7d318bef92cba502a"}
+  {:article/id "law/5042/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Hükmün ilânı",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "c530c71401caba6056789f440faf53aa453e54fdde75b99af9f885e5d326000f"}
+  {:article/id "law/5042/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title nil,
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "8e08e95987932a689d6515ff5167cf58a672b3371d062837051f1e68d420cd03"}
+  {:article/id "law/5042/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Bitki Çeşitleri Bülteni",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "0010b7e0b64d2d6096b4a819c76ec6371575b31ebb3dbb74f69e88b494bdd60e"}
+  {:article/id "law/5042/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "c8dba3be3acd02035364623b811c29db22c82879aa0fd7828af3ff52d962534d"}
+  {:article/id "law/5042/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title nil,
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "d9a1c219e345bf723a68ec02ed419b28048520e53c78b6b774a7f809014df36f"}
+  {:article/id "law/5042/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "Yürürlükten kaldırılan mevzuat",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "521dfebd71176357b1937f4a5556517c24d6c82830829e5f523cac15b910b413"}
+  {:article/id "law/5042/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "662959281c10e3d2f6a575339f0a7f861953ae0e694474241c2a2b8169b1a1ac"}
+  {:article/id "law/5042/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "f8c9c71d60676793999f1a8ddcb0a18532089690d1ba6460daa283c85a8d2891"}
+  {:article/id "law/5042/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "b0e0f733f463bef556b734f56872acd0f84a5e1256215c30f2afa3d461ea28af"}
+  {:article/id "law/5042/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "Yürütme",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "bd545ba978bf0d278c25b0268462b5a094b4e3c4ee613d2988a3d7d42903efaf"}]}

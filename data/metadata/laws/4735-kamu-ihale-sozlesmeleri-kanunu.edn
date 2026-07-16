@@ -1,0 +1,375 @@
+{:document/id "law/4735",
+ :document/type :law,
+ :document/number "4735",
+ :document/title "KAMU İHALE SÖZLEŞMELERİ KANUNU ",
+ :document/slug "4735-kamu-ihale-sozlesmeleri-kanunu",
+ :document/path
+ "data/canonical/laws/4735-kamu-ihale-sozlesmeleri-kanunu",
+ :document/sha256
+ "72c5a0c0d15edfa94da8e0072fa01b548401303097da7d61c56869793c297288",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4735.pdf",
+ :source/fetched-at #inst "2026-07-16T02:33:19.361-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4735/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "19fca3e7108ae38331120380db66e8b5c59a7dcd7f2d1ac5cf7c6acc813a43a6"}
+  {:article/id "law/4735/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e2fba7b70a42c296ba6f6acdd217b94273243fbfc94868a4c271dc3e981f05f4"}
+  {:article/id "law/4735/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e01b4b3a9ad9c1193d96d4124d9b817bfe3b1349b280bea12b830b5c727208ed"}
+  {:article/id "law/4735/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İlkeler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "181741dbc11d3f997e9cb0d9ab375df82f69fcaac1983aa7a5a5d66eee8cef7d"}
+  {:article/id "law/4735/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "05dd0005b23951ded8bd5b3b52474716542d2fb94c881a0e9af9ae0dd184cceb"}
+  {:article/id "law/4735/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Sözleşme türleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "bebbe30cf1b8e99f0b121f357e7687c30b59390e553c62db65573b724d2aa277"}
+  {:article/id "law/4735/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "14cbda3ff48605b956c967fe88868dee3bf13edf1e33c7eeb08934ef179280a6"}
+  {:article/id "law/4735/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2b2efc49b992d7703e62d8b5b44683fa685aa7746e62efb305a0ce601e6c5945"}
+  {:article/id "law/4735/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İş ve işyerinin sigortalanması",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "491891526e3bb5c5ec380a4835e528dc2dc5c050a3a9bcaecf9b28fbd809ed43"}
+  {:article/id "law/4735/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Mücbir sebepler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "2a3ea1bb88faa1bac82a45bf502a4508cc5950f8432835175d7f37bd82d3fe05"}
+  {:article/id "law/4735/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Denetim, muayene ve kabul işlemleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "ac72d1b2f8861d83716c8960fa96bc55b49607e141ee341b3d34aca79532e07e"}
+  {:article/id "law/4735/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "305003792d5f9138bbb7c2d9d41803e03f292f84750dbadc2b09a149d5882a1e"}
+  {:article/id "law/4735/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Kesin teminat ve ek kesin teminatların geri verilmesi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "eeaff1e9123dd73e6d751f6dfa8109ed6f9af2fd1e28e627ea7c562969b8788b"}
+  {:article/id "law/4735/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İade edilemeyen teminatlar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "6e628afb7ef62c5915823df7c0c580a8f459f9fbfeb6717ee843db7bbb9509f7"}
+  {:article/id "law/4735/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "400e044a610c3b13e925ff81924d1d54b4afad508ff50722bf29bb495fab6022"}
+  {:article/id "law/4735/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Sözleşmenin devri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "d9e30f6c93d11578e7b4b480cfcf106e96567b07d479c4c32c88073f2b77d8b2"}
+  {:article/id "law/4735/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Yüklenicinin ölümü, iflası, ağır hastalığı, tutukluluğu veya mahkumiyeti",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "dfc4abb887965dee2af8c6b00f230384efd1650a3084570e7159e9c182ee5581"}
+  {:article/id "law/4735/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "bed89393fe1e6540fd94540ca6a874a30d98f9bb2aa4e0de4c50ccc593fa7d6e"}
+  {:article/id "law/4735/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yüklenicinin sözleşmeyi feshetmesi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "595214bf5af97fe34b9d45c2e7a8410b4128715cf48e0188c1c9b5e4ec4d21f9"}
+  {:article/id "law/4735/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "İdarenin sözleşmeyi feshetmesi",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "2d16bfcee19f3138540752c6264debf9a0e3cfe15985b908e000fdd9bd852dfe"}
+  {:article/id "law/4735/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Sözleşmeden önceki yasak fiil veya davranışlar nedeniyle fesih",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "2949a4eef3254efe2b5522d7280cf556265f00a1cefefdcf1bf8d52367b295a1"}
+  {:article/id "law/4735/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Sözleşmenin feshine ilişkin düzenlemeler",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "bd90be82e2752ddafd96219a7612e6fedd8010b9334c681487d44318c297ceb0"}
+  {:article/id "law/4735/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Mücbir sebeplerden dolayı sözleşmenin feshi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "59f5ff313aa0015934972683e30e95e05039e5c17bf4bd79be27ddcb60121014"}
+  {:article/id "law/4735/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Sözleşme kapsamında yaptırılabilecek ilave işler, iş eksilişi ve işin tasfiyesi5",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "ed631101928813036075c0358d10c939b705e7bc3ea0505f03e6e12a108c43df"}
+  {:article/id "law/4735/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "5f7dbc4d33b2551aee3df537ee05255c7662d09f0333b7886a5a15b44e2ba84d"}
+  {:article/id "law/4735/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "İhalelere katılmaktan yasaklama",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "e5a0ab820bcffbabf9cea9fa2efc372d7568434096c1ec783b7501f29b662963"}
+  {:article/id "law/4735/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yüklenicilerin ceza sorumluluğu",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "803f230d80bbb8a99871129db3a8f19715032633eefb7240e990e90cd60eba3d"}
+  {:article/id "law/4735/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Görevlilerin ceza sorumluluğu",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "f627543b484450e47a0b518fc42cdf8772c126c0eea00f05f3164d23a6444f89"}
+  {:article/id "law/4735/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Bilgi ve belgeleri açıklama yasağı",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "52641b8e1cb7621aca5042059213b4f0d45a3b983447d8414a62b94bb0556d50"}
+  {:article/id "law/4735/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title
+   "Yapım işlerinde yüklenicilerin ve alt yüklenicilerin sorumluluğu",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "1770b4c597b2c551ef8ee302d56d407a91331977bb53549b0decd429a821d7c7"}
+  {:article/id "law/4735/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Yapı denetim görevlilerinin sorumluluğu",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "a80aa853721fc20d81c0fa7a3670bd4344003198e0c9ed1fd73633675a3370cb"}
+  {:article/id "law/4735/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Danışmanlık hizmeti sunucularının sorumluluğu",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "7df801b8f5eea69ae1e3980f5b0d5aac33aeafe460624c700e25b3989379f1b0"}
+  {:article/id "law/4735/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Tedarikçilerin sorumluluğu",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "e8b2083994e27e3bff6ef5d04a7e648b7820174df291409524a940a39d2a2dbd"}
+  {:article/id "law/4735/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Hizmet sunucularının sorumluluğu",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "1d2187e2bc8848962dc93d1629021bf71fb3d5c626687b37da99aebcd76fbb79"}
+  {:article/id "law/4735/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "6a200bde600bb56b97bef5dc7749ed411cb8f70731de3032afe433caae99769a"}
+  {:article/id "law/4735/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Hüküm bulunmayan haller",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "bc8e85860565c51b7af53d6a2788ad7f2536ec4f2d7fa649f34e4ed7a0cd49b7"}
+  {:article/id "law/4735/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Tebligat",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "55341ede5d449b4941f2081c0e15e0239d71c7a98a14e2d6f743874f4e2adb58"}
+  {:article/id "law/4735/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Değişiklik yapılması",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "bce09f55a5e0e83b0267c219fe5f77794b717068f43e1b8fc2b0bd11577c7514"}
+  {:article/id "law/4735/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "b0112aad79e0275e0434cc87504354a833d75249bf3f5f81ac0942de91599518"}
+  {:article/id "law/4735/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "ba4cee682a458d571f20f6a9aac79049537201cf10527b4d846bd2c527c5c565"}
+  {:article/id "law/4735/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "Sözleşme uygulamalarına yönelik itiraz başvuruları ve anlaşmazlıkların çözümü",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "5a74e07549fc020070e6820fc027d8ab9757180bd85d9f0162ae4d00de74fa67"}
+  {:article/id "law/4735/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Tip sözleşmelerin hazırlanması",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d44a69ee577067024add3be094788383463248aad22826f878287a1487fcfcc7"}
+  {:article/id "law/4735/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Yapım işlerinde fiyat farkı",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "278e48feabe90e11f2a579fd038ca9f22a19bb0e11a4a19c83509f2ffb7657ae"}
+  {:article/id "law/4735/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "849b46666132cc3c6e39d633b66357ca30ae25cbc597ea8b39e0a285a6259da7"}
+  {:article/id "law/4735/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "e60df20a302101e7961985ecc7b03de1ade93b449fd5b4c611737623105c70ff"}
+  {:article/id "law/4735/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Ek fiyat farkı ve/veya sözleşmelerin devri",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "fb40406891debe5d6710bb28b54edff7a197128d8fbb8641e1c396dde9f022dd"}
+  {:article/id "law/4735/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Ek fiyat farkı veya sözleşmelerin feshi",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "ff7cdf80cb7499e7cb5ce1a9fbda1d5f9bb938b3a24fe21366d98465bdc99ac5"}
+  {:article/id "law/4735/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title
+   "Yapım işlerine ek fiyat farkı ve süre uzatımı verilmesi",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "cbaaf0a6a86c53086a8f5a1282cdc6d1ef9b5fb20e10451e9673969ae61e6c04"}
+  {:article/id "law/4735/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "8090d6a2dfd9fbeff199c8abe9f2b61c4873b713e8b8e5ba92bb26bb39fa1d68"}
+  {:article/id "law/4735/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Yürütme",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "9c2386a811bf6ab35bc411624a4a73769cc12d521b9c5d69830f00a32ba9b048"}]}

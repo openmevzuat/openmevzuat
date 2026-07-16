@@ -1,0 +1,217 @@
+{:document/id "law/5070",
+ :document/type :law,
+ :document/number "5070",
+ :document/title "ELEKTRONİK İMZA KANUNU",
+ :document/slug "5070-elektronik-imza-kanunu",
+ :document/path "data/canonical/laws/5070-elektronik-imza-kanunu",
+ :document/sha256
+ "ece19f12fabbb7be82abba30d8a795cd6e180ba01c5633306f20e5219257d62f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5070.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:46.952-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5070/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c8efebe7074e13d3ea0515daa1722fac7efc4abcbb161190ccdc0c2a44bfe0d5"}
+  {:article/id "law/5070/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ceee04ff5da62c60706132a9aa90285ad8fbbb81a7ca08bebe81e3b216b0603e"}
+  {:article/id "law/5070/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "41a9a3764f40437da70b027cfbbd87cb33e47dcf8ef2065882b50cf9a55f830a"}
+  {:article/id "law/5070/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "cf3b41a9b1f94b1496fac0205428a8682031b3b03654876cc9ff6ff528f7c264"}
+  {:article/id "law/5070/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Güvenli elektronik imzanın hukukî sonucu ve uygulama alanı",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "57cc839e474000182c61abae2d255c8a7cad974edd439d5820fbbf21f209e2f3"}
+  {:article/id "law/5070/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "745a509814a49e3a1d7d4227f218e10e8143db46508627a535a1c86b87d1e878"}
+  {:article/id "law/5070/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Güvenli elektronik imza doğrulama araçları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "ae71986d0ba84c67c56cbd7078c85846579701d340c9a92398287ccebb6d5ef3"}
+  {:article/id "law/5070/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2ac7435675cd28719dbb76f3adb35f03291e8bc60b417b8ecd736f081536a7ec"}
+  {:article/id "law/5070/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Nitelikli elektronik sertifika",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "2e9684fe7c6e10e401426db1ef943d1875f403476546c019ca43745004108b7f"}
+  {:article/id "law/5070/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Elektronik sertifika hizmet sağlayıcısının yükümlülükleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "fe6ca1b197b07820c6ab41957adb4f9f746a9512dcb3126bf39c33620f358dc3"}
+  {:article/id "law/5070/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Nitelikli elektronik sertifikaların iptal edilmesi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "657d85ef183cf67e0d337b9f065762ddda94dde7500626d66e4ee51d22cd930e"}
+  {:article/id "law/5070/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Bilgilerin korunması",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "68dfec05cbde0f4a621332ec8fa829fd54b7f1e2a10601dfbdb1011602a5273d"}
+  {:article/id "law/5070/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Hukukî sorumluluk",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "2416d0b2da8ae278c0f690640edbe14879118304ac1cbace5c306b1436e7a4bd"}
+  {:article/id "law/5070/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yabancı elektronik sertifikalar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "d6685af8e329da4717080e9bab97a15191fdde9f2cebe5779f11fc11e4ecf89d"}
+  {:article/id "law/5070/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "193a38f7f3cad9ed4e74d300f6f27fcf67fe22b439c21484839c17226e9c832d"}
+  {:article/id "law/5070/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "İmza oluşturma verilerinin izinsiz kullanımı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b4368d248583885472cea187896d15dcf5581f4913610cdcb33eb5b0faf3c9a3"}
+  {:article/id "law/5070/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Elektronik sertifikalarda sahtekârlık",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "4ec09a3e34006a2a6ccd1536c6d5b524e7b4431cea746c188b49660cb7bd38b1"}
+  {:article/id "law/5070/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "İdarî para cezaları",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "6e952e40547a8fcc2e95215835aa82bc2eed64cae8ca6f1e4ae9f0702166748c"}
+  {:article/id "law/5070/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Tüzel kişilere özgü güvenlik tedbirleri4",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "8f38fcfa2b4c5aa5644781b4bcd95185d9e191b46523e89aaf3433cf769b0716"}
+  {:article/id "law/5070/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d4d3eee42e68f59b3e6b15582a11e7215add4daaad31ec30e0cd8ab90472eff7"}
+  {:article/id "law/5070/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Kamu kurum ve kuruluşları hakkında uygulanmayacak hükümler",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "af5fda34403367cc99b600dace9f66370914bbb7a25a34f16315ddb8404c9a7b"}
+  {:article/id "law/5070/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "6a4285ad1e388a60b08cc98d1b12a691b59dcb0c1ce7b2815db7a67fce55775d"}
+  {:article/id "law/5070/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "28675f4e5aa10da4da1609ad1078aba078ca8a58628819e734f109d7a3796239"}
+  {:article/id "law/5070/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "0fcee75389a11f2fda91187fcf363b5541a740273b5c1104bf5e81ba59c7c925"}
+  {:article/id "law/5070/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Elektronik mühür",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "e650ec1c0b7fbc1837c13790663757b2836206fbe103d7e5920d8b1c2c573a29"}
+  {:article/id "law/5070/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "İnternet sitesi kimlik doğrulama sertifikası ve diğer elektronik sertifikalar",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "4a180ac76e10d3de9f53cf3831c9341c1ba8bbca678a908cba95034dc9686060"}
+  {:article/id "law/5070/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "682c4254e4d61198714b3af44c498e7dd6245746f335dff0cfcf970f03204ba4"}
+  {:article/id "law/5070/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürütme",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "0842381e8e93ac183d91fc7e8287af55630f53282082ee6e1a573ec44be8f5cb"}]}

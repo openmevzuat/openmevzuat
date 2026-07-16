@@ -1,0 +1,119 @@
+{:document/id "law/4853",
+ :document/type :law,
+ :document/number "4853",
+ :document/title
+ "ÇALIŞANLARIN TASARRUFLARINI TEŞVİK HESABININ TASFİYESİ VE BU HESAPTAN YAPILACAK ÖDEMELERE DAİR KANUN",
+ :document/slug
+ "4853-calisanlarin-tasarruflarini-tesvik-hesabinin-tasfiyesi-ve-bu-hesaptan-yapilacak-odemelere-dair-kanun",
+ :document/path
+ "data/canonical/laws/4853-calisanlarin-tasarruflarini-tesvik-hesabinin-tasfiyesi-ve-bu-hesaptan-yapilacak-odemelere-dair-kanun",
+ :document/sha256
+ "6a174b0ea9c5674cff2d9af83b0ef90cd4d47616c1d75576c41c68e5640311b6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4853.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:19.057-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4853/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1c6dbfd8be43fdd6fbbf8bbbe7c04acefc735ec43a3941a79caa7ffcb5d4e2bb"}
+  {:article/id "law/4853/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ca50cf170edb0a153f0b2b5bef393eaadb77e0492937d3296ccaf410510c349a"}
+  {:article/id "law/4853/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0607f885b014858e4b832847b21532d68fab6ab37b4d79d5ad641990ab8ab08d"}
+  {:article/id "law/4853/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tasarrufu Teşvik Hesabı kayıtları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9313ffc96fc07a40a4d793cc6430c5394c2278bb398e5fbc5d67e7dc09234daa"}
+  {:article/id "law/4853/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Değerleme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "ff358e7a584acd2d80051129b17e36395d3153612d37161039aa3860050d899c"}
+  {:article/id "law/4853/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Ödeme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9abce17ff866bd5ac3f665058a910773c17f235218f9857e06b1d862d82d6356"}
+  {:article/id "law/4853/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Davalar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e38b2ca26bc876bd7bf8aebb71ad03b5dabb1d29ef66dd26e200d456d130c8e9"}
+  {:article/id "law/4853/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Süresinde ödenmeyen tasarruf kesintileri ve katkı payları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "2b0a53811a44a792e4b07b29fd053e5a06f57635a2220b0739ccbce154665b17"}
+  {:article/id "law/4853/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Düzenleme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "2bcfec991a529b4f3b808c1034e081daf2d9bed379dfe5d8ef3335443a53561b"}
+  {:article/id "law/4853/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d72b998eb11b53df1e5946885b023c79a046103226c75371c37d53bd3d1e2bcf"}
+  {:article/id "law/4853/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "0095e7ac8856cb0a5ee43a2998f197b021d882e1a15a8b6239e58e84c27ffb30"}
+  {:article/id "law/4853/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "9a2986381564a57a964198a45d1b7010a9bade7453d8c92da202111dacc9ea6d"}
+  {:article/id "law/4853/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5894a0afd34b799f70275a16d83392f6ff2f0c0e8dd36991e5126148d73c1d91"}
+  {:article/id "law/4853/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "597cbac849b18ad0a083c836987ab7cccc34c6bcee33ccdbac58b539bcc9887c"}]}

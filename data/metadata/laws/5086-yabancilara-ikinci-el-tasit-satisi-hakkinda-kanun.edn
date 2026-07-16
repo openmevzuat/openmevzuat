@@ -1,0 +1,68 @@
+{:document/id "law/5086",
+ :document/type :law,
+ :document/number "5086",
+ :document/title "YABANCILARA İKİNCİ EL TAŞIT SATIŞI HAKKINDA KANUN",
+ :document/slug
+ "5086-yabancilara-ikinci-el-tasit-satisi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5086-yabancilara-ikinci-el-tasit-satisi-hakkinda-kanun",
+ :document/sha256
+ "fc450d9250cb9ef1e160c7de5efce214baba0338adfa0110bc3c4f33cf325a72",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5086.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:00.583-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5086/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bcb28b93a1694f65e694a2d052eed5863a24f8c2b87d4c38d3e7f04a51ef96fd"}
+  {:article/id "law/5086/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2a67d8230878be305e5b1afdc90d1f7177706614fdc739239e4b4e852ff94f0e"}
+  {:article/id "law/5086/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Taşıtların ikinci el satışı ve devri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "513bc8d31d00750eac99768335df00d6e725d6f219ce1f8e7deb7e23ef718e91"}
+  {:article/id "law/5086/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İkinci el taşıt ihracı",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a1509c488158427a6e90e015d648b26a825d5b6ff2e3d1e4eb28a6034c70831d"}
+  {:article/id "law/5086/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yetki",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a9380a44ee7ef7b06ea4104a49e75e3e7e397efd08bb2365d628c11b47c479bc"}
+  {:article/id "law/5086/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f61ce005c4b958beee866186a7950d425f10fd7aecf91e35814add2f33d877dc"}
+  {:article/id "law/5086/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bbd31c51265adbc91f235aced288b2c14c28a89799f2be7546dc326339ed925d"}]}

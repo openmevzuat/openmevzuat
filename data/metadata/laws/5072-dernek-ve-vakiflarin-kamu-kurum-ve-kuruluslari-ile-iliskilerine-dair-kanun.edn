@@ -1,0 +1,76 @@
+{:document/id "law/5072",
+ :document/type :law,
+ :document/number "5072",
+ :document/title
+ "DERNEK VE VAKIFLARIN KAMU KURUM VE KURULUŞLARI İLE İLİŞKİLERİNE DAİR KANUN",
+ :document/slug
+ "5072-dernek-ve-vakiflarin-kamu-kurum-ve-kuruluslari-ile-iliskilerine-dair-kanun",
+ :document/path
+ "data/canonical/laws/5072-dernek-ve-vakiflarin-kamu-kurum-ve-kuruluslari-ile-iliskilerine-dair-kanun",
+ :document/sha256
+ "0d8112cc1027f4c17bd3bdd65c8bb1abd1903b89be60dc67563ddbf35b0c42e1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5072.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:49.984-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5072/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "545e60e3e35d8e91d918302b49e8462294b5d2f81d7da33ddfbfe3f76a7c9aff"}
+  {:article/id "law/5072/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Temel ilkeler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7586d595a7abd8901ada846da80f29b1f96fcfe0967f206ee1ce56795a8c07ec"}
+  {:article/id "law/5072/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Cezalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e5f85da3d6c31b350180b7145ed4630c834fed147811a604d621f9826ad41b9b"}
+  {:article/id "law/5072/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "f2ce3829df1cfae660c0930f62f8535a6ccf55ab826ae6984f27ac2739cbec0e"}
+  {:article/id "law/5072/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "366a714c11f605c2870c247584fbac2fedc0952c55c0afeccc853767d48dac30"}
+  {:article/id "law/5072/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "1ae3f25ba0dca7050156c806a6537390c62541ea0f7918712fff159ded4acd34"}
+  {:article/id "law/5072/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9bba6987243b29d44016d490e046c4f52b3e9eebec48b0c6783098c64e90c8a7"}
+  {:article/id "law/5072/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8b7c9b340784d05601fc3dd745e3802278b7232e7ccf82500e0550968f9ccef3"}]}

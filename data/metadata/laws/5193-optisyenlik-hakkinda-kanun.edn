@@ -1,0 +1,192 @@
+{:document/id "law/5193",
+ :document/type :law,
+ :document/number "5193",
+ :document/title "OPTİSYENLİK HAKKINDA KANUN",
+ :document/slug "5193-optisyenlik-hakkinda-kanun",
+ :document/path "data/canonical/laws/5193-optisyenlik-hakkinda-kanun",
+ :document/sha256
+ "01ac5e92d562aba8c452b34fc4320061c714eebf18e9a99222a469dcedaa3d32",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5193.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:31.020-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5193/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b2edac87995232a2ccc2e97485d8f6f399de1bbac325235b8ccbf0c11bda287e"}
+  {:article/id "law/5193/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4c95695f5e377584ef69bb56a72025b067be3244147f2711d7ce180e953f4a8d"}
+  {:article/id "law/5193/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "96f3bd24ba2ce938086c5aef73484cf29f8d644b78ca437bc30fa95a3ca28371"}
+  {:article/id "law/5193/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "39a88714bb4ef93dbe0e38b838a5a6ba49dcf23b174c240640ee387c3ba5d25d"}
+  {:article/id "law/5193/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Tabipler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dcf978312227f71e1cc31bf0e4fff412102a2284dfdbfe042fb510e51ad0ae76"}
+  {:article/id "law/5193/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Optisyenlik uygulamaları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1dbc8de0e24b678a8bb5caf0fc7edace773800918bee72a73773617e13415b70"}
+  {:article/id "law/5193/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e201228d9f59ae8448b331455e28af14515e01e72bda07b0c092cd11124f7d68"}
+  {:article/id "law/5193/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Mesul müdür",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b04c607691a17cefb8ef7956e46bb53a814013449892e49eb99cd36a92bcb615"}
+  {:article/id "law/5193/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Müessesede bulunma",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "bfeed74ddf3781980fc413e20788f55ccb61661bb98ce737ff0595a087fff940"}
+  {:article/id "law/5193/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İstisnalar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "428dc42dfe26e1c7cc00007cd72abe69594a5d87dff70f456df0179cf46d8574"}
+  {:article/id "law/5193/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Optisyenlik unvanı",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5b21f35384167a1c3c485922f280acc5d90e75c06c5f7214b8e29039d50dd009"}
+  {:article/id "law/5193/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "3f669b52803a9521c4e6953be969d6d7194aec3e821cf48b14404e25de2224c2"}
+  {:article/id "law/5193/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Denetim",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "91552925d8d58b2bb029a5aa4ce5c43b12945b8118b65eb6f2247fe4f1b973dd"}
+  {:article/id "law/5193/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "20bef64512b4842352f96bac805da56a2fbec878a62624c5b46b5033451c6eaa"}
+  {:article/id "law/5193/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "dbe97caacc58191400d3a38b83e1385b1f189afad45a45afbefdf3e42ecb0936"}
+  {:article/id "law/5193/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "32c89bde46ea50f72f4b9492454ddd8d5849920aebc7988e7e587e8b57d78fb5"}
+  {:article/id "law/5193/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "3bbcdf856c677b0952d718f4b74eb1d8846fae0075cea5eca57f424d6712a7d1"}
+  {:article/id "law/5193/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "7d799f0778d216c77e0c7839122cbeb87e1e2116de8e18529c9baa6acd3b3661"}
+  {:article/id "law/5193/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "0e7053e1ddc2e7c4de96a5e31857632f84628139d7c00af72237f5e19443a701"}
+  {:article/id "law/5193/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b2e2a9498e8fb21b176842f5d8757013294265f6028ed8f334fbc070b3a13fbc"}
+  {:article/id "law/5193/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "6ab92c1005ddf3a0e3498108159bcd8569cefd13612dfc94f14bec411a819996"}
+  {:article/id "law/5193/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "133bbbea9e9602454fcd13cbf59312a079d4ed517c2501f19bce9bed1c55cb4b"}
+  {:article/id "law/5193/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "b1090f2cd0908eb55bd42da0ba5043fb935a90cda72354dbaaca173b5ff0c9ad"}
+  {:article/id "law/5193/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "10cec1c497f31b5649405c994bc00fff19973546bf9aa9954ae5804626d25107"}
+  {:article/id "law/5193/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "bbe6b433d809a837abb7f413d415ff7ea254f537ea6cc08460c4c509794b9068"}]}

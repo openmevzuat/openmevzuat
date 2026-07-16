@@ -1,0 +1,195 @@
+{:document/id "law/4722",
+ :document/type :law,
+ :document/number "4722",
+ :document/title
+ "TÜRK MEDENİ KANUNUNUN YÜRÜRLÜĞÜ VE UYGULAMA ŞEKLİ HAKKINDA KANUN",
+ :document/slug
+ "4722-turk-medeni-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4722-turk-medeni-kanununun-yururlugu-ve-uygulama-sekli-hakkinda-kanun",
+ :document/sha256
+ "cf75d71961236e591057eba377341994073f9d7e419b3d0e52c7b6457f099417",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4722.pdf",
+ :source/fetched-at #inst "2026-07-16T02:33:05.146-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4722/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "A. Geçmişe etkili olmama kuralı",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5794e48b435f3aa2e2c958368d635340dc26f4d0c1fcc4a06b50c742503b98af"}
+  {:article/id "law/4722/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6ed6ece26e2fab0abb1773077ff6c427d7c878f07439326fe44dcb39392ad6c6"}
+  {:article/id "law/4722/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "II. İçeriği kanunla belirlenen ilişkiler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1a48747fd43e67a77fb8b0b7c4330cad8d3f108ccafa41e2e55496a8f702ff7e"}
+  {:article/id "law/4722/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "III. Kazanılmamış haklar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b5792e926c38a9fd9d48712efaf6e5e07770b254ff745e89ff09ad693dab3331"}
+  {:article/id "law/4722/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "10bd3a25a16e7b6d9b6180788c712c436db27f5806aa8a76113cbdc0193d4ffa"}
+  {:article/id "law/4722/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "B. Gaiplik kararı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c6dda9f9524bbe5cb423a8ee2ff37c5dcae278104b31222b481e6593b6094289"}
+  {:article/id "law/4722/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "C. Dernekler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "acf4f74f684071be81f87bb4f7416ca8bd7c9f009d444aa2bf304e4d5b82bfc6"}
+  {:article/id "law/4722/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "D. Vakıflar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "974739446f4f96aab543f4ff910371a3175c9cf718dc02446ae5dfad34f3df17"}
+  {:article/id "law/4722/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ac3aa9d42592ba21405a652949d7f1527697119be46ffee9a49d9f2419964641"}
+  {:article/id "law/4722/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "B. Mal rejimleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "63f2268dc0959ff7b153b4abaac3694ad3e54abd83ce13c42f764f13b4644e97"}
+  {:article/id "law/4722/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "C. Üçüncü kişilerin korunması",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "726a180c0ab3d0731f4774f0d3273b74dce911f81d45ba3ffe306b79424cd9f8"}
+  {:article/id "law/4722/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "D. Soybağı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0c373e9cacadbae25b88d9e492c0287c73ba6bc4179da76f92cc97ace9155feb"}
+  {:article/id "law/4722/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "E. Babalık davası",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "96dd417f90a7292ee09886558d8d2ab3558c5e78ae5a37b4c1f617bbcc5521e4"}
+  {:article/id "law/4722/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "F. Evlat edinme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ddce03d92ded87e7fdaed42fa65d11095a5abf2777f14c5f7deb7e5034b2ef51"}
+  {:article/id "law/4722/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "G. Velâyet",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "b9189ba3f5c8f94d935931e8de1bc873204588059d64f820fe0bf66b93545513"}
+  {:article/id "law/4722/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "H. Vesayet",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "483605c02599d86f1b6a99420af283db5bfbe54ddcec5ea70ed1b0cf6acc1fce"}
+  {:article/id "law/4722/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "6a109867a7a87d40cab3dcb0d57ce0758a848f6aaaf7e27df1911e5575276a44"}
+  {:article/id "law/4722/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7342ce58d327bd89a386ab6cf8cf1e8a04dc9c4cabdaf0120b8eadbf1eb50500"}
+  {:article/id "law/4722/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "B. Eşya hukuku hükümlerinin uygulanması",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "dfb7e77aa6a2d835f4f6534621f02a66e2cf1c1c87ad16756ce8fc0c396e55f0"}
+  {:article/id "law/4722/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "8339bf94fff8610dcc12deedc1bd8e73378638227aad729a1dbbb4b1b314cc28"}
+  {:article/id "law/4722/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "B. Yollamalar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "0f84742bf9dbc368d64699decd95ece3b404c2b5d8979eb8f105d0668d6c8041"}
+  {:article/id "law/4722/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "C. Tüzük ve yönetmelikler",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "205fa6882505a0610e1bbe59b1eca0ea26d701a7ab827b81964e8cf15c22af4d"}
+  {:article/id "law/4722/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "D. Yürürlükten kaldırılan kanun",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "c3ffee3789f0594245f519b8f5052396cd38f9ee25aa30ae99ef629dba74dc85"}
+  {:article/id "law/4722/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "ff8fed31cf39f06049a18797148d36af59afdc690342b3c8da6f5bcaef792739"}
+  {:article/id "law/4722/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürütme",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "211255a2e3d9a50ccf630f1bde22c2d8e3feae4ec86c7a4828e32c4751ef60fe"}]}

@@ -1,0 +1,81 @@
+{:document/id "law/4847",
+ :document/type :law,
+ :document/number "4847",
+ :document/title "AVRUPA BİRLİĞİ UYUM KOMİSYONU KANUNU",
+ :document/slug "4847-avrupa-birligi-uyum-komisyonu-kanunu",
+ :document/path
+ "data/canonical/laws/4847-avrupa-birligi-uyum-komisyonu-kanunu",
+ :document/sha256
+ "bb0c3f4303763e8bf033a18c03ba07426dc862f567794920b3a404f942a7a980",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4847.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:16.670-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4847/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bd60a12cd29b5ebcd32d7ef33837dcee545a1d5d9464d4741b6b58f58a3ab90e"}
+  {:article/id "law/4847/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d038dd9a3acfcdf99a315291e370578abc4110b1dfa5893789f636a88538fa2e"}
+  {:article/id "law/4847/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Komisyonun görevleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "81e8c60294520840a44dc2ccbe2743e56f38977b1e3bd59826f8bf5ad0fdd727"}
+  {:article/id "law/4847/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Komisyonun yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "bdcdda5b6ba9af8259d7ab06fb16f6896347c7e30864c6856cabc7c5105c5995"}
+  {:article/id "law/4847/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Komisyonun çalışma usul ve esasları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "542435f519e485c5012cbc56c6864e30462245758f2a6531ad4e4ad1dd9d1bc9"}
+  {:article/id "law/4847/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Uygulanacak İçtüzük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "991422a2709ea902d612fa5008bca466fb02098fdbaaefc554de04961f72c054"}
+  {:article/id "law/4847/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0e41d45caf933644cac8fe9a8d6190c1e1d0b0b7e48eb77916c232851f1be2e3"}
+  {:article/id "law/4847/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6d5dea3c60439db3be3505476856789045b945f9ce89b8e45dae379fb14f9f5e"}
+  {:article/id "law/4847/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "db1c4bae8510f610c3dd59c4453e6182182088176a134f786d91303fbffddf7d"}]}

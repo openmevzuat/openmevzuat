@@ -1,0 +1,195 @@
+{:document/id "law/4865",
+ :document/type :law,
+ :document/number "4865",
+ :document/title
+ "ULUSAL BOR ARAŞTIRMA ENSTİTÜSÜ HAKKINDA MALİ HÜKÜMLER VE MUAFİYETLERE İLİŞKİN KANUN",
+ :document/slug
+ "4865-ulusal-bor-arastirma-enstitusu-hakkinda-mali-hukumler-ve-muafiyetlere-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/4865-ulusal-bor-arastirma-enstitusu-hakkinda-mali-hukumler-ve-muafiyetlere-iliskin-kanun",
+ :document/sha256
+ "f659b4127edc5655cf85aad7d4aa71195d3d2a95c5debccc060b675302dd1dad",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4865.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:29.331-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4865/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kuruluş",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8b9a8f17bdf607378f03a9549909307d0241cf8f04985401ac72b263f462d347"}
+  {:article/id "law/4865/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e809b62f06ffb4c666e9ebbe49f33d85a90e9f777b4d91f1d87277e521454551"}
+  {:article/id "law/4865/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "423a6e9439e3723b88e2a0d6d16c1d354e4881a07eceb54240028eeaf8242928"}
+  {:article/id "law/4865/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Organ ve birimleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "886504cb8805fe8b67540f04b63c884dedd2907c71c792ff4d21fe6f7b8a8731"}
+  {:article/id "law/4865/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "aa6b1b710b09dd972070949f0a964a5da49fd2bea7f7352e75fc37ca662de798"}
+  {:article/id "law/4865/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetim Kurulunun görev ve yetkileri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "04f2b7776b5995947279f4c9fbfea9d4281fc88ad6e6b1af1318388eb03942ec"}
+  {:article/id "law/4865/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Başkanlık ve başkanın görev ve yetkileri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d8f078f63e937a3f10be844f09d70c4264d55412baacad73549d8cf1d5fa8fd2"}
+  {:article/id "law/4865/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "05f434aab93663501465903e57842bb332d8fe10b9b71be718c6e792461f88c9"}
+  {:article/id "law/4865/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Araştırma ve Geliştirme Koordinatörlüğü",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6c52b8975b77eace6b3fdb1cc165a644908a882e1adf46ad3f217b1867a2ef28"}
+  {:article/id "law/4865/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Endüstriyel İlişkiler Koordinatörlüğü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "72b85dfdf0f2e314c60cf02a264cf73644e383519647ec4b391af83afb44f19b"}
+  {:article/id "law/4865/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Bilgi Toplama, İdarî ve Malî İşler Koordinatörlüğü",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d6b92977abe2ef74c0e5759d40e67cd344212632330e586ee8b037d054123363"}
+  {:article/id "law/4865/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "5f32f268f068d31ea69746689f4f3ebffa5980cbd0bd0eb1da49581f5b04fb76"}
+  {:article/id "law/4865/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Malî hakları",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "d30c054b236eb186623ed245e633ccc2187fa68f7b203cc226cb76be8be1f417"}
+  {:article/id "law/4865/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "656d0d3f138f892f8c2d7a96218fd74be735485d4798f770bc288ea633ed15fe"}
+  {:article/id "law/4865/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Ar-Ge projeleri3",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "3d6cafbbd1709153c5536dcb3d221fcf3cc152fae0ff865f0f1fccdfd10a06dc"}
+  {:article/id "law/4865/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ceb9b7c2f67f9887b12af4a2d13bb985707d4410a82e81216bb24b4537b9ef6f"}
+  {:article/id "law/4865/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "13a03cef50a9c17bf4217a21f2cf0b84dc33d84a9f76df25f7a1fdd3f6d96177"}
+  {:article/id "law/4865/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Muafiyetler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "39f912ebcae41ec1198eb376e9de112abf27bd39c4585cea32754aa68da5bb69"}
+  {:article/id "law/4865/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "96a657a8954d197984a6afd86fb346bdbd2695e833f6fa0bf863ce13f0fc27fa"}
+  {:article/id "law/4865/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Bilgi isteme ve gizliliğe uyma",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d54b1941603aa18e79e3fc5d4e8eeddad0636e3bab8cc6f0a5ee22d3b01f8e3b"}
+  {:article/id "law/4865/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "f802a9894de107a81e3d9ae295b8b5c8e620ff7693fb28f18a746195b3655b22"}
+  {:article/id "law/4865/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "cd61b9a8cc33a72f801493048f027b5720507ec2a5237bd34c2b21fa094a4b35"}
+  {:article/id "law/4865/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c4140b84bdd68aa36e0dd445a46ee46a7ebe74fa15d08867a86b5063aad58fe5"}
+  {:article/id "law/4865/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1f839a8dd714cfc769a73c9ec9f1f0df9d7d4f0db7b7eabee523d2d7efeb49e6"}
+  {:article/id "law/4865/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürütme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d1aec57290e308761a1dbad42e2ec1900289cc1bc5ea0152c206d7446b23f439"}]}

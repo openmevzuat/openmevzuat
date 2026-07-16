@@ -1,0 +1,95 @@
+{:document/id "law/4675",
+ :document/type :law,
+ :document/number "4675",
+ :document/title "İNFAZ HAKİMLİĞİ KANUNU",
+ :document/slug "4675-infaz-hakimligi-kanunu",
+ :document/path "data/canonical/laws/4675-infaz-hakimligi-kanunu",
+ :document/sha256
+ "72df018f0f5b5128419ca28a247926ed8c2dbe1151f347a920d3839d7cb7ac51",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4675.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:18.384-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4675/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1538eee1346e8593e51d56531256acb3618ec51230a8ab7141edb98b8c29d932"}
+  {:article/id "law/4675/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "İnfaz hâkimliklerinin kuruluşu ve yetkisi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "540fbdeecdb04ea39ca4c1bd596e17783164e2867b36f0d07d11779beed88671"}
+  {:article/id "law/4675/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İnfaz hâkimlerinin nitelikleri ve atanmaları",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d299e1fd7668fab63ad69a18db0c0b1ad9b95c7947b9b75ca1e20a856347180b"}
+  {:article/id "law/4675/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İnfaz hâkimliklerinin görevleri2",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "059b5835f6fbf7d22cadd2be795871b34838159f670d1777e1b82fa6c056f26b"}
+  {:article/id "law/4675/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İnfaz hâkimliğine şikâyet ve usulü4",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "fbc6c9265b142e20ec4aeab5f08c364e6702c4eb713857f7c7df4197d55dce5b"}
+  {:article/id "law/4675/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "İnfaz hâkimliğince şikâyet üzerine verilen kararlar6",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b39280069217a1e81d0b6e553f09d2b40a3c13498c93b09066a03c5b2988031e"}
+  {:article/id "law/4675/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "73c598f54398f1f49941169bc1c1ee4f51bbe78f8fc9858f369177c37b70151b"}
+  {:article/id "law/4675/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3c52c3567d31bfd6c3d5cac06be7119963e62cca8c7d00f56c4e9f660ec784f5"}
+  {:article/id "law/4675/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "1f361bbb564e539e345564d3b12b55349062e9110ea236d0b5d8fd2a58c3ddee"}
+  {:article/id "law/4675/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "134c98b0d350d2f75ad329c4bdfdb78d0f1a3d38347832f05064f8a3bfd66885"}
+  {:article/id "law/4675/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d807f061264a1c83441519fccb8169602bb618c0ab3e6ef87cf00bcd493585dd"}]}

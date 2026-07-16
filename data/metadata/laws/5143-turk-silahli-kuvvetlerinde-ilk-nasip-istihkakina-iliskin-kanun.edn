@@ -1,0 +1,132 @@
+{:document/id "law/5143",
+ :document/type :law,
+ :document/number "5143",
+ :document/title
+ "TÜRK SİLAHLI KUVVETLERİNDE İLK NASIP İSTİHKAKINA İLİŞKİN KANUN",
+ :document/slug
+ "5143-turk-silahli-kuvvetlerinde-ilk-nasip-istihkakina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/5143-turk-silahli-kuvvetlerinde-ilk-nasip-istihkakina-iliskin-kanun",
+ :document/sha256
+ "bd84af156421a0724e00c5f92c6b2024b4b6442b3ce2660e52746b32441c4705",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5143.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:08.802-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5143/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "faf4294bbf34a8aa02625153d258d00509b33eecd54cb125818186e51c4b943f"}
+  {:article/id "law/5143/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "13e23b09f4cdb6c1b2348f093b1c86aa836977715c580b3867acf46fb370481d"}
+  {:article/id "law/5143/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5cdfe31d698c952bce975bfa62f3dc59d16633a69b8a058a7a75a495f83ea6fb"}
+  {:article/id "law/5143/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Bir defa faydalanma",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f7c207442d8937aba142518e47f07076eac777101b2869823d2c87094bd324a1"}
+  {:article/id "law/5143/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bdfef4527d5ed1bfd9139f50df7e6df3eb625085357f77fcdb48a0ce0ec1a6a8"}
+  {:article/id "law/5143/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Cezaî müeyyide",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "74f1662cf1981376cd49866cdf67de3b6d7361bf1e5670f6a8112cbe45e8c1a7"}
+  {:article/id "law/5143/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlükten kaldırılan kanunlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2b04b8af036dbef6d3155f59ec46551e74863081dd00066c7653b1a3925ce11a"}
+  {:article/id "law/5143/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "184ee7ee3d8f995e8c44878fe5866a9d41b6a6743f5db80eb5d95b758f992adb"}
+  {:article/id "law/5143/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d4b2eb481f22034352a7189bd2221de5f90c048b3b9627ff2306af13afd80582"}
+  {:article/id "law/5143/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "44ba2d4d3fcee57b4366231af258f654662218abe1f2e85d61f7242e218695e2"}
+  {:article/id "law/5143/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "d9c31a502f8d495c9228120ac4a202d3553de53fcf557bce587aac0991baf547"}
+  {:article/id "law/5143/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "4e06b300253cf1625b4d1c889965bf72a7b06bab1ddb7dbbb5b1e02ba445c52f"}
+  {:article/id "law/5143/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "2fe43da8e5a9662703b74f3dac8ebdca12498c2bdedcc0f3b4da6e69b9a37e10"}
+  {:article/id "law/5143/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "012d9ac7d62bee7d569e08a23f4248c6bdacb5c207d4e2469275d4179e34e142"}
+  {:article/id "law/5143/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c98e2ce7bb371959acf543aa5cdf0cad70a04425b113e212b0047281930b20f2"}
+  {:article/id "law/5143/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f206cfdcd8c06931d3400689511d585e13b326d3e087c7b5f3b356eb782a6670"}]}

@@ -1,0 +1,218 @@
+{:document/id "law/4646",
+ :document/type :law,
+ :document/number "4646",
+ :document/title
+ "DOĞAL GAZ PİYASASI KANUNU (ELEKTRİK PİYASASI KANUNUNDA DEĞİŞİKLİK YAPILMASI VE DOĞAL GAZ PİYASASI HAKKINDA KANUN)",
+ :document/slug
+ "4646-dogal-gaz-piyasasi-kanunu-elektrik-piyasasi-kanununda-degisiklik-yapilmasi-ve-dogal-gaz-piyasasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4646-dogal-gaz-piyasasi-kanunu-elektrik-piyasasi-kanununda-degisiklik-yapilmasi-ve-dogal-gaz-piyasasi-hakkinda-kanun",
+ :document/sha256
+ "6327a4333415e7d674eb6b40734719836866bd6da63d7b5f903f291db5e2cea2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4646.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:08.190-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4646/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7c8097bce6f5372c5cec85288fbe3dde017b2a9d19b9c4a0b9a79c752e07d81b"}
+  {:article/id "law/4646/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3c028562894ace973140ea9344bca117ee9db52296cef2c2a4fa394a934b4c12"}
+  {:article/id "law/4646/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "480095238833678df12d6b6fd7057cf33765837097f8c38ec88c3108406f81e5"}
+  {:article/id "law/4646/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "810fbec5f5e8b63147e425fc83d0249dade80a472d58fe7ca8a22f7a29f7b0f0"}
+  {:article/id "law/4646/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yapım ve hizmet faaliyetleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "5f80e6f2ceb78b86cdf795ee286fe77b640102aa7eb3b56dd40eec7ab59d9035"}
+  {:article/id "law/4646/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Lisans ve sertifikaların genel esasları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8e8913ea9fba7a7c7a28b0b55233170d34ef921c2df272aa2a971f8668200854"}
+  {:article/id "law/4646/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6ac3c25503b0a9f534dfb548107fe58816a71f25254f9ff5081b0589cf60dd94"}
+  {:article/id "law/4646/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Serbest tüketicinin belirlenmesi ve sisteme girişte istisnai haller",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "6f2206d194a050d6c8584b2a5b5175f412de1d51dd756bdda424f6332bc54ccb"}
+  {:article/id "law/4646/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e04e97ac11d47bb648513039ed2283c0c7046a6d5866949140070c59b175f91d"}
+  {:article/id "law/4646/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Ön araştırma, soruşturma ve dava hakkı",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9cf7e05540c3a50408c03ee71d9c80975ed6715e6ecbfb6981edfc661f8a4a44"}
+  {:article/id "law/4646/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Tarifeler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "3dfaaea4b0c474b0555c484226d37b82f9c1f67d6ff1e793eb4810d36d2ae48d"}
+  {:article/id "law/4646/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "149f4a1d467ec3ad1c2fe6c87a0ff4e2baf7946703830665d1d09a2a6d688519"}
+  {:article/id "law/4646/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Değiştirilen, kaldırılan ve uygulanmayacak hükümler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "1bdebc5e5220fa5df3e1ebcc6c5cdea767d6847959512922c0fad9c165bb9878"}
+  {:article/id "law/4646/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "e593e3b8795a036424e7c0d78fd543c1fe412401402da3eb25fdba5f13b44f2c"}
+  {:article/id "law/4646/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "34c4b64c793b05344d4203481c4a7d02d8ead547e8a377a74bfe1334c33250d7"}
+  {:article/id "law/4646/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Arz güvenliği",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "98695316b9e7fbae04ad941e9e4f88320fcc2a42fca703236bcb45dd5c103629"}
+  {:article/id "law/4646/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "470ac0ae03f49b519c14246e7ffe93924c389426602bed5fd22101eac355c760"}
+  {:article/id "law/4646/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "317c0ae22c6e10875927ba4fae4cb26d84c3b822b51020f53a0a78e73bd1021e"}
+  {:article/id "law/4646/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d9dfb5ba7f2085bc56396c241b3553018c045e3cf69fc6ec4d620152c61a0a6e"}
+  {:article/id "law/4646/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "c4ebf93682f60f1a2d4bc8623ee79e24df0c79aacca088eaaffd017efeeadbd3"}
+  {:article/id "law/4646/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "77ea6464f26eea1e8f15f77dd379cd9bee81b6b776c03a87a8b0dd9f43e64b63"}
+  {:article/id "law/4646/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "376cc4694fdb658f35418abb86820f39c7cb042a392dc0671881629ca9317c1f"}
+  {:article/id "law/4646/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "7b2e0e7857035ad74c4df9b882448fff5941e5b917a8444de111efc03a1a9217"}
+  {:article/id "law/4646/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "d33968075b38e2ffd0414fd2f0f98abbeb4f06239c7b5b164d3fbeb0330a5ce6"}
+  {:article/id "law/4646/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "e0e42ea82ee3392fd077a29e6a0888125f74022d4825f136e4b159b8784668fb"}
+  {:article/id "law/4646/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "1b3797f4f5449dc14d92131a1c1cd8ccdf2d402e98d96c607a09c4dd53cca9a6"}
+  {:article/id "law/4646/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1f839a8dd714cfc769a73c9ec9f1f0df9d7d4f0db7b7eabee523d2d7efeb49e6"}
+  {:article/id "law/4646/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürütme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "61baedf73a617e26dd7df8ab9898ee62c1495a768d336c0ee24535b092e127a8"}]}

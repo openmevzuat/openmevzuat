@@ -1,0 +1,69 @@
+{:document/id "law/4645",
+ :document/type :law,
+ :document/number "4645",
+ :document/title
+ "EMNİYET GENEL MÜDÜRLÜĞÜNE AİT ARAÇ, GEREÇ, MAL VE MALZEMENİN SATIŞ, HİBE, HEK VE HURDA DURUM VE İŞLEMLERİ İLE HİZMET SATIŞINA DAİR KANUN",
+ :document/slug
+ "4645-emniyet-genel-mudurlugune-ait-arac-gerec-mal-ve-malzemenin-satis-hibe-hek-ve-hurda-durum-ve-islemleri-ile-hizmet-satisina-dair-kanun",
+ :document/path
+ "data/canonical/laws/4645-emniyet-genel-mudurlugune-ait-arac-gerec-mal-ve-malzemenin-satis-hibe-hek-ve-hurda-durum-ve-islemleri-ile-hizmet-satisina-dair-kanun",
+ :document/sha256
+ "d9ad97e86b4148ef433707f5ac92fbfb4aee3978c39832594f05607aa15f8483",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4645.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:05.748-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4645/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "666dd12e61a1e9ddfa380a9322a315b7d15a7336cdf40d7ca5917c9ec99e4ff6"}
+  {:article/id "law/4645/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f940ed844c482adfa84f5aecf842c3fb69fe03711e06e247bbe1cc77818d6dea"}
+  {:article/id "law/4645/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Komisyonlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1c6947aaf39ea0e569e0739d490fd88dc97f3f6119d7164bf8165a826666e357"}
+  {:article/id "law/4645/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Uygulamaya dair esaslar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "058f7247cafb765e1d10b422c00857e8b00e5d16b4f49b79a730b583308cbc41"}
+  {:article/id "law/4645/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "ca83906a8e007c0bb31855918f819b480138bac157659d2d2c848de9dff2c5f9"}
+  {:article/id "law/4645/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/4645/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b2715b9ea139f647a1677052d25ff57a3ae8a7973c135dc226fa386b35264aa3"}]}

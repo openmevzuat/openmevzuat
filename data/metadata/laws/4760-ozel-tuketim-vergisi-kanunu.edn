@@ -1,0 +1,235 @@
+{:document/id "law/t5-4760",
+ :document/type :law,
+ :document/number "4760",
+ :document/title "ÖZEL TÜKETİM VERGİSİ KANUNU",
+ :document/slug "4760-ozel-tuketim-vergisi-kanunu",
+ :document/path "data/canonical/laws/4760-ozel-tuketim-vergisi-kanunu",
+ :document/sha256
+ "d4e7365102c45507555839435aafa81f5aae1438f4b4f8e329cc70d7d80816b6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4760.pdf",
+ :source/fetched-at #inst "2026-07-16T02:33:45.183-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-4760/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Verginin konusu",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6523f64bc447cfbec5377bb85efb01ced81c5d6bf051ba12ead8f6fd2588b6b5"}
+  {:article/id "law/t5-4760/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar, teslim ve teslim sayılan haller",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "025896762d1c1d05f88456e5e3138d842df837a3c919591591502ce4aaacfd45"}
+  {:article/id "law/t5-4760/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Vergiyi doğuran olay",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "a83b637d6d6cea6232cfbe0508cf1bf9042da2ec401fb5e9c11175da6cf4b3f8"}
+  {:article/id "law/t5-4760/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Mükellef ve vergi sorumlusu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "fb2b3863f5e06bb8c4c7707ab6915c2897ed4a3f5df4ecd8d5bfd4777df3824c"}
+  {:article/id "law/t5-4760/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3772a7ef8475b8be6812c7067a002749a953030a98745e373a107dc0e772ee91"}
+  {:article/id "law/t5-4760/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "35bcbdce89e884167ee99500f5903560486c64f40bffdc381a053840af6e7780"}
+  {:article/id "law/t5-4760/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e0d62d21655ed9fa64801c2af8961896d9707eb998f3864a2765bb10a902e6ec"}
+  {:article/id "law/t5-4760/article/7/A",
+   :article/type :normal,
+   :article/no "7/A",
+   :article/title nil,
+   :article/path "articles/madde-007-a.md",
+   :article/sha256
+   "bf9cbd2b2c3c0c2ab529776066842187b2a3dc9d5e048789809c171519979a98"}
+  {:article/id "law/t5-4760/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Verginin tecili",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3bf7a252e42d5f1786c5ca73c849e50735859d628e1f22789593644b10f85565"}
+  {:article/id "law/t5-4760/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Vergi indirimi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6b961f9e2966fa0f4a7be4fb7942a0e600fb8318d32f60eb61a56971843ae25d"}
+  {:article/id "law/t5-4760/article/9/A",
+   :article/type :normal,
+   :article/no "9/A",
+   :article/title nil,
+   :article/path "articles/madde-009-a.md",
+   :article/sha256
+   "389528861c60d560116c44cbf68d870a8f1d425c3aeaf760493cd5255bd980e1"}
+  {:article/id "law/t5-4760/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İstisnaların sınırı ve yetki",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "618ce97459b59b59288dda5ad6581ad578efe66bfea5a960b1a4ef9136fd4192"}
+  {:article/id "law/t5-4760/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9f9b0ce6d8ccf5fe3795617510651269c9705c5ea092030f2a5ae76e8a40558f"}
+  {:article/id "law/t5-4760/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Oran veya tutar",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "c253dc065f5c46575da362eeb624db772438e7e2d451576fe8fa05f324b1421e"}
+  {:article/id "law/t5-4760/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Müteselsil sorumluluk ve ceza uygulaması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a0352b3ce84c50085b3fbbffceab5a6d46c7fdda72ec338767407b6dd639da67"}
+  {:article/id "law/t5-4760/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "6a4640188e037cbd9f71dce7e24b98ae45d37b833776674f1fe1be6c7fa435c9"}
+  {:article/id "law/t5-4760/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Verginin belgelerde gösterilmesi, matrahta, vergide ve mükellefiyette değişiklikler",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "5f34d69a23737a5cdbda0d6c759b95b8f2f1c18090064d3cbcdd081919a432f1"}
+  {:article/id "law/t5-4760/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "3d0c510298bb144e7ef44adc9ebb1ddc6cb4de1eb2a6d4edcad5f2031aa3efe5"}
+  {:article/id "law/t5-4760/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "dfc2df88e20b4bf3c5298c9a5d5e4c864d110d74bb651040cdfb6ca57acfb135"}
+  {:article/id "law/t5-4760/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8fb3c25a9dd63f3810971445a34abc3ea6b70bf82523ca37c808ba289fa518f3"}
+  {:article/id "law/t5-4760/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "5584be016610c1178c9e39051ccefb588f516b434aff77fc9c5164714dbf3c44"}
+  {:article/id "law/t5-4760/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d72864bdd5bfa772162ecb33d5a783f62ea6e27964d06971bfba3286addb1eed"}
+  {:article/id "law/t5-4760/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "42210540b5aebb64680cc686b175e70b8c5904d571b28599f4f43ca6f1d3faac"}
+  {:article/id "law/t5-4760/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "c36a088383fa54d8463c78c12afb78d71a2cd34501d0ec6f02fbe65be906f559"}
+  {:article/id "law/t5-4760/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "4feb0f472fa748d2dc2a46579d0d4a668dbeff98556b9aa9630de9e8392b8fee"}
+  {:article/id "law/t5-4760/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "034a55a58e78e05a7d34e600368ace21ab43a3c4851255d315fb6d8b0a91443a"}
+  {:article/id "law/t5-4760/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "6c3ec3df9b0d7834a4e7691a68237018ab483ed2d31c27f732a3d24168a092f8"}
+  {:article/id "law/t5-4760/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "970f7a2150cd4f8d77f0997a761341f447dcb5235d0d018ed2dddff2b1098362"}
+  {:article/id "law/t5-4760/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "14d4fd14d7ab80dc450622a542f17f036113885123367b0900ab4e08fb6cdbf4"}
+  {:article/id "law/t5-4760/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "4997a89f12ede628e2515f1eb67e7fbd0e744d6769dc05565c33602c58804f17"}
+  {:article/id "law/t5-4760/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "7f1c971c4bfb093009cd8151cf0c25bc94a51bb8a7d4d67fa1c0b480b6859f37"}]}

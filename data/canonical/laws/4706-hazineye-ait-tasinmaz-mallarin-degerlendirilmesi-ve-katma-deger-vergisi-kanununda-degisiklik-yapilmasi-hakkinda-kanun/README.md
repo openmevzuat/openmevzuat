@@ -1,0 +1,61 @@
+# HAZİNEYE AİT TAŞINMAZ MALLARIN DEĞERLENDİRİLMESİ VE KATMA DEĞER VERGİSİ KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN
+
+**Kanun No:** 4706  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/4706  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç1](articles/madde-001.md)
+- [MADDE 2 — Cumhurbaşkanı kararı ile tahsisin kaldırılması ve satış23](articles/madde-002.md)
+- [MADDE 3 — Hazine adına orman sınırları dışına çıkartılan yerler](articles/madde-003.md)
+- [MADDE 4 — Doğrudan satış](articles/madde-004.md)
+- [MADDE 5 — Satış bedelinin ödenmesi, satış bedelinden pay verilmesi, belediyelere devir14](articles/madde-005.md)
+- [MADDE 6 — Sit alanlarında kalan taşınmaz mallar](articles/madde-006.md)
+- [MADDE 7 — Kamu kurum ve kuruluşlarının yükümlülükleri ve diğer hükümler](articles/madde-007.md)
+- [MADDE 7/A](articles/madde-007-a.md)
+- [MADDE 7/B](articles/madde-007-b.md)
+- [MADDE 8](articles/madde-008.md)
+- [EK MADDE 1](articles/ek-madde-001.md)
+- [EK MADDE 2](articles/ek-madde-002.md)
+- [EK MADDE 3](articles/ek-madde-003.md)
+- [EK MADDE 4](articles/ek-madde-004.md)
+- [EK MADDE 5](articles/ek-madde-005.md)
+- [EK MADDE 6](articles/ek-madde-006.md)
+- [EK MADDE 7 — Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Bakanlık yetkilidir.35](articles/ek-madde-007.md)
+- [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)
+- [GEÇİCİ MADDE 4](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6](articles/gecici-madde-006.md)
+- [GEÇİCİ MADDE 7](articles/gecici-madde-007.md)
+- [GEÇİCİ MADDE 8](articles/gecici-madde-008.md)
+- [GEÇİCİ MADDE 9](articles/gecici-madde-009.md)
+- [GEÇİCİ MADDE 10](articles/gecici-madde-010.md)
+- [GEÇİCİ MADDE 11](articles/gecici-madde-011.md)
+- [GEÇİCİ MADDE 12](articles/gecici-madde-012.md)
+- [GEÇİCİ MADDE 13](articles/gecici-madde-013.md)
+- [GEÇİCİ MADDE 14](articles/gecici-madde-014.md)
+- [GEÇİCİ MADDE 15](articles/gecici-madde-015.md)
+- [GEÇİCİ MADDE 16](articles/gecici-madde-016.md)
+- [GEÇİCİ MADDE 17](articles/gecici-madde-017.md)
+- [GEÇİCİ MADDE 18](articles/gecici-madde-018.md)
+- [GEÇİCİ MADDE 19](articles/gecici-madde-019.md)
+- [GEÇİCİ MADDE 20](articles/gecici-madde-020.md)
+- [GEÇİCİ MADDE 21](articles/gecici-madde-021.md)
+- [GEÇİCİ MADDE 22](articles/gecici-madde-022.md)
+- [GEÇİCİ MADDE 23](articles/gecici-madde-023.md)
+- [GEÇİCİ MADDE 24](articles/gecici-madde-024.md)
+- [GEÇİCİ MADDE 25](articles/gecici-madde-025.md)
+- [GEÇİCİ MADDE 26](articles/gecici-madde-026.md)
+- [GEÇİCİ MADDE 27](articles/gecici-madde-027.md)
+- [GEÇİCİ MADDE 28](articles/gecici-madde-028.md)
+- [GEÇİCİ MADDE 29](articles/gecici-madde-029.md)
+- [GEÇİCİ MADDE 30](articles/gecici-madde-030.md)
+- [GEÇİCİ MADDE 31](articles/gecici-madde-031.md)
+- [MADDE 9 — Yürürlük](articles/madde-009.md)
+- [MADDE 10 — Yürütme](articles/madde-010.md)

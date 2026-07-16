@@ -1,0 +1,139 @@
+{:document/id "law/4572",
+ :document/type :law,
+ :document/number "4572",
+ :document/title "TARIM SATIŞ KOOPERATİF VE BİRLİKLERİ HAKKINDA KANUN",
+ :document/slug
+ "4572-tarim-satis-kooperatif-ve-birlikleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4572-tarim-satis-kooperatif-ve-birlikleri-hakkinda-kanun",
+ :document/sha256
+ "0d573d799c187a33c2c865374d39597b60538f263695d7d844c874fc62e82afb",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4572.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:28.121-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4572/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç, kuruluş ve sermaye",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "87381cf453c368d558ab420390b19c9e32aeaf1af1d2e8e25589e5da4f6d5d9a"}
+  {:article/id "law/4572/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "fddc00b0cb76ce285684a5f4e84817ecf4e2a6f2ab43018e3c4ee510d27a8e23"}
+  {:article/id "law/4572/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Çalışma konuları ve çalışmalarda uyulacak esaslar2",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "29a14872257ed168a47efdf95293d1a60be7feca873e366688586607e4384ea6"}
+  {:article/id "law/4572/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Organlar, temsil, genel müdürlük ve personel",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d97e0c40623958651f8f29eaf57639d708396a99614ae153d9806af2ae539fa9"}
+  {:article/id "law/4572/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bağımsız denetim ve alınması gereken tedbirler3",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "891cdca991ab47ac88f069d0680519700f119e150fe4614b08dbece0e9be7bee"}
+  {:article/id "law/4572/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Muafiyet ve istisnalar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3c99aa25e31abf0230c4b3e6750fb167bc98da5bbb4d5df0b5b1ecfe700b4e64"}
+  {:article/id "law/4572/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Örnek anasözleşmeler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2496579ddff804162e71c4ea12d1cdaf98edb4a39cefff7f6c239bcc88287d24"}
+  {:article/id "law/4572/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Yürürlükten kaldırılan, uygulanacak ve uygulanmayacak hükümler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "454f5556276e9b7170cf5d3da6f8517864635b220e367116d14a0ac9e2c7c56d"}
+  {:article/id "law/4572/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ca8cd99584c3d3a3524431540c28e9e287dc83d7611bd237e96e546a98787cce"}
+  {:article/id "law/4572/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "ff6d2ff77d08b92061998350b9cfc14355dc468748a3dee0b1a387ea39728fc7"}
+  {:article/id "law/4572/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "c89d4be6db4c85b0899f9ca0f179410d2a96957a7c901e984128d6378c174ac3"}
+  {:article/id "law/4572/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "7dfb176adf9bc78a1451d25ff0faa6f03bdeba27643aaa48689a9ab0e352d69e"}
+  {:article/id "law/4572/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e8f8735bf537b6ec684ff56c89a375102a9c8578ec0f23cb9e237b053f9ab578"}
+  {:article/id "law/4572/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "ae58e077065ab526c1373de63aab3d8e95adbea99a3d09ee16cf328d149728a0"}
+  {:article/id "law/4572/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "9e42fbbc58380cd8fe629a311788a186ccae7220132bf64a55c4b7d65c4f90b9"}
+  {:article/id "law/4572/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f6acb5bb40444cd0dd3e4e556e7e94b3d52f5bdf49b500ea21fd68d97538866a"}
+  {:article/id "law/4572/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9da70b57895deafc4a9c10bc580b911e381c274f5bc1c4b562cf7315384075dc"}]}

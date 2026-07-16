@@ -1,0 +1,118 @@
+{:document/id "law/5201",
+ :document/type :law,
+ :document/number "5201",
+ :document/title
+ "HARP ARAÇ VE GEREÇLERİ İLE SİLAH, MÜHİMMAT VE PATLAYICI MADDE ÜRETEN SANAYİ KURULUŞLARININ DENETİMİ HAKKINDA KANUN",
+ :document/slug
+ "5201-harp-arac-ve-gerecleri-ile-silah-muhimmat-ve-patlayici-madde-ureten-sanayi-kuruluslarinin-denetimi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5201-harp-arac-ve-gerecleri-ile-silah-muhimmat-ve-patlayici-madde-ureten-sanayi-kuruluslarinin-denetimi-hakkinda-kanun",
+ :document/sha256
+ "2da73d340c4b1e7b3010121d983632df5b883c41ad91139baa30bcedf1cdea29",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5201.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:40.526-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5201/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f04897ebeef103fe957a32a306e79dcbd02410df742facb6abdfc18f372668a2"}
+  {:article/id "law/5201/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "1a74ab80ab4c98c0f628c06e208164f808556cedbb67e3487d65f97ef1d18666"}
+  {:article/id "law/5201/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İzin",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0a52c0e8d59a387d7311494a8940b6fc235d1e9914056ea0bc082d781df66721"}
+  {:article/id "law/5201/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tespit ve ilân",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ba889c040caaf1442f9e0e0a8dcf111c5db46c4a7c40878bbc3c6f9c4a837900"}
+  {:article/id "law/5201/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sanayi kuruluşlarının yükümlülükleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "506d4b58ca9bf564f53f3f3903f9683406f475c5dc0d2fb0d914054a155082fe"}
+  {:article/id "law/5201/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Denetim",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "03e5ea370306ac61d02e2b90530ee5e33cc5a139f664451957ef3862dcb27955"}
+  {:article/id "law/5201/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İhraç veya yurt dışına çıkarma",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7ab4dc8de6010a1b7056cdf8479ee94fdd19369261160b85a5cc253fbadedf4e"}
+  {:article/id "law/5201/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e139f683025b57aa6b0140927b903ec0b76a389bd1486df4ac079a13a94914e9"}
+  {:article/id "law/5201/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "827be126cf9bd539353f64fcc8939aa760f1b3d1f8ee313b0882de309565fab8"}
+  {:article/id "law/5201/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "52e16c6390b28a783a0786bf9988f227415a9f2da25bdb6c0e3a28cd2d2fcb19"}
+  {:article/id "law/5201/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "169c57e32c99a14bdc1a433c3625a1e9aedce990c2ae0b30b1c0ac112b1b8c55"}
+  {:article/id "law/5201/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "8ead3ff75eac1f1c1b86e594ec2b391717d8a42dd5ceb69d9789281a2acd37c3"}
+  {:article/id "law/5201/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5894a0afd34b799f70275a16d83392f6ff2f0c0e8dd36991e5126148d73c1d91"}
+  {:article/id "law/5201/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "597cbac849b18ad0a083c836987ab7cccc34c6bcee33ccdbac58b539bcc9887c"}]}

@@ -1,0 +1,50 @@
+# KÖY OKULLARI VE ENSTİTÜLERİ TEŞKİLAT KANUNU
+
+**Kanun No:** 4274  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/4274  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — A) Okullar ve İdareleri](articles/madde-001.md)
+- [MADDE 7 — B) Disiplin Kurulları](articles/madde-007.md)
+- [MADDE 8](articles/madde-008.md)
+- [MADDE 9](articles/madde-009.md)
+- [MADDE 10](articles/madde-010.md)
+- [MADDE 11](articles/madde-011.md)
+- [MADDE 12](articles/madde-012.md)
+- [MADDE 18](articles/madde-018.md)
+- [MADDE 22](articles/madde-022.md)
+- [MADDE 24](articles/madde-024.md)
+- [MADDE 25](articles/madde-025.md)
+- [MADDE 27](articles/madde-027.md)
+- [MADDE 28](articles/madde-028.md)
+- [MADDE 29](articles/madde-029.md)
+- [MADDE 30](articles/madde-030.md)
+- [MADDE 31](articles/madde-031.md)
+- [MADDE 38](articles/madde-038.md)
+- [MADDE 39](articles/madde-039.md)
+- [MADDE 41](articles/madde-041.md)
+- [MADDE 43](articles/madde-043.md)
+- [MADDE 44](articles/madde-044.md)
+- [MADDE 46](articles/madde-046.md)
+- [MADDE 47](articles/madde-047.md)
+- [MADDE 48](articles/madde-048.md)
+- [MADDE 49](articles/madde-049.md)
+- [MADDE 54](articles/madde-054.md)
+- [MADDE 55](articles/madde-055.md)
+- [MADDE 56](articles/madde-056.md)
+- [MADDE 57](articles/madde-057.md)
+- [MADDE 58](articles/madde-058.md)
+- [MADDE 59](articles/madde-059.md)
+- [MADDE 61](articles/madde-061.md)
+- [MADDE 62](articles/madde-062.md)
+- [MADDE 64](articles/madde-064.md)
+- [MADDE 65](articles/madde-065.md)
+- [MADDE 66](articles/madde-066.md)
+- [MADDE 67](articles/madde-067.md)
+- [MADDE 70](articles/madde-070.md)
+- [MADDE 71](articles/madde-071.md)

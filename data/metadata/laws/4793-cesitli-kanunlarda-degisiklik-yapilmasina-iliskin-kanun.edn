@@ -1,0 +1,69 @@
+{:document/id "law/4793",
+ :document/type :law,
+ :document/number "4793",
+ :document/title
+ "ÇEŞİTLİ KANUNLARDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+ :document/slug
+ "4793-cesitli-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/4793-cesitli-kanunlarda-degisiklik-yapilmasina-iliskin-kanun",
+ :document/sha256
+ "34992670ebde838ead78952b418b0c8d728e31806e3b0271ab796b3e8707f527",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4793.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:08.323-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4793/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 42",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fc83cefcda255073dd5feac84bb8f1c49d39d2353d4daa0564b43b99cb037d6f"}
+  {:article/id "law/4793/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ec67cbc81cbcbd090a2f54bdef5a94b048087a76588c4b5d4c429b0cf456c2a0"}
+  {:article/id "law/4793/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "a274662271e542fa5396cfd59149590e3889e58c55cf819bb995043363500962"}
+  {:article/id "law/4793/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6cd56a223712fcf53659133a25b28d1dca6775aa1a6b3a86aa5701b5da252112"}
+  {:article/id "law/4793/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f64f1bf8d8f5253adc2b09f89ddbee75ba9d2e56d93a587c1669ef3cc9fb6513"}
+  {:article/id "law/4793/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b8ccc13d5cf16456ae6cc1696bc508bc4449ab558c030577d96bc6645df71805"}
+  {:article/id "law/4793/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "493b3d56ab45d4a71675670069e843dd466831feef520023be9901a58e226dd2"}]}

@@ -1,0 +1,186 @@
+{:document/id "law/5200",
+ :document/type :law,
+ :document/number "5200",
+ :document/title "TARIMSAL ÜRETİCİ BİRLİKLERİ KANUNU",
+ :document/slug "5200-tarimsal-uretici-birlikleri-kanunu",
+ :document/path
+ "data/canonical/laws/5200-tarimsal-uretici-birlikleri-kanunu",
+ :document/sha256
+ "d7ff01261804f62b5ee74e4a7ae50bf2cb686d7ca2076b366598cbd5516e6aac",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5200.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:37.342-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5200/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "885c696b3ef5d4cf1110faf56a55397f6ba96b5d9fa58a104b033d9444663102"}
+  {:article/id "law/5200/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3da5459e4b28335850591fdd067c2376b31d89b235e745abd4c89a81873b1014"}
+  {:article/id "law/5200/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Ürün veya ürün grubu",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7ac700aaac318d04dd5f85c89e3988faeb02eae5e0561b8d94b37e9119a1dd07"}
+  {:article/id "law/5200/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tarımsal üretici birliklerinin kuruluşu ve tescili",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "6d5df3c4be124f90b119480063545474514ef33706b7688ad9b5a7aeae0c8101"}
+  {:article/id "law/5200/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Birliğin görevleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "67cd193ea7c79468335c5e9b20be686429cb2c7f34676dc61cd4ebee95e273f1"}
+  {:article/id "law/5200/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Birliğin organları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "dacbf6b734f408df351f7eadf9d3b5fb7a1218fcd387992c8925d01feb16a84a"}
+  {:article/id "law/5200/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Genel kurul, görev ve yetkileri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0b1c6287eea154445c137b5c0786ca59574761df6cc53f86ec8ab072d5bcd518"}
+  {:article/id "law/5200/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yönetim kurulu; görev, yetki ve sorumlulukları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7c911f1256c2d8fd5be6106abc83ef014ddfa52622f704b4a7a1eed6256d8779"}
+  {:article/id "law/5200/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Denetim kurulu, görev ve yetkileri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "296ffa2c8f8a6e5a729d8a978a480130957a74a1f28d4e40ae61e4e5978c1590"}
+  {:article/id "law/5200/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Üyelik şartları, aidat ve üyelikten çıkarılma",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c5753fd44fcf9b5e3402a8658d4287aff5d082c36cd05bde20931a17bd60df6c"}
+  {:article/id "law/5200/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Birliğin gelirleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "a1617b139cd05aae72ce6a429e489a0b5bc1fa8f2630292a8e829a27ed9c8d6d"}
+  {:article/id "law/5200/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Birliğin giderleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "dd6d31c30f4bb89ce99edb4c604e54d5ff90074aa4cf8e3aa88f596a26c85e32"}
+  {:article/id "law/5200/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Merkez birlikleri",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "5ef44a69581099f6ded901c7a8b0b061b0a5d98d17acbfed0aec7b0de157c1be"}
+  {:article/id "law/5200/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Merkez birliklerinin görev ve yetkileri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "03f29c3ae2a04e6db0e4399d8a3f3bc58d4c08feadb6ca36680b18dd2b42d963"}
+  {:article/id "law/5200/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Merkez birliklerinin gelir ve giderleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4fbefcb926e01b7ca3eda354023cd27b71a4a245d740f3159f80710a6363cb36"}
+  {:article/id "law/5200/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Bakanlığın görev ve yetkileri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "d6744a705bafd347c85a6e5bc66d850ab4fddda576bede3abdef3d11b9c007aa"}
+  {:article/id "law/5200/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "f26ed2e96f990b0ef89dbe6cfa9e9cab4b23c119f4cbd1c87925b05cff1f9af2"}
+  {:article/id "law/5200/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "764e3f2058b74a65980ceaae44c16484b2db8dd1ab77eb8d73c194b3e5eec6a5"}
+  {:article/id "law/5200/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Muafiyet",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "5a0ca69a6c6835e5134cf04e2e51cf87be7b80139113893d1d7067569b8a20ca"}
+  {:article/id "law/5200/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Uygulanacak diğer hükümler",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "9a929e07f7509b18fbd60bf277db29de48ef946a51304da2319ff1ee8c723ac9"}
+  {:article/id "law/5200/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Mevcut tarımsal örgütlerin uyumu",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "9a84a1d65a3f5a529da43d5d3592f3eaf50cfc33b7dd17185fc803e63fc4e8ba"}
+  {:article/id "law/5200/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "07dada084027b939bd4ec00f7768bf8dcbc7a92654abe721e69f3076f7166554"}
+  {:article/id "law/5200/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "8e5497425a4efb8d30edb5379eb14c497ae5020e0ea76a44234188295f30f66a"}
+  {:article/id "law/5200/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürütme",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "3d9114ebdac2fc3f5113e383a6c5bbf77f1a39728c90017565c2f56ea3d5f69f"}]}

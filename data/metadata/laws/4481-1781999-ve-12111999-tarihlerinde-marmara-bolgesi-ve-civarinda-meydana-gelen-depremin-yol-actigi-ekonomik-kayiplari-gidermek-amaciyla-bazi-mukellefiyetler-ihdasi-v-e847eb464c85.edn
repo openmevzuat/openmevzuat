@@ -1,0 +1,153 @@
+{:document/id "law/4481",
+ :document/type :law,
+ :document/number "4481",
+ :document/title
+ "17.8.1999 VE 12.11.1999 TARİHLERİNDE MARMARA BÖLGESİ VE CİVARINDA MEYDANA GELEN DEPREMİN YOL AÇTIĞI EKONOMİK KAYIPLARI GİDERMEK AMACIYLA BAZI MÜKELLEFİYETLER İHDASI VE BAZI VERGİ KANUNLARINDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "4481-1781999-ve-12111999-tarihlerinde-marmara-bolgesi-ve-civarinda-meydana-gelen-depremin-yol-actigi-ekonomik-kayiplari-gidermek-amaciyla-bazi-mukellefiyetler-ihdasi-v-e847eb464c85",
+ :document/path
+ "data/canonical/laws/4481-1781999-ve-12111999-tarihlerinde-marmara-bolgesi-ve-civarinda-meydana-gelen-depremin-yol-actigi-ekonomik-kayiplari-gidermek-amaciyla-bazi-mukellefiyetler-ihdasi-v-e847eb464c85",
+ :document/sha256
+ "ab993c07d63173b6c21b980745a5e58c6ccde234d41d6481b0bf27f5ec54fba9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4481.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:41.369-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4481/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Verginin mükellefi",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d4a5f018ee6902fb8d9bd2021e57fbe37ec6b414eb2c0a139bda542ad871f7ec"}
+  {:article/id "law/4481/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Verginin konusu, matrahı ve oranı",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3ed630889d60f37af40a51e55db4d58ac43165625d46b482b68fb851a85f3bfb"}
+  {:article/id "law/4481/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Muaflıklar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b95758d193fe9112203a657d33e5dddc3794a41bdf3f4b74d2d4ef2bcebec0b1"}
+  {:article/id "law/4481/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İstisnalar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "effb1172137d73e60d41471480c81cf73412b00c0ef9d3fcddaaabb14b43fca1"}
+  {:article/id "law/4481/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Beyan ve ödeme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1b62457cd0ced125ba863144521fdad0cec26c1aada5c4e750fc7be57ed6e9f8"}
+  {:article/id "law/4481/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "74816e848197b7729379c40965efa90d01f045c4ca93b097b01eb7325d19824f"}
+  {:article/id "law/4481/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "ae331459e178961923986edd5dd3cc91fa4667e4ef0023cc7095913a5a309658"}
+  {:article/id "law/4481/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "96fa632551161fa1814b4a15ec0819e4c912015d531e9d69b2840c8e8f5a81ce"}
+  {:article/id "law/4481/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "e3e29d52048c80cf26333a6214e312f94df2555f3375502d2f5c368acb93f6ed"}
+  {:article/id "law/4481/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "15d8405408319aede2a543d313b642ebe3376e84a29074caf23fdb63a9b204fc"}
+  {:article/id "law/4481/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bc51cb30a8dc143e4b1850466a4e920906cada1d06961781dc95abd96b0ad2c3"}
+  {:article/id "law/4481/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7b1536ccb2eda326964e96ee962bce5ac3fcc1bcb7a381eedafc74eaadf62b52"}
+  {:article/id "law/4481/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a91a425de633d698f33fb0bf7d001d5122528f7aa99e2c421ad8aa9838f01e67"}
+  {:article/id "law/4481/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "29c9f0f9e4bbc1569172201c31b60047e42952e01689ebb8301059ce6147d737"}
+  {:article/id "law/4481/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "7bcff2b45a0a6ecdb55d714541f20535f2cb97c515cbca0eb08a52cbf689dca0"}
+  {:article/id "law/4481/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "c7284413dfe505ff7c2389db73d5ec849d5a7973e65b240d34097a8de1834774"}
+  {:article/id "law/4481/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d7ff94976ce4cdbc21978363885191ffaea167625f0f7414243d4ad7cb8a4223"}
+  {:article/id "law/4481/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "ccf2594c954adacf3a24cade01f3380f1dbd3004b0def5873246c7ce14941d23"}
+  {:article/id "law/4481/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "6b2c8d8c0149dc1fc8ca7340eaad4e4c59840259084c8ba551f96b2c87efaf4c"}]}

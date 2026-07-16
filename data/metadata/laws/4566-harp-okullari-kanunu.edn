@@ -1,0 +1,369 @@
+{:document/id "law/4566",
+ :document/type :law,
+ :document/number "4566",
+ :document/title "HARP OKULLARI KANUNU",
+ :document/slug "4566-harp-okullari-kanunu",
+ :document/path "data/canonical/laws/4566-harp-okullari-kanunu",
+ :document/sha256
+ "20785816b748adf1d964598676a6f97f7292a97a933c0b953cae7542ae549bd6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4566.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:21.586-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4566/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f84e4a5d114f946d5dfa55dab30f52775a7fd3f799df17f5cd644fe7b7e4c17a"}
+  {:article/id "law/4566/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "83e58f931df273acfcfe610a97de696e10dfdd3ad1fb9a44c3b1d3da44b98e48"}
+  {:article/id "law/4566/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4bcc58fda8fcaf7a02d736cd5a882fae3c034b1db26085aa1e8766d522c79b2e"}
+  {:article/id "law/4566/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "340382e3c6a72c0100c218f1635b6239312bb5eaba34ae73c2da897fb526db6b"}
+  {:article/id "law/4566/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3478066a15a8eeb79a64d766c4ede077aa370cef26c831c2d73721b475fd77c8"}
+  {:article/id "law/4566/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4e27ab80199e16fcc3c31450e1153e4465ae2d2df08c51dab3f89ed9374f19d7"}
+  {:article/id "law/4566/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Görev",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "7b76f2fc7829caaccb7907c908a379b349414209003acc5218e1216d4386a35b"}
+  {:article/id "law/4566/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4d820d772545ef38fe0e9275a8eca4a702d90f0dfd4c147b3edf6b9d59de7dea"}
+  {:article/id "law/4566/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Harp okulu kurulları9",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1462eb9854b36f95a957e5cff9b1f97588dfc00bce57e1c279c3cedb5f7752e6"}
+  {:article/id "law/4566/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Harp okulu komutanı10",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "df339099ce245af59cc954afdb3831f63fe0dea7806938d22865844f4fb07452"}
+  {:article/id "law/4566/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Dekan",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0a2ca4e35ca86042fcb207ba74721b60c3fccafea01f912b1d63879d7a69224c"}
+  {:article/id "law/4566/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Dekan yardımcıları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e49b56984ab769a5b3380f120261db5460557466e1efa0643a039ebf90cb1e4c"}
+  {:article/id "law/4566/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Enstitü Müdürü",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "fb88477d6593aae14a1b75095fbbc342c9449beaed4fa22a0d5a10b05ad923ce"}
+  {:article/id "law/4566/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Bilimsel Denetleme Kurulu",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "b8395bdceb2667d31446cdda73484d4f0f87dd66b5baed5dc084634330d4a07f"}
+  {:article/id "law/4566/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Öğrenci Alay Komutanı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1c7fd9525d66da9aee52d297749a40db83484ae279eb137d215c12efe7841445"}
+  {:article/id "law/4566/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yüksek Disiplin Kurulu",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a12236bb14b92964bb9272ff99a6aad71a2d0d032ef5bcfd698a2a50ffd40b5f"}
+  {:article/id "law/4566/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "0f4eb671e98a0d866009d24b2931d39586d964759a9091419d65142b7b2c5c27"}
+  {:article/id "law/4566/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Doktor öğretim üyesi kadrosuna atanma11",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "c8a4a461cccb119491b825fcc4cdbbe0d9c947c327dd9360c6aa2ab812878b9a"}
+  {:article/id "law/4566/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Doçentliğe atanma",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "1ca5d5c30b8594123b81a437bd3a521543176738fea6b26c5fbdd9a1a5578e50"}
+  {:article/id "law/4566/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Profesörlüğe yükselme ve atanma",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d25af2206bf7d8e569150d2a7df85841449cbcddf4159df5bd58287569e79e62"}
+  {:article/id "law/4566/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Yabancı ülkede alınan akademik unvanların geçerliliği",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "fb73ea79ac1d25b31c0e495cfae498e1b68c75ce4b63f02527fe1a5e665f2748"}
+  {:article/id "law/4566/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Akademik unvanların korunması",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "410f1a721d82fae383c7041198829aa00116298df9249b103d55ec95aef6136e"}
+  {:article/id "law/4566/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "c5ddf7aa7a683bfbea307238c9b385e96dddd5c228b8c12dec1171efb242836d"}
+  {:article/id "law/4566/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Öğretim elemanlarının harp okulu dışına atanmaları ve görevlendirilmeleri",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "7623d0a770d3140236a4ebd0be1a0b7e92066ca539738913a845ab72f7377b00"}
+  {:article/id "law/4566/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Öğretim görevlileri",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "ce6f2f6a29b7b967afde2eb3f3ca967c2b202afe87d7c3b65ae9ce393cc3e1ee"}
+  {:article/id "law/4566/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Okutmanlar",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "328880bbec5cb124ce6eb7182089d16d8a1c0066ccc269c35d73e9d70ec754f4"}
+  {:article/id "law/4566/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Araştırma görevlileri15",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "996437496ae4fad609b7dd804588a4a4c3eb03e404e4b0f45522f1d6cb272e3e"}
+  {:article/id "law/4566/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yabancı uyruklu öğretim elemanları",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "6631400b48b90ca0720ca9e9dd7373dfe282a4d815784017dec7b151515fa0cd"}
+  {:article/id "law/4566/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "727926012d79b2ff0386f83ca0b03e915af8538e14e4c10f8be4b0ee5c3dcf03"}
+  {:article/id "law/4566/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "9396c9823499727d560f468f3347cfca4aabb1166288783dcad00fec396be279"}
+  {:article/id "law/4566/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "9488691c955be069f0e25b88dff050a182ad950c7b43caf9f22051e6b0dc8607"}
+  {:article/id "law/4566/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yurt içinde ve yurt dışında görevlendirme",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "634029702dbcc3b1a079f31a7f08db562ed300da80125c6982682a113e5188b3"}
+  {:article/id "law/4566/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Kurumlararası yardımlaşma",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "e82b333b4f08170376f6e1cdc66db3882bc142929f1ecf7ade2362d13f53bf75"}
+  {:article/id "law/4566/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Denetim",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "0a9820453e6a329e71b4fa983fd251c514602c97e5deec16df03089637d69c1e"}
+  {:article/id "law/4566/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Bilimsel denetim",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "a40522888ceee984e07b62e4f45a4022e002900bf1775c498b7e9a9e18673bb5"}
+  {:article/id "law/4566/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "1c5ad55a93c7db4fd681d657c3777b17424786da56d534152daa41aa97873a7f"}
+  {:article/id "law/4566/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Lisans düzeyinde öğretim",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "c4d5b47b78a323a4d8006fdfab2d8838e3de4f5b69517a049ea11ae6fa4a4ccd"}
+  {:article/id "law/4566/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Disiplin ve okuldan çıkarılma",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "05cf33e3b0fe10f0b29b7c8a6b91ef0e515faffcb9f532ed94a38506e85036a8"}
+  {:article/id "law/4566/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Lisans üstü eğitim ve öğretim",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "23179cb6b5ab7ee5be6fee91047b13ba145e55e16a7579dbb9eacbb4b8f3eb5d"}
+  {:article/id "law/4566/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "611aa9487fa7cd7298dc1cd56450adde5204f295e933c8c1ca3e03a4778ddc89"}
+  {:article/id "law/4566/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "1a68655bb20118fa0063999abc158ed8f783faf8df05970d2a4e6d831d3202cc"}
+  {:article/id "law/4566/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "f1ffa47e9d32b00496e9a09ad25839956bcb87253c3172ebc04b80710dd169d8"}
+  {:article/id "law/4566/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6ed32ed4f8acc0e43eb755928c2c360507d30c4a2e7372d79497e7e71b28ec4b"}
+  {:article/id "law/4566/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "10090aa1e2fd9194b411c70196d2d7c888133924b41c982f2db126800364a606"}
+  {:article/id "law/4566/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "43df2e1ea625ceed61d34922268ba909b0ff4229230e5ff5001a495fa64c1c47"}
+  {:article/id "law/4566/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "b0782e06d43b68956170b202b2353acbbfdd6aef6bc7079a4f48d75ea52bbebe"}
+  {:article/id "law/4566/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "d40d0acc9d4838f86dd15521bd40ab1e9ab64fc0cf93b87802c35beca1fb6522"}
+  {:article/id "law/4566/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "2db47f2394225f26a905ea9195f793339357640217d4a1c28b8cd6e526ede5b6"}
+  {:article/id "law/4566/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "4f943d8cde07a45817e1f162a71d346ee8fe4ab2278bdd9dbc8d105e4a4d66e7"}
+  {:article/id "law/4566/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "81727cfb6bae2c3c69229d35e3049a711436d8c0259f44b6144d87e63afe6b3f"}]}

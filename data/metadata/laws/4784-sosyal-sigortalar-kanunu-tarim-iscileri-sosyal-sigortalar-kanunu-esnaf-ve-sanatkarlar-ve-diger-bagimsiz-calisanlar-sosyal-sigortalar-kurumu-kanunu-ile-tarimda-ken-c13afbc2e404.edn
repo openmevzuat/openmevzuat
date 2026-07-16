@@ -1,0 +1,41 @@
+{:document/id "law/4784",
+ :document/type :law,
+ :document/number "4784",
+ :document/title
+ "SOSYAL SİGORTALAR KANUNU, TARIM İŞÇİLERİ SOSYAL SİGORTALAR KANUNU, ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU İLE TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNUNA GÖRE GELİR VEYA AYLIK ALMAKTA OLANLARA SOSYAL DESTEK ÖDEMESİ YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "4784-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-kurumu-kanunu-ile-tarimda-ken-c13afbc2e404",
+ :document/path
+ "data/canonical/laws/4784-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-esnaf-ve-sanatkarlar-ve-diger-bagimsiz-calisanlar-sosyal-sigortalar-kurumu-kanunu-ile-tarimda-ken-c13afbc2e404",
+ :document/sha256
+ "7f19e7dd9db5e85d0c53e9eb1e02fdfa9adaeeed70018dc01e75d6cf2a17e892",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4784.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:01.055-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4784/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : Cilt : 7",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ab288b208b2a704fb67690d31489db2de25f3b89fee2f9eb9db88587c245fe75"}
+  {:article/id "law/4784/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a70b1a957bbc5e2619ffd7200f7c05836b1523a3834d614469a57ad899c6a524"}
+  {:article/id "law/4784/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

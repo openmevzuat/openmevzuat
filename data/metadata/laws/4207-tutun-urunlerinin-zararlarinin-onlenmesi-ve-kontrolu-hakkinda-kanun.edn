@@ -1,0 +1,125 @@
+{:document/id "law/4207",
+ :document/type :law,
+ :document/number "4207",
+ :document/title
+ " TÜTÜN ÜRÜNLERİNİN ZARARLARININ ÖNLENMESİ VE KONTROLÜ HAKKINDA KANUN  ",
+ :document/slug
+ "4207-tutun-urunlerinin-zararlarinin-onlenmesi-ve-kontrolu-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4207-tutun-urunlerinin-zararlarinin-onlenmesi-ve-kontrolu-hakkinda-kanun",
+ :document/sha256
+ "dcd7807b39439a7b045242f5b02e1eab70a5cd0d0ed7a866e78678337b79c063",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4207.pdf",
+ :source/fetched-at #inst "2026-07-16T02:29:06.704-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4207/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c8c1ffa754e895d4f0275d1f1a7ce6f545e423fc8817522ae03804adc24704fb"}
+  {:article/id "law/4207/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tütün ürünlerinin yasaklanması2",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d3bd7f1cf8d48360c1c762e2f16e327c67faf8a3986cddb1a00bf845225acd8d"}
+  {:article/id "law/4207/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Diğer koruyucu önlemler3",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3fd36d141b3d456c3d034b2ddf2d88ab1d2f37436d1949805b299335b6d0d41d"}
+  {:article/id "law/4207/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kontrolün sağlanması6",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7ebe35fbb7dfc689d01d48d8804316b66bb01c5eee389ac325a50af437f83f1e"}
+  {:article/id "law/4207/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ceza hükümleri89",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3e6bbc503acd8e8faffc420ba764d8128f5a03e6cbef4cd71b95ac5b8f8faef3"}
+  {:article/id "law/4207/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İdari para cezası",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "fafeaef65586d5deadc0161fda28f182182383142adbb9e4c05ac241e8370fa6"}
+  {:article/id "law/4207/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Mülkiyetin kamuya geçirilmesi11",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bd8144e58b6781ade147c6cf30f4b99099177c7ec549878f7d99a9f48a59f265"}
+  {:article/id "law/4207/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Para cezasına ilişkin hükümler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a8b2f800b31556774f4c84b784757c3334bb9db71ed5f91b5d2fb5a8616dea39"}
+  {:article/id "law/4207/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ae2fcc1c1d677ecbc2d0a8165f27f683fe8cf8ada8d20462ff64bf0453922f2d"}
+  {:article/id "law/4207/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "cf8ea925ff0c00e88420f67ac48d7663aaeb50ebdf956a9d24e7daada93dcd3e"}
+  {:article/id "law/4207/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "998f7d764093421b15c876410e137f61a4dc9facbc29c0bb05888f4415198ed1"}
+  {:article/id "law/4207/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "739c2c6e4fc64ac3485b87faec41a259925f62a9028e0048e4eaf8e1d11ad820"}
+  {:article/id "law/4207/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "5f214c57c7d669a3ae14f2f27f82264903c3f0e7ca3d99a501ba25ed2b777aa9"}
+  {:article/id "law/4207/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f6acb5bb40444cd0dd3e4e556e7e94b3d52f5bdf49b500ea21fd68d97538866a"}
+  {:article/id "law/4207/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9da70b57895deafc4a9c10bc580b911e381c274f5bc1c4b562cf7315384075dc"}]}

@@ -1,0 +1,77 @@
+{:document/id "law/4358",
+ :document/type :law,
+ :document/number "4358",
+ :document/title
+ "VERGİ KİMLİK NUMARASI KULLANIMININ YAYGINLAŞTIRILMASI VE NOTERLİK KANUNU, İCRA VE İFLAS KANUNU TAPU KANUNU KARAYOLLARI TRAFİK KANUNU ÇEKLE ÖDEMELERİN DÜZENLENMESİ VE ÇEK HAMİLLERİNİN KORUNMASI HAKKINDA KANUN, BANKALAR KANUNU, POSTA KANUNU İLE PASAPORT KANUNUNDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "4358-vergi-kimlik-numarasi-kullaniminin-yayginlastirilmasi-ve-noterlik-kanunu-icra-ve-iflas-kanunu-tapu-kanunu-karayollari-trafik-kanunu-cekle-odemelerin-duzenlenmesi-a813e91aa8f3",
+ :document/path
+ "data/canonical/laws/4358-vergi-kimlik-numarasi-kullaniminin-yayginlastirilmasi-ve-noterlik-kanunu-icra-ve-iflas-kanunu-tapu-kanunu-karayollari-trafik-kanunu-cekle-odemelerin-duzenlenmesi-a813e91aa8f3",
+ :document/sha256
+ "f1fe38e865c9c6d1077b98a76a815081e2ed8448b2427ce14978427abd085f59",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4358.pdf",
+ :source/fetched-at #inst "2026-07-16T02:29:52.405-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4358/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "90087b4830a1119ea507848b4ce45e6adcc6abfa40243875ab6d7209930112ba"}
+  {:article/id "law/4358/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Vergi kimlik numarasını tespit, kayıt ve bildirim zorunluluğu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "fab3f35e33ef89d75287a576ad2f37cbea526fe5ecfad41ccfb12e7d4879b7c9"}
+  {:article/id "law/4358/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0c367709ebbd8c1d5a32b76e22f239a35577cacf0c23a5c6adf736fbd608ebcb"}
+  {:article/id "law/4358/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Maliye Bakanlığının düzenleme yetkisi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b643549b7fd16f2f304d6376d4ade30f9d616b63a15e882d626f944474d28fc5"}
+  {:article/id "law/4358/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "984a6997da459fe1c144773e2f4c1bef1b1aaba1da6ea04e11800de6b444e741"}
+  {:article/id "law/4358/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b0227615758bbfaddc38903963c1f3f8be38475d104398bf5b8dbd79674698b8"}
+  {:article/id "law/4358/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b8ccc13d5cf16456ae6cc1696bc508bc4449ab558c030577d96bc6645df71805"}
+  {:article/id "law/4358/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "493b3d56ab45d4a71675670069e843dd466831feef520023be9901a58e226dd2"}]}

@@ -1,0 +1,182 @@
+{:document/id "law/4708",
+ :document/type :law,
+ :document/number "4708",
+ :document/title "YAPI DENETİMİ HAKKINDA KANUN",
+ :document/slug "4708-yapi-denetimi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4708-yapi-denetimi-hakkinda-kanun",
+ :document/sha256
+ "edc25ac0c2662e85ef57dd815158e9d915c1d1ee5afc958dae505626e69da47f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4708.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:53.554-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4708/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç, kapsam ve tanımlar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c048518fb2d5e9ebd3315a05d9bf7097880661ff6560ff5297b80bde1922113c"}
+  {:article/id "law/4708/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yapı denetim kuruluşları ve görevleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5c1a134993d05281609deffc541a20ab3a20b28a7c3029f9e929645db198f69a"}
+  {:article/id "law/4708/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Sorumluluklar ve yapılamayacak işler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7bba3571e682dc22270976bf8206ac2d13d56c24981c550f1ed773f0bf02de80"}
+  {:article/id "law/4708/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yapı denetim komisyonları ve görevleri3",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d0c3b46ad0bde3a428dcf975035a331b48bf934b6a8545131023dfedee8321fa"}
+  {:article/id "law/4708/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yapı denetimi hizmet sözleşmeleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b7db5a6c296f1514f61af745e2f11ccc0c3a95d06277c482f068e52194e90a5d"}
+  {:article/id "law/4708/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Yapı denetim kuruluşu ile mimar ve mühendislerinin yapı ile ilişkisinin kesilmesi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a28e913333255962479d1438f8234496ae39f8f7e9716b7f23033f1adb4960e8"}
+  {:article/id "law/4708/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Sicillerin tutulması ve yapılara sertifika verilmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9365b1ce467f8e0205f18652ec10de2a0a8b72a540207b6d1870845f63a30941"}
+  {:article/id "law/4708/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "İdari müeyyideler ve teminat5",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8af8d593c7800c58ac8a3f95a6aa6c810b53fef0dd3c30a1aa12dc2a7c951013"}
+  {:article/id "law/4708/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b21f22157737177e268b79583994cf7c80239b031b60a89f357965754e289dbe"}
+  {:article/id "law/4708/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Bakanlığın denetim yetkisi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "2023fa2af99547ddfd046a85091350233578934d6e595fb29d440ae1a23ccbab"}
+  {:article/id "law/4708/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bc282e6b69e697dea54cf12dc610d39890220e9605cd58dff7563a4fd6e8d11d"}
+  {:article/id "law/4708/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "ec2623bbe5c04e0f3ab075a5647a60200b10780837774336e1a4bb995a1b6d1e"}
+  {:article/id "law/4708/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürürlükten kaldırılan ve değiştirilen hükümler",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "b511c5f0a214836470f4a764312e6c07bcd91c5bc19dc09951877a18b8688a4a"}
+  {:article/id "law/4708/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "8643bbcc7128fbc2fac4f6bdd91921006f9ee55a40ced59ff4ec0feb6acbad33"}
+  {:article/id "law/4708/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Bitmiş yapıların periyodik olarak denetimi ve hizmet bedeli",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "fe6623e8244f7f3a50b155bf6026af280c30048fc4facef23002e4025bc82b31"}
+  {:article/id "law/4708/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Zemin ve temel etüt kuruluşları ve hizmeti",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "ae76f9264500b43ce62a78ffe047d37ded2591ba78fb8a45bf3eec23f9cdb6d0"}
+  {:article/id "law/4708/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "63321e4dd70afd16e77da82a85919e59b49d45442c93752fd6fcd23e09a09c8e"}
+  {:article/id "law/4708/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "148f3b9e50bf80829f7372ab83d4c9fba0ea2fc4ae88d9dbb1b64394e8b51fa3"}
+  {:article/id "law/4708/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "eff3b80f148b29dcf600ea69467e5c00db4a1b872acff0c6f2cbade8872eaa18"}
+  {:article/id "law/4708/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "cb42aaaac3f8bd355627fa4568f72bf4e9d9138aaff5206e155fcf138f6320b3"}
+  {:article/id "law/4708/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "İdari müeyyidelere ilişkin geçiş hükümleri",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "9b18d4b305be9588c7021f492feb26c7d1881e4c7e2c6ffcc6396f9cc1fbbeaf"}
+  {:article/id "law/4708/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "72a32c0a1d2414107a505454920d346fb63bcfcf98acaa1a1504db3105ebb50b"}
+  {:article/id "law/4708/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "697a48dff4329c10ce5fbd95a7caabee7c4b8c6c7dd29fa675fd8df4530d323f"}]}

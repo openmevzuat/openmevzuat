@@ -1,0 +1,130 @@
+{:document/id "law/5202",
+ :document/type :law,
+ :document/number "5202",
+ :document/title "SAVUNMA SANAYİİ GÜVENLİĞİ KANUNU",
+ :document/slug "5202-savunma-sanayii-guvenligi-kanunu",
+ :document/path
+ "data/canonical/laws/5202-savunma-sanayii-guvenligi-kanunu",
+ :document/sha256
+ "bd8c27790cb8ccb570c8980cd97d72937fcdc28b9cdcffa0ba051f92fa5c20e4",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5202.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:43.560-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5202/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a737311ffd19ed556371e766b46299626c02ef34e87881c94b87f4aa0af29ac8"}
+  {:article/id "law/5202/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "619bd15b927a4e9ea3f15b2febd5c67ebec81ab0f4f7d47db26515fb9608796e"}
+  {:article/id "law/5202/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9b855b57c180899ea4230149ffb30ab3c345576ee3a226ab3cfdf6e1e6c7ed58"}
+  {:article/id "law/5202/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Makam",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a4ac4015a379cad44700ffa451959d16161ee1677932cdedcd1e01392d45c4d2"}
+  {:article/id "law/5202/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Gizlilik derecelerinin belirlenmesi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "562d8d32a0b74b7f31f69118122e722fe3f01607013000f769642066f2bf2ba6"}
+  {:article/id "law/5202/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Gizlilik dereceli bilgilerin verilmesi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3c72002be3cf687d61f6382172daa2efba5627d3179396660d9359967201ebc7"}
+  {:article/id "law/5202/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Satış ve devir yetkisi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d6debc3b33ce07bfd9a4476a3dc09dfecf5fc8a4121ae5960f578402ebf229ec"}
+  {:article/id "law/5202/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Tesis fiziki koruma önlemleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7abcc68677ea457222b0bd1693546e8bcee7f108a6177674a06c11cd41f8b1e9"}
+  {:article/id "law/5202/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Taşıma sırasında alınacak fiziki koruma önlemleri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c0bee478821e36a89465ee6498ac96c08352dcb5bd0f9e81282d765d3c34e3dd"}
+  {:article/id "law/5202/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Ziyaretler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "93cee10a0b03fb6216184c9ba8936428e7e313596a0e36486412e607fe1c8930"}
+  {:article/id "law/5202/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Güvenlik denetlemeleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "52801e44876eda6fe87cff0a54fff5c3efbba46d1091e6fbac1c7e42e64c380b"}
+  {:article/id "law/5202/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Ceza hükümleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "17e1b001bcff7c045b748438b33233a32ab9956e66ca2baf354405a6776fce11"}
+  {:article/id "law/5202/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a719cee318e4f68ade04645d8ed6f58d178a8ae32c5b518fc023b4f78f25565a"}
+  {:article/id "law/5202/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "62fb75ae6c05a1808e581936210a086460fd53d4834ff45b0e448ef1a95d7087"}
+  {:article/id "law/5202/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "173085e466a314b45acfd5c942e3c867af0b17c096cf012768f5c18bf67c7db3"}
+  {:article/id "law/5202/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürütme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "14a63230720f114a930e6291fbda2a0116af3f46d1208009f87fdd693f5c274c"}]}

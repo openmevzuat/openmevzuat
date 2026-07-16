@@ -1,0 +1,132 @@
+{:document/id "law/4603",
+ :document/type :law,
+ :document/number "4603",
+ :document/title
+ "TÜRKİYE CUMHURİYETİ ZİRAAT BANKASI, TÜRKİYE HALK BANKASI ANONİM ŞİRKETİ VE TÜRKİYE EMLAK BANKASI ANONİM ŞİRKETİ HAKKINDA KANUN",
+ :document/slug
+ "4603-turkiye-cumhuriyeti-ziraat-bankasi-turkiye-halk-bankasi-anonim-sirketi-ve-turkiye-emlak-bankasi-anonim-sirketi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4603-turkiye-cumhuriyeti-ziraat-bankasi-turkiye-halk-bankasi-anonim-sirketi-ve-turkiye-emlak-bankasi-anonim-sirketi-hakkinda-kanun",
+ :document/sha256
+ "6ee4b3877985183f267e402411e28f102423d3bd0f2b31639477fd0f61f8ad1e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4603.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:37.161-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4603/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 40",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3efcc039f871d25dfbc19bbe5101f41e669823616db0f926076da695f64b7420"}
+  {:article/id "law/4603/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "06eddc18db44585371173b4957faa1bf9874a1515fb81afdb4f8d6c22811e4fe"}
+  {:article/id "law/4603/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7456414984e7f1a4e1682bdedc61145dac58f4ec629d9a3f3319d80659cfa79c"}
+  {:article/id "law/4603/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "4e4c1fdda49d9753281c3f8155bfaec79daa0b1e4d4a8faed26b8bb7410f2b99"}
+  {:article/id "law/4603/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "c1e797bccb71f64d60db60feb66d2a108a19f9e7dbf00aec6fa4aafa2d75ca38"}
+  {:article/id "law/4603/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "5e5808cde9c37ba010f08010b650f9bac6c6aea2f7839ef81885df6a93cf1285"}
+  {:article/id "law/4603/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c230903d08fea56e7e708a20946d927c7922cdc123f0ade2efd3a90537fc6fa9"}
+  {:article/id "law/4603/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "9b67b28ff14e5262ec896c7e3f2dec66061f015bf5b1e346aacdadb16987a432"}
+  {:article/id "law/4603/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "26949597bd6532fb8d93dce9a4f0daba34d6ce1b083772695197834d6a9daa48"}
+  {:article/id "law/4603/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "aebe8610a37d26f9478d3a9698d4d34ea508fc0d559866663f95db59a0e4a14d"}
+  {:article/id "law/4603/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "74e78b52829b7879074f2395a3927692846a608b5576df6741413eee234e6b95"}
+  {:article/id "law/4603/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "50a8d3f72b308e9584bf9a010468d070306b941bae353399834ad9ba17babc51"}
+  {:article/id "law/4603/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "a038f2b81f089197bfc85ee09a5c2b59ff441e90c4bf53ac47310ab82e38b4e6"}
+  {:article/id "law/4603/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "68b015297bd8f2262459fa99962f1ae6d3e45008f8dded2a7a873fbd07a86b58"}
+  {:article/id "law/4603/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1618170380bf6db035c6ba0c9a63af57d1a2c4a0783b46a11cad7bf9ec048fec"}
+  {:article/id "law/4603/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6495b627b49f3909228ba0db5b0d12e5c7966411070d955780c8516a04be4b76"}]}

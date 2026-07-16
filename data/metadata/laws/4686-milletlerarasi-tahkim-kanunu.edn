@@ -1,0 +1,167 @@
+{:document/id "law/4686",
+ :document/type :law,
+ :document/number "4686",
+ :document/title "MİLLETLERARASI TAHKİM KANUNU",
+ :document/slug "4686-milletlerarasi-tahkim-kanunu",
+ :document/path
+ "data/canonical/laws/4686-milletlerarasi-tahkim-kanunu",
+ :document/sha256
+ "48a3724949bac21c96549d082b79efd27ccb265dfd1083794e2bffe63c374b68",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4686.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:33.371-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4686/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e7f78d3953f1013890f4e27972ea11cac4853a42c9557228f8c27189aa69fe69"}
+  {:article/id "law/4686/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yabancılık unsuru",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6dda91fe73c8a1fb13b930cf7245cc6fb92963fda22ab07018681df589af7c09"}
+  {:article/id "law/4686/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Tahkimde görevli ve yetkili mahkeme, müdahalenin sınırı",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "576b54287fe9b21847cb2bdb0cebef3c3a8b25602243aca3cf0b016cc74098f2"}
+  {:article/id "law/4686/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b3c765220a4b7032d05cc3e450aa684c6e4f09b6148b4da70f103b31bf1d018b"}
+  {:article/id "law/4686/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Mahkemede tahkim itirazı ve anlaşması",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d71a4d62e3c2a021a9e10c943b8ea68db1f7afbb3df5b90d7ae4afb15ab4eb35"}
+  {:article/id "law/4686/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İhtiyatî tedbir veya ihtiyatî haciz",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4650e7569c441066c0ec320ea30569ae83aec3ca1875695f3055360c59e23884"}
+  {:article/id "law/4686/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "ccc16b9edbfe4d97208adbd05dfddbac54536d0adeffb2ee4ec59127f77fb621"}
+  {:article/id "law/4686/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "9b39439174a580ae339a633f0f44d6d72b960bc9dbbfad536af5ea219c3fe1f2"}
+  {:article/id "law/4686/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Tahkim yeri",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "0274ee57409c852486b346983630504e8d0ff4a45b40a6988e4a482a03e40802"}
+  {:article/id "law/4686/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c9fb2be35408a1424a3a7a28938c0f37b145a36f6fb5526435ff32c3ae430297"}
+  {:article/id "law/4686/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d0f49bd9ddc12b002b60809c0c9deffd97607082f7e4b9c1502e86dfc8f7d096"}
+  {:article/id "law/4686/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0a8ffcf358b66ebc5743c24c24ac62003ced9f546b61089e8a652d799465a20b"}
+  {:article/id "law/4686/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Hakem kurulunun karar verme usulü ve tahkim yargılamasının sona ermesi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "05281f44f76bbf7b577998c792773dcf7b9dbdc3e8114ed78d322f42fc3ea786"}
+  {:article/id "law/4686/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "1ae5d99dc2cf77ae726b05e613e95f8f29259cf1311fdb5a4e2f9b0558b19eb2"}
+  {:article/id "law/4686/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4eddc783f3b22e9be7ce41875b35cc1b42669856308ace9b2d30bbdb84325e70"}
+  {:article/id "law/4686/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "8bdbf67f7f15315149fb4fa0d2b288bcde6eed464da153fa9d12be447a052e04"}
+  {:article/id "law/4686/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "544a2ae22bc271f76839ebfae7d5657d4ef5ed9e4eb4c36528508671ad83b363"}
+  {:article/id "law/4686/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Uyuşmazlığın konusuna göre görevli mahkeme",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "95d66e5f24ce869ae803525c65583b40939fb940a4f945ff36947209028a0a4d"}
+  {:article/id "law/4686/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "91fc443997a548eec16b382cd7d364b893c60eb94191a22c22ce5476cf87b6bc"}
+  {:article/id "law/4686/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "23cb5aa00e3b4ae7b9a43ea81b3d6b5a1879d7f08745f048666ff1319598f198"}
+  {:article/id "law/4686/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürütme",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "e06337ed5cd416c2aae195227180af5a3ef50bfe784c2fbfa17d37a9fb34d145"}]}

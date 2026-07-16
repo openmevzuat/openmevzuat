@@ -1,0 +1,321 @@
+{:document/id "law/4342",
+ :document/type :law,
+ :document/number "4342",
+ :document/title "MERA KANUNU",
+ :document/slug "4342-mera-kanunu",
+ :document/path "data/canonical/laws/4342-mera-kanunu",
+ :document/sha256
+ "a80a96299a0475a340de4d28bcfeaa586366707fecda2efc68bd225aa71e345f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4342.pdf",
+ :source/fetched-at #inst "2026-07-16T02:29:47.141-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4342/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4b8710705c779ac15ef4dea95ace91a7a374899d0847ccdd059d3032b7fa4082"}
+  {:article/id "law/4342/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5f6717e8357724ad7e3ebc08070c12942f3d0da748b32adbe542af879283d13e"}
+  {:article/id "law/4342/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f29100396df71382d5bfcb2ebeb588edcc7bc37aaeec3e93370c77edbb6a4192"}
+  {:article/id "law/4342/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "98c10cdcc14160d67b59da5c335fce7e623287432044e020663d3605b97e3743"}
+  {:article/id "law/4342/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "Mera, Yaylak ve Kışlak Olarak Tahsis Edilecek Yerler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dcb4d79bd2320941ebca867a8c5497a03ad8d0fe54bdd564985542b175f95dd6"}
+  {:article/id "law/4342/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Komisyon ve Teknik Ekipler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c492e83ea3600bb96c2e4e979923efee2d03ef64dab6a43dee50d1bc315b113b"}
+  {:article/id "law/4342/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Duyuru",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "30743d596f4458b0843607ce2882a7bb0be366b3b41068c2a265a99c89c7db18"}
+  {:article/id "law/4342/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Tespit ve Tahsisten Önce Yapılacak İşler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "454987c183a99773e67a01f9f18626b8f314dfa1e813d69affb1e1df71827b46"}
+  {:article/id "law/4342/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Tespit ve Tahdit Çalışmaları",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "503afc24ab5b71fed178aa1eaf0aa22834998bd5d1393c31f5e0be53af97bd64"}
+  {:article/id "law/4342/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Özel Sicile Kayıt",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "7df26e5937ae221e01853f986680545ca9b72eb1523d3740bd087ae7f6cff2ac"}
+  {:article/id "law/4342/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Tahsis İçin İhtiyaç Tespiti",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "ce0718761d17e87c18859b84831a0a235447b0f210258afae6b28c9b2aadcf35"}
+  {:article/id "law/4342/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Tahsis Kararı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "612a98e067a1037e942de6a609796e45e529b8116fee68315bff484feefcad58"}
+  {:article/id "law/4342/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "10092f0609d34c22198fff6171a948c1e1f605be5deabd4440b2ec248a0ce951"}
+  {:article/id "law/4342/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "aff7a00866bde936d8338d3176d077eb6c9f2490974f86c18567c6be788395dd"}
+  {:article/id "law/4342/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Tahsis Kararında Değişiklik",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c73a6b34b19cbb7813600e45d3f458f3e9aa08a1f31e514926d0868261f94ec5"}
+  {:article/id "law/4342/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Zilyedlik Yoluyla Yapılmış Olan Tesciller",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e21478328d879ed0c4300f6b89c46ad85ee9533f57cb93528589c96a2041f6f5"}
+  {:article/id "law/4342/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "003b599bbdfa85e698fd0e03214381614f683c95621ae352fb791d7428cee272"}
+  {:article/id "law/4342/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Mera Araştırma Bölümlerinin Kurulması",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "c05b95913a15e3123d7607d87398a7824fb80e0fa941fe3cfff5caabf3e585b2"}
+  {:article/id "law/4342/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Mera, Yaylak ve Kışlakların Korunması",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "86b48df39a427bee3c79d3676a0791e5de7a2fc932fff23759a1ce7832d7a498"}
+  {:article/id "law/4342/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "İnşaat Yasağı",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "aec0e02cc550d93a06df15dd948fd01c57dd916ea3f66d260696ec3e9509b1f9"}
+  {:article/id "law/4342/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "2e759857ea197592691a901bb15de23d5a9c477a118537452c2cb388f39ef682"}
+  {:article/id "law/4342/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yararlanma Hakkı ve Kapsamı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c99f826481a9470e5ff0e268c7872fd9313b7c180f38da91f5c458128a9c5d1c"}
+  {:article/id "law/4342/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Aşırı Otlatmanın Önlenmesi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "3be39f61a5176173e2b9d5efb76f18c91bf3fc8175112cfb7cdb1da8ed33ec00"}
+  {:article/id "law/4342/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title
+   "Sonradan Yerleşenlerle Yeni Ailelerin Yararlanma Hakkı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "b71ca659b04a597c542dee477ab575299e0c04de540e76246b986351df324595"}
+  {:article/id "law/4342/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İhtiyaç Fazlası Ürünlerin Satılması",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "7b51c8ebfdac0906b828e57208258ec10e0e9cb970dbe8121a701809725d94f6"}
+  {:article/id "law/4342/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title
+   "Mera, Yaylak ve Kışlaklardan Yararlananların Yükümlülükleri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "0b6b97b4a74ea156f99c0a47b7c4d75204b316faa4af9a870708fbc8709baa1a"}
+  {:article/id "law/4342/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yükümlülükleri Yerine Getirmeyenler",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "02b0f8a6245ab27245ae30f17f8a2424d9c1b32fa4aafe4e84de2ec33db5dafc"}
+  {:article/id "law/4342/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Orman Bölgelerinden Yararlanma",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "c4cc0c1366720c677043cbe0367435a8ae676b79568c3ae73786e06177ffc638"}
+  {:article/id "law/4342/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Sınır Değişikliği",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "496e9f21797ee2f8e194ec117aca33b9b51b9418cf815fffbeea4adbdab1e90a"}
+  {:article/id "law/4342/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Mali Hükümler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "2db74772b2f9a8c990e085366a84ff6db3f1a0e09a105d62371c67b70187ba5d"}
+  {:article/id "law/4342/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "2140ab19e3f56aa29b5c53288829cc0a5fcfc94d772fe6ee554911ced36aa0aa"}
+  {:article/id "law/4342/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "599bcb9e513d5aeaf0347d2e04819c52fb92135c5eb21137950b49de75aa1ace"}
+  {:article/id "law/4342/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "8a305bbd518dda61b47737ac03ede75d0b59ddb91dc66ef563334c54bfd5d315"}
+  {:article/id "law/4342/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "62189f5cbe73a6c3c9cbf17fd7dab8d1635b54b57f47131e411660a9af62e93b"}
+  {:article/id "law/4342/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title nil,
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "56710286dc39dcc56fd082675d4300c8e84df095c09eed0de385c552c943c9ee"}
+  {:article/id "law/4342/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Yürürlükten Kaldırılan Hükümler",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "e6ff3cfbb82691ac62a47bae064df450f1b4e82c6c1cd2f751ca79e465e96be3"}
+  {:article/id "law/4342/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "94174b0d8f2c87c769b5814eecca6a4c7756d300931081c5c8e2157caeb7deca"}
+  {:article/id "law/4342/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "aec09139d2d70d0f191bb1487d48e229f0417b5ad250688af8a06e1d154e4061"}
+  {:article/id "law/4342/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "1718a5f461f8c43e9cd7bb2334b506ab243befa5fd5d4bd3532ae64afd6b214c"}
+  {:article/id "law/4342/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "797d9acd3c29a93760f0007a0a9c5064fc173126040cda96fc5e4402900567c8"}
+  {:article/id "law/4342/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "80598a7f7d5198c918efa4a391e6d347b706447c999b0b5bdbf78a89b9ac1bc9"}
+  {:article/id "law/4342/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "201b37ed9b82bf9ea14622abcf4460f2dfeded5ae7a5152c9947f43456cb92da"}
+  {:article/id "law/4342/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Yürütme",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "fbe69fe0eb6039e13b8ea012d9ee77b7e6549b74dd9ea2b4078bdd475ddb1c46"}]}

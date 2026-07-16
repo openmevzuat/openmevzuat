@@ -1,0 +1,42 @@
+{:document/id "law/4455",
+ :document/type :law,
+ :document/number "4455",
+ :document/title
+ "ASKERİ SAHRA POSTALARINDA MÜSTAHDEM POSTA, TELGRAF VE TELEFON MEMURLARİYLE SEYYAR ORDUDA VAZİFE GÖREN MUHASEBE MEMURLARINA PARASIZ VERİLECEK ELBİSE HAKKINDA KANUN",
+ :document/slug
+ "4455-askeri-sahra-postalarinda-mustahdem-posta-telgraf-ve-telefon-memurlariyle-seyyar-orduda-vazife-goren-muhasebe-memurlarina-parasiz-verilecek-elbise-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4455-askeri-sahra-postalarinda-mustahdem-posta-telgraf-ve-telefon-memurlariyle-seyyar-orduda-vazife-goren-muhasebe-memurlarina-parasiz-verilecek-elbise-hakkinda-kanun",
+ :document/sha256
+ "8ee2e90937c3cc4673d3390c25ff73ab803eb2105678e1ecb8b753a09b819ee9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4455.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:25.575-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4455/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 24 Sayfa: 531",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5b7d51311e1091c4fdbeacee584c2141f19239914e8217f648d1dcfa00479c40"}
+  {:article/id "law/4455/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f080ce82f166923771e70d6a22610511524f81c70f7c6c20bf2b4b30a18f2415"}
+  {:article/id "law/4455/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ac4a8779819d2b0bae04d9e83b4f16f10f76f5e5c3aec08d2433001d0dc5cedf"}]}

@@ -1,0 +1,91 @@
+{:document/id "law/5083",
+ :document/type :law,
+ :document/number "5083",
+ :document/title
+ "TÜRKİYE CUMHURİYETİ DEVLETİNİN PARA BİRİMİ HAKKINDA KANUN",
+ :document/slug
+ "5083-turkiye-cumhuriyeti-devletinin-para-birimi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5083-turkiye-cumhuriyeti-devletinin-para-birimi-hakkinda-kanun",
+ :document/sha256
+ "3fb270a17bc6aa0acc70da0ccaed1744217e273425c250648af1aa66f770313b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5083.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:55.897-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5083/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Türkiye Cumhuriyeti Devletinin para birimi",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8533cead07b5599e356b75abaea3fdf27c0f3621437665e00654a4bac55c9b83"}
+  {:article/id "law/5083/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "57a0e6bf18259c032ebc06ccfba11fd91fe3d83b38f112e058fa0c50194da22b"}
+  {:article/id "law/5083/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Türk Lirasına yapılan atıflarda değişiklik",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4eee3490051d538187b61479515ebf4ba451b8a83d26f2461f839414423d91a3"}
+  {:article/id "law/5083/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Banknotların resim ve görüntülerinin çoğaltılması ve yayınlanması",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "79b9bdb859451a1307299c32f7ea2e72b22e639daa841c9366e4adc1d222dbf8"}
+  {:article/id "law/5083/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "56f82971b4d7c51a27e7db804cf4e60cb4489360cb8380ccda5bec81c5d102fb"}
+  {:article/id "law/5083/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "753e8301400688f3ba9160ff36ac9bc9d2386c56128e29914f5b055e8b8c0245"}
+  {:article/id "law/5083/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "638c394b0ff11400b5e5aaa0d8a322dbc9a4bec8422477e4c929c1e0feb278bb"}
+  {:article/id "law/5083/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "fe72a04b10d900fbe7b979d43da611ea3ef1ad675cf42593bf3f97b801683797"}
+  {:article/id "law/5083/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "5a147ea4d7bb4fee4e18fd2f814a428553264578d312fce9a2bb5225814855c7"}
+  {:article/id "law/5083/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bbd31c51265adbc91f235aced288b2c14c28a89799f2be7546dc326339ed925d"}]}

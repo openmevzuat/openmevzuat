@@ -1,0 +1,74 @@
+{:document/id "law/4958",
+ :document/type :law,
+ :document/number "4958",
+ :document/title "SOSYAL SİGORTALAR KURUMU KANUNU",
+ :document/slug "4958-sosyal-sigortalar-kurumu-kanunu",
+ :document/path
+ "data/canonical/laws/4958-sosyal-sigortalar-kurumu-kanunu",
+ :document/sha256
+ "50a9976c3026b553f3f80e6704d8288a6c39a84771086b8ae69714877a2bd338",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4958.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:08.715-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4958/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "21b8f00eb666a8108bd44d97092f772ff9b50d895c88e81f4f4473ccf43dbadc"}
+  {:article/id "law/4958/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b97bfc2c7e86137d8235cfe406f9f4f27696306896da95d7f809accbb85cc6be"}
+  {:article/id "law/4958/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "3152ae58cfb681871b60dcdba1a093434bdf96dd2edca739686513b11bf8fcd8"}
+  {:article/id "law/4958/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title nil,
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "12772c1557f931101c421b0c6de4c3be50e331824846a966b7c4d81376be952c"}
+  {:article/id "law/4958/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "09fe32af5dab11e37bc94c009b3a3e8338f45927b8b100807f67a743e92dec70"}
+  {:article/id "law/4958/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "c3f20772908fbbae2a3685316f41e15fc5823d5f82d9524a5f8e171634e90ca7"}
+  {:article/id "law/4958/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "af16db485df90377330656ceafdb7da9b571c2e03e00aab4ca504ce41906c943"}
+  {:article/id "law/4958/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Yürütme",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "b19680d42e85c7db74a829b7a123b88f10765a01cc1c3d9458309cda90c4d774"}]}

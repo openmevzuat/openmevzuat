@@ -1,0 +1,251 @@
+{:document/id "law/4982",
+ :document/type :law,
+ :document/number "4982",
+ :document/title "BİLGİ EDİNME HAKKI KANUNU",
+ :document/slug "4982-bilgi-edinme-hakki-kanunu",
+ :document/path "data/canonical/laws/4982-bilgi-edinme-hakki-kanunu",
+ :document/sha256
+ "ccad868b04ed65ce470d3e46951b56f8b04f93e665cbf742efa697bdf9cd9e76",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4982.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:19.335-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4982/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "54238311e1597ba911c828ad607b9f14608ca8d36dbf57ffc72114aa8504c9e2"}
+  {:article/id "law/4982/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "f51b3cd80fee0c478f67133ef469a0dd91c8424fabc5826eb390100a01b196d3"}
+  {:article/id "law/4982/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e29c520245171b0792db1a620a64dfc84a06886fd1dcbe8a2813efa514b04529"}
+  {:article/id "law/4982/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e5a6931d0c788986fd1dc0d855235f17a7690d7540256131281619f595ede043"}
+  {:article/id "law/4982/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bilgi verme yükümlülüğü",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "623524e9535cc77a1d5352c1664d4fa6f155d98e76b52755f5deb36cd2f8fed4"}
+  {:article/id "law/4982/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "36aa8b77439299eb527ba2138df1739dbd585b124d86423548b523e039d5f2f7"}
+  {:article/id "law/4982/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İstenecek bilgi veya belgenin niteliği",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "33dda8eba49e4ac79c4f02e09f7544fed824310237cc58f826bc682b066fb31e"}
+  {:article/id "law/4982/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Yayımlanmış veya kamuya açıklanmış bilgi veya belgeler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "f93e8fffc0cdeebd465ca296600c426639b638e294e253e5a1a6a572ae71a5af"}
+  {:article/id "law/4982/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Gizli bilgileri ayırarak bilgi veya belge verme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c27c6f55ecd63be74093ceee9e1cdc165e92148cb5db899fe38594bb14548f92"}
+  {:article/id "law/4982/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Bilgi veya belgeye erişim",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "a863647d349a73d721e86f315e2d89e8990f7f4efc4d02603e59a94d9f7a4817"}
+  {:article/id "law/4982/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Bilgi veya belgeye erişim süreleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "26babe9f22c9869a203b9a2dd87119e06e0995c5cbae6b7c7e579e4316adf868"}
+  {:article/id "law/4982/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Başvuruların cevaplandırılması",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "849d26fd0faf27e2077eb509c5c1485c394e64ffd779f11cab96e8d6d5c911d9"}
+  {:article/id "law/4982/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "İtiraz usulü",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "45d9c38d3ba6e0e6d986c529a947b0180e0458bc7cf4f3158db4013cf2835cc8"}
+  {:article/id "law/4982/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Bilgi Edinme Değerlendirme Kurulu23",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "026ee882514ac3ede2102472fe081d9ee9698b5b0d67c081b2b067b4483b10e8"}
+  {:article/id "law/4982/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "6a8df6afe5be2e97e1f4382735437ddd4f42360d2e1ca82dee1f33c320715283"}
+  {:article/id "law/4982/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Devlet sırrına ilişkin bilgi veya belgeler",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "f93e76243afbfeaf0d097c1673b364237bacdc549c4cafbf0bf751b44110c0b9"}
+  {:article/id "law/4982/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Ülkenin ekonomik çıkarlarına ilişkin bilgi veya belgeler",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c1db23008367c3a722255ae24966d0a3aca55663fd0d2c049a62deadf013fc0a"}
+  {:article/id "law/4982/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "İstihbarata ilişkin bilgi veya belgeler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "662b574a0ee99a9fbbf699b66553ecf8cde7223f68bd2742e4db4d8b3258f5be"}
+  {:article/id "law/4982/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "İdarî soruşturmaya ilişkin bilgi veya belgeler",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "9ce320b35f2c0b89d2db15e8c0a67096e33be824eceb22b64e254485cb7c8107"}
+  {:article/id "law/4982/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title
+   "Adlî soruşturma ve kovuşturmaya ilişkin bilgi veya belgeler",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "e5e7efb7e4db491036a40a942aff3a2580e3a11396240cafc04f4d8ca3a79e5c"}
+  {:article/id "law/4982/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Özel hayatın gizliliği",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "5f31ce0694f8e0f3c5b3dbbb130509f97ea0eb4f65170a3a5163cf3c1299a88d"}
+  {:article/id "law/4982/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Haberleşmenin gizliliği",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "4af467b5920f184f459c22e8104f3b7aa7453581ed1262d81a721ee74f84c77e"}
+  {:article/id "law/4982/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Ticarî sır",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "19e4084cef9c7d87098eaeff1944ccd9f5477a4edaf575163a2ff1639b8dd81c"}
+  {:article/id "law/4982/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Fikir ve sanat eserleri",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "c5375732e84cca0727f3c360f5a3d7747aa2093db5d57dd76729f2c8895f6491"}
+  {:article/id "law/4982/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Kurum içi düzenlemeler",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "fd3ca0308d938451a16a9b2542e9465cb72de9736f4853ab5c18fa1c048667f0"}
+  {:article/id "law/4982/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Kurum içi görüş, bilgi notu ve tavsiyeler",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "039bc3569adfb241f901299a48567bcd93f15eee8ec840a4297762b283fc677a"}
+  {:article/id "law/4982/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Tavsiye ve mütalaa talepleri",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "f1a94402f720d371afaa749c266a8583274881967e9ccf4068a97b87e2c5e3b7"}
+  {:article/id "law/4982/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Gizliliği kaldırılan bilgi veya belgeler",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "d21d0e51086b31f3bdb946f0a1b8b36d31c56fba5cc7ff27a80335515a792745"}
+  {:article/id "law/4982/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "3d70f37bce12cf9836df4e295a7c80d29a48d7c6700a7d93c3cb8f310b276ae3"}
+  {:article/id "law/4982/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Rapor düzenlenmesi",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "539dc2499e33dca8a95fb0e511b33f3bdbcd41d9597551189a8aa30ffa160886"}
+  {:article/id "law/4982/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Yönetmelik4",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "4c1549d618df1ca0b5c0f0a82c6213c65b70f3f38696a7ac95a69c7b4d12a854"}
+  {:article/id "law/4982/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "22137b9d31590f1906dd8610ab67b150fd1d7f7c473f487285c415c21ad7bdf9"}
+  {:article/id "law/4982/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürütme5",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "f4117019e01cfff6f1c6a087631026a97a510c1819af4c1c34e02be87b6a4085"}]}

@@ -1,0 +1,62 @@
+{:document/id "law/4528",
+ :document/type :law,
+ :document/number "4528",
+ :document/title
+ "D-8 ULUSLARARASI İCRA DİREKTÖRLÜĞÜNÜN TÜRKİYE DE YARARLANACAĞI AYRICALIKLAR, BAĞIŞIKLIKLAR VE KOLAYLIKLARA DAİR KANUN",
+ :document/slug
+ "4528-d-8-uluslararasi-icra-direktorlugunun-turkiye-de-yararlanacagi-ayricaliklar-bagisikliklar-ve-kolayliklara-dair-kanun",
+ :document/path
+ "data/canonical/laws/4528-d-8-uluslararasi-icra-direktorlugunun-turkiye-de-yararlanacagi-ayricaliklar-bagisikliklar-ve-kolayliklara-dair-kanun",
+ :document/sha256
+ "ea44e9727bf676ba9abdbfa5956db07e4377c3d53f20b03bc291684b30c5e2f6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4528.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:04.287-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4528/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Tüzelkişilik",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dc3a71dd4521be8cff38bb9b267a8bfb49757515a7a2973e295a8f795a48d014"}
+  {:article/id "law/4528/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ca4ff9079742981279241d6d20e2e8aa2590ce82252202a1ff54d0262fbc425f"}
+  {:article/id "law/4528/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Uygulama",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "24f80742adc4965dc586d206e509727ae595541f37f9d36610bcf6adfea78897"}
+  {:article/id "law/4528/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kapsam",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "21d78639dabab20e46cd6c198cd8af3d2d46092a3aa8bf5362932025d2bd9bab"}
+  {:article/id "law/4528/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/4528/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cb0ddae63108fb20618b4db51cf3d7849644cb16bd48d2571cb6c155e891ac31"}]}

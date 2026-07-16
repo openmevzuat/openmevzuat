@@ -1,0 +1,299 @@
+{:document/id "law/5216",
+ :document/type :law,
+ :document/number "5216",
+ :document/title "BÜYÜKŞEHİR BELEDİYESİ KANUNU",
+ :document/slug "5216-buyuksehir-belediyesi-kanunu",
+ :document/path
+ "data/canonical/laws/5216-buyuksehir-belediyesi-kanunu",
+ :document/sha256
+ "8abb06ad391c57561256e3441fa85df6d5a4e0572f856ce49808019a4f5c2f26",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5216.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:46.940-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5216/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1b96d0229ecdf000a965a983a16393bf777f6468bf3bd608efeeb1b8e41708e1"}
+  {:article/id "law/5216/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "8fd5a3a3a7c2b30333d88b32c111bfe3b929e63acb9debdf5c221189097e513d"}
+  {:article/id "law/5216/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "462fe5f2d47ffa224e79504af20f38733398ac946671a258d0569470b903499f"}
+  {:article/id "law/5216/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8fca4f6d176b0d903aca004fa2c491d86e4475b80cafa9b8c14d23caa0ddb529"}
+  {:article/id "law/5216/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Büyükşehir belediyesinin sınırları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "0b0e3ff9562de23307aae37ecc553af3248006caed2a7bd147506e7b927b5f10"}
+  {:article/id "law/5216/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Büyükşehir belediyesine katılma",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e3132e81905a63a291459565f0d168440544bd2909b50b31ee8f29443dcdbe33"}
+  {:article/id "law/5216/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "662ce4c24cd655542b6e8c45e5535b39aee3992b9a5e8ef8f08b03399c44beba"}
+  {:article/id "law/5216/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Alt yapı hizmetleri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "52ade49448842199c8c55f22047d053fc531e7c1a204c1e55eaa028f5799b88c"}
+  {:article/id "law/5216/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "4858b7b014325fe546100f0038ed2e6b202946005ddf595a9a93e8cf466114b6"}
+  {:article/id "law/5216/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Büyükşehir belediyesi ve ilçe belediyelerinin yetkileri ve imtiyazları17",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "975d5849bab5b4e37270cb5a8d9375cf50523cceb80b6c8effbabd8ed9a83006"}
+  {:article/id "law/5216/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Büyükşehir belediyesinin imar denetim yetkisi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6dab8da0ca65b14982ce2bafebe6a57ef5d9102a10fa4621f7ef3144dd85bc2f"}
+  {:article/id "law/5216/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "afa4ed10bb3933691cfc36b67c9412df5d5110c9481513de25e7c9664537f772"}
+  {:article/id "law/5216/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Meclis toplantısı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "5b36485054f3d5a52c41d2d2127bb80eea998652ec4b3e78d02e796d4f58ef7b"}
+  {:article/id "law/5216/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Meclis kararlarının kesinleşmesi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "f236a89a44b41020e570c1a5653d0d69a1e1d898326eeb91a2e9dbbcc6314f7f"}
+  {:article/id "law/5216/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "İhtisas komisyonları",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4a0f8f1b4ce0d12840ededc1682a31c079e9366364da8dcf7fc3bf49e8cc4a7e"}
+  {:article/id "law/5216/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b5912a2470d486b7cf5e7a54729734736e3eb0daf381304d86965866f50c5425"}
+  {:article/id "law/5216/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Büyükşehir belediye başkanı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "4ab5edfeecf1315627697009e4dbd4bbe314bf27be9a4689ac7c59179f41df41"}
+  {:article/id "law/5216/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "ffdd7541fa7221246b9990b93ac31a0b305ffb1161c76c2279dd972b8a5e8857"}
+  {:article/id "law/5216/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Belediye başkanlığının sona ermesi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "fb730c4df861cc658a1e8386812db14a127c11b34fe5f09ca1e5ba5d49873c7a"}
+  {:article/id "law/5216/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "833e92d8a9c37649f8b296f6b750166ec58434e43a892862e4f64b4b7a02b0de"}
+  {:article/id "law/5216/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ee8e21d84a7dbb14d8b6bc56bd17ccbe30e52ac2b115a4e4b56789d59d4714d9"}
+  {:article/id "law/5216/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Personel istihdamı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "73207ba48645032eb3e82a76e19db7b19d87b9d3530c1a6972b22271c5d3e6f9"}
+  {:article/id "law/5216/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "22f553963caeb7e4946d5f0115d0eeb2aef14b482955e41f87cc87b19317d0ea"}
+  {:article/id "law/5216/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Büyükşehir belediyesinin giderleri",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "33625ac7040e73991ccfaa36e0ce86a3f22e8b1758fac3cda1b5ae30a12557a1"}
+  {:article/id "law/5216/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Büyükşehir belediye bütçesi33",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "9d753a43d08ec929e30e39e57abe66b38d0692e77fa18abcde9fc8d0900fa5e6"}
+  {:article/id "law/5216/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Şirket kurulması",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "5fad7aa7009e5225cb1a364b85db3445e421c0b3000920f850ba394a11041407"}
+  {:article/id "law/5216/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "cb7bf7458b365c4f8b6f780adcf80112edc4bfe9500d14b98874a713dce91348"}
+  {:article/id "law/5216/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Diğer hükümler42",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "b404317841a1f3b037407d58971996a0846688ee98a541c6013ed6685cd517b6"}
+  {:article/id "law/5216/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "048f4c60e45352e240b92f6a665bac6c90419fd5efd79d8a8530a051d38b94e1"}
+  {:article/id "law/5216/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "a084e0a1edc83d2e88e883f5fe817d1b79f19c73bfe5bb9fe0939a1d972b2611"}
+  {:article/id "law/5216/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "9c657c4abeb0bccdb17bd0d4f01b2e29163f19aa9a4eb32a52760d76c394baae"}
+  {:article/id "law/5216/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "2f8c4f2032e4fc5379d0069eda8a372ac496c64e297454c5b3b994fe746aa8df"}
+  {:article/id "law/5216/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "b6a91481a81d8cd50cbac06d9af81d2759624d452a20e9746d4cd0769896c23d"}
+  {:article/id "law/5216/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3fd97f4d870a6606c4e2f9979b4648f51084611b74ec743c7a3687c1faa4c960"}
+  {:article/id "law/5216/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "58511ad1424324f030db843398512b43ed2d57ac434009f1b393b275b9aea4b1"}
+  {:article/id "law/5216/article/345",
+   :article/type :temporary,
+   :article/no "345",
+   :article/title nil,
+   :article/path "articles/gecici-madde-345.md",
+   :article/sha256
+   "7df2213fee88a1f4220c0304ba2ace76f7ec770295ab3a71ea7c425e85ae1b0e"}
+  {:article/id "law/5216/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "d8c4c2dcf6481a32a1ee1878a866d8db513a213162938d98dcefcc72978a82e9"}
+  {:article/id "law/5216/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "2fc1af03a164a5ff3fac92771aef01cf8b309c63d786346fbc9a1bd3589ada00"}
+  {:article/id "law/5216/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "415cefcdbd7ab6f1eb2ec932f64fc0d62e95a75efc5d6a180d455062a92ed0c9"}
+  {:article/id "law/5216/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Yürütme",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "55c2a8accbda7960676c367b64c781ae78c27f437e55f91f59f4b7f5fc0f93fe"}]}

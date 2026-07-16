@@ -1,0 +1,83 @@
+{:document/id "law/4341",
+ :document/type :law,
+ :document/number "4341",
+ :document/title
+ "MUHTAÇ ERBAŞ VE ER AİLELERİNİN ÜCRETSİZ TEDAVİSİ HAKKINDA KANUN",
+ :document/slug
+ "4341-muhtac-erbas-ve-er-ailelerinin-ucretsiz-tedavisi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4341-muhtac-erbas-ve-er-ailelerinin-ucretsiz-tedavisi-hakkinda-kanun",
+ :document/sha256
+ "774f7b4d28fe077fab20a5815606c3fd8633d01655cc2a058f9c1b1f69663e7b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4341.pdf",
+ :source/fetched-at #inst "2026-07-16T02:29:44.222-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4341/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 38",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8a52c12b778e03115dfc4e93bd068d442579027beef0f65e4892db968a4fb222"}
+  {:article/id "law/4341/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "67b7ff9323ef181082c9e470d6aa4432a1e5f73d7a942b30f29c50aec2c8cecc"}
+  {:article/id "law/4341/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0a5e1fa680f7e28fc311642652177212522ef2f108efec719f4365e2e34e0529"}
+  {:article/id "law/4341/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "c) Füru: Erbaş ve erlerin çocukları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f660f51e2160cde55b67ed3eb55526c6107f78ad597048f7131ea8c0c1579aed"}
+  {:article/id "law/4341/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4e21bc6374e5b068c93786c0d96554f27e012a380759d35f0fd24e0215328db5"}
+  {:article/id "law/4341/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "6378f04e9c594fc63c07debc7159b2d0c0f4e65d2999dbbb82977c1cb8fac66c"}
+  {:article/id "law/4341/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "43942b0b18e22e2cb06914c752beb54906cc30eb8735f832da82a8a96be4b304"}
+  {:article/id "law/4341/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9f1613bd0f2d6ffd947d1c623c40dbc7ee31e03971cbe1c6bbce0de553121501"}
+  {:article/id "law/4341/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d9b971b4401bc81d111ae18921b60c1ec95c48ce2db4a063519b5b541272f66f"}]}

@@ -1,0 +1,62 @@
+{:document/id "law/4452",
+ :document/type :law,
+ :document/number "4452",
+ :document/title
+ "DOĞAL AFETLERE KARŞI ALINACAK ÖNLEMLER VE DOĞAL AFETLER NEDENİYLE DOĞAN ZARARLARIN GİDERİLMESİ İÇİN YAPILACAK DÜZENLEMELER HAKKINDA YETKİ KANUNU",
+ :document/slug
+ "4452-dogal-afetlere-karsi-alinacak-onlemler-ve-dogal-afetler-nedeniyle-dogan-zararlarin-giderilmesi-icin-yapilacak-duzenlemeler-hakkinda-yetki-kanunu",
+ :document/path
+ "data/canonical/laws/4452-dogal-afetlere-karsi-alinacak-onlemler-ve-dogal-afetler-nedeniyle-dogan-zararlarin-giderilmesi-icin-yapilacak-duzenlemeler-hakkinda-yetki-kanunu",
+ :document/sha256
+ "9666c22bd2d3e3eaf54172dcf77907ffe885a1d24fa54ec41f9453f459fe49ac",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4452.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:19.442-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4452/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "65a14b2602657914363e99bd72aa4067a56727431771c30f9b9d5184a96283c7"}
+  {:article/id "law/4452/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4bf38b2144d78783f181b34675e110e85666fe6cadf9df84a8910e40e96cd063"}
+  {:article/id "law/4452/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İlkeler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9b75568a9205e1de5d0109d1239be79ff4d6cf562dc62bdff2abf41927a8bb9d"}
+  {:article/id "law/4452/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yetki süresi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "147e08fd0329bd2d293c850b133e31ea1762d49573650d5593ac3c1576f2ff06"}
+  {:article/id "law/4452/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e3fcdf5b5ce193ece6bd8484bd0c0b970265f2f6060bc45c5cf53c80ca97a1d"}
+  {:article/id "law/4452/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "17c0d926c278838d72a884fcf59d857eaa6bd1cb69cba878a3f9c7a3ae55eb06"}]}

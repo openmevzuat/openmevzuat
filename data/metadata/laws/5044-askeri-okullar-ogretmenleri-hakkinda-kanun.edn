@@ -1,0 +1,89 @@
+{:document/id "law/5044",
+ :document/type :law,
+ :document/number "5044",
+ :document/title "ASKERİ OKULLAR ÖĞRETMENLERİ HAKKINDA KANUN",
+ :document/slug "5044-askeri-okullar-ogretmenleri-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5044-askeri-okullar-ogretmenleri-hakkinda-kanun",
+ :document/sha256
+ "0c24e956299e70e2e20c2ae38d3c46344c22b1109b3a085fe85d9ded8509ac15",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.5044.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:44.841-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5044/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 28 Sayfa: 1148",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "74afdf9bc1d75c3b8bc4b5c174a90cc3937d288f5dd2887eab334018a6f938ad"}
+  {:article/id "law/5044/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "877238be069b275937d1d679850b52097625a0052c618882c25382d2977fda60"}
+  {:article/id "law/5044/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "4b10ac6c819910c592f82374c16ee4d422c578ebf452eebd889829c8cd9db751"}
+  {:article/id "law/5044/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1d5990e6b604987c79b21f18225b85503a783acdb6abf720d73e09e13da01648"}
+  {:article/id "law/5044/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4e8b7e16a8f6a6c5fea4a2e2001950962205a7bf3bebd075dc48397353303818"}
+  {:article/id "law/5044/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "61e1344ac58673ed80c7d52ec51cf7fd23983bfd4862fa3937c3b035276f374a"}
+  {:article/id "law/5044/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "518c79ace4702c60af525c19bfbe2878e941135547a033c06081cd897463f1e3"}
+  {:article/id "law/5044/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e1395fcaf3968064cc65552fc60c80a91a10de679444e4ff6a8ccf4090f29e49"}
+  {:article/id "law/5044/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "0aac5dfc1b3a2f623e59940273d18ec41e5d0e5a5726c43702daec6b00c95115"}
+  {:article/id "law/5044/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3e2c490b27193c699a20a86381a146a9376270db652817458154727317d53c91"}]}

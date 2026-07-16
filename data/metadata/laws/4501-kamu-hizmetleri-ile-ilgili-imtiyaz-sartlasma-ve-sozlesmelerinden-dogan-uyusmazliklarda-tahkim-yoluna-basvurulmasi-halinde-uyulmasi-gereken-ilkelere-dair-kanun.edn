@@ -1,0 +1,91 @@
+{:document/id "law/4501",
+ :document/type :law,
+ :document/number "4501",
+ :document/title
+ "KAMU HİZMETLERİ İLE İLGİLİ İMTİYAZ ŞARTLAŞMA VE SÖZLEŞMELERİNDEN DOĞAN UYUŞMAZLIKLARDA TAHKİM YOLUNA BAŞVURULMASI HALİNDE UYULMASI GEREKEN İLKELERE DAİR KANUN",
+ :document/slug
+ "4501-kamu-hizmetleri-ile-ilgili-imtiyaz-sartlasma-ve-sozlesmelerinden-dogan-uyusmazliklarda-tahkim-yoluna-basvurulmasi-halinde-uyulmasi-gereken-ilkelere-dair-kanun",
+ :document/path
+ "data/canonical/laws/4501-kamu-hizmetleri-ile-ilgili-imtiyaz-sartlasma-ve-sozlesmelerinden-dogan-uyusmazliklarda-tahkim-yoluna-basvurulmasi-halinde-uyulmasi-gereken-ilkelere-dair-kanun",
+ :document/sha256
+ "3eb752f2c33da83d4b39c22924545633918f4d32bb5f2aae6ca7b5b2b1461a35",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4501.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:54.862-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4501/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b4e813f48df7eac9c1f71653e5092a27e300c5237fef7a1b1b794149a8df4745"}
+  {:article/id "law/4501/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3aa3925b68922d55af9f65bf9d5461029f1df531b25cb71ad63011f4cb64e17a"}
+  {:article/id "law/4501/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title
+   "Yabancılık unsuru taşıyan uyuşmazlıkların milletlerarası tahkim yoluyla çözümü",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "bb168b91be6479669639d1623ef8b99d1b102d80ba59142de5fdaf69b3f31d35"}
+  {:article/id "law/4501/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tahkim yoluna ilişkin ilkeler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d3c67a54b268d5d503c24c6fbebdec914a3aa002e0ee50a309bd489ac80e0b78"}
+  {:article/id "law/4501/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hakem kararlarının tanınması, tenfizi ve temyizi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "66a3c21c81b41fdf66e5cf1de556eb2b7e8264f7c48bc18b247f03f9919e4b71"}
+  {:article/id "law/4501/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Hüküm bulunmayan haller",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0a74a1e318713a962cb40aacd6ef178cdd90848c3eb5ec960d7de9addd23b49d"}
+  {:article/id "law/4501/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "75f549f43f2a0cb404fdea27506558c4927a4c659a8877dc84e561ce2c7c7e8a"}
+  {:article/id "law/4501/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1d2989bb5ac5902571ad83de81afb9f3ce6beb00c0adf0fad227ec9e9babdc9c"}
+  {:article/id "law/4501/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c98e2ce7bb371959acf543aa5cdf0cad70a04425b113e212b0047281930b20f2"}
+  {:article/id "law/4501/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "40e8d962c6918f65deb0b13bc7714b282ff8102b17dcc548db0482a29ffd0e3e"}]}

@@ -1,0 +1,55 @@
+{:document/id "law/4454",
+ :document/type :law,
+ :document/number "4454",
+ :document/title
+ "BASIN VE YAYIN YOLUYLA İŞLENEN SUÇLARA İLİŞKİN DAVA VE CEZALARIN ERTELENMESİNE DAİR KANUN",
+ :document/slug
+ "4454-basin-ve-yayin-yoluyla-islenen-suclara-iliskin-dava-ve-cezalarin-ertelenmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/4454-basin-ve-yayin-yoluyla-islenen-suclara-iliskin-dava-ve-cezalarin-ertelenmesine-dair-kanun",
+ :document/sha256
+ "756840a7a2a5c5e83bd7de91b9d2eb03d6aecaed405bbcabad223379e0575095",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4454.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:22.408-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4454/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Dava ve cezaların ertelenmesi",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "ba70a160213e9563ea27b21581916991d7ac834048a09fd51fde9e4e333c4f26"}
+  {:article/id "law/4454/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Ertelenmenin sonuçları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "aaf1916f5e3b29808a7103b8e422263a9dc744ab92ad9702476ff0426afcd7c3"}
+  {:article/id "law/4454/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ad42e107e0cf9a4b7df887af76d3a227005bf83bb8b33701351306e888cda897"}
+  {:article/id "law/4454/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "01c521cffcc8eddd2a567eadbd3695b707c85ca5a6e0208278aeb9b39ef1eb28"}
+  {:article/id "law/4454/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8b7c9b340784d05601fc3dd745e3802278b7232e7ccf82500e0550968f9ccef3"}]}

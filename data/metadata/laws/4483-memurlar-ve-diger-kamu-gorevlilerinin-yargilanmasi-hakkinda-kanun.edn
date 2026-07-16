@@ -1,0 +1,198 @@
+{:document/id "law/t5-4483",
+ :document/type :law,
+ :document/number "4483",
+ :document/title
+ "MEMURLAR VE DİĞER KAMU GÖREVLİLERİNİN YARGILANMASI HAKKINDA KANUN",
+ :document/slug
+ "4483-memurlar-ve-diger-kamu-gorevlilerinin-yargilanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4483-memurlar-ve-diger-kamu-gorevlilerinin-yargilanmasi-hakkinda-kanun",
+ :document/sha256
+ "e728d41c1e1ec05c29cb91bd71a687900fb8216c064d040374d5341be55e1097",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4483.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:46.806-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-4483/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "68f44423884773ce64d939a952412e36db8b9786fab0a24d7dd015e94fd5544c"}
+  {:article/id "law/t5-4483/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d153fe8190ea0227dd75b43b2c41c4e1d4ac2cedb26561113f0798c62854890b"}
+  {:article/id "law/t5-4483/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İzin vermeye yetkili merciler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "dfcff25ea4a9000c6860236f8c6a38271a38882ee2c0ebfeea7318883ee6707a"}
+  {:article/id "law/t5-4483/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Olayın yetkili mercie iletilmesi, işleme konulmayacak ihbar ve şikayetler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4c53f89139e13ff5e3e1d52a1ae7524ef1b526ee6a7f60b0e0ae66189957e41c"}
+  {:article/id "law/t5-4483/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ön inceleme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "dd2ef59575c0ce35746b57606c291d98ccd85cb0cc90226a63c9be91427adbc7"}
+  {:article/id "law/t5-4483/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Ön inceleme yapanların yetkisi ve rapor",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "44f4b222acd97fdc5736dbefa220be106a7c78c5a84737cae293b3d8ac9b2fa1"}
+  {:article/id "law/t5-4483/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Süre",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "cdb75c7e7d4069407cd3948f2404fbd693bb95bcf8876dd875f4ef15e1dc8685"}
+  {:article/id "law/t5-4483/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Soruşturma izninin kapsamı",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b682e90045e4bef9d8bf4c983d2877da39a703b28930b3d1bff6751234f68ece"}
+  {:article/id "law/t5-4483/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "İtiraz",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f58a52418e1ce432d2c9196bea5eb3211aaf163861e0068b4b7d895c6cf1c206"}
+  {:article/id "law/t5-4483/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "İştirak halinde işlenen suçlar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "89db5eb54f76448d6b41b21ac1fb9645db1f5c5d9db113c9f32a6caf530d1af9"}
+  {:article/id "law/t5-4483/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Soruşturma izninin gönderileceği merci",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "a2e68b239c41f4925e5472593abdfb83f9d29c87c1bd37638fa4de08f2a2ff1c"}
+  {:article/id "law/t5-4483/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Hazırlık soruşturmasını yapacak merciler45",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "ff4f7f5a592dd1644440c2a814e7ec4ef1900fc1b02f4fd213608f0945e07476"}
+  {:article/id "law/t5-4483/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yetkili ve görevli mahkeme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "ff318ff9ec691a7769743450634b86a977b56ae94efb433bd39230faeaeb1ae9"}
+  {:article/id "law/t5-4483/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7d12ba332a6191fdc7d62d139d07bfb9a90249a57812ccf7c524988da98de78e"}
+  {:article/id "law/t5-4483/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Cumhuriyet başsavcılığınca re'sen dava açılacak haller",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "543239a9fb5ba142b299f7ff93938bae9f0313f219c48c6ef368c393a4dc284b"}
+  {:article/id "law/t5-4483/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title
+   "Memurin Muhakematı Hakkında Kanunu Muvakkata yapılan atıflar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b633460f5de6d7944535524fd11948762d9a341c74d6ae55c102eccee2aa361f"}
+  {:article/id "law/t5-4483/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "181e7851eade4c369a19612ab0d5c03ce72e6bcd91dfa6447909c7788e5ec87e"}
+  {:article/id "law/t5-4483/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "212fe550deb2923193119b06bc4714b2018f6d97f3c4ca432d0a62669032a418"}
+  {:article/id "law/t5-4483/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "89699de2f80d3bc18cc3315eea83b692cee2fdff2c5f609a85db2531163a3ec5"}
+  {:article/id "law/t5-4483/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "34bb55d66fd6500a987ef9bd06ccd88f2ba282949ce56a426ad645be51de93e9"}
+  {:article/id "law/t5-4483/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a831e3de360b542bdaf86fda807e0bc5bf041e38cfeb58f425b0c748b38b9f64"}
+  {:article/id "law/t5-4483/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "4fe94b17ce95b1fb8598eb79e8a2ddef1a8ce9161bbe0862b96e494d6d9a0cf2"}
+  {:article/id "law/t5-4483/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "7ade5edf7364f1e686a3656addd76b5b19620743cd2b3cee7654b2a15468eecf"}
+  {:article/id "law/t5-4483/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "3fd3a7646a644288e2232f918920911aed49e7618e7e999a9cb410f9ef71b541"}
+  {:article/id "law/t5-4483/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "7f1c971c4bfb093009cd8151cf0c25bc94a51bb8a7d4d67fa1c0b480b6859f37"}]}

@@ -1,0 +1,104 @@
+{:document/id "law/4743",
+ :document/type :law,
+ :document/number "4743",
+ :document/title
+ "MALİ SEKTÖRE OLAN BORÇLARIN YENİDEN YAPILANDIRILMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "4743-mali-sektore-olan-borclarin-yeniden-yapilandirilmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4743-mali-sektore-olan-borclarin-yeniden-yapilandirilmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "dba32b2171b42142fed74d3fda38085f8bf98126f2df3904d5df63847f1ef272",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4743.pdf",
+ :source/fetched-at #inst "2026-07-16T02:33:29.137-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4743/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a34e2d8bdbc6d79b82393ca72d11b91b2d7867434e90a5792c5a259ecc6f28ea"}
+  {:article/id "law/4743/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Finansal yeniden yapılandırma çerçeve anlaşmaları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "08c12d2e61ae14bcab6507b3638b635056a66ee8a4c62f08e94784ec6c160d35"}
+  {:article/id "law/4743/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Vergi istisnaları ve teşvik belgeleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "b4cc14435095f738cc0554bcd42e5b4b528c2c56c29eeb2f86c79ec2301db90b"}
+  {:article/id "law/4743/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d6dfa4e26f2392df5aa6615100593563a25b7f0e48fffbf183723845cf93602c"}
+  {:article/id "law/4743/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c5f4b3bcbd2ed383d1c536a8830e0f1ec07fc3372ee003d124bb88096029c4cf"}
+  {:article/id "law/4743/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e1d55b96bbeb337ab0e8bbbb2c7bac930651099894651fcef32d5a70fc1faf7e"}
+  {:article/id "law/4743/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Denetim",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "22d9114b4e4679a662deed901ed08599a522c52af3070af7340086860a3b7d5d"}
+  {:article/id "law/4743/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "77d2e0a9ef62144e060267ad846aaadcc70cfd899ff53a7a986f230d97453b8f"}
+  {:article/id "law/4743/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "68302b0b3f070ae2d0081c496169d5d696c1f24983d0ca5b107de8cf52026aac"}
+  {:article/id "law/4743/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "389a77d85bb73027f8ae83f550bfefaa8e35d1620615806b8339c54879dae274"}
+  {:article/id "law/4743/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "1062950f9697756be1d846d4c1e3c7e752af899d14ac3f5e852e7007b14a5a15"}
+  {:article/id "law/4743/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "40e8d962c6918f65deb0b13bc7714b282ff8102b17dcc548db0482a29ffd0e3e"}]}

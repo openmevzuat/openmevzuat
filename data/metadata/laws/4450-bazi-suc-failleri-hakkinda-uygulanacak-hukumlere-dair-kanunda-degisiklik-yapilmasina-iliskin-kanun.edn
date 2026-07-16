@@ -1,0 +1,55 @@
+{:document/id "law/4450",
+ :document/type :law,
+ :document/number "4450",
+ :document/title
+ "BAZI SUÇ FAİLLERİ HAKKINDA UYGULANACAK HÜKÜMLERE DAİR KANUNDA DEĞİŞİKLİK YAPILMASINA İLİŞKİN KANUN",
+ :document/slug
+ "4450-bazi-suc-failleri-hakkinda-uygulanacak-hukumlere-dair-kanunda-degisiklik-yapilmasina-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/4450-bazi-suc-failleri-hakkinda-uygulanacak-hukumlere-dair-kanunda-degisiklik-yapilmasina-iliskin-kanun",
+ :document/sha256
+ "bfa2f18742d3e669a6614bf2bfa72e91669d7a758b71db297d7fa226dcf058e7",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4450.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:16.948-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4450/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 39",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1c434b7c9da9689313eb7f7150e356a0d6896da37e41c0adaa7e178877e22f33"}
+  {:article/id "law/4450/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "59c96bdba5ba5ef7dfd64648c82b2e9dabc01ba2c01141c8263b47d6842e1600"}
+  {:article/id "law/4450/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "035bd1c103688c4a90210068d733aaabee279a4a02bb8d9e8c233a7af0c72577"}
+  {:article/id "law/4450/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2ec2931ae3859d5ee1f9f0d06c5d6b05b208512103eb19d89a23840311f0caba"}
+  {:article/id "law/4450/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

@@ -1,0 +1,97 @@
+{:document/id "law/5003",
+ :document/type :law,
+ :document/number "5003",
+ :document/title
+ "KARAYOLLARI GENEL MÜDÜRLÜĞÜNCE YAPILACAK BÖLÜNMÜŞ YOL İNŞASINDA UYGULANACAK USUL VE ESASLAR HAKKINDA KANUN",
+ :document/slug
+ "5003-karayollari-genel-mudurlugunce-yapilacak-bolunmus-yol-insasinda-uygulanacak-usul-ve-esaslar-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5003-karayollari-genel-mudurlugunce-yapilacak-bolunmus-yol-insasinda-uygulanacak-usul-ve-esaslar-hakkinda-kanun",
+ :document/sha256
+ "fa96091bb1537b854828013348e4c8c965ba0c8ffe1f3bb6eee06f7152eb21e3",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5003.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:25.167-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5003/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9ad964bdbca4613680a351e8ab827034de0edbe707d9026af61ff7f8adefca84"}
+  {:article/id "law/5003/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "42950f34c1f71886eb7db8f176e73da8350ca75500df422cd515fbe8b23c61b4"}
+  {:article/id "law/5003/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Makine ve ekipman tahsisi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "52138ab10375cb54441e3ca8ebb1b3970472483d2930d09fb749db6cf14216e5"}
+  {:article/id "law/5003/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Personel görevlendirilmesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0bc89389d46795b9fd6c3abbf5be7b8c49e7e48dd363d2ff73f4553dd5960622"}
+  {:article/id "law/5003/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Geçici görevlendirmenin şartları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "37bc04964c7c695c293626dba51dd49e47c64de4d95dc4822c2fb48b36fb3ebd"}
+  {:article/id "law/5003/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Personelin özlük hakları ve fazla çalışma",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "9989d173b9b0ce697fda7cbce545db9c6c28650077e374d0ed09952d94f5b4a1"}
+  {:article/id "law/5003/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kira ve kullanım bedelleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "756b3946c8b7d22458240ea2da00778b7eab4adeffe4230501d982b7a8164b90"}
+  {:article/id "law/5003/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "46480eb619dd5c8cb488d1029a934267d2c9812dbae75d3a3eb668741d485b7e"}
+  {:article/id "law/5003/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c1410f1744a8900f92c88ae6cfa0c62db0fc32e11f80b5d2abae4814bb9ca7c1"}
+  {:article/id "law/5003/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c98e2ce7bb371959acf543aa5cdf0cad70a04425b113e212b0047281930b20f2"}
+  {:article/id "law/5003/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "631b641400517264c88416aa25c0c896c679bc868abdb5f6f41bc2f70d2f1344"}]}

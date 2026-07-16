@@ -1,0 +1,62 @@
+{:document/id "law/4214",
+ :document/type :law,
+ :document/number "4214",
+ :document/title
+ "MEMURLAR, DİĞER KAMU GÖREVLİLERİ İLE BUNLARIN EMEKLİLERİNİN MALİ VE SOSYAL HAKLARINDA DÜZENLEMELER YAPILMASINA DAİR YETKİ KANUNU",
+ :document/slug
+ "4214-memurlar-diger-kamu-gorevlileri-ile-bunlarin-emeklilerinin-mali-ve-sosyal-haklarinda-duzenlemeler-yapilmasina-dair-yetki-kanunu",
+ :document/path
+ "data/canonical/laws/4214-memurlar-diger-kamu-gorevlileri-ile-bunlarin-emeklilerinin-mali-ve-sosyal-haklarinda-duzenlemeler-yapilmasina-dair-yetki-kanunu",
+ :document/sha256
+ "ce2503d0241649fb8174d611367c0355bc6ad78b42c57bf50a84cfa2445a3820",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4214.pdf",
+ :source/fetched-at #inst "2026-07-16T02:29:11.730-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4214/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e0f4a477a6835347335e2dcb0eecf00612de0536e69ea96d38018cf953639978"}
+  {:article/id "law/4214/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "fc8fdb5b7df1629506ce1327b53070d5564bfdd60387b694c7082a7d6f78bd90"}
+  {:article/id "law/4214/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İlkeler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "10dbba5c56e7b2429c62687b5e738d76aadbad56d6017e5d522de1234ea5bc97"}
+  {:article/id "law/4214/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yetki Süresi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f8063c5f85e6f94dd4201b6950627ff3bcc45b4a001a5dcd0d5f191de1c94c09"}
+  {:article/id "law/4214/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/4214/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cb0ddae63108fb20618b4db51cf3d7849644cb16bd48d2571cb6c155e891ac31"}]}

@@ -1,0 +1,88 @@
+{:document/id "law/4959",
+ :document/type :law,
+ :document/number "4959",
+ :document/title "TOPLUMA KAZANDIRMA KANUNU",
+ :document/slug "4959-topluma-kazandirma-kanunu",
+ :document/path "data/canonical/laws/4959-topluma-kazandirma-kanunu",
+ :document/sha256
+ "396a0b2de187742293b776e8f29fd1f34d1ecaaf2debcd6bff91a2229be9bcac",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4959.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:12.021-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4959/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bf94a1cf62c2ce100168ac3bf7afe27b89c24a877b8c558ef8a8ff56e6f3af55"}
+  {:article/id "law/4959/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam ve tanım",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "313cb926212466d14a6859b8b7b2b1970bd54d0d2bb8ba405532e56b09541fd5"}
+  {:article/id "law/4959/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kanundan yararlanamayacaklar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "627935cca5ed35346b2b5351519c98d597a34497eb4df91c2b23cbfbdd42c4ef"}
+  {:article/id "law/4959/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Ceza indirimleri, kötüniyetli açıklama ve tekerrür1",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "802e892956352aa308cc09d5d8aafaf2197a3151199194ece5d2d6287723f4e7"}
+  {:article/id "law/4959/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Koruma tedbirleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4bb5daf0cacc9e7d1169e6ea026fb9e2ce89a3a95efe602f9538109d1cb49f75"}
+  {:article/id "law/4959/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Verilen bilgilerin araştırılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e09d177c03630ab8bbfb0b3d02154bdac9d5d48d3a3eb612afd6dfb479cc2882"}
+  {:article/id "law/4959/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a69f6d1b7474b0a52d0f70e81ab87c4a095b1a27abfee1a18848ec1c4ae61462"}
+  {:article/id "law/4959/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6b5d014ff32f9ace387b5824bddceadaaad98ea1fa9f8b96a8b8f2e574a32b09"}
+  {:article/id "law/4959/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "fa58e19c8cf0085b55e385fc2959b7619ec3279f028d654212a084cc2b34a9bd"}
+  {:article/id "law/4959/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "40e8d962c6918f65deb0b13bc7714b282ff8102b17dcc548db0482a29ffd0e3e"}]}

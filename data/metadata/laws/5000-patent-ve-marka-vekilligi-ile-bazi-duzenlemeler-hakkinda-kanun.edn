@@ -1,0 +1,326 @@
+{:document/id "law/5000",
+ :document/type :law,
+ :document/number "5000",
+ :document/title
+ "PATENT VE MARKA VEKİLLİĞİ İLE BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "5000-patent-ve-marka-vekilligi-ile-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5000-patent-ve-marka-vekilligi-ile-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "496b8bd29206ce50e3967ab77feb019b3ca7b35c91418fd7d01dd21e3847ffc2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5000.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:21.862-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5000/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kuruluş ve amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "118dd638626adfa7ee64f721fd76da6005758f5dd7d45abd8e2bcdf1e20a71dc"}
+  {:article/id "law/5000/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "fba6db890cfb31abf5b0632945071468f7265a7448a9c428cae51ae21c422c62"}
+  {:article/id "law/5000/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7adeb143e862f0cf7a9170d381b8c6fcf8acecd30aa0e86bc330076daf9d79eb"}
+  {:article/id "law/5000/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Organ ve birimler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7b0b9ddd7305a3c4c596bf2123b48dd54150e2a4ae9989edbc09bbf5d9f2e9ee"}
+  {:article/id "law/5000/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "21aa96231b00f3ae9dd0bc285fcd3bc1ae78855a20e87437462734140e42de34"}
+  {:article/id "law/5000/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetim Kurulunun görev ve yetkileri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "c3f559b358a5512e7960d521d0fa645b7495cfc3c5c711ce4ce0521387c24172"}
+  {:article/id "law/5000/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Danışma Kurulu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "44ac14e39bc7dca2698b913257c9b8b562a216419532f7adc23911d019116846"}
+  {:article/id "law/5000/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e05b6d4da45531d228ab935f812c0726ebc68e13958d3d31ec772e2691b9c2d4"}
+  {:article/id "law/5000/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Başkanlık",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "64f915dd9fbbfa30b1a95fb8c48c9b82e587fa8a6bd0a2b7fc4e7eb934c75641"}
+  {:article/id "law/5000/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Fikri Mülkiyet Akademisi ve Sınai Mülkiyet Hakları Eğitim Merkezi2",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "d58e1fb16517e7f25eca44931322c331756db0cd1dce9018962ee96b812cce13"}
+  {:article/id "law/5000/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6350864b88601640a41edd1755f957e3b30d14a2de1dde36b5ee48a94b390fe1"}
+  {:article/id "law/5000/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Patent Dairesi Başkanlığı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "8a41e948403784f445c43500cfe9380d1584cce4aaec1ebe576db8e97c723e2b"}
+  {:article/id "law/5000/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Markalar Dairesi Başkanlığı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "b9344ad0e1fffc8ef928fa821016a384a8684953613e13a95b48458fa03bb3e5"}
+  {:article/id "law/5000/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Tasarımlar Dairesi Başkanlığı3",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7c2b150b4fbe9ed3fd9e24d38b3aa8a122075f581c81e7b508f9b9930a7209eb"}
+  {:article/id "law/5000/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Avrupa Birliği ve Dış İlişkiler Dairesi Başkanlığı4",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "93e9cd583a1e5c22d6c28863d7b4da6e2988e5774d6ad5ce4ba1f7a9cf8ddc3f"}
+  {:article/id "law/5000/article/15/A",
+   :article/type :normal,
+   :article/no "15/A",
+   :article/title "Yenilik ve Tanıtım Dairesi Başkanlığı",
+   :article/path "articles/madde-015-a.md",
+   :article/sha256
+   "95488eba9cd221cc7060d6fc71f537b3fa8a8f20cc4a773f64f2122e71a20aa5"}
+  {:article/id "law/5000/article/15/B",
+   :article/type :normal,
+   :article/no "15/B",
+   :article/title "Coğrafi İşaretler Dairesi Başkanlığı",
+   :article/path "articles/madde-015-b.md",
+   :article/sha256
+   "3408209884dfbe28d0c0b82f8ffa576b6dbe94b71111a0944710833590aa716a"}
+  {:article/id "law/5000/article/15/C",
+   :article/type :normal,
+   :article/no "15/C",
+   :article/title
+   "Yeniden İnceleme ve Değerlendirme Dairesi Başkanlığı",
+   :article/path "articles/madde-015-c.md",
+   :article/sha256
+   "e4cc4eaeaceaffd843345c0263929a1a5e1561e394a8abbc6849cc83fc30bbbf"}
+  {:article/id "law/5000/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a4cf04b5633df37b05a6260bc7fc24ba2400bebe2944753c5afa25096dd5bf04"}
+  {:article/id "law/5000/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Personel Dairesi Başkanlığı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "20f079a68bd305ff237dc6b2d739c213faef03cd318824824493a1d27c1645f5"}
+  {:article/id "law/5000/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Destek Hizmetleri Dairesi Başkanlığı5",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "9f1461001c34e8ef8fab14c6051823ce98cd61a8d10329d135998f2250055426"}
+  {:article/id "law/5000/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Bilgi İşlem Dairesi Başkanlığı6",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "08f9b896f6a9ddc7fe10d69b94963eb872ba5f20f04d9747693577715e3891e3"}
+  {:article/id "law/5000/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Danışma birimleri",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "436ca7feadc16b93bdbe6a0c92baa0f2f6bc34508a6ab459a62a5bc2fe0e19ab"}
+  {:article/id "law/5000/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title
+   "Araştırma, Planlama ve Koordinasyon Dairesi Başkanlığı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "d8f9ba7991c8e7da0583db6fad67e8285e2a4f3dbf59777f10174eb71c03d40d"}
+  {:article/id "law/5000/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Hukuk Müşavirliği",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c122765888a8c2393c3f90b5066af8c22f079be510317b9ad8536edf54e1457b"}
+  {:article/id "law/5000/article/22/A",
+   :article/type :normal,
+   :article/no "22/A",
+   :article/title "Strateji Geliştirme Dairesi Başkanlığı",
+   :article/path "articles/madde-022-a.md",
+   :article/sha256
+   "1e597f37e095306fabe08cf81c9489fb278b351a2df96989216e425d30d45d46"}
+  {:article/id "law/5000/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "bcecf0aeff892228eb3758a17217a936978545765aabee34ca1b381275f6f974"}
+  {:article/id "law/5000/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "0a417c71a44c021635b4960ed9e405475fbf720396fd5c499c7edd214e0efda7"}
+  {:article/id "law/5000/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Gelirler, giderler ve bütçe7",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "a9ea7161b5bb20320e73f2aec01da2caec7cc0ece44edc03dbc08828ced1a054"}
+  {:article/id "law/5000/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "05fe0de72e3bab5d5e401a05754fda6af991ecf84cbbf68a32cd8735d30c218d"}
+  {:article/id "law/5000/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Enstitünün kadroları",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "c436a9ea454b3c07c75b3bf5d680ecfbc1e317878c02e5aaf249a617a6764069"}
+  {:article/id "law/5000/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "8af8999aa918d76852110597e1540961a2bc03e7fbdda9b9e086f3431bfb5ba0"}
+  {:article/id "law/5000/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "36c2094826e1c1ff958626691e8fb69f75aa8cd459e68afab012a97c651e6eaa"}
+  {:article/id "law/5000/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Enstitü nezdinde vekillik yapma yetkisinde olanlar",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "7ce543946cfdbdd73d653ec58356934d408a2a4e46fe94e11811d6f4f3382eb9"}
+  {:article/id "law/5000/article/30/A",
+   :article/type :normal,
+   :article/no "30/A",
+   :article/title
+   "Disiplin cezaları, ceza uygulanacak fiiller ve disiplin kurulu",
+   :article/path "articles/madde-030-a.md",
+   :article/sha256
+   "a16ae09df32b4eba517004f326a0576e75c4c018d59bdaf59d75b3cd432c2825"}
+  {:article/id "law/5000/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Neşredilmeyen mevkutede marka koruma süresi",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "cb9fcdbed035f029d96320938dfd971c7fbfbe52f610c8fbf37890228f0c151a"}
+  {:article/id "law/5000/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "12f94fa06a4466d5f16ff1ef6c78d434fbbc864b3373de4987a8bfca93be7a3c"}
+  {:article/id "law/5000/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Kadrolar",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "f8dd2a378e20217aac30c7ee209ea124f8dcffb928043983b146489cd988c134"}
+  {:article/id "law/5000/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2205c1a3d9bfd0a619dc8d9fa846f1ba3c7dee6c5d472b052cf1591ad0935ccf"}
+  {:article/id "law/5000/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "84400ac945cfa3548d24a44859edd4a243c546cee51329b7efa2432844b6909a"}
+  {:article/id "law/5000/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "8fa6435c9422183268e38e060ea3ca6fa2734f67cda5c6d71fc046ed9e3dba1b"}
+  {:article/id "law/5000/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "d2d3e15833e3efd1a3bfe58e83ebb3b566690afc2a06d36c674dc1f6a4a7c5b7"}
+  {:article/id "law/5000/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Yürütme",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "b8556caeb10d10a6a14cc7d3d7f44c00e8a0ffe6bc0c602c6dc988a0a37738de"}]}

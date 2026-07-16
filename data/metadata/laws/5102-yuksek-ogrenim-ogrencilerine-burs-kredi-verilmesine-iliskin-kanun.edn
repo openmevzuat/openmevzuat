@@ -1,0 +1,90 @@
+{:document/id "law/5102",
+ :document/type :law,
+ :document/number "5102",
+ :document/title
+ "YÜKSEK ÖĞRENİM ÖĞRENCİLERİNE BURS KREDİ VERİLMESİNE İLİŞKİN KANUN",
+ :document/slug
+ "5102-yuksek-ogrenim-ogrencilerine-burs-kredi-verilmesine-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/5102-yuksek-ogrenim-ogrencilerine-burs-kredi-verilmesine-iliskin-kanun",
+ :document/sha256
+ "99db92793c6c3df5c91cea780bbd5cafda415ebaadf35b39907fb461237c337f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5102.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:03.197-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5102/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f69a45a0cc2a55b1e0d4eb33978c384860bd0eab2b2766f9f9fc20bed52e2202"}
+  {:article/id "law/5102/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Burs ve kredilerin verilmesi2",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5ef0b897517969034ab450ce479da88f41d3899d3d02721fe573c73f6c780bc7"}
+  {:article/id "law/5102/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Diğer kuruluşlarca yapılacak işlemler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "1a38302d622989e7dc42c6874c5c68772b2a0434eb931090260f6715c27b8318"}
+  {:article/id "law/5102/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Malî muafiyet ve haciz",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "78d979ee129d0ef3c23e767c5f1758088c63c87dd96003a08fd04f4e2dddd08a"}
+  {:article/id "law/5102/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ek Ödeme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "239253918e39a2a40e23dd4a57beedca90f3da7d731612f37a5ea6c5f8d23aee"}
+  {:article/id "law/5102/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "2a3d848a51ecc60603220e95554f75810d0b019b526ff05b30e30d918a5f2966"}
+  {:article/id "law/5102/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "2a4876e55d9139cd7c114e91ebca5d95dd4638068fc8bb8bb4103e52e4681cc2"}
+  {:article/id "law/5102/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "36d131d8cc62b5fffa659a8f953f71c9b74c3af921f9f811378eb7dde8dcf02b"}
+  {:article/id "law/5102/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bc11ca8df848ddbd05b63ba16d330ee9d027c3a53d54ad46f009472d231a3d5b"}
+  {:article/id "law/5102/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0f95af171f087e85d51dd5e2f79f3e9a40e4715e8af2180eae9f4b208d638346"}]}

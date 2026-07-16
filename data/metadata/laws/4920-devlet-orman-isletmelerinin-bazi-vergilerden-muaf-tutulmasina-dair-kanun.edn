@@ -1,0 +1,77 @@
+{:document/id "law/4920",
+ :document/type :law,
+ :document/number "4920",
+ :document/title
+ "DEVLET ORMAN İŞLETMELERİNİN BAZI VERGİLERDEN MUAF TUTULMASINA DAİR KANUN",
+ :document/slug
+ "4920-devlet-orman-isletmelerinin-bazi-vergilerden-muaf-tutulmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/4920-devlet-orman-isletmelerinin-bazi-vergilerden-muaf-tutulmasina-dair-kanun",
+ :document/sha256
+ "e3501a188a352a0ae7c5f51de42411979b9245f1dba762245833e879091cec22",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4920.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:49.869-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4920/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 27 Sayfa: 1255",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b97bd40dc386476072afd2d86473da9984d28b8f3560235e2db0e4aad832c6e4"}
+  {:article/id "law/4920/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "02a6f30643824f3c4ba09d04f7d8e8c5395304c4eb9e099f07db1ba61e235a07"}
+  {:article/id "law/4920/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "da6cea3849b4ca8136da70cd1a7eff795e11a4cdc961aacedd4fa405977a4040"}
+  {:article/id "law/4920/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0c6ac4b07815fd542f93fc87be7355e988444e8589b88cb62e0485930d234c1a"}
+  {:article/id "law/4920/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "bf1a9039a627cf6ab1501c48bbfbafa72086333c2398a0d49dc8a24077f29846"}
+  {:article/id "law/4920/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "cc785120428da0614af2aa9d0d1b31ab17137d4a9c5586e4234187916e5b7d5e"}
+  {:article/id "law/4920/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "38888cc28cbb0ba15471d676625e9e835cc11de6b4a53191767b5cd018fb4021"}
+  {:article/id "law/4920/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "83341aa1c55148cb7c199683947d16f3c4a41e65a4b0224ded548455a2c0d5a2"}]}

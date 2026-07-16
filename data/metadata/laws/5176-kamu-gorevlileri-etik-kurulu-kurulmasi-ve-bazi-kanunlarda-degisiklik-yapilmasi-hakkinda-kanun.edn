@@ -1,0 +1,97 @@
+{:document/id "law/5176",
+ :document/type :law,
+ :document/number "5176",
+ :document/title
+ "KAMU GÖREVLİLERİ ETİK KURULU KURULMASI VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "5176-kamu-gorevlileri-etik-kurulu-kurulmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5176-kamu-gorevlileri-etik-kurulu-kurulmasi-ve-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "588a93520785409f8e958ae6cc2e162fbec7458e8d756cd4d7fbe0946491dbae",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5176.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:18.283-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5176/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d2fab376049050ccf68fd8a26c9eaa9f98adc9fbb4b966b4926b8584cc815c04"}
+  {:article/id "law/5176/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "22c087f030d9d1930dcaed25ff2eee15039e5c3e7ce9a8fc00ec9af7ac31ae8c"}
+  {:article/id "law/5176/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kurulun görevleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "af2a225793b978ccbe222944bf809d298d72eede3388915d8e6cc4dfb7fbba08"}
+  {:article/id "law/5176/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kurula veya yetkili disiplin kurullarına başvuru",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d5a1cf8f841624460611eef5c3176ad7b055bcf520e2609ba81a9a105fc11152"}
+  {:article/id "law/5176/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İnceleme ve araştırma",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1b66a16d843cc270f2a4a6c479ec0a7257c73c2448b2ff77d878603e3baa9c72"}
+  {:article/id "law/5176/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Bilgi ve belge istenmesi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ebc7b10f546cc699adc82d786393c0b854739b4d2d19c97edabd912b4509d86f"}
+  {:article/id "law/5176/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yönetmelik6",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "76833205095066e8edeabd3e2552830b87b2209e9c8b926871257f63dbe20a5c"}
+  {:article/id "law/5176/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "8edd1538da4266d99f07e8012371a1e6d14bacda31a4a558851c337cbc0cd528"}
+  {:article/id "law/5176/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "79e976230347e8171e6b24ac533b2884fffdf94a5f167f7ce77476f211adf1ab"}
+  {:article/id "law/5176/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9bf59ff136bce195d983d6c6e50fc31b48533ce33170fd6bfe27c95afc94f420"}
+  {:article/id "law/5176/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme7",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "c2cf60876ecde7c62ecc84a1a9643462e9b0d6d5dcbc58caab6a2c9b2b5e5b42"}]}

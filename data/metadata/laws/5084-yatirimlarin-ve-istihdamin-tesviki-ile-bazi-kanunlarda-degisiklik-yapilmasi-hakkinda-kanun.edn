@@ -1,0 +1,125 @@
+{:document/id "law/5084",
+ :document/type :law,
+ :document/number "5084",
+ :document/title
+ "YATIRIMLARIN VE İSTİHDAMIN TEŞVİKİ İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "5084-yatirimlarin-ve-istihdamin-tesviki-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5084-yatirimlarin-ve-istihdamin-tesviki-ile-bazi-kanunlarda-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "5e61d40b68f3148704d6cc1a04d7e20428d0ee9a46070fb9287ab60bcd9fa8cd",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5084.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:58.105-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5084/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "96c3f30d3f1f2370980490b26cfc03b6f2e49a7c381a8e72bf02b3fcb8224644"}
+  {:article/id "law/5084/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4ca4fe28b1d1da30ab755ca529941e30baa0b9a05d67eef99207beac41acaa0f"}
+  {:article/id "law/5084/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Gelir vergisi stopajı teşviki",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "83ad97974fcff0988b801e189c2c96c734be88ed079388545cf75e3a3be25de1"}
+  {:article/id "law/5084/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sigorta primi işveren hissesi teşviki3",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "788b473aaa084892612489571fe2b490afc5b7d4be2a19d5ede165c91513cd5d"}
+  {:article/id "law/5084/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Bedelsiz yatırım yeri tahsisi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "09765da1b8cf589cd4dd7b5e6d0d67bb5dcbeac578c7dbebd8fbe327514c7a82"}
+  {:article/id "law/5084/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Enerji desteği",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0948815f24bdab3f4aed09a7fc8793bcdf00fbb0171c8854c47c4ed4fe8ab10f"}
+  {:article/id "law/5084/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Çeşitli hükümler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "eabdec535d8470c2285feba3268d3e81e66b51df99b2657662ca25f4094de6e3"}
+  {:article/id "law/5084/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3fa879d713f0bad9b34ae4744c2c87c48b61087f437dd651e3d2dd26729d84bc"}
+  {:article/id "law/5084/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3cbd3ee412e11673919d136939383b56bfddfd5539bd6607cee31ea03476a87d"}
+  {:article/id "law/5084/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Cazibe Merkezleri Programı8",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "add8e3b22d0fbc395391095ef79a40596a989652355d86685b69743274b90848"}
+  {:article/id "law/5084/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1bf934d4463cf395224bcda333ee799adf7f556a2e7c0953a05bec272208b999"}
+  {:article/id "law/5084/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "5b4d8290798998ad03040cf3098a5a4caad2658bdabe1aed3d3ad41712c7e649"}
+  {:article/id "law/5084/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "a8eda27bb97147339a1342c48a01fa1a5fb10488158f1ff37d4938551a059499"}
+  {:article/id "law/5084/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5d355d65141e2230411bcc942caed1c779924caaa0f5b2a76faf8db5e71981bf"}
+  {:article/id "law/5084/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "597cbac849b18ad0a083c836987ab7cccc34c6bcee33ccdbac58b539bcc9887c"}]}

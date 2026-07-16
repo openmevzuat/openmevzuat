@@ -1,0 +1,63 @@
+{:document/id "law/4375",
+ :document/type :law,
+ :document/number "4375",
+ :document/title
+ "TÜRK SİLAHLI KUVVETLERİ İÇ HİZMET KANUNU, DEVLET MEMURLARI KANUNU VE TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNUNDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "4375-turk-silahli-kuvvetleri-ic-hizmet-kanunu-devlet-memurlari-kanunu-ve-turkiye-cumhuriyeti-emekli-sandigi-kanununda-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/4375-turk-silahli-kuvvetleri-ic-hizmet-kanunu-devlet-memurlari-kanunu-ve-turkiye-cumhuriyeti-emekli-sandigi-kanununda-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "20991397b348f551526b9b75fb78c576e090eac715a0d5288ec97f937880ad1f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4375.pdf",
+ :source/fetched-at #inst "2026-07-16T02:30:04.338-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4375/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 5 Cilt: 37 Sayfa: 138",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4c4cd05d6160dbc7d689723d3f40b29c2032cba60d6ba80adc9b374c9aea3c65"}
+  {:article/id "law/4375/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "22fbb98f0fa0b54f5ec8f3f710dc60d0f40246e27b259df706eb367487921e1d"}
+  {:article/id "law/4375/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9756d913e9a2049ddd58c1120a98c6a756049f82ea9ae5d5c40a59a7a003dad3"}
+  {:article/id "law/4375/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "07ee84862b2fbdaa0b063c256025944d5d87bea5162cb10018e5a15d3de92516"}
+  {:article/id "law/4375/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e3fcdf5b5ce193ece6bd8484bd0c0b970265f2f6060bc45c5cf53c80ca97a1d"}
+  {:article/id "law/4375/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "17c0d926c278838d72a884fcf59d857eaa6bd1cb69cba878a3f9c7a3ae55eb06"}]}

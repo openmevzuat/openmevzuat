@@ -1,0 +1,41 @@
+{:document/id "law/4680",
+ :document/type :law,
+ :document/number "4680",
+ :document/title
+ "ÜRETİMİNİ LİKİT PETROL GAZI İLE YAPAN ÜRETİCİLERİN ZARARLARININ KARŞILANMASI HAKKINDA KANUN",
+ :document/slug
+ "4680-uretimini-likit-petrol-gazi-ile-yapan-ureticilerin-zararlarinin-karsilanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4680-uretimini-likit-petrol-gazi-ile-yapan-ureticilerin-zararlarinin-karsilanmasi-hakkinda-kanun",
+ :document/sha256
+ "ab996f6c1fd7d5bebdd5d071b2fade0576582c5ae228cdc22178479e7b4a89cc",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4680.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:25.169-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4680/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 40",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b071d56c1245fe055a36ebf9180256c9b732041108eba401b1c54910d15b2928"}
+  {:article/id "law/4680/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/4680/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

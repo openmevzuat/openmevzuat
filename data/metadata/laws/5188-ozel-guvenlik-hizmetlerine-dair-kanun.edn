@@ -1,0 +1,242 @@
+{:document/id "law/5188",
+ :document/type :law,
+ :document/number "5188",
+ :document/title "ÖZEL GÜVENLİK HİZMETLERİNE DAİR KANUN",
+ :document/slug "5188-ozel-guvenlik-hizmetlerine-dair-kanun",
+ :document/path
+ "data/canonical/laws/5188-ozel-guvenlik-hizmetlerine-dair-kanun",
+ :document/sha256
+ "3102041021e5fe30dce1eadc5c762d888532a5f5b417e15caf88e54cfbe57f7f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5188.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:24.473-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5188/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cd0406043b3778b1e0ed969c8b785138fdf9243e4f3f5edd530284df4dd78369"}
+  {:article/id "law/5188/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "04c4b57557d3d18ce15bf300560cbb24156b65dbf213fc8a67c4e03fad2fb21e"}
+  {:article/id "law/5188/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Özel güvenlik izni",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3f9cd52580bbf9ecce0798f1d932a2d9546cc5982defd94662f032625f96209e"}
+  {:article/id "law/5188/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Özel güvenlik komisyonu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2a32498325d377f3ea45856e42537ee03b690d3eef8762b817425d225d0652ec"}
+  {:article/id "law/5188/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Faaliyet izni2",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "54bfcfabeb767fbd706cca18bf1779cda159632a3363ceb47a42a0101590bb7d"}
+  {:article/id "law/5188/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Ek önlemler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "2e08e958430aeb632c990e0318e468d183a4a72b2bf89a169dc1cdd087971687"}
+  {:article/id "law/5188/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "5df538e4f7996ffa891bb012e451aa6a34a77a27029fb2402639e8b33a8ddb18"}
+  {:article/id "law/5188/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Silah bulundurma ve taşıma yetkisi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "1d4788073238c8ee42cb582ee9c0fa08b5d181606c8c1fd05ba15563d15f2fbd"}
+  {:article/id "law/5188/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Görev alanı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "1a57d1b5c3d590e8c9d4bbdfc366d856233b3f1002fe919b82c41cc0e9c77589"}
+  {:article/id "law/5188/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Özel güvenlik görevlilerinde aranacak şartlar",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "955ae6251c612133fbfad7e608e16d8051abae037aadba95dadd94024b288c6c"}
+  {:article/id "law/5188/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "c2e59cb29457f5836bab8d539640a77fb8967d4ac7ab968f3fb18b1990d134fc"}
+  {:article/id "law/5188/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Kimlik",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "96834a9734380d045325cdbfc7c49d73f8a355aab47a8e1e6c38624c4d1fc4ff"}
+  {:article/id "law/5188/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Kıyafet",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "a5245ca9e59f5a5458fce591d10bcd9558f87979ab584e4e8aaffd0029e3674d"}
+  {:article/id "law/5188/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Eğitim",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "2cc28a0ab1c08eed071b9bd2885dd87b54430054ad54c9dbf5e9989c0b4b1204"}
+  {:article/id "law/5188/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "ea9120d0159b7e8d5ac0607c55af8663e7ed4c056858a9a03c44a2c15053b892"}
+  {:article/id "law/5188/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "32d59b951e2ab4d126a87fc1440c36e5c163470c35363867127c5b96f170c080"}
+  {:article/id "law/5188/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Grev yasağı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8d655972ec2eebdb398ab9efb82f5c802e060f5023bc2befb74715e18158287f"}
+  {:article/id "law/5188/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Görevden uzaklaştırma yasağı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "43a63780033910ab045d7f1ae72dfdd78cd4269633da152417a3ef69efb53061"}
+  {:article/id "law/5188/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Suçlar ve cezalar9",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "44b0b7fb5d8d56db0ba7daa17867a84098669e92ed0712e7243dcf131114e2ae"}
+  {:article/id "law/5188/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "9d7f0b44cccc99b2ceead8601e151ad705bf3577a4df38a230bf72b93da461ef"}
+  {:article/id "law/5188/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "2aea4664a1137af37428ba15d81c8ea7d497f4ee9d94aefd8a3541972660f333"}
+  {:article/id "law/5188/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Denetim",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "23916cc047258f68333aec41916d55a65c17aafe00f117f0fe0061214b303cbc"}
+  {:article/id "law/5188/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Ceza uygulaması",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "36c32ab3121ea818fa7a239bd17074e02fe201706f6c1e9d195c9b55ff62c35b"}
+  {:article/id "law/5188/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Ruhsat harcı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "59c5617c25665bd6837a48895519be217ab7c9ec756ffa276de25ed488ea5c97"}
+  {:article/id "law/5188/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yeniden değerleme oranının uygulanması",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "18f12a70598ac65a18e57e6d1c2b23b0d15cdb64c8ff482e815a49620d5b3cb4"}
+  {:article/id "law/5188/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "1cb052d074ce0e8b10e5677a046c712f48835a5f9e0cce3cf5dfcf42ce1e35a0"}
+  {:article/id "law/5188/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürürlükten kaldırılan kanun",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "2dd073d015f3bdb8916b0d26af88da91c4476e2a1bb68666e14cac1b4bc31a91"}
+  {:article/id "law/5188/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "872c55692fad1dbdafde074c6e838ac23ea68523d98b03622871633110ee69a5"}
+  {:article/id "law/5188/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "3d2ee80e5c5dfc00ba9807c9717e49664f9324ce59517cde3d9292981c0c45a1"}
+  {:article/id "law/5188/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "874b8c09571919b227cd1d6bc3fe861ce1e3ffd00af47abd3514bc99caf472fb"}
+  {:article/id "law/5188/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "242799ea4c95115540046a4f3cad3a61d94cdb3e307adfb6c369b2c63011484c"}
+  {:article/id "law/5188/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürütme",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "0c5e6d8e54d497ec7f6d3e7eb0166ce741fa8fd8d2efcd1d8e693b25a77952da"}]}

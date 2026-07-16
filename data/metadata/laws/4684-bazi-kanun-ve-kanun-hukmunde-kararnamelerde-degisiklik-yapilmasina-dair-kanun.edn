@@ -1,0 +1,49 @@
+{:document/id "law/4684",
+ :document/type :law,
+ :document/number "4684",
+ :document/title
+ "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "4684-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/4684-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "67fc1524e85452f12a3075280423ad280d6f557e2148f989a20f92a4f55ceb19",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4684.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:30.668-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4684/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 40",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7c09b394b547fa7360cad8b0dbeeb18311128b6484e86ee1579871d81ec69d70"}
+  {:article/id "law/4684/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title
+   "Geçici Madde 1, 2 ve 4 – (Muhtelif Kanunların işlemeyen hükümlerine işlenmiştir.)",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "60791c0d4c2f9943cbf06a0ce84af09d91d2cc2e9e907eae4cf2da1ac715269b"}
+  {:article/id "law/4684/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "82a215c6e42ed1ae107e1d197a2dd2c9eeceee237e69236a180b3948aa506f5a"}
+  {:article/id "law/4684/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "420c02eda46cefcfbfbf6abaf2a0ef07a3f87995c0ad6f748948280b12442dab"}]}

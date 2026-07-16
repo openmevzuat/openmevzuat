@@ -1,0 +1,278 @@
+{:document/id "law/4632",
+ :document/type :law,
+ :document/number "4632",
+ :document/title
+ "BİREYSEL EMEKLİLİK TASARRUF VE YATIRIM SİSTEMİ KANUNU",
+ :document/slug
+ "4632-bireysel-emeklilik-tasarruf-ve-yatirim-sistemi-kanunu",
+ :document/path
+ "data/canonical/laws/4632-bireysel-emeklilik-tasarruf-ve-yatirim-sistemi-kanunu",
+ :document/sha256
+ "29b0374b59c37617346ecd164bf045b35a33fa6155e4a2c04ae17c8e44fbbdd5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4632.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:50.089-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4632/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d7b8f34242e76c76e01d8c0f54955d03f059b81c0f947b02ca8f60e901fbaf54"}
+  {:article/id "law/4632/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "164fa4f2083426bc613217b8a728c22b8adaf5648d3b2cdd7b4af37dd2fced91"}
+  {:article/id "law/4632/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "06f265be63ba093e4b022031fcf60997c4579c670938071b15239c222e19313b"}
+  {:article/id "law/4632/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "cf4b70094a4bb0c98e743ebf0f7f27c3ba4265fb2780be610b6829d58f1a1cf3"}
+  {:article/id "law/4632/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Katılımcının ve şirketin hak ve yükümlülükleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "394a31d2dfe49307afdf95d45aca06e65bd4718de153e48a77224639d2d259fb"}
+  {:article/id "law/4632/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "bbfe0f6681da5e3a869ae5090f4f21118725a7861e80b9c76b534bf12b7a5c6e"}
+  {:article/id "law/4632/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Giriş aidatı, yönetim ve fon işletim giderleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "fc305bb8357b56c0923a9b85d4b4bb940d2a1eaf12df4e864fb625f9282120a8"}
+  {:article/id "law/4632/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "9171a0020864a689bf8d535437471bd0cc1e1db1a5f71372260f7d7b5d3b5c10"}
+  {:article/id "law/4632/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Faaliyet ruhsatı",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c783dbc7ea8c05e235c64d7e4e3c24545d48138f0a07d675fa53d734de2b11ce"}
+  {:article/id "law/4632/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Emeklilik ile ilgili kavramların kullanımı, ilan, reklam ve açıklanacak bilgiler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "a669fa857b2ccb80fb63c1b2907753f240dace9746fc0d46d28ad148dc396a63"}
+  {:article/id "law/4632/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Şirketin sorumlulukları ve bireysel emeklilik aracıları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0da06a6c0247fa7dffd727ef8a856c9a8afc054d12f4c24c13fade8508a37791"}
+  {:article/id "law/4632/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Şirketin teşkilât ve organları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "1168fe58e65ad8bd0737d96646bfec9b0e75efb1642fd900a1bab952cdff2c08"}
+  {:article/id "law/4632/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Anasözleşme değişiklikleri, hisse ve malvarlıklarının devri ve şirket birleşmeleri5",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9f2a7d90de51d81f622be5a53ecd4a5d74cd8e5581e57bca076621a97795a381"}
+  {:article/id "law/4632/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Malî bünyenin güçlendirilmesi ve şirket uygulamalarının iyileştirilmesi6",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "dbfeb8edbd8c89dc650d6ce648ab3f16b299ba6fa51668c5a4bac67857a00ebc"}
+  {:article/id "law/4632/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "7eaf878c37f43d758d72f4ef03c3137d2d9e6c41423b456650b514958dc61425"}
+  {:article/id "law/4632/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Fonun faaliyete geçmesine ilişkin esaslar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "11937855b9b24f53856f0fef7195000cfbb2098992433f69bfbc24ceaff25667"}
+  {:article/id "law/4632/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Fonun malvarlığına, fon portföyüne ve fon varlıklarının saklanmasına ilişkin ilkeler",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "eafa999af245d00cb83abdfea7354ed9b0388393c742f095451b04b1bcbc80b1"}
+  {:article/id "law/4632/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Fon portföyünün yönetimi",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "2a3900238a08c41bb978043a1a12b996698253b83b033dbb6c42cc44886f18d7"}
+  {:article/id "law/4632/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Fonların birleştirilmesi ve devri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "a4d7ee2bcc0bca108218e2e6d6967deca95a3ef11e4c79f4ec3aeb3cccc34a75"}
+  {:article/id "law/4632/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "48566b1a3752a1ea4cba5bf6a60785cfe9fcf031e7bb585d2865e77e27657211"}
+  {:article/id "law/4632/article/20/A",
+   :article/type :normal,
+   :article/no "20/A",
+   :article/title "Emeklilik gözetim merkezi",
+   :article/path "articles/madde-020-a.md",
+   :article/sha256
+   "932f755acd3579afcfc889c358593bdcb686822878f7abb7c4e920e9f77150a8"}
+  {:article/id "law/4632/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "334aff7be18a887edbde070ac5ad08ea0cf65d99f54d8cbc03a83826a9fe8ded"}
+  {:article/id "law/4632/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "97d861d448961485fb94756fdae3edfda756b62c17655d9ebbd9feacab1092ce"}
+  {:article/id "law/4632/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Ceza sorumluluğu9",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "7f315307beece325dc3fbdd18d24e741a9d37ef0b94ef06ad6942de79e2fc902"}
+  {:article/id "law/4632/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Soruşturma ve kovuşturma usulü10",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "8c52eb192eaa52097933da5dfa92d54e08edb60c2139f406e27801526af6ada8"}
+  {:article/id "law/4632/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Genel hükümlerin saklılığı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "3942f42d284d685dd11a4cc948f4e6fc472a3fdfa11f23ac921a53044ade2013"}
+  {:article/id "law/4632/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "478871a3ded1d7fad5db4ba468bc3f310e380466c92c048f1e4137fc8853104a"}
+  {:article/id "law/4632/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Devlet katkısı1112",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "c3bdca1315412f5d7d11b447866ce2e38b2cf2a06f46c1f9611993502d39f44c"}
+  {:article/id "law/4632/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "Çalışanların otomatik olarak bir emeklilik planına dâhil edilmesi1718",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "ae063e8064985f0c49cb6c36b364b77ef32b9c5627dff1a021cecf6deda7e1eb"}
+  {:article/id "law/4632/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "170db570323a76b024a225f2efdc2db13e475fc68fe66f0937b6dda67c70455c"}
+  {:article/id "law/4632/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "c573ea82a5f274e8fd09d017321b4c673155db0040c5cbd431faba3792c3c1f0"}
+  {:article/id "law/4632/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "118eec58014947f4e7c67b53d8d615baa20d0f25d759b5c255b2958b9ebc338d"}
+  {:article/id "law/4632/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "9d5aadaca42eb650465a50ac1b868787ab6acdc9d5429a3a542e254fb3fe1117"}
+  {:article/id "law/4632/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "a4a711e1249b21741aae42d7719efc09426cd6c27d75b44adeb52f3ed1dac044"}
+  {:article/id "law/4632/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "5ab802cf8c44a5e821390c9a9313c2b125f0c0df176df498e4344a7c3dcfb7a9"}
+  {:article/id "law/4632/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürütme",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "de8cd8bbbd8e739fefd5d6ab4824311c56dfb36e3b16bc787bab2aeebbe8e720"}]}

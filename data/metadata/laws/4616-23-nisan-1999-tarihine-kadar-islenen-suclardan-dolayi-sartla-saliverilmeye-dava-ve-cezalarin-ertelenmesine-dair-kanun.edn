@@ -1,0 +1,48 @@
+{:document/id "law/4616",
+ :document/type :law,
+ :document/number "4616",
+ :document/title
+ "23 NİSAN 1999 TARİHİNE KADAR İŞLENEN SUÇLARDAN DOLAYI ŞARTLA SALIVERİLMEYE, DAVA VE CEZALARIN ERTELENMESİNE DAİR KANUN",
+ :document/slug
+ "4616-23-nisan-1999-tarihine-kadar-islenen-suclardan-dolayi-sartla-saliverilmeye-dava-ve-cezalarin-ertelenmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/4616-23-nisan-1999-tarihine-kadar-islenen-suclardan-dolayi-sartla-saliverilmeye-dava-ve-cezalarin-ertelenmesine-dair-kanun",
+ :document/sha256
+ "e89aa39e47fe5de6f05d3997387ec3ad61ad5e6cffbf8e1dedde4769de39e36d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4616.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:40.399-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4616/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 40",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "96ea3d82001f3d565c6cdc74b0f82f988bcfa4a903bee6017416b9c498422328"}
+  {:article/id "law/4616/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a3a7541289b892b2ca7daf7fef6ada1526dc6a5f12881cdae37c659aeca0a4d8"}
+  {:article/id "law/4616/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Bu Kanun yayımı tarihinde yürürlüğe girer.",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c54aa4bde8d8b85fbd58b9fe98164ff82f2a8fabc52c293d4014dc51c2b7a9d1"}
+  {:article/id "law/4616/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Bu Kanun hükümlerini Bakanlar Kurulu yürütür.",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5801c950b95b8fe896d202808a04671b5831672660f8669bf24311c08504108e"}]}

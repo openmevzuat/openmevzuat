@@ -1,0 +1,158 @@
+{:document/id "law/4691",
+ :document/type :law,
+ :document/number "4691",
+ :document/title "TEKNOLOJİ GELİŞTİRME BÖLGELERİ KANUNU",
+ :document/slug "4691-teknoloji-gelistirme-bolgeleri-kanunu",
+ :document/path
+ "data/canonical/laws/4691-teknoloji-gelistirme-bolgeleri-kanunu",
+ :document/sha256
+ "6adbe6e1b8b0137bcf3620fbd0e81d2abcdbdad1c98e46d2a65ca5771adc9472",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4691.pdf",
+ :source/fetched-at #inst "2026-07-16T02:32:39.920-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4691/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3f1fe305ca6329955f9f5602ef3d38d048f9321aef92a977656795cdc32fee2b"}
+  {:article/id "law/4691/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3893637d85f51033f72824df2d5417be7a8c34c69ff08f11b6ac5736268930f8"}
+  {:article/id "law/4691/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d143fa9a79f752e53fa7bc5e26d0a24c7e87dd1e81ead8bb1ef133bb0423e2c2"}
+  {:article/id "law/4691/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d50c23870aba0bca698a7d06ea2e002f94cb0247f2982e47ece03a6a14f9b8f4"}
+  {:article/id "law/4691/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetici şirket5",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f00d97ab6f686d4faa3aaf3de431de68337327de3c4b93477a528a34a6575794"}
+  {:article/id "law/4691/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "fca51d787aae6ba3c9ace9c6e424f993f437712c620bad33d32df78af9dd42d4"}
+  {:article/id "law/4691/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Personel",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "f301f8b5fe4db5df7a3e1fe38b1342f0b53e3a6446723c01b60370bb2cbf3c4f"}
+  {:article/id "law/4691/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c20aa67b75dfd6a907832e95ababf999e9d6903f23bcc63af301e3948950af0d"}
+  {:article/id "law/4691/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "2b51ddaad9e7381d591364486ceafacd3ba15a55b5f38f02daee13727ee72a42"}
+  {:article/id "law/4691/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Uygulanmayacak hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "26f32a65b101f41c61f92be2141cda54fe7eb96373578d9e8e50fdf4e2685ef8"}
+  {:article/id "law/4691/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "6c56c0d7abdd231a539b33dbf480a77784036357ec554c2f9e17eb0325423734"}
+  {:article/id "law/4691/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "629b93dce8b0a5c7b3ec2c32299b9d4d0aa891a77811261f0f9f5a3efdd013c7"}
+  {:article/id "law/4691/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "2cf4a430158b88c274d5d2fd31fab9e804f00354ee070ee5230b15e0bbd93708"}
+  {:article/id "law/4691/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçici hükümler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "437862aa6c9353ba182a87d0723484e4aee5a4bd79a69f17b89f481b154c8e31"}
+  {:article/id "law/4691/article/215",
+   :article/type :temporary,
+   :article/no "215",
+   :article/title nil,
+   :article/path "articles/gecici-madde-215.md",
+   :article/sha256
+   "d72e4aedeb1b570c99b1f478c55b6a93622544bcbd92a98eabe5d455b443f016"}
+  {:article/id "law/4691/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "38f1a3b415978452ee800a8c35c41204411ed8de3eea7e892dd2a256589b3e6a"}
+  {:article/id "law/4691/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "940e20d32d8c433baf7467ebfb3c5aeb33bf7b9d7878c78bb437906f4ca686bc"}
+  {:article/id "law/4691/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "402c13dc01915a4bb28057fa9f6e618609900217e02b75147ef5db0a30732c11"}
+  {:article/id "law/4691/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "55d17500acdb7911867a72da2c630f05345cd0ba5f3837d876895c56c0dc464e"}
+  {:article/id "law/4691/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0c09ba99969e200ecd855f1f60d4b9438d8ac3ee64801b0413120bbac20aac6d"}]}

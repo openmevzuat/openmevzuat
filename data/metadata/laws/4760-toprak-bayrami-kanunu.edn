@@ -1,0 +1,39 @@
+{:document/id "law/t3-4760",
+ :document/type :law,
+ :document/number "4760",
+ :document/title "TOPRAK BAYRAMI KANUNU",
+ :document/slug "4760-toprak-bayrami-kanunu",
+ :document/path "data/canonical/laws/4760-toprak-bayrami-kanunu",
+ :document/sha256
+ "46b89f02f81f9986eae29bd7f94507d11e2fc39f5879087cbfd47ded7a87162e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.4760.pdf",
+ :source/fetched-at #inst "2026-07-16T02:33:42.960-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t3-4760/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 3 Cilt : 26 Sayfa : 1198",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d9c530cb2191c2d2895b964a7a144934e67de6d30359394cf7ba3feaa902bf4f"}
+  {:article/id "law/t3-4760/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e9e05bfea848b6226c3aa17dee41058388eb1c7872f532bfa594f2f0dbe6337d"}
+  {:article/id "law/t3-4760/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ccc6aa89a6a0c626cb0e66935ac71131d71f090f8a48a85146ccf2d8caa2367d"}]}

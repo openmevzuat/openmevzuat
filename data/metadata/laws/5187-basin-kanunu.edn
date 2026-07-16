@@ -1,0 +1,328 @@
+{:document/id "law/5187",
+ :document/type :law,
+ :document/number "5187",
+ :document/title "BASIN KANUNU",
+ :document/slug "5187-basin-kanunu",
+ :document/path "data/canonical/laws/5187-basin-kanunu",
+ :document/sha256
+ "4c6c38034f5e981402fff12887ea4e78e0f984df478bb17ca1a72c3ce91c26c6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5187.pdf",
+ :source/fetched-at #inst "2026-07-16T02:36:21.181-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5187/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d76afb959f9ae9883e059c5067f8dd32a21f29817907a29a7e27f481a476204f"}
+  {:article/id "law/5187/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "215a3c139cb23622b651182fdce5d14baf9f541b7f6b45ff4e37bd132b8808c4"}
+  {:article/id "law/5187/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Basın özgürlüğü",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6a4eaac9d612321b152426d89555b6431d104fe0cd48bda2391edd31c9770ec8"}
+  {:article/id "law/5187/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Zorunlu bilgiler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "593733dcd5d697a6c7c20a2dc9b5e42b6e0baad57abb981a94a809f11adcdcbe"}
+  {:article/id "law/5187/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sorumlu müdür",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "48aefe925a5fb1a30317c67744a3f17b498ed5fa3040b44f232baf2a1f7c4a5c"}
+  {:article/id "law/5187/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Süreli yayın sahibi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4e54ace729d5686c54fea2e9e6b211a56b05fcc56fbd436b62ca444a49c7859b"}
+  {:article/id "law/5187/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Beyanname verilmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2e93cfe17815f25f1d227e8da190bcb98e11b698569546dda721868b313684d7"}
+  {:article/id "law/5187/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Beyannamenin incelenmesi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b9f71175e726efc82edb148520b28ac69b4fe5e87664b17c70de4aefbe9d11b2"}
+  {:article/id "law/5187/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Süreli yayın sahibinin hakkını kaybetmesi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "13e87192083140c674396bb43f665914517aae5a2bec42b0b5d03cf792e0f81f"}
+  {:article/id "law/5187/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Teslim ve muhafaza yükümlülüğü (Değişik başlık:13/10/2022-7418/6 md.)",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "4b4f709d85a20f1dfd880ad8625139ac31b05779da0b18e5a4e5ca9f09f7f707"}
+  {:article/id "law/5187/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Cezai sorumluluk",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "9dd6c5a4d24fa2cf88584ad50ec38c90af788ef364aefe73ce134ca2332924e4"}
+  {:article/id "law/5187/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Haber kaynağı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "f0b896e57687d68b781cdf4450964310f0980ddbcff42ff403ed794deda2e03c"}
+  {:article/id "law/5187/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Hukukî sorumluluk",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "57bd2403552a9308e482db487be7d8f86eb3d63df80e7fe179fb7ed359652a10"}
+  {:article/id "law/5187/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Düzeltme ve cevap",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "91cd86016949111c87320fdb4f9510564deb9bf45354b5decb3756e336760067"}
+  {:article/id "law/5187/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Zorunlu bilgileri göstermeme",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "b6bcb894a46319d60409fbb6589d97d532c614b2422edaf66232dfd49792bda3"}
+  {:article/id "law/5187/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "59ccc2eae7a2ad6c3687d5f0336a736c6bf7ec86faf168587108cec1423a5d95"}
+  {:article/id "law/5187/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title
+   "Teslim ve muhafaza yükümlülüğüne uymama (Değişik başlık:13/10/2022-7418/8 md.)",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "6bac269527b816981a8a33827b1b8bd5063f48bb0271b6754db8ee411fb3676b"}
+  {:article/id "law/5187/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "3863c32545786aaa035e1f1001814f700617fec635bc9a4bbe59cf8b58ea608d"}
+  {:article/id "law/5187/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "e37eb0dd2eb18bd1683e041df41db32f870103badc30fae8f81abe5190ab5683"}
+  {:article/id "law/5187/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Cinsel saldırı, cinayet ve intihara özendirme 9",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "e029e9a59671bb3b4b7075cc03f792fba14f994c7d88ce272c8cb3ffb8ee42c5"}
+  {:article/id "law/5187/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Kimliğin açıklanmaması10",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "815db5035f658130dcdac64bcba2b416af605066f1ee12719aaf1179288d4d2e"}
+  {:article/id "law/5187/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Basılmış eserleri engelleme, tahrip ve bozma",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "c81bb930f8d6ad4fe23cd2a2b92c8e5f5e859a4318a2a22ac69fbf0cd70bafd2"}
+  {:article/id "law/5187/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Süreli yayınların dağıtımı",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "329d46c16f1b4380c8bd4ac4bdd2172e77bdbcb943740b4c89525f7dca8b982f"}
+  {:article/id "law/5187/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yeniden yayım",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "58db4b8613a8003ff96177b030ce5e94447dfacc6e216b5bd2342856ba564dbf"}
+  {:article/id "law/5187/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "El koyma, dağıtım ve satış yasağı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "fdc42c676acb9603260165022fd3fb66f42c2b2ae9e93163df004fcf723ace97"}
+  {:article/id "law/5187/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Dava süreleri11 12",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "6e4942279ec1b9678a45903d68bfde5a90a933a2e6d2976a6e6c2db8915e9940"}
+  {:article/id "law/5187/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Görevli mahkemeler ve yargılama usulü 13",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "bc4b57ca8a8e4b74661d2993cce38f72e03679fd2d9697fdc648084bce864482"}
+  {:article/id "law/5187/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Hürriyeti bağlayıcı cezaya çevirme yasağı",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "a9f93468ebd594001c72ad20e9d305be648d6079a74b8503d79771888655220c"}
+  {:article/id "law/5187/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Tebligat",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "189e7ea891b1f37a4f2ea4ddfad8850253abd9b50da73baf038cbafc27ee3040"}
+  {:article/id "law/5187/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "3c72f7fff8b67df440dc3c5d3f7a906ff46a008818b8955be6add93b73ad3867"}
+  {:article/id "law/5187/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Basın kartı başvurusu, niteliği ve türleri",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "8080f07ca959eaf9f69af4c78fcc38d7168bd447b84f019954becbb1616fa3e2"}
+  {:article/id "law/5187/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Basın kartı alabilecek kişiler",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "11ed5df3ac8003a9a5e23ebb2eacd1916300044c6bdd1ef82f681990a6668de6"}
+  {:article/id "law/5187/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Basın kartı alabilecek kişilerde aranan şartlar",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "b1754d8155efc8c6a4a637e8e7d64db303e5f2a08fc1899deadf879143ff5082"}
+  {:article/id "law/5187/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title
+   "Basın kartı alabilecek yabancı medya mensuplarında aranan şartlar",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "ad3d585f90116e1d4331aab9ef347477713a68954feb86fa67bef974a73446cb"}
+  {:article/id "law/5187/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Basın Kartı Komisyonu",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "16545f6782ada7395afd44c62f8ebe1408598d211a0c7de97699ca92d6dcf05e"}
+  {:article/id "law/5187/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title "Basın kartının iptal edileceği hâller",
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "82caa0ea094e1eab13874a37908cee49796915230dba4586ef5d963761d3d485"}
+  {:article/id "law/5187/article/7",
+   :article/type :additional,
+   :article/no "7",
+   :article/title "Basın kartının iptalinin sonuçları",
+   :article/path "articles/ek-madde-007.md",
+   :article/sha256
+   "8a299c15ef7d47165ea775729989515e62fde7affad064e77da1161a4d6f1636"}
+  {:article/id "law/5187/article/8",
+   :article/type :additional,
+   :article/no "8",
+   :article/title "Yönetmelik",
+   :article/path "articles/ek-madde-008.md",
+   :article/sha256
+   "f20a88bd06e86f7d925462d63fdd06a3dae4f17cf3ff538fd38c255c6513a532"}
+  {:article/id "law/5187/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7be43e32f10e012e45ef206c240da208369f1ca2d3310c28c2590952c12f76d0"}
+  {:article/id "law/5187/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "f636b1d5817d049641e78d763198224674c1e1b54d484e064997713caa6f045d"}
+  {:article/id "law/5187/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "f32888ad4285933b6595c2992946c56b7afb2c8cc737149a274f67db45720157"}
+  {:article/id "law/5187/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "6a6829f7651a800ea3133272b5a9ad2ce47bb9d8cde719f689def48c2adf7f0d"}
+  {:article/id "law/5187/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "71bcfce16a81dc0ec80adf50bf96cd099acfcc71c767a2d674067cd81bfe5b70"}
+  {:article/id "law/5187/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Yürütme",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "4e2df725e389c5b5d9e05c64140cb4ea8a48ced1209fb920ced8ddcfea8e298c"}]}

@@ -1,0 +1,41 @@
+{:document/id "law/5033",
+ :document/type :law,
+ :document/number "5033",
+ :document/title
+ "KARŞILIKSIZ ÇEK VE PROTESTOLU SENETLER İLE KREDİ VE KREDİ KARTLARI BORÇLARINA İLİŞKİN KAYITLARIN DİKKATE ALINMAMASI HAKKINDA KANUN",
+ :document/slug
+ "5033-karsiliksiz-cek-ve-protestolu-senetler-ile-kredi-ve-kredi-kartlari-borclarina-iliskin-kayitlarin-dikkate-alinmamasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/5033-karsiliksiz-cek-ve-protestolu-senetler-ile-kredi-ve-kredi-kartlari-borclarina-iliskin-kayitlarin-dikkate-alinmamasi-hakkinda-kanun",
+ :document/sha256
+ "cd0411481c01f569a97497ddba2387c5b78ae246b047638114dc2ab6f010c527",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5033.pdf",
+ :source/fetched-at #inst "2026-07-16T02:35:36.336-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/5033/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "734e84b57058258ac3e9d9901d9ec2b2420a03024edd972a075f7a618fe7fddb"}
+  {:article/id "law/5033/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/5033/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

@@ -1,0 +1,132 @@
+{:document/id "law/4586",
+ :document/type :law,
+ :document/number "4586",
+ :document/title
+ "PETROLÜN BORU HATLARI İLE TRANSİT GEÇİŞİNE DAİR KANUN",
+ :document/slug
+ "4586-petrolun-boru-hatlari-ile-transit-gecisine-dair-kanun",
+ :document/path
+ "data/canonical/laws/4586-petrolun-boru-hatlari-ile-transit-gecisine-dair-kanun",
+ :document/sha256
+ "21d7d577cfa4d8805740b94b86765bc8cdf1dc75d40a425b45075bcc9898561e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4586.pdf",
+ :source/fetched-at #inst "2026-07-16T02:31:34.098-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4586/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fd27596586c2537d87f50ef61b737e441dd690171d43a69e26434cb11d340fbb"}
+  {:article/id "law/4586/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2bbf76b540a61b11deeb37797e4852e45fd919fad05850605e4493cdee4cbcff"}
+  {:article/id "law/4586/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "91e864e37a76252904df5d3e23a57b5206445a5dc435fdd9096cc3d7c20ef669"}
+  {:article/id "law/4586/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yetki",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0d7ef756723dc2e74b8094814a9ae16da25cd372c6c394ce16f8c74be7222236"}
+  {:article/id "law/4586/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c737b13e3e35cda52ebda9f1df599a30889d8f162f0d5c3826b53e11d63a9c84"}
+  {:article/id "law/4586/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Güvenlik",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "acfe9b44ddc40cc259e080b4bcf3896c3a7c24c826431f3606b8bd2c30825470"}
+  {:article/id "law/4586/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Çevre",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e9d0f5c115a52116d75a6287d88a4b64203d578e7f978815951b12d93d73bbad"}
+  {:article/id "law/4586/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kamulaştırma ve tescil",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "658384e8bcc9f0c6f0efd8e658937954c1cc457a9a99e45406be98cdf8dc6427"}
+  {:article/id "law/4586/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "9feed27404f36a81648cfafa9fde8dce37a463feacd2f9b8f1993546da0393d9"}
+  {:article/id "law/4586/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Sigorta",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "097d2c9e1d7e74081fe990f70090a83e6142911023a05daf70ea6e76f5fed758"}
+  {:article/id "law/4586/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Vergi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "28b3c3e2890df9f49b1d5528f1d2ca578eabd13e6f45fe07e6e2e3a757f91628"}
+  {:article/id "law/4586/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0f4cf8242b69c67cec71d2c0f3997239c71da16b9d978439c5575819d1ccdfe5"}
+  {:article/id "law/4586/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "İhtilafların çözümü",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3b9ae2ce2fbe07f6161c9cce152758d3747e031a297663d0928841899803663d"}
+  {:article/id "law/4586/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Değiştirilen hüküm",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "f8870115ac6f29781ed2ed80ea4d16b11c6cee3b6404e409cd939f4097102623"}
+  {:article/id "law/4586/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "6385aa35c347b7b1e4ff2af7c368578a022e62d0be1ccc1200fd23285e923bd9"}
+  {:article/id "law/4586/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "27581068680df3445c091a1b1d64cd74fb5fcf63e62992516a0c5ea2cf1603d5"}]}

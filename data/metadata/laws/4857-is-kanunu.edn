@@ -1,0 +1,980 @@
+{:document/id "law/4857",
+ :document/type :law,
+ :document/number "4857",
+ :document/title "İŞ KANUNU",
+ :document/slug "4857-is-kanunu",
+ :document/path "data/canonical/laws/4857-is-kanunu",
+ :document/sha256
+ "ea2a07a52f1e81a423eedbe1bbf45be3d67ee26023b9f0571f259da51931651f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4857.pdf",
+ :source/fetched-at #inst "2026-07-16T02:34:24.911-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4857/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "682ad68dbc43c20d09e187626850c2ebedc876c49a06ae8e607e0f02453a4168"}
+  {:article/id "law/4857/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d1834e97bfe6edb9b9223ac77670ca6317e5a228668bad356b9e374f38e5ec16"}
+  {:article/id "law/4857/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İşyerini bildirme",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "782b678dfd7fb944f34927d16f68493e5079fdc6b5649d1b7d2ec60b90c38341"}
+  {:article/id "law/4857/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "İstisnalar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "12eede244123c058a69b26f1c551287d245d32f620a1e989f07b38d44f706833"}
+  {:article/id "law/4857/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Eşit davranma ilkesi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "73b49a98cd9555ffce991439a3d924a5bdc6354c59b57287b1dfdd76fab2af42"}
+  {:article/id "law/4857/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İşyerinin veya bir bölümünün devri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "d80c97a770606cc4131bbe3e08ee9a6c57df075f5ebcc7bc49c39a68a52bd2eb"}
+  {:article/id "law/4857/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Geçici iş ilişkisi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0b7ada2433654313606a633e9f8b9cd515dd672fde338591bbf44efaf1b06351"}
+  {:article/id "law/4857/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "5395af7817b8dfaec3bf7f1533b5ad9cdec7d085c8df24160c63caf25a5a15f7"}
+  {:article/id "law/4857/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Türü ve çalışma biçimlerini belirleme serbestisi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "0590ccbe8346df603f52e950d9fd60c6efa87181a8a06dd1fda2e2d341ec5810"}
+  {:article/id "law/4857/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Sürekli ve süreksiz işlerdeki iş sözleşmeleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "ea44b5f6b02f4bc0fdcc4d0f9f6decf0d85a5f5b765c7d2822d14433b812ecce"}
+  {:article/id "law/4857/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Belirli ve belirsiz süreli iş sözleşmesi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "52cb99dcd64411ccd9e2fcabe1e6be962d96160ac3725bbffa6c18b687482fc3"}
+  {:article/id "law/4857/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Belirli ve belirsiz süreli iş sözleşmesi ayırımın sınırları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "eb2a295c05bbbebe310a235bed53c1e687ce502d84aa00e0cbf402c8b1ebbd96"}
+  {:article/id "law/4857/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Kısmî süreli ve tam süreli iş sözleşmesi",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "97f27aa21a6ad23d72be084fdf5bfb8f48108dd44b93a1c7774c5dc4dc602da0"}
+  {:article/id "law/4857/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Çağrı üzerine çalışma ve uzaktan çalışma5",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7144059a56bf32e8ca8bc5d780bacb76fbf2194d3bccaab4f4e7b4713238eb1c"}
+  {:article/id "law/4857/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Deneme süreli iş sözleşmesi",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "c2f388d713d05e861865cbf72d05ffe779a1f09bc282b5346f3068458e27ef0a"}
+  {:article/id "law/4857/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Takım sözleşmesi ile oluşturulan iş sözleşmeleri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e8888e1231e5fe0e27d11b65a249c857c6c2f56b059d40c287ba0df8c9018d29"}
+  {:article/id "law/4857/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Süreli fesih",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "372843c8e940195a2556c3b0516081c8f15fc5480479f4f3a6eb7990d6ea9c51"}
+  {:article/id "law/4857/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Feshin geçerli sebebe dayandırılması",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "26252e1422b0594bc1de64fde94e6825917ad858a9088ae5b83742b237fd4c45"}
+  {:article/id "law/4857/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Sözleşmenin feshinde usul",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "e88bca270552791efef4aa700621dd76598cd6222c485639a1a5c3e9a915f43e"}
+  {:article/id "law/4857/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Fesih bildirimine itiraz ve usulü",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "248645b378e1f9a792a6f9bdf3a8d4ebfdc2432a6ac99db21ff0abf6b5a5d584"}
+  {:article/id "law/4857/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Geçersiz sebeple yapılan feshin sonuçları",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "7629cc00b58db8a52b9e56d14841da556e94ec059f75953c7bc62460e79a01b2"}
+  {:article/id "law/4857/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title
+   "Çalışma koşullarında değişiklik ve iş sözleşmesinin feshi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "911224b741cb87208c025617bd370a6b6f35428ac1c9e64e984ae0f0ab7c84fc"}
+  {:article/id "law/4857/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yeni işverenin sorumluluğu",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "b3846e3df7cfae71d57aac9ccb9e54c000a0580df8be2093cb569dc123b52cbf"}
+  {:article/id "law/4857/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "İşçinin haklı nedenle derhal fesih hakkı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "b14321a5faa8e4119d82c039551da871982f6ad5f7ba3f977236d7f20993dca1"}
+  {:article/id "law/4857/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "İşverenin haklı nedenle derhal fesih hakkı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "8db3d21087c9e1038a037e28d6a51951545515dcdd1d5662a36973b1e568fe4e"}
+  {:article/id "law/4857/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Derhal fesih hakkını kullanma süresi",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "f590578e1fb5de97266263af43d945e9be857986c06c504aa0637c469c7ed2c4"}
+  {:article/id "law/4857/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Yeni iş arama izni",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "51968fdae778a6e25e925517806244caa36fffc8bd54df79c2676a2232472df4"}
+  {:article/id "law/4857/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Çalışma belgesi",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "73816ceaebaf9b6e5fde90f6e0108053529d00e26976240df7288939328e09e0"}
+  {:article/id "law/4857/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Toplu işçi çıkarma",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "523f2895c659bb78ca68c87b152ab0046751cd16468f1bc85ee0c838b2536e0b"}
+  {:article/id "law/4857/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Engelli ve eski hükümlü çalıştırma zorunluluğu910",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "a039df2adad8789de12c8660e46c88262cdfe98f2ce53be2bd3465a35c1e4716"}
+  {:article/id "law/4857/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Askerlik ve kanundan doğan çalışma",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "a07ac4a3c00bcbd70a1813e26d941abbbe3b384c21b9a607ca93936be5b8df8f"}
+  {:article/id "law/4857/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "8fcc68fdee9b30dd1341492bf02e81c22379d2589bf39304e2fd457e385701c2"}
+  {:article/id "law/4857/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "İşverenin ödeme aczine düşmesi",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "f1c5c6afe882e866226535435bcc012b33f6916fd0c732f0021ec6dea1eac043"}
+  {:article/id "law/4857/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Ücretin gününde ödenmemesi",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "1cd62ab2efc1cbd33a8ff72541fe1e547a6fbe40f291e06550f8326eca393e93"}
+  {:article/id "law/4857/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Ücretin saklı kısmı",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "f79a45396479ce4056f581be819d711e03da47a7ab34050dc79fe94276b81127"}
+  {:article/id "law/4857/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title
+   "Kamu makamlarının ve asıl işverenlerin hakedişlerinden ücreti kesme yükümlülüğü",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "d6e69c9710d8e77488e4715fdd44db2e827044cdfa086f87f41b8cd560fe2165"}
+  {:article/id "law/4857/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Ücret hesap pusulası",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "1045bf141781929bf5bb73aa5952fca4acd50f8523e578e1d6fe581e6d9e5202"}
+  {:article/id "law/4857/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Ücret kesme cezası",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "152368cd19681c2a1b61e8cf3e6f0a402d31167a267c0f5a85ac3fecd9872842"}
+  {:article/id "law/4857/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Asgari ücret",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "626b37f80894fccea13b8596925cf95b6778dedd5dce68bb11ef899d3100c22d"}
+  {:article/id "law/4857/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yarım ücret",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "a8a5a28132cdd6c669a3ce3205d8e6ae909857be0c6bc6c9d7915e36fa50eca8"}
+  {:article/id "law/4857/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Fazla çalışma ücreti",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "d9d3eeb051760ce7b5e8c1fc7ff7652d4570ceceb0c1ff86e1ab6b07673f14d7"}
+  {:article/id "law/4857/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Zorunlu nedenlerle fazla çalışma",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "f873ca06e17a7148c75a1caf47616a65ed4d0940677f40cbcd206933a8db3a37"}
+  {:article/id "law/4857/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Olağanüstü hallerde fazla çalışma",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "eeb48496acfef962bf7e6e82a4fa71ebd4335f243b28494b0f4982107348579a"}
+  {:article/id "law/4857/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Ulusal bayram ve genel tatil günlerinde çalışma",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "d1208550ca950947ae91f6d9b13d2ec8c147970c89330af77a8dd8dbbd86fb4f"}
+  {:article/id "law/4857/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Saklı haklar",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "94841a81fb55ef110a4e517079cd763a7c444e0b1286c4a537e6671979a130f6"}
+  {:article/id "law/4857/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Hafta tatili ücreti",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "5b8348daec473ddfdc3fbf950f8d5dc4b6ba13b66bab1e97871294d7346eeebb"}
+  {:article/id "law/4857/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Genel tatil ücreti",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "95edd0a74e47cece26708550f3c521a7fe1366778ffc5b5ed97f5baae2060cab"}
+  {:article/id "law/4857/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Geçici iş göremezlik",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "51c36cca16ee54a157a65d4e44bc3893a82c82290a3dba37ee5c1cd032b6a80c"}
+  {:article/id "law/4857/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Ücret şekillerine göre tatil ücreti",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "975717bbb01b96e32482bec66695ce51d7921f497529b379d25aef15a73156b2"}
+  {:article/id "law/4857/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Tatil ücretine girmeyen kısımlar",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "81c048264423873a1eeab2c27892691624a4ba8eb1e427da58f14a7fce5696e2"}
+  {:article/id "law/4857/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Yüzdelerin ödenmesi",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "8ee4a1d0e1ac2ae7bb76ec96502dd91b6c03df1653fe2999e152f0153fb873c4"}
+  {:article/id "law/4857/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Yüzdelerin belgelenmesi",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "9ce0ecc5dbe7bc7c2bd20adff56cfc86e3fc35f578a89515ab496aaba344aa2c"}
+  {:article/id "law/4857/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Yıllık ücretli izin hakkı ve izin süreleri",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "78fe6015b6ce64f93d52246a7fb441adadc0236873f3df655d4a123b16498d9d"}
+  {:article/id "law/4857/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title
+   "Yıllık ücretli izne hak kazanma ve izni kullanma dönemi",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "9571ec746a41be411031749708d641c1b67243807c791e3ace9a7022b7da0179"}
+  {:article/id "law/4857/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title nil,
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "ea121623f27c395ad7228d7eabf974bf4f8a7ce0ff3cfb6177bc9748305c9c7d"}
+  {:article/id "law/4857/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Yıllık ücretli iznin uygulanması",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "23eb596fa6df9d3526bd9f26df8971fdcea4bbe60946fa065360decb62894e96"}
+  {:article/id "law/4857/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Yıllık izin ücreti",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "36ff2ae3de9080afcc5c06d5eef43c77e167c548bb1d9544ca530edf09f619e1"}
+  {:article/id "law/4857/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "İzinde çalışma yasağı",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "efa283f28c94cdd6d307f8760b1b62b3307cfb21e524ad50eeab21974286196e"}
+  {:article/id "law/4857/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Sözleşmenin sona ermesinde izin ücreti",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "05d771ba01c6957d7212f707d0ff450198471efbc2ef860e6a087021831a60bc"}
+  {:article/id "law/4857/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "İzinlere ilişkin düzenlemeler",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "96ddeb3ed8c7d72b97a17eb44b2cd8d51d83785d509e9a33dc3d4143d4499767"}
+  {:article/id "law/4857/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Sigorta primleri",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "32c676bca3c840d10b00d46dd3fe754357d69d113b6f37a5ea0090cf8b4da895"}
+  {:article/id "law/4857/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Ücretten indirim yapılamayacak haller",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "8d82266c4d3d570b4fc16b679dbeea8e8fe214aba2cbaa0ee5c208cdfcb9a854"}
+  {:article/id "law/4857/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title nil,
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "47ebda053529386d3cd607fed58243184ac4a557108c1de8d7b8092f9446a45a"}
+  {:article/id "law/4857/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title "Telafi çalışması",
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "df349865380bf510680c05b7f46d85e606d52b9623d019e3041211dac47fc8a7"}
+  {:article/id "law/4857/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title "Kısa çalışma ve kısa çalışma ödeneği",
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "1f83dd20afb31927cdba1f7d54627dbc12a167f357f48875618b3aaf26350591"}
+  {:article/id "law/4857/article/66",
+   :article/type :normal,
+   :article/no "66",
+   :article/title "Çalışma süresinden sayılan haller",
+   :article/path "articles/madde-066.md",
+   :article/sha256
+   "5babcc9eded1c594b7e8361e74ab928c594685a71b4e5deb1a709476293b6b75"}
+  {:article/id "law/4857/article/67",
+   :article/type :normal,
+   :article/no "67",
+   :article/title "Günlük çalışmanın başlama ve bitiş saatleri",
+   :article/path "articles/madde-067.md",
+   :article/sha256
+   "0331f66a23a3fe9220204ae67aa857913a790f60fee0a4a642e008e55172b573"}
+  {:article/id "law/4857/article/68",
+   :article/type :normal,
+   :article/no "68",
+   :article/title "Ara dinlenmesi",
+   :article/path "articles/madde-068.md",
+   :article/sha256
+   "a8eb8abc04ca4977da7107e448625491aa767fe5cf3e24a36a314f4603a7e72d"}
+  {:article/id "law/4857/article/69",
+   :article/type :normal,
+   :article/no "69",
+   :article/title "Gece süresi ve gece çalışmaları",
+   :article/path "articles/madde-069.md",
+   :article/sha256
+   "35fe367aabd776fde4400416161d70bf05b5461bfe10dbc2b082ad4e9c6f93f3"}
+  {:article/id "law/4857/article/70",
+   :article/type :normal,
+   :article/no "70",
+   :article/title "Hazırlama, tamamlama ve temizleme işleri",
+   :article/path "articles/madde-070.md",
+   :article/sha256
+   "30fbb75323b4f27fe76a013fca10a0185ecdc7bd6d46dc698520dd510eb5b427"}
+  {:article/id "law/4857/article/71",
+   :article/type :normal,
+   :article/no "71",
+   :article/title "Çalıştırma yaşı ve çocukları çalıştırma yasağı",
+   :article/path "articles/madde-071.md",
+   :article/sha256
+   "a5590d5a4ae899833f582fb5a81f521d9c666b6a61516669f8766596ae90cdfd"}
+  {:article/id "law/4857/article/72",
+   :article/type :normal,
+   :article/no "72",
+   :article/title nil,
+   :article/path "articles/madde-072.md",
+   :article/sha256
+   "c4ea71245eb9c269b369a102b35e185173b5b5a03e7b75691c459004d566f3f7"}
+  {:article/id "law/4857/article/73",
+   :article/type :normal,
+   :article/no "73",
+   :article/title "Gece çalıştırma yasağı",
+   :article/path "articles/madde-073.md",
+   :article/sha256
+   "7b17c07832969d916b04863e5da1c422e2a09c7948b73bed1bf8c4d43e3f6639"}
+  {:article/id "law/4857/article/74",
+   :article/type :normal,
+   :article/no "74",
+   :article/title "Analık halinde çalışma ve süt izni",
+   :article/path "articles/madde-074.md",
+   :article/sha256
+   "36031cadd3710b348b9722623db2c3e4778a9eb7bced47b0c4b40eabc698a8ca"}
+  {:article/id "law/4857/article/75",
+   :article/type :normal,
+   :article/no "75",
+   :article/title "İşçi özlük dosyası",
+   :article/path "articles/madde-075.md",
+   :article/sha256
+   "052429306be76a46c266be45c75bfbbb50b8e1815e32877a230fcdca0a1dc336"}
+  {:article/id "law/4857/article/76",
+   :article/type :normal,
+   :article/no "76",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-076.md",
+   :article/sha256
+   "2b854754f972ae77d5aad4a8fb6c9ecfd64150c3e6df92b29aa717d5d1b4e0ba"}
+  {:article/id "law/4857/article/77",
+   :article/type :normal,
+   :article/no "77",
+   :article/title nil,
+   :article/path "articles/madde-077.md",
+   :article/sha256
+   "84a49e3b7273e684ce158770f8a4b3260a29374d647142e52ec571abd0d5c468"}
+  {:article/id "law/4857/article/78",
+   :article/type :normal,
+   :article/no "78",
+   :article/title "İş sağlığı ve güvenliği yönetmelikleri26",
+   :article/path "articles/madde-078.md",
+   :article/sha256
+   "033aa7b067ff98b01331e7227c7b813094b69933120eb2476a15d00aeaa9b2eb"}
+  {:article/id "law/4857/article/79",
+   :article/type :normal,
+   :article/no "79",
+   :article/title "İşin durdurulması veya işyerinin kapatılması",
+   :article/path "articles/madde-079.md",
+   :article/sha256
+   "4cbade4bd31f03c6d65a2ffed5d0b49d6d32a8254738d8ca2b7c1aee136ee216"}
+  {:article/id "law/4857/article/80",
+   :article/type :normal,
+   :article/no "80",
+   :article/title "İş sağlığı ve güvenliği kurulu",
+   :article/path "articles/madde-080.md",
+   :article/sha256
+   "ef1243a1490c32a05d7afc32a5f609c1ff028224a94a8d0f2796bc260712883f"}
+  {:article/id "law/4857/article/81",
+   :article/type :normal,
+   :article/no "81",
+   :article/title "İş sağlığı ve güvenliği hizmetleri27",
+   :article/path "articles/madde-081.md",
+   :article/sha256
+   "d5ef14e012f3b11b07b5023eade623bb77416e60aeac9f088f4787b9051a627e"}
+  {:article/id "law/4857/article/82",
+   :article/type :normal,
+   :article/no "82",
+   :article/title
+   "İş güvenliği ile görevli mühendis veya teknik elemanlar",
+   :article/path "articles/madde-082.md",
+   :article/sha256
+   "a57833056a2f246fc56121379aa0bd479e53b49edcade521557ff006d0ad43ac"}
+  {:article/id "law/4857/article/83",
+   :article/type :normal,
+   :article/no "83",
+   :article/title "İşçilerin hakları",
+   :article/path "articles/madde-083.md",
+   :article/sha256
+   "5f35cb043c10cf1a26ecb9e3a0a6d37ae4d38c9e6990a7261719749fd8644b05"}
+  {:article/id "law/4857/article/84",
+   :article/type :normal,
+   :article/no "84",
+   :article/title "İçki veya uyuşturucu madde kullanma yasağı",
+   :article/path "articles/madde-084.md",
+   :article/sha256
+   "c1a44fa90c2a513f713799a41df7db70781f48d609ed3db3dabb40f2223a9217"}
+  {:article/id "law/4857/article/85",
+   :article/type :normal,
+   :article/no "85",
+   :article/title "Ağır ve tehlikeli işler",
+   :article/path "articles/madde-085.md",
+   :article/sha256
+   "5ceaaa84efa1ca25ca44280f503f04865fb4aa711bec8b5d75c84695f11934b8"}
+  {:article/id "law/4857/article/86",
+   :article/type :normal,
+   :article/no "86",
+   :article/title "Ağır ve tehlikeli işlerde rapor",
+   :article/path "articles/madde-086.md",
+   :article/sha256
+   "505d71b4ab07862523c3984c12f776556086597ccf9f64580db96b76a6da61e7"}
+  {:article/id "law/4857/article/88",
+   :article/type :normal,
+   :article/no "88",
+   :article/title "Gebe veya çocuk emziren kadınlar için yönetmelik",
+   :article/path "articles/madde-088.md",
+   :article/sha256
+   "4388c4b1486b871b868c01c9227705c78e785fcdbf00f541e1f15c7c80dbe362"}
+  {:article/id "law/4857/article/89",
+   :article/type :normal,
+   :article/no "89",
+   :article/title "Çeşitli yönetmelikler",
+   :article/path "articles/madde-089.md",
+   :article/sha256
+   "fe2b345a8a43eea46aa6e353a8648d4252332059e66354b699450843bef4bea3"}
+  {:article/id "law/4857/article/90",
+   :article/type :normal,
+   :article/no "90",
+   :article/title nil,
+   :article/path "articles/madde-090.md",
+   :article/sha256
+   "02c44e659d95be15b6d78ba315cf7e470381ca055247129124f68b2cc233aad7"}
+  {:article/id "law/4857/article/91",
+   :article/type :normal,
+   :article/no "91",
+   :article/title nil,
+   :article/path "articles/madde-091.md",
+   :article/sha256
+   "fc287511c9c5e77481d47c1cf5f7fee323bb4881ba09a3b73993fa673feb9fee"}
+  {:article/id "law/4857/article/92",
+   :article/type :normal,
+   :article/no "92",
+   :article/title "Yetkili makam ve memurlar28",
+   :article/path "articles/madde-092.md",
+   :article/sha256
+   "bcb80d92f724991e2b562e50dd0c887af9e0eecd5686d97bb9c45f82b5ca5b75"}
+  {:article/id "law/4857/article/93",
+   :article/type :normal,
+   :article/no "93",
+   :article/title "Yetkili memurların ödevi",
+   :article/path "articles/madde-093.md",
+   :article/sha256
+   "31122feecee1782b490383cddac970b039d6ef3d87bf76e9f1934af69e323e58"}
+  {:article/id "law/4857/article/94",
+   :article/type :normal,
+   :article/no "94",
+   :article/title "Muafiyet",
+   :article/path "articles/madde-094.md",
+   :article/sha256
+   "d648434e55bdd77be849dba42cdb3cbecb4438bb155d3996d04d299df9dfc7f9"}
+  {:article/id "law/4857/article/95",
+   :article/type :normal,
+   :article/no "95",
+   :article/title "Diğer merciler tarafından yapılan teftişler",
+   :article/path "articles/madde-095.md",
+   :article/sha256
+   "28b47934daf029fedd3425ff5249a862ede73d9dd1f6f519ffdfc1d3869d18bd"}
+  {:article/id "law/4857/article/96",
+   :article/type :normal,
+   :article/no "96",
+   :article/title "İşçi ve işverenin sorumluluğu",
+   :article/path "articles/madde-096.md",
+   :article/sha256
+   "3a7b83367b760296584bb9265733aec7831a926ca9a4e38b8ea632d7b0388532"}
+  {:article/id "law/4857/article/97",
+   :article/type :normal,
+   :article/no "97",
+   :article/title "Zabıtanın yardımı",
+   :article/path "articles/madde-097.md",
+   :article/sha256
+   "8b37a9315bd91271a781265aa1b01ba182d1a8e2ba093547d40057c5eccd6c16"}
+  {:article/id "law/4857/article/98",
+   :article/type :normal,
+   :article/no "98",
+   :article/title nil,
+   :article/path "articles/madde-098.md",
+   :article/sha256
+   "c0e2c487d06c24a77cedeab9aed7a714f731fef21282ac3444002afcfa597927"}
+  {:article/id "law/4857/article/99",
+   :article/type :normal,
+   :article/no "99",
+   :article/title "Genel hükümlere aykırılık",
+   :article/path "articles/madde-099.md",
+   :article/sha256
+   "3f8a01e160d08bbb5b69afbfa1f51a29a48abdf6e7dcf188def2c5ceafcd1c2f"}
+  {:article/id "law/4857/article/100",
+   :article/type :normal,
+   :article/no "100",
+   :article/title "Toplu işçi çıkarma ile ilgili hükümlere aykırılık",
+   :article/path "articles/madde-100.md",
+   :article/sha256
+   "3831ed742357c0787b51bd9f2ab70ecdb895ae0ac334e81d335684bfceffe6f5"}
+  {:article/id "law/4857/article/101",
+   :article/type :normal,
+   :article/no "101",
+   :article/title
+   "Engelli ve eski hükümlü çalıştırma zorunluluğuna aykırılık32",
+   :article/path "articles/madde-101.md",
+   :article/sha256
+   "51f249a86fa1fd90cf271f418e633f4b6f6030c31fa6ae30a790ffd667f23787"}
+  {:article/id "law/4857/article/102",
+   :article/type :normal,
+   :article/no "102",
+   :article/title nil,
+   :article/path "articles/madde-102.md",
+   :article/sha256
+   "196ca937fd452409a4caa70e024b972bc27ac95ee725442b60caa7ac58c5f18e"}
+  {:article/id "law/4857/article/103",
+   :article/type :normal,
+   :article/no "103",
+   :article/title "Yıllık ücretli izin hükümlerine aykırılık",
+   :article/path "articles/madde-103.md",
+   :article/sha256
+   "5455a2c249d8191ef0562583d5ae1205ab8120c4fafc2e0d27a2ca2843d38a54"}
+  {:article/id "law/4857/article/104",
+   :article/type :normal,
+   :article/no "104",
+   :article/title nil,
+   :article/path "articles/madde-104.md",
+   :article/sha256
+   "66f32664a165db72753a2931040e9ae2360fc5894dee9a1c15c0236f4b528854"}
+  {:article/id "law/4857/article/105",
+   :article/type :normal,
+   :article/no "105",
+   :article/title
+   "İş sağlığı ve güvenliği ile ilgili hükümlere aykırılık",
+   :article/path "articles/madde-105.md",
+   :article/sha256
+   "a2207c36c635c3e533c611367cd3e17831a8b06865efb50174b4d4ed9b7efc82"}
+  {:article/id "law/4857/article/106",
+   :article/type :normal,
+   :article/no "106",
+   :article/title "İş ve işçi bulma hükümlerine aykırılık",
+   :article/path "articles/madde-106.md",
+   :article/sha256
+   "07d009eee44042f0b7104e71ea3c9638beca6306c74bbd62096136e854a0de58"}
+  {:article/id "law/4857/article/107",
+   :article/type :normal,
+   :article/no "107",
+   :article/title
+   "İş hayatının denetim ve teftişi ile ilgili hükümlere aykırılık",
+   :article/path "articles/madde-107.md",
+   :article/sha256
+   "c493d77f9e4079cb68747f47a426a134bf0c9d526e725781475e74cf4d43c274"}
+  {:article/id "law/4857/article/108",
+   :article/type :normal,
+   :article/no "108",
+   :article/title
+   "İdari para cezalarının uygulanmasına ilişkin hususlar",
+   :article/path "articles/madde-108.md",
+   :article/sha256
+   "ab99ceea1167975ba8d502673c72e1b7066c00bb977fe1f328b0ff1cfbe2eb91"}
+  {:article/id "law/4857/article/109",
+   :article/type :normal,
+   :article/no "109",
+   :article/title nil,
+   :article/path "articles/madde-109.md",
+   :article/sha256
+   "b72957915942bbd8d5d26e32521ced830f6b4dd8d63045cdd92d31cb467a0a01"}
+  {:article/id "law/4857/article/110",
+   :article/type :normal,
+   :article/no "110",
+   :article/title "Konut kapıcılarının özel çalışma koşulları",
+   :article/path "articles/madde-110.md",
+   :article/sha256
+   "0011fbbf0135baa501cab26aa0ae9ac074f7ddb8eb986ba730c6df4fbcc24174"}
+  {:article/id "law/4857/article/111",
+   :article/type :normal,
+   :article/no "111",
+   :article/title "Sanayi, ticaret, tarım ve orman işleri",
+   :article/path "articles/madde-111.md",
+   :article/sha256
+   "461ba8b80fd124fec7d3d72d030cceea3fc3af50f8bf31d48328046edb328843"}
+  {:article/id "law/4857/article/112",
+   :article/type :normal,
+   :article/no "112",
+   :article/title
+   "Bazı kamu kurum ve kuruluşlarında çalışanların kıdem tazminatı",
+   :article/path "articles/madde-112.md",
+   :article/sha256
+   "ed57e030ce9531b80ebdf33096f2fe53ecd811886b8c5f735b3a2483073c2ac7"}
+  {:article/id "law/4857/article/113",
+   :article/type :normal,
+   :article/no "113",
+   :article/title "Bazı işlerde çalışanların ücretlerinin güvencesi",
+   :article/path "articles/madde-113.md",
+   :article/sha256
+   "47faa111a699ef2c9335b3d0ef6e706355a006cda004f06231ae0c95d10bd50f"}
+  {:article/id "law/4857/article/114",
+   :article/type :normal,
+   :article/no "114",
+   :article/title "Üçlü Danışma Kurulu",
+   :article/path "articles/madde-114.md",
+   :article/sha256
+   "c7bfc93aeb606ed1cbcf1b905e67b17d921b773270040275b84efcd5352082b1"}
+  {:article/id "law/4857/article/115",
+   :article/type :normal,
+   :article/no "115",
+   :article/title "Kantin açılması",
+   :article/path "articles/madde-115.md",
+   :article/sha256
+   "5caade84208d078380b2d6a2ec53ab84bb6ee854a903694ed11074a923a3a324"}
+  {:article/id "law/4857/article/116",
+   :article/type :normal,
+   :article/no "116",
+   :article/title nil,
+   :article/path "articles/madde-116.md",
+   :article/sha256
+   "14339e413db46986a370b31f78db1bf91e569c248b6a003d6e932b7624eaa786"}
+  {:article/id "law/4857/article/117",
+   :article/type :normal,
+   :article/no "117",
+   :article/title nil,
+   :article/path "articles/madde-117.md",
+   :article/sha256
+   "8ef12043aadc5759abc251b465701b9f052d246e4eb05a631b90c0dd6dc92c03"}
+  {:article/id "law/4857/article/118",
+   :article/type :normal,
+   :article/no "118",
+   :article/title nil,
+   :article/path "articles/madde-118.md",
+   :article/sha256
+   "62fe012c9269bfb58e72d73a5ac4c47c813a9249aa420d99bfd9a20cf858f27e"}
+  {:article/id "law/4857/article/119",
+   :article/type :normal,
+   :article/no "119",
+   :article/title "Yönetmelikler",
+   :article/path "articles/madde-119.md",
+   :article/sha256
+   "d6cbf83baea5ebae4d75d8aad4aafe2aa8d4544cf18acfa147307555b0e8a616"}
+  {:article/id "law/4857/article/120",
+   :article/type :normal,
+   :article/no "120",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-120.md",
+   :article/sha256
+   "1e0d0652ff11e0c915a15313dfa5f274083a453e5d03cd85b6beba48df94e633"}
+  {:article/id "law/4857/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Korumalı işyerlerinde çalışan engellilerin ücretleri",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "81dc33d7ea2b2389eff02b9c77f3145968fd67bc3bd5f57da84d261ff5d0fdec"}
+  {:article/id "law/4857/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Mazeret izni",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "c0640be33a9dd21d8b0e9896b005cdfc06f0d6689234f061c71043a422833623"}
+  {:article/id "law/4857/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title "Zamanaşımı süresi",
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "ff3158a3c696b5d3d9b0850bd8a86b64472e4ef7d3a319e80d57404d92239c88"}
+  {:article/id "law/4857/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "12d2cbeafb7bef0db47ee7628c190c6bd6fab40558ffc04525e50146b0c3ee6d"}
+  {:article/id "law/4857/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "3b6e5be88da1a082bfd1c5e21f818e7b28c10c3643ab2aef1bfe284237513407"}
+  {:article/id "law/4857/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "e803e4187bd0b052d559f7feacc345bb51860b105f1d428ca5bc313901e7ba66"}
+  {:article/id "law/4857/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "740e2b945f5b5630a501da011deaa4f3cd7c56dbd2dd0a3110479edab76fa31c"}
+  {:article/id "law/4857/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "3a63104fc916ac9d92f79f7c85e9a795b185e7b00fb446e1fb291fbadb2f19a3"}
+  {:article/id "law/4857/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "84614d16bf20556cf9cac47e0c24ebeb2c58f1fd7a8360f4120301053f93fe8e"}
+  {:article/id "law/4857/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "67fc39a0b140d462fda5c03c04b9a293939cd96eed29f660b2d5a2a2f1399885"}
+  {:article/id "law/4857/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "f6785ba9108f725ba61ebd054d7b44c3bac6f501638a9d2c2447457fa0bb003f"}
+  {:article/id "law/4857/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "978c033857894b74a9205bc2a1957c8c8b409076fd8da5e43c044424e5b6ee61"}
+  {:article/id "law/4857/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "3d2ac169335a26d69c363e07bd93437fc8d5f92f4f81384d2979ca802e8c7281"}
+  {:article/id "law/4857/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "f26cca184117e1ecf3d3c3358adbe56aa1cd247f9f004585575995d3aec7b5fd"}
+  {:article/id "law/4857/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "6128ce2c4970b5c2d204ab64c79a894b3c98eb19d96f6edbea6da660ea581084"}
+  {:article/id "law/4857/article/121",
+   :article/type :normal,
+   :article/no "121",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-121.md",
+   :article/sha256
+   "1e19a43fe43713e044f2dac94fa5161bcebcf8e9031d7bbb58a2f007238cb5ec"}
+  {:article/id "law/4857/article/122",
+   :article/type :normal,
+   :article/no "122",
+   :article/title "Yürütme",
+   :article/path "articles/madde-122.md",
+   :article/sha256
+   "902624e70219df83035a2ea54eb327d2b9ed4cc8ea4fd9aa7b13a7325be1dea4"}]}
