@@ -1,0 +1,447 @@
+{:document/id "law/3308",
+ :document/type :law,
+ :document/number "3308",
+ :document/title "MESLEKİ EĞİTİM KANUNU",
+ :document/slug "3308-mesleki-egitim-kanunu",
+ :document/path "data/canonical/laws/3308-mesleki-egitim-kanunu",
+ :document/sha256
+ "019d39499823409c2873c4a58d1ca95f4b3bf9fb242c81963c67e6f52d50be09",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3308.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:23.114-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3308/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8461b8e41f5c05122c1f20deb69bddb237867383839522277bdfa3185e08dc0a"}
+  {:article/id "law/3308/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "447559156018a48e1fbc657fd44b8e11954231969f5016f61099107501e200dd"}
+  {:article/id "law/3308/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "cce22016932299783fed77d98a0afb632e32e18fd2fff3a2e624e2234e974f60"}
+  {:article/id "law/3308/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4dad4d8317ebf3d15f34d9c3e4923d11150f4f3ca4d19bb54fe5d5751d55b66b"}
+  {:article/id "law/3308/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Görevleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4a24587444e87e4776f2870bf1573b5ee7c7f0751438707d2690b47f7894f4ec"}
+  {:article/id "law/3308/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "5fe6e15f82923a773c7dee49c4b84eb297765905b1cbf4b807918338ea70e1e1"}
+  {:article/id "law/3308/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Görevleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e42e23d18911c5861b6c5f45e634d8ee1d0c9a18faf7594f6f046075bd00d8e8"}
+  {:article/id "law/3308/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kapsama alma",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "608a4193b4b728154dc10b061d5f7a1d6df08006721c5e22375274b3b7f697bb"}
+  {:article/id "law/3308/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "3ab024a3d8573890ab72951c519a8c6d145621e5db7baaab0db379ac678d4623"}
+  {:article/id "law/3308/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Mesleki eğitim merkezi programına çıraklık kayıt şartları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "1595889f758a02be777512686a2a69e3085f2f6fa8260e9edb24cd55f39c6eac"}
+  {:article/id "law/3308/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Aday çırak ve çırakların statüleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "2fe3ffc6dfabd65d5f01f8c8a7b0c486d9e415f04bb908fe5a161de380b17c3e"}
+  {:article/id "law/3308/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Eğitim ve çalışma",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "29a426a7bbb5b4a5fc985ddbe9e6b4fe8af1120d8e36beaea5894dd58262c277"}
+  {:article/id "law/3308/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Sözleşme yapılması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "5c16e36bd7c066825e47d80cd635726e4f456ecf8af3c833279d9fda8456f783"}
+  {:article/id "law/3308/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Çıraklığa başlama ve çıraklık süresi",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "f67018044dc98bb4b2123d8fbfcfd89682fdbddc1f25471ce73d13ef2e519cd9"}
+  {:article/id "law/3308/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Usta öğretici bulundurma şartı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4b44c935418e1a3b73cb3dfe672962389b73ff9177d98e2f9b7ccb44420ca729"}
+  {:article/id "law/3308/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Kalfalık imtihanı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "39815e1e7bbd3e16536a44726bf34855107533db2302217aec650f3c24e01b62"}
+  {:article/id "law/3308/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Kalfa unvanını kullanma ve işyeri değiştirme",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8a15b0db81ce9c8c81f657d8f99effb06588ec44c1f429fdc2d5128746ee05b4"}
+  {:article/id "law/3308/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "43630e5aba4b967bb42617d0c8a29b98b2ea5e107e054d0bd99052d733ea957f"}
+  {:article/id "law/3308/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "2eda76d81f139aedb2e7d4b73bace4ba4bed292dfb9daab018f1d0c8b6bce0b6"}
+  {:article/id "law/3308/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Teorik eğitim",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "4a6ed99e9e9b869cec657362789feabcc399f0d8a1f26d1fdfd2a7e3dec4877c"}
+  {:article/id "law/3308/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "İşyeri şartlarına uyma",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "82f617b09e6d2bff29380e33feecb2856fc0ddd85d1a3219f75f957454bb90b2"}
+  {:article/id "law/3308/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Eğitimin devamı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "da9ecc5d3c34703cc027754134bd7dd0383fe1d3d65bb07588c501a5289fbfdc"}
+  {:article/id "law/3308/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Beceri eğitimi yaptırabilecek diğer işletmeler",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "8db18199fb757cb324950bd9e6db695caec778cf89ff92e464c34f3bebfa2653"}
+  {:article/id "law/3308/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Mesleki eğitime katılma payı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "0cc4db50c47505423615d4c6bf351c55c56fa5fc0e23e79f687581b3f3af5ca0"}
+  {:article/id "law/3308/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "d2e2bfb19cc27219a6683a23745b27d7ad371f53cd03356ff6b9029b1ccae9cb"}
+  {:article/id "law/3308/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "246b329a54bfc7bfb148dcf1e10fe30f2bc8f6788fdff8991690f2d050718386"}
+  {:article/id "law/3308/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "c7e8ec242e9336ce2745293ebbdd8fa6639b9e6b2b4c1f299d41599fa636cb71"}
+  {:article/id "law/3308/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Ustalık sınavı",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "bbe60f8b3a6938bd26efb6a5719571f246f0f5f6b2db6c9cd52fd3137321921a"}
+  {:article/id "law/3308/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Meslek lisesi mezunları için ustalık",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "442ba33a1951161501c47902b1f03e1a8eb09a76355fa4ff681b25882e48af85"}
+  {:article/id "law/3308/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "İşyeri açma",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "784e122dd73454b0e88e069ae6d24d0acca9b5bb739f40292a5043e92e365a03"}
+  {:article/id "law/3308/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Usta öğreticilik",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "31a911382eb9b2a90904a8a7b2220b88b8eb97e2fa8497419b67f8b4d5c5842e"}
+  {:article/id "law/3308/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "07f73625734db4130ab909ca4ad1170e1506a5d06ecbb77ae0f4ef2f1fd60079"}
+  {:article/id "law/3308/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Çıraklık, mesleki ve teknik eğitimi teşvik",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "ed1635f9701d6967286051167c50f5140d971512dd0e5e6a37399f0a928b6fdb"}
+  {:article/id "law/3308/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "39781cb074c9b73c6cf8dbb55b060d3c3099593e21afbefa9c447750b450e501"}
+  {:article/id "law/3308/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Denklik",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "300f9dbe9cc228c9faf6d61c371f23f44a69e4965cc8fd158ab046d16b444490"}
+  {:article/id "law/3308/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Eğitim giderleri",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "9c1225f5c415a6a79b444693536f6b5fff2265d1d8a293c6d05822293911f5cd"}
+  {:article/id "law/3308/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Meslek kursları",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "f4781fd2a9f7417df616e44068d896df1de6c89ba48d5e91fd2b7e25b5969974"}
+  {:article/id "law/3308/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Geliştirme ve uyum kursları",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "7421972fc63818d74817ae3361e27a03d5911319eaa85a3fbfc4cdf067b682b8"}
+  {:article/id "law/3308/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Özel eğitim kursları",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "f102e9ed23954fe74087749d33073e0109780f3d788dd7350572c0aeca4edf45"}
+  {:article/id "law/3308/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yolluk ve huzur hakkı",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "d0f5f3f0d62b006b34fbddbd2d6c679af077fe9a5e9a8db76efa8a8665bdd66f"}
+  {:article/id "law/3308/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Denetleme ve ceza",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "e5cc180075de44bbcfdd29ed8fc7cf6e0b95ef4f22325f56c5098a289f017b4d"}
+  {:article/id "law/3308/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title
+   "Mesleki ve Teknik Eğitim Araştırma ve Geliştirme Merkezi",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "8ddbf0df23e1302849c45baa18e7af09d76c4529b44251aac99f4bda1172826f"}
+  {:article/id "law/3308/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title nil,
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "51d8afc30c389e64a08f050034963c669c602e7178b503fa0d50509f652c4cc0"}
+  {:article/id "law/3308/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Kaldırılan hükümler",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "8b5aabd6505b21264865a29bd3dd362951fa3cfe322ba69254514f7113bd709d"}
+  {:article/id "law/3308/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Mesleki ve teknik eğitim merkezlerinin kuruluşu",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "4fd62211e83e83dfecee90f13c6d7306bc08053f83099d463312b057b84e733d"}
+  {:article/id "law/3308/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "7eaff7e5342929976acac9a1230391d77c19f78ebe8ff758a241b51100c6d515"}
+  {:article/id "law/3308/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Kalfalık ve ustalık belgesi verilmesi",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "82ec509bf8148afec571936e0fd41a5335b4885c2c345fa7719844c271e981a9"}
+  {:article/id "law/3308/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title
+   "Kapsamda olmayan il ve mesleklerde kalfalık ve ustalık belgesi verilmesi",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a00e7c83f8604e38b2078b3535d5798eb8b94ca1292eb05d60d4b077416c046d"}
+  {:article/id "law/3308/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Yapılan uygulamaların geçerliliği",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "83fa4f6d0b9b86b362b64c4b2747ab74ba3ae5afdde2691c7b6ab38b5438c90a"}
+  {:article/id "law/3308/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Sigorta primlerinin ödenmeye başlanması",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "f1266354100c11720e53697775e5582d654a36de63b98b304f742cbf38ed9c49"}
+  {:article/id "law/3308/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "240b1c2f63e4190929692fe5806f05704a7e83e68d4b34e2f171af4946371b0e"}
+  {:article/id "law/3308/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "70fcecb3ecaaf8a1f09c8b6727f9e61766812f648553dc4d5e0011aa59422f79"}
+  {:article/id "law/3308/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "133c3339c869a1d9c9b73a75f750dbc2e6d7d302742bbaa0159937ebb77b5bb8"}
+  {:article/id "law/3308/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "37a647b7c570f29b533ce9b5de7ff39f1d36751e3f574aa02c145fef67a5ff93"}
+  {:article/id "law/3308/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "f96a4bb4f6fc6a70544dad68e713afe90eb767ddfc7640673cb45befe7d93eae"}
+  {:article/id "law/3308/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "8d6c0a9632e185641a536f5ebf7a36d93391385b1675be043d64f54c99747de4"}
+  {:article/id "law/3308/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "e5c67887d80841745d2d59f4f65dde1b3ee6bd67f37c1fb3b87fb1384339eb51"}
+  {:article/id "law/3308/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "feecc730a5a99c3f78d4ea84871f809e5cd9e24c39000bc2b6077065735709ad"}
+  {:article/id "law/3308/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "4277c2b83b2503d626144598786b44dcb78f74a9fff54c5db66dd64b64e3e6e0"}
+  {:article/id "law/3308/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "5725871002bafd8356ebdb44612956b41df3f6a4792597b0f953ffc46cc74e84"}
+  {:article/id "law/3308/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Yürütme",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "edc029f73d06d6b88b61afa9b871de5d326286a2e21a41531d39d472c3e7b4f1"}]}

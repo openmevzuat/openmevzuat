@@ -1,0 +1,212 @@
+{:document/id "law/3787",
+ :document/type :law,
+ :document/number "3787",
+ :document/title
+ "BAZI KAMU ALACAKLARININ TAHSİLATININ HIZLANDIRILMASI VE MATRAH ARTIRIMI HAKKINDA KANUN",
+ :document/slug
+ "3787-bazi-kamu-alacaklarinin-tahsilatinin-hizlandirilmasi-ve-matrah-artirimi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3787-bazi-kamu-alacaklarinin-tahsilatinin-hizlandirilmasi-ve-matrah-artirimi-hakkinda-kanun",
+ :document/sha256
+ "b520971ab19e6533f16f864c52c677414325f25c93f6b8371e2e3ef869fef403",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3787.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:12.661-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3787/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kesinleşmiş Kamu Alacakları",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a6a7e3be24201e77af4f19c35d4d1c65b11974b1955a9438260542dc43839b71"}
+  {:article/id "law/3787/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kesinleşmemiş veya İhtilaflı Kamu Alacakları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "24602b651568e3c11ef49fd9bfed4d67b78b758fe8063bb365a86fc32705dcef"}
+  {:article/id "law/3787/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d4df3574632bf16a1cc58d9c1dd10da83398b25f5a54c9f16ec43f13d552816b"}
+  {:article/id "law/3787/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8ef389585cdaed96695cac3defcb78f6e13ceeb68a75527ea61f94b1feb94e93"}
+  {:article/id "law/3787/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Götürü Usulde Vergilendirilen Mükellefler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8fc6e3781fd28981c52044160149a1a4944ee0ff3ad13fbb893884ec85627d45"}
+  {:article/id "law/3787/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Pişmanlıkla Beyan",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "84b8daae1f82843430cb122eb57221e5e86aac0471bcfd61c240ba124adb886b"}
+  {:article/id "law/3787/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6b9ee44df1efc3817554b22fc54bbb8ee755da46d3107d38161f58774daed720"}
+  {:article/id "law/3787/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Katma Değer Vergisinde Matrah Artırımı",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "edde9389397e3d65ae6f6a6fadfb27a8acd841e600e8b487f5ea67362eb77ad6"}
+  {:article/id "law/3787/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Matrah Artırımına İlişkin Ortak Hükümler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "8d31c25c17b77e753ef7ea43dc62760998e1a9ccba38baf4c0c9c32d2e47c741"}
+  {:article/id "law/3787/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "00c250b81c9ce10637d244446e84f9434ec3473e5536dd417c88e7d4d4cd6a55"}
+  {:article/id "law/3787/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Ödeme Kaydedici Cihazların Süresi İçinde Alınmaması",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "f5638c6a6a5dfd792e26e47657631b7658fecbc3a4fd638a70c76b962cca544b"}
+  {:article/id "law/3787/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "Ecrimisil Alacaklarına İlişkin Gecikme Zammında ve Çeşitli Cezalarda İndirim",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "9ff1a7a385a91cf0bb88123643f6190ce1a299febed38acc181b839f4ad088ef"}
+  {:article/id "law/3787/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title
+   "Vergi Borcu Nedeniyle Düzenlenen Karşılıksız Çeklere İlişkin Cezalar",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "221c29bdf17f84f9b4778acadf28b27873965daef8b86e85cf58984f44d56be8"}
+  {:article/id "law/3787/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Ödenmeyen Motorlu Taşıtlar Vergileri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "ee3a44120904d4c619005d8e1f69e9181cdd909a565c68c883831a0ccea369e7"}
+  {:article/id "law/3787/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Belli Miktarın Altındaki Alacakların Terkini",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "7dabdd39f2a5b0a1e31998d1cc5eb4bd460e210bad92b4bf7fc2ad7793b043b5"}
+  {:article/id "law/3787/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Süresinde Ödenmeyen Taksitler",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "2d1bce79efecf162dd7e1cc4ff2fa95b73ff9e43c21d9303a8450a1540cd1894"}
+  {:article/id "law/3787/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "614d3bbe5dd25404471e501536dade9a5a1ad907ea71c225b1a043c847f411a1"}
+  {:article/id "law/3787/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Çiftçilerin Taksitleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "a10302f480bfd13e2d1bf3b4a3b809fc320e95b0221e5ed31dd9c61d49d917c6"}
+  {:article/id "law/3787/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "30190df8552b5b13aff903784e136c33b8ba51fb8fa31c0ea961c258e9edfeda"}
+  {:article/id "law/3787/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "54c46b36025bea335f1c8843f1289ebaa52432dc535fd81591f14e8593183dcb"}
+  {:article/id "law/3787/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Usul ve Esaslar",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "3bfaee40450b82db0482e735a8077317027a2882c7cc278868d820e80a8fbf3b"}
+  {:article/id "law/3787/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "5bdd73e898d71fed89b277817989083af68114587eb5de7d66767fe11240ee78"}
+  {:article/id "law/3787/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçici Maddeler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "ae6cbc725a66779c0359eb5abfab5b59141127df75b543a995fe7ac8b448ddf6"}
+  {:article/id "law/3787/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e42b1a4c043a807d20688b5abb95637dab281d1b1c3e653425d5c23047928dc1"}
+  {:article/id "law/3787/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "ea8c5287690a9353f2483d56f47cde90348c01812618161a9ed5b09240489de0"}
+  {:article/id "law/3787/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "59c14d2bc69c95c444a381fa6ac61141d1582f54c47f5dbef981a1e047cb183b"}
+  {:article/id "law/3787/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yürütme",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "3d9114ebdac2fc3f5113e383a6c5bbf77f1a39728c90017565c2f56ea3d5f69f"}]}

@@ -1,0 +1,402 @@
+{:document/id "law/3224",
+ :document/type :law,
+ :document/number "3224",
+ :document/title "TÜRK DİŞ HEKİMLERİ BİRLİĞİ KANUNU",
+ :document/slug "3224-turk-dis-hekimleri-birligi-kanunu",
+ :document/path
+ "data/canonical/laws/3224-turk-dis-hekimleri-birligi-kanunu",
+ :document/sha256
+ "38b9dde4b57eec0f5cc4bdc2fe1bd16438193cb48d3562069b780d0a3cf51737",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3224.pdf",
+ :source/fetched-at #inst "2026-07-16T02:23:29.645-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3224/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6c26af07a7a316e72121ae6aa972ba3e4c37bc96e18f0a552f1d44b60ea765dd"}
+  {:article/id "law/3224/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e3124ef380f117ca4b7f0b254ed4543b86768fadfcbb29d112694949c04bd446"}
+  {:article/id "law/3224/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0f14b0f8e26bed1c61d7ef665877633dbcd8dcd448883e1eaa5ddbb00cf3b9c5"}
+  {:article/id "law/3224/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Odaların kuruluşu",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b2d4acd332c1ec8e4a9c161c0e2a810fc83878b1b41f45aca6c9c39e5a2ccf70"}
+  {:article/id "law/3224/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Odaların organları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4699128a7f761f87cfa695f0adb164d5580f6d8804373d21e3bfbeea66940457"}
+  {:article/id "law/3224/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Oda Genel Kurulunun oluşumu",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f5afd786f55a6bee5f8f71f074a3e0566315b477bc23cf92b859e4f47f2db240"}
+  {:article/id "law/3224/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Oda Genel Kurulunun görevleri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d843c8020f2f59768eb58f6da27b1816214a2fbbf632d0fccf0ea1194ac6a27c"}
+  {:article/id "law/3224/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Oda Genel Kurulunun toplantıları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "bb1dedaaf9fff253fd0ba7783e2624313b866e7bdfae35a9a2f6f8cb20fd480f"}
+  {:article/id "law/3224/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Oda Yönetim Kurulunun oluşumu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6a117fd6be22e46b2862c15815b8322071a799f6e368bc65e573859a73fae7a4"}
+  {:article/id "law/3224/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title
+   "Oda Yönetim Kurulunun görev bölümü ve Odanın temsili",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "cb7cfe58759ce60abf3a9eb54aa15588656050501a17377427c68d5859f13d3a"}
+  {:article/id "law/3224/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Oda Yönetim Kurulunun görevleri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6bbf7d8714ae1093d98d3a9e43d28df6ded3ff12d69c432da595fec9e84a939d"}
+  {:article/id "law/3224/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Oda Yönetim Kurulunun toplantıları",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0d1dbd603bffbeb0807b1328201ea0e7fcab165eb4bf818f6d09543864ab0a3f"}
+  {:article/id "law/3224/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Oda Disiplin Kurulunun oluşumu",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "aa8171bddd86f52af3b5d78495a617b72392c3989103a996ca4b9ba98b8bc056"}
+  {:article/id "law/3224/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Oda Disiplin Kurulunun görev ve toplantıları",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "71ab7b3b1b5fcb791843348350c9f50962ef6f64f8fc056735f5bcea4d0af6e2"}
+  {:article/id "law/3224/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Oda Denetleme Kurulunun oluşumu",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "41b5fc1bbb762a738042698cff60d66c7e0a5b7a60bc75067681ef68e463716a"}
+  {:article/id "law/3224/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Oda Denetleme Kurulunun görevleri",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a9780725d6eb505dc9b622f0a936a92fed060bdb1d54e1d43875f33bb046f79e"}
+  {:article/id "law/3224/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Odaya kayıt zorunluluğu",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "ace9ca04b9c99179a6a12c0c3600e472813f56019e610afbf09778d276c23365"}
+  {:article/id "law/3224/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Odaların gelirleri",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "53468faf3c255d52a055d492a0ff8b1885c795cb857ab45e89ea0e0792e01c1a"}
+  {:article/id "law/3224/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "62c6302f5798ce642b1e9515c33fe3af91279264b5032ed31b96c7c74b1904dd"}
+  {:article/id "law/3224/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "a23e6c98b29001fc7894b09ff7d2c78e1bc6fb3a9b6499303f899e2fc63247cd"}
+  {:article/id "law/3224/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Birlik Genel Kurulunun oluşumu",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "c654db243db4281e025aae4e7d08b0c70935cd3f4eb13948db75e8368f6ee0b3"}
+  {:article/id "law/3224/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Birlik Genel Kurulunun görevleri",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "7e3efc718e1a54016f009a5d207cf17a69e04d78d7f4f0b40cf2782ff0fa3984"}
+  {:article/id "law/3224/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Birlik Genel Kurulunun toplantıları",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "6f3347b7b1550e4c1b19d347c8a563aba137e032c52db436114c94788e190bf7"}
+  {:article/id "law/3224/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Birlik Merkez Yönetim Kurulunun oluşumu",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "dbd6dcb64c48fadc3f9a6b2049db7f0af0b10a7ceef7ca72de298e214dfce6d2"}
+  {:article/id "law/3224/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title
+   "Birlik Merkez Yönetim Kurulunun görev bölümü ve Birliğin temsili",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "85883513df54c91cd45c2a61b1c27bb68219ad6a9d32d69edc0ed870575a7394"}
+  {:article/id "law/3224/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Birlik Merkez Yönetim Kurulunun görevleri",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "16e1657429a9ebd94937eba9d38548bf57c316d36d0b7e87c2f3d71baec52076"}
+  {:article/id "law/3224/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Birlik Merkez Yönetim Kurulunun toplantıları",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "43abe37128f2bd84fc9d7a96e6aed88f2ad0bdb72329fc2f6727acf878d60e4f"}
+  {:article/id "law/3224/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Birlik Yüksek Disiplin Kurulunun oluşumu",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "5db042a6e355cc6a3e3eb2fbae5ac9e2588f938b3c4fc8eda8fae69d61242080"}
+  {:article/id "law/3224/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title
+   "Birlik Yüksek Disiplin Kurulunun görev ve toplantıları",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "277747f101b545aa781e19cd27f8b5136e59bc748e5938d770326da460c9d348"}
+  {:article/id "law/3224/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Birlik Merkez Denetleme Kurulunun oluşumu",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "4711d78858d0ae301f514c82f5f7ec8cf2c9de772da00bdba95c7f46adbe581a"}
+  {:article/id "law/3224/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title
+   "Birlik Merkez Denetleme Kurulunun görev ve toplantıları",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "f5f4ab67d5a53d055bce7457aca621f15ed984741709dcf0ae92861502afdd85"}
+  {:article/id "law/3224/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Birliğin gelirleri",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "8be9c6c3af821477c100dc395273ec4d894fbbfed1a2e3b8060e4751591f33bb"}
+  {:article/id "law/3224/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "89837138557fcb43fca336193f507503b0d68bb7f4f55d55b3f52d4e994d4d4a"}
+  {:article/id "law/3224/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Odalar ve Birlik organlarının seçim esasları",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "ccfb859948428849057078e37dcdc450155b1394e7c429a5066da3b8e0d1f55e"}
+  {:article/id "law/3224/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title
+   "Oda ve Birliğin denetimi, organlarının görevlerine son verilmesi",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "4fd85eda7038a1c6383a75dd89be82dd9bc44503147716c3c180855eb853391d"}
+  {:article/id "law/3224/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Odalar ve Birliğin yurt dışında temsili",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "70797a59f7dd1ab475aac442b6c857836d49a96f048e15cabbb5ed98d6e52ca8"}
+  {:article/id "law/3224/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Oda ve Birlik organlarının seçim dönemi",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "0ba9914908c73dba9e96ecedd915c0ab88101eefb9a149485188f5a1afab0718"}
+  {:article/id "law/3224/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "792044ac4a9ac7a5a9e932ef8b2bc413eed69b5f48b3b33ce2a924e11711238b"}
+  {:article/id "law/3224/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "6468eb1b8588d53fc47dc07e999610f9c9dfd40cae361fa2597a7db13d90c458"}
+  {:article/id "law/3224/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "91cc36209ae4ddb3daa33e9ec878d527f1ccd9f4b9d630d6794c844222af8cc8"}
+  {:article/id "law/3224/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title
+   "Organlarda görev alanlara ödenecek ücret ve benzeri giderler",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "1c715916cb66312dcd3a0e2ae020d86f687035f5499339ab70d7fef45344e32d"}
+  {:article/id "law/3224/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Bildirim zorunluluğu6",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "07b77048446353ed3db813dffabd85d808ad9a19f278ca03d1b58ffc672656bc"}
+  {:article/id "law/3224/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Diş hekimleri sicili",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "a327b1a07f14202b99886c101a3e4857b8cd6eeacac0b739619cff7f96c5e278"}
+  {:article/id "law/3224/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Disiplin cezaları 7",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "f47344957661eaad45c6af46810b95d0e96d88e4cc36ffee18dca4e1d9da8b7c"}
+  {:article/id "law/3224/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title nil,
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "ab6ed25876805c5e079e636a1c14b859924df726206f76d29d80024f9788c537"}
+  {:article/id "law/3224/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Yasaklara ve bildirim mecburiyetine uymayanlar",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "638713886f2ec19f668a41e792ed2440afdf24c7649f691ee7a6cf66241522f7"}
+  {:article/id "law/3224/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "c54d35d16278604445b66d67b72dcb1842f829d181d40ae88ca0bd49b18bf2ab"}
+  {:article/id "law/3224/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title nil,
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "5621b0e1bc12a9255c37be5a539196330904e60b18fda11ae9968da0ebb778c9"}
+  {:article/id "law/3224/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "5bcf4fa848f0bf199fe291c58bc24b55dbc1cc9d2a307aedbe4f0b193986614a"}
+  {:article/id "law/3224/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "1046053aa45c802a21d8f7d3df5f847d3b2b87d39816f599de6dddaddf40318f"}
+  {:article/id "law/3224/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "3931ae959fffde4e18b8927e8c6f9ef70f742b1a8a709edf03d135911b751bcb"}
+  {:article/id "law/3224/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "8020a5ad8cea45cb6a65e2c3923984de9814b30507c5aba7e59da03988bc0da3"}
+  {:article/id "law/3224/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "6132253c7e3c807dc168714f52f43646a8a9756ec4f6efc8957a0de9889fb5e1"}
+  {:article/id "law/3224/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title "Yürütme",
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "33f345c18575868b175e23a684341ecb84f3b02f21637d6f31d64f6aa2801d67"}]}

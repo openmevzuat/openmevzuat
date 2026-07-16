@@ -1,0 +1,76 @@
+{:document/id "law/3303",
+ :document/type :law,
+ :document/number "3303",
+ :document/title
+ "TAŞKÖMÜRÜ HAVZASINDAKİ TAŞINMAZ MALLARIN İKTİSABINA DAİR KANUN",
+ :document/slug
+ "3303-taskomuru-havzasindaki-tasinmaz-mallarin-iktisabina-dair-kanun",
+ :document/path
+ "data/canonical/laws/3303-taskomuru-havzasindaki-tasinmaz-mallarin-iktisabina-dair-kanun",
+ :document/sha256
+ "02261d541f97b4abddf64652b65b45648e250d3271ae2864b2982ddcfb372a56",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3303.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:18.505-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3303/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0fbc6ec9cd699a68b01d9043c4c0dfac15065c96aba951c515c25d568da7ef2f"}
+  {:article/id "law/3303/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tescil şartı",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "82f4ea678365e92bb2bbf2236374774f2179aba6d4db0b330fba60f1d6644587"}
+  {:article/id "law/3303/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tazminat hakkı",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c802735ff9fe78eb719f54ab81c58bfcd9c21fa070a917a5aa674aee9c34c232"}
+  {:article/id "law/3303/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Muhkem kaziye",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "81f53ffe79794c28512ba43bd3de16fd6152e2133c8855dae999830acf6347ef"}
+  {:article/id "law/3303/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "0343bb16f78f317ba4e00c2dda2da7fc1ce5c69937abede4c11d2fbe33cebe27"}
+  {:article/id "law/3303/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "288362c7fbd24fccf1a80ce1c71a2d0ccc664061829bb9476649c4bc5dba2053"}
+  {:article/id "law/3303/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/3303/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cb0ddae63108fb20618b4db51cf3d7849644cb16bd48d2571cb6c155e891ac31"}]}

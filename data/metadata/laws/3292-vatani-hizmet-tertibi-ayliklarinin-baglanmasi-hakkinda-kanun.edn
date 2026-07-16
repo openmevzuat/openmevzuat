@@ -1,0 +1,69 @@
+{:document/id "law/3292",
+ :document/type :law,
+ :document/number "3292",
+ :document/title
+ "VATANİ HİZMET TERTİBİ AYLIKLARININ BAĞLANMASI HAKKINDA KANUN",
+ :document/slug
+ "3292-vatani-hizmet-tertibi-ayliklarinin-baglanmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3292-vatani-hizmet-tertibi-ayliklarinin-baglanmasi-hakkinda-kanun",
+ :document/sha256
+ "f9b6f41451c1b8868f12a24ab09a7aa3b4dfab75c7fc477060972d34b3c1fb61",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3292.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:10.119-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3292/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "797da9cfc0d54691362468f63b653e5e675fabb5aa01e7ec93f4c513640d6e36"}
+  {:article/id "law/3292/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Aylık bağlanması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dad3b1f34eb1b8581a710b2db8333580d933af5227fa9e79f2d096953d859251"}
+  {:article/id "law/3292/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Aile fertlerine aylık bağlanması",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "96ec5cac9e57a8a287be27a55db24b84cc58287cc45e0e0075dd85f87d598a22"}
+  {:article/id "law/3292/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Diğer kanunlarda yer alan atıflar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a940696eff053b9b82db5d7584a836c1cd79b6d426efcdfa7a6d03674328a843"}
+  {:article/id "law/3292/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlükten kaldırma",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "066323d147ede6163f897a70c5590db0fc222df33ad37e407f6bc86b254bc9a0"}
+  {:article/id "law/3292/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f61ce005c4b958beee866186a7950d425f10fd7aecf91e35814add2f33d877dc"}
+  {:article/id "law/3292/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bbd31c51265adbc91f235aced288b2c14c28a89799f2be7546dc326339ed925d"}]}

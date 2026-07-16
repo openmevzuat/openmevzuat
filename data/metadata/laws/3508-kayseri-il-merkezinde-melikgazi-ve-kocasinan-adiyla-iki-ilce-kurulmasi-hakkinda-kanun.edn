@@ -1,0 +1,84 @@
+{:document/id "law/3508",
+ :document/type :law,
+ :document/number "3508",
+ :document/title
+ "KAYSERİ İL MERKEZİNDE MELİKGAZİ VE KOCASİNAN ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
+ :document/slug
+ "3508-kayseri-il-merkezinde-melikgazi-ve-kocasinan-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3508-kayseri-il-merkezinde-melikgazi-ve-kocasinan-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "3f4abff9b2eb016557356c370f42ea096e83240a6809313eb4e30c27db2c9c62",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3508.pdf",
+ :source/fetched-at #inst "2026-07-16T02:25:34.749-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3508/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 28 Sayfa : 184",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bf75a0c8f5a26d804cb892db15a209a42810a650c0ddd2532557b499a6729ebf"}
+  {:article/id "law/3508/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d40e331fb5ebe2179a18211835ee1b821979652043e52079c912ffe810e87770"}
+  {:article/id "law/3508/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "61e3df6344d8b0ecdf7b017d8a48267fd5121434f4e8482f2c579aea8d59af9b"}
+  {:article/id "law/3508/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7b72a3876f243c298ee596408372e0b9fda9f2ac51c8ac288157ba252edd9d1f"}
+  {:article/id "law/3508/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "40a5a82d25b66b88a7fb092cba7e62df08f83bba4b164506e2e79cb2da4fdd4d"}
+  {:article/id "law/3508/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "48766d8036d97565b427b19031c5eaee0e44053c6e3bb1a1ed686d41dc3d30de"}
+  {:article/id "law/3508/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "2945786b8f4ff7dc96e7ce09f1159a54bebd66ff5fb98da8e56a2a829f6a847f"}
+  {:article/id "law/3508/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ee4932c8a99d06e4f7b8037945fdb7aaeab68b97fed6ffa3487d8ba77678fd0e"}
+  {:article/id "law/3508/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "493b3d56ab45d4a71675670069e843dd466831feef520023be9901a58e226dd2"}]}

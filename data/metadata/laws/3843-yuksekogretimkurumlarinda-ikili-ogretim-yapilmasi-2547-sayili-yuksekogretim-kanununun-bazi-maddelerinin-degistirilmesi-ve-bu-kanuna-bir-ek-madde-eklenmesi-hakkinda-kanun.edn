@@ -1,0 +1,175 @@
+{:document/id "law/3843",
+ :document/type :law,
+ :document/number "3843",
+ :document/title
+ "YÜKSEKÖĞRETİM,KURUMLARINDA İKİLİ ÖĞRETİM YAPILMASI, 2547 SAYILI YÜKSEKÖĞRETİM KANUNUNUN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ VE BU KANUNA BİR EK MADDE EKLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "3843-yuksekogretimkurumlarinda-ikili-ogretim-yapilmasi-2547-sayili-yuksekogretim-kanununun-bazi-maddelerinin-degistirilmesi-ve-bu-kanuna-bir-ek-madde-eklenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3843-yuksekogretimkurumlarinda-ikili-ogretim-yapilmasi-2547-sayili-yuksekogretim-kanununun-bazi-maddelerinin-degistirilmesi-ve-bu-kanuna-bir-ek-madde-eklenmesi-hakkinda-kanun",
+ :document/sha256
+ "b553d9385eaa959ed725043fa4b591f32c2811e2ec1b2c1fb21e81bdaf630927",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3843.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:38.845-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3843/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bfc1a2aad88ca0e50690fa4f33fb6ff6c0b4b84c5e34d5f4741b3057b72abd54"}
+  {:article/id "law/3843/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "517f8ca97a9fdd1c2b06909906a7a2450f84425cc2aeb400be9c45852ac43ef4"}
+  {:article/id "law/3843/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "70a9c154493b293575ab5988bb91c2c05cce292e4eb57453ef4cffac07d7952e"}
+  {:article/id "law/3843/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Karar Verme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7cddfb165978e32d0bd663311dd37cef8b27fcdaf402c831c750a134ec494737"}
+  {:article/id "law/3843/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Öğretim",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "14d228827c7894682b9db7b5ecb0714cb6363f9858dd005c4972d2873982bc52"}
+  {:article/id "law/3843/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yatay Geçiş",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "289f304cc246943c96050b0cf15730c90dd662c4bff38a1339e7049a6bf951a3"}
+  {:article/id "law/3843/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Öğrenim Ücreti",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a06b1185e19e4d99b5afa998017d94e736e8380622d1595ea56f54ac57ed7092"}
+  {:article/id "law/3843/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Öğrencilik Hakları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "7de6d994c8dcd4d8d5dae14dae2ed252da42ed4d70c55813b34026fda3ddd910"}
+  {:article/id "law/3843/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Öğretim Elemanlarının Görevlendirilmesi",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "02a91f1e5d4794731206a37c6f01d4a18f4570c5341012c2c5129de81feb330e"}
+  {:article/id "law/3843/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Ders Ücreti",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "328c822ace1b49aaedc0ff39c59ae089dcb8d151b6dc038a02d0b9dcafd343d5"}
+  {:article/id "law/3843/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Akademik Yönetici ve İdari Personelin Görevlendirilmesi",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "f438af0386465798139fa29b905b440b94897b433f5e1c04d45df60aac5df171"}
+  {:article/id "law/3843/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Fazla Çalışma Ücreti",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4849545312d9bfa12727651885974dd6abb069ab1e428eb0f6e37071eaca161c"}
+  {:article/id "law/3843/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Ödenek",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "fb9512c6eed4c8df864ff0998c1929db95970bed0e51fe76e6fd39019a6cd949"}
+  {:article/id "law/3843/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Lisansüstü Öğretim",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "3bb4ee5d5bf2abd501bab2680f338225677fa7816dc5cc8cfcddd0e582b4d2e5"}
+  {:article/id "law/3843/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Hüküm Bulunmayan Haller",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "b80e96f9ef540b089891d4ac033b2f61455d6a7f79611ab78d3fa9af13317caa"}
+  {:article/id "law/3843/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "3f113682acbf0c58f3e772489ae8324a11d9d36ef0341a7ff643bae95d6b8674"}
+  {:article/id "law/3843/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "732cc411599ec7d6198d645dedbff1e867de50fb7a03b9896f63f6f6d31348a1"}
+  {:article/id "law/3843/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8615d4c1fb6b46426a02fe1c73f7971493d3f718e4de748b06f2f4c2a8be0544"}
+  {:article/id "law/3843/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "712f66b1f22987be5774159aa4345b6be8d29e21d4dca1b068c4346129dfdaac"}
+  {:article/id "law/3843/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "835dc77f60d4d05393f49d13425d8052454a8a00c18efed1cd80446fbba0f283"}
+  {:article/id "law/3843/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "3fc8ebc4db7c0bb1a6841eaaff8ae4e1e9bcbcd172a04cfafac9db5efc12d9f6"}
+  {:article/id "law/3843/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "3a5a3281981a9c5c3b67a178ef9838ed66a0ad4663590adbd4ecfb033f3f5c39"}]}

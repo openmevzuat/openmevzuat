@@ -1,0 +1,42 @@
+{:document/id "law/3488",
+ :document/type :law,
+ :document/number "3488",
+ :document/title
+ "UYGULANMA İMKANI KALMAMIŞ OLAN KANUNLARIN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN",
+ :document/slug
+ "3488-uygulanma-imkani-kalmamis-olan-kanunlarin-yururlukten-kaldirilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3488-uygulanma-imkani-kalmamis-olan-kanunlarin-yururlukten-kaldirilmasi-hakkinda-kanun",
+ :document/sha256
+ "d05aa21a9bc9c2e1aca464091dda650f0e90ac89f52fe7f0a59625c34668cbff",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3488.pdf",
+ :source/fetched-at #inst "2026-07-16T02:25:28.984-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3488/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 28 Sayfa : 36",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "83d715fec036b39e5776d866571042626622b64c7a09e0d9344d09b8b5bde8ae"}
+  {:article/id "law/3488/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/3488/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6aae80ca31c4e4bcfb5f631aa41a179cff5d2620b876369d178d01f7fe981bcf"}]}

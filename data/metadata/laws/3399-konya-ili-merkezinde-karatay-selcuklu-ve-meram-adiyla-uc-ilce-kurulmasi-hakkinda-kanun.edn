@@ -1,0 +1,63 @@
+{:document/id "law/3399",
+ :document/type :law,
+ :document/number "3399",
+ :document/title
+ "KONYA İLİ MERKEZİNDE KARATAY, SELÇUKLU VE MERAM ADIYLA ÜÇ İLÇE KURULMASI HAKKINDA KANUN",
+ :document/slug
+ "3399-konya-ili-merkezinde-karatay-selcuklu-ve-meram-adiyla-uc-ilce-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3399-konya-ili-merkezinde-karatay-selcuklu-ve-meram-adiyla-uc-ilce-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "9a40e12c935c18fd1a7007575488c4618cc3a721d07cab6a9af16f9a8b6d9e6f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3399.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:58.989-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3399/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 26 Sayfa : 222",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "31e26e0d14b1e2b4b1a090a06a0527c4c8c704436c5d8c24b18a9721650c88fd"}
+  {:article/id "law/3399/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b0f77365b6ec3afe72a8e9eb69c5697fb423f3b2b72c34822335452570aa6207"}
+  {:article/id "law/3399/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "fced597e447759c58031005b64f837831eb92b70132d100a645c73ad71f6bfde"}
+  {:article/id "law/3399/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7c52c3f75a1b8b3aa23f7dc8f5e964e45b0ef2f93abd7de5dc85dbe7bf501c8d"}
+  {:article/id "law/3399/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c176ca38468a5728c55a9387e1e950b41f3a5bdff001799a04d3096a055517df"}
+  {:article/id "law/3399/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6495b627b49f3909228ba0db5b0d12e5c7966411070d955780c8516a04be4b76"}]}

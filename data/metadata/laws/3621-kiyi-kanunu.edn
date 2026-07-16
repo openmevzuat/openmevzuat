@@ -1,0 +1,192 @@
+{:document/id "law/3621",
+ :document/type :law,
+ :document/number "3621",
+ :document/title "KIYI KANUNU",
+ :document/slug "3621-kiyi-kanunu",
+ :document/path "data/canonical/laws/3621-kiyi-kanunu",
+ :document/sha256
+ "a4d2053c3f8cd5fe155bb8bfe80ca8c58b4687e503d22f09c547e7e55b34e7ee",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3621.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:12.272-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3621/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3a90a0408d8b40698812474dc965fcb27db28850c996c160e827b9437dfff8a2"}
+  {:article/id "law/3621/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b46b3339ddd4a7597fac1e042c6720fc75117989d8eca3fb6d6fa1d637691da9"}
+  {:article/id "law/3621/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İstisnalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "908311eac324bae670d8aeddf1277465e7e5592920019069fe1b88a2c53057b8"}
+  {:article/id "law/3621/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "192160bad2b83fff0535fd8067a5f648ea1cb9e1570abee98eb517f5221a6ecc"}
+  {:article/id "law/3621/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Genel Esaslar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "ca13c20e492ecec901401925562b5227246054a2e41a4c335ce1cd08bbc73ccf"}
+  {:article/id "law/3621/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ee06b6cff3cbdc9e7c45350284bf47fa89e808b9e97a7b2cc7bc762a56083a81"}
+  {:article/id "law/3621/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d37b4fc169ea2a4bb67c122960f72fcd26bffe740e196d5dafbdc82288786970"}
+  {:article/id "law/3621/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Sahil Şeridinde Yapılabilecek Yapılar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3718fc8727c12dcdd79eae3b68455ffa2157a4aefdc1d9621b8390b7d9bd9a45"}
+  {:article/id "law/3621/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kıyı Kenar Çizgisinin Tespiti",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "38ac8f36558c7c04d0d52133c9bc26a3d6e150245a5c7166e5c7ed007116f101"}
+  {:article/id "law/3621/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "17371808feaef8c485210a7089cab78f6c4306de113edd7523c604e1318d2798"}
+  {:article/id "law/3621/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "254247e36a85242c218976c9181f2de0ff0f98083e1e30b4bb6dbcd8a01f8b9a"}
+  {:article/id "law/3621/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "1cf2afc5456d931ed1a80ae62e7c4ba3caaf83b1450bbabb9072f7e742c373d1"}
+  {:article/id "law/3621/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "6da8cac8baa1fc98210ad86a0abe220b90ec8e0aeb7bd319fd88823484b34632"}
+  {:article/id "law/3621/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İmar Mevzuatına Aykırı Yapı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "9ed8384e4d579f4a8bc0b5b18d0e7990742cddb222640a8eed2b506a12f23541"}
+  {:article/id "law/3621/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Ceza Hükümleri",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "5448d1a58ce6480ca7bab4741047a012ea695e95d893ad8a85c40d4cce7d252f"}
+  {:article/id "law/3621/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "bb30eae5e496b8f1eae0051de13b74436e8a1948fdeebb31fbf365a678b213d1"}
+  {:article/id "law/3621/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "4ca7f46bb8e703c51cfcfc329dbf97a77fa8c7a7aa3301a8f250a18eaed1a196"}
+  {:article/id "law/3621/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "686d12dd60f40a4bd12deb42acd5732346be1d1ffaea0ae82af0cb5795274346"}
+  {:article/id "law/3621/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "7648bfb88c6e65ff1daab788d128e8146d86cfe166139105b7bf78e510a0249d"}
+  {:article/id "law/3621/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "f50456cd57c82a88a8068bdb0d62293f4405471ee1ff0d71704f0e2c74be96a2"}
+  {:article/id "law/3621/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "5f8b98c1135fd9f5a3f23176136bf1e451c016fd5bc95d56ee8d3053c711ae32"}
+  {:article/id "law/3621/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "03524383b6e1666e4186984b191988782dab8d49b18b296a003d67d344ee03e0"}
+  {:article/id "law/3621/article/7",
+   :article/type :additional,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/ek-madde-007.md",
+   :article/sha256
+   "4c8e4bfa559de9083f147b697a4e7f01eb4263dc81c7a9529f069062043af3c7"}
+  {:article/id "law/3621/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "91034fba8fce9fee6ba5fe2e7a7306e56ed74c72b43499cdabaf2e5bb1582f93"}
+  {:article/id "law/3621/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "5f478b9d9a7d8002681c9444a33b95c94ee817765d88d607a435dbdf51898dc2"}]}

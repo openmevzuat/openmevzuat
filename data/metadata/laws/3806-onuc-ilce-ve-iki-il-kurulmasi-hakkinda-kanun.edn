@@ -1,0 +1,82 @@
+{:document/id "law/3806",
+ :document/type :law,
+ :document/number "3806",
+ :document/title "ONÜÇ İLÇE VE İKİ İL KURULMASI HAKKINDA KANUN",
+ :document/slug "3806-onuc-ilce-ve-iki-il-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3806-onuc-ilce-ve-iki-il-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "20b402c8b36f599aeebf2ddd8fdbb944dddc72705058c7d59198ead208c76e33",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3806.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:20.313-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3806/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 31 Sayfa : 155",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e118b3224a839ca500f62a68173b811e38e4fd8c459894b0a6db3092a16ceda5"}
+  {:article/id "law/3806/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6d09960d1924fc3ffd32fdd82985db0a1b92ff9a11cdbf6b4b99f027ed3a249a"}
+  {:article/id "law/3806/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1f15006956401d590dd0e0e4bdf2c504789413ff32ba5b843b17374f8c430f88"}
+  {:article/id "law/3806/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "7bcb6d6b9936323bfe527278118381220cefc197be00a18fb4541da7224c130a"}
+  {:article/id "law/3806/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "b43562da5173995e52b167d6541c407a6eef0ac03293dd95beaa43ad26186371"}
+  {:article/id "law/3806/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "a2e1cd23c2a1063938c1ef8eee0eafcd6feb62dfdcb9f86f1f13ee2a7757d96e"}
+  {:article/id "law/3806/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "921708e76a40e1903e8c5c09730cea6413a607e93a40ca9533edc424d8a1d729"}
+  {:article/id "law/3806/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/3806/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ff5aed8cefa131cdd46dae4e4a063c39a54a285aef09ee2ec3b3a63d0dbcd24a"}]}

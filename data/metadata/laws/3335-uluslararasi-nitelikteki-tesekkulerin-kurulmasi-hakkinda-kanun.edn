@@ -1,0 +1,55 @@
+{:document/id "law/3335",
+ :document/type :law,
+ :document/number "3335",
+ :document/title
+ "ULUSLARARASI NİTELİKTEKİ TEŞEKKÜLERİN KURULMASI HAKKINDA KANUN",
+ :document/slug
+ "3335-uluslararasi-nitelikteki-tesekkulerin-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3335-uluslararasi-nitelikteki-tesekkulerin-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "807fbcbbef392ad098ec3f0d5c14a386a41f9da2388e62955791ea5ba618d38f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3335.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:29.924-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3335/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 26",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "a86d7c8801f03328e4842d9085f1e36c536ab35d58c92dc4fbef76bf62deb9ef"}
+  {:article/id "law/3335/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d254d24494cf650c6114466e2c97f3790493c3cc622c31f60815f6a81c081dec"}
+  {:article/id "law/3335/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "be3ad3d7f1f3b3cf666a5ffc8859eedb27a5e2124112eeb7a09a916a79d0f4b1"}
+  {:article/id "law/3335/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/3335/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ff5aed8cefa131cdd46dae4e4a063c39a54a285aef09ee2ec3b3a63d0dbcd24a"}]}

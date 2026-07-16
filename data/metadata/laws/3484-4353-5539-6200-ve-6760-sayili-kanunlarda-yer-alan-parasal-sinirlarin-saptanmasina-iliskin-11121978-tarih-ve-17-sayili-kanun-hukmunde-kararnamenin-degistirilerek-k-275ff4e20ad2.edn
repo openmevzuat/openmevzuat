@@ -1,0 +1,42 @@
+{:document/id "law/3484",
+ :document/type :law,
+ :document/number "3484",
+ :document/title
+ "4353, 5539, 6200 VE 6760 SAYILI KANUNLARDA YER ALAN PARASAL SINIRLARIN SAPTANMASINA İLİŞKİN 11.12.1978 TARİH VE 17 SAYILI KANUN HÜKMÜNDE KARARNAMENİN DEĞİŞTİRİLEREK KABULÜNE DAİR KANUN",
+ :document/slug
+ "3484-4353-5539-6200-ve-6760-sayili-kanunlarda-yer-alan-parasal-sinirlarin-saptanmasina-iliskin-11121978-tarih-ve-17-sayili-kanun-hukmunde-kararnamenin-degistirilerek-k-275ff4e20ad2",
+ :document/path
+ "data/canonical/laws/3484-4353-5539-6200-ve-6760-sayili-kanunlarda-yer-alan-parasal-sinirlarin-saptanmasina-iliskin-11121978-tarih-ve-17-sayili-kanun-hukmunde-kararnamenin-degistirilerek-k-275ff4e20ad2",
+ :document/sha256
+ "8cba1e23fd01cedde8d16d15a010efed6235630179278d34795c462dfc4bbc82",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3484.pdf",
+ :source/fetched-at #inst "2026-07-16T02:25:26.676-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3484/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 28 Sayfa : 34",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c8f73bbcdd7745544ce212c903cbeef9b2809aff9913ec98d2a9698695d539b2"}
+  {:article/id "law/3484/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/3484/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

@@ -1,0 +1,56 @@
+{:document/id "law/4108",
+ :document/type :law,
+ :document/number "4108",
+ :document/title
+ "213 SAYILI VERGİ USUL KANUNU, 6183 SAYILI AMME ALACAKLARININ TAHSİL USULÜ HAKKINDA KANUN, 193 SAYILI GELİR VERGİSİ KANUNU, 5422 SAYILI KURUMLAR VERGİSİ KANUNU VE 3065 SAYILI KATMA DEĞER VERGİSİ KANUNUNDA DEĞİŞİKLİKLER YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "4108-213-sayili-vergi-usul-kanunu-6183-sayili-amme-alacaklarinin-tahsil-usulu-hakkinda-kanun-193-sayili-gelir-vergisi-kanunu-5422-sayili-kurumlar-vergisi-kanunu-ve-306-d2f06e47c6e8",
+ :document/path
+ "data/canonical/laws/4108-213-sayili-vergi-usul-kanunu-6183-sayili-amme-alacaklarinin-tahsil-usulu-hakkinda-kanun-193-sayili-gelir-vergisi-kanunu-5422-sayili-kurumlar-vergisi-kanunu-ve-306-d2f06e47c6e8",
+ :document/sha256
+ "3a3a6d1baa681d8dcfae0258b196e1b2e580811707b880cedd5e485a7f2e6574",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4108.pdf",
+ :source/fetched-at #inst "2026-07-16T02:28:46.849-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4108/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title
+   "ek ve değişiklik getirilmesi ile ilgili olup, yerlerine işlenmiştir.)",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "bad5795ddb9b3997dbbcc33030c9a31e8f7bb4b77e717afe67273fcf188f307a"}
+  {:article/id "law/4108/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "db4ed2b265c75e633dc340f236f4551ee69d101d5aad9350acfda59db830a78c"}
+  {:article/id "law/4108/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "2f0854cde8ce4e1732cd99cc23c64d6fc8a4dedb1375cbc9017995bda0bf9548"}
+  {:article/id "law/4108/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "f2461a5caca73767356ce9ffe89ce04e0a683b824599631e7bb8d66c0ae2a5ae"}
+  {:article/id "law/4108/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Yürütme",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "9c2386a811bf6ab35bc411624a4a73769cc12d521b9c5d69830f00a32ba9b048"}]}

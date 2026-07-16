@@ -1,0 +1,83 @@
+{:document/id "law/3833",
+ :document/type :law,
+ :document/number "3833",
+ :document/title
+ "TÜRK SİLAHLI KUVVETLERİ STRATEJİK HEDEF PLANININ GERÇEKLEŞTİRİLMESİ MAKSADIYLA GELECEK YILLARA SARİ TAAHHÜTLERE GİRİŞME YETKİSİ VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "3833-turk-silahli-kuvvetleri-stratejik-hedef-planinin-gerceklestirilmesi-maksadiyla-gelecek-yillara-sari-taahhutlere-girisme-yetkisi-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3833-turk-silahli-kuvvetleri-stratejik-hedef-planinin-gerceklestirilmesi-maksadiyla-gelecek-yillara-sari-taahhutlere-girisme-yetkisi-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "7bd1bb3bcbf65175676c4825b19f613d689d7fb402b688515cf6a7ccb3ad6b8d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3833.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:28.200-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3833/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Sari taahhütlere girişme yetkisi1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "0e157a2717ed43acfbfde3066c0c83dc49660fd6e02e9104cc18525385c12d38"}
+  {:article/id "law/3833/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Bütçeye ödenek konulması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "38932126446890f101b1f728d6cc981d2b269b1ef28684fb120c62c29506108f"}
+  {:article/id "law/3833/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Avans ve kredi işlemleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e80cf08d54e7dfe3ffaa1a8f83d6fc2468b789afc6b920a78547de65b9964940"}
+  {:article/id "law/3833/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Silah ve benzeri malzemelerle ilgili istisnalar",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "05c0b95f22654fb51ee7fe44b9d457c83acc9cebc70076ab02888ccb4c330de4"}
+  {:article/id "law/3833/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Petrol ürünleriyle ilgili istisnalar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e7ca796db1b69cfed3ef86be7448717be53ed0a412f23862dfd0adccaf434c93"}
+  {:article/id "law/3833/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlükten kaldırılan kanunlar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e14c2519c8c0b57b5fc7f4f824f11b79b26d90858d58fc7fa741e2080af03e6c"}
+  {:article/id "law/3833/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "9bbd3ed3a25afa6bc55a85da43a9a15b8a171f798314268c8b62bb79d57cd863"}
+  {:article/id "law/3833/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bb8a08609ce5937384498316f75ee90c4a58111057bf2ebf00fbbeea065285ce"}
+  {:article/id "law/3833/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0f95af171f087e85d51dd5e2f79f3e9a40e4715e8af2180eae9f4b208d638346"}]}

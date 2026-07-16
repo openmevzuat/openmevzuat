@@ -1,0 +1,61 @@
+# METEOROLOJİ HİZMETLERİ HAKKINDA KANUN
+
+**Kanun No:** 3254  
+**Tür:** Kanun  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** law/3254  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç, Görev, Teşkilat](articles/madde-001.md)
+- [MADDE 2](articles/madde-002.md)
+- [MADDE 3 — Teşkilat](articles/madde-003.md)
+- [MADDE 4](articles/madde-004.md)
+- [MADDE 5](articles/madde-005.md)
+- [MADDE 6 — Genel Müdür yardımcıları](articles/madde-006.md)
+- [MADDE 7](articles/madde-007.md)
+- [MADDE 8 — Tahminler Dairesi Başkanlığı4](articles/madde-008.md)
+- [MADDE 9 — Gözlem Sistemleri Dairesi Başkanlığı5](articles/madde-009.md)
+- [MADDE 9/A — Meteorolojik Veri İşlem Dairesi Başkanlığı](articles/madde-009-a.md)
+- [MADDE 9/B — Araştırma Dairesi Başkanlığı](articles/madde-009-b.md)
+- [MADDE 10](articles/madde-010.md)
+- [MADDE 11 — Teftiş Kurulu](articles/madde-011.md)
+- [MADDE 12 — Hukuk Müşavirliği](articles/madde-012.md)
+- [MADDE 13 — Strateji Geliştirme Dairesi Başkanlığı6](articles/madde-013.md)
+- [MADDE 14](articles/madde-014.md)
+- [MADDE 15 — İnsan Kaynakları ve Eğitim Dairesi Başkanlığı7](articles/madde-015.md)
+- [MADDE 16 — İdari ve Mali İşler Dairesi Başkanlığı](articles/madde-016.md)
+- [MADDE 17 — Döner sermaye işletmesi8](articles/madde-017.md)
+- [MADDE 18](articles/madde-018.md)
+- [MADDE 19](articles/madde-019.md)
+- [MADDE 20 — Koordinasyon ve işbirliği konusunda Genel Müdürlüğün görev, yetki ve sorumluluğu](articles/madde-020.md)
+- [MADDE 21 — Mahalli İdarelerle koordinasyon sorumluluğu](articles/madde-021.md)
+- [MADDE 22 — Genel Müdürlüğün düzenleme görev ve yetkisi](articles/madde-022.md)
+- [MADDE 23 — Yetki devri](articles/madde-023.md)
+- [MADDE 24 — İşbirliği ve koordinasyon](articles/madde-024.md)
+- [MADDE 25](articles/madde-025.md)
+- [MADDE 26 — Gelirler9](articles/madde-026.md)
+- [MADDE 27 — Diğer kuruluşların istasyon açabilmelerinin izne bağlanması](articles/madde-027.md)
+- [MADDE 28 — Meteoroloji yayınları](articles/madde-028.md)
+- [MADDE 29 — Kamu kurumlarının mükellefiyeti](articles/madde-029.md)
+- [MADDE 30](articles/madde-030.md)
+- [MADDE 31 — Atama](articles/madde-031.md)
+- [MADDE 32 — Kadrolar](articles/madde-032.md)
+- [MADDE 32/A — Meteoroloji Uzmanlığı12](articles/madde-032-a.md)
+- [MADDE 32/B](articles/madde-032-b.md)
+- [MADDE 32/C](articles/madde-032-c.md)
+- [MADDE 32/D](articles/madde-032-d.md)
+- [MADDE 32/E](articles/madde-032-e.md)
+- [MADDE 33 — Yürürlükten kaldırılan hükümler](articles/madde-033.md)
+- [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)
+- [GEÇİCİ MADDE 4](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6](articles/gecici-madde-006.md)
+- [GEÇİCİ MADDE 7](articles/gecici-madde-007.md)
+- [GEÇİCİ MADDE 8](articles/gecici-madde-008.md)
+- [MADDE 34 — Yürürlük](articles/madde-034.md)
+- [MADDE 35 — Yürütme](articles/madde-035.md)

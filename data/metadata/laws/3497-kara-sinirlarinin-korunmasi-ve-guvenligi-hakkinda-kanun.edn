@@ -1,0 +1,90 @@
+{:document/id "law/3497",
+ :document/type :law,
+ :document/number "3497",
+ :document/title
+ "KARA SINIRLARININ KORUNMASI VE GÜVENLİĞİ HAKKINDA KANUN",
+ :document/slug
+ "3497-kara-sinirlarinin-korunmasi-ve-guvenligi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3497-kara-sinirlarinin-korunmasi-ve-guvenligi-hakkinda-kanun",
+ :document/sha256
+ "19343fbf80c9645ad9047c968547de52644bf7bf332c328c9cd791c3c25b8616",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3497.pdf",
+ :source/fetched-at #inst "2026-07-16T02:25:32.151-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3497/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6822f1e0ee08ea1262c082fa19e3e1d41611eb9889d3a98c17867896adaebd38"}
+  {:article/id "law/3497/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Görev, Yetki ve Görev İlişkileri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3df7217e4319fea2c32ea85392337cfcda38aa91506d1d3f774ac872dc6bae2f"}
+  {:article/id "law/3497/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Mali Hükümler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7340be055d857a385118d9fdeef8f7ba1f674b29954e63ae576b2f2fca02c8fc"}
+  {:article/id "law/3497/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "c59046b3ff8791d38f35e9d3c0d2bef014d21c04061cfcda9df28c8954d56a1c"}
+  {:article/id "law/3497/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Uygulanmayacak Hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1adad099acb901e8250b2d5d317a22226c2272245c9c24bf3bfdde3286c3e3f7"}
+  {:article/id "law/3497/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7da437a154b4c60989b4fbc003cb91f5e3580d2f67b71f3e0a162958b4367a7c"}
+  {:article/id "law/3497/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "585c2378421db4c3f6c790177f7d4ff79e3529d36655e8c32e933446c2c48dc8"}
+  {:article/id "law/3497/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "3110db58063414783fa32f004b9da60ba4a355d3081563ded15d83f75518bd30"}
+  {:article/id "law/3497/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "f61ce005c4b958beee866186a7950d425f10fd7aecf91e35814add2f33d877dc"}
+  {:article/id "law/3497/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürütme",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "bbd31c51265adbc91f235aced288b2c14c28a89799f2be7546dc326339ed925d"}]}

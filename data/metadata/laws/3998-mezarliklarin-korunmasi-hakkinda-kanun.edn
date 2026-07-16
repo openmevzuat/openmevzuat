@@ -1,0 +1,53 @@
+{:document/id "law/3998",
+ :document/type :law,
+ :document/number "3998",
+ :document/title "MEZARLIKLARIN KORUNMASI HAKKINDA KANUN",
+ :document/slug "3998-mezarliklarin-korunmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3998-mezarliklarin-korunmasi-hakkinda-kanun",
+ :document/sha256
+ "0a2184911406e69be1a2f10367f71f44c3a796ca4ad96bd4e4d14e678b61974f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3998.pdf",
+ :source/fetched-at #inst "2026-07-16T02:28:10.944-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3998/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Mülkiyet",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "783d3aeb68793f78c5d157209bdc61468dd838a83f96ac086dd56b492bfe60cd"}
+  {:article/id "law/3998/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Korunma",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "89364d721f34b6fcd323b16a1898ada570dd7e87e681318f14a23c973cee4176"}
+  {:article/id "law/3998/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İnşa, Bakım ve Onarım",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "7cc7a6ee6c936535d7d2eed23f757fdffc78a4703ee16258b2b7f3e9a852e60e"}
+  {:article/id "law/3998/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "01c521cffcc8eddd2a567eadbd3695b707c85ca5a6e0208278aeb9b39ef1eb28"}
+  {:article/id "law/3998/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "41a645e540bf0627b8ba6d5687ffdd7c9e88676ab258ec96c46b27e55c1c5fe8"}]}

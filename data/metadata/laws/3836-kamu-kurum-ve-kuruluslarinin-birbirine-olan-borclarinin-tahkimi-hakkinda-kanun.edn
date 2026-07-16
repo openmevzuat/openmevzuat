@@ -1,0 +1,62 @@
+{:document/id "law/3836",
+ :document/type :law,
+ :document/number "3836",
+ :document/title
+ "KAMU KURUM VE KURULUŞLARININ BİRBİRİNE OLAN BORÇLARININ TAHKİMİ HAKKINDA KANUN",
+ :document/slug
+ "3836-kamu-kurum-ve-kuruluslarinin-birbirine-olan-borclarinin-tahkimi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3836-kamu-kurum-ve-kuruluslarinin-birbirine-olan-borclarinin-tahkimi-hakkinda-kanun",
+ :document/sha256
+ "fcfb8fa3f49f553e4073a9d57931f5f244626c68a9d58203820a82b410d0160a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3836.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:33.883-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3836/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e9dc462b94aa3d48372cce71b786600c7787b0c71e6cd0e3ceac531a2bb2e155"}
+  {:article/id "law/3836/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kamu Kurum ve Kuruluşlarının Borçları",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2bbac43bd3f906678c1bf670cdcc00fb079245d65af588fd2dafc64b527febc2"}
+  {:article/id "law/3836/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tahvil Çıkarma ve Bütçelendirme Yetkisi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e601678fd695b3d22e2a88a1d0ac3ed638f2124908e4d3725e7f239fc09182ac"}
+  {:article/id "law/3836/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Vergi Muafiyeti",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d08c96b51c33122247ca6463fa5727b69707fb0328e68ba829ed2487c3f8f7fc"}
+  {:article/id "law/3836/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/3836/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a3b3461213f374e935b4a22d179f26e7fd3508105ab82a2d4876bf2f76743848"}]}

@@ -1,0 +1,237 @@
+{:document/id "law/4059",
+ :document/type :law,
+ :document/number "4059",
+ :document/title
+ "FİNANSAL İSTİKRAR İLE BAZI DÜZENLEMELER HAKKINDA KANUN",
+ :document/slug
+ "4059-finansal-istikrar-ile-bazi-duzenlemeler-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/4059-finansal-istikrar-ile-bazi-duzenlemeler-hakkinda-kanun",
+ :document/sha256
+ "9cf40abd1a9a833dfd98a5f76c28cf39e019679f2b356da85e2e83950872143e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4059.pdf",
+ :source/fetched-at #inst "2026-07-16T02:28:29.487-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4059/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Finansal İstikrar Komitesi8",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "732ae8d5d9426a81f74b8f9b139bcd4851573361121a104343233ee2e6d3e435"}
+  {:article/id "law/4059/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9bcbc831b8bb28f1ba9721d71dbbec6995c8201919d90cfda08f4015590ec3fc"}
+  {:article/id "law/4059/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8be3e9d4a92442555b6d97f5400ff0e1838859e7a2f63eb873d54d0e20405510"}
+  {:article/id "law/4059/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "78c3547415182f68044eefdf566bbe755f55955d628ea78a2a88a3d6d0bd1a80"}
+  {:article/id "law/4059/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2a63c0e0e7c44b7a44d601f32ae94e9adc4728b158e78633381045c682a171ff"}
+  {:article/id "law/4059/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "24db71e27923d7fe02b563fae455ddd7d6a7ba4b62b7ce8d9b668e5297eb4884"}
+  {:article/id "law/4059/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Sözleşme ile Araştırma, Etüt ve Proje Yaptırma14",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "58d5dfcc3f159975d50112a013ca994fbd653708b30775aae956a71a4f0edc55"}
+  {:article/id "law/4059/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4c92f082586a056ff32025ee0c728f111de6fc96da3f99fc326f68cf5ee6b18f"}
+  {:article/id "law/4059/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlükten Kaldırılan Hükümler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "15bad2385f8b9695d7f2148f512102f3f7c54ef5a1193e63bef003339503e29c"}
+  {:article/id "law/4059/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "89d8e8badb003fcb51599611230cabaae6aec6df57c069af2d00758b9a19ebaf"}
+  {:article/id "law/4059/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "50c495cfbeb6e50c519a26ad0039507375be0b377b9cef7976a401fe3117040c"}
+  {:article/id "law/4059/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "bd9457614dca3cc96f8f6f1a279386aab624287b8fef2cc2b89360eef3209598"}
+  {:article/id "law/4059/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "Finansal İstikrar Komitesi",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "9412c58ec318ff088952cb498bd641225e747522d7395c3ec0cf22c337eb00a7"}
+  {:article/id "law/4059/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Bireysel Katılım Sermayesi",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "077cda983302297fd943a6175ccbdbdf5a51d33791c3c5efa9154d25c7029a5e"}
+  {:article/id "law/4059/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d393d0578ed6b4a6deaad838208bcfc837ab76f42ef3cdcdb05f9a5b4141448d"}
+  {:article/id "law/4059/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "81b2d3ff6d930def92ff23d965d0bca897dc9dac3f6917cfee57a1ffec14f1f2"}
+  {:article/id "law/4059/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "7c3644ff241f8f102b8a62300925532123f61778fde680d6fe5c61c6def0dae8"}
+  {:article/id "law/4059/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "87b33022b53c4c95dad6ee650853b6408d63339ad6e41a7b22c1fd77426c962e"}
+  {:article/id "law/4059/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "aa6b28cbb84cbe126bf2be80ee61cfabe71c0a1257766c1e2969abb145fe67d7"}
+  {:article/id "law/4059/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "dda08422dc7b46a0dc514d6125faccc5e4bf6a47140840263191db357fc60d4e"}
+  {:article/id "law/4059/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "b85d2c720d69cc0cce323b9af20cd10e91289ad8f73a2bcf3113fa3defefcdb3"}
+  {:article/id "law/4059/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "2588b8a0387bb56fd7a154966151387844c25769f5b3e04230ede83399ad8c8e"}
+  {:article/id "law/4059/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "4936641b3683bd11c630e2cde4d865cfdb593354db75511efbaabf64761fbc7e"}
+  {:article/id "law/4059/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "0ce7a78cd537673fe84ca8ca47b5a9c951b6c8ca914526054cd8916e21148cd7"}
+  {:article/id "law/4059/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "536e16f715fa8129f641aabe7841123591472027326bfd4ffc68b7266f0e679f"}
+  {:article/id "law/4059/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "2f4b71c5106893a45921b8bdb86fbd9cad1b209b4f5d60108746d26c69a2df92"}
+  {:article/id "law/4059/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "eefa779a0cf87493416ec1f5a2184011df11f807ece98cc8b33a3a5685e1fb5c"}
+  {:article/id "law/4059/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "bab2008e3bf8ff668da62fff81f018f6a37a6efc111ef35adabe615ba8f4a624"}
+  {:article/id "law/4059/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "5d9e9fcf8a3e22898708543dcaccc96b660917f08afe1ff75415b8c1430f7779"}
+  {:article/id "law/4059/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "7257ded4e70fa7bf75d1d32372513674e947d13b8f807bce13ddd976fa4da05b"}
+  {:article/id "law/4059/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "26cfa71d6f65b6f7bdbf26d3c6485c547638a66e5af1598b53a28333d8feef79"}]}

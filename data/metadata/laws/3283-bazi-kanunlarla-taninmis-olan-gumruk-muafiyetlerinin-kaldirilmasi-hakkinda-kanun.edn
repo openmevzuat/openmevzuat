@@ -1,0 +1,63 @@
+{:document/id "law/3283",
+ :document/type :law,
+ :document/number "3283",
+ :document/title
+ "BAZI KANUNLARLA TANINMIŞ OLAN GÜMRÜK MUAFİYETLERİNİN KALDIRILMASI HAKKINDA KANUN",
+ :document/slug
+ "3283-bazi-kanunlarla-taninmis-olan-gumruk-muafiyetlerinin-kaldirilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3283-bazi-kanunlarla-taninmis-olan-gumruk-muafiyetlerinin-kaldirilmasi-hakkinda-kanun",
+ :document/sha256
+ "fa976a1c75091982add7ebffec170b1b3eda7e038c139920b19b8f685f9cb8fd",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3283.pdf",
+ :source/fetched-at #inst "2026-07-16T02:23:58.536-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3283/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 25 Sayfa : 196",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "89481d316549ce7b22d6d04c3a3b43488852fd58a20f54df1a8a331fe84cc7c3"}
+  {:article/id "law/3283/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "93cbd625fe9a1b5cfab934fe56ad855f12eedeef4f73c2e406c58fb7818f492d"}
+  {:article/id "law/3283/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "75c4388ca96e4467812627d395caab04281befd54aedc409d83fbc0cc487f5c5"}
+  {:article/id "law/3283/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "34a744f66b9c5c7ed3f0279c154e1d9ed514b0dc34bc66b8b4b5ccb0d4fa88b6"}
+  {:article/id "law/3283/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "313e434d4a77bb0eadddbf6cdcdca1faab9f7b922465b40ce2716591dd5a5ab2"}
+  {:article/id "law/3283/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "72069e899f546a3e688ea4ec5788dbbe50207a9f9d72c8d675ecf0b6a30352e8"}]}

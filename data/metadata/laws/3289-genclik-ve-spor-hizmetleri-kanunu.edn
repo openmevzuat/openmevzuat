@@ -1,0 +1,557 @@
+{:document/id "law/3289",
+ :document/type :law,
+ :document/number "3289",
+ :document/title "GENÇLİK VE SPOR HİZMETLERİ KANUNU",
+ :document/slug "3289-genclik-ve-spor-hizmetleri-kanunu",
+ :document/path
+ "data/canonical/laws/3289-genclik-ve-spor-hizmetleri-kanunu",
+ :document/sha256
+ "90401596cce1a757ea2e3a4bc16ad6ac0dd00c07c6fd155bdfd1106006360d32",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3289.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:03.658-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3289/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç4",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b77a9fa9d23d97f5c9d413201ac81d07af0ee949e142fe407899306191b7522f"}
+  {:article/id "law/3289/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Görev",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "27952a4ede3cb58fdf8a9acdb43ba4bd72e6e7b26249a2380399989057c62992"}
+  {:article/id "law/3289/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Teşkilat",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0d259109f5972b4b950513053977b81d69486ae8fe9696efb300c12ef1369525"}
+  {:article/id "law/3289/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3c647100009022c54e007ffab7e2da20d969f9a247382ad7c2d40775a394c6ac"}
+  {:article/id "law/3289/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "aecb7addd500e0066375c991b1a8e33e7bdc85efb1c8c7576b6f2613a1e979f2"}
+  {:article/id "law/3289/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "8d63aeaee69a197723206f896c3bee674daf2e2c7084e92379422a643d567c34"}
+  {:article/id "law/3289/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Spor dalları temsilcileri",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "e3892df6ce16a013a53d85b0fec2a959bb77ad5a09e2cdff0e8b0c454d26170a"}
+  {:article/id "law/3289/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "9339dc058cca1cb296b8849500bf3886a272b305dd001455b72990bd3eab2a1f"}
+  {:article/id "law/3289/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Merkez Danışma Kurulunun teşkili",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "bae0541bc7fa8627303e200b8ed5f3d962561fad454d19a2fae4003b6aea0f26"}
+  {:article/id "law/3289/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Merkez Danışma Kurulunun görevleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "12d757d4c5c1f82183cd5d0f978b18f4d0f7a5d2df90d16d9168527f1f3840f8"}
+  {:article/id "law/3289/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Verilecek cezalar12",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "4be835dfef8c73f7ab7fb730f1af1b2d3ba0113c263df522f26e29cacb85bf8c"}
+  {:article/id "law/3289/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Atama",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "461fc8b1f9152cbb37a00614fc9cc125eacf7aef3c3df07c021d31c64696e8dd"}
+  {:article/id "law/3289/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Bütçe ve mali hükümler13",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "2e9007d2a09356c34e2725d5fb36be8df0ce213dda2444cc90f24ab4ced3a615"}
+  {:article/id "law/3289/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Özel hesabın gelirleri16",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "5bfafe9fe7cd8c75deeb3ec8695c57da04edf1a8a3ac5afa63ddb9b4102061bd"}
+  {:article/id "law/3289/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Federasyonlar fonu",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "9b7eeb1bac629fbc35fca3bcd5511ec1c7bfde48d22261a12e95dfcdd942b031"}
+  {:article/id "law/3289/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Müsabaka, yarışma ve gösteri hasılat payı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "7bca958c43c42c33012f886b98ab76fe06d51b9e41b600516fa6faa135a11894"}
+  {:article/id "law/3289/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Muafiyet",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "41e6b7a9583a7b513e2f843ffa2666e2acebb679106f85893bd7869d8fbfdbb3"}
+  {:article/id "law/3289/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Federasyon teşkili ve profesyonel dalların tespiti",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "7f42213efa8f7009028a4ff1d431b79802a022c219bbfaef3560fb3ee0e9aa52"}
+  {:article/id "law/3289/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Federasyon başkanlarının seçimi ve kurullarının teşkili",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "8c283c79720dcc8dc200f105abdd22e9348bafe2d47e9d05f8122b0c0be8c052"}
+  {:article/id "law/3289/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Gençlik ve spor kulüpleri",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "46dcb229086e11d000e128b6cea70a86077d0e0b5f1b26ba1103f9e49a14277a"}
+  {:article/id "law/3289/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Kulüplerin denetimi",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "3cbc1ef7d8b4c0f475a87d293a614885eb470f9abe4d8a237c4f350f52b11e69"}
+  {:article/id "law/3289/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Sporcu lisansı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "de81f98db64835eac41b349f447d3f0d22f760c26ddc31bd904cd0814e5e8ae4"}
+  {:article/id "law/3289/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Sporcuların sigortalanması",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "a03eb9f0aa7e48099bc656be6974634d4cc0cc64f6c4694095a2b9eb90aeb61e"}
+  {:article/id "law/3289/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Profesyonel spor",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "401f02b13ac00e35e7ad5986944bc72c68c9966c9c6dc98ba82650ed340eb3de"}
+  {:article/id "law/3289/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Kulüplere yardım",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "063ba8dc0e0646848f0aa41ddf3e70e0e5645d70fd084a58bc41e66c8f9cc479"}
+  {:article/id "law/3289/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Tesis yapma mükellefiyeti",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "2eca5cd0c71ed30a69586203c913b1454e06cd1a44b3948ff5cc8e3fc9b0f678"}
+  {:article/id "law/3289/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title
+   "Sporculara devlet nakil vasıtalarında yapılacak tenzilat",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "e118275a64e1432962b8f625e29613043baa39e670721364a92f9c31bf1382d6"}
+  {:article/id "law/3289/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Özel salon açılması18",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "313d58c4ab02103f50d09d065a0da3cc3c6ba16f8f0ddaa89f996560ba6838ca"}
+  {:article/id "law/3289/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title
+   "Sporcuların ve spor yöneticilerinin izinli sayılmaları",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "f30268de9028075388e907684d82d0f7854e747f26a2156eb3962d8966d516a4"}
+  {:article/id "law/3289/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Sözleşmeli personel1920",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "6634faead9a3e3165e663f8c525709960d983ed0505b1d13d955a4e1c6613e35"}
+  {:article/id "law/3289/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Günlük çalışma saatlerinin tespiti",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "9109b1b16dc2e1ee1387f48252ca903d3570168aa4dd706ab39650629ae132d4"}
+  {:article/id "law/3289/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title
+   "Öğretmenlerin antrenörlük, uzmanlık ve danışmanlık yapabilmeleri2122",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "aa8f6b5714b3f847f8c17345487e398426b70cef5e38462e397f6c1981c9a01b"}
+  {:article/id "law/3289/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Spor meslek liseleri",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "c377dd92a6874aef4a56a022f1f3a8e9dfc259b37f11719a3df5a9d5edea0f1a"}
+  {:article/id "law/3289/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "3a4b4827cdadc06544a47abc7a8c8bcab0b104e81267de4ceb8d2944a82153e1"}
+  {:article/id "law/3289/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Koordinasyon ofisleri",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "c37ed5769b3178ffb5e4248d3d399db65a5ab9070217dec82d92f5713978c33f"}
+  {:article/id "law/3289/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "İl müdürlüklerinin malları26",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "c9df857761378481959a5228bf59a7882fd0bf9e78b877766c0d82697b40e2c2"}
+  {:article/id "law/3289/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "e8df29c3cb1a150b142ef47a5cdc45576a98a2f54a30b660a3e4e447dd3b6da9"}
+  {:article/id "law/3289/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Anlaşmazlıkların halli",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "241acd86da2697c858c9def4676432ea8cff518bbfe0700a02cb587064be0d62"}
+  {:article/id "law/3289/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Uygulanacak hükümler",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "74ec1afb546747704180cdd04da9b770590cee3c15ebbc15ad372d5c09356758"}
+  {:article/id "law/3289/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "9d15f9f3f8012927906d6bdde042f84e5b0123d423c0d87993b472560d3d7398"}
+  {:article/id "law/3289/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "İntikal hükümleri",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "e20bea66b521135eb4b01971f5d041f62daa7066d3292e683a384f83772206ef"}
+  {:article/id "law/3289/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title "Kamu görevlisi sayılma",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "15e7620db956af95e8471ffe98388665f0aa6051d2719ee35a527855387860f6"}
+  {:article/id "law/3289/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title "Sporcu sağlığı28",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "47cf7f09513b9fc65e6e4e5a0a4f5e933f97332538441a1d383d34ede6c6e55d"}
+  {:article/id "law/3289/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "a4ff508e9ee2e6e107c82e300983b29222424b1ad9105a4c4e2d536a7322f96e"}
+  {:article/id "law/3289/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "Özel saha ve tesislerin açılması3233",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "4a27c1af6925a1a33aa2b2ed7afc7fc17f49ec87b342bdfdd5e6a7245e144f98"}
+  {:article/id "law/3289/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title "Kamuya ait saha ve tesislerin kullanılması",
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "6d420054367ca5f6a86bf1284dc68ecf80f1b5945da37242cffc9da6d97ffadc"}
+  {:article/id "law/3289/article/6",
+   :article/type :additional,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/ek-madde-006.md",
+   :article/sha256
+   "78bb2dbdffcbb26fafd3055d15a126aa7770765ece8b20c26442d5ba2839de90"}
+  {:article/id "law/3289/article/7",
+   :article/type :additional,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/ek-madde-007.md",
+   :article/sha256
+   "680b754a7ded2a8344d4bda5e3c93d6545eaf3c16481c755924fd26c96cbd5c3"}
+  {:article/id "law/3289/article/8",
+   :article/type :additional,
+   :article/no "8",
+   :article/title "Koordinasyon",
+   :article/path "articles/ek-madde-008.md",
+   :article/sha256
+   "828a5965c74347b8a66e80f9cf6d3e1908b33e01f90ec5023f1e6cba0f25bcf5"}
+  {:article/id "law/3289/article/9",
+   :article/type :additional,
+   :article/no "9",
+   :article/title
+   "Sportif Değerlendirme ve Geliştirme Kurulu ile Tahkim Kurulu3536",
+   :article/path "articles/ek-madde-009.md",
+   :article/sha256
+   "3e93698897070592d29ee181ed4d8bb934dd36bb1d2e64046f4c5c74716b99e6"}
+  {:article/id "law/3289/article/9/A",
+   :article/type :additional,
+   :article/no "9/A",
+   :article/title "Tahkim Kurulunun çalışma usul ve esasları",
+   :article/path "articles/ek-madde-009-a.md",
+   :article/sha256
+   "e63c2d44cbe7c6522933190655d0ed742a8984d1c38437ea3e6f068324dc2123"}
+  {:article/id "law/3289/article/10",
+   :article/type :additional,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/ek-madde-010.md",
+   :article/sha256
+   "063ab31fe423c0d9be2b8991d3a0cc195f53bde80a9e4761e08fe0012f072f0b"}
+  {:article/id "law/3289/article/11",
+   :article/type :additional,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/ek-madde-011.md",
+   :article/sha256
+   "e699fefd4a0cdfd5a74a2de1d24bc0003758180b330e7f2b2ca19e61be4c1a26"}
+  {:article/id "law/3289/article/12",
+   :article/type :additional,
+   :article/no "12",
+   :article/title
+   "Amatör sporun ve altyapı spor eğitim tesislerinin desteklenmesi",
+   :article/path "articles/ek-madde-012.md",
+   :article/sha256
+   "44a9c17c3109b5cb6f6a07349f08907729dc9d0eec89f828cfd6aece5733eaa3"}
+  {:article/id "law/3289/article/13",
+   :article/type :additional,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/ek-madde-013.md",
+   :article/sha256
+   "b6a0448967ff07fba12c393b5cbff3f642d3e7fe99dfd0ea31817a6acc2d13ba"}
+  {:article/id "law/3289/article/14",
+   :article/type :additional,
+   :article/no "14",
+   :article/title "Özel gelir ve hesap",
+   :article/path "articles/ek-madde-014.md",
+   :article/sha256
+   "cf390640fe3b9a227830e2a4937fd04c6485ceca5984ab81dad862c260e901b4"}
+  {:article/id "law/3289/article/15",
+   :article/type :additional,
+   :article/no "15",
+   :article/title
+   "Olimpik, paralimpik ve deaflimpik sporcu yetiştirme",
+   :article/path "articles/ek-madde-015.md",
+   :article/sha256
+   "45cdc4340247c91b579947b32f3bf763c27c116a61c0a34dbd145a9114d43ef0"}
+  {:article/id "law/3289/article/16",
+   :article/type :additional,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/ek-madde-016.md",
+   :article/sha256
+   "f41faaefa1f1ddf07a266c0fdc30a1ef584b025c1a3a7fd907f0fddf665ddda0"}
+  {:article/id "law/3289/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "GEÇİCİ HÜKÜMLER",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3c8ff1c1885097d5fc30260a1d4d751fe2926155b23703f2691f6b91ff9853fb"}
+  {:article/id "law/3289/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "1ee4baa3beb7d1de1fad9c1e1d38fb812172c162ebdcee6d1db6a2a35df8435b"}
+  {:article/id "law/3289/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "b4de8418e3a44afb5579b0cf00ce0cd0aa01daa3f8500a605e0ee87e1670741f"}
+  {:article/id "law/3289/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "2244576f771cb755d81121ba56d90decdefb6db639071c2937c58a4ea312104b"}
+  {:article/id "law/3289/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "aa084211703c23cf3de097595b622f281645f12caace39d53bec330b7f08d8b2"}
+  {:article/id "law/3289/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "96428b9cc834c7100697be5479c1cbe8140c5077a53b436172f23728e7bd5973"}
+  {:article/id "law/3289/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "f5c067eced930a3a220c19dc108ef1297a32997702d635aec80d5d976d36c39e"}
+  {:article/id "law/3289/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "bd42c9f9ab43851859e17e65dfef69d97a3ba3ec4321c9ed09135b56e995a94e"}
+  {:article/id "law/3289/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "b8eb4ad8711a5df901cd53b0048b8fd40a642276f5c89bfadc5bb6be9b367756"}
+  {:article/id "law/3289/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "aac69cca145505996050e1e9386c781a924dc7b3fa0719580ee494811fe4ed97"}
+  {:article/id "law/3289/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "1c751494d0584c77f9ec6b950e2a6c42d34f1f228f3cc0028ce8925c3df2f719"}
+  {:article/id "law/3289/article/12",
+   :article/type :temporary,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/gecici-madde-012.md",
+   :article/sha256
+   "7d9c39e89a56c95bf4de5d085a703bba500e43c74c0d1a1fb101db13cab01518"}
+  {:article/id "law/3289/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title "Olimpik sporculara yardım",
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "b8ca390e75b9ab1c0f536255addb918d74eecd0e2a82938a96f3e07aea24f263"}
+  {:article/id "law/3289/article/14",
+   :article/type :temporary,
+   :article/no "14",
+   :article/title "Sürekli kurullara ilişkin geçiş hükümleri",
+   :article/path "articles/gecici-madde-014.md",
+   :article/sha256
+   "77ffc0a5fa6f9d21d1fd33c77dcc1394e3167b11f21764952cd2c6074764292d"}
+  {:article/id "law/3289/article/15",
+   :article/type :temporary,
+   :article/no "15",
+   :article/title "Taşınmazların devri",
+   :article/path "articles/gecici-madde-015.md",
+   :article/sha256
+   "1633616b8098867dfeb3b1e83ffe24a724350dac40906d7ab515097bdd069e2b"}
+  {:article/id "law/3289/article/16",
+   :article/type :temporary,
+   :article/no "16",
+   :article/title "Personel devri",
+   :article/path "articles/gecici-madde-016.md",
+   :article/sha256
+   "1ce59ddd5dd318b3ddf679882624487f6ce97c9e468100e366bd21e9400ce531"}
+  {:article/id "law/3289/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "5c2d67126b907bbee0d13e3217053bb36acf15db8323c5d0dacddf0082c54198"}
+  {:article/id "law/3289/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Yürütme",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "1511b84a091bac6815148465ac8c0e8c26bdb0bdeee832462ceb1fc12e7395da"}]}

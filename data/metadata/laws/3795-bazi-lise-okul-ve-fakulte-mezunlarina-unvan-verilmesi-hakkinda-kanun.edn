@@ -1,0 +1,83 @@
+{:document/id "law/3795",
+ :document/type :law,
+ :document/number "3795",
+ :document/title
+ "BAZI LİSE, OKUL VE FAKÜLTE MEZUNLARINA UNVAN VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "3795-bazi-lise-okul-ve-fakulte-mezunlarina-unvan-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3795-bazi-lise-okul-ve-fakulte-mezunlarina-unvan-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "6f3b293c44f465057a4fcae2d3d4ed8f304d6c1378a8057d458e255a645d0647",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3795.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:15.458-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3795/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e387b15efbf13a85a4b115a97834b68f384dbc1f29729322278b022b4122ad16"}
+  {:article/id "law/3795/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "da5827a83152159743bb311ffa1571f839417cba6b02b75961a1620ada8a4972"}
+  {:article/id "law/3795/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Unvanlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "bd412f6285507555eaf34b18aa2adcaabee235d8db491a3c2561d3a7973afcaa"}
+  {:article/id "law/3795/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Mühendislik Programlarının Düzenlenmesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "89baf5f6afa026f68866c15a6a4944a5dfd2cd085eec8b0f027c9f6939eae624"}
+  {:article/id "law/3795/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Mühendislik Programlarının Uygulanması",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "870b12ceb9097096fe3252795c09008e2d130900f63bd4890e60cda1b57dccbc"}
+  {:article/id "law/3795/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yetki ve Sorumluluk",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "0d49f7812493a8e6aa97c0a997ee90ec7acd62c7a505c6a6237cdfdd529fff4f"}
+  {:article/id "law/3795/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2a7926e74833823f0300031bb1ce24d4ca1c4dca773051dfb0143d49516d88e2"}
+  {:article/id "law/3795/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9f1613bd0f2d6ffd947d1c623c40dbc7ee31e03971cbe1c6bbce0de553121501"}
+  {:article/id "law/3795/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "c4093e181c15ed223015ff9241a4264597c0fa48fa0154b742d30d41b401c80f"}]}

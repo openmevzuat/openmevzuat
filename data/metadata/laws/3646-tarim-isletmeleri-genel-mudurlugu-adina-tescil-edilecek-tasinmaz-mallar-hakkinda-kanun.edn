@@ -1,0 +1,76 @@
+{:document/id "law/3646",
+ :document/type :law,
+ :document/number "3646",
+ :document/title
+ "TARIM İŞLETMELERİ GENEL MÜDÜRLÜĞÜ ADINA TESCİL EDİLECEK TAŞINMAZ MALLAR HAKKINDA KANUN",
+ :document/slug
+ "3646-tarim-isletmeleri-genel-mudurlugu-adina-tescil-edilecek-tasinmaz-mallar-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3646-tarim-isletmeleri-genel-mudurlugu-adina-tescil-edilecek-tasinmaz-mallar-hakkinda-kanun",
+ :document/sha256
+ "1f34b64c4f1628cb2602a1c4105f63071faa91d751ced0c81510fbad499c8a19",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3646.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:30.473-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3646/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e6359566f1177596be3d4c1b4da401e3f0e89cbcdf47a60c20dff32c28334c86"}
+  {:article/id "law/3646/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tescil İşlemleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2e6829ebb8f55509102519aaf6cc252946fdadea55617ed31b0f17f9acd6e040"}
+  {:article/id "law/3646/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İhtilaflı Taşınmaz Mallar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ddf28bcdb073f6f187692723508ef9a7ddb4dca0a424152b505b345d3c8ed3a9"}
+  {:article/id "law/3646/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sermayeye İlave",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a72c3588305c78f60e90192bfed47dabb3fd81258fce5ff2f29fe53620fee4fa"}
+  {:article/id "law/3646/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İstisna",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a943e3cea5357f3353b0f7dccb6386d81ddd0fce56427db431091e2c6d3d7d9b"}
+  {:article/id "law/3646/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Muafiyet",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "1dcad85bc95b31056781a14f505b44fe0be5fe895150638dce69dd35b7ab602b"}
+  {:article/id "law/3646/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6d5dea3c60439db3be3505476856789045b945f9ce89b8e45dae379fb14f9f5e"}
+  {:article/id "law/3646/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0f95af171f087e85d51dd5e2f79f3e9a40e4715e8af2180eae9f4b208d638346"}]}

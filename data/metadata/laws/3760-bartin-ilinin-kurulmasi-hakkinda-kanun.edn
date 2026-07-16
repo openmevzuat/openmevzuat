@@ -1,0 +1,75 @@
+{:document/id "law/3760",
+ :document/type :law,
+ :document/number "3760",
+ :document/title "BARTIN İLİNİN KURULMASI HAKKINDA KANUN",
+ :document/slug "3760-bartin-ilinin-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3760-bartin-ilinin-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "6074e8711792c6b3e78924f4dd020a0052ce7eae017592d6f254e2bdb2d942d5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3760.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:05.579-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3760/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 31 Sayfa : 11",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "c7efabe186e86b3ebbd94c160fd631141a7c326d0b9bb2bc7c529b0458f63c4b"}
+  {:article/id "law/3760/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "21630bbe003664259ea50b2b50d7543efe8da0a6ef6b5353809a0aecee27c4cb"}
+  {:article/id "law/3760/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e546cc8516433d7d741fcbd929fa84dc2604aad2287536665d66a550ff84d890"}
+  {:article/id "law/3760/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "220b5d0c89647c28591a387a73df509cd74017870568989905217152ce74e7d5"}
+  {:article/id "law/3760/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "f5090283a4b5a11fc299ab3944d957b87236b762c1cebe7398dc41c6b0865b79"}
+  {:article/id "law/3760/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "1e7cf9f3ba1aaff15fa23e9110f48cde7ddce0c6d35e1341d7d166c57cabf52e"}
+  {:article/id "law/3760/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/3760/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3290f9f93ca5cb23199fbc211cca858f1b4f3dd0821a97d32b3f34b16ee5d094"}]}

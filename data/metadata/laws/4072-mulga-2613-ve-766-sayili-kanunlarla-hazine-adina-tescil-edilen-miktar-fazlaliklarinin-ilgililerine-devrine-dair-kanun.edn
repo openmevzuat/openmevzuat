@@ -1,0 +1,69 @@
+{:document/id "law/4072",
+ :document/type :law,
+ :document/number "4072",
+ :document/title
+ "MÜLGA 2613 VE 766 SAYILI KANUNLARLA HAZİNE ADINA TESCİL EDİLEN MİKTAR FAZLALIKLARININ İLGİLİLERİNE DEVRİNE DAİR KANUN",
+ :document/slug
+ "4072-mulga-2613-ve-766-sayili-kanunlarla-hazine-adina-tescil-edilen-miktar-fazlaliklarinin-ilgililerine-devrine-dair-kanun",
+ :document/path
+ "data/canonical/laws/4072-mulga-2613-ve-766-sayili-kanunlarla-hazine-adina-tescil-edilen-miktar-fazlaliklarinin-ilgililerine-devrine-dair-kanun",
+ :document/sha256
+ "e0b473e64f57cd9b44fd31a1d4143e76df69838cb099934ad384fccdf8fc1b76",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4072.pdf",
+ :source/fetched-at #inst "2026-07-16T02:28:34.517-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4072/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Fazlalıkların Devri",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dbe9ae252deaf83d4a56e9b3642e61adf3cebf51a49e7cf8d6d00e9f1467af21"}
+  {:article/id "law/4072/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Devir şekli",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "ecefe60962d875f91843f5512cc4f72ef258ed13d27dfccd54130af4db5cc5ce"}
+  {:article/id "law/4072/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Devri yapılmayacak taşınmaz mallar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "35f600bc6466b45f43b84c70c9ed9368697779e31243baab08d7e57456b00b09"}
+  {:article/id "law/4072/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Başvuru süresi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "fa221c8189c95c3cca52c72ac4b23b9ed3a7e4398437bba76cbabaf167c68457"}
+  {:article/id "law/4072/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "8d4ad48a1e845a46e6246439b518d54055dd94d342c6da06e854c00db07bef47"}
+  {:article/id "law/4072/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "69dc0d77394a11e3d340d747a1524b44fca09e9e94ccddd6990f52d40b6083a4"}
+  {:article/id "law/4072/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yürütme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "cb0ddae63108fb20618b4db51cf3d7849644cb16bd48d2571cb6c155e891ac31"}]}

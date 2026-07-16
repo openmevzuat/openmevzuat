@@ -1,0 +1,49 @@
+{:document/id "law/4107",
+ :document/type :law,
+ :document/number "4107",
+ :document/title
+ "TELGRAF VE TELEFON KANUNA BAZI EK MADDELER EKLENMESİNE, BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+ :document/slug
+ "4107-telgraf-ve-telefon-kanuna-bazi-ek-maddeler-eklenmesine-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+ :document/path
+ "data/canonical/laws/4107-telgraf-ve-telefon-kanuna-bazi-ek-maddeler-eklenmesine-bazi-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasina-dair-kanun",
+ :document/sha256
+ "47452407642d2e7a40ab9e86125a78e3be5102d77322ecdc31adebcfe53fb3ce",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4107.pdf",
+ :source/fetched-at #inst "2026-07-16T02:28:43.535-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/4107/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title
+   "değiştirilmesi ile ilgili olup, yerlerine işlenmiştir.)",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c1bb6a764dfccd5f4802803367cec59e3b874791731869d6f89086f7dfc1e946"}
+  {:article/id "law/4107/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b9eed911684fea1523612303de6014887a8fe46cb164bc2d2a8501616e53fc8b"}
+  {:article/id "law/4107/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9f1613bd0f2d6ffd947d1c623c40dbc7ee31e03971cbe1c6bbce0de553121501"}
+  {:article/id "law/4107/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3606752f6e0f7e9741ff9ae2a91e4156842ca2446ad087839385a68d72de7dde"}]}

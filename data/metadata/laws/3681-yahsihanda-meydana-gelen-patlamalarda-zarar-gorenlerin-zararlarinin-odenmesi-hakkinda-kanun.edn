@@ -1,0 +1,49 @@
+{:document/id "law/3681",
+ :document/type :law,
+ :document/number "3681",
+ :document/title
+ "YAHŞİHAN´DA MEYDANA GELEN PATLAMALARDA ZARAR GÖRENLERİN ZARARLARININ ÖDENMESİ HAKKINDA KANUN",
+ :document/slug
+ "3681-yahsihanda-meydana-gelen-patlamalarda-zarar-gorenlerin-zararlarinin-odenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3681-yahsihanda-meydana-gelen-patlamalarda-zarar-gorenlerin-zararlarinin-odenmesi-hakkinda-kanun",
+ :document/sha256
+ "9c37d84af054a537f05b89da8ebd800a432d070b2e15a8d85cb64b462de8a4b5",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3681.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:48.455-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3681/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 30 Sayfa : 34",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a7f3f75bafab0732fb3498fd042ce293acd4837e069990d11797a7769c05ab27"}
+  {:article/id "law/3681/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "67a7e614c698495ac8cd9b613046615ac4c261ce804b483781d974a731aa90e7"}
+  {:article/id "law/3681/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "22533058cddd67221b555ef637765adf0aeb9ceb948440090bbb000347d99365"}
+  {:article/id "law/3681/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ff5aed8cefa131cdd46dae4e4a063c39a54a285aef09ee2ec3b3a63d0dbcd24a"}]}

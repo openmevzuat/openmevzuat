@@ -1,0 +1,147 @@
+{:document/id "law/3580",
+ :document/type :law,
+ :document/number "3580",
+ :document/title
+ "ÖĞRETMEN VE EĞİTİM UZMANI YETİŞTİREN YÜKSEKÖĞRETİM KURUMLARINDA PARASIZ YATILI VE BURSLU ÖĞRENCİ OKUTMA VE BUNLARA YAPILACAK SOSYAL YARDIMLARA İLİŞKİN KANUN",
+ :document/slug
+ "3580-ogretmen-ve-egitim-uzmani-yetistiren-yuksekogretim-kurumlarinda-parasiz-yatili-ve-burslu-ogrenci-okutma-ve-bunlara-yapilacak-sosyal-yardimlara-iliskin-kanun",
+ :document/path
+ "data/canonical/laws/3580-ogretmen-ve-egitim-uzmani-yetistiren-yuksekogretim-kurumlarinda-parasiz-yatili-ve-burslu-ogrenci-okutma-ve-bunlara-yapilacak-sosyal-yardimlara-iliskin-kanun",
+ :document/sha256
+ "62b72ca60e0c8f59d590217195722f80e965a9e19140cc263ef8e008a9fd8759",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3580.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:07.071-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3580/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d0eedef438df588f16857c3d00bf65fadeed9ba20a13f36ff64fa61a56c9aa4f"}
+  {:article/id "law/3580/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "aff539ff748c8b7051e0218878d18a6a73c73026a6393b6352a43b6783d2469a"}
+  {:article/id "law/3580/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "99d81c0ba76096700bfad776c40efe0e5b00b556240ab33456b7506cc480eafb"}
+  {:article/id "law/3580/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "031d9ecabb61a7705b8499532d67055d4d33414592a9346db173b40a10805522"}
+  {:article/id "law/3580/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Parasız yatılılık ve bursluluk süresi",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d61be437238e74a7996be75882f35768fe725c5388321126004a22989d3e052e"}
+  {:article/id "law/3580/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Parasız yatılılık veya bursluluktan faydalanma",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "e26c765f679f27a3f1ae2ef9b2f58f5727904ff776945b1532098c0bf0dc6816"}
+  {:article/id "law/3580/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Parasız yatılılıktan bursluluğa, bursluluktan parasız yatılılığa geçiş",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "2d47caaa1dd3295e0d325e1e94b462f9a28b408080c513f5d2d178e9d229bef7"}
+  {:article/id "law/3580/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Başka kurum burslarından faydalanma",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "931e821e548dc737ce50e6426aeb57e2213f7a8d73b5e4bdb4bebf714522c527"}
+  {:article/id "law/3580/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Öğrenim kurumunu değiştirme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "400577257995bb25bb7e95b1f9dc50d26825c6807baa8fa5347a9885e23f6997"}
+  {:article/id "law/3580/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Burs ve harçlık miktarı",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "b1bf81710d0bbb9c9ea6512c29a91a2dce516820236340a13b584b1ad5de062a"}
+  {:article/id "law/3580/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Eğitim giderlerinin karşılanması2",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0031b910a119bf93b9d316a93e63d33b700f0954b478676fd3c5a1ed7bedf01b"}
+  {:article/id "law/3580/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Sorumluluk",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "0b8f10323e0fe22aacc67bf2bb5a8143a7ff8469e309037ffa548c0d7c2877b1"}
+  {:article/id "law/3580/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yükümlülük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "7b34648fbcb7e0a0a75843f07a0e773119d4f19201ebd2b7264276c0e3dcbbe4"}
+  {:article/id "law/3580/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "e133b4b873f3d69dd3446a787ada29241963abd6ee18269f245d9b5ba5a87599"}
+  {:article/id "law/3580/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6ba03cb163fe7479156ec3d8f4b2164e97c4ad376e999c7dddcce5a7d59e6715"}
+  {:article/id "law/3580/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "778abd31e15efe1656f1eb1d1f0b7920d4b43543050841fb8a923dd1d2dd6af0"}
+  {:article/id "law/3580/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "6385aa35c347b7b1e4ff2af7c368578a022e62d0be1ccc1200fd23285e923bd9"}
+  {:article/id "law/3580/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürütme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "2a1b7cd2d553bd54d182673be797898839c7b9bc12a3bc93a081dc1fe8675a75"}]}

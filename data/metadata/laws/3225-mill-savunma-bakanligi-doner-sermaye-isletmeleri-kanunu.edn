@@ -1,0 +1,174 @@
+{:document/id "law/3225",
+ :document/type :law,
+ :document/number "3225",
+ :document/title
+ "MİLLÎ SAVUNMA BAKANLIĞI DÖNER SERMAYE İŞLETMELERİ KANUNU",
+ :document/slug
+ "3225-mill-savunma-bakanligi-doner-sermaye-isletmeleri-kanunu",
+ :document/path
+ "data/canonical/laws/3225-mill-savunma-bakanligi-doner-sermaye-isletmeleri-kanunu",
+ :document/sha256
+ "c6e613bc59b370f78506e2fdfefebfd352c8a4750307b0d2c96fde680b51d945",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3225.pdf",
+ :source/fetched-at #inst "2026-07-16T02:23:32.794-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3225/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "17f5e3da1704015cc7313ada3051596395cf130afb2ccad4a41cbccf6dbfe16a"}
+  {:article/id "law/3225/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9af7e139618d30b16b8a91416f360c70059e9efaafb755bd4f7f87736075db92"}
+  {:article/id "law/3225/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Döner sermaye teşkili ve tutarı",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "cdafb4afe2f988e28b0ac5321a87be4630fc7f0f8bc99f8f98cd412a3c522021"}
+  {:article/id "law/3225/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Sipariş alma ve yetkiler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "23f658b2c2aeb64eaa998d39e9c00db96afec33fdc90cb45f6c5362072765772"}
+  {:article/id "law/3225/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Öncelikli hizmetler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6629f5de2fabdcc24a0959453f65f07e148081cee813f4b9b023b7ae66aab23a"}
+  {:article/id "law/3225/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ce1ca7c03e97592f0c28e2c81fd64aa8e060ab8738c25094a02eb6f3d02c722d"}
+  {:article/id "law/3225/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Sermaye ve kara dair hükümler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6244031f8e4bdc1d15b578e4c994d643bf0e17a25d30ac3652748a6b09893771"}
+  {:article/id "law/3225/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Giderler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ecef6267dd1a0da5d8f243d8c6c4805f43e2859a50785751c1df32e9c7cb2e36"}
+  {:article/id "law/3225/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kredi alınması ve borçlanma",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "5d504997a4310438f5e4f2a8c338a5fc8b28ab1b9776cb2b088593be54853ad5"}
+  {:article/id "law/3225/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Personel masrafları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3bc9f9c193293d89473bd2cab74a608f6eace2ce0f249f1dbb33d53aa6b4e5b8"}
+  {:article/id "law/3225/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Araç, gereç ve malzeme devri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "5050979d2764744e84d99b6455260c0d18693324afd9b982ee9602225f9cfde9"}
+  {:article/id "law/3225/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Amortisman bedeli",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "fbc95354ddf81cd505643df1e06e972491b8940a534105081ff81cb20d1d61ef"}
+  {:article/id "law/3225/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "İşletme masrafları",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "073cd211bb1fc9675b90cb4e81e7952bbd177cb8d55f7a36361dbd28f0e66d58"}
+  {:article/id "law/3225/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Ek görev",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "fcda5f0b1c5c912b55256b3a62cc8a313f2083bdc757a1c8a7a68eab85161c77"}
+  {:article/id "law/3225/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "f7a43c1f802b82c94b1958f73947bd1321a536d30b81cc460ac0b49be65997d3"}
+  {:article/id "law/3225/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "abebe0d301f04adadedb31944cb2730ee71f1c2a1395520142005867fe9f4bb4"}
+  {:article/id "law/3225/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "8495a894485c6e872e16153711a34a55319c4f8b7f09bd7bc9e256c8fcc73f14"}
+  {:article/id "law/3225/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c42314ede0581055c4b488c3912d1a323740bfc2e112d1956550d0b2bc0d0c21"}
+  {:article/id "law/3225/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "3711dee8c138ccabd849937b643f57ed0c09747520ab33c28dc7099adc2fd9e2"}
+  {:article/id "law/3225/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ac02be1481760c045e6232754b6ed1a2e890b06f5927be57533850f7d9d94602"}
+  {:article/id "law/3225/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c282d62663aef81d572db8884dac41002f6c3750fa26f2f9837b3c642b57475c"}
+  {:article/id "law/3225/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "5f478b9d9a7d8002681c9444a33b95c94ee817765d88d607a435dbdf51898dc2"}]}

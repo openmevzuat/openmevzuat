@@ -1,0 +1,88 @@
+{:document/id "law/3686",
+ :document/type :law,
+ :document/number "3686",
+ :document/title "İNSAN HAKLARINI İNCELEME KOMİSYONU KANUNU",
+ :document/slug "3686-insan-haklarini-inceleme-komisyonu-kanunu",
+ :document/path
+ "data/canonical/laws/3686-insan-haklarini-inceleme-komisyonu-kanunu",
+ :document/sha256
+ "9faed022072a7288ededf34b6a237ddb2521bff5f3fb43a65401aed4b2b62d73",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3686.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:50.763-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3686/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "824c4e3ce1aeb4bb703dc55105d03c4a3368c898b3c73bd5561849acd6c2dd73"}
+  {:article/id "law/3686/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5a06f9aff0d1c6768ef3df240b3c371888ea14b567ad2acd5594818f4cec8fde"}
+  {:article/id "law/3686/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Komisyonun Kuruluşu",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "0a99bd5264e1746db2cc885ad5caa5f0f9935aaa06afea334bbb10fd97ef166f"}
+  {:article/id "law/3686/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Komisyonun Görevleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "26d9e67a88ebeb180c67a3704b7d138e091db531ddd2b7e567df5ef23e62206f"}
+  {:article/id "law/3686/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Komisyonun Yetkileri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "89725f07c899d089be304f1e11cb1c943d71058de08f32c8bfaf3faded5e1b49"}
+  {:article/id "law/3686/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Komisyonun Çalışma Usul ve Esasları",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b818a2c4aecc94e310123a98eeaebbba684989102006c41bc058e9774885f8a7"}
+  {:article/id "law/3686/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İnceleme ve Sonucun Bildirilmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "4a247f9ad0ff5a86139d307f91e2278211bb2d16c07b525a612fe4383223e069"}
+  {:article/id "law/3686/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Uygulanacak İçtüzük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "03423f4ed08e7854339190c9913d21c0317a78ea69d92e12574390d27257e7b6"}
+  {:article/id "law/3686/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "f6acb5bb40444cd0dd3e4e556e7e94b3d52f5bdf49b500ea21fd68d97538866a"}
+  {:article/id "law/3686/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "19c358094d88009d35c8698cecc601e7285af140ed67afc3553bb2beb57c529a"}]}

@@ -1,0 +1,91 @@
+{:document/id "law/3647",
+ :document/type :law,
+ :document/number "3647",
+ :document/title
+ "İKİ İL İLE BEŞ İLÇE KURULMASI VE 190 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "3647-iki-il-ile-bes-ilce-kurulmasi-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3647-iki-il-ile-bes-ilce-kurulmasi-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "ecbeb239b037a21c3478a342a7b98c3ddb34c8c317ef48803031c9db4b3eb605",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3647.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:32.734-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3647/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 29 Sayfa : 182",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5ce3b27e95bcd3bf737e2d191cda458b19858e0220543e3801d94472525c8839"}
+  {:article/id "law/3647/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3242c0feada4371708c2ac19b865a773c077adaaf054ff0fe459936cadd24b9f"}
+  {:article/id "law/3647/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "80dab10e3ce90fc0b703950fdffecf55526e4f4c001794bec3f86bbe548e4995"}
+  {:article/id "law/3647/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "2b4aad992a2239bb7556d752597220792ac8fba1b1489aaa52bf14ef4bbc8c33"}
+  {:article/id "law/3647/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "83c8904016c132baa103e901a207db912e183e9533b7460dc6181c43dab3a175"}
+  {:article/id "law/3647/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "a18370fe44d4b6ac793b9ab3998a3f3637c0d35eaa8fab5ad2d588119c593f50"}
+  {:article/id "law/3647/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "013efce9ad3907574add49b3afa4860a5ccb80f67bf29cec0ba5305e1a8828dd"}
+  {:article/id "law/3647/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e227c9b1f0ad98d771ec9d110f97029d6820f155ffa22b50cbcc0332f5f19979"}
+  {:article/id "law/3647/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f57cff1c876dbf77847fb91c92dc4700a07f946bf2d7f8d74effb9a8960a40a8"}
+  {:article/id "law/3647/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6495b627b49f3909228ba0db5b0d12e5c7966411070d955780c8516a04be4b76"}]}

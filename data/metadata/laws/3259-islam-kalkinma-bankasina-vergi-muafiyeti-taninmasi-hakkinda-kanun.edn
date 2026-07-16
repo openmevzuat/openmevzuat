@@ -1,0 +1,42 @@
+{:document/id "law/t5-3259",
+ :document/type :law,
+ :document/number "3259",
+ :document/title
+ "İSLAM KALKINMA BANKASINA VERGİ MUAFİYETİ TANINMASI HAKKINDA KANUN",
+ :document/slug
+ "3259-islam-kalkinma-bankasina-vergi-muafiyeti-taninmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3259-islam-kalkinma-bankasina-vergi-muafiyeti-taninmasi-hakkinda-kanun",
+ :document/sha256
+ "dda472587be8c8521c5eb849171a7c18f418a09658ef46bd9e86997afc61e77b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3259.pdf",
+ :source/fetched-at #inst "2026-07-16T02:23:52.275-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/t5-3259/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 25 Sayfa : 145",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "b9a288f6da3b7bedfcef61eff4409f10ade43212ad1070a9a329da804eb2dcce"}
+  {:article/id "law/t5-3259/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/t5-3259/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d9a225ad9b3fcaeb03a88409d76fa12f1c5a32646738ba49f4b9d0122306deeb"}]}

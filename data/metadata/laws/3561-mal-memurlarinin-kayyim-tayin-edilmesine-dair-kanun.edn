@@ -1,0 +1,62 @@
+{:document/id "law/3561",
+ :document/type :law,
+ :document/number "3561",
+ :document/title "MAL MEMURLARININ KAYYIM TAYİN EDİLMESİNE DAİR KANUN",
+ :document/slug
+ "3561-mal-memurlarinin-kayyim-tayin-edilmesine-dair-kanun",
+ :document/path
+ "data/canonical/laws/3561-mal-memurlarinin-kayyim-tayin-edilmesine-dair-kanun",
+ :document/sha256
+ "ed980073c0545576feb2c14da1892185942543eba9e4a0986c44dcb943b6c2db",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3561.pdf",
+ :source/fetched-at #inst "2026-07-16T02:25:46.770-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3561/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 28 Sh. : 275",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "eaf0558d9ef7cff84b4380a0a57135f6ccf867d1b3e02de79cb49a0e97d2f4a0"}
+  {:article/id "law/3561/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "61cb80561d6a4ac21730afafd5066eda0a442005896346ae6605ee96cd3046e1"}
+  {:article/id "law/3561/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "f1ddd625a33fc891e41f5bec4ac79a5f946bdb7a92679bc1773275f6f8c54c63"}
+  {:article/id "law/3561/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "9bfbcce44c6895abb71b3fe304abab1b9e8e82609a2a909f0434fff580c49620"}
+  {:article/id "law/3561/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/3561/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ff5aed8cefa131cdd46dae4e4a063c39a54a285aef09ee2ec3b3a63d0dbcd24a"}]}

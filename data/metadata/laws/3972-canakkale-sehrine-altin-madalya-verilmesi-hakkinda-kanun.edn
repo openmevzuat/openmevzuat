@@ -1,0 +1,48 @@
+{:document/id "law/3972",
+ :document/type :law,
+ :document/number "3972",
+ :document/title
+ "ÇANAKKALE ŞEHRİNE ALTIN MADALYA VERİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "3972-canakkale-sehrine-altin-madalya-verilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3972-canakkale-sehrine-altin-madalya-verilmesi-hakkinda-kanun",
+ :document/sha256
+ "8063317c582f29749d33337014e236a7d917d11fcd9a8e74c611a663710bd482",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3972.pdf",
+ :source/fetched-at #inst "2026-07-16T02:28:02.324-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3972/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 33",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "68cbe49a4670dbeb1ecf2565cc3dca6d49eb466cbd60e20a6f624aabe2c45618"}
+  {:article/id "law/3972/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "24436abadb3dbf663f9e0e82d300e5f1c205fa0fe9bbfc9f12bb19f7d2bbf8c7"}
+  {:article/id "law/3972/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "02b1a7516e16823085afa6c1fc2fb0b75936f851daad04e0ca1a151fa9ded96b"}
+  {:article/id "law/3972/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f21b46198bbe21b219c0c6eda6157acca0285a2d693a048d1283bc0deeca5368"}]}

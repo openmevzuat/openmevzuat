@@ -1,0 +1,42 @@
+{:document/id "law/3941",
+ :document/type :law,
+ :document/number "3941",
+ :document/title
+ "ŞEHİR VE KASABALARDAN UZAK YERYERDE İNŞA EDİLEN JANDARMA KARAKOL BİNALARINA KARAKOL KOMUTANI İLE AİLESİNİN İKAMETİ İÇİN İLAVE YAPILMASI HAKKINDA KANUN",
+ :document/slug
+ "3941-sehir-ve-kasabalardan-uzak-yeryerde-insa-edilen-jandarma-karakol-binalarina-karakol-komutani-ile-ailesinin-ikameti-icin-ilave-yapilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3941-sehir-ve-kasabalardan-uzak-yeryerde-insa-edilen-jandarma-karakol-binalarina-karakol-komutani-ile-ailesinin-ikameti-icin-ilave-yapilmasi-hakkinda-kanun",
+ :document/sha256
+ "f90997ba1bac165afdca35b534ceb3fffd2acb2cb76bd6df19fe780c3e911c79",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3941.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:48.518-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3941/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 3 Cilt : 22 Sayfa : 46",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "452bcf941f859e309f0843ef619d98769302747b05ce94d1008dd499427d4445"}
+  {:article/id "law/3941/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "af0de8f82f78dd324cfdc3e5676bca7252fc8b2a262484b272bf85dd63975eca"}
+  {:article/id "law/3941/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e41e41002cc7f4df88035e9ea2669189a1b9e0e5c5c67681bde0b3dfd02386ea"}]}

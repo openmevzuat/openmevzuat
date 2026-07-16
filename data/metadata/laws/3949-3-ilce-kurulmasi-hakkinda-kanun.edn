@@ -1,0 +1,60 @@
+{:document/id "law/3949",
+ :document/type :law,
+ :document/number "3949",
+ :document/title "3 İLÇE KURULMASI HAKKINDA KANUN",
+ :document/slug "3949-3-ilce-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3949-3-ilce-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "2ad026d604ceebe12cd0f569247a1864f45a0e657191102321d3445ac4b5c891",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3949.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:54.149-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3949/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 33",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7d8a7738436614c5d64a4323f48ae604681bd20c7b8d942f7854fa3529a533b6"}
+  {:article/id "law/3949/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "679468724da6230ae2af2bf6a23e6723e518712d102353685869341549f93fa4"}
+  {:article/id "law/3949/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "02c831f4cd8af4310bcf3e25501b495d88e737ebdf2cbbd9677432ec66cb6f9a"}
+  {:article/id "law/3949/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "b6a07ad152a996c5266ad8c5fd61a7e38801b372644c48247a4a5197da9c71d0"}
+  {:article/id "law/3949/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/3949/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "51bdc3872396f02660b1977df444f9f9711a70b6850106e19f0380f9d15b36ea"}]}

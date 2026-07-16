@@ -1,0 +1,63 @@
+{:document/id "law/3398",
+ :document/type :law,
+ :document/number "3398",
+ :document/title
+ "GAZİANTEP İLİ MERKEZİNDE ŞEHİTKAMİL VE ŞAHİNBEY ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
+ :document/slug
+ "3398-gaziantep-ili-merkezinde-sehitkamil-ve-sahinbey-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3398-gaziantep-ili-merkezinde-sehitkamil-ve-sahinbey-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "7bb749b9d1fbdbcb0b88bd17cc6004194306cf154c650da1bcfc4d66d7d1088a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3398.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:55.772-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3398/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip : 5 Cilt : 26 Sayfa : 218",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "36f58af83653ae6c5c79564cd3909e375c93a66a9259a3f76ea22c1c07fbccba"}
+  {:article/id "law/3398/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c30265891c28c940aa5034e1a0b398d079503734e6474db324917a6b67bfc7cd"}
+  {:article/id "law/3398/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ca182b5a4899ab4bb923ad4c68991170d9b9bd25bed2da83be8e13813ebdca81"}
+  {:article/id "law/3398/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "a9ae56cdfba430a75a5282d1164b13c4ba0b107ce414ab4fcbfb3e72e0e139da"}
+  {:article/id "law/3398/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a1783c7ed301f81b1392c10f6544cb9cca7b9c8d314c8014c9cc453a0cf9860c"}
+  {:article/id "law/3398/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "bef79e385d22f4b3233f764086d1495f1c0c690321588db3fc10c82fcb14ad91"}]}

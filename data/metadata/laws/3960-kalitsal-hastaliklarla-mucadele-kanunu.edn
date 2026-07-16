@@ -1,0 +1,39 @@
+{:document/id "law/3960",
+ :document/type :law,
+ :document/number "3960",
+ :document/title "KALITSAL HASTALIKLARLA MÜCADELE KANUNU",
+ :document/slug "3960-kalitsal-hastaliklarla-mucadele-kanunu",
+ :document/path
+ "data/canonical/laws/3960-kalitsal-hastaliklarla-mucadele-kanunu",
+ :document/sha256
+ "f07c55393ef2bc4a1978285c0d8226949bd7ef3e0f9da672d8554d170bfa9916",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3960.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:57.167-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3960/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 33",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "061162c095e08f11df0993e205caf8fc65f9e0ceec2b9e71a90c418226090574"}
+  {:article/id "law/3960/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "9ba59078446c280d97a3bd5c153f1f168dc8e9e9cc407c2e869ad6e9ddd69402"}
+  {:article/id "law/3960/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "fbfb48a113d21f19da471c65e8c82e997694cfb49a3b605d7c551c213dfec0de"}]}

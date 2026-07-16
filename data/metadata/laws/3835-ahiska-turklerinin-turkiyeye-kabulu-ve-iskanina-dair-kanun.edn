@@ -1,0 +1,90 @@
+{:document/id "law/3835",
+ :document/type :law,
+ :document/number "3835",
+ :document/title
+ "AHISKA TÜRKLERİNİN TÜRKİYE´YE KABULÜ VE İSKANINA DAİR KANUN",
+ :document/slug
+ "3835-ahiska-turklerinin-turkiyeye-kabulu-ve-iskanina-dair-kanun",
+ :document/path
+ "data/canonical/laws/3835-ahiska-turklerinin-turkiyeye-kabulu-ve-iskanina-dair-kanun",
+ :document/sha256
+ "f4c48ace042555c3099c68cf5b656ae9b4aaafb15b8203417229fc378c4095ca",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3835.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:31.233-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3835/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 31",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "3cda88ec34a45f123912a0fb2c2d53a1f0ac666dcef252ec3451660ee1988750"}
+  {:article/id "law/3835/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b7ebba1daa0368fe9de4a1fcc9da3130ce94cd5c97f2fdefb37a5c8fd2f98a9d"}
+  {:article/id "law/3835/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "af5d40f6dc3892040ecc18f05e90a32d36ec5f605070d8129d91e3593355f2d5"}
+  {:article/id "law/3835/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "79940ce743a16c865ed6f08f5d5f92d0a819fd3f41a2cf1cdfba781182d8160a"}
+  {:article/id "law/3835/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "10ebe7ce5377fe3d31d8d739a15676c586c9c582032c07838d833866f9d83b65"}
+  {:article/id "law/3835/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "03b6a349a53e2c0feadb8ffc4f6382d253cd8e5811c448f29b370aa1686f99e9"}
+  {:article/id "law/3835/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "1a41e3bafcacbca3e466f75b1668e95292adde75b21c9b4bbb8002f05e2f9590"}
+  {:article/id "law/3835/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c04c7b1e3e21e28112db7be2ed291dfaccdee47db82af9bbb43ec61dc602bc41"}
+  {:article/id "law/3835/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9f1613bd0f2d6ffd947d1c623c40dbc7ee31e03971cbe1c6bbce0de553121501"}
+  {:article/id "law/3835/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "4abd0936e5be1817dd3a68fd0ef8395084359a2e4f12f5cd1347e1da12fd3541"}]}

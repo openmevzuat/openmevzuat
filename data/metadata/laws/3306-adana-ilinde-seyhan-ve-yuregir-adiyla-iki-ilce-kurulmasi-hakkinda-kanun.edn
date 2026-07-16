@@ -1,0 +1,55 @@
+{:document/id "law/3306",
+ :document/type :law,
+ :document/number "3306",
+ :document/title
+ "ADANA İLİNDE SEYHAN VE YÜREĞİR ADIYLA İKİ İLÇE KURULMASI HAKKINDA KANUN",
+ :document/slug
+ "3306-adana-ilinde-seyhan-ve-yuregir-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3306-adana-ilinde-seyhan-ve-yuregir-adiyla-iki-ilce-kurulmasi-hakkinda-kanun",
+ :document/sha256
+ "1062bfb30b3bf76933426e03245e4e5de42414c0225542d14d941986fda5058c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3306.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:20.867-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3306/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 26",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "8d478b6e2fbcb145532474aaebae70fb8e7f442f87d04db72f3b309285b6c64e"}
+  {:article/id "law/3306/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "104ad5c731c99b73808cd5a42feda8eaccf1221e41c14dfb762a9aeaa05fc7a3"}
+  {:article/id "law/3306/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "f295d355c13d6275ab2ea880cb41f7c3d6c2d3df68ccae9a178f790a19e5ebfa"}
+  {:article/id "law/3306/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c28595cde6c61ae747228fea58c1beb6dab3cedec04ccaf020a0a2a840e21938"}
+  {:article/id "law/3306/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ff5aed8cefa131cdd46dae4e4a063c39a54a285aef09ee2ec3b3a63d0dbcd24a"}]}

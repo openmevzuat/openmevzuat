@@ -1,0 +1,227 @@
+{:document/id "law/3516",
+ :document/type :law,
+ :document/number "3516",
+ :document/title "ÖLÇÜLER VE AYAR KANUNU",
+ :document/slug "3516-olculer-ve-ayar-kanunu",
+ :document/path "data/canonical/laws/3516-olculer-ve-ayar-kanunu",
+ :document/sha256
+ "a2c681b5a4766090f64f493ccab6dd6be5934d84939061a33324e62017fb0d5b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3516.pdf",
+ :source/fetched-at #inst "2026-07-16T02:25:37.068-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3516/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a92dee4d2e0c95a280eb8e8370a1e3b3d8ff08c72cc253a22109a9b7bf3e6775"}
+  {:article/id "law/3516/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam1",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "c0c91a5e184b9d827caf64be37f44c4e4c21c7800a00666f0e254e23cc2c0401"}
+  {:article/id "law/3516/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "410d3c256e2235b8abcd3e95ddab7139f32d4e82cc8d023f90054b664a3a1d60"}
+  {:article/id "law/3516/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Tarifler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4df90d3250b94c99a06cb3527a16a6f34613f4ec5043c216e175205f6bd421cc"}
+  {:article/id "law/3516/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Uluslararası temel birimler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "d58de5a29a3279a7233f6cc0b4dd28c8cdf065cec3ccf1227e82a2dbd4561100"}
+  {:article/id "law/3516/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Uluslararası birimlerin kullanılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "adfa346f3ef8fc2ca91cc2bda6d9b243a6eb6d9843ff7cda7bb4df060aa100ea"}
+  {:article/id "law/3516/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Marka kaydı ile tip ve sistemin onaylanması",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a36e6ef80572bb31f4fb81c1aed4a9072fce2ec36d6c5bef0c504a7ae992b4d4"}
+  {:article/id "law/3516/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Uluslararası ölçü örneklerinin kabulü",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0cade621729a2ecce793709a67d61944cab1d95dcd5afd33628289c86cf9fe73"}
+  {:article/id "law/3516/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "23919cb7cc202160f65ce4ec8a5afccfb8c719858c2132695fca58996a582aa6"}
+  {:article/id "law/3516/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Tamir ve ayar yetki belgesi",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "0a78256ed3ce74019f1faabfb0fbd7ffbc41b3b1af86167e45f52d7e93ee99d6"}
+  {:article/id "law/3516/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Tamir ve ayar ücretleri3",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "c9a77c6666e3351ada23a7f9bc122c626cf40078088533ad7c0575a0bd413ca6"}
+  {:article/id "law/3516/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Gümrük işleri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "749906868e4c984e51dce3cb735eb93f92d652e34e39e4dae7784ba64fc221e8"}
+  {:article/id "law/3516/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Damgalama veya damga yerine belge verme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "e0994fd5f88f215a091d51e981d8b07f54e244cd5cc84442f83c7583fd0fc546"}
+  {:article/id "law/3516/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yasaklar",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "4b0214db7fefb958d2c29d45364dff2b8eda7d9c689e41e97da8cb2cb9f397f0"}
+  {:article/id "law/3516/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "dd073722bf8f8c1fea083261a446fd7f7791d0dc4d02ffb62ab8bfb588e0f955"}
+  {:article/id "law/3516/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Adli cezalar",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "b9d8dd09451c6ef51cab732e682d5788086e190b3ca3c58ae5450f8e2fc5adf4"}
+  {:article/id "law/3516/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "f3a3a98ed2f605e02ce37774d639a2177fa070289f6f4ef4ac8d9f3e68fa23e8"}
+  {:article/id "law/3516/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Ölçüler ve ayar fonu",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "bca42c95aceaa8a3c0fab8383165adda800d12f837622bd86b8a177b360db56a"}
+  {:article/id "law/3516/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yerinde muayene giderleri",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "d7af023ae6c05708ef5eacd35c6ea7bb988b737b6cfe159819dc9c266f27b6ae"}
+  {:article/id "law/3516/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "5b1d60438ab68aec2c37404034c1c2df51f4fe855ec8b3f50c9e23b961c7e68d"}
+  {:article/id "law/3516/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Belediye ölçüler ve ayar memurluğu",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "1b9a932b3ce3e8167fb7265d7a9b228541d95095c14d342d2be28f1453f38041"}
+  {:article/id "law/3516/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Kadro temini, atama ve görevlendirme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "3002dfdc0392c0f6b07722c90b4f00b0e9e4c1f3107d771d54f7ae974d5d9d54"}
+  {:article/id "law/3516/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Yürürlükten kaldırılan kanunlar",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "8c670210246ecc80ea6a424e8967527c8ef6b3ad5d06a78e6a9d32618487e353"}
+  {:article/id "law/3516/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "57d6bcb49b0c5644466ab2da71f8728e231479e9d2a8dbe7b05d0a16e32768e9"}
+  {:article/id "law/3516/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "33fb3faa681a55c93ed43c1ea1144a17b5b2dee2b24ea983f7d3e54bf58c0468"}
+  {:article/id "law/3516/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "f60fc95eb3c283967212d257a23b32f52d5683fc866b6f4c9dd6255a1d0efb1c"}
+  {:article/id "law/3516/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "72f4cba2d1ab73e2824b5ca5339b30fcf06429d1b9450f81bf0e8aaa8dffd495"}
+  {:article/id "law/3516/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "29f790733ef4a64596de81f2a020687a4859dceb4c83bee5d88c5cb69c4eec30"}
+  {:article/id "law/3516/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "7901fe0d2851ca2cef4009200fa4ec34f1dd933b3242cfa1c23d6ff527b9b526"}
+  {:article/id "law/3516/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Yürütme",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "0842381e8e93ac183d91fc7e8287af55630f53282082ee6e1a573ec44be8f5cb"}]}

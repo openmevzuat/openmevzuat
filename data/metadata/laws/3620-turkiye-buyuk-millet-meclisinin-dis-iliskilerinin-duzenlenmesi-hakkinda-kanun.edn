@@ -1,0 +1,149 @@
+{:document/id "law/3620",
+ :document/type :law,
+ :document/number "3620",
+ :document/title
+ "TÜRKİYE BÜYÜK MİLLET MECLİSİNİN DIŞ İLİŞKİLERİNİN DÜZENLENMESİ HAKKINDA KANUN",
+ :document/slug
+ "3620-turkiye-buyuk-millet-meclisinin-dis-iliskilerinin-duzenlenmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3620-turkiye-buyuk-millet-meclisinin-dis-iliskilerinin-duzenlenmesi-hakkinda-kanun",
+ :document/sha256
+ "506419462e4ca2ac14a93935b31d984d40d90505d3403a6368d1e25caac7d53a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3620.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:09.736-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3620/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Dış İlişkiler",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "29473bec2b29dfcb8dfd9656e2b24d25123c2c93bf71eef1c2e85d4bc48baa4a"}
+  {:article/id "law/3620/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Üyelerin Seçimi",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "0cfec56d04773c4e377f25d3affd2f7dbcfa9133da680f96312e7ad49406c3ec"}
+  {:article/id "law/3620/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Üyeliğin Sona Ermesi",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e5ebbdae1be59bad2ce58d1df9c1ec14c19e351d7d86217061096b9cacf5c175"}
+  {:article/id "law/3620/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Dostluk Grupları ve Parlamentolararası Birlik Grupları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "8f2514706cf8ccc37d42f626a70e1155091b3fe9104dff81e35db0da79b2fcdb"}
+  {:article/id "law/3620/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Tüzükler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2a3b8fe030613af9aea57a0becfd396eee42cfcda807afde24028908e193f29d"}
+  {:article/id "law/3620/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yabancı Parlamentolara Yapılacak Resmi Ziyaretler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "eea3ca02c6a455fe1d1aee3f7d8ee8a90ddb3998202d99af604fdca9cbf116dd"}
+  {:article/id "law/3620/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Türkiye Büyük Millet Meclisine Yapılacak Resmi Ziyaretler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "24fac37aea29bcf4bc17ceccab12ca66c4d66bf0b96481915391678daa7351df"}
+  {:article/id "law/3620/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürütme Organının Dış Temaslarına Katılım1",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "558af1a34008b4aa4a105db40f2fb123cde829ceb2d4647acad6bb47378f15e8"}
+  {:article/id "law/3620/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Kongre ve Konferanslar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "37d1221d7adf966938b1c3209a384ac21369965fd245d0972ff3b860af905405"}
+  {:article/id "law/3620/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Siyasi Tanıtma Faaliyetleri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "fe7800dfa28fa65647bd34255f61a9d130ce55800628795bc6fdece260cfcb4a"}
+  {:article/id "law/3620/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Araverme veya Tatilde Uygulanacak Usul",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "b21d6ce22dfd5c8ab6119efa637572b751167d09281e330c19b3bb8991b37b40"}
+  {:article/id "law/3620/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yabancı Dil Şartı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "fccba21ba1bff1c3ecb276aa6962919d1fb375156489dfed0a2877bd51875e68"}
+  {:article/id "law/3620/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Heyetlerin Hükümetle Teması",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "c94af4ac7fa74b4be5fdbfe78fef79a4dd17c637492a6fb94abfc852b1255ea2"}
+  {:article/id "law/3620/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Heyet Başkanlarının Görevleri",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "7ea96ebb74e3f3221e24d381546b94ea9c9aaa95ca39ef50409db8767282b37d"}
+  {:article/id "law/3620/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title
+   "Türkiye Büyük Millet Meclisi Binasının Milletlerarası Toplantılarda Kullanılması",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "dadd9163e208942c8529161641da3e4daa37ee0647bbf4019c241a7db7c54ba5"}
+  {:article/id "law/3620/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürürlükten Kaldırılan Kanun",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "2e542368f3ee2e79202405e2d8ae5a89a24f4372ec594bcc552ae039bb1a5aef"}
+  {:article/id "law/3620/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "dffbe0ecd4e8513aeb06624360277b652bfe2064ffdae96230250f1182110896"}
+  {:article/id "law/3620/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Yürütme",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "6f77418b993595c2aa6e951f666a31e7583d1bf164e1138b2771ccde134f524a"}]}

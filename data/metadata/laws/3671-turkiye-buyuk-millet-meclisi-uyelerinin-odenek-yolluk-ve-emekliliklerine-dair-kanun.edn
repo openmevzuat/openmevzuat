@@ -1,0 +1,154 @@
+{:document/id "law/3671",
+ :document/type :law,
+ :document/number "3671",
+ :document/title
+ "TÜRKİYE BÜYÜK MİLLET MECLİSİ ÜYELERİNİN ÖDENEK, YOLLUK VE EMEKLİLİKLERİNE DAİR KANUN",
+ :document/slug
+ "3671-turkiye-buyuk-millet-meclisi-uyelerinin-odenek-yolluk-ve-emekliliklerine-dair-kanun",
+ :document/path
+ "data/canonical/laws/3671-turkiye-buyuk-millet-meclisi-uyelerinin-odenek-yolluk-ve-emekliliklerine-dair-kanun",
+ :document/sha256
+ "d00c7378a562766b8edd3e5937d52f2faac968ed87f2ce1fc4123805570fcf15",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3671.pdf",
+ :source/fetched-at #inst "2026-07-16T02:26:42.869-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3671/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Ödenek, Yolluk, Diğer Mali ve Sosyal Haklar",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e57f7d4100ab3b5b5ebfa2e2577f3031c295cbf5079c634c2322e0b807b7c8cd"}
+  {:article/id "law/3671/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Emeklilik",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "df3b0d0c78e2acb093bc7e07c4060f237ee02cecbe84f6e396a2c5eab418f314"}
+  {:article/id "law/3671/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Emekli Aylığının Bağlanması",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "40984aedb4daacbac83a086509f8a646b477771882102e337cc9ddc71062697e"}
+  {:article/id "law/3671/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title
+   "Milletvekilleri ile Yasama Organı Eski Üyelerinin Sosyal Hakları1",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ae91eff536cdcdfa0290c26a7ae88f25f5eef30f123cfb1a9cac98fa92aad84a"}
+  {:article/id "law/3671/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Tazminat",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "c6d3c0b2ce2676867f415c7567d49449452cc40c3f115c8c5e33b8f2d86af057"}
+  {:article/id "law/3671/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Hak Kazanma ve Ödeme",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "aaf9b57482022e0c8b93d3b36400810e1c22d6795acdb98787d6c8fbe2a13316"}
+  {:article/id "law/3671/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Ölüm Yardımı",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "85470da4dd2a4d98e18782cd1bdd6f047d0ea31ac199a0f116b7a35dcde2fb18"}
+  {:article/id "law/3671/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlükten Kaldırılan Hükümler",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e1aa1037f013a9103f017e79c500bf6a55ac74670a8c40d7a0d549906ab1d8bd"}
+  {:article/id "law/3671/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "c44c2433a933e750dbad20c45ae63c938324d6833e0184c5e9bd78e9ee9fb848"}
+  {:article/id "law/3671/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "495a42d51f622f469a3cb2e026a87ec2fe83844bd6b9107331f8724650de7c44"}
+  {:article/id "law/3671/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "912925983ab81f2b4c218709009b1983e4880ad5793e2b99eafe8096281b1816"}
+  {:article/id "law/3671/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "d749cb7988d1e9d02030b460a09b1ffa299b2e6c1858a8ea9e50422106de2874"}
+  {:article/id "law/3671/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "1acb0dd97ef5bec1a72d42b631da898ae2d904ad65a008ce6219e75cdefec077"}
+  {:article/id "law/3671/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "b3d9ae8df2918dfa71fe90c442c60d948ff690c921543488090f255a517ad871"}
+  {:article/id "law/3671/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "b60df724de0e497d61e87998a1c5e7b45978716df838943216d75810d27ce3e2"}
+  {:article/id "law/3671/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "12caa7e5e7c47dd3e7f349d5ca57397fecea171c3e5210906ec6e91076301b41"}
+  {:article/id "law/3671/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "00a0f80ebd830e534ef1b1afd95252986f61856f8c3068401713393ea94c9728"}
+  {:article/id "law/3671/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "484936f9fb5d6ec983b07cd93db274123fedabdb83e53dfe432652496045cf15"}
+  {:article/id "law/3671/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "7ac6018c3ede0d6ea3bc47776240e114b856ae718f1d9d8735b2141b64d7b332"}]}

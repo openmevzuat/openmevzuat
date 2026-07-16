@@ -1,0 +1,83 @@
+{:document/id "law/3717",
+ :document/type :law,
+ :document/number "3717",
+ :document/title
+ "ADLİ PERSONEL İLE DEVLET DAVALARINI TAKİP EDENLERE YOL GİDERİ VE TAZMİNAT VERİLMESİ İLE 492 SAYILI HARÇLAR KANUNUNUN BİR MADDESİNİN YÜRÜRLÜKTEN KALDIRILMASI HAKKINDA KANUN",
+ :document/slug
+ "3717-adli-personel-ile-devlet-davalarini-takip-edenlere-yol-gideri-ve-tazminat-verilmesi-ile-492-sayili-harclar-kanununun-bir-maddesinin-yururlukten-kaldirilmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3717-adli-personel-ile-devlet-davalarini-takip-edenlere-yol-gideri-ve-tazminat-verilmesi-ile-492-sayili-harclar-kanununun-bir-maddesinin-yururlukten-kaldirilmasi-hakkinda-kanun",
+ :document/sha256
+ "db5eb5b71675f1e4c49bb5dee4c3c6c71af86a79087dd7673d22d0ac4bb902d8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3717.pdf",
+ :source/fetched-at #inst "2026-07-16T02:27:00.324-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3717/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "281f938b32a1e236ad4597728fc664bfe1a38c0add67df117bdc089610158e1e"}
+  {:article/id "law/3717/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Yol giderleri tazminatı",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "98f040f8b45f635b989c734191549f44ae7b9c2845c94f11399ed2bd018f11a6"}
+  {:article/id "law/3717/article/2/A",
+   :article/type :normal,
+   :article/no "2/A",
+   :article/title nil,
+   :article/path "articles/madde-002-a.md",
+   :article/sha256
+   "e530495ceb3e185b9573c85fb655cb1a07133b4f6ccdacfb2cc23331971fd9a7"}
+  {:article/id "law/3717/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3ae0e95dca752cd36aaecab14e1262f364b5b7ecca5d4a957bc2e64d15c17eec"}
+  {:article/id "law/3717/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "3f18684655ebce06bf081f7a44f6adfe80058a14d09665d191eeb9a0eac6ae82"}
+  {:article/id "law/3717/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "8656a13cbdc133cdb63826c12cd6fe0cf3553d93c03da31bdb1c5de5b4e34d50"}
+  {:article/id "law/3717/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "bfa1fa5bfb218a87e2b8790e732d6b27467f0a9ea173b2855907c62dc8654f25"}
+  {:article/id "law/3717/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "01c521cffcc8eddd2a567eadbd3695b707c85ca5a6e0208278aeb9b39ef1eb28"}
+  {:article/id "law/3717/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "5233fca8bd42b0e85cb5e007337861cc08db8102de9c37eedda4f1257adcea65"}]}

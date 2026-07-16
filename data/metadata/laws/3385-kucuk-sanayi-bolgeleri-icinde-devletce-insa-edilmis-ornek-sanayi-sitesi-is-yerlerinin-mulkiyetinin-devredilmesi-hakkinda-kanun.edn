@@ -1,0 +1,76 @@
+{:document/id "law/3385",
+ :document/type :law,
+ :document/number "3385",
+ :document/title
+ "KÜÇÜK SANAYİ BÖLGELERİ İÇİNDE DEVLETÇE İNŞA EDİLMİŞ ÖRNEK SANAYİ SİTESİ İŞ YERLERİNİN MÜLKİYETİNİN DEVREDİLMESİ HAKKINDA KANUN",
+ :document/slug
+ "3385-kucuk-sanayi-bolgeleri-icinde-devletce-insa-edilmis-ornek-sanayi-sitesi-is-yerlerinin-mulkiyetinin-devredilmesi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3385-kucuk-sanayi-bolgeleri-icinde-devletce-insa-edilmis-ornek-sanayi-sitesi-is-yerlerinin-mulkiyetinin-devredilmesi-hakkinda-kanun",
+ :document/sha256
+ "6193b6a301601ff433489d417df003081c295a9f0d93b9b26d472942e0f2fe6d",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3385.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:44.412-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3385/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Yayımlandığı Düstur : Tertip : 5 Cilt : 26",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "39807bb7e092808d000bad945b44722762e2ebe1cf551b2d0103dbce0fbcce48"}
+  {:article/id "law/3385/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a345894cc48a1759fe65b2a8d543d8e7edcbc57a7571be12b141f04894391d56"}
+  {:article/id "law/3385/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "48402c85b03e843c885d92c5f5dd55c8434105e8d61269b15120212aee0da931"}
+  {:article/id "law/3385/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ac1f2c3176b384bcc92c872de17013ddfa76373b41f820df160e374c913e2431"}
+  {:article/id "law/3385/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "532632e626dccda9a4659b5c0233a3a9384b76b33ce2f3e358321f287bfec417"}
+  {:article/id "law/3385/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "05fcf49a393b5a029ae97f9874bf6596d244ac5285c413ac32a2e7e41f0cdbc1"}
+  {:article/id "law/3385/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9e3fcdf5b5ce193ece6bd8484bd0c0b970265f2f6060bc45c5cf53c80ca97a1d"}
+  {:article/id "law/3385/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "17c0d926c278838d72a884fcf59d857eaa6bd1cb69cba878a3f9c7a3ae55eb06"}]}

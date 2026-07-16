@@ -1,0 +1,84 @@
+{:document/id "law/3241",
+ :document/type :law,
+ :document/number "3241",
+ :document/title
+ "EREĞLİ ŞİRKETİNDEN ALINAN LİMAN, DEMİRYOLU VE MADENLERLE KOZLU VE KİLİMLİ DEMİRYOLLARININ İŞLETİLMESİ VE HAVZADAKİ DENİZ İŞLERİNİN İNHİSAR ALTINA ALINMASI HAKKINDA KANUN",
+ :document/slug
+ "3241-eregli-sirketinden-alinan-liman-demiryolu-ve-madenlerle-kozlu-ve-kilimli-demiryollarinin-isletilmesi-ve-havzadaki-deniz-islerinin-inhisar-altina-alinmasi-hakkinda-kanun",
+ :document/path
+ "data/canonical/laws/3241-eregli-sirketinden-alinan-liman-demiryolu-ve-madenlerle-kozlu-ve-kilimli-demiryollarinin-isletilmesi-ve-havzadaki-deniz-islerinin-inhisar-altina-alinmasi-hakkinda-kanun",
+ :document/sha256
+ "12e0aab5987c76610095ec08cf9f01262728c380e634f5b5bd8805cd04ecd505",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.3241.pdf",
+ :source/fetched-at #inst "2026-07-16T02:23:44.657-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3241/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Düstur : Tertip: 3 Cilt: 18 Sayfa: 478",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bd0cf4124079acda39935699d81e251d23915673555893804862d0cbc345cf40"}
+  {:article/id "law/3241/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "eefbbc4177edeeaf4ef08e2b96c6e6e649d383a10d4abf136dea43dbf7b78104"}
+  {:article/id "law/3241/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "20c5f6f804a37d11d39714db12b31e3fcc46d15b7647697f7a7947a12fa979c4"}
+  {:article/id "law/3241/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e1a7046c945fe1f3b081759ae0002b01dc752be1781febd3b9f965e5109e9f22"}
+  {:article/id "law/3241/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "e7991d945d67f12cadafb105c2ae1bf951c1b5d98da8dd0361d0db37351ca179"}
+  {:article/id "law/3241/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "26f0e28af1aec5f10b91b1ae2307684b76f1b4cf1dc167430ebb83587f041c67"}
+  {:article/id "law/3241/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "eaf2747c365b8fb38b36db776128aefa800863b05e0a38dfe05dfd2e7078a7a0"}
+  {:article/id "law/3241/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "24367d7e7e495f6e4621d79d1f1d1f1c8d4f420d6965c55f55d09372a694b8c4"}
+  {:article/id "law/3241/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "17792c07d672bae7ddd1df79d5c138526df6a2b5555a35e30cc7af8b7edf5c0c"}]}

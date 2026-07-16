@@ -1,0 +1,12 @@
+# MADDE 6
+
+Türk Telekomünikasyon Anonim Şirketi Genel Kurulu ile yönetim ve
+denetim kurulunun görev yetkileri, yönetim ve denetim kurulu üyelerinin sayısı ve seçimi,
+genel müdür ve yardımcılarının atanması usulü ve nitelikleri şirket ana sözleşmesinde
+gösterilir. Şirketin 399 sayılı Kanun Hükmünde Kararnamenin 3 üncü maddesinin (c) bendi
+kapsamına giren personelin ücretleri, ünvanı, iş gerekleri, iş yeri ve çalışma şartları dikkate
+alınmak suretiyle şirket yönetim kurulunca belirlenir.
+Ekli (II) sayılı listede yer alan kadrolar iptal edilerek 190 sayılı Kanun Hükmünde
+Kararnamenin eki cetvelleri Ulaştırma Bakanlığı bölümünden çıkarılmış ve Ekli (I) sayılı
+listede yer alan kadrolar ihdas edilerek 190 sayılı Kanun Hükmünde Kararnamenin eki
+cetvellerin Ulaştırma Bakanlığı bölümüne eklenmiştir.1

@@ -1,0 +1,69 @@
+{:document/id "law/3298",
+ :document/type :law,
+ :document/number "3298",
+ :document/title "UYUŞTURUCU MADDELERLE İLGİLİ KANUN",
+ :document/slug "3298-uyusturucu-maddelerle-ilgili-kanun",
+ :document/path
+ "data/canonical/laws/3298-uyusturucu-maddelerle-ilgili-kanun",
+ :document/sha256
+ "8c8431c74eda843d1ef83d4c35ca1e5acb248bc60543948853acf7bc7d91b22e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3298.pdf",
+ :source/fetched-at #inst "2026-07-16T02:24:16.352-00:00",
+ :openmevzuat/baseline-date "2026-07-16",
+ :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "law/3298/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Afyon ve uyuşturucu maddelerle ilgili genel esaslar1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9ccd8812b6ae0e6a8cadc35362e58d69d6ce3072f5c882e23914f35d1d7537fc"}
+  {:article/id "law/3298/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title
+   "Haşhaş ekilecek yerlerin tespiti, izin belgesi alma zorunluğu",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "730fbcb4cd761e9aecb6a238c0068b5c1813eda1b5444137f232385aa20fad53"}
+  {:article/id "law/3298/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "32154030c823e25c18b82fba1938d442ffb18c7e9a94c10fe06b774af84ce64f"}
+  {:article/id "law/3298/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Cezai hükümler",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "23fa74638e9a39a8da70322057016a01a3f309f4ed91013815abb9edbe863949"}
+  {:article/id "law/3298/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürürlükten kaldırılan hükümler",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "32263d5b03c05f6cb6645e1407b003e636b68e90796f27a85a574d8e296fe55e"}
+  {:article/id "law/3298/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b8ccc13d5cf16456ae6cc1696bc508bc4449ab558c030577d96bc6645df71805"}
+  {:article/id "law/3298/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "493b3d56ab45d4a71675670069e843dd466831feef520023be9901a58e226dd2"}]}
