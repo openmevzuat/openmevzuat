@@ -161,6 +161,7 @@ jobs:
           OPENMEVZUAT_PREFLIGHT_ATTEMPTS: "2"
           OPENMEVZUAT_CIRCUIT_BREAKER_FAILURES: "2"
           OPENMEVZUAT_SKIP_UNREACHABLE_SOURCES: "true"
+          OPENMEVZUAT_PR_BODY_PATH: ${{ runner.temp }}/openmevzuat-pr-body.md
         run: |
           set -euo pipefail
 
@@ -192,9 +193,18 @@ jobs:
           fi
 
       - name: Create pull request if changed
+        shell: bash
         run: |
+          set -euo pipefail
+
           if [[ -n "$(git status --porcelain)" ]]; then
             BRANCH="update/$(date +%F)"
+            PR_BODY="$RUNNER_TEMP/openmevzuat-pr-body.md"
+
+            if [[ ! -s "$PR_BODY" ]]; then
+              printf '%s\n' "Automated OpenMevzuat update from official public sources." > "$PR_BODY"
+            fi
+
             git config user.name "openmevzuat-bot"
             git config user.email "openmevzuat-bot@users.noreply.github.com"
             git checkout -b "$BRANCH"
@@ -202,9 +212,12 @@ jobs:
             git commit -m "Update canonical legislation snapshot $(date +%F)"
             git push origin "$BRANCH"
 
-            gh pr create \
+            PR_URL="$(gh pr create \
               --title "Update legislation snapshot — $(date +%F)" \
-              --body "Automated OpenMevzuat update from official public sources."
+              --body-file "$PR_BODY")"
+
+            echo "Created PR: $PR_URL"
+            gh pr merge "$PR_URL" --auto --merge --delete-branch
           else
             echo "No changes."
           fi

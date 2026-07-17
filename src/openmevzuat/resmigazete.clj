@@ -225,6 +225,14 @@
        (keep affected-law-from-intro)
        vec))
 
+(defn- amendment-summary [entry]
+  (select-keys entry
+               [:amendment/law-no
+                :amendment/title
+                :amendment/url
+                :resmi-gazete/date
+                :resmi-gazete/issue]))
+
 (defn- merge-affected-entries [entries]
   (->> entries
        (group-by :law/number)
@@ -241,10 +249,18 @@
                                            rows)]]
                 {:law/number number
                  :law/title title
-                 :articles (mapv #(select-keys % [:article/no :article/intro]) matching)})
+                 :articles (mapv #(select-keys % [:article/no :article/intro]) matching)
+                 :amendments (->> matching
+                                  (map amendment-summary)
+                                  distinct
+                                  vec)})
               [{:law/number number
                 :law/title nil
-                :articles (mapv #(select-keys % [:article/no :article/intro]) rows)}]))))
+                :articles (mapv #(select-keys % [:article/no :article/intro]) rows)
+                :amendments (->> rows
+                                 (map amendment-summary)
+                                 distinct
+                                 vec)}]))))
        (sort-by (juxt #(parse-long-value (:law/number %) Long/MAX_VALUE)
                       #(or (:law/title %) "")))
        vec))

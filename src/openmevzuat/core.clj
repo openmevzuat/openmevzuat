@@ -719,6 +719,111 @@
   (rg/date-range-ending (LocalDate/parse (snapshot-date))
                         (update-window-days)))
 
+(defn pr-body-output-path []
+  (not-empty (System/getenv "OPENMEVZUAT_PR_BODY_PATH")))
+
+(defn markdown-cell [value]
+  (-> (or value "")
+      str
+      (str/replace #"\r?\n" " ")
+      (str/replace "|" "\\|")
+      (str/trim)))
+
+(defn markdown-link [label url]
+  (let [label (markdown-cell label)
+        url (not-empty (str url))]
+    (if url
+      (str "[" label "](" url ")")
+      label)))
+
+(defn amendment-label [amendment]
+  (str (:amendment/law-no amendment)
+       " - "
+       (:amendment/title amendment)))
+
+(defn amendment-rg-label [amendment]
+  (str (:resmi-gazete/date amendment)
+       " / "
+       (:resmi-gazete/issue amendment)))
+
+(defn amendment-source-cell [amendments]
+  (->> amendments
+       (map #(markdown-link (amendment-label %) (:amendment/url %)))
+       distinct
+       (str/join "<br>")))
+
+(defn amendment-rg-cell [amendments]
+  (->> amendments
+       (map amendment-rg-label)
+       distinct
+       (str/join "<br>")
+       markdown-cell))
+
+(defn markdown-table [headers rows]
+  (str "| " (str/join " | " (map markdown-cell headers)) " |\n"
+       "| " (str/join " | " (repeat (count headers) "---")) " |\n"
+       (str/join
+        "\n"
+        (for [row rows]
+          (str "| " (str/join " | " (map markdown-cell row)) " |")))
+       "\n"))
+
+(defn update-pr-body [changes documents unresolved update-result]
+  (let [summary (:summary update-result)
+        amendment-laws (:amendment-laws changes)
+        affected-laws (:affected-laws changes)
+        amendment-rows (for [law amendment-laws]
+                         [(markdown-link (str (:kanunKararNo law)
+                                              " - "
+                                              (:konu law))
+                                         (:resmi-gazete/amendment-url law))
+                          (str (:resmiGazeteTarihiFormatted law)
+                               " / "
+                               (:resmiGazeteSayisi law))])
+        affected-rows (for [law affected-laws]
+                        [(str (:law/number law)
+                              " - "
+                              (or (:law/title law) "Title unavailable"))
+                         (amendment-source-cell (:amendments law))
+                         (amendment-rg-cell (:amendments law))])]
+    (str "Automated OpenMevzuat update from official public sources.\n\n"
+         "## Summary\n\n"
+         "- Window: `" (:range/from changes) "` to `" (:range/to changes) "`\n"
+         "- Resmi Gazete amendment laws: " (count amendment-laws) "\n"
+         "- Affected kanuns: " (count affected-laws) "\n"
+         "- Resolved documents: " (count documents) "\n"
+         "- Unresolved affected laws: " (count unresolved) "\n"
+         (when summary
+           (str "- Changed files: " (:changed-files summary) "\n"))
+         "\n"
+         "## Resmi Gazete Amendment Laws\n\n"
+         (if (seq amendment-rows)
+           (markdown-table ["Amendment law" "Resmi Gazete"] amendment-rows)
+           "No amendment laws were detected.\n")
+         "\n"
+         "## Changed Kanuns\n\n"
+         (if (seq affected-rows)
+           (markdown-table ["Kanun" "Changed by" "Resmi Gazete"] affected-rows)
+           "No affected kanuns were detected.\n")
+         (when (seq unresolved)
+           (str "\n"
+                "## Unresolved\n\n"
+                (markdown-table
+                 ["Kanun" "Reason"]
+                 (for [{:keys [affected-law reason]} unresolved]
+                   [(str (:law/number affected-law)
+                         " - "
+                         (or (:law/title affected-law) "Title unavailable"))
+                    (name reason)])))))))
+
+(defn write-pr-body-when-configured! [body]
+  (when-let [path (pr-body-output-path)]
+    (let [path (fs/path path)]
+      (when-let [parent (fs/parent path)]
+        (fs/create-dirs parent))
+      (spit (io/file (str path)) body)
+      (println "PR body:" (str path)))))
+
 (defn print-unresolved-affected-laws! [unresolved]
   (when (seq unresolved)
     (println "Unresolved affected laws:" (count unresolved))
@@ -744,19 +849,26 @@
     (println "Resolved documents:" (count documents))
     (print-unresolved-affected-laws! unresolved)
     (if (seq documents)
-      (assoc (update-documents! documents
-                                {:label "OpenMevzuat update"
-                                 :merge-search? true
-                                 :manifest-scope :incremental})
-             :catalog catalog-result
-             :changes changes
-             :unresolved unresolved)
+      (let [update-result (update-documents! documents
+                                             {:label "OpenMevzuat update"
+                                              :merge-search? true
+                                              :manifest-scope :incremental})
+            result (assoc update-result
+                          :catalog catalog-result
+                          :changes changes
+                          :unresolved unresolved)]
+        (write-pr-body-when-configured!
+         (update-pr-body changes documents unresolved update-result))
+        result)
       (do
         (println "No affected laws to update.")
-        {:catalog catalog-result
-         :changes changes
-         :unresolved unresolved
-         :skipped? true}))))
+        (let [result {:catalog catalog-result
+                      :changes changes
+                      :unresolved unresolved
+                      :skipped? true}]
+          (write-pr-body-when-configured!
+           (update-pr-body changes documents unresolved nil))
+          result)))))
 
 (defn update-or-skip-unreachable!
   ([] (update-or-skip-unreachable! update!))

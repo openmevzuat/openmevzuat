@@ -133,6 +133,10 @@ clojure -M:openmevzuat clean-derived
 
 The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`.
 
+When `OPENMEVZUAT_PR_BODY_PATH` is set, `update` also writes a Markdown report for the automation PR body. The report lists the update window, Resmî Gazete amendment laws, affected kanuns, and the Resmî Gazete date/issue that triggered each affected kanun refresh.
+
+The daily GitHub Actions workflow uses that report when it opens an automated update PR, then queues the PR for GitHub auto-merge. GitHub will merge it once the branch can be merged and any repository protection rules are satisfied.
+
 `sync-catalog` fetches the official active Kanunlar catalog from mevzuat.gov.tr and writes `data/catalog/laws.edn`. It does not fetch or render law PDFs.
 
 `update-configured` fetches configured official sources from `resources/documents.edn`, normalizes text, parses articles, renders canonical files, writes EDN metadata, and regenerates derived outputs. `build` is an alias for this configured rebuild path.

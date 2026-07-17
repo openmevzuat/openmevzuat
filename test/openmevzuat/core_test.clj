@@ -290,6 +290,60 @@
     (is (= ["Karayolları Trafik Kanun" "Katma Değer Vergisi Kanun"]
            (mapv :law/title affected)))))
 
+(deftest affected-law-merge-keeps-amendment-sources
+  (let [entries [{:law/number "193"
+                  :law/title "Gelir Vergisi Kanun"
+                  :article/no "1"
+                  :article/intro "intro"
+                  :amendment/law-no "7555"
+                  :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+                  :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260716-1.htm"
+                  :resmi-gazete/date "16.07.2026"
+                  :resmi-gazete/issue "32958"}
+                 {:law/number "193"
+                  :law/title "Gelir Vergisi Kanun"
+                  :article/no "2"
+                  :article/intro "intro"
+                  :amendment/law-no "7555"
+                  :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+                  :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260716-1.htm"
+                  :resmi-gazete/date "16.07.2026"
+                  :resmi-gazete/issue "32958"}]
+        affected ((var-get #'rg/merge-affected-entries) entries)]
+    (is (= 1 (count affected)))
+    (is (= [{:amendment/law-no "7555"
+             :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+             :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260716-1.htm"
+             :resmi-gazete/date "16.07.2026"
+             :resmi-gazete/issue "32958"}]
+           (:amendments (first affected))))))
+
+(deftest update-pr-body-lists-resmi-gazete-sources
+  (let [amendment {:amendment/law-no "7555"
+                   :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+                   :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260716-1.htm"
+                   :resmi-gazete/date "16.07.2026"
+                   :resmi-gazete/issue "32958"}
+        changes {:range/from "2026-06-16"
+                 :range/to "2026-07-16"
+                 :amendment-laws [{:kanunKararNo "7555"
+                                   :konu "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+                                   :resmiGazeteTarihiFormatted "16.07.2026"
+                                   :resmiGazeteSayisi "32958"
+                                   :resmi-gazete/amendment-url (:amendment/url amendment)}]
+                 :affected-laws [{:law/number "193"
+                                  :law/title "Gelir Vergisi Kanun"
+                                  :amendments [amendment]}]}
+        body (core/update-pr-body changes
+                                  [{:document/id "law/193"}]
+                                  []
+                                  {:summary {:changed-files 4}})]
+    (is (str/includes? body "- Window: `2026-06-16` to `2026-07-16`"))
+    (is (str/includes? body "| Kanun | Changed by | Resmi Gazete |"))
+    (is (str/includes? body "193 - Gelir Vergisi Kanun"))
+    (is (str/includes? body "[7555 - Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun](https://www.resmigazete.gov.tr/eskiler/2026/07/20260716-1.htm)"))
+    (is (str/includes? body "16.07.2026 / 32958"))))
+
 (deftest affected-laws-resolve-duplicate-numbers-by-title
   (with-redefs [core/catalog-law-documents
                 (fn []
