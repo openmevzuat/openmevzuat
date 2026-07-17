@@ -1,0 +1,58 @@
+name: Test
+
+on:
+  pull_request:
+    branches:
+      - main
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  clojure-tests:
+    name: Clojure tests
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Cache Clojure dependencies
+        uses: actions/cache@v4
+        with:
+          path: |
+            ~/.m2/repository
+            ~/.gitlibs
+            .cpcache
+          key: ${{ runner.os }}-clojure-${{ hashFiles('deps.edn', '.tooling/home/.clojure/deps.edn') }}
+          restore-keys: |
+            ${{ runner.os }}-clojure-
+
+      - name: Set up Clojure
+        uses: DeLaGuardo/setup-clojure@13.2
+        with:
+          cli: latest
+
+      - name: Prefetch dependencies
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for attempt in 1 2 3; do
+            if timeout 10m clojure -P -M:test; then
+              exit 0
+            fi
+
+            if [[ "$attempt" -lt 3 ]]; then
+              echo "Dependency prefetch failed on attempt $attempt, retrying..."
+            fi
+          done
+
+          echo "Dependency prefetch failed after 3 attempts."
+          exit 1
+
+      - name: Run tests
+        run: clojure -M:test

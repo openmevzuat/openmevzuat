@@ -135,7 +135,9 @@ The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZ
 
 When `OPENMEVZUAT_PR_BODY_PATH` is set, `update` also writes a Markdown report for the automation PR body. The report lists the update window, Resmî Gazete amendment laws, affected kanuns, and the Resmî Gazete date/issue that triggered each affected kanun refresh.
 
-The daily GitHub Actions workflow uses that report when it opens an automated update PR, then queues the PR for GitHub auto-merge. GitHub will merge it once the branch can be merged and any repository protection rules are satisfied.
+The `Test` GitHub Actions workflow runs `clojure -M:test` on pull requests and pushes to `main`. In a branch ruleset for `main`, select the required status check named `Clojure tests`.
+
+The daily GitHub Actions workflow uses the generated report when it opens an automated update PR, then queues the PR for GitHub auto-merge. GitHub will merge it once the branch can be merged and any repository protection rules are satisfied. To make bot-created PRs trigger the `Clojure tests` pull request check, configure an `OPENMEVZUAT_BOT_TOKEN` repository secret with contents and pull request write access; otherwise the workflow falls back to `GITHUB_TOKEN`, which may not trigger follow-up workflows.
 
 `sync-catalog` fetches the official active Kanunlar catalog from mevzuat.gov.tr and writes `data/catalog/laws.edn`. It does not fetch or render law PDFs.
 
