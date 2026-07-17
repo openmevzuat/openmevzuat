@@ -1,0 +1,270 @@
+{:snapshot/date "2026-07-17",
+ :snapshot/generated-at #inst "2026-07-17T07:08:49.626-00:00",
+ :generator/name "openmevzuat",
+ :generator/version "0.1.0",
+ :documents
+ [{:document/id "law/193",
+   :document/title "Gelir Vergisi Kanunu",
+   :document/path "data/canonical/laws/193-gelir-vergisi-kanunu",
+   :metadata/path "data/metadata/laws/193-gelir-vergisi-kanunu.edn",
+   :document/sha256
+   "0fe16692df21ad2ba07b032a141f8236540bd59e1ca37ee7c2097be94a3f6b97"}
+  {:document/id "law/195",
+   :document/title "Basın İlan Kurumu Teşkiline Dair Kanun",
+   :document/path
+   "data/canonical/laws/195-basin-ilan-kurumu-teskiline-dair-kanun",
+   :metadata/path
+   "data/metadata/laws/195-basin-ilan-kurumu-teskiline-dair-kanun.edn",
+   :document/sha256
+   "330bd5d71417f38046da3e7ff4eee37269db43669153782eabc809c459443d9a"}
+  {:document/id "law/211",
+   :document/title "Türk Silahlı Kuvvetleri İç Hizmet Kanunu",
+   :document/path
+   "data/canonical/laws/211-turk-silahli-kuvvetleri-ic-hizmet-kanunu",
+   :metadata/path
+   "data/metadata/laws/211-turk-silahli-kuvvetleri-ic-hizmet-kanunu.edn",
+   :document/sha256
+   "19983ae47284be03604a8e3a1e17d4601842fbdc79ecb1a5dc0587bbb56637f2"}
+  {:document/id "law/213",
+   :document/title "Vergi Usul Kanunu",
+   :document/path "data/canonical/laws/213-vergi-usul-kanunu",
+   :metadata/path "data/metadata/laws/213-vergi-usul-kanunu.edn",
+   :document/sha256
+   "ef554f3537a4f3c9cd42b6bb2f57a4c17a89a7516f6a32cf182bd5ccbe67b229"}
+  {:document/id "law/926",
+   :document/title "Türk Silâhlı Kuvvetleri Personel Kanunu",
+   :document/path
+   "data/canonical/laws/926-turk-silhli-kuvvetleri-personel-kanunu",
+   :metadata/path
+   "data/metadata/laws/926-turk-silhli-kuvvetleri-personel-kanunu.edn",
+   :document/sha256
+   "15cc01c76f8102d451c8ae5ce63d9dbff097b71d6a275596e09f1869dd2343d3"}
+  {:document/id "law/1211",
+   :document/title "Türkiye Cumhuriyet Merkez Bankası Kanunu",
+   :document/path
+   "data/canonical/laws/1211-turkiye-cumhuriyet-merkez-bankasi-kanunu",
+   :metadata/path
+   "data/metadata/laws/1211-turkiye-cumhuriyet-merkez-bankasi-kanunu.edn",
+   :document/sha256
+   "0594140b4c734c8b9569fb010eb1ea35185a05639f3b3a75083264326e735cd9"}
+  {:document/id "law/1219",
+   :document/title
+   "Tababet ve Şuabatı San'atlarının Tarzı İcrasına Dair Kanun",
+   :document/path
+   "data/canonical/laws/1219-tababet-ve-suabati-sanatlarinin-tarzi-icrasina-dair-kanun",
+   :metadata/path
+   "data/metadata/laws/1219-tababet-ve-suabati-sanatlarinin-tarzi-icrasina-dair-kanun.edn",
+   :document/sha256
+   "50212fe68f5e4c723ff3518418dbc07dd207b12bed5507fbd5a4ed4e60ecfcf5"}
+  {:document/id "law/2464",
+   :document/title "Belediye Gelirleri Kanunu",
+   :document/path "data/canonical/laws/2464-belediye-gelirleri-kanunu",
+   :metadata/path
+   "data/metadata/laws/2464-belediye-gelirleri-kanunu.edn",
+   :document/sha256
+   "f51f8b3670e9100164e9f8ceb7c91907197a115ed5fd8bf903cdf0b4f4e42d67"}
+  {:document/id "law/2577",
+   :document/title "İdari Yargılama Usulü Kanunu",
+   :document/path
+   "data/canonical/laws/2577-idari-yargilama-usulu-kanunu",
+   :metadata/path
+   "data/metadata/laws/2577-idari-yargilama-usulu-kanunu.edn",
+   :document/sha256
+   "d897ecbb3e9b35b50fc558de8a43f316a634e3a85fbc9d784d323bf1f6d8666f"}
+  {:document/id "law/2886",
+   :document/title "Devlet İhale Kanunu",
+   :document/path "data/canonical/laws/2886-devlet-ihale-kanunu",
+   :metadata/path "data/metadata/laws/2886-devlet-ihale-kanunu.edn",
+   :document/sha256
+   "cb8c30ca6b332f413ef0f60e08fba77d885e3d45e4550a72ba841fe5a3579802"}
+  {:document/id "law/2918",
+   :document/title "Karayolları Trafik Kanunu",
+   :document/path "data/canonical/laws/2918-karayollari-trafik-kanunu",
+   :metadata/path
+   "data/metadata/laws/2918-karayollari-trafik-kanunu.edn",
+   :document/sha256
+   "1ed45e5b5f85863caafd724c9cece13dea4aa6a65ecd2668215b5376085c1885"}
+  {:document/id "law/2942",
+   :document/title "Kamulaştırma Kanunu",
+   :document/path "data/canonical/laws/2942-kamulastirma-kanunu",
+   :metadata/path "data/metadata/laws/2942-kamulastirma-kanunu.edn",
+   :document/sha256
+   "1719cb523ba12d904f881f97e583b87a61dc5cfeb6502bedfeea9352326e9399"}
+  {:document/id "law/3039",
+   :document/title "Çeltik Ekimi Kanunu",
+   :document/path "data/canonical/laws/3039-celtik-ekimi-kanunu",
+   :metadata/path "data/metadata/laws/3039-celtik-ekimi-kanunu.edn",
+   :document/sha256
+   "8fcd2918f5a7ddb396c3849ae511bdca95087b3a13e4115c694f1d8a03f3b9fc"}
+  {:document/id "law/3065",
+   :document/title "Katma Değer Vergisi Kanunu",
+   :document/path
+   "data/canonical/laws/3065-katma-deger-vergisi-kanunu",
+   :metadata/path
+   "data/metadata/laws/3065-katma-deger-vergisi-kanunu.edn",
+   :document/sha256
+   "217db7f8e7918e38b8f105478bf6c1a7f44b05d0110fd3b5adbdb8a027e94fb2"}
+  {:document/id "law/3201",
+   :document/title "Emniyet Teşkilat Kanunu",
+   :document/path "data/canonical/laws/3201-emniyet-teskilat-kanunu",
+   :metadata/path
+   "data/metadata/laws/3201-emniyet-teskilat-kanunu.edn",
+   :document/sha256
+   "d73da29b5755efeb897ee722cc938bd75bb6bea2b396f9081b4c17612c3a64e8"}
+  {:document/id "law/3269",
+   :document/title "Uzman Erbaş Kanunu",
+   :document/path "data/canonical/laws/3269-uzman-erbas-kanunu",
+   :metadata/path "data/metadata/laws/3269-uzman-erbas-kanunu.edn",
+   :document/sha256
+   "580b61e6c882995044575efdc0fae95c5deba8de50c10abf21443638dc488a96"}
+  {:document/id "law/4250",
+   :document/title "İspirto ve İspirtolu İçkiler İnhisarı Kanunu",
+   :document/path
+   "data/canonical/laws/4250-ispirto-ve-ispirtolu-ickiler-inhisari-kanunu",
+   :metadata/path
+   "data/metadata/laws/4250-ispirto-ve-ispirtolu-ickiler-inhisari-kanunu.edn",
+   :document/sha256
+   "3279de5c023173a085c8a301e21d78d06a22849b55062b17d2834a5afaaa5388"}
+  {:document/id "law/4283",
+   :document/title
+   "Yap-İşlet Modeli ile Elektrik Enerjisi Üretim Tesislerinin Kurulması ve İşletilmesi ile Enerji Satışının Düzenlenmesi Hakkında Kanun",
+   :document/path
+   "data/canonical/laws/4283-yap-islet-modeli-ile-elektrik-enerjisi-uretim-tesislerinin-kurulmasi-ve-isletilmesi-ile-enerji-satisinin-duzenlenmesi-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/4283-yap-islet-modeli-ile-elektrik-enerjisi-uretim-tesislerinin-kurulmasi-ve-isletilmesi-ile-enerji-satisinin-duzenlenmesi-hakkinda-kanun.edn",
+   :document/sha256
+   "8168b990195c107f11ea89fbb18edf5efdb9b0b4c6f59466928fbcc0299fbbfb"}
+  {:document/id "law/4634",
+   :document/title "Şeker Kanunu",
+   :document/path "data/canonical/laws/4634-seker-kanunu",
+   :metadata/path "data/metadata/laws/4634-seker-kanunu.edn",
+   :document/sha256
+   "61072d3c681d851cce78fbb18b0cbfbd23dc8524b7e892180b008fb316cb2078"}
+  {:document/id "law/4652",
+   :document/title "Polis Yüksek Öğretim Kanunu",
+   :document/path
+   "data/canonical/laws/4652-polis-yuksek-ogretim-kanunu",
+   :metadata/path
+   "data/metadata/laws/4652-polis-yuksek-ogretim-kanunu.edn",
+   :document/sha256
+   "5998aa8372f33956539de73e94a24b80c911cc82b280c85ffe03016240804dfa"}
+  {:document/id "law/4733",
+   :document/title
+   "Tütün, Tütün Mamulleri ve Alkol Piyasasının Düzenlenmesine Dair Kanun",
+   :document/path
+   "data/canonical/laws/4733-tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun",
+   :metadata/path
+   "data/metadata/laws/4733-tutun-tutun-mamulleri-ve-alkol-piyasasinin-duzenlenmesine-dair-kanun.edn",
+   :document/sha256
+   "928d3f603c38dc866f2e0c8d1c62c4e53f947ee0c60958950ea6a4ecf494d199"}
+  {:document/id "law/4749",
+   :document/title
+   "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun",
+   :document/path
+   "data/canonical/laws/4749-kamu-finansmani-ve-borc-yonetiminin-duzenlenmesi-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/4749-kamu-finansmani-ve-borc-yonetiminin-duzenlenmesi-hakkinda-kanun.edn",
+   :document/sha256
+   "f2a3a9022d13b8baf7d8017303fc32926141365aaddfb4e4934002df4e78d615"}
+  {:document/id "law/4915",
+   :document/title "Kara Avcılığı Kanunu",
+   :document/path "data/canonical/laws/4915-kara-avciligi-kanunu",
+   :metadata/path "data/metadata/laws/4915-kara-avciligi-kanunu.edn",
+   :document/sha256
+   "8f53d54b0c0ed957885f661fa4ee9f5f6881213bc72ce5d3c15bb2ff65d46bd4"}
+  {:document/id "law/5015",
+   :document/title "Petrol Piyasası Kanunu",
+   :document/path "data/canonical/laws/5015-petrol-piyasasi-kanunu",
+   :metadata/path "data/metadata/laws/5015-petrol-piyasasi-kanunu.edn",
+   :document/sha256
+   "b0ef3861c7b953cfc77004847b880e0e026a4149e970034c7b27e120e03cab1b"}
+  {:document/id "law/5174",
+   :document/title
+   "Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar Kanunu",
+   :document/path
+   "data/canonical/laws/5174-turkiye-odalar-ve-borsalar-birligi-ile-odalar-ve-borsalar-kanunu",
+   :metadata/path
+   "data/metadata/laws/5174-turkiye-odalar-ve-borsalar-birligi-ile-odalar-ve-borsalar-kanunu.edn",
+   :document/sha256
+   "abd1524cae834d4afa5077520d7ef702dc65bf1bb1cd87eae5fdeca15da159b7"}
+  {:document/id "law/5403",
+   :document/title "Toprak Koruma ve Arazi Kullanımı Kanunu",
+   :document/path
+   "data/canonical/laws/5403-toprak-koruma-ve-arazi-kullanimi-kanunu",
+   :metadata/path
+   "data/metadata/laws/5403-toprak-koruma-ve-arazi-kullanimi-kanunu.edn",
+   :document/sha256
+   "690c3d4282c9ee3f5ae2b28db884650d2af6f5b1072fee8fb396a20655ba80d5"}
+  {:document/id "law/5659",
+   :document/title "Atatürk Orman Çiftliği Kanunu",
+   :document/path
+   "data/canonical/laws/5659-ataturk-orman-ciftligi-kanunu",
+   :metadata/path
+   "data/metadata/laws/5659-ataturk-orman-ciftligi-kanunu.edn",
+   :document/sha256
+   "6c581ee630781bd21a4cea41cb645337b845b08a4fe640b0d286b0fe233887de"}
+  {:document/id "law/5996",
+   :document/title
+   "Veteriner Hizmetleri, Bitki Sağlığı, Gıda ve Yem Kanunu",
+   :document/path
+   "data/canonical/laws/5996-veteriner-hizmetleri-bitki-sagligi-gida-ve-yem-kanunu",
+   :metadata/path
+   "data/metadata/laws/5996-veteriner-hizmetleri-bitki-sagligi-gida-ve-yem-kanunu.edn",
+   :document/sha256
+   "b5409e6abe953658b45fcd56f2c94a78c80b223789dad0202ba0c62c169003a1"}
+  {:document/id "law/6191",
+   :document/title "Sözleşmeli Erbaş ve Er Kanunu",
+   :document/path
+   "data/canonical/laws/6191-sozlesmeli-erbas-ve-er-kanunu",
+   :metadata/path
+   "data/metadata/laws/6191-sozlesmeli-erbas-ve-er-kanunu.edn",
+   :document/sha256
+   "e1e64d1421d34be0765f501cc2741190dbed6208f9f260c2f4284f0e803ed749"}
+  {:document/id "law/6200",
+   :document/title
+   "Devlet Su İşleri Genel Müdürlüğünce Yürütülen Hizmetler Hakkında Kanun",
+   :document/path
+   "data/canonical/laws/6200-devlet-su-isleri-genel-mudurlugunce-yurutulen-hizmetler-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/6200-devlet-su-isleri-genel-mudurlugunce-yurutulen-hizmetler-hakkinda-kanun.edn",
+   :document/sha256
+   "d92fbbc933dbcb4c1bedc07eed955a4f899065e8ec4abe738d7acb9f323bb61c"}
+  {:document/id "law/6245",
+   :document/title "Harcırah Kanunu",
+   :document/path "data/canonical/laws/6245-harcirah-kanunu",
+   :metadata/path "data/metadata/laws/6245-harcirah-kanunu.edn",
+   :document/sha256
+   "b20eaa8efa5a9836ed1090fe50ad1b6b5769da3256d39f84d9c74dc4e6c8b593"}
+  {:document/id "law/6292",
+   :document/title
+   "Orman Köylülerinin Kalkınmalarının Desteklenmesi ve Hazine Adına Orman Sınırları Dışına Çıkarılan Yerlerin Değerlendirilmesi ile Hazineye Ait Tarım Arazilerinin Satışı Hakkında Kanun",
+   :document/path
+   "data/canonical/laws/6292-orman-koylulerinin-kalkinmalarinin-desteklenmesi-ve-hazine-adina-orman-sinirlari-disina-cikarilan-yerlerin-degerlendirilmesi-ile-hazineye-ait-tarim-arazilerinin-s-226ade7eab9f",
+   :metadata/path
+   "data/metadata/laws/6292-orman-koylulerinin-kalkinmalarinin-desteklenmesi-ve-hazine-adina-orman-sinirlari-disina-cikarilan-yerlerin-degerlendirilmesi-ile-hazineye-ait-tarim-arazilerinin-s-226ade7eab9f.edn",
+   :document/sha256
+   "cb56563bedad36d79be27b446b21a0db9194e2f3626a510d8e5dbc7ba67ab83a"}
+  {:document/id "law/6343",
+   :document/title
+   "Veteriner Hekimliği Mesleğinin İcrasına, Türk Veteriner Hekimleri Birliği ile Odalarının Teşekkül Tarzına ve Göreceği İşlere Dair Kanun",
+   :document/path
+   "data/canonical/laws/6343-veteriner-hekimligi-mesleginin-icrasina-turk-veteriner-hekimleri-birligi-ile-odalarinin-tesekkul-tarzina-ve-gorecegi-islere-dair-kanun",
+   :metadata/path
+   "data/metadata/laws/6343-veteriner-hekimligi-mesleginin-icrasina-turk-veteriner-hekimleri-birligi-ile-odalarinin-tesekkul-tarzina-ve-gorecegi-islere-dair-kanun.edn",
+   :document/sha256
+   "6ed1deb2c9902c12104113864bf9877b05e6cc43ffc460a3ee3a67bf1404b4d5"}
+  {:document/id "law/6502",
+   :document/title "Tüketicinin Korunması Hakkında Kanun",
+   :document/path
+   "data/canonical/laws/6502-tuketicinin-korunmasi-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/6502-tuketicinin-korunmasi-hakkinda-kanun.edn",
+   :document/sha256
+   "852d7ed763525e15bcc567ecdea28ca7fb5e425ed67fba27f5ffc3068141b305"}
+  {:document/id "law/6831",
+   :document/title "Orman Kanunu",
+   :document/path "data/canonical/laws/6831-orman-kanunu",
+   :metadata/path "data/metadata/laws/6831-orman-kanunu.edn",
+   :document/sha256
+   "01e3f9eebb4d8c7b76637e373ac95f9c881bd4b0ee583277499deb55f3e4f4cd"}],
+ :snapshot/scope :incremental}
