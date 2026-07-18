@@ -265,19 +265,27 @@
                       #(or (:law/title %) "")))
        vec))
 
-(defn amendment-laws! [from-date to-date]
+(defn amendment-law-candidates! [from-date to-date]
   (let [{:keys [records-total records-filtered rows]} (yasama-rows! from-date to-date)
-        amendment-rows (filter amendment-law-row? rows)
-        amendment-laws (mapv (fn [row]
-                               (assoc row :resmi-gazete/amendment-url
-                                      (find-amendment-url! row)))
-                             amendment-rows)]
+        amendment-laws (vec (filter amendment-law-row? rows))]
     {:records-total records-total
      :records-filtered records-filtered
      :amendment-laws amendment-laws}))
 
-(defn changed-laws! [from-date to-date]
-  (let [{:keys [records-total records-filtered amendment-laws]} (amendment-laws! from-date to-date)
+(defn add-amendment-urls! [amendment-laws]
+  (mapv (fn [row]
+          (assoc row :resmi-gazete/amendment-url
+                 (find-amendment-url! row)))
+        amendment-laws))
+
+(defn amendment-laws! [from-date to-date]
+  (let [{:keys [records-total records-filtered amendment-laws]} (amendment-law-candidates! from-date to-date)]
+    {:records-total records-total
+     :records-filtered records-filtered
+     :amendment-laws (add-amendment-urls! amendment-laws)}))
+
+(defn changed-laws-from-amendments! [from-date to-date records-total records-filtered amendment-laws]
+  (let [amendment-laws (vec amendment-laws)
         entries (mapcat
                  (fn [law]
                    (let [html (fetch-url-text! (:resmi-gazete/amendment-url law) windows-1254)]
@@ -296,6 +304,14 @@
      :yasama/records-filtered records-filtered
      :amendment-laws amendment-laws
      :affected-laws affected-laws}))
+
+(defn changed-laws! [from-date to-date]
+  (let [{:keys [records-total records-filtered amendment-laws]} (amendment-laws! from-date to-date)]
+    (changed-laws-from-amendments! from-date
+                                   to-date
+                                   records-total
+                                   records-filtered
+                                   amendment-laws)))
 
 (defn date-range-ending [to-date days]
   (let [to-date (if (instance? LocalDate to-date)

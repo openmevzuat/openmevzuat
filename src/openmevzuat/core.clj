@@ -50,6 +50,7 @@
     (edn/read-string (slurp (io/file (str path))))))
 
 (def search-index-path "derived/search/documents.jsonl")
+(def processed-amendments-path "data/state/resmigazete-amendments.edn")
 
 (defn log! [& values]
   (apply println values)
@@ -719,6 +720,136 @@
   (rg/date-range-ending (LocalDate/parse (snapshot-date))
                         (update-window-days)))
 
+(defn- amendment-value [law & keys]
+  (some (fn [k]
+          (some-> (get law k) str not-empty))
+        keys))
+
+(defn amendment-law-no [law]
+  (amendment-value law :kanunKararNo :amendment/law-no))
+
+(defn amendment-law-title [law]
+  (amendment-value law :konu :amendment/title))
+
+(defn amendment-law-url [law]
+  (amendment-value law :resmi-gazete/amendment-url :amendment/url))
+
+(defn amendment-law-date [law]
+  (amendment-value law :resmiGazeteTarihiFormatted :resmi-gazete/date))
+
+(defn amendment-law-issue [law]
+  (amendment-value law :resmiGazeteSayisi :resmi-gazete/issue))
+
+(defn amendment-law-key [law]
+  [(or (amendment-law-no law) "")
+   (or (amendment-law-date law) "")
+   (or (amendment-law-issue law) "")])
+
+(defn processed-amendments-state []
+  (or (read-edn-file processed-amendments-path)
+      {:resmi-gazete/processed-amendments []}))
+
+(defn processed-amendment-entries [state]
+  (vec (:resmi-gazete/processed-amendments state)))
+
+(defn processed-amendment-key-set [state]
+  (set (map amendment-law-key (processed-amendment-entries state))))
+
+(defn new-amendment-laws [state amendment-laws]
+  (let [seen (processed-amendment-key-set state)]
+    (->> amendment-laws
+         (remove #(contains? seen (amendment-law-key %)))
+         vec)))
+
+(defn skipped-amendment-laws [state amendment-laws]
+  (let [seen (processed-amendment-key-set state)]
+    (->> amendment-laws
+         (filter #(contains? seen (amendment-law-key %)))
+         vec)))
+
+(defn- resmi-gazete-date-sort-key [date]
+  (if-let [[_ day month year] (re-matches #"([0-9]{2})\.([0-9]{2})\.([0-9]{4})"
+                                          (str date))]
+    [year month day]
+    [(str date) "" ""]))
+
+(defn processed-amendment-entry [law processed-at snapshot-date]
+  (cond->
+   (array-map
+    :amendment/law-no (amendment-law-no law)
+    :amendment/title (amendment-law-title law)
+    :resmi-gazete/date (amendment-law-date law)
+    :resmi-gazete/issue (amendment-law-issue law)
+    :processed/snapshot-date snapshot-date)
+    (amendment-law-url law) (assoc :amendment/url (amendment-law-url law))
+    processed-at (assoc :processed/at processed-at)))
+
+(defn processed-amendment-state-map [existing-state new-laws processed-at snapshot-date]
+  (let [entries (concat (processed-amendment-entries existing-state)
+                        (map #(processed-amendment-entry % processed-at snapshot-date)
+                             new-laws))
+        entries-by-key (reduce (fn [by-key entry]
+                                 (assoc by-key (amendment-law-key entry) entry))
+                               {}
+                               entries)
+        entries (->> (vals entries-by-key)
+                     (sort-by (juxt #(resmi-gazete-date-sort-key
+                                      (:resmi-gazete/date %))
+                                    #(or (:amendment/law-no %) "")))
+                     vec)]
+    (array-map
+     :state/updated-at processed-at
+     :resmi-gazete/processed-amendments entries)))
+
+(defn write-processed-amendments! [new-laws snapshot-date]
+  (let [processed-at (now)
+        state (processed-amendment-state-map (processed-amendments-state)
+                                             new-laws
+                                             processed-at
+                                             snapshot-date)]
+    {:path processed-amendments-path
+     :write (store/write-if-changed! processed-amendments-path
+                                     (edn-str state))}))
+
+(defn advance-processed-amendments! [new-laws unresolved snapshot-date processed?]
+  (cond
+    (empty? new-laws)
+    nil
+
+    (seq unresolved)
+    (do
+      (println "Processed amendment state: not advanced because unresolved affected laws remain.")
+      nil)
+
+    (not processed?)
+    (do
+      (println "Processed amendment state: not advanced because resolved documents did not change; will retry on the next overlapping run.")
+      nil)
+
+    :else
+    (let [write (write-processed-amendments! new-laws snapshot-date)]
+      (println "Processed amendment state:"
+               (:path write)
+               (if (get-in write [:write :changed?]) "(updated)" "(unchanged)"))
+      write)))
+
+(defn recent-unprocessed-changes! [from to]
+  (let [{:keys [records-total records-filtered amendment-laws]} (rg/amendment-law-candidates! from to)
+        state (processed-amendments-state)
+        skipped (skipped-amendment-laws state amendment-laws)
+        new-candidates (new-amendment-laws state amendment-laws)
+        new-laws (rg/add-amendment-urls! new-candidates)
+        changes (rg/changed-laws-from-amendments! from
+                                                  to
+                                                  records-total
+                                                  records-filtered
+                                                  new-laws)]
+    (assoc changes
+           :amendment-laws/detected (count amendment-laws)
+           :amendment-laws/skipped (count skipped)
+           :skipped-amendment-laws skipped
+           :processed-amendments/path processed-amendments-path)))
+
 (defn pr-body-output-path []
   (not-empty (System/getenv "OPENMEVZUAT_PR_BODY_PATH")))
 
@@ -772,6 +903,9 @@
   (let [summary (:summary update-result)
         amendment-laws (:amendment-laws changes)
         affected-laws (:affected-laws changes)
+        detected-amendment-laws (or (:amendment-laws/detected changes)
+                                    (count amendment-laws))
+        skipped-amendment-laws (or (:amendment-laws/skipped changes) 0)
         amendment-rows (for [law amendment-laws]
                          [(markdown-link (str (:kanunKararNo law)
                                               " - "
@@ -789,7 +923,9 @@
     (str "Automated OpenMevzuat update from official public sources.\n\n"
          "## Summary\n\n"
          "- Window: `" (:range/from changes) "` to `" (:range/to changes) "`\n"
-         "- Resmi Gazete amendment laws: " (count amendment-laws) "\n"
+         "- Resmi Gazete amendment laws detected: " detected-amendment-laws "\n"
+         "- New Resmi Gazete amendment laws: " (count amendment-laws) "\n"
+         "- Previously processed amendment laws skipped: " skipped-amendment-laws "\n"
          "- Affected kanuns: " (count affected-laws) "\n"
          "- Resolved documents: " (count documents) "\n"
          "- Unresolved affected laws: " (count unresolved) "\n"
@@ -799,7 +935,7 @@
          "## Resmi Gazete Amendment Laws\n\n"
          (if (seq amendment-rows)
            (markdown-table ["Amendment law" "Resmi Gazete"] amendment-rows)
-           "No amendment laws were detected.\n")
+           "No new amendment laws were detected.\n")
          "\n"
          "## Changed Kanuns\n\n"
          (if (seq affected-rows)
@@ -836,15 +972,19 @@
           (println "   candidate:" (:document/id candidate) "-" (:document/title candidate)))))))
 
 (defn update! []
-  (let [{:keys [from to]} (update-date-range)
+  (let [date (snapshot-date)
+        {:keys [from to]} (rg/date-range-ending (LocalDate/parse date)
+                                                (update-window-days))
         catalog-result (catalog/sync-laws!)
-        changes (rg/changed-laws! from to)
+        changes (recent-unprocessed-changes! from to)
         {:keys [documents unresolved]} (resolve-affected-laws (:affected-laws changes))]
     (println "OpenMevzuat update")
     (println "Mode: resmigazete-incremental")
     (println "Window:" (str from) "to" (str to))
     (println "Catalog documents:" (:documents catalog-result))
-    (println "Resmi Gazete amendment laws:" (count (:amendment-laws changes)))
+    (println "Resmi Gazete amendment laws detected:" (:amendment-laws/detected changes))
+    (println "Previously processed amendment laws skipped:" (:amendment-laws/skipped changes))
+    (println "New Resmi Gazete amendment laws:" (count (:amendment-laws changes)))
     (println "Affected laws:" (count (:affected-laws changes)))
     (println "Resolved documents:" (count documents))
     (print-unresolved-affected-laws! unresolved)
@@ -853,18 +993,30 @@
                                              {:label "OpenMevzuat update"
                                               :merge-search? true
                                               :manifest-scope :incremental})
+            processed-write (advance-processed-amendments! (:amendment-laws changes)
+                                                           unresolved
+                                                           date
+                                                           (pos? (get-in update-result
+                                                                         [:summary :changed-files]
+                                                                         0)))
             result (assoc update-result
                           :catalog catalog-result
                           :changes changes
-                          :unresolved unresolved)]
+                          :unresolved unresolved
+                          :processed-amendments processed-write)]
         (write-pr-body-when-configured!
          (update-pr-body changes documents unresolved update-result))
         result)
       (do
         (println "No affected laws to update.")
-        (let [result {:catalog catalog-result
+        (let [processed-write (advance-processed-amendments! (:amendment-laws changes)
+                                                            unresolved
+                                                            date
+                                                            true)
+              result {:catalog catalog-result
                       :changes changes
                       :unresolved unresolved
+                      :processed-amendments processed-write
                       :skipped? true}]
           (write-pr-body-when-configured!
            (update-pr-body changes documents unresolved nil))
