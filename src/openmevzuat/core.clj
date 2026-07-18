@@ -1022,6 +1022,12 @@
            (update-pr-body changes documents unresolved nil))
           result)))))
 
+(defn print-ex-data! [e]
+  (when-let [data (ex-data e)]
+    (println "Error data:")
+    (binding [*print-namespace-maps* false]
+      (pprint/pprint data))))
+
 (defn update-or-skip-unreachable!
   ([] (update-or-skip-unreachable! update!))
   ([f]
@@ -1038,7 +1044,9 @@
            {:skipped? true
             :reason :source-unreachable
             :source (or (:source/base-url data) (:url data) (:source/origin data))})
-         (throw e))))))
+         (do
+           (print-ex-data! e)
+           (throw e)))))))
 
 (defn usage []
   (println "Usage: clojure -M:openmevzuat <sync-catalog|update|update-configured|update-laws|update-all-laws|build|clean-derived>")

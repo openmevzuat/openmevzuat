@@ -24,26 +24,22 @@
   (parse-long-value (System/getenv "OPENMEVZUAT_RESMIGAZETE_PAGE_SIZE")
                     default-page-size))
 
-(defn- request-options
-  ([payload]
-   (request-options payload "application/json,text/plain,*/*;q=0.1"))
-  ([payload accept]
-   (let [config (fetch/fetch-config)]
-     (cond->
-      {:as :byte-array
-       :headers {"User-Agent" "OpenMevzuat/0.1"
-                 "Accept" accept}
-       :throw-exceptions false
-       :timeout (:timeout-ms config)
-       :version :http-1.1
-       :http-client {:connect-timeout (:connect-timeout-ms config)
-                     :redirect-policy :normal
-                     :version :http-1.1}}
-       payload
-       (assoc :body (json/generate-string payload)
-              :headers {"User-Agent" "OpenMevzuat/0.1"
-                        "Accept" accept
-                        "Content-Type" "application/json; charset=utf-8"})))))
+(defn- request-options [payload accept config]
+  (cond->
+   {:as :byte-array
+    :headers {"User-Agent" "OpenMevzuat/0.1"
+              "Accept" accept}
+    :throw-exceptions false
+    :timeout (:timeout-ms config)
+    :version :http-1.1
+    :http-client {:connect-timeout (:connect-timeout-ms config)
+                  :redirect-policy :normal
+                  :version :http-1.1}}
+    payload
+    (assoc :body (json/generate-string payload)
+           :headers {"User-Agent" "OpenMevzuat/0.1"
+                     "Accept" accept
+                     "Content-Type" "application/json; charset=utf-8"})))
 
 (defn- bytes->text
   ([body]
@@ -78,7 +74,18 @@
 
 (defn fetch-yasama-page! [from-date to-date start length draw]
   (let [payload (filter-payload from-date to-date start length draw)
-        response (http/post filter-url (request-options payload))
+        response (fetch/request-with-retries!
+                  filter-url
+                  #(http/post filter-url
+                              (request-options payload
+                                               "application/json,text/plain,*/*;q=0.1"
+                                               %))
+                  {:message "Failed to fetch Resmi Gazete filter page"
+                   :context {:from-date (str from-date)
+                             :to-date (str to-date)
+                             :start start
+                             :length length
+                             :draw draw}})
         status (:status response)
         text (bytes->text (:body response))]
     (when-not (<= 200 status 299)
@@ -165,7 +172,13 @@
   ([url]
    (fetch-url-text! url StandardCharsets/UTF_8))
   ([url charset]
-   (let [response (http/get url (request-options nil "text/html,application/xhtml+xml,*/*;q=0.1"))
+   (let [response (fetch/request-with-retries!
+                   url
+                   #(http/get url
+                              (request-options nil
+                                               "text/html,application/xhtml+xml,*/*;q=0.1"
+                                               %))
+                   {:message "Failed to fetch Resmi Gazete page"})
          status (:status response)
          text (bytes->text (:body response) charset)]
      (when-not (<= 200 status 299)

@@ -147,6 +147,27 @@
                 {:backoff-ms 2000 :max-backoff-ms 30000 :jitter-ms 500}
                 8
                 {})))
+  (testing "generic HTTP helper retries transient statuses"
+    (let [calls (atom 0)
+          response (binding [*err* (java.io.StringWriter.)]
+                     (fetch/request-with-retries!
+                      "https://example.test/api"
+                      (fn [_]
+                        (if (= 1 (swap! calls inc))
+                          {:status 503
+                           :headers {}
+                           :body (.getBytes "temporarily unavailable" "UTF-8")}
+                          {:status 200
+                           :headers {}
+                           :body (.getBytes "{\"ok\":true}" "UTF-8")}))
+                      {:config {:attempts 2
+                                :request-delay-ms 0
+                                :backoff-ms 0
+                                :jitter-ms 0
+                                :max-backoff-ms 0
+                                :circuit-breaker-failures 2}}))]
+      (is (= 2 @calls))
+      (is (= 200 (:status response)))))
   (is (= :retry
          (:action (#'fetch/response-action
                    "https://example.test/source.pdf"

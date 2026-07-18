@@ -29,19 +29,18 @@
   (parse-long-value (System/getenv "OPENMEVZUAT_CATALOG_PAGE_SIZE")
                     default-page-size))
 
-(defn- request-options [payload]
-  (let [config (fetch/fetch-config)]
-    {:as :byte-array
-     :body (json/generate-string payload)
-     :headers {"User-Agent" "OpenMevzuat/0.1"
-               "Accept" "application/json,text/plain,*/*;q=0.1"
-               "Content-Type" "application/json; charset=utf-8"}
-     :throw-exceptions false
-     :timeout (:timeout-ms config)
-     :version :http-1.1
-     :http-client {:connect-timeout (:connect-timeout-ms config)
-                   :redirect-policy :normal
-                   :version :http-1.1}}))
+(defn- request-options [payload config]
+  {:as :byte-array
+   :body (json/generate-string payload)
+   :headers {"User-Agent" "OpenMevzuat/0.1"
+             "Accept" "application/json,text/plain,*/*;q=0.1"
+             "Content-Type" "application/json; charset=utf-8"}
+   :throw-exceptions false
+   :timeout (:timeout-ms config)
+   :version :http-1.1
+   :http-client {:connect-timeout (:connect-timeout-ms config)
+                 :redirect-policy :normal
+                 :version :http-1.1}})
 
 (defn- datatable-columns []
   (vec
@@ -76,7 +75,13 @@
 
 (defn fetch-law-page! [start length draw]
   (let [payload (datatable-payload draw start length)
-        response (http/post law-datatable-url (request-options payload))
+        response (fetch/request-with-retries!
+                  law-datatable-url
+                  #(http/post law-datatable-url (request-options payload %))
+                  {:message "Failed to fetch law catalog page"
+                   :context {:start start
+                             :length length
+                             :draw draw}})
         status (:status response)
         text (bytes->text (:body response))]
     (when-not (<= 200 status 299)
