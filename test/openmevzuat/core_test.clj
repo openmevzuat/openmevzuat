@@ -134,6 +134,19 @@
   (is (#'fetch/pdf-bytes? (.getBytes "%PDF-1.7\nbody" "US-ASCII")))
   (is (false? (#'fetch/pdf-bytes? (.getBytes "<html></html>" "UTF-8"))))
   (is (= 2000 (#'fetch/retry-after-ms {"retry-after" "2"})))
+  (is (= 4000 (#'fetch/retry-delay-ms
+               {:backoff-ms 2000 :max-backoff-ms 30000 :jitter-ms 0}
+               2
+               {})))
+  (let [delay (#'fetch/retry-delay-ms
+               {:backoff-ms 2000 :max-backoff-ms 30000 :jitter-ms 500}
+               2
+               {})]
+    (is (<= 4000 delay 4500)))
+  (is (= 30000 (#'fetch/retry-delay-ms
+                {:backoff-ms 2000 :max-backoff-ms 30000 :jitter-ms 500}
+                8
+                {})))
   (is (= :retry
          (:action (#'fetch/response-action
                    "https://example.test/source.pdf"

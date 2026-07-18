@@ -135,6 +135,8 @@ clojure -M:openmevzuat clean-derived
 
 The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`. The window intentionally overlaps previous runs; `data/state/resmigazete-amendments.edn` prevents the updater from re-fetching and re-rendering kanuns for amendment laws already handled in an earlier automated update.
 
+Fetch retries use exponential backoff plus a small random jitter. Override the jitter with `OPENMEVZUAT_FETCH_JITTER_MS`.
+
 When `OPENMEVZUAT_PR_BODY_PATH` is set, `update` also writes a Markdown report for the automation PR body. The report lists the update window, detected/new/skipped Resmî Gazete amendment laws, affected kanuns, and the Resmî Gazete date/issue that triggered each affected kanun refresh.
 
 The `Test` GitHub Actions workflow runs `clojure -M:test` on pull requests and manual dispatches. In a branch ruleset for `main`, select the required status check named `Clojure tests`.
