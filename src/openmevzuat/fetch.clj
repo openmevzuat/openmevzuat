@@ -16,6 +16,7 @@
   {:attempts 6
    :request-delay-ms 2500
    :backoff-ms 5000
+   :jitter-ms 250
    :max-backoff-ms 120000
    :connect-timeout-ms 60000
    :timeout-ms 300000
@@ -61,6 +62,9 @@
    :backoff-ms (env-long "OPENMEVZUAT_FETCH_BACKOFF_MS"
                          (:backoff-ms default-fetch-config)
                          0)
+   :jitter-ms (env-long "OPENMEVZUAT_FETCH_JITTER_MS"
+                        (:jitter-ms default-fetch-config)
+                        0)
    :max-backoff-ms (env-long "OPENMEVZUAT_FETCH_MAX_BACKOFF_MS"
                              (:max-backoff-ms default-fetch-config)
                              0)
@@ -301,10 +305,18 @@
        (when-let [message (not-empty (.getMessage e))]
          (str ": " message))))
 
-(defn- retry-delay-ms [{:keys [backoff-ms max-backoff-ms]} attempt action]
+(defn- retry-jitter-ms [{:keys [jitter-ms max-backoff-ms]} delay-ms]
+  (let [room-ms (- max-backoff-ms delay-ms)]
+    (if (and (pos? jitter-ms)
+             (pos? room-ms))
+      (rand-int (inc (min jitter-ms room-ms)))
+      0)))
+
+(defn- retry-delay-ms [{:keys [backoff-ms max-backoff-ms] :as config} attempt action]
   (let [delay (or (:retry-after-ms action)
-                  (* backoff-ms (bit-shift-left 1 (max 0 (dec attempt)))))]
-    (min max-backoff-ms (max 0 delay))))
+                  (* backoff-ms (bit-shift-left 1 (max 0 (dec attempt)))))
+        delay-ms (min max-backoff-ms (max 0 delay))]
+    (+ delay-ms (retry-jitter-ms config delay-ms))))
 
 (defn- log-retry! [url attempt attempts reason delay-ms]
   (binding [*out* *err*]
