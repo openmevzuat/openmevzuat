@@ -343,47 +343,64 @@
                     :attempts (:attempts config)
                     :reason (:reason result)))))
 
+(defn request-with-retries!
+  ([url request-fn]
+   (request-with-retries! url request-fn {}))
+  ([url request-fn {:keys [config message context]
+                    :or {message "Failed to fetch source URL"
+                         context {}}}]
+   (let [config (or config (fetch-config))]
+     (loop [attempt 1]
+       (when-let [e (circuit-open-error url config)]
+         (throw e))
+       (let [result (try
+                      (throttle! (:request-delay-ms config))
+                      (let [response (request-fn config)
+                            action (response-action url response)]
+                        (if (= :success (:action action))
+                          {:ok? true
+                           :response response}
+                          (assoc action
+                                 :ok? false
+                                 :message message
+                                 :data (merge (:data action) context))))
+                      (catch Exception e
+                        (if (retriable-exception? e)
+                          {:ok? false
+                           :action :retry
+                           :message message
+                           :reason (exception-summary e)
+                           :connection? (connection-exception? e)
+                           :exception e}
+                          {:ok? false
+                           :action :fail
+                           :message message
+                           :exception e})))]
+         (if (:ok? result)
+           (do
+             (record-circuit-success! url)
+             (:response result))
+           (do
+             (when (:connection? result)
+               (record-circuit-failure! url (:reason result)))
+             (if-let [e (circuit-open-error url config)]
+               (throw e)
+               (if (and (= :retry (:action result))
+                        (< attempt (:attempts config)))
+                 (let [delay-ms (retry-delay-ms config attempt result)]
+                   (log-retry! url attempt (:attempts config) (:reason result) delay-ms)
+                   (sleep-ms! delay-ms)
+                   (recur (inc attempt)))
+                 (throw (final-fetch-error url config attempt result)))))))))))
+
 (defn fetch-url
   ([url]
    (fetch-url url (fetch-config)))
   ([url config]
-   (loop [attempt 1]
-     (when-let [e (circuit-open-error url config)]
-       (throw e))
-     (let [result (try
-                    (throttle! (:request-delay-ms config))
-                    (let [response (http/get url (request-options config))
-                          action (response-action url response)]
-                      (if (= :success (:action action))
-                        {:ok? true
-                         :text (response-body->text url (:body response))}
-                        (assoc action :ok? false)))
-                    (catch Exception e
-                      (if (retriable-exception? e)
-                        {:ok? false
-                         :action :retry
-                         :reason (exception-summary e)
-                         :connection? (connection-exception? e)
-                         :exception e}
-                        {:ok? false
-                         :action :fail
-                         :exception e})))]
-       (if (:ok? result)
-         (do
-           (record-circuit-success! url)
-           (:text result))
-         (do
-           (when (:connection? result)
-             (record-circuit-failure! url (:reason result)))
-           (if-let [e (circuit-open-error url config)]
-             (throw e)
-             (if (and (= :retry (:action result))
-                      (< attempt (:attempts config)))
-               (let [delay-ms (retry-delay-ms config attempt result)]
-                 (log-retry! url attempt (:attempts config) (:reason result) delay-ms)
-                 (sleep-ms! delay-ms)
-                 (recur (inc attempt)))
-               (throw (final-fetch-error url config attempt result))))))))))
+   (let [response (request-with-retries! url
+                                         #(http/get url (request-options %))
+                                         {:config config})]
+     (response-body->text url (:body response)))))
 
 (defn preflight-source!
   ([source]
