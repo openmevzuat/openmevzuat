@@ -127,15 +127,17 @@ clojure -M:openmevzuat clean-derived
 
 1. refresh the official active Kanunlar catalog in `data/catalog/laws.edn`;
 2. query Resmî Gazete for recent Yasama/Kanun rows;
-3. identify amendment laws, parse their `MADDE` introductions, and extract the affected base kanun numbers;
-4. resolve those numbers through the local catalog;
-5. fetch and render only the affected consolidated kanun PDFs.
+3. identify amendment laws that have not already been processed;
+4. parse only those new amendment laws' `MADDE` introductions and extract the affected base kanun numbers;
+5. resolve those numbers through the local catalog;
+6. fetch and render only the affected consolidated kanun PDFs;
+7. record successfully processed amendment laws in `data/state/resmigazete-amendments.edn`.
 
-The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`.
+The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`. The window intentionally overlaps previous runs; `data/state/resmigazete-amendments.edn` prevents the updater from re-fetching and re-rendering kanuns for amendment laws already handled in an earlier automated update.
 
-When `OPENMEVZUAT_PR_BODY_PATH` is set, `update` also writes a Markdown report for the automation PR body. The report lists the update window, Resmî Gazete amendment laws, affected kanuns, and the Resmî Gazete date/issue that triggered each affected kanun refresh.
+When `OPENMEVZUAT_PR_BODY_PATH` is set, `update` also writes a Markdown report for the automation PR body. The report lists the update window, detected/new/skipped Resmî Gazete amendment laws, affected kanuns, and the Resmî Gazete date/issue that triggered each affected kanun refresh.
 
-The `Test` GitHub Actions workflow runs `clojure -M:test` on pull requests and pushes to `main`. In a branch ruleset for `main`, select the required status check named `Clojure tests`.
+The `Test` GitHub Actions workflow runs `clojure -M:test` on pull requests and manual dispatches. In a branch ruleset for `main`, select the required status check named `Clojure tests`.
 
 The daily GitHub Actions workflow uses the generated report when it opens an automated update PR, then queues the PR for GitHub auto-merge. GitHub will merge it once the branch can be merged and any repository protection rules are satisfied. To make bot-created PRs trigger the `Clojure tests` pull request check, configure an `OPENMEVZUAT_BOT_TOKEN` repository secret with contents and pull request write access; otherwise the workflow falls back to `GITHUB_TOKEN`, which may not trigger follow-up workflows.
 

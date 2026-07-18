@@ -190,6 +190,48 @@
            (:write manifest)))
     (is (zero? (core/changed-count [(:write manifest)])))))
 
+(deftest processed-amendment-state-filters-seen-laws
+  (let [state {:resmi-gazete/processed-amendments
+               [{:amendment/law-no "7587"
+                 :resmi-gazete/date "01.07.2026"
+                 :resmi-gazete/issue "33297"}]}
+        rows [{:kanunKararNo "7587"
+               :konu "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+               :resmiGazeteTarihiFormatted "01.07.2026"
+               :resmiGazeteSayisi "33297"}
+              {:kanunKararNo "7588"
+               :konu "Uzman Erbaş Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+               :resmiGazeteTarihiFormatted "11.07.2026"
+               :resmiGazeteSayisi "33307"}]]
+    (is (= ["7588"]
+           (mapv :kanunKararNo (core/new-amendment-laws state rows))))
+    (is (= ["7587"]
+           (mapv :kanunKararNo (core/skipped-amendment-laws state rows))))))
+
+(deftest processed-amendment-state-map-merges-new-laws
+  (let [processed-at #inst "2026-07-18T12:00:00.000-00:00"
+        state (core/processed-amendment-state-map
+               {:resmi-gazete/processed-amendments
+                [{:amendment/law-no "7587"
+                  :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+                  :resmi-gazete/date "01.07.2026"
+                  :resmi-gazete/issue "33297"
+                  :processed/snapshot-date "2026-07-17"}]}
+               [{:kanunKararNo "7588"
+                 :konu "Uzman Erbaş Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+                 :resmiGazeteTarihiFormatted "11.07.2026"
+                 :resmiGazeteSayisi "33307"
+                 :resmi-gazete/amendment-url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260711-5.htm"}]
+               processed-at
+               "2026-07-18")]
+    (is (= processed-at (:state/updated-at state)))
+    (is (= [["7587" "01.07.2026"]
+            ["7588" "11.07.2026"]]
+           (mapv (juxt :amendment/law-no :resmi-gazete/date)
+                 (:resmi-gazete/processed-amendments state))))
+    (is (= "https://www.resmigazete.gov.tr/eskiler/2026/07/20260711-5.htm"
+           (:amendment/url (second (:resmi-gazete/processed-amendments state)))))))
+
 (deftest write-if-changed-behavior
   (let [dir (Files/createTempDirectory "openmevzuat-test"
                                        (make-array FileAttribute 0))
@@ -318,6 +360,41 @@
              :resmi-gazete/issue "32958"}]
            (:amendments (first affected))))))
 
+(deftest recent-unprocessed-changes-skips-seen-before-url-resolution
+  (let [rows [{:kanunKararNo "7587"
+               :konu "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
+               :resmiGazeteTarihiFormatted "01.07.2026"
+               :resmiGazeteSayisi "33297"}]
+        url-resolution-input (atom ::not-called)]
+    (with-redefs [rg/amendment-law-candidates!
+                  (fn [_ _]
+                    {:records-total 1
+                     :records-filtered 1
+                     :amendment-laws rows})
+                  core/processed-amendments-state
+                  (fn []
+                    {:resmi-gazete/processed-amendments
+                     [{:amendment/law-no "7587"
+                       :resmi-gazete/date "01.07.2026"
+                       :resmi-gazete/issue "33297"}]})
+                  rg/add-amendment-urls!
+                  (fn [laws]
+                    (reset! url-resolution-input laws)
+                    laws)
+                  rg/changed-laws-from-amendments!
+                  (fn [from to records-total records-filtered laws]
+                    {:range/from (str from)
+                     :range/to (str to)
+                     :yasama/records-total records-total
+                     :yasama/records-filtered records-filtered
+                     :amendment-laws laws
+                     :affected-laws []})]
+      (let [changes (core/recent-unprocessed-changes! "2026-06-18" "2026-07-18")]
+        (is (= [] @url-resolution-input))
+        (is (= 1 (:amendment-laws/detected changes)))
+        (is (= 1 (:amendment-laws/skipped changes)))
+        (is (empty? (:amendment-laws changes)))))))
+
 (deftest update-pr-body-lists-resmi-gazete-sources
   (let [amendment {:amendment/law-no "7555"
                    :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
@@ -331,6 +408,8 @@
                                    :resmiGazeteTarihiFormatted "16.07.2026"
                                    :resmiGazeteSayisi "32958"
                                    :resmi-gazete/amendment-url (:amendment/url amendment)}]
+                 :amendment-laws/detected 3
+                 :amendment-laws/skipped 2
                  :affected-laws [{:law/number "193"
                                   :law/title "Gelir Vergisi Kanun"
                                   :amendments [amendment]}]}
@@ -339,6 +418,9 @@
                                   []
                                   {:summary {:changed-files 4}})]
     (is (str/includes? body "- Window: `2026-06-16` to `2026-07-16`"))
+    (is (str/includes? body "- Resmi Gazete amendment laws detected: 3"))
+    (is (str/includes? body "- New Resmi Gazete amendment laws: 1"))
+    (is (str/includes? body "- Previously processed amendment laws skipped: 2"))
     (is (str/includes? body "| Kanun | Changed by | Resmi Gazete |"))
     (is (str/includes? body "193 - Gelir Vergisi Kanun"))
     (is (str/includes? body "[7555 - Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun](https://www.resmigazete.gov.tr/eskiler/2026/07/20260716-1.htm)"))
