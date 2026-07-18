@@ -154,27 +154,27 @@ jobs:
 
       - name: Run OpenMevzuat update
         shell: bash
-        timeout-minutes: 90
+        timeout-minutes: 120
         env:
-          OPENMEVZUAT_FETCH_ATTEMPTS: "3"
-          OPENMEVZUAT_FETCH_DELAY_MS: "500"
-          OPENMEVZUAT_FETCH_BACKOFF_MS: "2000"
-          OPENMEVZUAT_FETCH_JITTER_MS: "500"
-          OPENMEVZUAT_FETCH_MAX_BACKOFF_MS: "30000"
-          OPENMEVZUAT_FETCH_CONNECT_TIMEOUT_MS: "15000"
-          OPENMEVZUAT_FETCH_TIMEOUT_MS: "120000"
+          OPENMEVZUAT_FETCH_ATTEMPTS: "5"
+          OPENMEVZUAT_FETCH_DELAY_MS: "2000"
+          OPENMEVZUAT_FETCH_BACKOFF_MS: "5000"
+          OPENMEVZUAT_FETCH_JITTER_MS: "2000"
+          OPENMEVZUAT_FETCH_MAX_BACKOFF_MS: "90000"
+          OPENMEVZUAT_FETCH_CONNECT_TIMEOUT_MS: "45000"
+          OPENMEVZUAT_FETCH_TIMEOUT_MS: "240000"
           OPENMEVZUAT_PREFLIGHT_ENABLED: "true"
-          OPENMEVZUAT_PREFLIGHT_ATTEMPTS: "1"
-          OPENMEVZUAT_CIRCUIT_BREAKER_FAILURES: "2"
-          OPENMEVZUAT_CATALOG_PAGE_SIZE: "500"
-          OPENMEVZUAT_RESMIGAZETE_PAGE_SIZE: "500"
+          OPENMEVZUAT_PREFLIGHT_ATTEMPTS: "2"
+          OPENMEVZUAT_CIRCUIT_BREAKER_FAILURES: "3"
+          OPENMEVZUAT_CATALOG_PAGE_SIZE: "100"
+          OPENMEVZUAT_RESMIGAZETE_PAGE_SIZE: "100"
           OPENMEVZUAT_SKIP_UNREACHABLE_SOURCES: "true"
           OPENMEVZUAT_PR_BODY_PATH: ${{ runner.temp }}/openmevzuat-pr-body.md
         run: |
           set -euo pipefail
 
           for attempt in 1 2 3; do
-            if timeout 30m clojure -M:openmevzuat update; then
+            if timeout 40m clojure -M:openmevzuat update; then
               exit 0
             fi
 
