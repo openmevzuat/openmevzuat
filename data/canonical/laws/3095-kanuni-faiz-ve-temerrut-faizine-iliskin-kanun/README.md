@@ -10,9 +10,9 @@
 ## Maddeler
 
 - [MADDE 1 — Kanuni faiz](articles/madde-001.md)
-- [MADDE 2](articles/madde-002.md)
+- [MADDE 2 — Temerrüt faizi](articles/madde-002.md)
 - [MADDE 3 — Mürekkep faiz](articles/madde-003.md)
-- [MADDE 4](articles/madde-004.md)
+- [MADDE 4 — Diğer kanunlardaki faizler](articles/madde-004.md)
 - [MADDE 4/a — Yabancı para borcunda faiz](articles/madde-004-a.md)
 - [MADDE 5 — Kaldırılan ve uygulanmayacak olan hükümler](articles/madde-005.md)
 - [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)

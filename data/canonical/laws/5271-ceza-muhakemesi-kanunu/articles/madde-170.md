@@ -20,7 +20,7 @@ tarihleri ile bunların süreleri,
 Gösterilir.
 (4) İddianamede, yüklenen suçu oluşturan olaylar, mevcut delillerle ilişkilendirilerek
 açıklanır; yüklenen suçu oluşturan olaylar ve suçun delilleriyle ilgisi bulunmayan bilgilere yer
-verilmez.65
+verilmez.64
 (5) İddianamenin sonuç kısmında, şüphelinin sadece aleyhine olan hususlar değil,
 lehine olan hususlar da ileri sürülür.
 (6) İddianamenin sonuç kısmında, işlenen suç dolayısıyla ilgili kanunda öngörülen

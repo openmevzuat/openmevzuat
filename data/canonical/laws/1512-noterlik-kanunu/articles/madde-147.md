@@ -8,4 +8,4 @@ uygulanır. Şu kadar ki, noterlerin meslekten çıkarma cezasını, bu bölümd
 
 DÖRDÜNCÜ BÖLÜM
 Noter Katipleri ve Katip Adaylarına Uygulanacak Disiplin Cezaları
-Disiplin cezaları:16
+Disiplin cezaları:17

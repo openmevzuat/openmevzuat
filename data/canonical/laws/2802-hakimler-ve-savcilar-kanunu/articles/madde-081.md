@@ -6,7 +6,7 @@ Hâkimler ve Savcılar Yüksek Kurulunca bu süre iki ay daha uzatılabilir. Bu 
 hakkında bir karar verilmediği takdirde ilgili göreve başlatılır.
 Görevden uzaklaştırma, bir ceza soruşturması veya kovuşturması gereği olduğu takdirde,
 Hakimler ve Savcılar Yüksek Kurulu iki ayı aşmayan süreler içinde ilgilinin durumunu
-inceleyerek görevine dönüp dönmemesi hakkında bir karar verir. Bu karar ilgiliye tebliğ olunur.60
+inceleyerek görevine dönüp dönmemesi hakkında bir karar verir. Bu karar ilgiliye tebliğ olunur.62
 
 YEDİNCİ KISIM
 Soruşturma ve Kovuşturma

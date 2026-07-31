@@ -7,7 +7,7 @@ Bölge idare, idare ve vergi mahkemeleri her yıl bir eylülde başlamak üzere,
 otuz bir ağustosa kadar çalışmaya ara verirler. Ancak, yargı çevresine dahil olduğu bölge idare
 mahkemesinin bulunduğu il merkezi dışında kalan ve sadece bir idare veya bir vergi mahkemesi
 bulunan yerlerdeki idari yargı mercileri çalışmaya ara vermeden yararlanamazlar. Bu
-mahkemeler, 62 nci maddedeki sınırlamaya tabi olmaksızın görevlerine devam ederler.49
+mahkemeler, 62 nci maddedeki sınırlamaya tabi olmaksızın görevlerine devam ederler.50
 2. (Değişik: 1/7/2016-6723/14 md.) Çalışmaya ara verme süresi içinde; bölge idare
 mahkemesi başkanının önerisi üzerine, Hâkimler ve Savcılar Yüksek Kurulunca, birden fazla
 idari yargı mercii olan yerlerde idare veya vergi mahkemeleri başkan ve üyeleri arasından

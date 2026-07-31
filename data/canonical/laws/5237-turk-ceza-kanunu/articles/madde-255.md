@@ -14,6 +14,9 @@ gibi cezaya hükmolunur.
 fakat bunun kabul edilmemesi ya da menfaat teklif veya vaadinde bulunulması ve fakat bunun
 kabul edilmemesi hallerinde, birinci fıkra hükmüne göre verilecek ceza yarı oranında indirilir.
 (4) Nüfuz ticareti suçuna aracılık eden kişi, müşterek fail olarak, birinci fıkrada
+
+101 2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
+iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
 belirtilen ceza ile cezalandırılır.
 (5) Nüfuz ticareti ilişkisinde dolaylı olarak kendisine menfaat sağlanan üçüncü gerçek
 kişi veya tüzel kişinin menfaati kabul eden yetkilileri, müşterek fail olarak, birinci fıkrada
@@ -23,7 +26,4 @@ hallerde kişiler ayrıca bu suç nedeniyle cezalandırılır.
 (7) Bu madde hükümleri, 252 nci maddenin dokuzuncu fıkrasında sayılan kişiler
 üzerinde nüfuz ticareti yapılması halinde de uygulanır. Bu kişiler hakkında, Türkiye’de
 bulunmaları halinde, vatandaş veya yabancı olduklarına bakılmaksızın, resen soruşturma ve
-
-101 2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
-iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
 kovuşturma yapılır.

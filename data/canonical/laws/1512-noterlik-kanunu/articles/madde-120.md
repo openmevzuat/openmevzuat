@@ -1,4 +1,4 @@
-# MADDE 120 — Zamlı yatırma:15
+# MADDE 120 — Zamlı yatırma:16
 
 Noterler 119 uncu maddede gösterilen süre içinde vergi, resim ve harçlar
 ile değerli kağıt bedellerini ilgili daireye yatırmadıkları veya bu süre içinde posta veya banka
@@ -12,12 +12,12 @@ Vergi, resim ve harç ile değerli kağıt bedelinin ilgili daireye geç yatır�
 yatırılmaması hallerine ilişkin diğer kanunlar hükümleri saklıdır.
 
 ONİKİNCİ KISIM
+
+16 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan "Harç,
+vergi ve resim" ibareleri, "Vergi, resim ve harçlar ile değerli kâğıt", ikinci fıkrasında yer alan "Harç, vergi ve
+resmin" ibaresi "vergi, resim ve harç ile değerli kâğıt bedelinin" şeklinde değiştirilmiştir.
 Noterlerin Sorumlulukları
 
 BİRİNCİ BÖLÜM
 Genel Hükümler
-
-15 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan "Harç,
-vergi ve resim" ibareleri, "Vergi, resim ve harçlar ile değerli kâğıt", ikinci fıkrasında yer alan "Harç, vergi ve
-resmin" ibaresi "vergi, resim ve harç ile değerli kâğıt bedelinin" şeklinde değiştirilmiştir.
 Gözetim ve denetim yetkisi:

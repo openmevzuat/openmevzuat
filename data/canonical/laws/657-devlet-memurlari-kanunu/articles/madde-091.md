@@ -11,12 +11,12 @@ Söz konusu memurların eski kadrolarına ait en son ayda aldığı malî haklar
 fiilen yapılmakta olan her türlü ödemeler toplamının net tutarının, atandıkları yeni kadrolarına
 ait malî haklar kapsamında fiilen yapılmakta olan her türlü ödemeler toplamının net
 tutarından fazla olması hâlinde, aradaki fark, farklılık giderilinceye kadar, atandıkları
-
-159 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
-Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 kadrolarda veya bu kadrolardan istekleri dışında atandıkları başka kadrolarda kaldıkları
 sürece, herhangi bir vergi ve kesintiye tabi tutulmaksızın tazminat olarak ödenir. Aylık mutad
 olarak yapılmayıp belirli bir dönemi kapsayan ödemelerin ödendiği tarih itibarıyla net
+
+159 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
+Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 tutarları toplamının yılı içinde çalışılan aylara bölünmesi suretiyle bulunacak tutarı, en son
 ayda aldığı aylık tutarına ilave edilir. Fazla çalışma ücreti, fiilen yapılan ders karşılığı ödenen
 ek ders ücreti ve nöbet ücreti gibi ilave bir çalışmanın karşılığında elde edilen ödemeler aylık

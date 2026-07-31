@@ -17,9 +17,4 @@ istemlerinde bulunulamaz ve çekinilemez.
 taraflarca da reddedilebilirler. Bunlar hakkındaki çekinme veya ret istemleri davaya bakmakla
 görevli daire tarafından incelenerek karara bağlanır.
 
-48 Bu madde başlığı “Yargılamanın yenilenmesine ve kararın düzeltilmesine ilişkin özel hükümler:” iken, 18/6/2014
-tarihli ve 6545 sayılı Kanunun 26 ncı maddesiyle metne işlendiği şekilde, aynı maddenin beşinci fıkrasında yer alan
-“53, 54 ve bu” ibaresi “Bu madde ile 53 üncü” şeklinde değiştirilmiş; üçüncü ve dördüncü fıkralarında yer alan “ve
-kararın düzeltilmesi” ibareleri ile beşinci fıkrasında yer alan “ve kararın düzeltilmesinde” ibaresi madde metninden
-çıkarılmıştır.
 Mahkemelerde çekinme ve ret:

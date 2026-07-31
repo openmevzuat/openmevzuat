@@ -9,7 +9,7 @@ hissesi tutarının % 15'ini aşmamak üzere Noter Odası Yönetim Kurulunca tes
 oranı alıkonulduktan sonra kalanı işlemi yapan noterlikçe, milli bir bankada açtırılan
 (Noterlikler ortak cari hesabı)na en geç işlemin yapıldığı günü takibeden (5) iş günü içinde
 yatırılır. Noterlikler ortak cari hesabı, takvim yılı başından önce o yerdeki noterliklerin bağlı
-bulunduğu oda yönetim kurulunca açtırılır ve durum Türkiye Noterler Birliğine bildirilir.12
+bulunduğu oda yönetim kurulunca açtırılır ve durum Türkiye Noterler Birliğine bildirilir.13
 Noterler, yukarıdaki fıkrada gösterilen noterlik işlemlerini, kanuni bir sebep olmaksızın
 yapmaktan hiçbir surette kaçınamazlar.
 

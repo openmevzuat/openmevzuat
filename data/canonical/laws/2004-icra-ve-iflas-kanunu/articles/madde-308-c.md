@@ -5,6 +5,9 @@ Konkordato, tasdik kararıyla bağlayıcı hâle gelir. Tasdik edilen konkordato
 konkordatonun, tasdik kararının kesinleşmesiyle bağlayıcı hâle geleceği de kararlaştırılabilir;
 bu takdirde mühletin etkileri, kanunda öngörülen istisnalar saklı kalmak kaydıyla
 konkordatonun bağlayıcı hâle geldiği tarihe kadar devam eder.
+
+105 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
+şeklinde değiştirilmiştir.
 Bağlayıcı hâle gelen konkordato, konkordato talebinden önce veya komiserin izni
 olmaksızın mühlet içinde doğan bütün alacaklar için mecburidir.
 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar, rehinli alacaklıların

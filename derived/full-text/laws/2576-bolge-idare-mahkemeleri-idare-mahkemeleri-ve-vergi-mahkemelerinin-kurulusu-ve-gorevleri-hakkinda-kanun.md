@@ -294,14 +294,24 @@ c) Diğer kanunlarla verilen işleri,
 
 MADDE 7 — Tek hakimle çözümlenecek davalar:8
 
-1. (Değişik birinci fıkra: 8/6/2000 - 4577/3 md.) Uyuşmazlık miktarı
-yirmibeşbin Türk Lirasını aşmayan;
-a) Konusu belli parayı içeren idarî işlemlere karşı açılan iptal davaları,
-b) Tam yargı davaları,
-İdare mahkemesi hâkimlerinden biri tarafından çözümlenir.
+1. (Değişik:16/7/2026-7589/4 md.) Düzenleyici işlemlere karşı açılanlar
+hariç, aşağıda sayılan davalar idare mahkemesi hâkimlerinden biri tarafından çözümlenir:
+a) Konusu dört yüz seksen altı bin Türk Lirasını aşmayan; idari işlemlere karşı açılan
+iptal davaları ve tam yargı davaları.
+b) İlköğretim, ortaöğretim ve yükseköğretim öğrencileri hakkında tesis edilen
+uzaklaştırma ve ilişik kesme sonucunu doğuranlar hariç disiplin cezası ile sınıf geçme, not
+tespiti, yurt, kredi ve burs işlemlerine karşı açılan davalar.
+c) Kamu görevlileri hakkında tesis edilen geçici görevlendirme, yolluk, lojman ve izin
+işlemlerine karşı açılan davalar.
+d) Kamu görevlilerine verilen uyarma cezasına karşı açılan davalar.
+e) Mesleki faaliyeti geçici veya sürekli olarak engelleyenler hariç olmak üzere, kamu
+kurumu niteliğindeki meslek kuruluşlarının üyeleri hakkında verdiği disiplin cezalarına karşı
+açılan davalar.
+f) 1/7/1976 tarihli ve 2022 sayılı 65 Yaşını Doldurmuş Muhtaç, Güçsüz ve Kimsesiz
+Türk Vatandaşlarına Aylık Bağlanması Hakkında Kanunun uygulanmasından doğan davalar.
 2. (Değişik: 8/6/2000 - 4577/3. md.) 6 ncı maddenin (a) ve (b) bentlerinde belirtilen
-uyuşmazlıklardan kaynaklanan toplam değeri yirmibeşbin Türk Lirasını aşmayan davalar, vergi
-mahkemesi hâkimlerinden biri tarafından çözümlenir.
+uyuşmazlıklardan kaynaklanan toplam değeri dört yüz seksen altı bin Türk Lirasını aşmayan
+davalar, vergi mahkemesi hâkimlerinden biri tarafından çözümlenir. 9
 3. Bu tür davaların hakimler arasında dağılımına ilişkin esaslar, işlerde denge sağlanacak
 biçimde mahkeme başkanı tarafından önceden tespit edilir.
 
@@ -322,6 +332,13 @@ Mahkeme Başkanlarının görevleri:
 MADDE 10
 
 Mahkeme başkanları;
+
+8 2/7/2012 tarihli ve 6352 sayılı Kanunun 50 nci maddesiyle, bu maddenin (1) ve (2) numaralı
+fıkralarında yer alan “birmilyar lirayı” ibareleri “yirmibeşbin Türk Lirasını” şeklinde
+değiştirilmiştir.
+9 16/7/2026 tarihli ve 7589 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “yirmibeşbin”
+ibaresi “dört yüz seksen altı bin” şeklinde değiştirilmiştir.
+
 a) Görüşme ve duruşmaları yönetirler, düşünce ve görüşlerini bildirirler, oylarını verirler.
 Mahkemelerinde görevli bulunanların görevlerine devamlarını, düzenli çalışmalarını, mahkeme
 işlerinin verimli bir şekilde yürütülmesini sağlarlar,
@@ -339,10 +356,7 @@ verilen dosyaları geciktirmeden inceleyerek mahkeme kuruluna gerekli açıklama
 düşünce ve görüşlerini bildirirler, oylarını verirler, kararları yazarlar ve mahkeme ile ilgili
 olmak üzere kendilerine başkan tarafından verilen diğer işleri görürler.
 
-8 2/7/2012 tarihli ve 6352 sayılı Kanunun 50 nci maddesiyle, bu maddenin (1) ve (2) numaralı fıkralarında yer
-alan “birmilyar lirayı” ibareleri “yirmibeşbin Türk Lirasını” şeklinde değiştirilmiştir.
-
-MADDE 12 — Müdürlükler ve mahkeme memurları:9
+MADDE 12 — Müdürlükler ve mahkeme memurları:10
 
 (Değişik: 18/6/2014-6545/12 md.)
 1. Her mahkemede bir yazı işleri müdürlüğü kurulur.
@@ -380,7 +394,7 @@ tarihte sona erer.
 2. Vergi itiraz komisyonlarının ve Vergiler Temyiz Komisyonunun kuruluşuna ilişkin
 hükümler birinci fıkrada gösterilen tarihte yürürlükten kalkar.
 
-EK MADDE 1 — Parasal sınırların artırılması:10
+EK MADDE 1 — Parasal sınırların artırılması:11
 
 (Ek: 24/2/1988 - 3410/4. md.) (Değişik:7/11/2024-7531/5 md.)
 1. Bu Kanunun tek hâkimle çözümlenecek davalara ilişkin 7 nci maddesindeki parasal
@@ -389,9 +403,9 @@ Kanununun mükerrer 298 inci maddesi hükümleri uyarınca tespit ve ilan edilen
 değerleme oranında, takvim yılı başından geçerli olmak üzere artırılmak suretiyle uygulanır. Bu
 şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate alınmaz.
 
-9 Bu madde başlığı “Mahkeme memurları:” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 12 nci maddesiyle
+10 Bu madde başlığı “Mahkeme memurları:” iken, 18/6/2014 tarihli ve 6545 sayılı Kanunun 12 nci maddesiyle
 metne işlendiği şekilde değiştirilmiştir.
-10 7/11/2024 tarihli ve 7531 sayılı Kanunun 5 inci maddesiyle bu maddeye “Parasal sınırların artırılması:”
+11 7/11/2024 tarihli ve 7531 sayılı Kanunun 5 inci maddesiyle bu maddeye “Parasal sınırların artırılması:”
 başlığı eklenmiştir.
 2. Tek hâkimle çözümlenecek davaların belirlenmesinde dava tarihindeki, miktar
 artırımı yapılan hâllerde ise artırımın yapıldığı tarihteki parasal sınır esas alınır.
@@ -646,7 +660,7 @@ davaların görülmesine bulundukları mahkemelerde devam olunur.
 
 GEÇİCİ MADDE 20
 
-(Ek: 18/6/2014-6545/14 md.)11
+(Ek: 18/6/2014-6545/14 md.)12
 1. Adalet Bakanlığı, bu Kanunun yürürlüğe girdiği tarihten itibaren üç ay içinde,
 Kanunun, bu Kanunla değişik 3 üncü maddesinde öngörülen bölge idare mahkemelerini kurar.
 Bölge idare mahkemelerinin kuruluşları, yargı çevreleri ve tüm yurtta göreve başlayacakları
@@ -662,7 +676,7 @@ aynı süre içinde yapılır.
 4. Yeni kurulan bölge idare mahkemelerinin adalet komisyonları da bu mahkemelerin
 göreve başlayacakları tarih itibarıyla oluşturulur.
 
-11 Bu maddede yer alan 3 üncü maddenin 18/6/2014 tarihli ve 6545 sayılı Kanunla değiştirilmeden önceki metni
+12 Bu maddede yer alan 3 üncü maddenin 18/6/2014 tarihli ve 6545 sayılı Kanunla değiştirilmeden önceki metni
 aşağıdaki şekildedir.
 “Bölge İdare Mahkemelerinin oluşumu:
 

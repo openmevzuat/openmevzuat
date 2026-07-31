@@ -2,9 +2,6 @@
 
 Cumhurbaşkanınca bu suretle tayin edilen mıntakalarda 317 nci
 maddede gösterilen haller sebebiyle kusuru olmaksızın taahhütlerini ifa edemiyen borçlu
-
-119 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 mühletin hitamında borçlarını tamamen tediye edebileceğini ahval ümit ettiriyorsa icra
 mahkemesinden nihayet altı ayı geçmemek üzere fevkalade bir mühlet istiyebilir.120
 Borçlu dilekçesine mali vaziyetini gösteren vesikaları, alacaklıların listesini

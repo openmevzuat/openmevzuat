@@ -34,9 +34,9 @@ Kararnamenin 3 üncü maddesi ile 657 sayılı Devlet Memurları Kanununa eklene
 Ek gösterge Cetveli Sayıştay meslek mensupları, Sayıştay savcısı ve savcı yardımcıları
 hakkında uygulanmaz.
 
-Ek Geçici Madde 2 – (Ek:13/7/1993-KHK-486/13 md.)81
+Ek Geçici Madde 2 – (Ek:13/7/1993-KHK-486/13 md.)83
 Kendi kanunlarında gerekli değişiklik yapılıncaya kadar, aylık, ek gösterge, ödenek,
-mali, sosyal ve diğer özlük hakları bakımından;82
+mali, sosyal ve diğer özlük hakları bakımından;84
 a) Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi Başkanları ve Başsavcıları, Askeri
 Yargıtay İkinci Başkanı ile bu yüksek yargı organlarının daire başkanları ve üyeleri; sırasıyla
 Yargıtay Başkanı, Yargıtay Cumhuriyet Başsavcısı, Yargıtay Birinci Başkanvekili, Daire

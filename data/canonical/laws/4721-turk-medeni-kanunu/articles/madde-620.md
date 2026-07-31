@@ -8,6 +8,6 @@ veya yanlış ya da eksik bilgi verenler, bundan doğacak zararları mirasçıla
 veya üçüncü kişilere tazminle yükümlüdürler.
 Mirasçılar, özellikle mirasbırakanın kendilerince bilinen borçlarını sulh mahkemesine
 bildirmek zorundadırlar.
-Resmî defterin nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.33
+Resmî defterin nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.35
 
 II. İlân yoluyla çağrı

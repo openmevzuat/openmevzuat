@@ -20,7 +20,7 @@ ay içinde giderilmesini, aksi hâlde istemin reddedileceğini ilgiliye duyurur.
 tamamlanmayan dilekçe, mahkemece, itiraz yolu açık olmak üzere reddolunur.
 (5) Mahkeme, dosyayı inceledikten sonra yeterliliğini belirlediği dilekçe ve eki
 belgelerin bir örneğini Devlet Hazinesinin kendi yargı çevresindeki temsilcisine tebliğ ederek,
-varsa beyan ve itirazlarını iki hafta içinde yazılı olarak bildirmesini ister.52
+varsa beyan ve itirazlarını iki hafta içinde yazılı olarak bildirmesini ister.51
 (6) İstemin ve ispat belgelerinin değerlendirilmesinde ve tazminat hukukunun genel
 prensiplerine göre verilecek tazminat miktarının saptanmasında mahkeme gerekli gördüğü her
 türlü araştırmayı yapmaya veya hâkimlerinden birine yaptırmaya yetkilidir.
@@ -43,5 +43,5 @@ icra takibine konulamaz. Kesinleşen mahkeme kararında hükmedilen tazminat ile
 bu bildirimin yapıldığı tarihten itibaren otuz gün içinde ödenir. Bu süre içinde ödeme
 yapılmaması halinde, karar genel hükümler dairesinde infaz ve icra olunur.
 
-52 2/3/2024 tarihli ve 7499 sayılı Kanunun 13 üncü maddesi ile bu fıkrada yer alan “onbeş gün” ibaresi “iki
+51 2/3/2024 tarihli ve 7499 sayılı Kanunun 13 üncü maddesi ile bu fıkrada yer alan “onbeş gün” ibaresi “iki
 hafta” şeklinde değiştirilmiştir.

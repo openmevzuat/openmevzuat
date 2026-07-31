@@ -7,6 +7,9 @@ soruşturma veya kovuşturmada tanık olarak bir defa dinlenebilir. Maddî gerç
 çıkarılması açısından zorunluluk arz eden haller saklıdır.
 (3) Mağdur çocukların veya işlenen suçun etkisiyle psikolojisi bozulmuş olan diğer
 mağdurun tanık olarak dinlenmesi sırasında psikoloji, psikiyatri, tıp veya eğitim alanında
+
+81 Anayasa Mahkemesi’nin 17/5/2012 tarihli ve E.: 2011/37, K.: 2012/69 sayılı Kararı ile bu alt bentte
+yer alan “… vekili aracılığı ile…” ibaresi iptal edilmiştir.
 uzman bir kişi bulundurulur. (Mülga cümle:17/10/2019-7188/22 md.)
 (4) (Ek:17/10/2019-7188/22 md.) Cumhuriyet savcısı veya hâkim tarafından ifade ve
 beyanının özel ortamda alınması gerektiği ya da şüpheli veya sanık ile yüz yüze gelmesinde

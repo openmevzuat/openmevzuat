@@ -17,17 +17,13 @@ cümleler: 17/10/2019-7188/30 md.) Kurulun itirazın kabulüne ilişkin kararlar
 dairesine gönderilir. Kurulun verdiği kararlar kesindir. Dörtten fazla ceza dairesi olan bölge
 adliye mahkemelerinde Hâkimler ve Savcılar Kurulu tarafından daire başkanları arasından
 belirlenen ve dört üyeden oluşan başkanlar kurulu bu incelemeyi yapar. Başkanlar kurulunun
-bu maddeye ilişkin çalışma usul ve esasları, Hâkimler ve Savcılar Kurulu tarafından
-belirlenir.143 144
 
-141 20/7/2017 tarihli ve 7035 sayılı Kanunun 23 üncü maddesiyle, bu bölüm başlığında yer alan
+139 20/7/2017 tarihli ve 7035 sayılı Kanunun 23 üncü maddesiyle, bu bölüm başlığında yer alan
 “Yargıtay” ibaresi metinden çıkarılmıştır.
-142 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “otuz gün” ibaresi
+140 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “otuz gün” ibaresi
 “bir ay” şeklinde değiştirilmiştir.
-143 Anayasa Mahkemesinin 26/1/2022 tarihli ve E.:2021/48; K.:2022/7 sayılı Kararı ile bu fıkranın
-birinci cümlesi “sanığın aleyhine itirazlar” yönünden iptal edilmiştir.
-144 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “otuz gün” ibaresi “bir ay”
-ve “yedi gün” ibaresi “iki hafta” şeklinde değiştirilmiştir.
+bu maddeye ilişkin çalışma usul ve esasları, Hâkimler ve Savcılar Kurulu tarafından
+belirlenir.141 142
 
 İKİNCİ BÖLÜM
 Kanun Yararına Bozma

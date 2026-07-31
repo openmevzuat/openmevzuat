@@ -31,8 +31,6 @@ veya hüküm aleyhine Avrupa İnsan Hakları Mahkemesine yapılan başvuru hakk�
 numaralı fıkranın (h) bendinde yazılı sebep için on yıl, (1) numaralı fıkranın (ı) bendinde yazılı
 sebep için Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten itibaren bir yıl ve
 diğer sebepler için altmış gündür. Bu süreler, dayanılan sebebin istemde bulunan yönünden
-gerçekleştiği tarihi izleyen günden başlatılarak hesaplanır.47
-
-47 3 numaralı fıkra, 10/6/1994 tarihli ve 4001 sayılı Kanunun 23 üncü maddesi hükmüdür.
+gerçekleştiği tarihi izleyen günden başlatılarak hesaplanır.48
 
 Kararın düzeltilmesi:

@@ -1,6 +1,11 @@
 # EK MADDE 2
 
 (Ek: 5/4/1990-3622/26 md.)
+
+50 1/7/2016 tarihli ve 6723 sayılı Kanunun 14 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan “idare ve vergi
+mahkemeleri” ibaresi “ve sadece bir idare veya bir vergi mahkemesi bulunan yerlerdeki idari yargı mercileri”
+şeklinde değiştirilmiştir.
+51 28/7/2024 tarihli ve 7524 sayılı Kanunun 54 üncü maddesi ile Kanuna bu madde başlığı eklenmiştir.
 Belediyeler ile il özel idarelerinin seçilmiş organlarının organlık sıfatlarını
 kaybetmelerine ilişkin olarak yetkili mercilerden Danıştaya gönderilen dosyalar; belediye
 başkanlarının düşmesi istemine dair ise belediye başkanlarının, belediye meclislerinin veya il

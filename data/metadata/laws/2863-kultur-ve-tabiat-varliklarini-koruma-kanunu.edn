@@ -6,12 +6,12 @@
  :document/path
  "data/canonical/laws/2863-kultur-ve-tabiat-varliklarini-koruma-kanunu",
  :document/sha256
- "e359ac953ede6903e293aece9c9b93df97b20d15ab2f0ba86a4f8a737b25f7a9",
+ "418c7dbd62c51489ec5498614ee172488f15a15164054bf15326770652ca5cdb",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2863.pdf",
- :source/fetched-at #inst "2026-07-16T02:20:41.914-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-07-31T07:44:37.292-00:00",
+ :openmevzuat/baseline-date "2026-07-31",
+ :openmevzuat/generated-at #inst "2026-07-31T07:43:55.693-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -600,6 +600,13 @@
    :article/path "articles/ek-madde-008.md",
    :article/sha256
    "398dc92897c682358cab08ad4cfb6faff3904ec8880dd4835e1ae9303278d4cf"}
+  {:article/id "law/2863/article/9",
+   :article/type :additional,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/ek-madde-009.md",
+   :article/sha256
+   "6eb2a17c8f8a15f2c9ad2413850a2cfae055378fa47e34a9bfff986cfe1387f0"}
   {:article/id "law/2863/article/1",
    :article/type :temporary,
    :article/no "1",
@@ -683,7 +690,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-012.md",
    :article/sha256
-   "ecfafb13a8be6a6ad2bc176dc4d127e6326bc873795ba40eec81637529daf6f6"}
+   "a6efa493c401551ea62d5b6f1f76e2784d1e81f11d39454542d1aacba4093fe5"}
   {:article/id "law/2863/article/77",
    :article/type :normal,
    :article/no "77",
@@ -697,4 +704,4 @@
    :article/title nil,
    :article/path "articles/madde-078.md",
    :article/sha256
-   "f8638f00e446af1ae37a65839f181dc0589c0dd93bf06661a7a458edb5924b31"}]}
+   "881541619dbbd23d84fce92700d96422a8c435515e9eb0e13951e9589be98183"}]}

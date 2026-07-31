@@ -16,6 +16,4 @@ geçerli değildir.
 
 İKİNCİ BÖLÜM
 Hükmün Tashihi, Tavzihi ve Tamamlanması34
-
-34 22/7/2020 tarihli ve 7251 sayılı Kanunun 26 ncı maddesiyle, bu bölüm başlığı “Hükmün Tashihi ve
-Tavzihi” iken metne işlendiği şekilde değiştirilmiştir.
+Hükmün tashihi

@@ -8,5 +8,5 @@ ONBİRİNCİ KISIM
 Çeşitli Hükümler
 İlke kararları:
 
-78 22/12/2005 tarihli ve 5435 sayılı Kanunun 37 nci maddesiyle bu madde başlığı "Geçici görevlendirme:" iken
+80 22/12/2005 tarihli ve 5435 sayılı Kanunun 37 nci maddesiyle bu madde başlığı "Geçici görevlendirme:" iken
 metne işlendiği şekilde değiştirilmiştir.

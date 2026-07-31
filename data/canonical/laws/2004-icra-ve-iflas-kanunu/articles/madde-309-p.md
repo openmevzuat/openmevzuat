@@ -20,6 +20,3 @@ itibaren iki hafta içinde temyiz yoluna başvurabilir.
 Tarafların itirazı ile istinaf ve temyiz maktu harca tâbidir.117
 
 Kararın sonuçları:
-
-117 2/3/2024 tarihli ve 7499 sayılı Kanunun 2 nci maddesiyle bu fıkraya “itirazı” ibaresinden sonra gelmek üzere
-“ile istinaf” ibaresi eklenmiştir.

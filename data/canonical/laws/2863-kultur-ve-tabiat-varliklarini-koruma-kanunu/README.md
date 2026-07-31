@@ -92,6 +92,7 @@
 - [EK MADDE 6](articles/ek-madde-006.md)
 - [EK MADDE 7](articles/ek-madde-007.md)
 - [EK MADDE 8](articles/ek-madde-008.md)
+- [EK MADDE 9](articles/ek-madde-009.md)
 - [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
 - [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)
 - [GEÇİCİ MADDE 3](articles/gecici-madde-003.md)

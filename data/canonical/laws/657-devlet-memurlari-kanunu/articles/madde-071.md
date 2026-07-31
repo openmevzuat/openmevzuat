@@ -7,6 +7,10 @@ geçecekleri sınıf ve görev için bu Kanunda, kuruluş kanunlarında veya Cum
 kararnamelerinde belirtilen niteliklere sahip olmaları şarttır. Bu durumda sınıfları değişenlerin
 eski sınıflarının derecesinde elde ettikleri kademelerde geçirdikleri süreler yeni sınıflardaki
 derecelerinde dikkate alınır.145
+
+145 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “veya
+kuruluş kanunlarında” ibaresi “, kuruluş kanunlarında veya Cumhurbaşkanlığı kararnamelerinde” şeklinde
+değiştirilmiştir.
 Kurumlar, memurlarını meslekleri ile ilgili sınıftan genel idare hizmetleri sınıfına veya
 genel idare hizmetleri sınıfından meslekleri ile ilgili sınıfa, görev ve unvan eşitliği
 gözetmeden kazanılmış hak aylık dereceleriyle atayabilirler.

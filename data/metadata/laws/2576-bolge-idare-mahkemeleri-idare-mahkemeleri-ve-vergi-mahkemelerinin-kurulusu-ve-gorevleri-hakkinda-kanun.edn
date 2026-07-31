@@ -8,12 +8,12 @@
  :document/path
  "data/canonical/laws/2576-bolge-idare-mahkemeleri-idare-mahkemeleri-ve-vergi-mahkemelerinin-kurulusu-ve-gorevleri-hakkinda-kanun",
  :document/sha256
- "9866b1da720f0b8e31667224c4b784c86f3b2ee82cbb1c08ae7bd491f9d24700",
+ "bde982cc2ef377f025f37f9ac3ba5c72c4fc2182dcdeae7a88450fe56e99e2c1",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2576.pdf",
- :source/fetched-at #inst "2026-07-16T02:18:31.078-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-07-31T07:44:24.594-00:00",
+ :openmevzuat/baseline-date "2026-07-31",
+ :openmevzuat/generated-at #inst "2026-07-31T07:43:55.693-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -137,7 +137,7 @@
    :article/title "Tek hakimle çözümlenecek davalar:8",
    :article/path "articles/madde-007.md",
    :article/sha256
-   "022b2876d250010fc6a9e3d61e3325ee37522935e27fbb934e6ceba11ff5b251"}
+   "d77e9abed477fc75cc1ee66555d5f24e3b7d426722800684e80dcc1186c86329"}
   {:article/id "law/2576/article/8",
    :article/type :normal,
    :article/no "8",
@@ -158,21 +158,21 @@
    :article/title nil,
    :article/path "articles/madde-010.md",
    :article/sha256
-   "c7dc072ba33da5e72a474e7285633e1ce1101ddb4e4056ff8e649692dbe2c277"}
+   "71b0d7d712cf7f237743d1a5f2704f377267bf8c280f49d697db4fa129b2189a"}
   {:article/id "law/2576/article/11",
    :article/type :normal,
    :article/no "11",
    :article/title nil,
    :article/path "articles/madde-011.md",
    :article/sha256
-   "821cc2a6ecbd067feae658e963f8e23c692f2986e8d49e04540c4f209e880527"}
+   "29a20db7098118cc69e2d7cc8c81e1ae2b7243a01b77f7445c4acc1c92aa18ac"}
   {:article/id "law/2576/article/12",
    :article/type :normal,
    :article/no "12",
-   :article/title "Müdürlükler ve mahkeme memurları:9",
+   :article/title "Müdürlükler ve mahkeme memurları:10",
    :article/path "articles/madde-012.md",
    :article/sha256
-   "685774767b3ef42d89d14baec2f1be674181ea253fb858dd4df33c978011766b"}
+   "3f1aa2efc2974cd8a188ab74bb4c9313d01546f0ac4b21df2094e6977311a90d"}
   {:article/id "law/2576/article/13",
    :article/type :normal,
    :article/no "13",
@@ -197,10 +197,10 @@
   {:article/id "law/2576/article/1",
    :article/type :additional,
    :article/no "1",
-   :article/title "Parasal sınırların artırılması:10",
+   :article/title "Parasal sınırların artırılması:11",
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "b8235ed975349f3946f96b1750fb87f26c93ace987d610387568974aaa4ccc24"}
+   "652f0e6772d92025f16a93dc1ee3f300e54f7edbf32dea53f4ddbb3f6fb057e1"}
   {:article/id "law/2576/article/1",
    :article/type :temporary,
    :article/no "1",
@@ -340,7 +340,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-020.md",
    :article/sha256
-   "30a9982e64f9a103b94e53110a9955fd9172a6a633009019a284c064e8ef71ee"}
+   "74b3def114dbba07d80a9e444c044f1e5e2a1d666310c6041fde951566b8739d"}
   {:article/id "law/2576/article/3",
    :article/type :normal,
    :article/no "3",

@@ -5,9 +5,6 @@ Türkiye Noterler Birliğinin görevleri şunlardır:
 2. Meslekin gelişmesi için kitap ve dergi yayınlamak, konferanslar düzenlemek,
 milletlerarası toplantılara katılmak ve sair gerekli çalışmalarda bulunmak,
 3. Noter katiplerini yetiştirmek için kurslar açmak,
-
-22 18/6/1997 tarih ve 4276 sayılı Kanunun 27 nci maddesiyle bu fıkra, altıncı ve yedinci fıkraların birleştirilmesi
-suretiyle altıncı fıkra olarak yeniden düzenlenmiştir.
 4. Noterliği ilgilendiren konularda görüşünü yetkili mercilere kendiliğinden veya istek
 üzerine bildirmek,
 5. Uyulması zorunlu meslek kurallarını tespit ve tavsiye etmek,
@@ -33,6 +30,6 @@ düzenlemekten kaçınamazlar),
 odalarına Birlikçe verilecek ödenek miktarını ve ödeme şeklini belli etmek,
 15. (Ek: 2/3/2005-5309/5 md.; Değişik: 23/1/2008-5728/357 md.) 109 uncu madde
 hükümleri saklı kalmak üzere, her nevi ortak hesap paylaşım esaslarını belirlemek,
-16. Kanunlarla verilmiş diğer görevleri yapmak,23
+16. Kanunlarla verilmiş diğer görevleri yapmak,24
 
 Türkiye Noterler Birliğinin organları:

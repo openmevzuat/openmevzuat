@@ -4,6 +4,9 @@
 tarafsızlık ve bağımsızlığından şüphe edilmeyi haklı gösteren durum ve koşulları açıklamak
 zorundadır. Taraflar önceden bilgilendirilmemiş oldukları takdirde hakem, daha sonra ortaya
 çıkan durumları da gecikmeksizin taraflara bildirir.
+
+68 28/2/2018 tarihli ve 7101 sayılı Kanunun 58 inci maddesi ile bu fıkrada yer alan “temyiz yoluna”
+ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 (2) Hakem, taraflarca kararlaştırılan niteliklere sahip olmadığı, taraflarca kararlaştırılan
 tahkim usulünde öngörülen bir ret sebebi mevcut bulunduğu veya tarafsızlığından şüphe
 edilmeyi haklı gösteren durum ve koşullar gerçekleştiği takdirde reddedilebilir. Taraflardan

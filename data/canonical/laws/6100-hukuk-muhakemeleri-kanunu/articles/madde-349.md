@@ -6,3 +6,6 @@ başvurma hakkından feragat edemez.
 gönderilmez ve kararı veren mahkemece başvurunun reddine karar verilir. Dosya, bölge
 adliye mahkemesine gönderilmiş ve henüz karara bağlanmamış ise başvuru feragat nedeniyle
 reddolunur.
+
+47 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “bir hafta” ibaresi
+“iki hafta” şeklinde değiştirilmiştir.

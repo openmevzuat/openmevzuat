@@ -10,6 +10,11 @@ döneminde adli yargı hâkim ve savcı yardımcıları, adli yargı teşkilatı
 imkânlar ölçüsünde kendi istekleri göz önünde bulundurulmak ve Hâkimler ve Savcılar
 Kurulunun görüşü alınmak suretiyle, Adalet Bakanlığınca hâkimliğe veya savcılığa atanacak
 şekilde ayrılır.
+(Ek fıkra:16/7/2026-7589/8 md.) Adli yargı hâkim ve savcı yardımcıları ile idari
+yargı hâkim yardımcılarına ilgisine göre; Anayasa ve insan hakları hukuku, ceza hukuku, özel
+hukuk, idare hukuku, vergi hukuku ve usul hukuku alanları ile duruşma yönetimi, karar ve
+gerekçeli karar yazımı, adalet hizmetlerinin yönetimi ve denetimi, uluslararası kuruluşlar ve
+sözleşmeler, sık karşılaşılan davalar ve kişisel gelişim konularında eğitim verilir.
 Hâkim ve savcı yardımcıları, temel eğitim döneminin sonunda yazılı sınava tabi
 tutulur ve aldıkları puana göre en yüksek puandan başlamak üzere ayrı ayrı sıralanır. Eşitlik
 hâlinde hâkim ve savcı yardımcılığı yazılı yarışma sınavında puanı yüksek olana öncelik
@@ -44,17 +49,40 @@ sınav sonucuna göre de yazılı sınavlar nihai puanının yetmiş ve üzerind
 kalmayanların, hâkim ve savcı yardımcılıklarına Adalet Bakanlığınca son verilir.
 Son yazılı sınav puanı ile yazılı sınavlar nihai puanı en az yetmiş olmayanlar, en geç
 iki ay içinde yeniden son yazılı sınava alınır. Bu sınav sonucuna göre de başarılı olamayanlar
-hakkında onaltıncı fıkra hükümleri uygulanır.
+hakkında ondokuzuncu fıkra hükümleri uygulanır.25
 Hâkim ve savcı yardımcılığı sonunda başarılı sayılmak için yazılı sınavlar nihai
 puanının %50’si, sözlü sınav puanının %25’i ile görev ve eğitim dönemlerinde verilen puanların
 aritmetik ortalamasının %25’inin toplamının en az yetmiş olması şarttır.
 Yazılı sınavlar; hâkim ve savcı yardımcılarına ders verenler arasından Türkiye Adalet
 Akademisi Başkanınca seçilen başkan ile dört asıl ve iki yedek üyeden oluşan yazılı sınav
 kurulu tarafından yapılır.
+(Ek fıkra:16/7/2026-7589/8 md.) Yazılı sınavlarda eğitim verilen konulardan soru
+sorulur. Sınavlar, yüz tam puan üzerinden değerlendirilir. Mazereti sebebiyle yazılı sınavlara
+
+25 16/7/2026 tarihli ve 7589 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “onaltıncı” ibaresi
+“ondokuzuncu” şeklinde değiştirilmiştir.
+katılamayan hâkim ve savcı yardımcıları, mazeretlerinin ortadan kalktığı günden itibaren
+durumlarını en geç beş iş günü içinde Türkiye Adalet Akademisine bildirir. Yazılı sınav
+kurulunca mazereti haklı görülenlerin yazılı sınavı, Akademi tarafından belirlenen tarihte
+yapılır. Yazılı sınav sonuçları, yazılı sınav kurulunca tutanağa bağlanır ve Akademiye teslim
+edilir.
 Sözlü sınav; Türkiye Adalet Akademisi Başkanının başkanlığında, Teftiş Kurulu
 Başkanı ve Personel Genel Müdürü ile hâkim ve savcı yardımcılarına ders verenler arasından
 ilgili bakan yardımcısınca seçilen iki asıl ve bir yedek üyeden oluşan sözlü sınav kurulu
 tarafından yapılır.
+(Ek fıkra:16/7/2026-7589/8 md.) Sözlü sınavda hâkim ve savcı yardımcısının;
+a) Eğitim konularına ilişkin mevzuat, içtihat ve uygulama bilgisi,
+b) Mesleki yeterliliği, hukuki meseleleri kavrama, çözme ve ifade etme yeteneği,
+c) Özgüveni, temsil kabiliyeti ve davranışlarının mesleğe uygunluğu,
+ç) Türkçeyi etkin bir şekilde kullanma becerisi ile genel kültür ve yetenek düzeyi,
+değerlendirilir. Sözlü sınav, bu fıkrada belirtilen hususların her biri yirmibeşer puan
+üzerinden değerlendirilerek yapılır. Sözlü sınav kurulunun her bir üyesi tarafından verilen
+puanlar ayrı ayrı tutanağa geçirilir. Sözlü sınav puanı, üyelerin yüz üzerinden verdikleri
+puanların aritmetik ortalamasıdır. Sözlü sınav sonuçları, sözlü sınav kurulunca tutanağa
+bağlanır ve Akademiye teslim edilir. Mazereti sebebiyle sözlü sınava katılamayan hâkim ve
+savcı yardımcıları, mazeretlerinin ortadan kalktığı günden itibaren durumlarını en geç beş iş
+günü içinde Türkiye Adalet Akademisine bildirir. Sözlü sınav kurulunca mazereti haklı
+görülenlerin sözlü sınavı, Akademi tarafından belirlenen tarihte yapılır.
 Hâkim ve savcı yardımcılığı sonunda başarılı olamayanlar, talepleri hâlinde Adalet
 Bakanlığınca merkez veya taşra teşkilatında genel idare hizmetleri sınıfında bir kadroya
 atanabilir, aksi hâlde bunların hâkim ve savcı yardımcılığına Adalet Bakanlığınca son verilir.
@@ -68,7 +96,10 @@ Cumhuriyet savcılığına atanacak şekilde ayrılması, görev yerlerinin tesp
 savcıların belirlenmesi ve görevleri ile bu maddenin uygulanmasına ilişkin diğer hususlar
 Hâkimler ve Savcılar Kurulunun görüşü; görev döneminin Yargıtay ve Danıştayda geçirilmesine
 ilişkin hususlar ise Yargıtay ve Danıştayın görüşleri alınmak suretiyle Adalet Bakanlığınca
-çıkarılacak yönetmelikle; eğitimlerin uygulama esasları ile yazılı ve sözlü sınavlara ilişkin
-hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.25
+çıkarılacak yönetmelikle; eğitimlerin uygulama esasları ile yazılı ve sözlü sınavlara ilişkin diğer
+hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.26
+
+26 16/7/2026 tarihli ve 7589 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “sözlü sınavlara
+ilişkin hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.” ibaresi “sözlü
 
 Hâkim ve savcı yardımcısının görev ve yetkileri:

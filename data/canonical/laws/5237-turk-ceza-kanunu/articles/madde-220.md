@@ -4,13 +4,6 @@
 yönetenler, örgütün yapısı, sahip bulunduğu üye sayısı ile araç ve gereç bakımından amaç
 suçları işlemeye elverişli olması halinde, beş yıldan on yıla kadar hapis cezası ile
 cezalandırılır. Ancak, örgütün varlığı için üye sayısının en az üç kişi olması gerekir.
-(2) Suç işlemek amacıyla kurulmuş olan örgüte üye olanlar, iki yıldan beş yıla kadar
-hapis cezası ile cezalandırılır.
-(3) Örgütün silahlı olması halinde, yukarıdaki fıkralara göre verilecek ceza yarısı
-oranında artırılır.
-(4) Örgütün faaliyeti çerçevesinde suç işlenmesi halinde, ayrıca bu suçlardan dolayı da
-cezaya hükmolunur.
-(5) (Ek cümle:24/12/2025-7571/20 md.) Örgütün faaliyeti çerçevesinde işlenen
 
 89 14/4/2020 tarihli ve 7242 sayılı Kanunun 13 üncü maddesiyle, birinci fıkrada yer alan “iki yıldan
 altı yıla” ibaresi “dört yıldan sekiz yıla” ve ikinci fıkrada yer alan “bir yıldan üç yıla” ibaresi “iki
@@ -20,6 +13,13 @@ alan “dört yıldan sekiz yıla” ibaresi “beş yıldan on yıla”, ikinci
 ibaresi “beş yıla”, üçüncü fıkrasında yer alan “dörtte birinden yarısına kadar” ibaresi “yarısı
 oranında” şeklinde değiştirilmiştir.
 
+(2) Suç işlemek amacıyla kurulmuş olan örgüte üye olanlar, iki yıldan beş yıla kadar
+hapis cezası ile cezalandırılır.
+(3) Örgütün silahlı olması halinde, yukarıdaki fıkralara göre verilecek ceza yarısı
+oranında artırılır.
+(4) Örgütün faaliyeti çerçevesinde suç işlenmesi halinde, ayrıca bu suçlardan dolayı da
+cezaya hükmolunur.
+(5) (Ek cümle:24/12/2025-7571/20 md.) Örgütün faaliyeti çerçevesinde işlenen
 suçlarda çocukların araç olarak kullanılması halinde, örgüt yöneticilerine yukarıdaki fıkralara
 göre verilecek ceza yarısından bir katına kadar artırılır. Örgüt yöneticileri, örgütün faaliyeti
 çerçevesinde işlenen bütün suçlardan dolayı ayrıca fail olarak cezalandırılır.

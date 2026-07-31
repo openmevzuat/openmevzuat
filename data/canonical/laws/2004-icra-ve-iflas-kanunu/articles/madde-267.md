@@ -1,6 +1,9 @@
 # MADDE 267
 
 (Değişik: 18/2/1965-538/107 md.)
+
+81 Bu madde başlığı “İhtiyati haciz kararına itiraz “iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 63 üncü
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Alacaklı, iflasa tabi borçlusu aleyhine 264 üncü maddenin, birinci fıkrası gereğince
 iflas yolu ile takipte bulunmuş veya iflas yolu ile takipte bulunduktan sonra borçlunun
 mallarını ihtiyaten haczettirmiş ise, aşağıdaki hükümler tatbik olunur.

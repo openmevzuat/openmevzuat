@@ -14,6 +14,6 @@ ile kurulmuş bir rehne ait derecenin boşalması hâlinde ise, yerine tescil ed
 karşılığı yabancı para üzerinden rehin kurulabilir.
 Yabancı veya Türk parası karşılıklarının hesabında hesap günündeki Türkiye Cumhuriyet
 Merkez Bankasının döviz alış kuru esas alınır. Rehin haklarının hangi yabancı paralar üzerinden
-kurulabileceği Cumhurbaşkanınca belirlenir.38
+kurulabileceği Cumhurbaşkanınca belirlenir.40
 
 2. Faiz

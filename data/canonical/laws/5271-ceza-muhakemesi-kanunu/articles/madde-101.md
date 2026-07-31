@@ -15,6 +15,10 @@ gösteren deliller somut olgularla gerekçelendirilerek açıkça gösterilir. K
 şüpheli veya sanığa sözlü olarak bildirilir, ayrıca bir örneği yazılmak suretiyle kendilerine
 verilir ve bu husus kararda belirtilir.
 (3) Tutuklama istenildiğinde, şüpheli veya sanık, kendisinin seçeceği veya baro
+
+17 24/11/2016 tarihli ve 6763 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “veya” ibaresi
+“suçlarda veya vücut dokunulmazlığına karşı kasten işlenenler hariç olmak üzere” şeklinde
+değiştirilmiştir.
 tarafından görevlendirilecek bir müdafiin yardımından yararlanır.
 (4) Tutuklama kararı verilmezse, şüpheli veya sanık derhâl serbest bırakılır.
 (5) Bu madde ile 100 üncü madde gereğince verilen kararlara itiraz edilebilir.

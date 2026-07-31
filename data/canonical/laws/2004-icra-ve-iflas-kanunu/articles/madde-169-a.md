@@ -42,7 +42,4 @@ sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.65
 başvurulması, hiçbir icra muamelesini durdurmaz. Şu kadar ki, borçlu 33 üncü maddenin
 üçüncü fıkrasına göre teminat gösterirse icra durur.
 
-65 2/7/2012 tarihli ve 6352 sayılı Kanunun 34 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “yüzde
-kırktan” ibaresi “yüzde yirmisinden” olarak değiştirilmiştir.
-
 b) İmzaya itiraz:

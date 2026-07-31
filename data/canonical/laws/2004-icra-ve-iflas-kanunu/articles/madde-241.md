@@ -12,4 +12,6 @@ olan katkısı gözetilir. Bu hâlde taşınmazın paraya çevrilmesi hükümler
 olarak satış gerçekleşmezse mal ve haklar ayrı ayrı satılır. Bu fıkranın uygulanmasına ilişkin
 usul ve esaslar Adalet Bakanlığı tarafından çıkarılan yönetmelikte düzenlenir.
 
+76 Bu madde başlığı “Toplanma mümkün olmazsa:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 56 ncı
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Artırmanın ilanı:

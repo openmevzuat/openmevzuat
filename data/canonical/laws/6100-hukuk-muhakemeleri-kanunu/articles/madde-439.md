@@ -2,6 +2,11 @@
 
 (1) Hakem kararına karşı yalnızca iptal davası açılabilir. İptal davası,
 tahkim yeri bölge adliye mahkemesinde açılır; öncelikle ve ivedilikle görülür.
+
+70 28/2/2018 tarihli ve 7101 sayılı Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer
+alan “tahkim yerindeki mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde,
+beşinci fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde değiştirilmiş ve
+yedinci fıkrasına “(b),” ibaresinden sonra gelmek üzere “(c),” ibaresi eklenmiştir.
 (2) a) Tahkim sözleşmesinin taraflarından birinin ehliyetsiz ya da tahkim sözleşmesinin
 geçersiz olduğu,
 b) Hakem veya hakem kurulunun seçiminde, sözleşmede belirlenen veya bu Kısımda
@@ -21,11 +26,6 @@ tahkime elverişli olmadığı,
 tespit edilirse, hakem kararları iptal edilebilir.
 (3) Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan bir konuda karar
 verdiği iddiasıyla açılan iptal davasında, tahkim sözleşmesi kapsamında olan konuların,
-
-70 28/2/2018 tarihli ve 7101 sayılı Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer
-alan “tahkim yerindeki mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde,
-beşinci fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde değiştirilmiş ve
-yedinci fıkrasına “(b),” ibaresinden sonra gelmek üzere “(c),” ibaresi eklenmiştir.
 tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün olduğu takdirde,
 hakem kararının sadece tahkim sözleşmesi kapsamında olmayan konuları içeren bölümü iptal
 edilebilir.

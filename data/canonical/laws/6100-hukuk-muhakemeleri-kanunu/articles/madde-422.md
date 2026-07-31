@@ -6,9 +6,6 @@ verebilir. Bu karar verilirken, bir sözleşmede yer alan tahkim şartı, sözle
 hükümlerinden bağımsız olarak değerlendirilir. Hakem veya hakem kurulunun asıl sözleşmenin
 hükümsüzlüğüne karar vermesi, tahkim sözleşmesinin kendiliğinden hükümsüzlüğü sonucunu
 doğurmaz.
-
-69 28/2/2018 tarihli ve 7101 sayılı Kanunun 59 uncu maddesi ile bu fıkrada yer alan “temyiz yoluna”
-ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 (2) Hakem veya hakem kurulunun yetkisizliğine ilişkin itiraz, en geç cevap
 dilekçesinde yapılır. Tarafların hakemleri bizzat seçmiş veya hakem seçimine katılmış
 olmaları, hakem veya hakem kurulunun yetkisine itiraz etme haklarını ortadan kaldırmaz.

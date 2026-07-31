@@ -3,6 +3,12 @@
 (1) Hâkim, ön inceleme duruşmasında, dava şartları ve ilk itirazlar
 hakkında karar verebilmek için gerekli görürse tarafları dinler; daha sonra, tarafların iddia ve
 savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder.
+
+14 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “sulhe” ibaresinden
+sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
+15 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu maddenin ikinci fıkrasına “sulhe”
+ibaresinden sonra gelmek üzere “veya arabuluculuğa”, üçüncü fıkrasına “sulh” ibaresinden sonra
+gelmek üzere “veya arabuluculuk” ibaresi eklenmiştir.
 (2) Uyuşmazlık konularının tespitinden sonra hâkim, tarafları sulh ve arabuluculuğun
 esasları, süreci ve hukuki sonuçları hakkında aydınlatarak sulhe veya arabuluculuğa teşvik
 eder; bu konuda sonuç alınacağı kanaatine varırsa, bir defaya mahsus olmak üzere yeni bir

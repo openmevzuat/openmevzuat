@@ -1,4 +1,4 @@
-# MADDE 112 — Meslekî Kıyafet, Kitap ve Bilgisayar Yardımı:74
+# MADDE 112 — Meslekî Kıyafet, Kitap ve Bilgisayar Yardımı:76
 
 Hakim ve savcıların resmi kıyafetlerinin şekli, bunların giyilme zaman
 ve yerleri ile yenilenme süreleri, Hakimler ve Savcılar Yüksek Kurulunca çıkarılacak bir
@@ -35,7 +35,7 @@ tüm resmi ve özel kurum ve kuruluşların iş ve işlemlerinde resmi kimlik h�
 
 ONUNCU KISIM
 Adalet Komisyonlarının Kuruluş ve Görevleri
-Kuruluş:75
+Kuruluş:77
 
-74 29/6/2006 tarihli ve 5536 sayılı Kanunun 4 üncü maddesiyle bu madde başlığı “Mesleki kıyafet ve kitap
+76 29/6/2006 tarihli ve 5536 sayılı Kanunun 4 üncü maddesiyle bu madde başlığı “Mesleki kıyafet ve kitap
 yardımı :” iken, metne işlendiği şekilde değiştirilmiştir.
