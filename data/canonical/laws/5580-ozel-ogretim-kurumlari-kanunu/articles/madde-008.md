@@ -6,10 +6,12 @@ Bir kurumun öğretime başladığı tarihten itibaren mevcut ders saati sayıs�
 sırasında üçte birinin, kuruluşundan üç yıl sonra da en az üçte ikisinin asıl görevi bu
 kurumlarda olan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması
 zorunludur.
-Kurumların yöneticilik ve eğitim-öğretim hizmetlerinde, en az dengi resmî öğretim
-kurumlarına atanabilmek için gerekli nitelik ve şartları taşıyanlar, resmî dengi bulunmayan
-kurumların yöneticilik ve eğitim-öğretim hizmetlerinde ise yönetmelikle belirtilen nitelik ve
-şartları taşıyanlar görevlendirilir.
+(Değişik fıkra:24/7/2026-7590/19 md.) Kurumlarda Bakanlıkça belirlenen
+öğretmenlik alanlarına kaynak teşkil eden yükseköğretim programlarından mezun olup
+Bakanlıkça özel alan eğitimi ve öğretmenlik meslek bilgisi bakımından belirlenen niteliklere
+sahip olanlar öğretmen olarak görevlendirilir. Kurumların eğitim-öğretim hizmetlerinde
+görevlendirilecek yönetici, uzman öğretici ve usta öğreticilerin nitelikleri ile bu fıkranın
+uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
 İhtiyaç halinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak ve
 aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı
 ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü

@@ -4,6 +4,9 @@
 1. 6/2/2023 tarihinde meydana gelen depremler nedeniyle genel hayata etkili afet
 bölgesi olarak kabul edilen yerlerde, bu depremlerin ve akabinde meydana gelen depremlerin
 etkisiyle oluşan hasarlarla bağlantılı olması kaydıyla, hak sahipliğine ilişkin işlemler hariç
+
+52 6637 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan “Bu Kanunla idari yargıda” ibaresi “İvedi
+yargılama usulü hariç olmak üzere bu Kanunla idari yargıda” şeklinde değiştirilmiştir.
 olmak üzere hasar tespit raporlarına dayalı olarak tesis edilen idari işlemlere karşı açılan iptal
 davalarında aşağıdaki hükümler uygulanır:
 a) On gün içinde ilk inceleme yapılır ve dava dilekçesi ile ekleri tebliğe çıkarılır.

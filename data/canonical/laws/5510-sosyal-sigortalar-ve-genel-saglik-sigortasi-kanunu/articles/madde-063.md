@@ -19,6 +19,7 @@ hekimin göreceği lüzum üzerine teşhis için gereken klinik muayeneler, doğ
 tetkik ve tahlilleri ile diğer tanı yöntemleri, konulan teşhise dayalı olarak yapılacak tıbbî
 müdahale ve tedaviler, hasta takibi, rahim tahliyesi, tıbbî sterilizasyon ve acil sağlık
 
+öğrencileri” şeklinde değiştirilmiş ve yine bu fıkraya “sevk tarihi,” ibaresinden sonra gelmek üzere
 “genel sağlık sigortalısı olmayan yedek personelden seferberlik tatbikatları veya eğitimleri
 maksadıyla silah altına alınanların tatbikat ve eğitim sevk tarihi,” ibaresi eklenmiştir.
 108 18/2/2021 tarihli ve 7281 sayılı Kanunun 37 nci maddesiyle, bu fıkraya “başlangıç eğitimine

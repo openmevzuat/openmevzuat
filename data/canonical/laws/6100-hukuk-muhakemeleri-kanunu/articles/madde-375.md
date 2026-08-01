@@ -12,6 +12,11 @@ d) Karara esas alınan senedin sahteliğine karar verilmiş veya senedin sahte o
 mahkeme veya resmî makam önünde ikrar edilmiş olması.
 e) İfadesi karara esas alınan tanığın, karardan sonra yalan tanıklık yaptığının sabit olması.
 f) Bilirkişi veya tercümanın, hükme esas alınan husus hakkında kasten gerçeğe aykırı
+
+63 24/11/2016 tarihli ve 6763 sayılı Kanunun 43 üncü maddesi ile bu fıkrada yer alan “Yargıtay
+Hukuk Genel Kurulunca yapılır.” ibaresi “kararına direnilen dairece yapılır. Direnme kararı
+öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı
+Yargıtay Hukuk Genel Kuruluna gönderir.” şeklinde değiştirilmiştir.
 beyanda bulunduğunun sabit olması.
 g) Lehine karar verilen tarafın, karara esas alınan yemini yalan yere ettiğinin, ikrar
 veya yazılı delille sabit olması.
@@ -28,9 +33,4 @@ başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda dü
 istenebilmesi, bu sebeplerin kesinleşmiş bir ceza mahkûmiyet kararı ile belirlenmiş olması
 şartına bağlıdır. Delil yokluğundan başka bir sebeple ceza kovuşturmasına başlanamamış veya
 mahkûmiyet kararı verilememiş ise ceza mahkemesi kararı aranmaz. Bu takdirde dayanılan
-
-64 25/7/2018 tarihli ve 7145 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş
-olması” ibaresinden sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları Mahkemesine
-yapılan başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
-verilmesi” ibaresi eklenmiştir.
 yargılamanın iadesi sebebinin, yargılamanın iadesi davasında öncelikle ispat edilmesi gerekir.

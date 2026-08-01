@@ -74,5 +74,6 @@
 - [GEÇİCİ MADDE 33](articles/gecici-madde-033.md)
 - [GEÇİCİ MADDE 34](articles/gecici-madde-034.md)
 - [GEÇİCİ MADDE 35](articles/gecici-madde-035.md)
+- [GEÇİCİ MADDE 36](articles/gecici-madde-036.md)
 - [MADDE 63 — Yürürlük](articles/madde-063.md)
 - [MADDE 64 — Yürütme](articles/madde-064.md)

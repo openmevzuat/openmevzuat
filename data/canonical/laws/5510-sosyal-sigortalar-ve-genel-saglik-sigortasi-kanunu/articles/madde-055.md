@@ -24,10 +24,10 @@ bazında her yıl bağlanan aylıkların aylık başlangıç tarihinin ait oldu�
 itibarıyla yıl içine ait artışlar uygulanmaksızın hesaplanacak tutarları, yaşlılık sigortasından
 bir önceki yılın son ödeme ayında söz konusu sigortalılar için ayrı ayrı dosya bazında ödenen
 en düşük yaşlılık aylığından az olamaz.
+(Ek: 17/4/2008-5754/35 md.) İş kazası veya meslek hastalığı sonucu başka birinin
 
 93 Bu madde başlığı “Gelir ve aylıkların düzeltilmesi, yükseltilmesi, ödenmesi ve yoklama işlemleri” iken,
 17/4/2008 tarihli ve 5754 sayılı Kanunun 35 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-(Ek: 17/4/2008-5754/35 md.) İş kazası veya meslek hastalığı sonucu başka birinin
 sürekli bakımına muhtaç duruma gelen sigortalı için bu Kanunun 19 uncu maddesine göre
 hesaplanacak sürekli iş göremezlik geliri, 82 nci maddeye göre tespit edilen prime esas
 kazanç alt sınırının aylık tutarının %85'inden az olamaz.

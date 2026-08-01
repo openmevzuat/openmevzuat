@@ -12,9 +12,9 @@ lehine, %15 oranına kadar fiyat avantajı sağlanabilir. Ancak Bilim, Sanayi ve
 tarafından ilgili kurum ve kuruluşların görüşleri alınarak orta ve yüksek teknolojili sanayi ürünleri
 arasından belirlenen ve Kurum tarafından ilan edilen listede yer alan malların ihalelerinde, yerli malı
 
-64 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/104, K.: 2013/87 sayılı Kararı ile bu bentte yer
+65 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/104, K.: 2013/87 sayılı Kararı ile bu bentte yer
 alan “…veya her iki ortağın da mühendis olup % 50-% 50 ortak olduğu…” ibaresi iptal edilmiştir.
-65 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
+66 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
 teklif eden istekliler lehine %15 oranında fiyat avantajı sağlanması mecburidir. Yerli yazılım ürünü
@@ -25,7 +25,7 @@ Ancak, malzemelere ilişkin Çevre ve Şehircilik Bakanlığı tarafından, maki
 ilişkin Bilim, Sanayi ve Teknoloji Bakanlığı tarafından ilgili kurum ve kuruluşların görüşleri
 alınarak orta düşük, orta yüksek ve yüksek teknolojili makine, malzeme ve ekipman arasından
 belirlenen, Kurum tarafından ilan edilen listede yer alan ve ihale konusu işte kullanılacak makine,
-malzeme ve ekipmanın yerli malı olması şarttır.66
+malzeme ve ekipmanın yerli malı olması şarttır.67
 e) Yerli malı belirlenmesine ilişkin usul ve esaslar Bilim, Sanayi ve Teknoloji Bakanlığı
 tarafından ilgili kurum ve kuruluşların görüşleri alınarak belirlenir. İsteklilerce teklif edilen malın
 yerli malı olduğu, bu usul ve esaslara uygun olarak düzenlenen yerli malı belgesi ile belgelendirilir.

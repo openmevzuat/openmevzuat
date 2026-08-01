@@ -784,9 +784,13 @@ Noterlerin tatil gün ve saatlerinde çalışması:
 
 MADDE 52
 
-(Başlığı ile Birlikte Değişik:14/11/2024-7532/3 md.)
+(Başlığı ile Birlikte Değişik:14/11/2024-7532/3 md.)7
 Noterlerin tatil gün ve saatlerinde çalışmasına ilişkin usul ve esaslar, Türkiye Noterler
 Birliğinin mütalaası alınarak Adalet Bakanlığınca yürürlüğe konulan yönetmelikte düzenlenir.
+
+7 Anayasa Mahkemesinin 26/3/2026 tarihli ve E.:2025/18; K.:2026/66 sayılı Kararı ile bu madde iptal
+edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (16/4/2027)
+yürürlüğe gireceği hüküm altına alınmıştır.
 
 Emredici hükümlere uyma zorunluğu:
 
@@ -806,20 +810,23 @@ Evrak ve defterlerin gizliliği:
 
 MADDE 55
 
-Noterlik evrak ve defterleri mahkeme, sorgu hakimliği ve Cumhuriyet
-savcılıklarınca veya resmi daireler tarafından, konusu da belirtilmek suretiyle, noterlikte
-soruşturmaya yetkili kılınan kimselerce incelenebilir.
-Noterlik evrak ve defterlerinin daire dışına çıkarılabilmesi, mahkemenin veya sorgu
-hakiminin karariyle mümkündür.
-Mahkeme veya sorgu hakimi evrakın dava sonuna kadar dosyada kalmasına karar
-verirse, bu takdirde evrakın bir örneği çıkartılıp aslına uygunluğu onaylanarak, aslının yerinde
-saklanmak üzere notere verilir.
-Noterin bulunduğu yerde inceleme imkanı bulunmaması sebebiyle evrakın başka bir
-yere gönderilmesi gerekiyorsa, noterin bulunduğu yer hukuk hakimliğinin onaylıyacağı örnek,
-aynı şekilde saklanır.
-Soruşturma yetkisi bulunan kişilerle Cumhuriyet savcılarının istiyecekleri örnekler
-noterlik ücretine tabi değildir. Diğer resmi mercilere verilecek örneklerden yalnız yazı ücreti
-alınır.
+(Değişik:16/7/2026-7589/2 md.)
+Noterlik evrak ve defterleri mahkeme, sulh ceza hâkimliği ve Cumhuriyet
+başsavcılıklarınca veya resmî daireler tarafından yahut konusu da belirtilmek suretiyle
+noterlikte soruşturmaya yetkili kılınan kimselerce incelenebilir.
+Mahkeme, sulh ceza hâkimliği veya Cumhuriyet başsavcılığı tarafından, noterlik
+evrakının aslının istenmesi hâlinde ilgili noter, evrakın bir örneğini çıkarıp aslına
+uygunluğunu onaylar. Noter, onayladığı örneği aslının yerinde saklar ve evrakın aslını ilgili
+mercie gönderir.
+Mahkeme, sulh ceza hâkimliği, Cumhuriyet başsavcılığı veya soruşturmaya yetkili
+kılınan resmî daire tarafından noterlik evrakının onaylı bir örneğinin istendiği durumlarda,
+noter istenilen evrakın aslını elektronik ortamda taramak ve güvenli elektronik imzayla
+imzalamak suretiyle oluşturduğu onaylı örneği ilgili mercie elektronik ortamda gönderir.
+Elektronik ortamda gönderme imkânı bulunmayan durumlarda evrakın aslına uygunluğunu
+onaylayarak onaylı örneği ilgili mercie gönderir.
+Bu madde uyarınca yapılan işlemler için yevmiye numarası verilmez. Posta masrafı ve
+112 nci madde uyarınca düzenlenen tarifeyle belirlenen yol masrafı hariç olmak üzere harç,
+vergi, değerli kâğıt ücreti dâhil herhangi bir ücret alınmaz.
 
 Yaş tahdidi:
 
@@ -863,7 +870,7 @@ Noterlerin hastalıkları halinde yapılacak işlem:
 MADDE 59
 
 Noterler, hastalıkları nedeniyle alacakları rapor üzerine, hizmet sürelerine
-göre aşağıdaki esaslar dahilinde izinli sayılırlar:7
+göre aşağıdaki esaslar dahilinde izinli sayılırlar:8
 1. Beş yıla kadar (Beş yıl dahil) hizmeti olanlara üç aya kadar,
 2. Beş yıldan on yıla kadar (On yıl dahil) hizmeti olanlara altı aya kadar,
 3. On yıldan daha çok hizmeti olanlara bir yıla kadar izin verilir.
@@ -884,16 +891,16 @@ Noterlerin görevleri:
 1. Yapılması kanunla başka bir makam, merci veya şahsa verilmemiş olan her nevi
 hukuki işlemleri düzenlemek,
 2. Kanunlarda resmi olarak yapılmaları emredilen ve mercileri belirtilmemiş olan
+
+8 2/12/2014 tarihli ve 6572 sayılı Kanunun 4 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “Hasta
+noterler Cumhuriyet savcılığı kanalı ile Hükümet tabiplerinden veya Devlet hastanesi doktorlarından” ibaresi
+“Noterler, hastalıkları nedeniyle” şeklinde değiştirilmiştir.
 bütün hukuki işlemleri bu kanun hükümlerine göre yapmak,
 3. (Değişik: 23/6/2022-7413/11 md.) Taşınmaz satış vaadi sözleşmesi yapmak ve bu
 sözleşmeyi taraflardan birinin talep etmesi, harç ve giderleri ödemesi hâlinde tapu bilişim
 sistemi vasıtasıyla tapu siciline şerh vermek, taşınmaz satış sözleşmesi yapmak,
 4. Bu kanuna uygun olarak dışarda yazılıp getirilen kağıtların üzerindeki imza, mühür
 veya herhangi bir işareti veya tarihi onaylamak,
-
-7 2/12/2014 tarihli ve 6572 sayılı Kanunun 4 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “Hasta
-noterler Cumhuriyet savcılığı kanalı ile Hükümet tabiplerinden veya Devlet hastanesi doktorlarından” ibaresi
-“Noterler, hastalıkları nedeniyle” şeklinde değiştirilmiştir.
 5. Bu kanun hükümlerine göre yapılan işlemlerin dairede kalan asıl veya örneklerinden
 veya getirilen kağıtlardan örnek çıkarıp vermek,
 6. Belgeleri bir dilden diğer dile veya bir yazıdan başka bir yazıya çevirmek,
@@ -1121,7 +1128,7 @@ Belgelendirme, bu kısım hükümleri ile diğer kanunlar ve yönetmelikte göst
 Noter, iş yaptıracak kimselerin kimlik, adres ve yeteneğini ve gerçek isteklerini tamamen
 öğrenmekle yükümlüdür.
 
-MADDE 73 — İlgilinin işitme, konuşma veya görme engelli olması:89
+MADDE 73 — İlgilinin işitme, konuşma veya görme engelli olması:910
 
 (Değişik: 1/7/2005-5378/23 md.)
 Noter, ilgilinin işitme, konuşma veya görme engelli olduğunu anlarsa, işlemler
@@ -1137,6 +1144,12 @@ MADDE 74
 
 İmza yerine işaret, mühür veya parmak izi kullanılması:
 
+9 1/7/2005 tarihli ve 5378 sayılı Kanunun 23 üncü maddesiyle, bu madde başlığı " İlgilinin sağır, kör veya dilsiz
+olması:” iken metne işlendiği şekilde değiştirilmiştir.
+10 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “özürlü” ibaresi
+“engelli”, birinci fıkrasında yer alan “özürlü” ve “özürlünün” ibareleri sırasıyla “engelli” ve “engellinin”,
+şeklinde değiştirilmiştir.
+
 MADDE 75
 
 İlgililerle tanık, tercüman ve bilirkişi imza atamadıkları ve imza yerine
@@ -1144,16 +1157,10 @@ geçen bir el işareti kullanmadıkları takdirde, varsa mühür, yoksa sol elin
 yoksa diğer parmaklarından biri bastırılır ve hangi parmağın bastırıldığı yazılır.
 (Değişik ikinci fıkra: 1/7/2005-5378/24 md.) Bir noterlik işleminde imza atılmış veya
 imza yerine geçen el işareti yapılmış olmasına rağmen, ilgilisi ister veya adına işlem yapılan ve
-
-8 1/7/2005 tarihli ve 5378 sayılı Kanunun 23 üncü maddesiyle, bu madde başlığı " İlgilinin sağır, kör veya dilsiz
-olması:” iken metne işlendiği şekilde değiştirilmiştir.
-9 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan “özürlü” ibaresi
-“engelli”, birinci fıkrasında yer alan “özürlü” ve “özürlünün” ibareleri sırasıyla “engelli” ve “engellinin”,
-şeklinde değiştirilmiştir.
 imza atabilen görme engelliler hariç olmak üzere noter, işlemin niteliği, imzayı atan veya el
 işaretini yapan şahsın durumu ve kimliği bakımından gerekli görürse, yukarıdaki fıkradaki usûl
 dairesinde ilgili, tanık, tercüman veya bilirkişinin parmağı da bastırılır. Mühür kullanılması
-hâlinde parmağın da bastırılması zorunludur.10
+hâlinde parmağın da bastırılması zorunludur.11
 Tanık, tercüman ve bilirkişinin andı noter tarafından Hukuk Yargılama Usulü Kanunu
 uyarınca yaptırılır.
 
@@ -1191,6 +1198,9 @@ Aşağıdaki kimseler tanık olamazlar:
 2. Mahcurlar,
 3. Hukuk Yargılama Usulü Kanununa göre andlı tanık olarak dinlenmeleri mümkün
 olmıyanlar,
+
+11 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlüler” ibaresi
+“engelliler” şeklinde değiştirilmiştir.
 4. Noterin katip ve hizmetlileri,
 
 Başkaları, adına işlem yaptıracaklardan aranacak belge:
@@ -1199,9 +1209,6 @@ MADDE 79
 
 Vekil, veli, vasi, kayyım, mümessil ve mirasçı sıfatiyle veya şirket ve
 dernek gibi tüzel kişiler adlarına noterlik işlemi yaptırmak istiyenler, sıfat ve yetkilerini ve
-
-10 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlüler” ibaresi
-“engelliler” şeklinde değiştirilmiştir.
 işlemi yapmıya izinli olduklarını bildirir belge göstermekle yükümlüdürler.
 Belgenin gösterildiği iş kağıdına yazılmakla beraber, işlemle ilgili kısımlarını ve
 nereden hangi tarih ve numara ile verilmiş olduğunu gösteren, birer örneği harçsız ve vergisiz
@@ -1493,7 +1500,7 @@ işlemin tarih ve numarası, ilgililerin ad ve soyadları ve işlemin niteliği 
 edilir.
 
 ONUNCU KISIM
-Gelirleri Dağıtılacak Olan İşlemler11
+Gelirleri Dağıtılacak Olan İşlemler12
 Noterlikler ortak cari hesabı:
 
 MADDE 109
@@ -1507,7 +1514,7 @@ hissesi tutarının % 15'ini aşmamak üzere Noter Odası Yönetim Kurulunca tes
 oranı alıkonulduktan sonra kalanı işlemi yapan noterlikçe, milli bir bankada açtırılan
 (Noterlikler ortak cari hesabı)na en geç işlemin yapıldığı günü takibeden (5) iş günü içinde
 yatırılır. Noterlikler ortak cari hesabı, takvim yılı başından önce o yerdeki noterliklerin bağlı
-bulunduğu oda yönetim kurulunca açtırılır ve durum Türkiye Noterler Birliğine bildirilir.12
+bulunduğu oda yönetim kurulunca açtırılır ve durum Türkiye Noterler Birliğine bildirilir.13
 Noterler, yukarıdaki fıkrada gösterilen noterlik işlemlerini, kanuni bir sebep olmaksızın
 yapmaktan hiçbir surette kaçınamazlar.
 
@@ -1528,17 +1535,18 @@ noterlere veya bu Kanuna göre görevlendirilmiş noter vekili varsa vekile, eş
 noterlik bulunması halinde, birinci sınıf noterlikler için oluşturulan ortak hesap bu sınıfa
 mensup noterlikler arasında; diğer sınıf noterlikler için, kuruldukları ilçenin mülkî sınırları
 esas alınarak oluşturulan ortak hesap ise bu sınıfa mensup noterlikler arasında, eşit miktarda
+
+12 16/11/1989 tarih ve 3588 sayılı Kanunun 6 ncı maddesiyle bu Bölüm başlığı "Belirli Noterliklerde Yapılması
+Gereken İşlemler" iken metne işlendiği şekilde değiştirilmiştir.
+13 23/1/2008 tarihli ve 5728 sayılı Kanunun 347 nci maddesiyle; bu fıkrada yer alan “Bir asliye mahkemesinin
+yargı çevresi içinde birden çok noterlik bulunması veya bir ilin belediye sınırları içinde birden çok asliye
+mahkemesi yargı çevresinin yer alması halinde” ibaresi “Bir il, ilçe veya büyükşehir belediyesi sınırları içinde
+birden çok noterlik bulunması halinde,” şeklinde değiştirilmiştir.
 dağıtılır. Ödemenin şekli oda genel kurulunun yıllık olağan toplantısında tespit edilir.
 Yukarıki fıkrada gösterilen üç aylık süre dolmadan evvel, her hangi bir sebeple
 noterlik meslekinden ayrılan veya başka bir noterliğe naklen atanan noterin hissesi, sürenin
 sonu beklenilmeksizin kendisine veya mirasçılarına derhal ödenir.
 
-11 16/11/1989 tarih ve 3588 sayılı Kanunun 6 ncı maddesiyle bu Bölüm başlığı "Belirli Noterliklerde Yapılması
-Gereken İşlemler" iken metne işlendiği şekilde değiştirilmiştir.
-12 23/1/2008 tarihli ve 5728 sayılı Kanunun 347 nci maddesiyle; bu fıkrada yer alan “Bir asliye mahkemesinin
-yargı çevresi içinde birden çok noterlik bulunması veya bir ilin belediye sınırları içinde birden çok asliye
-mahkemesi yargı çevresinin yer alması halinde” ibaresi “Bir il, ilçe veya büyükşehir belediyesi sınırları içinde
-birden çok noterlik bulunması halinde,” şeklinde değiştirilmiştir.
 ONBİRİNCİ KISIM
 Noterlerin Alacağı Ücret, Vergi, Harç ve Resimlerin Tahsil Şekli
 
@@ -1560,7 +1568,7 @@ Noterlik işleminin başka bir noter aracılığı ile yapıldığı hallerde, a
 Tanıklık ve onaylama şerhlerinden yazı ücreti alınmaz.
 (Değişik: 16/11/1989 - 3588/8 md.) Tarifede gerekli görülecek değişiklikler her
 takvim yılı başından geçerli olmak üzere yapılır. Yeni tarife yürürlüğe girinceye kadar eski
-tarife uygulanır.13
+tarife uygulanır.14
 
 Sayfa hesabı:
 
@@ -1584,12 +1592,13 @@ MADDE 115
 (Değişik: 16/11/1989 - 3588/9 md.)
 Kesin giderin dökümü, işleme ait kağıtların dairede kalan aslı ve örnekleri ile ilgilisine
 verilen asıl nüshasına, asıl nüsha dairede kalmışsa verilen örneklerden birine yazılır ve Maliye
+
+14 14/11/2024 tarihli ve 7532 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “yıl Mart ayında” ibaresi
+“takvim yılı başından geçerli olmak üzere” şeklinde değiştirilmiştir.
 ve Gümrük Bakanlığınca bastırılacak seri numaralı özel makbuzdan iki nüsha düzenlenir.
 Gider dökümü asıl ve örnekler için ayrı ayrı gösterilir.
 Makbuzun birinci nüshası masrafı ödeyen ilgilisine verilir; ikinci nüshası dairede saklanır.
 
-13 14/11/2024 tarihli ve 7532 sayılı Kanunun 4 üncü maddesiyle, bu fıkrada yer alan “yıl Mart ayında” ibaresi
-“takvim yılı başından geçerli olmak üzere” şeklinde değiştirilmiştir.
 Giderin paylaştırılma şekli:
 
 MADDE 116
@@ -1622,7 +1631,7 @@ MADDE 118
 
 Noterliklerde yapılan işlemler ve düzenlenen kağıtlar dolayısıyle özel
 kanunları uyarınca ödenmesi gereken vergi, resim ve harçlar ile değerli kağıt bedelleri makbuz
-karşılığında tahsil olunur.14
+karşılığında tahsil olunur.15
 Şu kadar ki, noterler tahsil ettikleri vergi, resim ve harç tutarları üzerinden yüzde üç
 oranında noter hissesi alırlar.
 Bu hissenin noterlere ödenmesi, beyiye aidatlarının ödenmesine ilişkin hükümler
@@ -1630,6 +1639,12 @@ dairesinde yapılır.
 (Ek fıkra:14/11/2024-7532/5 md.) Noterliklerde yapılan işlemler ve düzenlenen
 kâğıtlar sebebiyle ödenmesi gereken vergi, resim, harç, değerli kâğıt bedelleri, noterlik
 ücretleri ile diğer işlem giderleri nakit olarak veya banka kartı, kredi kartı ve benzeri kartlar
+
+15 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, 118 inci maddede yer alan “vergi, harç ve
+resimler” ibaresi, “vergi, resim ve harçlar ile değerli kağıt bedelleri“; 119 uncu maddenin birinci fıkrasında yer
+alan "vergi, resim ve harçları“ ibaresi, “vergi, resim ve harçlar ile değerli kağıt bedellerini“, üçüncü fıkrasında
+yer alan “ vergi, resim ve harç tahsilatının“ ibaresi, "vergi, resim ve harçlar ile değerli kağıt bedelleri
+tahsilatının“ şeklinde değiştirilmiştir.
 kullanılmak suretiyle tahsil olunur.
 
 Harç, vergi ve resim bedellerinin yatırılması:
@@ -1637,20 +1652,14 @@ Harç, vergi ve resim bedellerinin yatırılması:
 MADDE 119
 
 (Değişik birinci fıkra: 16/11/1989 - 3588/11 md.) Noterler 118 inci madde
-
-14 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, 118 inci maddede yer alan “vergi, harç ve
-resimler” ibaresi, “vergi, resim ve harçlar ile değerli kağıt bedelleri“; 119 uncu maddenin birinci fıkrasında yer
-alan "vergi, resim ve harçları“ ibaresi, “vergi, resim ve harçlar ile değerli kağıt bedellerini“, üçüncü fıkrasında
-yer alan “ vergi, resim ve harç tahsilatının“ ibaresi, "vergi, resim ve harçlar ile değerli kağıt bedelleri
-tahsilatının“ şeklinde değiştirilmiştir.
 uyarınca tahsil ettikleri vergi, resim ve harçlar ile değerli kağıt bedellerini aşağıda yazılı süre içinde
-ilgili vergi dairesine bir beyanname ile bildirmek ve aynı süre içinde yatırmakla yükümlüdürler.14
+ilgili vergi dairesine bir beyanname ile bildirmek ve aynı süre içinde yatırmakla yükümlüdürler.15
 (Değişik fıkra:14/11/2024-7532/6 md.) Bir önceki aya ait beyannameler, her ayın ilk
 beş iş günü içinde hazırlanır ve aynı süre içinde ilgili dairelere verilir.
 (Değişik: 16/11/1989 - 3588/11 md.) Beyannamelerin, ait oldukları döneme ilişkin
 vergi, resim ve harçlar ile değerli kağıt bedelleri tahsilatının ayrı ayrı toplamları ile bu
 dönemde yapılan işlemlerin birinci ve sonuncusunun yevmiye numarası da yazılmak suretiyle
-toplam sayısını gösterecek şekilde ve üç nüsha olarak düzenlenmesi zorunludur.14
+toplam sayısını gösterecek şekilde ve üç nüsha olarak düzenlenmesi zorunludur.15
 (Dördüncü fıkra Mülga: 16/11/1989 - 3588/17 md.)
 Noter, yatırmakla yükümlü olduğu parayı, ikinci fıkradaki süreler içinde posta veya
 banka havalesi ile ilgili daireye gönderebilir. Bu halde, havale makbuzu da beyanname
@@ -1664,7 +1673,7 @@ gönderir. Yatırdığı para için ilgili daireden alacağı makbuz noterlikte 
 Beyannamenin şekil ve düzenleme tarzı ile bu maddenin uygulanma şekli Adalet ve
 Maliye Bakanlıklarınca müştereken hazırlanacak bir yönetmelikte belirtilir.
 
-MADDE 120 — Zamlı yatırma:15
+MADDE 120 — Zamlı yatırma:16
 
 Noterler 119 uncu maddede gösterilen süre içinde vergi, resim ve harçlar
 ile değerli kağıt bedellerini ilgili daireye yatırmadıkları veya bu süre içinde posta veya banka
@@ -1678,14 +1687,14 @@ Vergi, resim ve harç ile değerli kağıt bedelinin ilgili daireye geç yatır�
 yatırılmaması hallerine ilişkin diğer kanunlar hükümleri saklıdır.
 
 ONİKİNCİ KISIM
+
+16 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan "Harç,
+vergi ve resim" ibareleri, "Vergi, resim ve harçlar ile değerli kâğıt", ikinci fıkrasında yer alan "Harç, vergi ve
+resmin" ibaresi "vergi, resim ve harç ile değerli kâğıt bedelinin" şeklinde değiştirilmiştir.
 Noterlerin Sorumlulukları
 
 BİRİNCİ BÖLÜM
 Genel Hükümler
-
-15 30/12/2004 tarihli ve 5281 sayılı Kanunun 43 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan "Harç,
-vergi ve resim" ibareleri, "Vergi, resim ve harçlar ile değerli kâğıt", ikinci fıkrasında yer alan "Harç, vergi ve
-resmin" ibaresi "vergi, resim ve harç ile değerli kâğıt bedelinin" şeklinde değiştirilmiştir.
 Gözetim ve denetim yetkisi:
 
 MADDE 121
@@ -2091,7 +2100,7 @@ uygulanır. Şu kadar ki, noterlerin meslekten çıkarma cezasını, bu bölümd
 
 DÖRDÜNCÜ BÖLÜM
 Noter Katipleri ve Katip Adaylarına Uygulanacak Disiplin Cezaları
-Disiplin cezaları:16
+Disiplin cezaları:17
 
 MADDE 148
 
@@ -2127,16 +2136,16 @@ yollar. Kurulun vereceği kararlar kesindir.
 
 BEŞİNCİ BÖLÜM
 Noterler, Geçici Yetkili Noter Yardımcıları, Noter Vekilleri ile Katiplerin ve Katip
+
+17 Anayasa Mahkemesinin 16/4/2026 tarihli ve E.: 2026/86, K.: 2026/76 sayılı Kararı ile bu maddenin birinci ve
+ikinci fıkraları iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
+(6/4/2027) yürürlüğe gireceği hüküm altına alınmıştır.
 Adaylarının İşliyecekleri ve Bunlara Karşı İşlenecek Suçlar
 Görevle ilgili suçlar:
 
 MADDE 151
 
 (Değişik birinci fıkra: 23/1/2008-5728/350 md.) Noterler, geçici
-
-16 Anayasa Mahkemesinin 16/4/2026 tarihli ve E.: 2026/86, K.: 2026/76 sayılı Kararı ile bu maddenin birinci ve
-ikinci fıkraları iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
-(6/4/2027) yürürlüğe gireceği hüküm altına alınmıştır.
 yetkili noter yardımcıları, noter vekilleri ile noter kâtipleri ve kâtip adayları noterlikteki
 görevleri, Türkiye Noterler Birliği organlarında görev alan noterler ise ayrıca bu görevleri ile
 bağlantılı olarak işledikleri suçlardan dolayı Türk Ceza Kanununun uygulanması bakımından
@@ -2188,7 +2197,7 @@ veya sanık tarafından genel hükümler uyarınca itiraz olunabilir.
 Bu itiraz, suçun işlendiği yer Ağır Ceza Mahkemesi hariç olmak üzere, itiraz edilen
 kararı veren mahkemeye en yakın Ağır Ceza Mahkemesinde incelenir.
 
-MADDE 156 — Suçüstü hali:17
+MADDE 156 — Suçüstü hali:18
 
 (Değişik: 23/1/2008-5728/352 md.)
 Ağır ceza mahkemesinin görev alanına giren bir suçtan dolayı suçüstü halinde soruşturma
@@ -2218,7 +2227,7 @@ I – (Değişik: 16/11/1989 - 3588/13 md.) 109 uncu maddenin birinci
 fıkrası uyarınca ortak işlemlere ait gelir tutarının ortak hesaba yatırılacak kısmını süresi içinde
 yatırmayan noterler, birinci defasında 126 ncı maddenin ikinci fıkrasının (l) bendi gereğince
 cezalandırılır ve cezalandırılmalarına konu olan işlemden elde ettikleri ücret ve noter hissesi
-tutarının tamamı alınarak bankadaki Noterlikler ortak cari hesabına yatırılır.18
+tutarının tamamı alınarak bankadaki Noterlikler ortak cari hesabına yatırılır.19
 II – (Değişik: 16/11/1989 - 3588/13 md.)
 a) (Değişik: 23/1/2008-5728/355 md.) 109 uncu maddenin birinci fıkrasında belirlenen
 görevleri yerine getirmeyen Noter Odası yönetim kurulu başkan ve üyeleri hakkında Türk Ceza
@@ -2234,15 +2243,13 @@ MADDE 160
 Noterlik dairesinde çalışan katiplerin ve katip adaylarının görevlerinden
 dolayı işledikleri suçlara iştiraki bulunmıyan hallerde noter, bu kimseler üzerindeki gözetim
 ve denetim görevini yerine getirmediği sabit olduğu takdirde, Türk Ceza Kanununun 257 nci
-maddesinin ikinci fıkrası hükmüne göre cezalandırılır.19
 
-17 23/1/2008 tarihli ve 5728 sayılı Kanunun 352 nci maddesiyle bu madde başlığı “Ağır cezayı gerektiren suçüstü
+18 23/1/2008 tarihli ve 5728 sayılı Kanunun 352 nci maddesiyle bu madde başlığı “Ağır cezayı gerektiren suçüstü
 hali:” iken metne işlendiği şekilde değiştirilmiştir.
-18 4/6/2025 tarihli ve 7550 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “(B) bendi” ibaresi
+19 4/6/2025 tarihli ve 7550 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “(B) bendi” ibaresi
 “ikinci fıkrasının (l) bendi” şeklinde değiştirilmiştir.
-19 23/1/2008 tarihli ve 5728 sayılı Kanunun 356 ncı maddesiyle; bu maddede yer alan “230 uncu
-maddesi hükmüne göre sorumludur.” ibaresi “257 nci maddesinin ikinci fıkrası hükmüne göre
-cezalandırılır.” şeklinde değiştirilmiştir.
+maddesinin ikinci fıkrası hükmüne göre cezalandırılır.20
+
 Ayrık hükümler:
 
 MADDE 161
@@ -2261,8 +2268,8 @@ bir işin yapılmamasından veya hatalı yahut eksik yapılmasından dolayı zar
 karşı sorumludurlar.
 (Ek fıkra: 23/6/2022-7413/13 md.) (İptal fıkra: Anayasa Mahkemesinin
 25/12/2025 tarihli ve E.: 2025/209; K.: 2025/276 sayılı Kararı ile)
-Noter, birinci (…)20 fıkralar gereğince ödediği miktar için, işin yapılmaması, hatalı
-yahut eksik yapılmasına sebep olan stajiyer veya noterlik personeline rücu edebilir.21
+Noter, birinci (…)21 fıkralar gereğince ödediği miktar için, işin yapılmaması, hatalı
+yahut eksik yapılmasına sebep olan stajiyer veya noterlik personeline rücu edebilir.22
 
 ONÜÇÜNCÜ KISIM
 Türkiye Noterler Birliği
@@ -2284,6 +2291,14 @@ saymanlığı görevleri ücretlidir. Birlik Yönetim Kurulunun Başkanlık Diva
 üyeleri ile disiplin kurulu başkan ve üyelerine katıldıkları toplantılar için huzur hakkı ödenir.
 Bu kimselerden Ankara'dan başka illerden seçilenlere yolculuk ve ikamet giderleri ile
 diğer zaruri giderler Birlik Bütçesinden ödenir. Bunların miktarı Kongrece belli edilir.
+
+20 23/1/2008 tarihli ve 5728 sayılı Kanunun 356 ncı maddesiyle; bu maddede yer alan “230 uncu
+maddesi hükmüne göre sorumludur.” ibaresi “257 nci maddesinin ikinci fıkrası hükmüne göre
+cezalandırılır.” şeklinde değiştirilmiştir.
+21 Anayasa Mahkemesinin 25/12/2025 tarihli ve E.: 2025/209; K.: 2025/276 sayılı Kararı ile
+bu fıkrada yer alan “…ve ikinci…” ibaresi iptal edilmiştir.
+22 23/6/2022 tarihli ve 7413 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “birinci
+fıkra” ibaresi “birinci ve ikinci fıkralar” şeklinde değiştirilmiştir.
 Adalet Bakanlığının gözetim ve denetimi, organların görevden uzaklaştırılması ve
 görevlerine son verilmesi:
 
@@ -2291,11 +2306,6 @@ MADDE 164
 
 (Değişik: 14/2/1984 - 2980/2 md.)
 Adalet Bakanlığı, Türkiye Noterler Birliği ile Birliğin mahalli organları olan odalar
-
-20 Anayasa Mahkemesinin 25/12/2025 tarihli ve E.: 2025/209; K.: 2025/276 sayılı Kararı ile
-bu fıkrada yer alan “…ve ikinci…” ibaresi iptal edilmiştir.
-21 23/6/2022 tarihli ve 7413 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “birinci
-fıkra” ibaresi “birinci ve ikinci fıkralar” şeklinde değiştirilmiştir.
 üzerinde gözetim ve denetim hakkına sahiptir. Birlik ve odaların her türlü faaliyetleri ile
 hesap ve işlemleri adalet müfettişleri veya Cumhuriyet savcılarınca denetlenir. Denetleme
 usulü yönetmelikte gösterilir.
@@ -2320,7 +2330,7 @@ işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği 
 gecikmede sakınca varsa, Birliğin merkezindeki organları ile odaların başkan ve yönetim
 kurulları vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat
 içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar; aksi
-halde, bu idari karar kendiliğinden yürürlükten kalkar.22
+halde, bu idari karar kendiliğinden yürürlükten kalkar.23
 
 Üyelik:
 
@@ -2333,6 +2343,9 @@ verebilir.
 
 Türkiye Noterler Birliğinin görevleri:
 
+23 18/6/1997 tarih ve 4276 sayılı Kanunun 27 nci maddesiyle bu fıkra, altıncı ve yedinci fıkraların birleştirilmesi
+suretiyle altıncı fıkra olarak yeniden düzenlenmiştir.
+
 MADDE 166
 
 Türkiye Noterler Birliğinin görevleri şunlardır:
@@ -2340,9 +2353,6 @@ Türkiye Noterler Birliğinin görevleri şunlardır:
 2. Meslekin gelişmesi için kitap ve dergi yayınlamak, konferanslar düzenlemek,
 milletlerarası toplantılara katılmak ve sair gerekli çalışmalarda bulunmak,
 3. Noter katiplerini yetiştirmek için kurslar açmak,
-
-22 18/6/1997 tarih ve 4276 sayılı Kanunun 27 nci maddesiyle bu fıkra, altıncı ve yedinci fıkraların birleştirilmesi
-suretiyle altıncı fıkra olarak yeniden düzenlenmiştir.
 4. Noterliği ilgilendiren konularda görüşünü yetkili mercilere kendiliğinden veya istek
 üzerine bildirmek,
 5. Uyulması zorunlu meslek kurallarını tespit ve tavsiye etmek,
@@ -2368,7 +2378,7 @@ düzenlemekten kaçınamazlar),
 odalarına Birlikçe verilecek ödenek miktarını ve ödeme şeklini belli etmek,
 15. (Ek: 2/3/2005-5309/5 md.; Değişik: 23/1/2008-5728/357 md.) 109 uncu madde
 hükümleri saklı kalmak üzere, her nevi ortak hesap paylaşım esaslarını belirlemek,
-16. Kanunlarla verilmiş diğer görevleri yapmak,23
+16. Kanunlarla verilmiş diğer görevleri yapmak,24
 
 Türkiye Noterler Birliğinin organları:
 
@@ -2378,13 +2388,14 @@ Türkiye Noterler Birliği, görevlerini organları vasıtasiyle yapar.
 Birliğin organları şunlardır:
 1. Türkiye Noterler Birliği Başkanı,
 2. Türkiye Noterler Birliği Başkanlık Divanı,
+
+24 2/3/2005 tarihli ve 5309 sayılı Kanunun 5 inci maddesiyle, (15) numaralı bent eklenmiş olup, mevcut (15)
+numaralı bent olan bu bent (16) olarak teselsül ettirilmiştir.
 3. Türkiye Noterler Birliği Yönetim Kurulu,
 4. Türkiye Noterler Birliği Disiplin Kurulu,
 5. Türkiye Noterler Birliği Kongresi,
 6. Noter odaları.
 
-23 2/3/2005 tarihli ve 5309 sayılı Kanunun 5 inci maddesiyle, (15) numaralı bent eklenmiş olup, mevcut (15)
-numaralı bent olan bu bent (16) olarak teselsül ettirilmiştir.
 Türkiye Noterler Birliği Başkanının görevleri:
 
 MADDE 168
@@ -2463,7 +2474,7 @@ Seçim dönemi bitmeden önce ayrılan Yönetim Kurulu üyesinin yeri en çok oy
 yedek üye ile doldurulur ve bundan sonra yapılacak ilk kongrede bir yedek üye seçilir.
 Yönetim Kurulu üyelerinden biri hakkında seçilmeye engel bir suçtan dolayı kamu
 davası açılmış ise, dava sonuna kadar bu üye Yönetim Kurulu çalışmalarına katılamaz, yeri
-yedek üye ile doldurulur.24
+yedek üye ile doldurulur.25
 
 Türkiye Noterler Birliği Yönetim Kurulunun görevleri:
 
@@ -2474,14 +2485,14 @@ Yönetim Kurulunun görevleri şunlardır:
 bütçesini düzenlemek ve bunu kongrenin onayına sunmak ve yürütmek,
 2. Kongreye, çalışmaları hakkında rapor vermek ve kongre kararlarını yerine getirmek,
 3. Türkiye Noterler Birliğinin mallarını idare etmek, iktisap ve iltizam hususlarında
+
+25 Bu maddede belirtilen seçimlere ilişkin işlemler ve esaslar için Ek 1 inci maddeye bakınız.
 Başkana yetki vermek,
 4. Yönetim Kurulu üyelerinin istifaları hakkında karar vermek,
 5. Birlik kongresi gündemini hazırlamak,
 6. Birliğin ücretli memurlarının özlük işlerini düzenlemek ve yürütmek,
 7. Noter odaları ve noterler üzerinde gözetim ve denetimde bulunmak,
-
-24 Bu maddede belirtilen seçimlere ilişkin işlemler ve esaslar için Ek 1 inci maddeye bakınız.
-8. Yerli ve yabancı kongrelere gidecek delegeleri seçmek,25
+8. Yerli ve yabancı kongrelere gidecek delegeleri seçmek,26
 9. Meslek hakkında ilgili makamlara rapor vermek,
 10. Yetkili organı gösterilmeksizin Türkiye Noterler Birliğine kanunla verilen görevleri
 yapmak,
@@ -2514,7 +2525,7 @@ Kurul, seçimden sonraki ilk toplantısında kendi üyeleri arasından bir başk
 Türkiye Noterler Birliği Disiplin Kurulu üyeleri dört yıl için seçilir. Süresi dolan üye
 yeniden seçilebilir.
 171 inci maddenin 1, 2, 3, 4, 5, 6, 9 ve 10 uncu fıkraları hükümleri burada da kıyasen
-uygulanır.26
+uygulanır.27
 
 Türkiye Noterler Birliği Disiplin Kurulunun görevleri ve toplantıları:
 
@@ -2523,14 +2534,14 @@ MADDE 175
 Türkiye Noterler Birliği Disiplin Kurulu bu kanunla ve yönetmelikle
 kendisine verilmiş olan işleri görür.
 Kurul ayda bir defa olağan olarak toplanır. Birlik Başkanının veya Disiplin Kurulu
+
+26 Bu hükmün uygulanmasında ek 2 nci maddeye bakınız.
+27 Bu maddede belirtilen seçimlere ilişkin işlemler ve esaslar için ek 1 inci maddeye bakınız.
 Başkan yahut üyelerinden birinin isteği ile kurul acele hallerde her zaman olağanüstü
 toplantıya çağırılabilir.
 173 üncü maddenin 2 ve 3 üncü fıkraları Disiplin Kurulu hakkında da kıyasen uygulanır.
 Disiplin Kurulu, üye tamsayısının salt çoğunluğu ile toplanır ve en az üç üyenin bir
 oyda birleşmesi ile karar verilir. Oylarda eşitlik halinde Başkanın bulunduğu taraf üstün
-
-25 Bu hükmün uygulanmasında ek 2 nci maddeye bakınız.
-26 Bu maddede belirtilen seçimlere ilişkin işlemler ve esaslar için ek 1 inci maddeye bakınız.
 sayılır.
 
 Türkiye Noterler Birliği Kongresi:
@@ -2650,7 +2661,7 @@ MADDE 184
 Noter Odası Yönetim Kurulu, noter odası başkanı ile iki üyeden kurulur.
 Başkan ve üyeler genel kurul tarafından verilen oyların çoğunluğu ile ve iki yıl için
 seçilir. Üçten fazla noter bulunan odalarda bir, 10 dan fazla noter bulunan odalarda da iki
-yedek üye seçilir.27
+yedek üye seçilir.28
 Başkanlığa ve yönetim kurulu asıl ve yedek üyeliğine seçilebilmek için noterliğe engel
 bir suçtan dolayı hakkında son soruşturma açılmasına karar verilmiş bulunmamak veya beş yıl
 içinde noterlik meslekinde geçici olarak işten çıkarma cezası almış olmamak gereklidir.
@@ -2672,6 +2683,7 @@ kararlarını yerine getirmek,
 3. Yetkili mercii gösterilmeksizin odaya verilen görevleri yerine getirmek,
 4. Kanunlarla verilmiş diğer görevleri yapmak,
 
+28 Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
 Noter odası genel kurulu:
 
 MADDE 186
@@ -2680,8 +2692,6 @@ Noter odası genel kurulu odaya kayıtlı noterlerden ibarettir.
 (Değişik birinci cümle: 16/11/1989 - 3588/14 md.) Genel kurul her sene Nisan ayı
 içinde toplanır. Toplantı yeri ve zamanı ile gündemi, en az bir ay önce üyelere noter odası
 başkanı tarafından bildirilir.
-
-27 Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
 Genel kurul, Adalet Bakanlığının veya odaya kayıtlı noterlerden beşte birinin yazılı
 istemi üzerine olağanüstü toplantıya çağrılır. Şu kadar ki, toplantı isteminde bulunan
 noterlerin sayısı ikiden aşağı olamaz.
@@ -2769,9 +2779,12 @@ MADDE 192
 Yabancı memleketlerde noterlik görevi bu kanunun noterlik işlemlerine
 ilişkin hükümleri uyarınca konsolosluk binası içinde görülür.
 
-MADDE 193 — Uygulanmıyacak hükümler:28
+MADDE 193 — Uygulanmıyacak hükümler:29
 
 Bu kanunun 41, 51, 53, 54, 55, 60, 61, 68 ila 70, 72 ila 76, 78 ila 108,
+
+29 2/12/2014 tarihli ve 6572 sayılı Kanunun 5 inci maddesiyle, bu maddede yer alan “116 ncı” ibaresi “116 ve
+198/A” şeklinde değiştirilmiştir.
 113 ila 116 ve 198/A maddeleri ile ondördüncü kısımdaki maddeler dışında kalan hükümleri,
 konsoloslar hakkında uygulanmaz.
 
@@ -2780,9 +2793,6 @@ Noter ücretinin alınmaması:
 MADDE 194
 
 Yabancı memleketlerde noterlik görevi yapanlar, noter ücreti alamazlar.
-
-28 2/12/2014 tarihli ve 6572 sayılı Kanunun 5 inci maddesiyle, bu maddede yer alan “116 ncı” ibaresi “116 ve
-198/A” şeklinde değiştirilmiştir.
 
 İmza ve mühür onaylanması:
 
@@ -2871,14 +2881,10 @@ noterlik işlemlerine ilişkin tüm bilgi ve belgeler güvenli elektronik imzayl
 işlenebilir, saklanabilir ve gerektiğinde ilgili diğer kişi veya kurumlara elektronik ortamda
 gönderilebilir. Ayrıca 61 inci maddede düzenlenen tespit işleri güvenli elektronik imza ile
 elektronik ortamda da yapılabileceği gibi aynı usulle elektronik ortamdaki durum, görüntü,
-işlem veya benzeri her türlü verinin tespiti de yapılabilir.29
+işlem veya benzeri her türlü verinin tespiti de yapılabilir.30
 Noterler tarafından yapılan tüm işlemlere dair bilgi ve belgeler Türkiye Noterler
 Birliğinin Bilişim Sisteminde kaydedilir ve saklanır. Güvenli elektronik imza ile imzalanmış
 belgelerde kanunlarda belirtilen mühürleme işlemi uygulanmaz ve ayrıca suret aranmaz.
-
-29 14/11/2024 tarihli ve 7532 sayılı Kanunun 8 inci maddesiyle, bu fıkranın birinci cümlesine “yapılabilecek
-noterlik işlemleri” ibaresinden sonra gelmek üzere “, el yazısıyla imzalanarak hazırlanan ve güvenli elektronik
-imzayla Türkiye Noterler Birliğinin Bilişim Sistemine kaydedilen noterlik işlemleri” ibaresi eklenmiştir.
 Güvenli elektronik imza ile oluşturulan belge, talep edilmedikçe ayrıca fiziki olarak
 düzenlenmez. Elektronik ortamdan fiziki örnek çıkartılması gereken hâllerde belgenin aslının
 aynı olduğu belirtilerek noterlikçe imzalanır ve mühürlenir. Güvenli elektronik imza ile
@@ -2909,9 +2915,16 @@ MADDE 199
 
 Türkiye'de usulüne uygun olarak yapılan ve yabancı bir memlekette
 kullanılacak olan işlemin altındaki noterin imza ve mühürünü, herhangi bir il veya ilçenin en
-büyük mülki amiri onaylar.30
+büyük mülki amiri onaylar.31
 
 İşlemlerin formülleri:
+
+30 14/11/2024 tarihli ve 7532 sayılı Kanunun 8 inci maddesiyle, bu fıkranın birinci cümlesine “yapılabilecek
+noterlik işlemleri” ibaresinden sonra gelmek üzere “, el yazısıyla imzalanarak hazırlanan ve güvenli elektronik
+imzayla Türkiye Noterler Birliğinin Bilişim Sistemine kaydedilen noterlik işlemleri” ibaresi eklenmiştir.
+31 21/11/2024 tarihli ve 7533 sayılı Kanunun 15 inci maddesi ile bu fıkrada yer alan “noterliğin
+bulunduğu yer valiliği” ibaresi “herhangi bir il veya ilçenin en büyük mülki amiri” şeklinde
+değiştirilmiştir.
 
 MADDE 200
 
@@ -2921,10 +2934,6 @@ Bakanlığınca onaylandıktan sonra Türkiye Noterler Birliğince bütün noter
 Birinci fıkraya göre hazırlanan formüller tasdik tarihinden itibaren dört yıl süre ile
 geçerli olup, bu sürenin sonunda, aynı süre ile yürürlükte kalması veya değiştirilmesi, Birlik
 Kongresinin süre bitiminden önceki son toplantısında kararlaştırılır.
-
-30 21/11/2024 tarihli ve 7533 sayılı Kanunun 15 inci maddesi ile bu fıkrada yer alan “noterliğin
-bulunduğu yer valiliği” ibaresi “herhangi bir il veya ilçenin en büyük mülki amiri” şeklinde
-değiştirilmiştir.
 
 Topluluk sigortasına girmek zorunluluğu:
 
@@ -2944,7 +2953,7 @@ MADDE 203
 
 (Mülga: 31/5/2006-5510/106 md.)
 
-MADDE 204 — Prim borcunu ve noter aidatını ödememenin sonucu:31
+MADDE 204 — Prim borcunu ve noter aidatını ödememenin sonucu:32
 
 Topluluk sigortası primlerini, topluluk sözleşmesinde gösterilen zamanda
 ödemiyen notere, birikmiş prim borcunu sözleşmedeki şartlar dairesinde ödeyinceye kadar işten el
@@ -2970,6 +2979,8 @@ eden bir noter emekliliğe tabi bir görev veya hizmete atandığı yahut seçil
 sigortalılığına esas alınan noterlik süresinin üçte ikisi kıdemine eklenerek intibakı yapılır ve
 görev veya hizmet aylığı ile emeklilik keseneğine esas aylığı yükseltilir.
 
+32 16/11/1989 tarih ve 3588 sayılı Kanunun 16 ncı maddesiyle, bu Madde başlığı "Prim borcunu ödememenin
+sonucu " iken metne işlendiği şekilde değiştirilmiştir.
 Meslek değiştirme:
 
 MADDE 206
@@ -2979,9 +2990,6 @@ bulunan kimselerin, kendilerine ihtiyarlık sigortası aylığı bağlanmadan, N
 Avukatlık mesleklerinin birinden ayrılıp diğerine geçmeleri halinde, yeni girdikleri
 meslekteki sigortalılıkları, ayrıldıkları meslekte geçen sigortalılıklarının devamı sayılır. Şu
 kadar ki, ilgili yeni mesleke girdiği tarihten itibaren, o mesleke ait topluluk sigortası
-
-31 16/11/1989 tarih ve 3588 sayılı Kanunun 16 ncı maddesiyle, bu Madde başlığı "Prim borcunu ödememenin
-sonucu " iken metne işlendiği şekilde değiştirilmiştir.
 sözleşmesi hükümlerine tabi olur.
 Yukarıki fıkra hükmü, bu kanunun geçici 14 üncü maddesi veya Avukatlık
 Kanununun geçici 1 inci maddesinden faydalanabilecek durumda olup bu maddelerdeki en az

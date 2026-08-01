@@ -36,6 +36,9 @@ uygulanır. Bu fıkradaki idarî para cezaları Kurumun taşra teşkilatı taraf
 (6) Bu Kanunun 53 üncü maddesinin birinci fıkrasına aykırılık hallerinde, 4703 sayılı
 Kanunun 12 nci maddesinde dağıtıcı, üretici ve onaylanmış kuruluşlar bakımından
 öngörülmüş bulunan idarî para cezaları bir katından dört katına kadar artırılarak uygulanır.
+
+sonra gelmek üzere “tahsilat tarihinden iade edildiği tarihe kadar 6183 sayılı Kanunun 51 inci
+maddesine göre hesaplanacak tutarla birlikte” ibaresi eklenmiştir.
 (7) Bu Kanunun 50 nci maddesinin sekizinci ve dokuzuncu fıkralarına aykırı hareket
 eden işletmecilere hat başına yetmişbeşbin Türk Lirası; onuncu fıkrasına aykırı hareket eden
 işletmecilere hat başına kırkbin Türk Lirası; onbirinci fıkrasına aykırı hareket eden
@@ -56,40 +59,27 @@ işletmecinin tüketiciye ulaşamaması veya Kurum tarafından haklı görülen 
 nedenle işletmeci tarafından iadelerin gerçekleştirilememesi halinde, bu iade bedelleri
 evrensel hizmet gelirleri olarak genel bütçeye gelir kaydedilmek üzere Bakanlığın merkez
 muhasebe birimi hesabına yatırılır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Kurum
-tarafından belirlenir.16
+tarafından belirlenir.20
 (10) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
-Anayasanın 22 nci maddesinde sayılan sebeplerden biri veya birkaçına bağlı olarak, gecikmesinde
-sakınca bulunan hâllerde Cumhurbaşkanlığı, alınması gereken tedbirleri belirler ve uygulanmak
-üzere Kuruma bildirir. Kurum Başkanı, Cumhurbaşkanlığının gerekli gördüğü tedbirlere ilişkin
-kararını derhal işletmecilere, erişim sağlayıcılara, veri merkezlerine ve ilgili içerik ve yer
-sağlayıcılara bildirir. Bu kararın gereği, derhal ve kararın bildirilmesi anından itibaren en geç iki
-saat içinde yerine getirilir. Bu karar, yirmidört saat içinde sulh ceza hâkiminin onayına sunulur.
-Hâkim kararını kırksekiz saat içinde açıklar, aksi halde karar kendiliğinden kalkar.1718
+(Mülga:24/7/2026-7590/27 md.)
 (11) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
 (Mülga: 12/3/2025-7545/19 md.)
 (12) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
 Kurum, görevi kapsamında ilgili yerlerden bilgi, belge, veri ve kayıtları alabilir ve
 değerlendirmesini yapabilir; arşivlerden, elektronik bilgi işlem merkezlerinden ve iletişim
-
-16 28/11/2017 tarihli ve 7061 sayılı Kanunun 99 uncu maddesiyle, mevcut sekizinci fıkrası ile onikinci
-fıkradan sonra gelmek üzere dokuzuncun ve onüçüncü fıkralar eklenmiş ve diğer fıkralar buna göre
-teselsül ettirilmiştir.
-17 15/8/2016 tarihli ve 671 sayılı KHK’nin 25 inci maddesiyle sekizinci fıkradan sonra gelmek üzere
-‘’dokuz, on, onbir ve onikinci’’ fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiş olup, daha
-sonra bu hüküm 9/11/2016 tarihli ve 6757 sayılı Kanunun 22 nci maddesiyle aynen kabul edilerek
-kanunlaşmıştır.
-18 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle 60 ıncı
-maddenin onuncu fıkrasında yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde,
-“Başbakanlığın” ibaresi “Cumhurbaşkanlığının” şeklinde ve onikinci fıkrasında yer alan
-“Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.
 altyapısından yararlanabilir, bunlarla irtibat kurabilir ve bu kapsamda diğer gerekli önlemleri
 alabilir veya aldırabilir. Kurum, bu fıkrada belirtilen görevlerin ifasında bakanlıklar, kurum ve
 kuruluşlar ile işbirliği içerisinde çalışır. Bu kapsamda Kurum tarafından istenen her türlü bilgi
 ve belge talebi; ilgili bakanlık, kurum ve kuruluşlar tarafından gecikmeksizin yerine getirilir.
 Bu fıkraya göre bilgi ve belge talebinde bulunulması ve bu taleplerin yerine getirilmesine
-ilişkin usul ve esaslar ile diğer hususlar Cumhurbaşkanlığınca belirlenir.18
+ilişkin usul ve esaslar ile diğer hususlar Cumhurbaşkanlığınca belirlenir.Hata! Yer işareti
+tanımlanmamış.
 (13) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
 Gerçek kişiler ile özel hukuk tüzel kişileri, Kurumun bu maddedeki görevleri ile ilgili
+
+20 28/11/2017 tarihli ve 7061 sayılı Kanunun 99 uncu maddesiyle, mevcut sekizinci fıkrası ile onikinci
+fıkradan sonra gelmek üzere dokuzuncun ve onüçüncü fıkralar eklenmiş ve diğer fıkralar buna göre
+teselsül ettirilmiştir.
 taleplerini, tabi oldukları mevzuat hükümlerini gerekçe göstermek suretiyle yerine
 getirmekten kaçınamazlar. İşletmeciler dışında Kurumun görevleri ile ilgili yükümlülüklerini
 yerine getirmeyenlere bu maddenin ikinci fıkrasındaki yaptırım uygulanır.

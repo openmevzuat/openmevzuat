@@ -1,4 +1,4 @@
-# EK MADDE 1 — Elektronik Kamu Alımları Platformu72
+# EK MADDE 1
 
 (Ek: 30/7/2003-4964/41 md.; Değişik: 20/11/2008-5812/26 md.)
 (Değişik paragraf:16/11/2022-7421/12 md.) Bu Kanunun 13 üncü maddesi saklı kalmak

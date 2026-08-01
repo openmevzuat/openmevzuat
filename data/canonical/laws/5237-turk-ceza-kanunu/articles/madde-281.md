@@ -6,9 +6,6 @@ cezası ile cezalandırılır. Kendi işlediği veya işlenişine iştirak etti�
 fıkra hükmüne göre ceza verilmez.
 (2) Bu suçun kamu görevlisi tarafından göreviyle bağlantılı olarak işlenmesi halinde,
 verilecek ceza yarı oranında artırılır.
-
-109 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “özürlü” ibaresi
-“engelli” olarak değiştirilmiştir.
 (3) İlişkin olduğu suç nedeniyle hüküm verilmeden önce gizlenen delilleri mahkemeye
 teslim eden kişi hakkında bu maddede tanımlanan suç nedeniyle verilecek cezanın beşte
 dördü indirilir.

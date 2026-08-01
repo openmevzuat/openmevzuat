@@ -4,6 +4,9 @@
 md.)
 İdari yargının görev alanına giren konularda, bu maddenin yürürlüğe girdiği tarihten
 önce başlatılmış ilamsız icra takipleri hakkında, talep üzerine icra müdürünce 42 nci
+
+146 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
+girmesi hüküm altına alınmıştır.
 maddenin üçüncü fıkrası uyarınca dosya üzerinden düşme kararı verilir ve karar alacaklıya
 resen tebliğ edilir. Alacaklı, düşme kararının tebliğinden itibaren yedi gün içinde şikayet
 yoluna başvurabilir. Düşme kararının kesinleşmesinden itibaren otuz gün içinde idari yargı

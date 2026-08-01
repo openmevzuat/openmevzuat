@@ -20,7 +20,9 @@ fıkranın uygulanmasına dair diğer hususlar İçişleri Bakanlığınca çık
 
 şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 27 nci maddesiyle aynen
 kabul edilerek kanunlaşmıştır.
-23 2/7/2018 tarihli ve 700 sayılı KHK’nin 14 üncü maddesiyle, bu fıkrada yer alan “Adalet, İçişleri ve Ulaştırma
+23 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “Bilgi Teknolojileri ve
+İletişim Kurumu” ibaresi “Siber Güvenlik Başkanlığı” şeklinde değiştirilmiştir.
+24 2/7/2018 tarihli ve 700 sayılı KHK’nin 14 üncü maddesiyle, bu fıkrada yer alan “Adalet, İçişleri ve Ulaştırma
 bakanlıklarının görüşü alınarak Başbakanlık tarafından üç ay içinde çıkarılacak” ibaresi “Cumhurbaşkanınca
 çıkarılan” şeklinde değiştirilmiştir.
 gösterilir. Para ödülüne ait giderler Emniyet Genel Müdürlüğü bütçesine konulacak ödenekten

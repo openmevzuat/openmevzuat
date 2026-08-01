@@ -17,6 +17,7 @@ mazeretsiz olarak birbirini izleyen beş veya toplam on toplantıya katılmayan 
 üyelikleri kendiliğinden sona erer. Bu şekilde üyeliği sona eren üyenin yerine bir başka kişi,
 aynı usûlle görevlendirilir.
 (Değişik üçüncü fıkra: 17/4/2008-5754/37 md.) Sosyal Sigorta Yüksek Sağlık
+Kuruluna iştirak edenlerden; katıldıkları her toplantı günü için 4000 gösterge rakamının
 
 94 17/4/2017 tarihli ve 690 sayılı KHK’nin 41 inci maddesiyle, bu fıkrada yer alan “Türk Silâhlı
 Kuvvetleri” ibaresi “Türk Silahlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik
@@ -26,7 +27,6 @@ maddesiyle aynen kabul edilerek kanunlaşmıştır.
 alan “Türk Tabipleri Birliği,” ibaresinden sonra gelmek üzere “Türkiye Ziraat Odaları Birliği”
 ibaresi, dördüncü fıkrasına “sigortalılar hakkında” ibaresinden sonra gelmek üzere “vazife malûllük
 derecesi,” ibaresi eklenmiştir.
-Kuruluna iştirak edenlerden; katıldıkları her toplantı günü için 4000 gösterge rakamının
 memur aylık katsayısı ile çarpımı sonucu bulunacak miktarda ve ayda sekiz toplantıyı
 geçmemek üzere huzur hakkı ödenir. Kurulun çalışmaları ile ilgili her türlü giderler Kurumca
 ödenir. Kurul gerek gördüğü hallerde dışarıdan uzman kişilerin görüşüne başvurabilir. Bu

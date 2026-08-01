@@ -16,11 +16,11 @@ bölgedeki görev süresini doldurup doldurmadığına ve meslek kıdemine bakı
 hizmetinden yararlanılabilecek diğer bir bölgeye veya bulunduğu bölge seviyesinde bir yere
 naklen ataması yapılabilir.
 
-42 17/4/2013 tarihli ve 6460 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “iş cetvelleri” ibaresi “alternatif
+43 17/4/2013 tarihli ve 6460 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “iş cetvelleri” ibaresi “alternatif
 uyuşmazlık çözüm yöntemlerine ilişkin uygulamayı da kapsayacak biçimde iş cetvelleri” şeklinde değiştirilmiştir.
-43 1/7/2016 tarihli ve 6723 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “geçen işleri” ibaresinden sonra
+44 1/7/2016 tarihli ve 6723 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “geçen işleri” ibaresinden sonra
 gelmek üzere “, kanun yolu değerlendirme formları” ibaresi eklenmiştir.
-44 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin birinci fıkrasında geçen "Adalet
+45 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin birinci fıkrasında geçen "Adalet
 Bakanlığı merkez kuruluşundaki" ibaresi, "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki"; ikinci ve
 üçüncü fıkralarında geçen "Bakanlık merkez kuruluşundaki" ibareleri "Adalet Bakanlığı merkez, bağlı ve ilgili
 kuruluşlarındaki" şeklinde değiştirilmiştir.

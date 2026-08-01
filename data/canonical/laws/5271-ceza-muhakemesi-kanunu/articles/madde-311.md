@@ -1,11 +1,6 @@
 # MADDE 311
 
 (1) Kesinleşen bir hükümle sonuçlanmış bir dava, aşağıda yazılı
-
-145 6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı maddesiyle bu fıkrada yer alan "Adalet Bakanı"
-ibaresi, "Adalet Bakanlığı" olarak değiştirilmiştir.
-146 6/12/2006 tarihli ve 5560 sayılı Kanunun 26 ncı maddesiyle bu fıkrada yer alan "Adalet Bakanı"
-ibaresi, "Adalet Bakanlığı" olarak değiştirilmiştir.
 hâllerde hükümlü lehine olarak yargılamanın yenilenmesi yoluyla tekrar görülür:
 a) Duruşmada kullanılan ve hükmü etkileyen bir belgenin sahteliği anlaşılırsa.
 b) Yemin verilerek dinlenmiş olan bir tanık veya bilirkişinin hükmü etkileyecek
@@ -25,7 +20,7 @@ Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olm
 hükmü aleyhine Avrupa İnsan Hakları Mahkemesine yapılan başvuru hakkında dostane
 çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı verilmesi. Bu hâlde
 yargılamanın yenilenmesi, Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten
-itibaren bir yıl içinde istenebilir.147
+itibaren bir yıl içinde istenebilir.144
 (2) Birinci fıkranın (f) bendi hükümleri, 4.2.2003 tarihinde Avrupa İnsan Hakları
 Mahkemesinin kesinleşmiş kararları ile, 4.2.2003 tarihinden sonra Avrupa İnsan Hakları
 Mahkemesine yapılan başvurular üzerine verilecek kararlar hakkında uygulanır.

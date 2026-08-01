@@ -9,6 +9,10 @@ içinde müracaatı üzerine sabit olursa, asgari ücretin üstünde kalan gelir
 mahkemesinin dörtte birden az olmamak üzere tespit edeceği kısmını icra mahkemesi
 kararının kesinleşmesinden itibaren en geç bir ay içinde ve aciz vesikasındaki borcun
 ödenmesine kadar her ay icra dairesine yatırmaya mecburdur. Bu mükellefiyeti yerine
+
+127 Bu madde başlığı “Mal beyanı için gelmiyenlerin ve beyanda bulunmıyanların ve istenen malı teslim
+etmiyenlerin cezası:” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 7 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.
 getirmeyen borçlu hakkında bir yıla kadar tazyik hapsine karar verilir. Hapsin tatbikine
 başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine yatırmak
 zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar keserse, hakkında tazyik

@@ -10,7 +10,4 @@ hususlarını re’sen nazara alarak bu fasla göre yapılan takibi iptal edebil
 (Ek: 9/11/1988-3494/34 md.) Her ne suretle olursa olsun, imza inkarı itirazı geri
 alınmış veya borç kısmen veya tamamen kabul edilmiş ise bu madde hükmü uygulanmaz.
 
-66 2/7/2012 tarihli ve 6352 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
-“yüzde yirmisinden” olarak değiştirilmiştir.
-
 Uygulanacak diğer hükümler:

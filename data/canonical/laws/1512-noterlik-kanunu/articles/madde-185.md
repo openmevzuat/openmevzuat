@@ -7,4 +7,5 @@ kararlarını yerine getirmek,
 3. Yetkili mercii gösterilmeksizin odaya verilen görevleri yerine getirmek,
 4. Kanunlarla verilmiş diğer görevleri yapmak,
 
+28 Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
 Noter odası genel kurulu:

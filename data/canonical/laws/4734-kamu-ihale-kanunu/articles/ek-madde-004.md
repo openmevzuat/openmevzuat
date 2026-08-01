@@ -1,4 +1,4 @@
-# EK MADDE 4 — Dinamik alım sistemi
+# EK MADDE 4
 
 (Ek: 20/11/2008-5812/28 md.)
 Dinamik alım sistemi, piyasada mamul olarak bulunan malların elektronik ortamda
@@ -28,5 +28,8 @@ Dinamik alım sisteminin süresi kırk sekiz aydan fazla olamaz.
 Dinamik alım sisteminde yapılacak ihalelerde Elektronik Kamu Alımları Platformu
 kullanılır. Sisteme kabul edilmeye ve sistemin yürütülmesine ilişkin olarak herhangi bir ücret
 talep edilmez.
+
+75 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “kararnameler
+çıkarmaya Bakanlar Kurulu” ibaresi “kararlar çıkarmaya Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Dinamik alım sistemi dahilinde yapılacak alımlara ilişkin sözleşme düzenlenmesi gerekli
 haller ile bu sözleşmelerin şeklini ve kapsamını belirlemeye Kurum yetkilidir.

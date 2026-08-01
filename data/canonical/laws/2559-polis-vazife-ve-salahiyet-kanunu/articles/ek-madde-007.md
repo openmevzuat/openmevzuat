@@ -80,9 +80,9 @@ Komisyonuna sunulur.
 (Ek fıkra: 3/7/2005 – 5397/1 md.; Değişik: 15/8/2016-KHK-671/24 md.; Aynen
 kabul: 9/11/2016-6757/21 md.) Bu maddede belirtilen telekomünikasyon yoluyla yapılan
 iletişime ilişkin işlemler ile 5271 sayılı Kanunun 135 inci maddesi kapsamında yapılacak
-dinlemeler, Bilgi Teknolojileri ve İletişim Kurumu bünyesinde tek bir merkezden yürütülür.
+dinlemeler, Siber Güvenlik Başkanlığı bünyesinde tek bir merkezden yürütülür.23
 (Ek fıkra: 3/7/2005 – 5397/1 md.) Bu maddede belirlenen usûl ve esaslara aykırı
 dinlemeler hukuken geçerli sayılmaz ve bu şekilde dinleme yapanlar hakkında 26.9.2004
 tarihli ve 5237 sayılı Türk Ceza Kanunu hükümlerine göre işlem yapılır.
 (Ek fıkra: 3/7/2005 – 5397/1 md.) Bu maddenin uygulanmasına ilişkin esas ve usûller
-Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.23
+Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.24

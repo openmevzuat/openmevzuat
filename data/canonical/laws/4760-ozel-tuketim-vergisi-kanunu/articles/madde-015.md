@@ -21,14 +21,14 @@ iktisabında, ilk iktisabındaki matrah esas alınarak adına kayıt ve tescil i
 tescili tarihinde geçerli olan oran üzerinden, bu tarihte özel tüketim vergisi alınır.(Ek hüküm:
 4/6/2008-5766/19 md.) Kanunun 7 nci maddesinin (2) ve (8) numaralı bentleri çerçevesinde
 istisnadan yararlananlar tarafından bu istisnadan yararlanılarak iktisap ettikleri kayıt ve tescile
-tabi malları 5 yıldan fazla kullanarak elden çıkarmaları durumunda bu hüküm uygulanmaz.38
+tabi malları 5 yıldan fazla kullanarak elden çıkarmaları durumunda bu hüküm uygulanmaz.39
 b) (Değişik: 16/7/2004-5228/23 md.) (II) sayılı listedeki mallardan kayıt ve tescile tâbi
 olanların, ilk iktisap tarihinden itibaren beş yıl içinde 87.02 (Otobüs ve midibüs hariç), 87.03
 veya 87.04 (“Diğerleri” grubu hariç) tarife pozisyonlarında yer alan mallara dönüştürülmesi
 halinde, daha önce ödenen vergi mahsup edilmek suretiyle bu malların ilk iktisabındaki matrah
 esas alınarak değişiklik uyarınca adına kayıt ve tescil işlemi yapılandan, değişikliğin kayıt ve
 tescili tarihinde dönüştürülen mallar için geçerli olan oran üzerinden, bu tarihte özel tüketim
-vergisi alınır.39
+vergisi alınır.40
 3. Bu Maddenin uygulanmasına ilişkin usul ve esaslar Maliye Bakanlığınca belirlenir.
 
 BEŞİNCİ BÖLÜM

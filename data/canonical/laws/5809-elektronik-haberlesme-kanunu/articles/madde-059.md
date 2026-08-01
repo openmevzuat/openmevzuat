@@ -13,13 +13,15 @@ bulundururlar.
 (2) Denetimle görevlendirilenler, denetime tabi olanlar veya tesisleri nezdinde,
 defterler de dahil olmak üzere her türlü evrak ve emtianın, elektronik ortamdaki bilgilerin,
 elektronik haberleşme alt yapısının, cihaz, sistem, yazılım ve donanımlarının incelenmesi,
-suret veya numune alınması, konuyla ilgili yazılı veya sözlü açıklama istenmesi, gerekli
 
-14 30/11/2022 tarihli ve 7423 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer
+16 30/11/2022 tarihli ve 7423 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer
 alan “kesintisiz yedi yıl” ibaresi “son sinyal alınmasından itibaren kesintisiz bir yıl” şeklinde, ikinci
 cümlesinde yer alan “yedi yıllık sürenin hesaplanmasında bu maddenin yürürlüğe girdiği tarihten”
 ibaresi “bir yıllık sürenin hesaplanmasında bu cümlede değişiklik yapan maddenin yürürlüğe girdiği
 tarihten” şeklinde değiştirilmiştir.
+17 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu kısım başlığında yer alan “Yetkisi”
+ibaresi “ve Başkanlığın Yetkileri” şeklinde değiştirilmiştir.
+suret veya numune alınması, konuyla ilgili yazılı veya sözlü açıklama istenmesi, gerekli
 tutanakların düzenlenmesi, tesislerin ve işletiminin incelenmesi konularında yetkilidir.
 Denetime tabi tutulanlar, denetimle görevli kişilere her türlü kolaylığı göstermek, yukarıda
 sayılan hususlarla ilgili taleplerini belirlenen süre içinde yerine getirmek, cihaz, sistem,
@@ -49,15 +51,15 @@ denetçi olarak görev alabilirler.
 belirlenir.
 
 İKİNCİ BÖLÜM
-Kurumun Yetkisi ve İdari Yaptırımlar
-Kurumun yetkisi ve idarî yaptırımlar15
+Kurumun ve Başkanlığın Yetkileri ve İdari Yaptırımlar18
+Kurumun yetkisi ve idarî yaptırımlar19
 
-15 24/12/2025 tarihli ve 7571 sayılı Kanunun 31 inci maddesiyle bu maddenin ikinci fıkrasında yer
+18 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu bölüm başlığında yer alan “Yetkisi”
+ibaresi “ve Başkanlığın Yetkileri” şeklinde değiştirilmiştir.
+19 24/12/2025 tarihli ve 7571 sayılı Kanunun 31 inci maddesiyle bu maddenin ikinci fıkrasında yer
 alan “halinde,” ibaresi “veya ilgili takvim yılına ilişkin net satışlarının belli olmaması hallerinde,”
 şeklinde değiştirilmiş, yedinci fıkrasına “Bu Kanunun” ibaresinden sonra gelmek üzere “50 nci
 maddesinin sekizinci ve dokuzuncu fıkralarına aykırı hareket eden işletmecilere hat başına
 yetmişbeşbin Türk Lirası; onuncu fıkrasına aykırı hareket eden işletmecilere hat başına kırkbin Türk
 Lirası; onbirinci fıkrasına aykırı hareket eden işletmecilere cihaz başına ikiyüzbin Türk Lirasından
 beşyüzbin Türk Lirasına kadar;” ibaresi eklenmiş ve dokuzuncu fıkrasına “bu tutarları” ibaresinden
-sonra gelmek üzere “tahsilat tarihinden iade edildiği tarihe kadar 6183 sayılı Kanunun 51 inci
-maddesine göre hesaplanacak tutarla birlikte” ibaresi eklenmiştir.

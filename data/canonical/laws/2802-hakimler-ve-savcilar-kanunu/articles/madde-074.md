@@ -8,4 +8,6 @@ uzaklaştırılan hâkim ve savcılara bu süre içinde aylık ve ödeneklerinin
 Görevden uzaklaştırma tedbiri kaldırılan hâkim ve savcılar hakkında 78 inci maddenin ikinci
 fıkrasındaki hükümler uygulanır.
 
+59 22/12/2005 tarihli ve 5435 sayılı Kanunun 27 nci maddesiyle bu madde başlığı "Ceza kovuşturması ile disiplin
+kovuşturmasının bir arada yürütülmesi:" iken metne işlendiği değiştirilmiştir.
 Disiplin cezalarının sicilden silinmesi:

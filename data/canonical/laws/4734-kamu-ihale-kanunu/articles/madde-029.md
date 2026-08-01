@@ -19,7 +19,7 @@ açıklama talep edebilir. Bu talebin idarece uygun görülmesi halinde yapılac
 kadar ihale dokümanı alan bütün isteklilere son teklif verme gününden on gün öncesinde bilgi
 sahibi olmalarını temin edecek şekilde ve açıklama talebinde bulunan istekli belirtilmeksizin
 
-32 30/7/2003 tarihli ve 4964 sayılı Kanunun 19 uncu maddesiyle bu maddenin son cümlesinde geçen
+33 30/7/2003 tarihli ve 4964 sayılı Kanunun 19 uncu maddesiyle bu maddenin son cümlesinde geçen
 “hazırlanma maliyetini” ibaresi, “basım maliyetini” olarak değiştirilmiştir.
 yazılı olarak gönderilir.
 

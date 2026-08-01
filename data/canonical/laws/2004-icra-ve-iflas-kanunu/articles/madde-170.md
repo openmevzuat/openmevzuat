@@ -16,6 +16,9 @@ ait olduğu anlaşılırsa ve itiraz ile birlikte takip ikinci fıkraya göre du
 edilen senede dayanan takip konusu alacağın yüzde yirmisinden aşağı olmamak üzere inkâr
 tazminatına ve takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilir
 ve itiraz reddedilir. Borçlu menfi tespit veya istirdat davası açarsa, hükmolunan tazminatın ve
+
+65 2/7/2012 tarihli ve 6352 sayılı Kanunun 34 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “yüzde
+kırktan” ibaresi “yüzde yirmisinden” olarak değiştirilmiştir.
 para cezasının tahsili dava sonuna kadar tehir olunur ve davanın borçlu lehine sonuçlanması
 hâlinde daha önce hükmedilmiş olan tazminat ve para cezası kalkar.66
 (Değişik birinci cümle: 17/7/2003-4949/47 md.) İcra mahkemesi, itirazın kabulüne

@@ -1,9 +1,6 @@
 # MADDE 13 — Öğrenim ücreti ve diğer ücretler, ücretsiz öğrenim ve yabancı uyruklu öğrenciler
 
 Öğrenim ücreti ve diğer ücretler, kurumlarca her yıl tespit edilerek ocak
-
-17 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 177 nci maddesiyle bu fıkrada yer
-alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 ayından itibaren en geç mayıs ayında ilân edilir.
 Ücretlerin hangi esaslara göre tespit, tayin, ilân ve tahsil edileceği yönetmelikle belirlenir.
 Kurumlar, öğrenim gören öğrenci sayısının yüzde üçünden az olmamak üzere ücretsiz

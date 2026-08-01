@@ -8,5 +8,5 @@ Bu Kanunun 31 ve 32 nci maddeleri ile 9 uncu maddesinin birinci fıkrası ve 93 
 maddesinin (a), (d), (f) ve (h) bentlerine aykırı davranışta bulunanlar, iki aydan iki yıla kadar
 hapis cezası ile cezalandırılır.
 
-19 Bu madde başlığı “Hürriyeti bağlayıcı cezayı ve para cezasını gerektiren davranışlar“ iken,
+20 Bu madde başlığı “Hürriyeti bağlayıcı cezayı ve para cezasını gerektiren davranışlar“ iken,
 23/1/2008 tarihli ve 5728 sayılı Kanunun 434 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.

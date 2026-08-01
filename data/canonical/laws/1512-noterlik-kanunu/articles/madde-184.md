@@ -3,7 +3,7 @@
 Noter Odası Yönetim Kurulu, noter odası başkanı ile iki üyeden kurulur.
 Başkan ve üyeler genel kurul tarafından verilen oyların çoğunluğu ile ve iki yıl için
 seçilir. Üçten fazla noter bulunan odalarda bir, 10 dan fazla noter bulunan odalarda da iki
-yedek üye seçilir.27
+yedek üye seçilir.28
 Başkanlığa ve yönetim kurulu asıl ve yedek üyeliğine seçilebilmek için noterliğe engel
 bir suçtan dolayı hakkında son soruşturma açılmasına karar verilmiş bulunmamak veya beş yıl
 içinde noterlik meslekinde geçici olarak işten çıkarma cezası almış olmamak gereklidir.

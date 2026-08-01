@@ -15,9 +15,6 @@ etmesini, haklı bir sebep olmaksızın teslim etmezse rüçhan hakkından mahru
 ihtar eder.113
 
 Tahsili güç ve ihtilaflı hakların alacaklılara devri:
-
-113 28/2/2018 tarihli ve 7101 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “336/a” ibaresi “26/9/2004
-tarihli ve 5237 sayılı Türk Ceza Kanununun 289 uncu” şeklinde değiştirilmiştir.
 Madde 309/ğ- (Ek: 17/7/2003-4949/84 md.)
 Alacaklılar kurulu, konkordato tasfiye memurlarının teklifi üzerine ihtilaflı veya tahsili
 güç bir alacaktan, özellikle bir iptal davasından, borçlunun organlarına veya çalışanlarına

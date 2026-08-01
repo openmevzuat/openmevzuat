@@ -1,6 +1,6 @@
 # GEÇİCİ MADDE 75
 
-(Ek: 21/3/2018-7103/73 md.)249
+(Ek: 21/3/2018-7103/73 md.)251
 Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında haklarında
 uzun vadeli sigorta kolları hükümleri uygulanan sigortalıları çalıştıran işverenlerce;
 a) 2017 yılının aynı ayına ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde
@@ -10,6 +10,9 @@ geçmemek üzere, 2018 yılında cari aya ilişkin verilen aylık prim ve hizmet
 muhtasar ve prim hizmet beyannamelerinde bildirilen sigortalılara ilişkin toplam prim ödeme
 gün sayısının,
 b) 2018 yılı içinde ilk defa bu Kanun kapsamına alınan işyerlerinden bildirilen
+
+251 Bu maddenin uygulanması ile ilgili olarak 20/6/2018 tarihli ve 30454 sayılı Resmi Gazete’de
+yayımlanan 9/4/2018 tarihli ve 2018/11668 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 sigortalılara ilişkin toplam prim ödeme gün sayısının,
 2018 yılı Ocak ila Eylül ayları/dönemleri için Bakanlar Kurulunca tespit edilen günlük
 tutar ile çarpımı sonucu bulunacak tutar, bu işverenlerin Kuruma ödeyecekleri sigorta
@@ -31,9 +34,6 @@ içerisinde vermediği, sigorta primlerini yasal süresinde ödemediği, denetim
 memurlarca yapılan soruşturma ve incelemelerde çalıştırdığı kişileri sigortalı olarak bildirmediği
 veya bildirilen sigortalının fiilen çalışmadığı durumlarının tespit edilmesi, Kuruma prim, idari
 para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunması hâllerinde bu
-
-249 Bu maddenin uygulanması ile ilgili olarak 20/6/2018 tarihli ve 30454 sayılı Resmi Gazete’de
-yayımlanan 9/4/2018 tarihli ve 2018/11668 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 maddenin birinci fıkrasının (b) bendine ilişkin hükümler uygulanmaz. Ancak Kuruma olan prim,
 idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borçlarını 6183 sayılı
 Kanunun 48 inci maddesine göre tecil ve taksitlendiren işverenler bu tecil ve taksitlendirme

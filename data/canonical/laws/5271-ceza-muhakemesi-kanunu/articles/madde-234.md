@@ -14,18 +14,16 @@ ve elkonulan ve muhafazaya alınan eşyayı inceletme,
 5. Cumhuriyet savcısının, kovuşturmaya yer olmadığı yönündeki kararına kanunda
 yazılı usule göre itiraz hakkını kullanma.
 b) Kovuşturma evresinde;
-1. Duruşmadan haberdar edilme,
-2. Kamu davasına katılma,
-3. Tutanak ve belgelerden örnek isteme,82
 
-80 8/7/2021 tarihli ve 7331 sayılı Kanunun 21 inci maddesiyle bu fıkraya “yapılacak çağrı”
+79 8/7/2021 tarihli ve 7331 sayılı Kanunun 21 inci maddesiyle bu fıkraya “yapılacak çağrı”
 ibaresinden sonra gelmek üzere “ve zorla getirme” ibaresi eklenmiştir.
-81 12/5/2022 tarihli ve 7406 sayılı Kanunun 10 uncu maddesiyle, birinci fıkranın (a) bendinin (3)
+80 12/5/2022 tarihli ve 7406 sayılı Kanunun 10 uncu maddesiyle, birinci fıkranın (a) bendinin (3)
 numaralı alt bendi ile (b) bendinin (5) numaralı alt bendinde yer alan “cinsel saldırı suçu ile”
 ibareleri “cinsel saldırı, çocukların cinsel istismarı veya ısrarlı takip suçları ile kadına karşı işlenen
 kasten yaralama, işkence veya eziyet suçlarında ve” şeklinde değiştirilmiştir.
-82 Anayasa Mahkemesi’nin 17/5/2012 tarihli ve E.: 2011/37, K.: 2012/69 sayılı Kararı ile bu alt bentte
-yer alan “… vekili aracılığı ile…” ibaresi iptal edilmiştir.
+1. Duruşmadan haberdar edilme,
+2. Kamu davasına katılma,
+3. Tutanak ve belgelerden örnek isteme,81
 4. Tanıkların davetini isteme,
 5. (Değişik: 24/7/2008-5793/40 md.) Vekili bulunmaması halinde, cinsel saldırı,
 çocukların cinsel istismarı veya ısrarlı takip suçları ile kadına karşı işlenen kasten yaralama,

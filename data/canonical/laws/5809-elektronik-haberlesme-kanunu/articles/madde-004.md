@@ -19,13 +19,13 @@ e) Bu Kanunda aksi belirtilmedikçe ya da objektif nedenler aksini gerektirmedik
 niteliksel ve niceliksel devamlılık, düzenlilik, güvenilirlik, verimlilik, açıklık, şeffaflık ve
 kaynakların verimli kullanılmasının gözetilmesi.
 f) Elektronik haberleşme sistemlerinin uluslararası normlara uygun olması.
-g) Teknolojik yeniliklerin uygulanması ile araştırma-geliştirme faaliyet ve yatırımlarının
-teşvik edilmesi.
 
 3 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu bentte yer
 alan “Hükümet programlarındaki hedefler ile Bakanlık tarafından belirlenen strateji ve politikaların
 gözetilmesi” ibaresi “üst politika metinleri ile Bakanlık tarafından belirlenen stratejilerin
 gözetilmesi” şeklinde değiştirilmiştir.
+g) Teknolojik yeniliklerin uygulanması ile araştırma-geliştirme faaliyet ve yatırımlarının
+teşvik edilmesi.
 ğ) Hizmet kalitesi artırımının teşvik edilmesi.
 h) Millî güvenlik ile kamu düzeni gereklerine ve acil durum ihtiyaçlarına öncelik
 verilmesi.

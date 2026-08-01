@@ -1,9 +1,6 @@
 # MADDE 272 — Yalan tanıklık
 
 (1) Hukuka aykırı bir fiil nedeniyle başlatılan bir soruşturma kapsamında
-
-104 29/6/2005 tarihli ve 5377 sayılı Kanunun 30 uncu maddesiyle bu fıkrada geçen "bu kişiye" ibaresi
-"başkasına" olarak değiştirilmiştir.
 tanık dinlemeye yetkili kişi veya kurul önünde gerçeğe aykırı olarak tanıklık yapan kimseye,
 dört aydan bir yıla kadar hapis cezası verilir.
 (2) Mahkeme huzurunda ya da yemin ettirerek tanık dinlemeye kanunen yetkili kişi

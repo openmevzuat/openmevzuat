@@ -211,6 +211,7 @@ kamuya açık bir yazılım vasıtası ile sunulan; sesli, yazılı, görsel ile
 arası elektronik haberleşme hizmetlerini,
 (ddd) (Ek:13/10/2022-7418/36 md.) Şebekeler üstü hizmet sağlayıcı: Şebekeler üstü
 hizmet tanımı kapsamına giren hizmetleri sunan gerçek veya tüzel kişiyi,
+(eee) (Ek:24/7/2026-7590/27 md.) Başkanlık: Siber Güvenlik Başkanlığını,
 ifade eder.
 
 MADDE 4 — İlkeler
@@ -234,13 +235,13 @@ e) Bu Kanunda aksi belirtilmedikçe ya da objektif nedenler aksini gerektirmedik
 niteliksel ve niceliksel devamlılık, düzenlilik, güvenilirlik, verimlilik, açıklık, şeffaflık ve
 kaynakların verimli kullanılmasının gözetilmesi.
 f) Elektronik haberleşme sistemlerinin uluslararası normlara uygun olması.
-g) Teknolojik yeniliklerin uygulanması ile araştırma-geliştirme faaliyet ve yatırımlarının
-teşvik edilmesi.
 
 3 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu bentte yer
 alan “Hükümet programlarındaki hedefler ile Bakanlık tarafından belirlenen strateji ve politikaların
 gözetilmesi” ibaresi “üst politika metinleri ile Bakanlık tarafından belirlenen stratejilerin
 gözetilmesi” şeklinde değiştirilmiştir.
+g) Teknolojik yeniliklerin uygulanması ile araştırma-geliştirme faaliyet ve yatırımlarının
+teşvik edilmesi.
 ğ) Hizmet kalitesi artırımının teşvik edilmesi.
 h) Millî güvenlik ile kamu düzeni gereklerine ve acil durum ihtiyaçlarına öncelik
 verilmesi.
@@ -266,8 +267,8 @@ MADDE 5
 
 (1) Bakanlığın elektronik haberleşme sektörüne ilişkin yetki ve görevleri
 şunlardır:
-a) Numaralandırma, internet alan adları, uydu pozisyonu, frekans tahsisi gibi kıt
-kaynaklara dayalı elektronik haberleşme hizmetlerine ilişkin strateji ve politikaları belirlemek.
+a) Numaralandırma, (…)5 uydu pozisyonu, frekans tahsisi gibi kıt kaynaklara dayalı
+elektronik haberleşme hizmetlerine ilişkin strateji ve politikaları belirlemek.
 b) Elektronik haberleşme sektörünün; serbest rekabet ortamında gelişimini teşvik
 etmeye ve bilgi toplumuna dönüşümün desteklenmesini sağlamaya yönelik hedef, ilke ve
 politikaları belirlemek ve bu amaçla teşvik edici tedbirleri almak.
@@ -277,12 +278,14 @@ ve birbirlerini tamamlayıcı şekilde yürütülmesini sağlamaya yönelik poli
 ç) Elektronik haberleşme cihazları sanayisinin gelişmesine ilişkin politikaların
 oluşumuna ve elektronik haberleşme cihazları bakımından yerli üretimi özendirici tedbirleri
 almaya yönelik politikaları belirlemeye katkıda bulunmak.
-d) Ülkemizin üyesi bulunduğu elektronik haberleşme sektörü ile ilgili uluslararası
-birlik ve kuruluşlar nezdinde 5/5/1969 tarihli ve 1173 sayılı Milletlerarası Münasebetlerin
-Yürütülmesi ve Koordinasyonu Hakkında Kanun hükümleri saklı kalmak üzere Devleti temsil
 
 4 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlü” ibaresi
 “engelli” şeklinde değiştirilmiştir.
+5 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu bentte yer alan “internet alan
+adları,” ibaresi madde metninden çıkarılmıştır.
+d) Ülkemizin üyesi bulunduğu elektronik haberleşme sektörü ile ilgili uluslararası
+birlik ve kuruluşlar nezdinde 5/5/1969 tarihli ve 1173 sayılı Milletlerarası Münasebetlerin
+Yürütülmesi ve Koordinasyonu Hakkında Kanun hükümleri saklı kalmak üzere Devleti temsil
 etmek veya temsile yetkilendirmek, çalışmalara katılım ve kararların uygulanması konusunda
 koordinasyonu sağlamak.
 e) Elektronik haberleşme politikalarının tespiti ve uygulanması amacıyla gerekli
@@ -310,7 +313,7 @@ etmek.
 
 MADDE 6 — Kurumun görev ve yetkileri
 
-(1) Kurumun görev ve yetkileri şunlardır:5
+(1) Kurumun görev ve yetkileri şunlardır:6
 a) Elektronik haberleşme sektöründe; rekabeti tesis etmeye ve korumaya, rekabeti
 engelleyici, bozucu veya kısıtlayıcı uygulamaların giderilmesine yönelik düzenlemeleri
 yapmak, bu amaçla ilgili pazarlarda etkin piyasa gücüne sahip işletmecilere ve gerekli
@@ -318,11 +321,11 @@ hallerde diğer işletmecilere yükümlülükler getirmek ve mevzuatın öngörd
 almak.
 b) Bu Kanun ve bu Kanuna dayanılarak yapılan düzenlemelere aykırı olarak,
 elektronik haberleşme sektöründe ortaya çıkan rekabet ihlallerini denetlemek, yaptırım
+
+6 6/2/2014 tarihli ve 6518 sayılı Kanunun 103 üncü maddesiyle bu maddenin birinci fıkrasına (ü)
+bendinden sonra gelmek üzere (v) bendi eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
 uygulamak, mevzuatın öngördüğü hallerde elektronik haberleşme sektöründe rekabet
 ihlallerine ilişkin konularda Rekabet Kurumundan görüş almak.
-
-5 6/2/2014 tarihli ve 6518 sayılı Kanunun 103 üncü maddesiyle bu maddenin birinci fıkrasına (ü)
-bendinden sonra gelmek üzere (v) bendi eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
 c) Abone, kullanıcı, tüketici ve son kullanıcıların hakları ile kişisel bilgilerin işlenmesi
 ve gizliliğinin korunmasına ilişkin gerekli düzenlemeleri ve denetlemeleri yapmak.
 ç) İşletmeciler ile tüketicileri ilgilendiren Kurul kararlarını gerekçe ve süreçleri ile
@@ -402,9 +405,7 @@ ilişkin usul ve esasları belirlemek.
 ü) Elektronik haberleşme sektöründe, bağımsız denetim faaliyetine ilişkin esasları,
 bağımsız denetleme faaliyetlerinde bulunacak kuruluşların kuruluş şartlarını, çalışma
 esaslarını ve çalıştıracağı personelin niteliklerini belirlemek.
-v) (Ek: 6/2/2014-6518/103 md.) (Değişik: 12/3/2025-7545/19 md.) İnternet alan
-adları ve Kurum görevleri konularında Cumhurbaşkanı ve Bakanlık tarafından verilen
-görevleri yerine getirmek.
+v) (Ek: 6/2/2014-6518/103 md.) (Mülga:24/7/2026-7590/27 md.)
 y) Bu Kanunla verilen görevlere ilişkin yönetmelik, tebliğ ve diğer ikincil
 düzenlemeleri çıkarmak.
 
@@ -538,7 +539,7 @@ geçmemek üzere, uluslararası yükümlülükler de dikkate alınarak işletmec
 (Ek cümleler: 28/11/2017-7061/97 md.) Ancak yıllık alınan idarî ücret, 10.000 Türk lirası alt
 sınırından daha az olamaz. Söz konusu alt sınır her yıl bir önceki yıla ilişkin olarak 4/1/1961
 tarihli ve 213 sayılı Vergi Usul Kanunu hükümlerine göre belirlenen yeniden değerleme oranında
-artırılmak suretiyle uygulanır. Buna ilişkin usul ve esaslar Kurum tarafından belirlenir.6
+artırılmak suretiyle uygulanır. Buna ilişkin usul ve esaslar Kurum tarafından belirlenir.7
 (3) Tespit edilen usul ve esaslar çerçevesinde belirlenen sürede idarî ücretlerin
 işletmeciler tarafından ödenmemesi halinde 21/7/1953 tarihli ve 6183 sayılı Amme
 Alacaklarının Tahsil Usulü Hakkında Kanunun 51 inci maddesinde belirlenen usule göre
@@ -549,7 +550,7 @@ maliyet ve toplanan idarî ücreti gösteren yıllık rapor yayımlar.
 (4) Kaynakların kullanım hakkının verilmesine ve söz konusu kaynakların etkin bir
 şekilde kullanılmasının teminine yönelik olarak kullanım hakkı ücreti alınır.
 (5) Kullanım hakkı ücretlerinin asgari değerleri, Kurumun önerisi ve Bakanlığın teklifi
-üzerine Cumhurbaşkanı tarafından belirlenir.7
+üzerine Cumhurbaşkanı tarafından belirlenir.8
 (6) Kullanım hakkı ücretleri, 5369 sayılı Kanun hükümleri saklı kalmak kaydıyla
 Hazineye gelir kaydedilmek üzere ilgili muhasebe birimine yatırılır. Zamanında ödenmeyen
 kullanım hakkı ücretleri, Kurumun bildirimi üzerine, 6183 sayılı Kanun hükümleri uyarınca,
@@ -560,16 +561,16 @@ MADDE 12 — İşletmecilerin hak ve yükümlülükleri
 (1) İşletmeci, Kurum düzenlemeleri ve yetkilendirmesinde öngörülen
 şartlara uygun olarak yetkilendirildiği kapsamdaki elektronik haberleşme hizmetini sunma
 hakkına sahiptir.
-(2) Kurum, işletmecilere sektörün ihtiyaçları, uluslararası düzenlemeler, teknolojide
-meydana gelen gelişmeler gibi hususları gözeterek aşağıdaki hususlar başta olmak üzere,
-mevzuat doğrultusunda yükümlülükler getirebilir:
 
-6 28/11/2017 tarihli ve 7061 sayılı Kanunun 97 nci maddesiyle bu fıkraya birinci cümlesinden sonra
+7 28/11/2017 tarihli ve 7061 sayılı Kanunun 97 nci maddesiyle bu fıkraya birinci cümlesinden sonra
 gelmek üzere eklenen cümlelerin; yine 7061 sayılı Kanunun 123 üncü maddesiyle 1/1/2018 tarihinden
 itibaren elde edilecek net satışlara uygulanmak üzere aynı tarihte yürürlüğe girmesi hüküm altına
 alınmıştır.
-7 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
+8 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+(2) Kurum, işletmecilere sektörün ihtiyaçları, uluslararası düzenlemeler, teknolojide
+meydana gelen gelişmeler gibi hususları gözeterek aşağıdaki hususlar başta olmak üzere,
+mevzuat doğrultusunda yükümlülükler getirebilir:
 a) İdari ücretler.
 b) Hizmetlerin birbiriyle uyumlu çalışabilmesi ve şebekelerarası arabağlantının
 sağlanması.
@@ -578,8 +579,7 @@ c) Ulusal numaralandırma planındaki numaralardan son kullanıcılara erişimin
 d) Kişisel veri ve gizliliğin korunması.
 e) Tüketicinin korunması.
 f) Kuruma bilgi ve belge verilmesi.
-g) Kanunlarla yetkili kılınan ulusal kurumlarca yasal dinleme ve müdahalenin
-yapılmasına teknik olanak sağlanması.
+g) (Mülga:24/7/2026-7590/27 md.)
 ğ) Afet durumlarındaki haberleşmenin kesintisiz devam edebilmesi için gerekli
 tedbirlerin alınması.
 h) Elektronik haberleşme şebekelerinden kaynaklanan elektromanyetik alanlara kamu
@@ -997,7 +997,7 @@ elektronik haberleşmenin aksamasına neden olacak biçimde müdahalelerde bulun
 MADDE 35 — İnternet alan adları
 
 (1) İnternet alan adlarının tahsisini yapacak kurum veya kuruluşun
-tespiti ile alan adı yönetimine ilişkin usul ve esaslar Bakanlık tarafından belirlenir.
+tespiti ile alan adı yönetimine ilişkin usul ve esaslar Başkanlık tarafından belirlenir.9
 
 ÜÇÜNCÜ KISIM
 Spektrum Yönetimi
@@ -1014,6 +1014,9 @@ tahsisi, uluslararası koordinasyon ile tescil işlemleri Kurum tarafından yap�
 b) Telsiz cihaz veya sistemi kurmak ve işletmek isteyenler Kuruma frekans tahsis ve
 tescil işlemlerini yaptırmak zorundadır. Ancak, bu Kanunun 37 nci maddesinde belirtilen,
 herhangi bir telsiz kurma ve kullanma iznine ve telsiz ruhsatnamesine ihtiyaç göstermeksizin
+
+9 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “Bakanlık” ibaresi
+“Başkanlık” şeklinde değiştirilmiştir.
 kullanılan telsiz cihaz ve sistemlerinde kullanılacak frekanslar için tahsis ve tescil işlemi
 yapılmaz.
 (2) Frekans tahsislerinde Dışişleri Bakanlığı, Jandarma Genel Komutanlığı ile Sahil
@@ -1148,7 +1151,7 @@ kalemleri ilave etmeye veya çıkarmaya ve eklenen hizmet kalemlerine ilişkin �
 belirlemeye, Cumhurbaşkanı yetkilidir. Ücret tarifesinde belirtilen ücretleri gerektiğinde her bir
 ücret kalemini yüzde ellisine kadar azaltmaya veya her yıl bir önceki yıla ilişkin olarak Maliye
 Bakanlığınca belirlenecek yeniden değerleme oranını geçmemek kaydıyla artırmaya, Kurum
-yetkilidir.8
+yetkilidir.10
 (2) Ancak, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol
 Kanununa ekli (I), (II) ve (III) sayılı cetvelde yer alan genel bütçe kapsamındaki kamu
 idareleri ve özel bütçeli idareler ile düzenleyici ve denetleyici kurumlar, köy tüzel kişilikleri,
@@ -1183,7 +1186,7 @@ kullanma izinleri ve telsiz ruhsatnameleri iptal edilir.
 (7) (Ek: 28/11/2017-7061/98 md.) Kurum tarafından sayısı sınırlandırılarak ulusal
 çapta, kamuya açık mobil elektronik haberleşme hizmeti sunmak üzere imtiyaz sözleşmeleri
 
-8 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
+10 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 ve/veya yetkilendirme belgelerine istinaden yetkilendirilen işletmeciler; bu Kanuna ekli ücret
 tarifesinin “1. TELSİZ RUHSATNAME ÜCRETLERİ” başlığı altında bulunan “b. Karasal
@@ -1220,14 +1223,14 @@ getirebilir.
 (2) İşletmeciler, özellikle hizmetler arasında seçim yapılırken ve abonelik sözleşmesi
 kurulurken tüketicilerin karar vermelerinde etkili olabilecek hususlar ile dürüstlük kuralı
 gereğince bilgilendirilmelerinin gerekli olduğu her durumda talep olmaksızın tüketicileri
-bilgilendirir.9
+bilgilendirir.11
 (3) Kurum bu maddenin uygulanmasına ilişkin usul ve esasları belirler.
 
-Abonelik sözleşmeleri1011
+Abonelik sözleşmeleri1213
 
-9 18/6/2020 tarihli ve 7247 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan
+11 18/6/2020 tarihli ve 7247 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan
 “imzalanırken” ibaresi “kurulurken” şeklinde değiştirilmiştir.
-10 23/10/2014 tarihli ve 6563 sayılı Kanunun 14 üncü maddesiyle, bu maddeye altıncı ve
+12 23/10/2014 tarihli ve 6563 sayılı Kanunun 14 üncü maddesiyle, bu maddeye altıncı ve
 yedinci fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 
 MADDE 50
@@ -1257,7 +1260,7 @@ feshedebilme hakkına sahiptir. İşletmeciler, sözleşmede yapılacak değişi
 girmeden en az bir ay önce abonelerini bilgilendirmekle ve söz konusu değişikliklerin abone
 tarafından kabul edilmemesi halinde abonelerin herhangi bir tazminat ödemeden sözleşmeyi
 fesh edebilme haklarının bulunduğunu bildirmekle yükümlüdürler. Aboneler taleplerini
-bildirmek kaydıyla aboneliklerini her zaman sona erdirebilir.12
+bildirmek kaydıyla aboneliklerini her zaman sona erdirebilir.14
 (5) (Değişik: 23/10/2014-6563/14 md.) İşletmeciler tarafından, sundukları hizmetlere
 ilişkin olarak abone ve kullanıcılarla, önceden izinleri alınmaksızın otomatik arama
 makineleri, fakslar, elektronik posta, kısa mesaj gibi elektronik haberleşme vasıtalarının
@@ -1268,10 +1271,10 @@ propaganda içerikli haberleşme yapamazlar.
 iletişim bilgilerinin bir mal ya da hizmetin sağlanması sırasında, bu tür haberleşmenin
 yapılacağına dair bilgilendirilerek ve reddetme imkânı sağlanarak edinilmiş olması hâlinde,
 
-11 24/12/2025 tarihli ve 7571 sayılı Kanunun 30 uncu maddesiyle bu maddeye yedinci
+13 24/12/2025 tarihli ve 7571 sayılı Kanunun 30 uncu maddesiyle bu maddeye yedinci
 fıkrasından sonra gelmek üzere fıkralar eklenmiş, maddenin mevcut sekizinci fıkrası buna
 göre teselsül ettirilmiştir.
-12 18/6/2020 tarihli ve 7247 sayılı Kanunun 10 uncu maddesiyle, bu fıkranın üçüncü cümlesinde yer
+14 18/6/2020 tarihli ve 7247 sayılı Kanunun 10 uncu maddesiyle, bu fıkranın üçüncü cümlesinde yer
 alan “yazılı olarak” ibaresi “taleplerini” şeklinde değiştirilmiştir.
 abone ve kullanıcılarla önceden izin alınmaksızın aynı veya benzer mal ya da hizmetlerle
 ilgili pazarlama, tanıtım, değişiklik ve bakım hizmetleri için haberleşme yapılabilir.
@@ -1443,7 +1446,7 @@ veya tanıtımı yapılamaz, bulundurulamaz, aracılık edilemez.
 yapılması amacıyla kullanılabilen yazılım, her türlü araç veya gereçlere 4/12/2004 tarihli ve
 5271 sayılı Ceza Muhakemesi Kanununun 127 nci maddesi hükümlerine göre el konulur.
 
-MADDE 56 — Abone ve cihaz kimlik bilgilerinin güvenliği13
+MADDE 56 — Abone ve cihaz kimlik bilgilerinin güvenliği15
 
 (1) Abone kimlik ve iletişim bilgilerini taşıyan özel bilgiler ile
 cihazların elektronik kimlik bilgilerini taşıyan her türlü yazılım, kart, araç veya gereç yetkisiz
@@ -1484,12 +1487,12 @@ süre de dikkate alınır. (Değişik cümle:30/11/2022-7423/9 md.) Bu suretle e
 bilgileri kayıtlı olmaktan çıkarılan cihazlar son kullanıcılarına ait bir hat ile kullanıldığında,
 bu cihazların elektronik kimlik bilgileri başka bir işleme gerek kalmaksızın tekrar kayıtlı hâle
 
-13 6/2/2014 tarihli ve 6518 sayılı Kanunun 104 üncü maddesiyle bu maddeye üçüncü fıkrasından sonra
+15 6/2/2014 tarihli ve 6518 sayılı Kanunun 104 üncü maddesiyle bu maddeye üçüncü fıkrasından sonra
 gelmek üzere dördüncü ve beşinci fıkralar eklenmiş ve mevcut dördüncü fıkrası altıncı fıkra olarak
 teselsül ettirilmiştir.
 getirilir. (Ek cümle:30/11/2022-7423/9 md.) Elektronik kimlik bilgileri bu suretle tekrar
 kayıtlı hâle getirilemeyen cihazlar için Kurum düzenlemeleri çerçevesinde başvuru yapılması
-gerekir.14
+gerekir.16
 (4) (Ek:17/7/2019-7186/23 md.) Bu maddenin uygulanmasına ve cihaza ilişkin
 borcun ödenmemesi hâlinde cihazların MCKS üzerinden kullanıma kapatılmasına ilişkin usul
 ve esaslar Kurum tarafından belirlenir.
@@ -1504,7 +1507,7 @@ cihazının elektronik haberleşme bağlantısının kesilmesi için öncelikle 
 başvururlar.
 
 ALTINCI KISIM
-Denetim, Kurumun Yetkisi, İdari Yaptırımlar
+Denetim, Kurumun ve Başkanlığın Yetkileri, İdari Yaptırımlar17
 
 BİRİNCİ BÖLÜM
 Denetim
@@ -1525,13 +1528,15 @@ bulundururlar.
 (2) Denetimle görevlendirilenler, denetime tabi olanlar veya tesisleri nezdinde,
 defterler de dahil olmak üzere her türlü evrak ve emtianın, elektronik ortamdaki bilgilerin,
 elektronik haberleşme alt yapısının, cihaz, sistem, yazılım ve donanımlarının incelenmesi,
-suret veya numune alınması, konuyla ilgili yazılı veya sözlü açıklama istenmesi, gerekli
 
-14 30/11/2022 tarihli ve 7423 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer
+16 30/11/2022 tarihli ve 7423 sayılı Kanunun 9 uncu maddesiyle bu fıkranın birinci cümlesinde yer
 alan “kesintisiz yedi yıl” ibaresi “son sinyal alınmasından itibaren kesintisiz bir yıl” şeklinde, ikinci
 cümlesinde yer alan “yedi yıllık sürenin hesaplanmasında bu maddenin yürürlüğe girdiği tarihten”
 ibaresi “bir yıllık sürenin hesaplanmasında bu cümlede değişiklik yapan maddenin yürürlüğe girdiği
 tarihten” şeklinde değiştirilmiştir.
+17 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu kısım başlığında yer alan “Yetkisi”
+ibaresi “ve Başkanlığın Yetkileri” şeklinde değiştirilmiştir.
+suret veya numune alınması, konuyla ilgili yazılı veya sözlü açıklama istenmesi, gerekli
 tutanakların düzenlenmesi, tesislerin ve işletiminin incelenmesi konularında yetkilidir.
 Denetime tabi tutulanlar, denetimle görevli kişilere her türlü kolaylığı göstermek, yukarıda
 sayılan hususlarla ilgili taleplerini belirlenen süre içinde yerine getirmek, cihaz, sistem,
@@ -1561,18 +1566,18 @@ denetçi olarak görev alabilirler.
 belirlenir.
 
 İKİNCİ BÖLÜM
-Kurumun Yetkisi ve İdari Yaptırımlar
-Kurumun yetkisi ve idarî yaptırımlar15
+Kurumun ve Başkanlığın Yetkileri ve İdari Yaptırımlar18
+Kurumun yetkisi ve idarî yaptırımlar19
 
-15 24/12/2025 tarihli ve 7571 sayılı Kanunun 31 inci maddesiyle bu maddenin ikinci fıkrasında yer
+18 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu bölüm başlığında yer alan “Yetkisi”
+ibaresi “ve Başkanlığın Yetkileri” şeklinde değiştirilmiştir.
+19 24/12/2025 tarihli ve 7571 sayılı Kanunun 31 inci maddesiyle bu maddenin ikinci fıkrasında yer
 alan “halinde,” ibaresi “veya ilgili takvim yılına ilişkin net satışlarının belli olmaması hallerinde,”
 şeklinde değiştirilmiş, yedinci fıkrasına “Bu Kanunun” ibaresinden sonra gelmek üzere “50 nci
 maddesinin sekizinci ve dokuzuncu fıkralarına aykırı hareket eden işletmecilere hat başına
 yetmişbeşbin Türk Lirası; onuncu fıkrasına aykırı hareket eden işletmecilere hat başına kırkbin Türk
 Lirası; onbirinci fıkrasına aykırı hareket eden işletmecilere cihaz başına ikiyüzbin Türk Lirasından
 beşyüzbin Türk Lirasına kadar;” ibaresi eklenmiş ve dokuzuncu fıkrasına “bu tutarları” ibaresinden
-sonra gelmek üzere “tahsilat tarihinden iade edildiği tarihe kadar 6183 sayılı Kanunun 51 inci
-maddesine göre hesaplanacak tutarla birlikte” ibaresi eklenmiştir.
 
 MADDE 60
 
@@ -1612,6 +1617,9 @@ uygulanır. Bu fıkradaki idarî para cezaları Kurumun taşra teşkilatı taraf
 (6) Bu Kanunun 53 üncü maddesinin birinci fıkrasına aykırılık hallerinde, 4703 sayılı
 Kanunun 12 nci maddesinde dağıtıcı, üretici ve onaylanmış kuruluşlar bakımından
 öngörülmüş bulunan idarî para cezaları bir katından dört katına kadar artırılarak uygulanır.
+
+sonra gelmek üzere “tahsilat tarihinden iade edildiği tarihe kadar 6183 sayılı Kanunun 51 inci
+maddesine göre hesaplanacak tutarla birlikte” ibaresi eklenmiştir.
 (7) Bu Kanunun 50 nci maddesinin sekizinci ve dokuzuncu fıkralarına aykırı hareket
 eden işletmecilere hat başına yetmişbeşbin Türk Lirası; onuncu fıkrasına aykırı hareket eden
 işletmecilere hat başına kırkbin Türk Lirası; onbirinci fıkrasına aykırı hareket eden
@@ -1632,40 +1640,27 @@ işletmecinin tüketiciye ulaşamaması veya Kurum tarafından haklı görülen 
 nedenle işletmeci tarafından iadelerin gerçekleştirilememesi halinde, bu iade bedelleri
 evrensel hizmet gelirleri olarak genel bütçeye gelir kaydedilmek üzere Bakanlığın merkez
 muhasebe birimi hesabına yatırılır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Kurum
-tarafından belirlenir.16
+tarafından belirlenir.20
 (10) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
-Anayasanın 22 nci maddesinde sayılan sebeplerden biri veya birkaçına bağlı olarak, gecikmesinde
-sakınca bulunan hâllerde Cumhurbaşkanlığı, alınması gereken tedbirleri belirler ve uygulanmak
-üzere Kuruma bildirir. Kurum Başkanı, Cumhurbaşkanlığının gerekli gördüğü tedbirlere ilişkin
-kararını derhal işletmecilere, erişim sağlayıcılara, veri merkezlerine ve ilgili içerik ve yer
-sağlayıcılara bildirir. Bu kararın gereği, derhal ve kararın bildirilmesi anından itibaren en geç iki
-saat içinde yerine getirilir. Bu karar, yirmidört saat içinde sulh ceza hâkiminin onayına sunulur.
-Hâkim kararını kırksekiz saat içinde açıklar, aksi halde karar kendiliğinden kalkar.1718
+(Mülga:24/7/2026-7590/27 md.)
 (11) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
 (Mülga: 12/3/2025-7545/19 md.)
 (12) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
 Kurum, görevi kapsamında ilgili yerlerden bilgi, belge, veri ve kayıtları alabilir ve
 değerlendirmesini yapabilir; arşivlerden, elektronik bilgi işlem merkezlerinden ve iletişim
-
-16 28/11/2017 tarihli ve 7061 sayılı Kanunun 99 uncu maddesiyle, mevcut sekizinci fıkrası ile onikinci
-fıkradan sonra gelmek üzere dokuzuncun ve onüçüncü fıkralar eklenmiş ve diğer fıkralar buna göre
-teselsül ettirilmiştir.
-17 15/8/2016 tarihli ve 671 sayılı KHK’nin 25 inci maddesiyle sekizinci fıkradan sonra gelmek üzere
-‘’dokuz, on, onbir ve onikinci’’ fıkralar eklenmiş ve diğer fıkra buna göre teselsül ettirilmiş olup, daha
-sonra bu hüküm 9/11/2016 tarihli ve 6757 sayılı Kanunun 22 nci maddesiyle aynen kabul edilerek
-kanunlaşmıştır.
-18 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle 60 ıncı
-maddenin onuncu fıkrasında yer alan “Başbakanlık” ibaresi “Cumhurbaşkanlığı” şeklinde,
-“Başbakanlığın” ibaresi “Cumhurbaşkanlığının” şeklinde ve onikinci fıkrasında yer alan
-“Başbakanlıkça” ibaresi “Cumhurbaşkanlığınca” şeklinde değiştirilmiştir.
 altyapısından yararlanabilir, bunlarla irtibat kurabilir ve bu kapsamda diğer gerekli önlemleri
 alabilir veya aldırabilir. Kurum, bu fıkrada belirtilen görevlerin ifasında bakanlıklar, kurum ve
 kuruluşlar ile işbirliği içerisinde çalışır. Bu kapsamda Kurum tarafından istenen her türlü bilgi
 ve belge talebi; ilgili bakanlık, kurum ve kuruluşlar tarafından gecikmeksizin yerine getirilir.
 Bu fıkraya göre bilgi ve belge talebinde bulunulması ve bu taleplerin yerine getirilmesine
-ilişkin usul ve esaslar ile diğer hususlar Cumhurbaşkanlığınca belirlenir.18
+ilişkin usul ve esaslar ile diğer hususlar Cumhurbaşkanlığınca belirlenir.Hata! Yer işareti
+tanımlanmamış.
 (13) (Ek: 15/8/2016-KHK-671/25 md.; Aynen kabul: 9/11/2016-6757/22 md.)
 Gerçek kişiler ile özel hukuk tüzel kişileri, Kurumun bu maddedeki görevleri ile ilgili
+
+20 28/11/2017 tarihli ve 7061 sayılı Kanunun 99 uncu maddesiyle, mevcut sekizinci fıkrası ile onikinci
+fıkradan sonra gelmek üzere dokuzuncun ve onüçüncü fıkralar eklenmiş ve diğer fıkralar buna göre
+teselsül ettirilmiştir.
 taleplerini, tabi oldukları mevzuat hükümlerini gerekçe göstermek suretiyle yerine
 getirmekten kaçınamazlar. İşletmeciler dışında Kurumun görevleri ile ilgili yükümlülüklerini
 yerine getirmeyenlere bu maddenin ikinci fıkrasındaki yaptırım uygulanır.
@@ -1708,6 +1703,32 @@ bilgi veya belgenin on gün içinde fiziki veya elektronik ortamda gönderilmesi
 İstenen bilgi veya belgenin gönderilmemesi ya da eksik gönderilmesi halinde Cumhuriyet
 savcısı tarafından işletmeciye ellibin Türk Lirasından üçyüzbin Türk Lirasına kadar idari para
 cezası verilir.
+
+MADDE 60/A — Başkanlığın yetkisi ve idari yaptırımlar
+
+(Ek:24/7/2026-7590/21 md.)
+(1) İnternet alan adlarına ilişkin strateji ve politikaları belirlemeye ve düzenleme
+yapmaya Başkanlık yetkilidir.
+(2) Anayasanın 22 nci maddesinde sayılan sebeplerden biri veya birkaçına bağlı
+olarak, gecikmesinde sakınca bulunan hâllerde Başkanlık, güvenlik ve istihbarat kurumlarının
+talebi üzerine veya re’sen alınması gereken tedbirleri belirleyebilir ve bu tedbirlere ilişkin
+kararı uygulanmak üzere derhal işletmecilere, erişim sağlayıcılara, veri merkezlerine ve ilgili
+içerik ve yer sağlayıcılara bildirir. Bu kararın gereği, derhal ve kararın bildirilmesi anından
+itibaren en geç iki saat içinde yerine getirilir. Bu karar, yirmidört saat içinde sulh ceza
+hâkiminin onayına sunulur. Hâkim kararını kırksekiz saat içinde açıklar, aksi halde karar
+kendiliğinden kalkar.
+(3) Başkanlık, bu Kanunda düzenlenen görev ve yetkileriyle ilgili olarak
+yükümlülüğünü yerine getirmeyen ilgililere ihlal teşkil eden eylem başına yirmi bin Türk
+lirasından yüz bin Türk lirasına kadar idari para cezası verebilir.
+(4) Bu madde uyarınca Başkanlık tarafından verilen idari para cezaları 6183 sayılı
+Kanun hükümlerine tabi olup, tebliğ tarihinden itibaren otuz gün içinde ilgisine göre
+Başkanlık hesaplarına ödenir. Bu süre içinde ödenmeyen idari para cezaları, Başkanlığın
+bildirimi üzerine ilgili vergi dairesince 6183 sayılı Kanun hükümlerine göre tahsil olunur.
+Tahsil edilen idari para cezalarının tamamı Başkanlık hesaplarına aktarılır.
+(5) Bu madde uyarınca Başkanlık tarafından verilecek idari para cezası ve diğer idari
+yaptırım kararlarına karşı yetkili idare mahkemesinde dava açılabilir. Başkanlık kararlarına
+karşı açılan her türlü dava öncelikli işlerden sayılır. Başkanlık tarafından açılacak davalarda
+teminat aranmaz.
 
 MADDE 61 — İdarî para cezalarının uygulanması ve tahsili
 
@@ -1772,27 +1793,24 @@ kadar adli para cezası uygulanır.
 hakkında bin günden on beş bin güne kadar adlî para cezasına hükmolunur.
 (10) Bu Kanunun 56 ncı maddesinin birinci fıkrası hükümlerine aykırı hareket edenler
 bin günden beş bin güne kadar; ikinci, üçüncü, dördüncü ve beşinci fıkralarına aykırı hareket
-ederek bu işi bizzat yapanlar elli günden yüz güne kadar adli para cezası ile cezalandırılır.19
+ederek bu işi bizzat yapanlar elli günden yüz güne kadar adli para cezası ile cezalandırılır.21
 (11) Bu maddede tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi
 halinde, verilecek cezalar yarısı oranında artırılır. Bu faaliyette bulunan tüzel kişi ise,
 hakkında 5237 sayılı Kanundaki bunlara özgü güvenlik tedbirlerine de hükmolunur.
 
 SEKİZİNCİ KISIM
-
-19 6/2/2014 tarihli ve 6518 sayılı Kanunun 105 inci maddesi ile bu fıkrada yer alan “ikinci fıkrası
-hükümlerine aykırı hareket edenler yirmi günden yüz güne kadar; üçüncü fıkrası hükümlerine aykırı
-hareket edenler yüz günden beş yüz güne kadar” ibaresi “ikinci, üçüncü, dördüncü ve beşinci
-fıkralarına aykırı hareket ederek bu işi bizzat yapanlar elli günden yüz güne kadar” şeklinde
-değiştirilmiştir.
 Son Hükümler
 Tebligat
 
 MADDE 64
 
-(1) Bu Kanun uyarınca Bakanlık ve Kurum tarafından ilgililere
-yapılacak tebliğler 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine göre yapılır.
+(1) Bu Kanun uyarınca Bakanlık, Başkanlık ve Kurum tarafından
+ilgililere yapılacak tebliğler 11/2/1959 tarihli ve 7201 sayılı Tebligat Kanunu hükümlerine
+göre yapılır.22
 
-MADDE 65 — Atıflar ve uygulama
+Atıflar ve uygulama
+
+MADDE 65
 
 (1) Diğer mevzuatta, hizmet alanları itibariyle, 4/2/1924 tarihli ve 406
 sayılı Telgraf ve Telefon Kanunu ve 5/4/1983 tarihli ve 2813 sayılı Telsiz Kanununa yapılan
@@ -1807,6 +1825,15 @@ MADDE 66 — Yürürlükten kaldırılan hükümler
 (1) 406 sayılı Kanunun 1 inci maddesinin birinci fıkrası, yedinci fıkrası
 ve dokuzuncu fıkrasının ilk cümlesi; ek 17 nci, ek 19 uncu, ek 21 inci, ek 22 nci, ek 23 üncü,
 ek 24 üncü, ek 28 inci, ek 29 uncu, ek 30 uncu maddeleri; ek 32 nci maddesinin dördüncü ve
+
+21 6/2/2014 tarihli ve 6518 sayılı Kanunun 105 inci maddesi ile bu fıkrada yer alan “ikinci fıkrası
+hükümlerine aykırı hareket edenler yirmi günden yüz güne kadar; üçüncü fıkrası hükümlerine aykırı
+hareket edenler yüz günden beş yüz güne kadar” ibaresi “ikinci, üçüncü, dördüncü ve beşinci
+fıkralarına aykırı hareket ederek bu işi bizzat yapanlar elli günden yüz güne kadar” şeklinde
+değiştirilmiştir.
+22 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkraya “Bakanlık” ibaresinden
+sonra gelmek üzere “, Başkanlık” ibaresi eklenmiştir.
+
 altıncı fıkraları; ek 33 üncü maddesi; ek 35 inci maddesinin ikinci fıkrası; ek 36 ncı, ek 37 nci,
 geçici 3 üncü, 35 inci ve 36 ncı maddeleri dışındaki madde ve hükümleri ek ve
 değişiklikleriyle birlikte yürürlükten kaldırılmıştır.
@@ -2028,18 +2055,12 @@ MADDE 69 — Yürütme
 
 (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-TELSİZ ÜCRETLERİ20
+TELSİZ ÜCRETLERİ23
 1. TELSİZ RUHSATNAME ÜCRETLERİ
 a. Telsiz verici-alıcı cihazları (karada kullanılan, ruhsatnamede kayıtlı
 her cihaz için)
 1) Mobil telsiz (Araç/portatif/el) 20.00 TL
 2) Tekrarlayıcı (sabit/seyyar) telsiz 100.00 TL
-
-20 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
-Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘’ 1. TELSİZ
-RUHSATNAME ÜCRETLERİ’’ başlığı altında bulunan ‘’ f. Uydu yayın ve haberleşme sistemleri (yüzer
-araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı bölümünün (1),(3),(4),(5) ve (6)
-numaralı sıralarında yer alan hizmet kalemleri yürürlükten kaldırılmıştır.
 3) Sabit telsiz 50.00 TL
 b. Karasal mobil (cellular) telsiz telefon sistemi
 1) Her baz istasyonu için 100.00 TL
@@ -2057,17 +2078,23 @@ sistemleri (ruhsatnamede kayıtlı her cihaz için)
 1) Merkez istasyonu veya tekrarlayıcılar kanal adedi başına 50.00 TL
 2) Kullanıcı telsiz cihazları (cihaz adedi başına)
 a) Sabit telsiz cihazı 25.00 TL
+
+23 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
+Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘’ 1. TELSİZ
+RUHSATNAME ÜCRETLERİ’’ başlığı altında bulunan ‘’ f. Uydu yayın ve haberleşme sistemleri (yüzer
+araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı bölümünün (1),(3),(4),(5) ve (6)
+numaralı sıralarında yer alan hizmet kalemleri yürürlükten kaldırılmıştır.
 b) Mobil telsizi (Araç/portatif/el) 10.00 TL
 e. Radyolink sistemleri
 1) Sistemde bulunan her cihaz başına 100.00 TL
 f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında
 monteli olarak kullanılanlar hariç)
-1) (…)20
+1) (…)23
 2) Sabit uydu ana yer istasyonu 1,000.00 TL
-3) (…)20
-4) (…)20
-5) (…)20
-6) (…)20
+3) (…)23
+4) (…)23
+5) (…)23
+6) (…)23
 7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) 15.00 TL
 2. TELSİZ KULLANMA ÜCRETLERİ ( HER YIL İÇİN)
 a. Kara telsiz sistemleri
@@ -2123,13 +2150,19 @@ frekansının band genişliğine göre cihaz adedi başına
 6) 140 MHz-250 MHz (dahil) 640.00 TL
 7) 250 MHz ve üzeri 1,280.00 TL
 f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında
-monteli olarak kullanılanlar hariç)21
-1) (…)21
+monteli olarak kullanılanlar hariç)24
+1) (…)24
+
+24 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
+Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘f. Uydu yayın ve
+haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı
+bölümünün (1),(3),(4),(5) ve (6) numaralı sıralarında yer alan hizmet kalemleri yürürlükten
+kaldırılmıştır.
 2) Sabit uydu ana yer istasyonu 1,000.00 TL
-3) (…)21
-4) (…)21
-5) (…)21
-6) (…)21
+3) (…)24
+4) (…)24
+5) (…)24
+6) (…)24
 7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) 15.00 TL
 3. GEÇİCİ SÜRE İLE VERİLEN TELSİZ KURMA VE KULLANMA
 İZİN ÜCRETLERİ
@@ -2143,12 +2176,6 @@ SNG, vb gibi.)
 b. İzin verilen telsiz sisteminin bu tarifedeki ruhsatname ve kullanma ücreti
 ayrıca alınır. Ruhsatname ücreti tam alınır. Kullanma ücreti kıst olarak alınır.
 Ay kesirleri tam aya iblağ edilir.
-
-21 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
-Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘f. Uydu yayın ve
-haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı
-bölümünün (1),(3),(4),(5) ve (6) numaralı sıralarında yer alan hizmet kalemleri yürürlükten
-kaldırılmıştır.
 4. STANDARTLARA UYGUNLUK MUAYENESİ VE TEST
 ÜCRETLERİ
 a) Yurt dışından getirilen numuneler ve Türkiye’de imal edilen prototip

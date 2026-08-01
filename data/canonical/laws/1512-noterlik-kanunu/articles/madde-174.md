@@ -6,6 +6,6 @@ Kurul, seçimden sonraki ilk toplantısında kendi üyeleri arasından bir başk
 Türkiye Noterler Birliği Disiplin Kurulu üyeleri dört yıl için seçilir. Süresi dolan üye
 yeniden seçilebilir.
 171 inci maddenin 1, 2, 3, 4, 5, 6, 9 ve 10 uncu fıkraları hükümleri burada da kıyasen
-uygulanır.26
+uygulanır.27
 
 Türkiye Noterler Birliği Disiplin Kurulunun görevleri ve toplantıları:

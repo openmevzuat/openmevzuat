@@ -4,11 +4,11 @@ Kurumca finansmanı sağlanmayacak sağlık hizmetleri şunlardır:
 a) Vücut bütünlüğünü sağlamak amacıyla yapılan ve iş kazası ile meslek hastalığına,
 kazaya, hastalıklara veya konjenital nedenlere bağlı olarak ortaya çıkan durumlarda yapılacak
 sağlık hizmetleri dışında estetik amaçlı yapılan her türlü sağlık hizmeti ile estetik amaçlı
+ortodontik diş tedavileri.
 
 109 Bu madde başlığı “Kurumca sağlanmayacak sağlık hizmetleri “ iken, 17/4/2008 tarihli ve 5754
 sayılı Kanunun 41 inci maddesiyle metne işlendiği şekilde değiştirilmiş ve birinci fıkrasına
 “Kurumca” ibaresinden sonra gelmek üzere “finansmanı” ibaresi eklenmiştir.
-ortodontik diş tedavileri.
 b) Geleneksel, tamamlayıcı, alternatif tıp uygulamaları ve Sağlık Bakanlığınca izin
 veya ruhsat verilmeyen sağlık hizmetleri ile Sağlık Bakanlığınca tıbben sağlık hizmeti olduğu
 kabul edilmeyen sağlık hizmetleri.110

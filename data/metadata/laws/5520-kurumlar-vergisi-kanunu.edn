@@ -5,12 +5,12 @@
  :document/slug "5520-kurumlar-vergisi-kanunu",
  :document/path "data/canonical/laws/5520-kurumlar-vergisi-kanunu",
  :document/sha256
- "0608e4271afa804bcc48258c0523a792268839df4bd8be53b600c89cd5e2f91e",
+ "e7dffef3008ed71f0233d846e197468287e29d1bfb66c96490fd8d6cd36ed652",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5520.pdf",
- :source/fetched-at #inst "2026-07-16T02:40:28.952-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-01T07:24:25.963-00:00",
+ :openmevzuat/baseline-date "2026-08-01",
+ :openmevzuat/generated-at #inst "2026-08-01T07:22:52.535-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -531,6 +531,13 @@
    :article/path "articles/gecici-madde-019.md",
    :article/sha256
    "ea69a6d8d36554e718b53c3a1c3c66084803c355ea7afbb0f86f68c8777ceefe"}
+  {:article/id "law/5520/article/20",
+   :article/type :temporary,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/gecici-madde-020.md",
+   :article/sha256
+   "5e6209da6b226bdcdbaa09cbd61139266c2cb3dc82d6a755265b82348df7990e"}
   {:article/id "law/5520/article/37",
    :article/type :normal,
    :article/no "37",

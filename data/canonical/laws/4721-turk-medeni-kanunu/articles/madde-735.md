@@ -7,7 +7,7 @@ belirtilmemişse taşınmazın üçüncü kişiye satışındaki koşullar esas 
 Yasal önalım hakkının kullanılmasına ve vazgeçmeye ilişkin hükümler sözleşmeden
 doğan önalım hakkında da uygulanır.
 
-37 24/12/2025 tarihli ve 7571 sayılı Kanunun 35 inci maddesiyle bu fıkrada yer alan “iki yıl” ibaresi “bir
+39 24/12/2025 tarihli ve 7571 sayılı Kanunun 35 inci maddesiyle bu fıkrada yer alan “iki yıl” ibaresi “bir
 yıl” şeklinde değiştirilmiştir.
 
 3. Alım ve geri alım hakları

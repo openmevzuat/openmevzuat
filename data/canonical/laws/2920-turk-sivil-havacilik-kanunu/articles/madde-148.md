@@ -1,4 +1,4 @@
-# MADDE 148
+# MADDE 148 — Yönetmelikler28
 
 Bu Kanunda belirtilen yönetmelikler Resmi Gazete'de yayımlanarak
 yürürlüğe konulur.

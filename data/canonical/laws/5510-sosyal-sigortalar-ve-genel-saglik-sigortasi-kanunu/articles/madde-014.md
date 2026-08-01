@@ -9,11 +9,6 @@ düzenlenen sağlık kurulu raporu ve dayanağı tıbbî belgelerin incelenmesi,
 b) Kurumca gerekli görüldüğü hallerde, işyerindeki çalışma şartlarını ve buna bağlı
 tıbbî sonuçlarını ortaya koyan denetim raporları ve gerekli diğer belgelerin incelenmesi,
 sonucu Kurum Sağlık Kurulu tarafından tespit edilmesi zorunludur.
-
-25 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özüre uğratan”
-ibaresi “engelli hâle getiren” şeklinde değiştirilmiştir.
-26 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülük” ibaresi
-“engellilik” şeklinde değiştirilmiştir.
 Meslek hastalığı, işten ayrıldıktan sonra meydana çıkmış ve sigortalı olarak çalıştığı işten
 kaynaklanmış ise, sigortalının bu Kanunla sağlanan haklardan yararlanabilmesi için, eski işinden
 fiilen ayrılmasıyla hastalığın meydana çıkması arasında bu hastalık için Kurum tarafından
@@ -37,6 +32,11 @@ ve kontrol ile yetkilendirilen memurları tarafından veya Bakanlık iş müfett
 yaptırılabilir.
 Hangi hallerin meslek hastalığı sayılacağı, iş kazası ve meslek hastalığı bildirgesinin
 şekli ve içeriği, verilme usûlü ile bu maddenin uygulanmasına ilişkin diğer usûl ve esaslar,
+
+26 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülük” ibaresi
+“engellilik” şeklinde değiştirilmiştir.
+27 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle bu bentte yer alan “(a) ve (c) bentleri”
+ibaresi “(a) bendi olarak değiştirilmiştir.
 Kurum tarafından çıkarılacak yönetmelikte düzenlenir. Yönetmelikte belirlenmiş hastalıklar
 dışında herhangi bir hastalığın meslek hastalığı sayılıp sayılmaması hususunda çıkabilecek
 uyuşmazlıklar, Sosyal Sigorta Yüksek Sağlık Kurulunca karara bağlanır.

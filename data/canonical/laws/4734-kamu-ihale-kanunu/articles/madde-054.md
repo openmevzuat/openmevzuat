@@ -23,17 +23,17 @@ belirlemeye Kurum yetkilidir.
 İtirazen şikayette bulunanlardan 53 üncü maddenin (j) bendinin (2) nolu alt bendinde
 belirtilen bedelin dört katı tutarına kadar başvuru teminatı alınmasına Cumhurbaşkanınca karar
 verilebilir. Başvuru teminatları Kurum hesaplarına yatırılır. Bu teminatlar Kurum gelirleri ile
-ilişkilendirilmeksizin ayrı hesaplarda tutulur.57
+ilişkilendirilmeksizin ayrı hesaplarda tutulur.58
 (Mülga yedinci fıkra:28/1/2021-7263/10 md.)
 Aynı kişi tarafından birden fazla ihaleye, birden fazla kişi tarafından ise aynı ihaleye tek
 dilekçe ile başvuruda bulunulamaz.
 (Ek: 6/2/2014-6518/50 md.) Başvuruların ihaleyi yapan idare veya Kurum dışındaki idari
 
-55 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu Bölüm başlığı “İnceleme Talebinde
+56 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu Bölüm başlığı “İnceleme Talebinde
 Bulunulması ve Şikâyetlerin İncelenmesi” iken, metne işlendiği şekilde değiştirilmiştir.
-56 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İnceleme talebinde
+57 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İnceleme talebinde
 bulunulması” iken, metne işlendiği şekilde değiştirilmiştir.
-57 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
+58 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
 ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 mercilere ya da yargı mercilerine yapılması ve başvuru dilekçelerinin bu merciler tarafından
 ilgisine göre idareye veya Kuruma gönderilmesi hâlinde, dilekçelerin idare veya Kurum

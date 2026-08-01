@@ -47,12 +47,8 @@ Hizmetleri Sınıfı” şeklinde değiştirilmiştir.
 subaylıkta” ibaresi “okul devresi dâhil yedek astsubaylık ve yedek subaylıkta” şeklinde değiştirilmiştir.
 ve emeklilik keseneğine esas aylık derecelerinin yükselmesinde gözönüne alınır. Ancak
 atandıkları kadro aylıkları, başka görevlere atanma halinde kazanılmış hak sayılmaz.
-(Ek paragraf: 2/7/2018 - KHK-703/172 md.) Cumhurbaşkanı onayıyla yapılan
-atamalarda Cumhurbaşkanlığı kararnamesinde öngörülen hizmet süresi şartları aranır. Üst
-kademe kamu yöneticisi sayılmayan daire başkanı ve bu kadrolara denk yönetici kadrolarına
-yapılacak atamalarda bu bentte öngörülen hizmet süresi yükseköğrenim gördükten sonra beş
-yıl olarak uygulanır. Ancak bu beş yıllık sürenin hesabında Devlet memurlarının kazanılmış
-hak aylık derece ve kademesinde değerlendirilen hizmet süreleri esas alınır.
+(Ek paragraf: 2/7/2018 - KHK-703/172 md.) (Mülga paragraf:24/7/2026-7590/2
+md.)
 C) (Ek: 13/2/2011 - 6111/101 md.) Derece yükselmesi ile ilgili onay mercii atamaya
 yetkili amirdir. Müşterek kararla atanmış olanların derece yükselmeleri, ilgili bakanın veya
 yetkili kıldığı makamın onayı ile yapılır. Üst derece kadroya atanmış olup da kazanılmış hak

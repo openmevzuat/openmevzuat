@@ -11,6 +11,11 @@ mahkemeye gönderilmesine duruşma yapmadan kesin olarak karar verir:
 vermiş olması veya mahkemenin görevli ya da yetkili olmamasına rağmen davaya bakmış
 bulunması (…)48
 4) Diğer dava şartlarına aykırılık bulunması.
+
+48 20/7/2017 tarihli ve 7035 sayılı Kanunun 29 uncu maddesiyle, bu maddenin birinci fıkrasının (a)
+bendinin (3) numaralı alt bendinde yer alan “veyahut mahkemenin bölge adliye mahkemesinin yargı
+çevresi dışında kalması” ibaresi ile bendin (5) numaralı alt bendinde yer alan “, merci tayinine”
+ibaresi madde metninden çıkarılmıştır.
 5) Mahkemece usule aykırı olarak davanın veya karşı davanın açılmamış sayılmasına,
 davaların birleştirilmesine veya ayrılmasına, (…)48 karar verilmiş olması.
 6) (Değişik:22/7/2020-7251/35 md.) Mahkemece, uyuşmazlığın çözümünde etkili
@@ -18,11 +23,6 @@ olabilecek ölçüde önemli delillerin toplanmamış veya değerlendirilmemiş 
 önemli bir kısmı hakkında karar verilmemiş olması.
 b) Aşağıdaki durumlarda davanın esasıyla ilgili olarak;
 1) İncelenen mahkeme kararının usul veya esas yönünden hukuka uygun olduğu
-
-48 20/7/2017 tarihli ve 7035 sayılı Kanunun 29 uncu maddesiyle, bu maddenin birinci fıkrasının (a)
-bendinin (3) numaralı alt bendinde yer alan “veyahut mahkemenin bölge adliye mahkemesinin yargı
-çevresi dışında kalması” ibaresi ile bendin (5) numaralı alt bendinde yer alan “, merci tayinine”
-ibaresi madde metninden çıkarılmıştır.
 anlaşıldığı takdirde başvurunun esastan reddine,
 2) Yargılamada eksiklik bulunmamakla beraber, kanunun olaya uygulanmasında hata
 edilip de yeniden yargılama yapılmasına ihtiyaç duyulmadığı takdirde veya kararın

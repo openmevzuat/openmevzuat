@@ -3,6 +3,10 @@
 (Değişik: 17/4/2008-5754/23 md.)
 Evlenmeleri nedeniyle, gelir veya aylıklarının kesilmesi gereken kız çocuklarına
 evlenmeleri ve talepte bulunmaları halinde almakta oldukları aylık veya gelirlerinin iki yıllık
+
+54 17/4/2017 tarihli ve 690 sayılı KHK’nin 36 ncı maddesiyle, bu fıkrada yer alan “üçüncü fıkrasının
+(d) ve (e)” ibaresi “dördüncü fıkrasının (d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm
+1/2/2018 tarihli ve 7077 sayılı Kanunun 32 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 tutarı bir defaya mahsus olmak üzere evlenme ödeneği olarak peşin ödenir. Evlenme ödeneği
 alan hak sahibinin aylığının kesildiği tarihten itibaren iki yıl içerisinde yeniden hak sahibi
 olması halinde, iki yıllık sürenin sonuna kadar gelir veya aylık bağlanmaz, bu durumda olanlar

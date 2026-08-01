@@ -1,6 +1,6 @@
 # MADDE 149 — Ses ve görüntü nakledilmesi yoluyla veya başka yerde duruşma icrası
 
-(Başlığı ile Birlikte Değişik:22/7/2020-7251/17 md.)
+(Başlığı ile Birlikte Değişik:22/7/2020-7251/17 md.)18
 (1) Mahkeme, taraflardan birinin talebi üzerine talep eden tarafın veya vekilinin, aynı
 anda ses ve görüntü nakledilmesi yoluyla bulundukları yerden duruşmaya katılmalarına ve
 usul işlemleri yapabilmelerine karar verebilir.

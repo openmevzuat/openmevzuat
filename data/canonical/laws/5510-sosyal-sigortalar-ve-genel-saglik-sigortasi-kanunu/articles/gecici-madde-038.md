@@ -12,14 +12,14 @@ görevi devam edenler ile daha önce yasama organı üyeliği görevi sona ermi�
 dışarıdan bakanlığa atanmış olanlardan halen milletvekilliği esas alınarak emekli aylığı
 ödenenlerin, bu Kanunun 43 üncü maddesine göre aylığa hak kazanabilmesinde, aynı
 maddenin altıncı fıkrasının birinci cümlesinde belirtilen 2 yıllık süre şartı aranmaz.
+
+237 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakat kalanlara”
+ibaresi “engelli hâle gelenlere” şeklinde değiştirilmiştir.
 (Ek fıkra: 10/1/2013-6385/17 md.) Bu fıkranın yürürlüğe girdiği tarih itibarıyla Türkiye
 Büyük Millet Meclisi üyeliği görevi devam edenlerden, Kanunun 4 üncü maddesinin birinci
 fıkrasının (a) veya (b) bentleri kapsamında aylık almakta iken aylıklarını kestirip 4 üncü
 maddenin birinci fıkrasının (c) bendi kapsamında sigortalılık talebinde bulunanların, bu Kanunun
 43 üncü maddesine göre aylığa hak kazanabilmesinde, 2 yıl süreyle bu görevlerde bulunmuş olma
-
-235 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakat kalanlara”
-ibaresi “engelli hâle gelenlere” şeklinde değiştirilmiştir.
 ve sigorta primi veya emekli keseneği ile kurum karşılığı ödenmesine ilişkin şartlar aranmaz.
 Bunların müracaatları halinde bu fıkranın yürürlüğe girdiği tarihi takip eden ay başından itibaren
 Kanunun 4 üncü maddesinin birinci fıkrasının (a) veya (b) bentleri kapsamında olan ve kesilen

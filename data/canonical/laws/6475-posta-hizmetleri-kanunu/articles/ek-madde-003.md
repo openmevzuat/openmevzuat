@@ -7,7 +7,3 @@ bir safhasında alınabilir. Görevden uzaklaştırmaya; atamaya yetkili amirler
 denetçiler yetkilidir.
 (2) Görevden uzaklaştırmaya ilişkin işlemler, 657 sayılı Kanunun Dördüncü Kısmının
 “Görevden Uzaklaştırma” başlıklı Sekizinci Bölümünde yer alan hükümlere göre yapılır.
-
-İKİNCİ BÖLÜM
-Geçici ve Son Hükümler
-Yönetmelikler

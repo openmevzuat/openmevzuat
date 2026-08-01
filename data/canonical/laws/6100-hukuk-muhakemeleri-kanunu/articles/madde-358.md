@@ -1,4 +1,4 @@
-# MADDE 358
+# MADDE 358 — Duruşmaya gelinmemesi ve giderlerin ödenmemesi
 
 (1) Duruşmalı olarak incelenen işlerde taraflara çıkartılan davetiyelerde,
 duruşmada hazır bulunmadıkları takdirde tahkikatın yokluklarında yapılarak karar verileceği

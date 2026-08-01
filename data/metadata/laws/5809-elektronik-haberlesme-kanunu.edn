@@ -6,12 +6,12 @@
  :document/path
  "data/canonical/laws/5809-elektronik-haberlesme-kanunu",
  :document/sha256
- "49fb08b05b1518c83b26874c2375cdb2c3017df08678d8123e8b043555e2bcf0",
+ "da080826a52914d1d71d36dea40d7e6e92cb4a6e848fd0e9f8d0f5bf0eddeb90",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5809.pdf",
- :source/fetched-at #inst "2026-07-16T02:43:16.844-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-01T07:24:30.680-00:00",
+ :openmevzuat/baseline-date "2026-08-01",
+ :openmevzuat/generated-at #inst "2026-08-01T07:22:52.535-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -36,28 +36,28 @@
    :article/title nil,
    :article/path "articles/madde-003.md",
    :article/sha256
-   "d34eedafa9d05a982d5e8c621dd2929027321647b59396ec861401b298a45291"}
+   "767df529bb637f466dc8ec6f1136e8739ef6fa947c7026597e46ed02d868a31b"}
   {:article/id "law/5809/article/4",
    :article/type :normal,
    :article/no "4",
    :article/title "İlkeler",
    :article/path "articles/madde-004.md",
    :article/sha256
-   "b3fa783d2e09a0d12fae79b5107838e9c546c27f524286560d1a3618c53eca83"}
+   "7b9c5aeacb8578d2d3ec566a99e4b7267c7886564a1c8aed2fea944a3e2e7541"}
   {:article/id "law/5809/article/5",
    :article/type :normal,
    :article/no "5",
    :article/title nil,
    :article/path "articles/madde-005.md",
    :article/sha256
-   "7a1fda10a312154d3445c1b70647956b0e125bd4f890660e1c865a0a86126a07"}
+   "4780ae3cf1fed5d93bf7b421a16dce7bd317fc3d8b1b0a4573904ae7c54de029"}
   {:article/id "law/5809/article/6",
    :article/type :normal,
    :article/no "6",
    :article/title "Kurumun görev ve yetkileri",
    :article/path "articles/madde-006.md",
    :article/sha256
-   "e6f92680c9c58bf7bb2c2018ac07492bc70645e8fbe9ca2288c2c319f36be50a"}
+   "adf24d04110be039b6cf93ab5c34d6f525cef758a2a1c7c7633ac1da3666f9fb"}
   {:article/id "law/5809/article/7",
    :article/type :normal,
    :article/no "7",
@@ -92,14 +92,14 @@
    :article/title "Yetkilendirme ücreti",
    :article/path "articles/madde-011.md",
    :article/sha256
-   "c25fbd0d37785cbc17e7cd5a91f2a67cb24cdb1e58c69a30e7b4fd51d0e16275"}
+   "d241f3a3242c8eb8323d87a037bdc168cf210fccb8e611ff2c0c00e56305d0bf"}
   {:article/id "law/5809/article/12",
    :article/type :normal,
    :article/no "12",
    :article/title "İşletmecilerin hak ve yükümlülükleri",
    :article/path "articles/madde-012.md",
    :article/sha256
-   "4923502b96fc91801b74a9631a9799363ec4f729a0d31412d961e01ef7e45496"}
+   "2355a3d16e3259cab2720535441daaa806dbc815377f97301bbccd8fcd0e4c08"}
   {:article/id "law/5809/article/13",
    :article/type :normal,
    :article/no "13",
@@ -262,14 +262,14 @@
    :article/title "İnternet alan adları",
    :article/path "articles/madde-035.md",
    :article/sha256
-   "0fa90ad1ef1fca0a875d600f9c031a614cc90dd2d87d340c1f70dd7edaea0061"}
+   "fc54a050b2acd226fcde74fc79552ec37e3afd5b545486819f4ca13d1de55375"}
   {:article/id "law/5809/article/36",
    :article/type :normal,
    :article/no "36",
    :article/title nil,
    :article/path "articles/madde-036.md",
    :article/sha256
-   "9149d015ee3aa6af27d46af0a9d7fe3cf678c7b4a34e269e04a83cddc72becf4"}
+   "83b9ef920bb1361952926cb9fa7691fbe6fcc40bb8f966d4e1557d77c9095441"}
   {:article/id "law/5809/article/37",
    :article/type :normal,
    :article/no "37",
@@ -343,7 +343,7 @@
    :article/title "Telsiz ücretleri",
    :article/path "articles/madde-046.md",
    :article/sha256
-   "a0578fb88a4638b3b9f9e9e69d7b23c900ca8ceda026b6b448ea2c2ab2a7323b"}
+   "d6f84ce451acc99d953e4d38959f36da10662c084be8555eec43f463c897f15a"}
   {:article/id "law/5809/article/47",
    :article/type :normal,
    :article/no "47",
@@ -364,14 +364,14 @@
    :article/title "Şeffaflığın sağlanması ve bilgilendirme",
    :article/path "articles/madde-049.md",
    :article/sha256
-   "ec2c6dce0514b4101b876d21052ff344d129f572b7480da8d2aac0387df676c2"}
+   "6bea671307c81ef92d3baccc51b4ad6ffecd585685c96a3637215c0b7878ed8f"}
   {:article/id "law/5809/article/50",
    :article/type :normal,
    :article/no "50",
    :article/title nil,
    :article/path "articles/madde-050.md",
    :article/sha256
-   "f6e9fdf9b11f1171c5743737faeae8acc6047e95489da10f8f7f0cc38edd58bc"}
+   "3b798873485a17aa6aaee969de3fb87ff8985b69a9eb2d29cc33e0cf694e958c"}
   {:article/id "law/5809/article/51",
    :article/type :normal,
    :article/no "51",
@@ -411,38 +411,45 @@
   {:article/id "law/5809/article/56",
    :article/type :normal,
    :article/no "56",
-   :article/title "Abone ve cihaz kimlik bilgilerinin güvenliği13",
+   :article/title "Abone ve cihaz kimlik bilgilerinin güvenliği15",
    :article/path "articles/madde-056.md",
    :article/sha256
-   "1f4ee8b10c4f7faba3605959cf1df1622a2db8ecc29cfb38cdb072853efa478c"}
+   "333ca6190e0280ff0bc4d1ad3943625c496230640d24a123dcede6df553a7dcc"}
   {:article/id "law/5809/article/57",
    :article/type :normal,
    :article/no "57",
    :article/title "Teknik uyumluluk",
    :article/path "articles/madde-057.md",
    :article/sha256
-   "59ec51a7dbfa2f5481d168702028b6557b3b847a6617e917551636f047a40347"}
+   "f241e3b6085ec082af55f7ebee93bf815da436d7435552c2f1b5e5702933b8ef"}
   {:article/id "law/5809/article/58",
    :article/type :normal,
    :article/no "58",
    :article/title "Bilgi ve ihbar merkezi",
    :article/path "articles/madde-058.md",
    :article/sha256
-   "13f427d1164866c8e378ef91b6474a272028772ac991434814bee23ff9dbefba"}
+   "b845b844b2623781d1982863b8feaf987b44eb8a0c14bb4804134550ca7c6372"}
   {:article/id "law/5809/article/59",
    :article/type :normal,
    :article/no "59",
    :article/title nil,
    :article/path "articles/madde-059.md",
    :article/sha256
-   "a1c4c8e83882a9dd5397f66c9e51da984563a396bfc6db45cd9eddb3ea8240fb"}
+   "194072e2dc341a4bb10df9f340608462d9bbdcef681488e80ed619645f76ee54"}
   {:article/id "law/5809/article/60",
    :article/type :normal,
    :article/no "60",
    :article/title nil,
    :article/path "articles/madde-060.md",
    :article/sha256
-   "5b2f4f1fb21268495f2ce1647665443b0b4ea3d020d78b8babb9c58f15d6413b"}
+   "5d0865bc31795e5ec78fe8f6690ca90a002e598eda3c68e4be02843bda8cfb55"}
+  {:article/id "law/5809/article/60/A",
+   :article/type :normal,
+   :article/no "60/A",
+   :article/title "Başkanlığın yetkisi ve idari yaptırımlar",
+   :article/path "articles/madde-060-a.md",
+   :article/sha256
+   "abbe03bfa2fb404583acb0f91779d71e9225df223a7e3bfc5ae972b9e975c6be"}
   {:article/id "law/5809/article/61",
    :article/type :normal,
    :article/no "61",
@@ -463,28 +470,28 @@
    :article/title nil,
    :article/path "articles/madde-063.md",
    :article/sha256
-   "856b592848efa6eeb5b8deb693eb2d307335068f8bcd2ea8f065f0f993052910"}
+   "d0c6318a9e724b1b9a916d8ab2f543a488f6477d56aa3ee17ca729a48884113a"}
   {:article/id "law/5809/article/64",
    :article/type :normal,
    :article/no "64",
    :article/title nil,
    :article/path "articles/madde-064.md",
    :article/sha256
-   "36b2243db6d55109a057967edf26b4faa41fde15ddea6dd0f750906461227516"}
+   "2617ac40c9eb984cbeb937a65c4bc99afb4c7731cf3273e7751535dfb28bf5df"}
   {:article/id "law/5809/article/65",
    :article/type :normal,
    :article/no "65",
-   :article/title "Atıflar ve uygulama",
+   :article/title nil,
    :article/path "articles/madde-065.md",
    :article/sha256
-   "d6d21e6454d684b7b26dbd7f502de5d7d772692c22cc79ad2de2f2cd99ff1919"}
+   "47c0cabf4ff255acd9727589b1ad70148812f52b11843cbb8bf7eb3423a115ac"}
   {:article/id "law/5809/article/66",
    :article/type :normal,
    :article/no "66",
    :article/title "Yürürlükten kaldırılan hükümler",
    :article/path "articles/madde-066.md",
    :article/sha256
-   "5bf14b660bae53722196efa9d756c3388eaa6fd160a86b10440b0ddf4b30b42a"}
+   "30d8b53627d3a95b4b415b5905a148ee823c3c54f001ee85dded5b3d5f4c9ea3"}
   {:article/id "law/5809/article/67",
    :article/type :normal,
    :article/no "67",
@@ -576,4 +583,4 @@
    :article/title "Yürütme",
    :article/path "articles/madde-069.md",
    :article/sha256
-   "dab0ce60af66bb1d537a2d8da5655b934f8771edabdcc1280d57fc7accb08613"}]}
+   "c6a4fba1aaef576d444150e429994159447ed82b044883470fe0166dd3572ca1"}]}

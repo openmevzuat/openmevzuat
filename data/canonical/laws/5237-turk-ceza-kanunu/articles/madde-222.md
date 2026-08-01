@@ -1,4 +1,4 @@
-# MADDE 222
+# MADDE 222 — Şapka ve Türk harfleri
 
 (Mülga: 2/3/2014-6529/16 md.)
 
