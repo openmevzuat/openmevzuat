@@ -4,4 +4,4 @@
 
 DÖRDÜNCÜ BÖLÜM
 Atamalar
-Atama esasları:
+Atama ve görev süresi:

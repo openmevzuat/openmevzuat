@@ -19,7 +19,4 @@ mevzuatına göre uzman olan kişiler, özel hukuk kişileri ve/veya vakıf üni
 sağlık kurum ve kuruluşları bünyesinde hizmet vermeleri hâlinde sözleşmelerinde aksine bir
 hüküm bulunmadıkça bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında
 sigortalı sayılır. Ancak, bu maddenin yayımı tarihinden önce 4 üncü maddenin birinci
-
-195 4/12/2025 tarihli ve 7566 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “%32,5” ibaresi
-“%33,5”, “%20’si” ibaresi “%21’i” şeklinde değiştirilmiştir.
 fıkrasının (a) bendi kapsamında sigortalı olarak çalışılan sürelere ilişkin haklar saklıdır.

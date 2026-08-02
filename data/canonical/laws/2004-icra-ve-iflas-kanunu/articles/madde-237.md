@@ -6,6 +6,9 @@ tamamen veya kısmen idarece kabul edilen alacaklılar ile sıra cetveline kayı
 alacaklılardan 235 inci maddeye göre katılmalarına karar verilmiş olanları da ikinci toplantıya
 ilanla davet eder.
 İlan, en az yirmi gün evvel yapılır ve ilanın birer nüshası alacaklılara gönderilir.
+
+75 28/2/2018 tarihli ve 7101 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “297 nci maddenin son
+fıkrasına” ibaresi “302 nci maddenin altıncı fıkrasına” şeklinde değiştirilmiştir.
 Konkordato teklifi hakkında müzakere cereyan edecekse davette bu cihet de
 bildirilmelidir.
 Toplanmıya iflas memuru veya yardımcısı reislik eder. 221 inci maddenin 2 ve 3 üncü

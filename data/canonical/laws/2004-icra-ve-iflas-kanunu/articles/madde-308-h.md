@@ -1,12 +1,6 @@
 # MADDE 308/h
 
 (Ek: 28/2/2018-7101/38 md.)
-
-106 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
-107 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 Adi konkordatoda borçlu, ön projede belirtmek suretiyle, alacaklı lehine rehin tesis
 edilmiş borçlarının yapılandırılmasını bu madde uyarınca talep eder.
 Komiser, kesin mühlet içinde uygun göreceği zamanda bütün rehinli alacaklıları
@@ -17,6 +11,10 @@ alacaklıların, alacak miktarı itibarıyla üçte ikiyi aşan çoğunluğu ile
 komiser, imzalanan anlaşmaları tutanağa bağlar ve rehinli alacaklılarla anlaşma yapıldığını
 302 nci madde uyarınca mahkemeye tevdi edeceği gerekçeli raporuna ayrı ve bağımsız bir
 başlık altında işler.
+
+107 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
+üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
+Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 Borçlunun tekliflerinin alacak miktarı itibarıyla üçte ikiyi aşan çoğunlukla kabul
 edilmesi hâlinde, borçlu ile anlaşamayan rehinli alacaklı, konkordato talep tarihinden itibaren,
 taraflar arasındaki sözleşmede kararlaştırılan temerrüt öncesi faiz oranı uygulanmak suretiyle,

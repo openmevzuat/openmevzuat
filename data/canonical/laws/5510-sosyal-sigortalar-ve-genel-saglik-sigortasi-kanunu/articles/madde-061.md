@@ -1,17 +1,8 @@
-# MADDE 61 — Genel sağlık sigortalılığının başlangıcı, bildirimi ve tescili
+# MADDE 61
 
 Genel sağlık sigortalılığı başlangıcının tespiti ve tescil işlemleri
 aşağıdaki hükümlere göre yürütülür. 60 ıncı maddenin birinci fıkrasının;
 a) (a) ve (b) bentlerinde sayılanlar; sigortalı veya isteğe bağlı sigortalı olarak tescil
-
-103 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle; bu fıkranın birinci cümlesine “yedek
-subay nasıp tarihi arasında,” ibaresinden sonra gelmek üzere “yedek astsubay öğrencileri ve adayları
-askere sevk tarihi ile yedek astsubay nasıp tarihi arasında, genel sağlık sigortalısı olmayan yedek
-personelden seferberlik tatbikatları veya eğitimleri maksadıyla silah altına alınanlar tatbikat ve eğitim
-sevk tarihi ile terhis tarihi arasında,” ibaresi eklenmiştir.
-104 18/2/2021 tarihli ve 7281 sayılı Kanunun 36 ncı maddesiyle, bu fıkranın birinci cümlesine “yemin
-ettikleri tarih arasında” ibaresinden sonra gelmek üzere “, devre kaybeden askerî öğrenciler ve
-Jandarma ve Sahil Güvenlik Akademisi öğrencileri devre kaybettikleri sürelerde” ibaresi eklenmiştir.
 edildikleri tarihten itibaren genel sağlık sigortalısı sayılır ve ayrıca bir bildirime gerek
 olmaksızın tescil edilmiş sayılır.
 b) (Değişik: 17/4/2008-5754/39 md.) (c) bendinde sayılanlardan; (1) numaralı alt
@@ -43,8 +34,6 @@ sayılırlar ve Kurumca resen tescil edilirler.
 (Değişik ikinci fıkra: 17/4/2008-5754/39 md.) 60 ıncı madde gereği genel sağlık
 sigortalısı sayılanların çocukları, ana ya da babanın tescil edilmiş olmasına bakılmaksızın ve
 ayrıca bir işleme gerek olmaksızın 18 yaşını dolduruncaya kadar genel sağlık sigortalısı veya
-genel sağlık sigortalısının bakmakla yükümlü olduğu kişi olarak sağlık hizmetlerinden ve
-diğer haklardan yararlandırılır. (Mülga ikinci cümle: 21/5/2013-6486/2 md.)
 
 105 4/4/2013 tarihli ve 6458 sayılı Kanunun 123 üncü maddesiyle, bu bentte yer alan “vatansız ve
 sığınmacı sayıldıkları” ibaresi “uluslararası koruma başvurusu yaptıkları veya uluslararası koruma
@@ -53,6 +42,8 @@ statüsü aldıkları veya vatansız kişi sayıldıkları” şeklinde değişt
 ibaresi “işsizlik, Esnaf Ahilik Sandığı veya” şeklinde ve “işsizlik ödeneğinin” ibaresi “işsizlik veya
 Esnaf Ahilik Sandığı ödeneğinin” şeklinde değiştirilmiştir. 6824 sayılı Kanunun 25 inci maddesiyle,
 söz konusu ibarelerin 1/1/2018 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.
+genel sağlık sigortalısının bakmakla yükümlü olduğu kişi olarak sağlık hizmetlerinden ve
+diğer haklardan yararlandırılır. (Mülga ikinci cümle: 21/5/2013-6486/2 md.)
 (Değişik üçüncü fıkra: 17/4/2008-5754/39 md.) 60 ıncı madde gereği genel sağlık
 sigortalısı iken durumunda değişiklik olan kişilerden, aynı maddenin birinci fıkrasının (c)
 bendinin (1) numaralı alt bendine veya (g) bendi kapsamına giren kişiler durumlarında
@@ -91,6 +82,5 @@ idaresi tarafından yapılır.107108
 
 107 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle; bu fıkrada yer alan alan “er ve
 erbaşlar ile yedek subay öğrencileri” ibaresi “er ve erbaşlar ile yedek subay ve yedek astsubay
-öğrencileri” şeklinde değiştirilmiş ve yine bu fıkraya “sevk tarihi,” ibaresinden sonra gelmek üzere
 Genel sağlık sigortası giriş bildirgesinin içerik ve şekli ile bu maddenin uygulanmasına
 ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle düzenlenir.

@@ -1,13 +1,10 @@
-# GEÇİCİ MADDE 9 — Emeklilik yaşına ilişkin bazı geçiş hükümleri214
+# GEÇİCİ MADDE 9 — Emeklilik yaşına ilişkin bazı geçiş hükümleri216
 
 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında olup
 da 8/9/1999 tarihinden 30/4/2008 tarihine kadar ilk defa sigortalı sayılanlar; kadın ise 58,
 erkek ise 60 yaşını doldurmak ve 7000 gün malullük, yaşlılık ve ölüm sigortaları primi
 ödemiş olmak şartıyla veya kadın ise 58, erkek ise 60 yaşını doldurmak ve 25 yıldan beri
 sigortalı bulunmak ve en az 4500 gün malullük, yaşlılık ve ölüm sigortaları primi ödemiş
-
-214 17/4/2008 tarihli ve 5754 sayılı Kanunun 70 inci maddesiyle; bu maddenin birinci ve üçüncü fıkralarında
-yer alan “bu Kanunun yürürlük” ibareleri “30/4/2008” olarak değiştirilmiştir.
 olmak şartıyla yaşlılık aylığından yararlanırlar.
 (Değişik fıkra: 17/4/2008-5754/70 md.) 4 üncü maddenin birinci fıkrasının (b) bendi
 kapsamında olup da 8/9/1999 tarihinden 30/4/2008 tarihine kadar ilk defa sigortalı sayılanlar
@@ -33,6 +30,9 @@ b) En az 25 yıldan beri Bakanlıkça tespit edilen maden işyerlerinin yeraltı
 yeraltı münavebeli işlerinde çalışan ve bu işlerde en az 4000 gün malullük, yaşlılık ve ölüm
 sigortaları primi ödeyen sigortalılara da 28 inci maddenin ikinci fıkrasının (a) bendindeki yaş
 şartları aranmaksızın 8100 gün prim ödemiş sigortalılar gibi yaşlılık aylığı bağlanır.
+
+216 17/4/2008 tarihli ve 5754 sayılı Kanunun 70 inci maddesiyle; bu maddenin birinci ve üçüncü fıkralarında
+yer alan “bu Kanunun yürürlük” ibareleri “30/4/2008” olarak değiştirilmiştir.
 c) 50 yaşını dolduran ve malullük, yaşlılık ve ölüm sigortalarına tâbi çalışmalarının en
 az 1800 gününü Bakanlıkça tespit edilen maden işyerlerinin yeraltı işlerinde geçirmiş olan
 sigortalılara da birinci fıkrada belirtilen diğer şartlarla yaşlılık aylığı bağlanır.
@@ -45,4 +45,4 @@ sigortalı hissesi, % 14’ü de işveren hissesidir. Bu Kanunun yürürlüğe g
 defa maden işyerlerinin yeraltı veya yeraltı münavebeli işlerde çalışmaya başlayanlar
 hakkında, bu Kanunun fiili hizmet zammı süresine ait hükümleri uygulanır.
 
-506 sayılı Kanunun malullük ve engellilik hükümlerine ilişkin geçiş hükümleri215216
+506 sayılı Kanunun malullük ve engellilik hükümlerine ilişkin geçiş hükümleri217218

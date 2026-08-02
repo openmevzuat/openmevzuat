@@ -11,9 +11,6 @@ içinde ve eksiksiz olarak sunması hâlinde geçici mühlet kararı verilir. Bu
 belge ve kayıtların hazırlanması için gerekli masraf alacaklı tarafından karşılanır. Belge ve
 kayıtların süresinde ve eksiksiz olarak sunulmaması hâlinde geçici mühlet kararı verilmez ve
 alacaklının yaptığı konkordato talebinin de reddine karar verilir.
-
-87 Bu maddenin “Mühlet:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 15 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
 Mahkeme, geçici mühlet kararıyla birlikte konkordatonun başarıya ulaşmasının
 mümkün olup olmadığının yakından incelenmesi amacıyla bir geçici konkordato komiseri
 görevlendirir. Alacaklı sayısı ve alacak miktarı dikkate alınarak gerektiğinde üç komiser de
@@ -25,6 +22,9 @@ Geçici mühlet üç aydır. Mahkeme bu üç aylık süre dolmadan borçlunun ve
 komiserin yapacağı talep üzerine geçici mühleti en fazla iki ay daha uzatabilir, uzatmayı
 borçlu talep etmişse geçici komiserin de görüşü alınır. Geçici mühletin toplam süresi beş ayı
 geçemez.
+
+87 Bu maddenin “Mühlet:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 15 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
 291 inci ve 292 nci maddeler, geçici mühlet hakkında kıyasen uygulanır.
 Geçici mühlet talebinin kabulü, geçici komiser görevlendirilmesi, geçici mühletin
 uzatılması ve tedbirlere ilişkin kararlara karşı kanun yoluna başvurulamaz.

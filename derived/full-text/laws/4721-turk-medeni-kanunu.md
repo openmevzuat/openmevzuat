@@ -4098,7 +4098,7 @@ MADDE 440 — III. Taşınırların satılması
 Vesayet altındaki kişinin menfaati gerektirirse değerli şeylerin dışındaki
 taşınırlar, vesayet makamının vereceği talimat uyarınca, açık artırma ile satılır. Hâkim, özel
 durumları, taşınırın niteliğini veya değerinin azlığını göz önüne alarak pazarlıkla satışa da karar
-verebilir.
+verebilir.30
 Vesayet altındaki kişinin kendisi veya ailesi için özel bir değer taşıyan şeyler, zorunluluk
 olmadıkça satılamaz.
 
@@ -4112,6 +4112,11 @@ olmayan paralar, faiz getirmek üzere, vesayet makamı tarafından belirlenen mi
 yatırılır veya Hazine tarafından çıkarılan menkul kıymetlere çevrilir.
 Paranın yatırılmasını bir aydan fazla geciktiren vasi, faiz kaybını ödemekle yükümlüdür.
 
+30 16/7/2026 tarihli ve 7589 sayılı Kanunun 11 inci maddesiyle yayımı tarihinden itibaren üç ay sonra
+(31/10/2026) yürürlüğe girmek üzere bu fıkranın birinci cümlesine “talimat uyarınca,” ibaresinden sonra
+gelmek üzere “Ulusal Yargı Ağı Bilişim Sistemine entegre elektronik satış portalında” ibaresi eklenmiştir.
+Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur
+düzenlemeyi görmek için 31/7/2026 tarihli ve 33326 sayılı Resmî Gazete’ye bakınız.
 2. Yatırımların dönüştürülmesi
 
 MADDE 442
@@ -4132,7 +4137,7 @@ Taşınmazların satışı, vesayet makamının talimatı uyarınca ve ancak ves
 altındaki kişinin menfaati gerekli kıldığı hâllerde mümkündür.
 Satış, vesayet makamının bu iş için görevlendireceği bir kişi tarafından vasi de hazır
 olduğu hâlde açık artırmayla yapılır ve ihale vesayet makamının onamasıyla tamam olur;
-onamaya ilişkin kararın ihale gününden başlayarak on gün içinde verilmesi gerekir.
+onamaya ilişkin kararın ihale gününden başlayarak on gün içinde verilmesi gerekir.31
 Ancak denetim makamı, istisnaî olarak özel durumları, taşınmazın niteliğini veya
 değerinin azlığını göz önüne alarak pazarlıkla satışa da karar verebilir.
 
@@ -4154,6 +4159,11 @@ Küçüklerin koruma amacıyla bir kuruma yerleştirilmesine vasinin başvurusu
 üzerine vesayet makamı veya gecikmesinde sakınca bulunan hâllerde bizzat vasi karar verir ve
 durumu derhâl vesayet makamına bildirir.
 Bunun dışında usul ve yetkiyle ilgili konularda kısıtlı olsun veya olmasın erginlerin
+
+31 16/7/2026 tarihli ve 7589 sayılı Kanunun 12 nci maddesiyle yayımı tarihinden itibaren üç ay sonra
+(31/10/2026) yürürlüğe girmek üzere bu fıkra değiştirilmiştir. Söz konusu düzenleme, yürürlüğe girdiği
+tarihte Mevzuat Bilgi Sistemine işlenecek olup mezkur düzenlemeyi görmek için 31/7/2026 tarihli ve
+33326 sayılı Resmî Gazete’ye bakınız.
 korunması amacıyla özgürlüklerinin kısıtlanmasına ilişkin hükümler uygulanır.
 Onaltı yaşını doldurmamış çocuk bu konuda mahkemeye bizzat başvuramaz.
 
@@ -5578,7 +5588,7 @@ terekedeki malların satılması,
 asliye hâkiminin onayı ile yerine getirilmesi,
 6. Terekeye ait paraların faiz getirmek üzere Cumhurbaşkanınca çıkarılan yönetmelikte
 belirtilen bir bankaya yatırılması veya bu paralarla Devlet tahvili alınması ve yeterli güvencesi
-bulunmayan yatırımların güvenceli yatırımlara dönüştürülmesi,30
+bulunmayan yatırımların güvenceli yatırımlara dönüştürülmesi,32
 7. Terekede ticarethane, imalâthane veya başka bir işletme varsa, bunların olduğu gibi
 sürdürülmesi; sürdürmede yarar yoksa, tasfiyesi için gerekli önlemlerin alınması.
 Tereke yöneticisi, görevine giren hususlarda miras ortaklığının temsilcisi olup, ortaklık
@@ -5607,6 +5617,9 @@ Vasiyetnameyi düzenleyen veya muhafaza eden görevli ya da mirasbırakanın arz
 üzerine saklayan veya başka surette ele geçiren ya da ölenin eşyası arasında bulan kimse, ölümü
 öğrenir öğrenmez teslim görevini yerine getirmekle yükümlüdür; aksi takdirde bu yüzden
 doğacak zarardan sorumludur.
+
+32 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu bentte yer alan “tüzükte” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 Sulh hâkimi, teslim edilen vasiyetnameyi derhâl inceler, gerekli koruma önlemlerini alır;
 olanak varsa ilgilileri dinleyerek terekenin yasal mirasçılara geçici olarak teslimine veya resmen
 yönetilmesine karar verir.
@@ -5619,9 +5632,6 @@ Bilinen mirasçılar ve diğer ilgililer vasiyetnamenin açılması sırasında 
 hazır bulunmak üzere çağrılır.
 Mirasbırakanın sonradan ortaya çıkan vasiyetnameleri için de aynı işlemler yapılır.
 
-30 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu bentte yer alan “tüzükte” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
-
 MADDE 597 — III. İlgililere tebliğ
 
 Mirasta hak sahibi olanların her birine gideri terekeye ait olmak üzere,
@@ -5632,7 +5642,7 @@ olunur.
 MADDE 598 — IV. Mirasçılık belgesi
 
 Başvurusu üzerine yasal mirasçı oldukları belirlenenlere, sulh mahkemesince
-veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir.31
+veya noterlikçe mirasçılık sıfatlarını gösteren bir belge verilir.33
 Mirasçı atamaya veya vasiyete ilişkin ölüme bağlı tasarrufa mirasçılar veya başka vasiyet
 alacaklıları tarafından kendilerine bildirilmesinden başlayarak bir ay içinde itiraz edilmedikçe,
 lehine tasarrufta bulunulan kimseye, sulh mahkemesince atanmış mirasçı veya vasiyet alacaklısı
@@ -5653,6 +5663,9 @@ Kanunda öngörülen ayrık durumlar saklı kalmak üzere mirasçılar, mirasbı
 haklarını, alacaklarını, diğer malvarlığı haklarını, taşınır ve taşınmazlar üzerindeki zilyetliklerini
 doğrudan doğruya kazanırlar ve mirasbırakanın borçlarından kişisel olarak sorumlu olurlar.
 Atanmış mirasçılar da mirası, mirasbırakanın ölümü ile kazanırlar. Yasal mirasçılar, atanmış
+
+33 31/3/2011 tarihli ve 6217 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “sulh mahkemesince”
+ibaresinden sonra gelmek üzere “veya noterlikçe” ibaresi eklenmiştir.
 mirasçılara düşen mirası onlara zilyetlik hükümleri uyarınca teslim etmekle yükümlüdürler.
 
 II. Vasiyet alacaklıları tarafından
@@ -5666,9 +5679,6 @@ Bu alacak, tasarruftan aksi anlaşılmıyorsa vasiyet yükümlüsünün mirası 
 ret hakkının düşmesiyle muaccel olur.
 Vasiyet alacaklısı, yükümlülüğünü yerine getirmeyen vasiyet yükümlüsüne karşı, vasiyet
 edilen malın teslimini veya hakkın devrini; vasiyet konusu bir davranış ise, bunun yerine
-
-31 31/3/2011 tarihli ve 6217 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “sulh mahkemesince”
-ibaresinden sonra gelmek üzere “veya noterlikçe” ibaresi eklenmiştir.
 getirilmemesinden doğan zararın giderilmesini dava edebilir.
 
 2. Özel durumlar
@@ -5751,7 +5761,7 @@ Reddin kayıtsız ve şartsız olması gerekir.
 Sulh hâkimi, sözlü veya yazılı ret beyanını bir tutanakla tespit eder.
 Süresi içinde yapılmış olan ret beyanı, mirasın açıldığı yerin sulh mahkemesince özel
 kütüğüne yazılır ve reddeden mirasçı isterse kendisine reddi gösteren bir belge verilir.
-Tutanağın ve kütüğün nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.32
+Tutanağın ve kütüğün nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.34
 
 II. Ret hakkının düşmesi
 
@@ -5759,6 +5769,9 @@ MADDE 610
 
 Yasal süre içinde mirası reddetmeyen mirasçı, mirası kayıtsız şartsız kazanmış
 olur.
+
+34 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 Ret süresi sona ermeden mirasçı olarak tereke işlemlerine karışan, terekenin olağan
 yönetimi niteliğinde olmayan veya mirasbırakanın işlerinin yürütülmesi için gerekli olanın dışında
 işler yapan ya da tereke mallarını gizleyen veya kendisine maleden mirasçı, mirası reddedemez.
@@ -5769,9 +5782,6 @@ MADDE 611 — III. Mirasçılardan biri tarafından ret
 
 Yasal mirasçılardan biri mirası reddederse onun payı, miras açıldığı zaman
 kendisi sağ değilmiş gibi, hak sahiplerine geçer.
-
-32 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 Mirası reddeden atanmış mirasçının payı, mirasbırakanın ölüme bağlı tasarrufundan
 arzusunun başka türlü olduğu anlaşılmadıkça, mirasbırakanın en yakın yasal mirasçılarına kalır.
 
@@ -5856,7 +5866,7 @@ veya yanlış ya da eksik bilgi verenler, bundan doğacak zararları mirasçıla
 veya üçüncü kişilere tazminle yükümlüdürler.
 Mirasçılar, özellikle mirasbırakanın kendilerince bilinen borçlarını sulh mahkemesine
 bildirmek zorundadırlar.
-Resmî defterin nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.33
+Resmî defterin nasıl tutulacağı Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.35
 
 II. İlân yoluyla çağrı
 
@@ -5866,9 +5876,6 @@ Sulh mahkemesi, mirasbırakanın alacaklıları ile borçlularını belli bir s�
 içinde alacaklarını ve borçlarını bildirmeleri için bir ay arayla iki defa yapılacak ilân yoluyla
 çağırır. Çağrı, kefalet sebebiyle alacaklı ve borçlu olanları da kapsar.
 İlânda bildirimde bulunmamanın sonuçları hakkında alacaklıların dikkatleri çekilir.
-
-33 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 Bildirim süresi, ikinci ilândan başlayarak en az bir aydır.
 
 MADDE 622 — III. Doğrudan doğruya deftere geçirme
@@ -5902,6 +5909,9 @@ Acele hâller dışında, davalara devam edilemiyeceği gibi, yeni dava da açı
 
 D. Sonuçları
 I. Beyana çağrı
+
+35 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 MADDE 626
 
@@ -6321,7 +6331,7 @@ MADDE 674 — D. Eğitim ve öğrenim giderleri
 yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak alışılmış ölçüleri aşan
 kısım için mevcuttur.
 Eğitim ve öğrenimini tamamlamamış olan veya engelliliği bulunan çocuklara, paylaşmada
-hakkaniyete uygun bir ödeme yapılır.34
+hakkaniyete uygun bir ödeme yapılır.36
 
 E. Hediyeler ve evlenme giderleri
 
@@ -6332,7 +6342,7 @@ denkleştirmeye tâbi değildir.
 Altsoy hısımlarının evlenmelerinde, alışılmış ölçüler içinde yapılan çeyiz giderleri
 hakkında denkleştirmeye tâbi tutmama arzusunun bulunduğu asıldır.
 
-34 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlıkları” ibaresi
+36 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlıkları” ibaresi
 “engelliliği” şeklinde değiştirilmiştir.
 DÖRDÜNCÜ AYIRIM
 PAYLAŞMANIN TAMAMLANMASI VE SONUCU
@@ -6722,14 +6732,14 @@ MADDE 713 — b. Olağanüstü zamanaşımı
 Tapu kütüğünde kayıtlı olmayan bir taşınmazı davasız ve aralıksız olarak
 yirmi yıl süreyle ve malik sıfatıyla zilyetliğinde bulunduran kişi, o taşınmazın tamamı, bir parçası
 veya bir payı üzerindeki mülkiyet hakkının tapu kütüğüne tesciline karar verilmesini isteyebilir.
-Aynı koşullar altında, maliki tapu kütüğünden anlaşılamayan veya yirmi yıl önce (…)35
+Aynı koşullar altında, maliki tapu kütüğünden anlaşılamayan veya yirmi yıl önce (…)37
 hakkında gaiplik kararı verilmiş bir kimse adına kayıtlı bulunan taşınmazın tamamının veya
 bölünmesinde sakınca olmayan bir parçasının zilyedi de, o taşınmazın tamamı, bir parçası veya
 bir payı üzerindeki mülkiyet hakkının tapu kütüğüne tesciline karar verilmesini isteyebilir.
 Tescil davası, Hazineye ve ilgili kamu tüzel kişilerine veya varsa tapuda malik gözüken
 kişinin mirasçılarına karşı açılır.
 Davanın konusu, mahkemece bir gazete ve bir internet haber sitesinde ve ayrıca
-taşınmazın bulunduğu yerde uygun araç ve aralıklarla en az üç defa ilân olunur.36
+taşınmazın bulunduğu yerde uygun araç ve aralıklarla en az üç defa ilân olunur.38
 Son ilândan başlayarak üç ay içinde yukarıdaki koşulların gerçekleşmediğini ileri sürerek
 itiraz eden bulunmaz ya da itiraz yerinde görülmez ve davacının iddiası ispatlanmış olursa, hâkim
 tescile karar verir. Mülkiyet, birinci fıkrada öngörülen koşulların gerçekleştiği anda kazanılmış olur.
@@ -6754,9 +6764,9 @@ tarıma elverişli olmayan yerler ve bunlardan çıkan kaynaklar, kimsenin mülk
 hiçbir şekilde özel mülkiyete konu olamaz.
 Sahipsiz yerler ile yararı kamuya ait malların kazanılması, bakımı, korunması, işletilmesi
 
-35 Anayasa Mahkemesi’nin 17/3/2011 tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararı ile bu fıkrada yer
+37 Anayasa Mahkemesi’nin 17/3/2011 tarihli ve E.: 2009/58, K.: 2011/52 sayılı Kararı ile bu fıkrada yer
 alan “… ölmüş ya da…” ibaresi iptal edilmiştir.
-36 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkrada yer alan “gazeteyle bir defa”
+38 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkrada yer alan “gazeteyle bir defa”
 ibaresi “bir gazete ve bir internet haber sitesinde” şeklinde değiştirilmiştir.
 
 ve kullanılması özel kanun hükümlerine tâbidir.
@@ -6930,7 +6940,7 @@ gerekir. Belirli bir satışta önalım hakkını kullanmaktan vazgeçme, yazıl
 önce veya sonra yapılabilir.
 Yapılan satış, alıcı veya satıcı tarafından diğer paydaşlara noter aracılığıyla bildirilir.
 Önalım hakkı, satışın hak sahibine bildirildiği tarihin üzerinden üç ay ve her hâlde satışın
-üzerinden bir yıl geçmekle düşer.37
+üzerinden bir yıl geçmekle düşer.39
 
 c. Kullanılması
 
@@ -6955,7 +6965,7 @@ belirtilmemişse taşınmazın üçüncü kişiye satışındaki koşullar esas 
 Yasal önalım hakkının kullanılmasına ve vazgeçmeye ilişkin hükümler sözleşmeden
 doğan önalım hakkında da uygulanır.
 
-37 24/12/2025 tarihli ve 7571 sayılı Kanunun 35 inci maddesiyle bu fıkrada yer alan “iki yıl” ibaresi “bir
+39 24/12/2025 tarihli ve 7571 sayılı Kanunun 35 inci maddesiyle bu fıkrada yer alan “iki yıl” ibaresi “bir
 yıl” şeklinde değiştirilmiştir.
 
 3. Alım ve geri alım hakları
@@ -8066,7 +8076,7 @@ ile kurulmuş bir rehne ait derecenin boşalması hâlinde ise, yerine tescil ed
 karşılığı yabancı para üzerinden rehin kurulabilir.
 Yabancı veya Türk parası karşılıklarının hesabında hesap günündeki Türkiye Cumhuriyet
 Merkez Bankasının döviz alış kuru esas alınır. Rehin haklarının hangi yabancı paralar üzerinden
-kurulabileceği Cumhurbaşkanınca belirlenir.38
+kurulabileceği Cumhurbaşkanınca belirlenir.40
 
 2. Faiz
 
@@ -8118,7 +8128,7 @@ Paylı mülkiyette paydaş kendi payını rehnedebilir.
 Pay üzerinde rehin kurulduktan sonra paydaşlar malın tamamını rehnedemezler.
 Elbirliği mülkiyetine tâbi taşınmaz, ancak bütün olarak ve maliklerin tamamı adına
 
-38 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “Bakanlar
+40 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “Bakanlar
 Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 rehnolunabilir.
 
@@ -8638,7 +8648,7 @@ yazılı rızaları üzerine verilebilir.
 MADDE 913 — c. Rehin senedinin şekli
 
 İpotekli borç senedi ve irat senedinin şekilleri Cumhurbaşkanınca çıkarılan
-yönetmelikle belirlenir.39
+yönetmelikle belirlenir.41
 
 4. Alacaklının belirlenmesi
 a. Düzenleme sırasında
@@ -8656,7 +8666,7 @@ göstermek ve genel olarak alacaklının, borçlunun ve malikin haklarını tam 
 tarafsızlıkla korumak üzere bunlar tarafından bir temsilci atanabilir.
 Temsilcinin adı tapu kütüğüne ve rehin senedine yazılır.
 
-39 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+41 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 Temsilcinin yetkisinin sona ermesi hâlinde ilgililer anlaşamazlarsa, sulh hâkimi gerekli
 önlemleri alır.
@@ -8881,7 +8891,7 @@ olan kimse, zilyetlik hükümlerine göre edinimi korunduğu ölçüde rehin hak
 kişilerin önceki zilyetlikten doğan hakları saklıdır.
 Taşınır, fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz.
 
-2. Ayrık durumlar40
+2. Ayrık durumlar42
 
 MADDE 940
 
@@ -8894,7 +8904,7 @@ sicile tescili zorunlu olan taşınır mallar üzerinde, zilyetlik devredilmeden
 bulunduğu sicile yazılmak suretiyle rehin kurulabilir. Rehnin kurulmasına ilişkin diğer hususlar
 Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.
 
-40 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında
+42 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu maddenin birinci ve ikinci fıkralarında
 yer alan “tüzükle” ibareleri “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 3. Art rehin
@@ -9388,11 +9398,11 @@ Taşınmazlar üzerindeki hakları göstermek üzere tapu sicili tutulur.
 Tapu sicili, tapu kütüğü ve kat mülkiyeti kütüğü ile bunları tamamlayan yevmiye defteri
 ve belgeler ile plânlardan oluşur.
 Sicilin örneği, nasıl tutulacağı ve yardımcı siciller Cumhurbaşkanınca çıkarılan yönetmelikle
-belirlenir.41
+belirlenir.43
 
 2. Taşınmazların kaydedilmesi
 
-41 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+43 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 MADDE 998 — a. Kaydedilecek taşınmazlar
@@ -9404,7 +9414,7 @@ Tapu siciline taşınmaz olarak şunlar kaydedilir:
 Arazinin tapu siciline kaydı, özel kanun hükümlerine tâbidir.
 Bağımsız ve sürekli hakların kaydedilmesi için gerekli koşullar ve usul Cumhurbaşkanınca
 çıkarılan yönetmelikle belirlenir. Süreklilik koşulunun gerçekleşmesi için hakkın süresiz veya en az
-otuz yıl süreli olması gerekir.42
+otuz yıl süreli olması gerekir.44
 Kat mülkiyetine konu olan bağımsız bölümlerin taşınmaz olarak kaydı, özel kanun
 hükümlerine tâbidir.
 
@@ -9423,7 +9433,7 @@ MADDE 1000
 
 Her taşınmaza kütükte bir sayfa ayrılır ve sayfa numaraları birbirini izler.
 Bir taşınmazın bölünmesi veya birden çok taşınmazın birleştirilmesi hâlinde uyulacak
-usul Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.43
+usul Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.45
 Kütüğün her sayfasındaki özel sütunlara şunlar tescil edilir:
 1. Mülkiyet,
 2. Taşınmaz üzerinde kurulmuş olan veya o taşınmaz lehine başka taşınmaz üzerinde
@@ -9434,9 +9444,9 @@ kütükte hak sahibi olarak görünenlerin rızasıyla kütükten silinebilir.
 Aynı malike ait olan birden çok taşınmaz, sınırları birbirine bitişik olmasa bile, malikin
 istemiyle kütükte ortak bir sayfaya kaydedilebilir. Bu sayfaya yapılan rehin tescilleri, o sayfada
 
-42 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+44 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
-43 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+45 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 kayıtlı bulunan bütün taşınmazları bağlar; aynı sayfada kayıtlı bu gibi taşınmazlardan bir kısmı
 malikin istemi üzerine veya mahkeme kararıyla o sayfadan çıkarılırsa, çıkarılan taşınmazlar
@@ -9459,7 +9469,7 @@ MADDE 1003 — d. Plân
 
 Bir taşınmazın kütüğe kaydı ve belirlenmesinde resmî bir ölçüme dayanan
 plân esas alınır.
-Plânların nasıl hazırlanacağı Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.44
+Plânların nasıl hazırlanacağı Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.46
 
 II. Tapu sicilinin tutulması
 1. Bir bölgede
@@ -9486,7 +9496,7 @@ MADDE 1006
 Tapu idarelerinin kuruluş, işleyiş ve hizmetlerinin yürütülmesi, özel kanun
 hükümlerine tâbidir.
 
-44 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
+46 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkrada yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 2. Sorumluluk
@@ -9552,7 +9562,7 @@ MADDE 1012
 Bir taşınmazın eklentileri, malikin istemi üzerine kütükteki beyanlar
 sütununa yazılır. Bu kaydın terkini, kütükte hak sahibi görünen bütün ilgililerin rızasına bağlıdır.
 Taşınmaz mülkiyetine ilişkin kamu hukuku kısıtlamalarının beyanlar sütununa yazılması
-ve bu sütuna yazılabilecek diğer hususlar Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.45
+ve bu sütuna yazılabilecek diğer hususlar Cumhurbaşkanınca çıkarılan yönetmelikle belirlenir.47
 Özel kanun hükümleri saklıdır.
 
 II. Tescilin ve terkinin koşulları
@@ -9582,7 +9592,7 @@ temsilcisi olduğunu ispat etmek suretiyle tasarruf yetkisini belgelemiş olur.
 Hukukî sebebin belgelenmesi, bu sebebin geçerliliği için gerekli şekle uyulduğunun ispatı
 suretiyle olur.
 
-45 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+47 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 
 3. Belgelerin tamamlanması
@@ -9603,7 +9613,7 @@ MADDE 1017
 Kütüğe tesciller, istem tarihine ve sırasına göre yapılır.
 Sicildeki kaydın bir örneği isteyen ilgiliye verilir.
 Tescil ve terkin ile verilecek örneklerin şekli Cumhurbaşkanınca çıkarılan yönetmelikle
-belirlenir.46
+belirlenir.48
 
 2. Taşınmaz lehine irtifaklarda
 
@@ -9636,7 +9646,7 @@ kazanamaz.
 
 II. Tescilin sonuçları
 
-46 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
+48 2/7/2018 tarihli ve 700 sayılı KHK’nin 139 uncu maddesiyle, bu fıkralarda yer alan “tüzükle” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikle” şeklinde değiştirilmiştir.
 1. Genel olarak
 
@@ -9693,7 +9703,7 @@ MADDE 1027 — III. Düzeltme
 ancak mahkeme kararıyla düzeltebilir.
 Düzeltme, eski tescilin terkini ve yeni bir tescilin yapılması biçiminde de olabilir.
 Tapu memuru, basit yazı yanlışlıklarını, Cumhurbaşkanınca çıkarılan yönetmelik uyarınca
-re'sen düzeltir.47
+re'sen düzeltir.49
 
 Yürürlükten kaldırılan kanun
 

@@ -96,7 +96,7 @@
 - [MADDE 84](articles/madde-084.md)
 - [MADDE 85](articles/madde-085.md)
 - [MADDE 86](articles/madde-086.md)
-- [MADDE 87](articles/madde-087.md)
+- [MADDE 87 — İkinci görev yasağı:157](articles/madde-087.md)
 - [MADDE 88](articles/madde-088.md)
 - [MADDE 89](articles/madde-089.md)
 - [MADDE 90](articles/madde-090.md)

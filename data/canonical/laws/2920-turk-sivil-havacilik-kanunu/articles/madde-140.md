@@ -6,4 +6,4 @@ bulundurularak Ticaret ve Ulaştırma bakanlıklarınca müştereken tespit edil
 
 BEŞİNCİ KISIM
 Ceza Hükümleri
-Suç oluşturan davranışlar19
+Suç oluşturan davranışlar20

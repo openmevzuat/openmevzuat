@@ -9,6 +9,6 @@ kadro aylıklarının karşılığı sınıf ve derecedeki idarî yargı hâkim 
 (Mülga ikinci ve üçüncü fıkra: 22/12/2005 - 5435/43 md.)
 Birinci fıkrada yazılı şartları taşıyan isteklilerin mesleğe alınıp alınmayacakları ve
 alınmaları halinde girebilecekleri sınıf ve dereceler Hâkimler ve Savcılar Yüksek Kurulunca belli
-edilir.49
+edilir.50
 
 Yeniden atanma:

@@ -4,11 +4,6 @@
 Sözleşmenin karşı tarafının konkordato projesinden etkilenip etkilenmediğine
 bakılmaksızın, borçlunun taraf olduğu ve işletmesinin faaliyetinin devamı için önem arz eden
 sözleşmelerin devamı esastır. Bu sözleşmelerde yer alıp da borçlunun konkordato talebinde
-
-97 Bu maddenin “Müşterek borçlulara karşı haklar:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 23
-üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-98 Bu maddenin “Konkordatonun mahkemede incelenmesi:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 24 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 bulunmasının sözleşmeye aykırılık teşkil edeceğine, haklı fesih sebebi sayılacağına yahut
 borcu muaccel hâle getireceğine ilişkin hükümler, borçlunun konkordato yoluna başvurması
 durumunda uygulanmaz. Sözleşmede bu yönde bir hüküm bulunmasa dahi sözleşme,
@@ -18,6 +13,13 @@ nedeniyle borçlanılan edimler karşılıklı olarak ifa edilir.99
 Borçlu, tarafı olduğu ve konkordatonun amacına ulaşmasını engelleyen aşırı külfetli
 sürekli borç ilişkilerini, komiserin uygun görüşü ve mahkemenin izniyle herhangi bir
 zamanda sona erecek şekilde feshedebilir. Bu çerçevede ödenmesi gereken tazminat,
+
+97 Bu maddenin “Müşterek borçlulara karşı haklar:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 23
+üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+98 Bu maddenin “Konkordatonun mahkemede incelenmesi:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 24 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+99 9/6/2021 tarihli ve 7327 sayılı Kanunun 4 üncü maddesiyle, bu fıkraya “arz eden” ibaresinden sonra gelmek
+üzere “sözleşmelerin devamı esastır. Bu” ibaresi eklenmiştir.
 konkordato projesine tabi olur. Hizmet sözleşmelerinin feshine ilişkin özel hükümler
 saklıdır.100
 

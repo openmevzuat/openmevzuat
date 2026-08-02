@@ -3,6 +3,15 @@
 (1) 406 sayılı Kanunun 1 inci maddesinin birinci fıkrası, yedinci fıkrası
 ve dokuzuncu fıkrasının ilk cümlesi; ek 17 nci, ek 19 uncu, ek 21 inci, ek 22 nci, ek 23 üncü,
 ek 24 üncü, ek 28 inci, ek 29 uncu, ek 30 uncu maddeleri; ek 32 nci maddesinin dördüncü ve
+
+21 6/2/2014 tarihli ve 6518 sayılı Kanunun 105 inci maddesi ile bu fıkrada yer alan “ikinci fıkrası
+hükümlerine aykırı hareket edenler yirmi günden yüz güne kadar; üçüncü fıkrası hükümlerine aykırı
+hareket edenler yüz günden beş yüz güne kadar” ibaresi “ikinci, üçüncü, dördüncü ve beşinci
+fıkralarına aykırı hareket ederek bu işi bizzat yapanlar elli günden yüz güne kadar” şeklinde
+değiştirilmiştir.
+22 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkraya “Bakanlık” ibaresinden
+sonra gelmek üzere “, Başkanlık” ibaresi eklenmiştir.
+
 altıncı fıkraları; ek 33 üncü maddesi; ek 35 inci maddesinin ikinci fıkrası; ek 36 ncı, ek 37 nci,
 geçici 3 üncü, 35 inci ve 36 ncı maddeleri dışındaki madde ve hükümleri ek ve
 değişiklikleriyle birlikte yürürlükten kaldırılmıştır.

@@ -11,6 +11,9 @@ sistemine ödenen tutarların,
 3) İdare veya yargı mercilerince verilen karar gereğince yukarıdaki (1) ve (2) numaralı
 alt bentlerde belirtilen kazançlar niteliğinde olmak üzere sigortalılara o ay içinde yapılan
 ödemelerin,
+
+131 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; bu fıkrada yer alan “olup olmadığına
+bakılmaksızın tüm” ibaresi “olan,” şeklinde değiştirilmiştir.
 brüt toplamı esas alınır.
 b) (Değişik:2/4/2026-7577/10 md.) Aşağıda sayılan;
 1) Ayni yardımlar,
@@ -85,6 +88,12 @@ hesaplanmasında prime esas günlük kazanç alt sınırı dikkate alınır. (De
 2/12/2016-6764/57 md.) Aday çırak, çırak, işletmelerde mesleki eğitim, mesleki ve teknik
 ortaöğretim sırasında staj, tamamlayıcı eğitim ya da alan eğitimi gören öğrencilerin prime
 esas kazançları ilgili kanunlarında öngörüldüğü şekilde belirlenir.133
+
+132 2/12/2016 tarihli ve 6764 sayılı Kanunun 57 nci maddesiyle, bu bendin birinci cümlesinde yer alan
+“Meslek liselerinde okumakta iken veya” ibaresi madde metninden çıkarılmıştır.
+133 16/2/2016 tarihli ve 6676 sayılı Kanunun 23 üncü maddesiyle, bu bentte yer alan “staja tabi
+tutulan öğrenciler” ibaresinden sonra gelmek üzere “, kamu kurum ve kuruluşları tarafından
+desteklenen projelerde görevli bursiyerler” ibaresi eklenmiştir.
 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalıların prime esas
 kazançları aşağıdaki şekilde belirlenir.
 a) Aylık prime esas kazanç, 82 nci maddeye göre belirlenen prime esas günlük kazanç
@@ -96,12 +105,6 @@ b) (Mülga: 4/4/2015-6645/46 md.)
 c) 4 üncü maddenin birinci fıkrasının (b) bendi kapsamında sigortalı sayılmayı
 gerektirecek birden fazla durumun söz konusu olması halinde, bu fıkranın (a) ve (b) bentlerinde
 belirtilen esaslara göre tek beyanda bulunulur.
-
-132 2/12/2016 tarihli ve 6764 sayılı Kanunun 57 nci maddesiyle, bu bendin birinci cümlesinde yer alan
-“Meslek liselerinde okumakta iken veya” ibaresi madde metninden çıkarılmıştır.
-133 16/2/2016 tarihli ve 6676 sayılı Kanunun 23 üncü maddesiyle, bu bentte yer alan “staja tabi
-tutulan öğrenciler” ibaresinden sonra gelmek üzere “, kamu kurum ve kuruluşları tarafından
-desteklenen projelerde görevli bursiyerler” ibaresi eklenmiştir.
 d) (Ek: 17/4/2017-KHK-690/45 md.; Aynen kabul: 1/2/2018-7077/41 md.) 4 üncü
 maddenin birinci fıkrasının (b) bendi kapsamındaki muhtar sigortalılarının aylık prime esas
 kazançları, günlük prime esas kazanç alt sınırının otuz katıdır.
@@ -124,15 +127,6 @@ göre tazminat veya üniversite ödeneği alanların sadece rütbelerinin karş�
 tazminatları), 11/10/1983 tarihli ve 2914 sayılı Yükseköğretim Personel Kanununun 12 nci
 maddesi uyarınca ödenen üniversite ödeneği, 2802 sayılı Hakimler ve Savcılar Kanununun
 106 ncı maddesinin üçüncü fıkrası uyarınca ödenen ek ödeme,134
-b) Kadro karşılığı sözleşmeli olarak görev yapan sigortalılar ile 375 sayılı Kanun
-Hükmünde Kararnamenin ek 10 uncu maddesi kapsamındaki sigortalılar için işgal ettikleri
-kadrolar esas alınmak suretiyle (a) bendinde öngörülen unsurlar üzerinden hesaplanan tutarı,135
-c) Açıktan vekil olarak atanan sigortalılar için, (a) bendinde öngörülen unsurlardan
-ilgili mevzuatı uyarınca ödenen tutarı,
-ç) Başka bir kadro ya da görevin ödeme unsurları esas alınmak ve kıyaslanmak
-suretiyle aylık veya ücret ödenen sigortalılar için; emsal alınan kadro veya görevin prime esas
-kazanç tutarını geçmemek üzere, bu kazancın aylık veya ücret ödenmesinde öngörülen
-oranında hesaplanacak tutarı,
 
 134 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu alt bentte yer alan “657 sayılı
 Devlet Memurları Kanununun 152 nci maddesi uyarınca ödenen tazminatlar (bölge, kurum, birim,
@@ -142,11 +136,15 @@ uyarınca (bölge, kurum, birim, çalışma mahalli, görevin niteliği ve benze
 asıl tazminatlara ilave, ek veya ayrıca ödenen tazminatlar hariç) ödenen tazminatlar (375 sayılı
 Kanun Hükmünde Kararname eki (III) sayılı Cetvelin 1 inci ve 2 nci sıralarında sayılanlar ile
 düzenleyici ve denetleyici kurumların emsali personeli için, 152 nci maddenin “II- Tazminatlar”
-kısmının “A- Özel Hizmet Tazminatı” bölümünün (ğ) bendi ile “F- Denetim Tazminatı” bölümünün
-(b) bendinde yer alan tazminatlar esas alınır)” şeklinde değiştirilmiştir.
-135 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu bentte yer alan “sigortalılar”
-ibaresi “sigortalılar ile 375 sayılı Kanun Hükmünde Kararnamenin ek 10 uncu maddesi kapsamındaki
-sigortalılar” şeklinde değiştirilmiştir.
+b) Kadro karşılığı sözleşmeli olarak görev yapan sigortalılar ile 375 sayılı Kanun
+Hükmünde Kararnamenin ek 10 uncu maddesi kapsamındaki sigortalılar için işgal ettikleri
+kadrolar esas alınmak suretiyle (a) bendinde öngörülen unsurlar üzerinden hesaplanan tutarı,135
+c) Açıktan vekil olarak atanan sigortalılar için, (a) bendinde öngörülen unsurlardan
+ilgili mevzuatı uyarınca ödenen tutarı,
+ç) Başka bir kadro ya da görevin ödeme unsurları esas alınmak ve kıyaslanmak
+suretiyle aylık veya ücret ödenen sigortalılar için; emsal alınan kadro veya görevin prime esas
+kazanç tutarını geçmemek üzere, bu kazancın aylık veya ücret ödenmesinde öngörülen
+oranında hesaplanacak tutarı,
 d) Büyükşehir belediye başkanları için bakanlık genel müdürünün, diğer belediye
 başkanları için ise öğrenim durumları itibarıyla 657 sayılı Kanuna göre yükselebilecekleri
 dereceyi aşmamak kaydıyla, 657 sayılı Kanuna ekli (I) sayılı ek gösterge cetvelinin “VIII. Mülki
@@ -170,6 +168,17 @@ kurulan kadro, unvan veya görevin prime esas kazanç tutarı,137
 g) Bu fıkranın (a) ilâ (f) bentleri kapsamı dışında kalan sigortalılar için atandıkları
 görev itibarıyla 657 sayılı Kanuna göre girebilecekleri sınıflardaki benzer görevlerin aynı
 kadro, unvan, tahsil ve derecesi için belirlenen prime esas kazanç tutarları,
+
+kısmının “A- Özel Hizmet Tazminatı” bölümünün (ğ) bendi ile “F- Denetim Tazminatı” bölümünün
+(b) bendinde yer alan tazminatlar esas alınır)” şeklinde değiştirilmiştir.
+135 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, bu bentte yer alan “sigortalılar”
+ibaresi “sigortalılar ile 375 sayılı Kanun Hükmünde Kararnamenin ek 10 uncu maddesi kapsamındaki
+sigortalılar” şeklinde değiştirilmiştir.
+136 1/7/2022 tarihli ve 7417 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “bölümünün (d)
+bendinde” ibaresi “bölümünün (c) bendinde” şeklinde değiştirilmiştir.
+137 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer
+alan “İlgili kanunlarında” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamesinde”
+ibaresi eklenmiştir.
 esas alınır. Vekalet veya ikinci görev karşılığında ilgili mevzuatı uyarınca yapılacak
 ödemeler prime esas kazancın hesabında dikkate alınmaz.
 Yalnızca genel sağlık sigortasına tâbi olanlar bakımından prime esas aylık
@@ -183,12 +192,6 @@ kapsamında genel sağlık sigortalısı sayılanlar için 82 nci maddeye göre 
 günlük kazanç alt sınırının otuz günlük tutarı, prime esas kazanç tutarı olarak esas alınır. (Ek
 cümle: 13/2/2011-6111/37 md., Değişik üçüncü cümle: 23/2/2017-6824/14 md.) Ancak,
 tescil tebliğ tarihinden itibaren bir ay içinde gelir testi talebinde bulunanlardan gelir testi
-
-136 1/7/2022 tarihli ve 7417 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “bölümünün (d)
-bendinde” ibaresi “bölümünün (c) bendinde” şeklinde değiştirilmiştir.
-137 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer
-alan “İlgili kanunlarında” ibaresinden sonra gelmek üzere “veya Cumhurbaşkanlığı kararnamesinde”
-ibaresi eklenmiştir.
 sonucuna göre aile içindeki gelirleri brüt asgari ücretin üçte birinin altında tespit edilenlerin
 bu sürelerde yaptıkları ödemeler herhangi bir faiz uygulanmaksızın iade veya mahsup edilir.
 (Mülga dördüncü cümle: 23/2/2017-6824/14 md.) (…)138

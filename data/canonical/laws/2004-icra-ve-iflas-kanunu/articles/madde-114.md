@@ -6,7 +6,11 @@ Birinci ve ikinci artırmanın yapılacağı gün ve saat aralığı, artırmaya
 tarihinden en az on beş gün önce ilan edilir. Elektronik satış portalı ve Basın İlân Kurumu
 İlan Portalında yapılacak ilan, artırmanın bitimine kadar erişime açık tutulur. İkinci artırmanın
 başlangıç tarihi, birinci artırmanın bitimi tarihinden itibaren bir ayı geçmeyecek şekilde
-belirlenir.
+belirlenir. (Ek cümleler:16/7/2026-7589/1 md.) Tüm maliklerin miras yoluyla edindikleri ve
+mirasçılar dışında üçüncü kişilerin mülkiyet hakkının bulunmadığı taşınmazlar bakımından
+ortaklığın satış suretiyle giderilmesine karar verilmesi hâlinde yapılacak açık artırmalarda
+birinci artırma sadece malik olan mirasçılar arasında yapılır. Sadece malik olan mirasçılar
+arasında yapılacak bu artırma usulü bir defaya mahsus olmak üzere uygulanır.
 (Değişik fıkra: 13/10/2022 -7418/25 md.) Gazete ve internet haber sitesi ilanları
 Basın-İlân Kurumu aracılığıyla aşağıda belirtilen usulde yapılır.
 (Ek fıkra: 13/10/2022 -7418/25 md.) Toplam muhammen bedeli beş yüz bin Türk
@@ -17,9 +21,6 @@ Ancak;
 lirasının altında olanlar, satışın yapılacağı yerde yayınlanan resmî ilan yayınlama hakkını haiz
 bir yerel gazete veya bir internet haber sitesinde ilan edilir. Satışın yapılacağı yerde resmî ilan
 yayınlama hakkını haiz yerel gazete veya internet haber sitesi yönetimi bulunmaması hâlinde
-ilan, icra dairesinin belirleyeceği aynı il mülki sınırları içerisinde bulunan başka bir yayın
-yerinde resmî ilan yayınlama hakkını haiz bir yerel gazete veya bir internet haber sitesi
-aracılığıyla duyurulur.
 
 47 2/7/2012 tarihli ve 6352 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “bir ay” ibaresi “iki ay”
 şeklinde değiştirilmiştir.
@@ -27,6 +28,9 @@ aracılığıyla duyurulur.
 yer alan “Elektronik satış portalında” ibaresi “Elektronik satış portalı ve Basın İlân Kurumu İlan Portalında”
 şeklinde değiştirilmiş ve mevcut dördüncü fıkrasının birinci cümlesine “Gazete” ibaresinden sonra gelmek üzere
 “veya internet haber sitesi” ibaresi eklenmiştir.
+ilan, icra dairesinin belirleyeceği aynı il mülki sınırları içerisinde bulunan başka bir yayın
+yerinde resmî ilan yayınlama hakkını haiz bir yerel gazete veya bir internet haber sitesi
+aracılığıyla duyurulur.
 2. Toplam muhammen bedeli iki milyon Türk lirası ve üzerinde olanlar ise bir internet
 haber sitesinde veya yurt genelinde dağıtılıp satışa sunulan ve ilan talebi tarihinde günlük fiilî
 satışı elli bin adedin üzerinde olan resmî ilan yayınlama hakkını haiz bir gazetede yayınlatılır.
@@ -68,19 +72,33 @@ olduğu.
 5. Hisseli satışın mümkün olduğu hâllerde açık artırma konusu malı belirli paylarla
 satın almak isteyen müşterek alıcıların, en geç artırma süresinin bitiminden önceki iş günü
 mesai bitimine kadar satışı yapan icra dairesine müracaat etmelerinin zorunlu olduğu.
-6. Satış talep eden ve artırmaya katılmak isteyen alacaklı ile ortaklığın satış suretiyle
-giderilmesinde artırmaya katılmak isteyen pay sahibinin, en geç artırma süresinin bitiminden
-önceki iş günü mesai bitimine kadar satışı yapan icra dairesine müracaat etmeleri hâlinde
-alacağın veya ortaklık payının teminatı karşıladığı miktar kadar kendilerinden teminat
-alınmayacağı.
+6. (Değişik:16/7/2026-7589/1 md.) Satış talep eden ve artırmaya katılmak isteyen
+alacaklının, en geç artırma süresinin bitiminden önceki iş günü mesai bitimine kadar satışı
+yapan icra dairesine müracaat etmesi hâlinde alacağın teminatı karşıladığı miktar kadar
+kendisinden teminat alınmayacağı, açık artırmalarda Hazinenin teminat göstermekten muaf
+olduğu.
 7. Şartlar yerine gelmişse malın en yüksek teklif verene ihale edileceği.
-8. Elektronik satış portalında verilecek tekliflerin haczedilen malın muhammen
-kıymetinin yüzde ellisi ile o malla güvence altına alınan ve satış isteyenin alacağına rüçhanı
-olan alacakların toplamından hangisi fazla ise bu miktarı ve ayrıca bu miktara ilave olarak
-paraya çevirme ve paylaştırma masraflarını geçmesi gerektiği.
-9. İhale alıcısının en yüksek teklifi verip de süresi içinde ihale bedelini yatırmaması
-hâlinde, alınan teminatın iade edilmeyip öncelikle satış masraflarından düşülmek üzere
-alacaklarına mahsuben hak sahiplerine ödeneceği.
+8. (Değişik:16/7/2026-7589/1 md.) Elektronik satış portalında verilecek tekliflerin
+haczedilen malın muhammen kıymetinin yüzde ellisi, ortaklığın satış suretiyle giderilmesinde
+birinci artırmanın sadece malik olan mirasçılar arasında yapıldığı durumlarda muhammen
+kıymetin yüzde yüzü, ikinci artırmada ise muhammen kıymetin yüzde ellisi ile o malla
+güvence altına alınan ve satış isteyenin alacağına rüçhanı olan alacakların toplamından
+hangisi fazla ise bu miktarı ve ayrıca bu miktara ilave olarak paraya çevirme ve paylaştırma
+masraflarını geçmesi gerektiği.
+9. (Değişik:16/7/2026-7589/1 md.) İhale alıcısının en yüksek teklifi verip de süresi
+içinde ihale bedelini yatırmaması hâlinde, alınan teminatın iade edilmeyip öncelikle satış
+masraflarından mahsup edileceği, kalan miktarın icra dosyaları bakımından alacaklarına
+mahsuben hak sahiplerine ödeneceği; süresi içinde ihale bedelini yatırmayan ihale alıcısının
+satış isteyen alacaklı olması durumunda, muhammen bedelin yüzde onunun kendi alacağından
+mahsup edileceği ve bu satış için yapılan masrafın kendisi üzerinde bırakılarak borçluya
+yüklenmeyeceği; ortaklığın satış suretiyle giderilmesinde en yüksek teklifi verip de ihale
+bedelini süresi içinde yatırmayan ihale alıcısından alınan teminatın kendisine iade
+edilmeyerek satış masrafları mahsup edildikten sonra paydaşlara payları oranında ödeneceği,
+süresi içinde ihale bedelini yatırmayanın paydaş olması durumunda ise alınan teminatın
+tamamının diğer pay sahiplerine payları oranında ödeneceği; ayrıca en yüksek teklifi verip de
+süresi içinde ihale bedelini yatırmayan ihale alıcısına, teklif ettiği bedelin yüzde beşi oranında
+satışı yapan icra dairesince veya satış memurunca idari para cezası verileceği, verilen bu
+cezanın 6183 sayılı Kanun hükümleri uyarınca tahsili için tahsil dairesine bildirileceği.
 10. Asgari ihale bedelinin teklif edilmemesi nedeniyle ihalenin yapılamadığı veya en
 yüksek teklif verenin ihale bedelini yatırmaması sebebiyle ihalenin iptal edildiği hâllerde
 ikinci artırmanın ilk açık artırmadaki şartlar çerçevesinde tekrar yapılacağı.

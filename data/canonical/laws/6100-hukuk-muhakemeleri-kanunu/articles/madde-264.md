@@ -1,4 +1,4 @@
-# MADDE 264 — Yalan yere veya menfaat temin ederek tanıklık edilmesi ve sonuçları
+# MADDE 264
 
 (1) Hâkim, tanığın tanıklığı esnasında yalan söylediği veya menfaat
 temin ederek tanıklık ettiği hakkında yeterli delil veya emare elde ederse bir tutanak düzenler

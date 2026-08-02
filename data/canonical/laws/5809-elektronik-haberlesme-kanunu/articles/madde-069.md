@@ -2,18 +2,12 @@
 
 (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-TELSİZ ÜCRETLERİ20
+TELSİZ ÜCRETLERİ23
 1. TELSİZ RUHSATNAME ÜCRETLERİ
 a. Telsiz verici-alıcı cihazları (karada kullanılan, ruhsatnamede kayıtlı
 her cihaz için)
 1) Mobil telsiz (Araç/portatif/el) 20.00 TL
 2) Tekrarlayıcı (sabit/seyyar) telsiz 100.00 TL
-
-20 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
-Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘’ 1. TELSİZ
-RUHSATNAME ÜCRETLERİ’’ başlığı altında bulunan ‘’ f. Uydu yayın ve haberleşme sistemleri (yüzer
-araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı bölümünün (1),(3),(4),(5) ve (6)
-numaralı sıralarında yer alan hizmet kalemleri yürürlükten kaldırılmıştır.
 3) Sabit telsiz 50.00 TL
 b. Karasal mobil (cellular) telsiz telefon sistemi
 1) Her baz istasyonu için 100.00 TL
@@ -31,17 +25,23 @@ sistemleri (ruhsatnamede kayıtlı her cihaz için)
 1) Merkez istasyonu veya tekrarlayıcılar kanal adedi başına 50.00 TL
 2) Kullanıcı telsiz cihazları (cihaz adedi başına)
 a) Sabit telsiz cihazı 25.00 TL
+
+23 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
+Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘’ 1. TELSİZ
+RUHSATNAME ÜCRETLERİ’’ başlığı altında bulunan ‘’ f. Uydu yayın ve haberleşme sistemleri (yüzer
+araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı bölümünün (1),(3),(4),(5) ve (6)
+numaralı sıralarında yer alan hizmet kalemleri yürürlükten kaldırılmıştır.
 b) Mobil telsizi (Araç/portatif/el) 10.00 TL
 e. Radyolink sistemleri
 1) Sistemde bulunan her cihaz başına 100.00 TL
 f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında
 monteli olarak kullanılanlar hariç)
-1) (…)20
+1) (…)23
 2) Sabit uydu ana yer istasyonu 1,000.00 TL
-3) (…)20
-4) (…)20
-5) (…)20
-6) (…)20
+3) (…)23
+4) (…)23
+5) (…)23
+6) (…)23
 7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) 15.00 TL
 2. TELSİZ KULLANMA ÜCRETLERİ ( HER YIL İÇİN)
 a. Kara telsiz sistemleri
@@ -97,13 +97,19 @@ frekansının band genişliğine göre cihaz adedi başına
 6) 140 MHz-250 MHz (dahil) 640.00 TL
 7) 250 MHz ve üzeri 1,280.00 TL
 f. Uydu yayın ve haberleşme sistemleri (yüzer araç ve hava araçlarında
-monteli olarak kullanılanlar hariç)21
-1) (…)21
+monteli olarak kullanılanlar hariç)24
+1) (…)24
+
+24 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
+Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘f. Uydu yayın ve
+haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı
+bölümünün (1),(3),(4),(5) ve (6) numaralı sıralarında yer alan hizmet kalemleri yürürlükten
+kaldırılmıştır.
 2) Sabit uydu ana yer istasyonu 1,000.00 TL
-3) (…)21
-4) (…)21
-5) (…)21
-6) (…)21
+3) (…)24
+4) (…)24
+5) (…)24
+6) (…)24
 7) Uydu mobil (cellular) telsiz telefon abone cihazları (cihaz başına) 15.00 TL
 3. GEÇİCİ SÜRE İLE VERİLEN TELSİZ KURMA VE KULLANMA
 İZİN ÜCRETLERİ
@@ -117,12 +123,6 @@ SNG, vb gibi.)
 b. İzin verilen telsiz sisteminin bu tarifedeki ruhsatname ve kullanma ücreti
 ayrıca alınır. Ruhsatname ücreti tam alınır. Kullanma ücreti kıst olarak alınır.
 Ay kesirleri tam aya iblağ edilir.
-
-21 3/8/2016 tarihli ve 29790 sayılı Resmi Gazete’de yayımlanan 4/7/2016 tarihli ve 2016/9023 sayılı
-Bakanlar Kurulu Kararının eki kararının 1 inci maddesi ile bu cetvelde yer alan ‘f. Uydu yayın ve
-haberleşme sistemleri (yüzer araç ve hava araçlarında monteli olarak kullanılanlar hariç)’’ başlıklı
-bölümünün (1),(3),(4),(5) ve (6) numaralı sıralarında yer alan hizmet kalemleri yürürlükten
-kaldırılmıştır.
 4. STANDARTLARA UYGUNLUK MUAYENESİ VE TEST
 ÜCRETLERİ
 a) Yurt dışından getirilen numuneler ve Türkiye’de imal edilen prototip

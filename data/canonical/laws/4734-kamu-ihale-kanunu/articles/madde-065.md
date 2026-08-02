@@ -1,4 +1,4 @@
-# MADDE 65 — Bildirim ve tebligat esasları67
+# MADDE 65 — Bildirim ve tebligat esasları68
 
 (Değişik: 20/11/2008-5812/25 md.)
 Aday, istekliler ve istekli olabileceklere yapılacak her türlü bildirim ve tebligatlarda
@@ -8,15 +8,15 @@ a) Tebligatlar idareler veya Kurum tarafından aşağıdaki yöntemler kullanıl
 2) İadeli taahhütlü mektupla.
 3) Elektronik ortamda.
 4) Faksla.
-(…)68 yabancı isteklilerde ise ondokuzuncu gün (…)68. Tebligatın bu tarihten önce
+(…)69 yabancı isteklilerde ise ondokuzuncu gün (…)69. Tebligatın bu tarihten önce
 muhataba ulaşması halinde ise fiili tebliğ tarihi esas alınır.
 b) İdareler veya Kurum tarafından elektronik ortamda veya faks ile yapılan tebligatlar ile
 
-66 18/6/2017 tarihli ve 7033 sayılı Kanunun 74 üncü maddesiyle bu fıkraya (c) bendinden sonra gelmek
+67 18/6/2017 tarihli ve 7033 sayılı Kanunun 74 üncü maddesiyle bu fıkraya (c) bendinden sonra gelmek
 üzere (d) bendi eklenmiş ve mevcut (d) ve (e) bentleri (e) ve (f) bentleri olarak teselsül ettirilmiştir.
-67 20/11/2008 tarihli ve 5812 sayılı Kanunun 25 inci maddesiyle bu madde başlığı “Tebligat” iken, metne
+68 20/11/2008 tarihli ve 5812 sayılı Kanunun 25 inci maddesiyle bu madde başlığı “Tebligat” iken, metne
 işlendiği şekilde değiştirilmiştir.
-68 Anayasa Mahkemesinin 27/9/2012 tarihli ve E:2012/20, K: 2012/132 sayılı kararıyla bu fıkrada yer
+69 Anayasa Mahkemesinin 27/9/2012 tarihli ve E:2012/20, K: 2012/132 sayılı kararıyla bu fıkrada yer
 alan “İadeli taahhütlü mektupla yapılan tebligatlarda mektubun postaya verilmesini takip eden yedinci
 gün”, “… kararın istekliye tebliğ tarihi sayılır” hükmü iptal edilmiştir.
 çerçeve anlaşmaya dahil olan istekliler tarafından elektronik ortamda sunulan fiyat tekliflerinin

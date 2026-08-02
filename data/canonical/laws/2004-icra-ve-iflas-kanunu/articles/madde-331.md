@@ -1,6 +1,11 @@
 # MADDE 331
 
 (Değişik: 31/5/2005-5358/1 md.)
+
+124 2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle bu fıkranın üçüncü cümlesinde geçen “temyiz de”
+ibaresi, “bölge adliye mahkemesi de” şeklinde değiştirilmiştir.
+125 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyetinin”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Haciz yolu ile takip talebinden sonra veya bu talepten önceki iki yıl içinde borçlu;
 alacaklısını zarara sokmak maksadıyla, mallarını veya bunlardan bir kısmını mülkünden
 çıkararak, telef ederek veya kıymetten düşürerek hakiki surette yahut gizleyerek muvazaa

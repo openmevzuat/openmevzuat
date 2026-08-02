@@ -31,6 +31,9 @@ işin bölüm veya eklentilerinde, iş alan ve bu iş için görevlendirdiği si
 sözleşme yapmış olsalar dahi, asıl işveren, bu Kanunun işverene yüklediği yükümlülüklerden
 dolayı alt işveren ile birlikte sorumludur.
 
+23 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; 12 nci maddesinin üçüncü fıkrasında yer
+alan “üçüncü” ibaresi “dördüncü”olarak değiştirilmiş; aynı Kanunun 66 ncı maddesiyle “işçi
+sendikaları” ibaresinden sonra gelmek üzere “ve konfederasyonları” ibaresi eklenmiştir.
 ÜÇÜNCÜ BÖLÜM24
 Hizmet Akdiyle veya Kendi Adına ve Hesabına Bağımsız Çalışan Sigortalıların
 Tabi Olduğu Kısa Vadeli Sigorta Hükümleri

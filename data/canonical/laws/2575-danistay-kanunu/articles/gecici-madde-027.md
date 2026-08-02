@@ -49,9 +49,9 @@ kıdeminde dikkate alınır.
 itibaren on gün içinde, dairelerin iş durumunu ve ihtiyaçlarını dikkate alarak Danıştay
 üyelerinin hangi dairelerde görev yapacağını yeniden belirler.
 13. Başkanlık Kurulu, iş durumunu ve ihtiyaçları dikkate alarak bu Kanunun yürürlüğe
-girdiği tarihten itibaren en geç on yıl içinde daire sayısını 13 üncü maddede öngörülen daire
-sayısına indirir. Ancak bu daireler, Başkanlık Kurulunca kapatılıncaya kadar görevlerine
-devam ederler.4748
+girdiği tarihten itibaren en geç on dört yıl içinde daire sayısını 13 üncü maddede öngörülen
+daire sayısına indirir. Ancak bu daireler, Başkanlık Kurulunca kapatılıncaya kadar görevlerine
+devam ederler.474849
 14. Başkanlık Kurulu, on üçüncü fıkra uyarınca yapılan her daire kapatma işleminden
 sonra iş durumunu ve ihtiyaçları dikkate alarak daireler arasındaki iş bölümünü yeniden
 belirler. Buna ilişkin karar derhâl Resmî Gazete’de yayımlanır ve yayımı tarihinden itibaren
@@ -62,17 +62,20 @@ dairelerde görev yapan daire başkanı, üye ve tetkik hâkimlerinin hangi dair
 yapacağını belirler. Dairelerde görev verilmeyen daire başkanları, başkanlık süresinin
 bitimine kadar Danıştay Başkanlığı nezdinde görev yapar. Başkanlık görev süresi Danıştay
 Başkanlığı nezdinde sona erenlerin veya başka bir daireye başkan olarak görevlendirilenlerin
+
+47 20/11/2017 tarihli ve 696 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan “üç” ibaresi
+“altı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 30 uncu
+maddesiyle aynen kabul edilerek kanunlaşmıştır.
+48 23/6/2022 tarihli ve 7413 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “altı” ibaresi “on”
+şeklinde değiştirilmiştir.
+49 16/7/2026 tarihli ve 7589 sayılı Kanunun 3 üncü maddesiyle bu fıkrada yer alan “on yıl” ibaresi
+“on dört yıl” şeklinde değiştirilmiştir.
 daire başkanlığı kadroları, başka bir işleme gerek kalmaksızın üye kadrosuna dönüşür.
 16. İş bölümüne ilişkin kararın Resmî Gazete’de yayımlanmasından itibaren on gün
-
-47 20/11/2017 tarihli ve 696 sayılı KHK’nin 35 inci maddesiyle, bu fıkrada yer alan “üç” ibaresi “altı” şeklinde
-değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 30 uncu maddesiyle aynen kabul
-edilerek kanunlaşmıştır.
-48 23/6/2022 tarihli ve 7413 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “altı” ibaresi “on” şeklinde
-değiştirilmiştir.
 içinde, dava dosyaları ayrıca bir karar verilmesine yer olmaksızın listeye bağlanmak suretiyle
 mevcut hâlleriyle ilgili daireye devredilir.
 17. Danıştay meslek mensupları kadro sayısı doksana düşünceye kadar, boşalan her iki
 üyelik için bir üye seçimi yapılır. Seçim yapılmayan üye kadroları başka bir işleme gerek
 kalmaksızın iptal edilmiş sayılır. Kadro sayısı doksana düşünceye kadar 9 uncu maddeye göre
 yapılacak duyuru, sekizinci üyeliğin boşaldığı tarihten itibaren en geç üç gün içinde yapılır.
+(Ek cümle:16/7/2026-7589/3 md.) Bu fıkra hükümleri, 23/7/2030 tarihine kadar uygulanmaz.

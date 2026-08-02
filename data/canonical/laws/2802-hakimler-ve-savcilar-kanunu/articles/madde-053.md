@@ -2,7 +2,7 @@
 
 Hakim ve savcıların:
 
-54 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu fıkrada yer alan “sıkıyönetim,” ibaresi madde
+55 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu fıkrada yer alan “sıkıyönetim,” ibaresi madde
 metninden çıkarılmıştır.
 a) Bu Kanun hükümlerine göre meslekten çıkarılmaları veya meslekte kalmalarının
 uygun olmadığına karar verilmesi,

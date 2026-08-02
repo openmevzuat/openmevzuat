@@ -5,12 +5,12 @@
  :document/slug "4734-kamu-ihale-kanunu",
  :document/path "data/canonical/laws/4734-kamu-ihale-kanunu",
  :document/sha256
- "c79fe3d2100ac5f53cc3e087f499803416db14a0f367c6df53c92f394ba32a28",
+ "50babb917e8b538c6a3eae90c93a636269429ae19042daf5563888c0d7239dc7",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4734.pdf",
- :source/fetched-at #inst "2026-07-16T02:33:13.933-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-02T07:28:05.027-00:00",
+ :openmevzuat/baseline-date "2026-08-02",
+ :openmevzuat/generated-at #inst "2026-08-02T07:26:40.821-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -35,14 +35,14 @@
    :article/title "İstisnalar",
    :article/path "articles/madde-003.md",
    :article/sha256
-   "9e19e0ffbbbda17ee59d6c595247d85127c7f5389fd465343ed40f568f3686e2"}
+   "e9d53324f1e4e990667d207aab46230b8e671e430c4142ae30df5105910f7fad"}
   {:article/id "law/4734/article/4",
    :article/type :normal,
    :article/no "4",
    :article/title "Tanımlar",
    :article/path "articles/madde-004.md",
    :article/sha256
-   "5fe0af7458bfcfbc1a3f86aa50c92193e011cb2ae48822b336b2b6ac9998cc85"}
+   "e0b918562346ed773a49dcd5ff173d217e8f67755ab0e4b328cb9a31b4335607"}
   {:article/id "law/4734/article/5",
    :article/type :normal,
    :article/no "5",
@@ -56,7 +56,7 @@
    :article/title "İhale Komisyonu",
    :article/path "articles/madde-006.md",
    :article/sha256
-   "175a098f3d137ccf6974574ad8e85e9ee05cae68c67ffa9f19b0a661ed9b8739"}
+   "86e46ee0cf5856014cfea37eff79787e998ef55f0e9845fb32f83fc0f3f09a59"}
   {:article/id "law/4734/article/7",
    :article/type :normal,
    :article/no "7",
@@ -70,7 +70,7 @@
    :article/title nil,
    :article/path "articles/madde-008.md",
    :article/sha256
-   "673d6862facdfe64eddccd41b966478f7cfaa40fb16f1b8b73ebb331cf6d4fc3"}
+   "644b568db11545c1c24b318ffeeaee4887975ec389b10b10d3f6cc998ad3225c"}
   {:article/id "law/4734/article/9",
    :article/type :normal,
    :article/no "9",
@@ -84,14 +84,14 @@
    :article/title "İhaleye katılımda yeterlik kuralları",
    :article/path "articles/madde-010.md",
    :article/sha256
-   "860e25870ab782efd7e11ba5bcd010faafe02a662eaeb379ea7c39f953de9d24"}
+   "b0be752bcaa21c2b199b411c791864911c012464f4bed2ae13cebede6cdc9709"}
   {:article/id "law/4734/article/11",
    :article/type :normal,
    :article/no "11",
    :article/title "İhaleye katılamayacak olanlar",
    :article/path "articles/madde-011.md",
    :article/sha256
-   "3a3f9a741d8ad2a75985267eee568cd3007c055d9d77d22a004002e60396a0fe"}
+   "5ea59f7965e0a9640c6ab041f1bd2d9d4ea7d23594c93e36923c6866e2230d4f"}
   {:article/id "law/4734/article/12",
    :article/type :normal,
    :article/no "12",
@@ -102,10 +102,10 @@
   {:article/id "law/4734/article/13",
    :article/type :normal,
    :article/no "13",
-   :article/title "İhale ilan süreleri ve kuralları ile ön ilan232425",
+   :article/title "İhale ilan süreleri ve kuralları ile ön ilan242526",
    :article/path "articles/madde-013.md",
    :article/sha256
-   "922cfd94cf49e9f75fb4d1cd43b52a9f8d4613ee85b72bb0118a822d69fbade0"}
+   "d238cee80b8d3eb5579fd27e3b79ac57c88012115f154430c5bce730be104258"}
   {:article/id "law/4734/article/14",
    :article/type :normal,
    :article/no "14",
@@ -123,17 +123,17 @@
   {:article/id "law/4734/article/16",
    :article/type :normal,
    :article/no "16",
-   :article/title "İhale saatinden önce ihalenin iptal edilmesi27",
+   :article/title "İhale saatinden önce ihalenin iptal edilmesi28",
    :article/path "articles/madde-016.md",
    :article/sha256
-   "66d8eebfe660b7452aea7910339acf3c78ef513fe32b3056b3f37128a2f2c1b4"}
+   "cb97a9179708cf33d6727ee3fc7ff1a0a2bcd81fb3026cdaec05bec175630336"}
   {:article/id "law/4734/article/17",
    :article/type :normal,
    :article/no "17",
    :article/title "Yasak fiil veya davranışlar",
    :article/path "articles/madde-017.md",
    :article/sha256
-   "f1f5de6257d9e68aad399810d1ee6e9fb67c1230eae498b4e31b99d2fd425caa"}
+   "5f7e527c60c3c387adeb5aba39793eb6ff4cee1291574130a525e12e29edf043"}
   {:article/id "law/4734/article/18",
    :article/type :normal,
    :article/no "18",
@@ -154,21 +154,21 @@
    :article/title "Belli istekliler arasında ihale usulü",
    :article/path "articles/madde-020.md",
    :article/sha256
-   "337061bbe78462f3a2247d7637531ea50b075890b3d4a69f4bb7e8179b856089"}
+   "f01e426eba79ed0e894b3036a3ecf8d5ca44e387852fe19f23f101f9799d2c1f"}
   {:article/id "law/4734/article/21",
    :article/type :normal,
    :article/no "21",
    :article/title "Pazarlık usulü",
    :article/path "articles/madde-021.md",
    :article/sha256
-   "bdf50259e53c4054cf4b3d36f62deebf59cc025b223d70c93972b01e33340641"}
+   "14d0152f493f26ac8b66a341dfb0f3ca6cee832ab19ac01bdbe47cd405b4326b"}
   {:article/id "law/4734/article/22",
    :article/type :normal,
    :article/no "22",
    :article/title "Doğrudan temin",
    :article/path "articles/madde-022.md",
    :article/sha256
-   "2f0e05de8ce2738a1e1abe23ccbbf3bb8ec1d09364f0f514cad007d7413fef74"}
+   "1bafb2dcebb13294df255061f3a22f9715350744d50dc90ff51b5bdda5497fe3"}
   {:article/id "law/4734/article/23",
    :article/type :normal,
    :article/no "23",
@@ -211,14 +211,14 @@
    :article/title "İhale ve ön yeterlik dokümanının verilmesi",
    :article/path "articles/madde-028.md",
    :article/sha256
-   "1e264d723a8ec7553a8e3d4fe8950eda44d6eeae41dec97d9b3b3f0135c311f9"}
+   "fef6384646b63e41a14d8f1d488dca27a069a7de761f9caf9bec66a32a7e0b2f"}
   {:article/id "law/4734/article/29",
    :article/type :normal,
    :article/no "29",
    :article/title nil,
    :article/path "articles/madde-029.md",
    :article/sha256
-   "342a75b489ad1c4b5645f5cc35b9ae9cbb8469aff83548a366ad78b507066121"}
+   "07b001a9ee940446eb60e6afea2fe65f4350e21b6f3a411a0a4ad7e8c4a70e65"}
   {:article/id "law/4734/article/30",
    :article/type :normal,
    :article/no "30",
@@ -253,56 +253,56 @@
    :article/title "Teminat olarak kabul edilecek değerler",
    :article/path "articles/madde-034.md",
    :article/sha256
-   "3a459379cf44f3080c3ab795616b93154151da83a4311204b8d7c900ac428e82"}
+   "bc0d501b9aaa9916004e84d54273fd0a9f0885ddd3b56867cf2f670182cb05bf"}
   {:article/id "law/4734/article/35",
    :article/type :normal,
    :article/no "35",
-   :article/title "Teminat mektupları34",
+   :article/title "Teminat mektupları35",
    :article/path "articles/madde-035.md",
    :article/sha256
-   "b75a8e7f1d276c86967dfe74b38607167e32334e62cc9af3a6c973e8adec559f"}
+   "9b19c3e5a7f9472e57dbe6348c93520c7ad0a92574e3e84dcd20c16fa98181c7"}
   {:article/id "law/4734/article/36",
    :article/type :normal,
    :article/no "36",
    :article/title nil,
    :article/path "articles/madde-036.md",
    :article/sha256
-   "59d598713cb2906019878b3cb2541e50a0fb0b7d72b32247d3165cd995fb16dc"}
+   "e655529aec248b90653c423911765c5c99bbc7cac346338c94815c871665e02b"}
   {:article/id "law/4734/article/37",
    :article/type :normal,
    :article/no "37",
    :article/title nil,
    :article/path "articles/madde-037.md",
    :article/sha256
-   "6703e2df815393c106289872a2ab2047aa5e648bb5e6f0d42b2be83951e71400"}
+   "52532a4cc07c1cfa13c7c26e64955622db5022b95e4679e2b7fa57ee4a3d7360"}
   {:article/id "law/4734/article/38",
    :article/type :normal,
    :article/no "38",
    :article/title "Aşırı düşük teklifler",
    :article/path "articles/madde-038.md",
    :article/sha256
-   "21648cd1ecc2e1144562cefe2cff5c94530f6dcefed384846cd731a2e1375305"}
+   "f037350e1a3c0b9c2014ccdda4fb89b5ffbb3a6c3cd2c2b29cb8aa214f70b96d"}
   {:article/id "law/4734/article/39",
    :article/type :normal,
    :article/no "39",
    :article/title "Bütün tekliflerin reddedilmesi ve ihalenin iptali",
    :article/path "articles/madde-039.md",
    :article/sha256
-   "35e39b9dee922d7608443cb4f07d05566b9260c48d734197cb87f1d8e952c2cf"}
+   "16aa41b8927fa411d8170d5c10d37f28d272455ba72e3645e5b4f82e0f7e158d"}
   {:article/id "law/4734/article/40",
    :article/type :normal,
    :article/no "40",
    :article/title "İhalenin karara bağlanması ve onaylanması",
    :article/path "articles/madde-040.md",
    :article/sha256
-   "10d01a4d00326b09ffa11cd9e7322d3565a9a3797cff3508670ccc42cb467df0"}
+   "9f508099ced6faf491ac0cd24492d224a02b08e1191c303cdec206a99f400dcf"}
   {:article/id "law/4734/article/41",
    :article/type :normal,
    :article/no "41",
    :article/title "Kesinleşen ihale kararlarının bildirilmesi",
    :article/path "articles/madde-041.md",
    :article/sha256
-   "b8e7edd895fc4a47fd80d48da07141c42b249f21609daac84e67383b05342d8c"}
+   "8459e370b547873ca73e3d47ba1058ea063ee0a6548407a5b60c8276b0088910"}
   {:article/id "law/4734/article/42",
    :article/type :normal,
    :article/no "42",
@@ -343,17 +343,17 @@
   {:article/id "law/4734/article/47",
    :article/type :normal,
    :article/no "47",
-   :article/title "Sonuç bildirimi39",
+   :article/title "Sonuç bildirimi40",
    :article/path "articles/madde-047.md",
    :article/sha256
-   "ce0c00c58c476593d219f6616a5da8846172dfc8977e466bfa139f6fdf54309e"}
+   "1914fcf36683b12a1337c5ce26fa0bf9b167b9a2c5cbd22488ed9220b137148c"}
   {:article/id "law/4734/article/48",
    :article/type :normal,
    :article/no "48",
    :article/title nil,
    :article/path "articles/madde-048.md",
    :article/sha256
-   "9b223c4cee242e7485ad4839e9da74c404ce736f50ddefd804df7250d2b65908"}
+   "38b146e6665290f2ea4ec24aa9da59a35753c19be94914bc19905d1a97bca443"}
   {:article/id "law/4734/article/49",
    :article/type :normal,
    :article/no "49",
@@ -367,7 +367,7 @@
    :article/title "İhaleye davet",
    :article/path "articles/madde-050.md",
    :article/sha256
-   "375e1dc5f9aff5ff76e5d2881af63b4cff69347489ba229848087febc4620f57"}
+   "2acf8aaf632d740b418b786423c6f75d64cbeaa5111f6815c9519c53393b1f48"}
   {:article/id "law/4734/article/51",
    :article/type :normal,
    :article/no "51",
@@ -389,28 +389,28 @@
    :article/title nil,
    :article/path "articles/madde-053.md",
    :article/sha256
-   "cb37a2fcdf0e73ab443c668e3ee82d96937f2b2b32c6f523f5706601c2a4484c"}
+   "10c765d6cd63445b386d9576a0d20b9cb0eab2bf6e71ea8aff5a1c8451f1828c"}
   {:article/id "law/4734/article/54",
    :article/type :normal,
    :article/no "54",
    :article/title nil,
    :article/path "articles/madde-054.md",
    :article/sha256
-   "c33f8978f3a2b5dfdbfdaff8b52892cd5433949dcd099460c053605355be9da7"}
+   "b44d49bf500ec9efeb447f04178a773bfaca6b657a9a30940e0eae9ff0808fd2"}
   {:article/id "law/4734/article/55",
    :article/type :normal,
    :article/no "55",
-   :article/title "İdareye şikayet başvurusu58",
+   :article/title "İdareye şikayet başvurusu59",
    :article/path "articles/madde-055.md",
    :article/sha256
-   "c3dc7c513f0518444e8cc231a495ffb2dab913dce9608ed12d9076b341c3feb0"}
+   "e480b12d8f54d550ed6666a0f23f430884e93b357ae293a5fa678b401ad3c55a"}
   {:article/id "law/4734/article/56",
    :article/type :normal,
    :article/no "56",
-   :article/title "Kuruma itirazen şikayet başvurusu59",
+   :article/title "Kuruma itirazen şikayet başvurusu60",
    :article/path "articles/madde-056.md",
    :article/sha256
-   "f4f4ccd5c4dbd5d214b61b47e1246d6de2543d92f10e58b59d57ae474a2d2b55"}
+   "f947a810be004973fdcaab42e954ed82e5003aff3e6b79ae1faf86143f271f12"}
   {:article/id "law/4734/article/57",
    :article/type :normal,
    :article/no "57",
@@ -424,14 +424,14 @@
    :article/title nil,
    :article/path "articles/madde-058.md",
    :article/sha256
-   "6d34936f41079120665af417fcce89de8157e350e0d937a8789c770aad9ebe95"}
+   "97b8b99bf85252905b3be9cde934dc8b7af6f849679b726ab484a7b0daae21cd"}
   {:article/id "law/4734/article/59",
    :article/type :normal,
    :article/no "59",
    :article/title "İsteklilerin ceza sorumluluğu",
    :article/path "articles/madde-059.md",
    :article/sha256
-   "b6f8fcbb1d4e02c610155dfd6dd54fe243cab377dce2512665070f653878a7e7"}
+   "e56fe3029454fd6c4602afb1a6f4dc0886d5d7b2283b6d9ed5a57925bb48b1a5"}
   {:article/id "law/4734/article/60",
    :article/type :normal,
    :article/no "60",
@@ -452,14 +452,14 @@
    :article/title nil,
    :article/path "articles/madde-062.md",
    :article/sha256
-   "171ee36855be2c769817c0988d975f0db64a9c6f80135cf79b189f7ddfbdd9ec"}
+   "14b3467c2d63cb58fabd2b94531b39f0425708b154ca976d981906a4cdc010aa"}
   {:article/id "law/4734/article/63",
    :article/type :normal,
    :article/no "63",
    :article/title "Yerli istekliler ile ilgili düzenlemeler",
    :article/path "articles/madde-063.md",
    :article/sha256
-   "e3b65ed8c9f52da71739d05843ddeda8164fb5508cdfb81ff34de9bda8acf117"}
+   "a6d5a46e7e5085d737e6f25f45e1a787fdbc67eb15a877e86b493630ed50fcd3"}
   {:article/id "law/4734/article/64",
    :article/type :normal,
    :article/no "64",
@@ -470,10 +470,10 @@
   {:article/id "law/4734/article/65",
    :article/type :normal,
    :article/no "65",
-   :article/title "Bildirim ve tebligat esasları67",
+   :article/title "Bildirim ve tebligat esasları68",
    :article/path "articles/madde-065.md",
    :article/sha256
-   "a242f219cd34ad5011bed85ccca199debb15874235b228f02c2f363c1076a68e"}
+   "1bb36510f738bf0408b833387d82b7a7e132d64d53534c3de50646ce9f77e936"}
   {:article/id "law/4734/article/66",
    :article/type :normal,
    :article/no "66",
@@ -485,45 +485,45 @@
    :article/type :normal,
    :article/no "67",
    :article/title
-   "Eşik değerler ve parasal limitlerin güncellenmesi69",
+   "Eşik değerler ve parasal limitlerin güncellenmesi70",
    :article/path "articles/madde-067.md",
    :article/sha256
-   "618a22773f1d8552b5a2e407473c19475c3bcccea60c6c0f23c0d136dde330ff"}
+   "e09ab9d1ffa979862470ac35aa2c1c432437ab974402811ef2b67d06f2e42636"}
   {:article/id "law/4734/article/68",
    :article/type :normal,
    :article/no "68",
    :article/title nil,
    :article/path "articles/madde-068.md",
    :article/sha256
-   "4ab5a4e7d3d300f0b9e3f25e306608adc4cd3c435a5cd12eb292cde110163c5b"}
+   "b677c08799bbcffe108afa9cd72f797b19b28388c16ee1bd4d525c2a5ab48948"}
   {:article/id "law/4734/article/1",
    :article/type :additional,
    :article/no "1",
-   :article/title "Elektronik Kamu Alımları Platformu72",
+   :article/title nil,
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "857ad8b62da8457223ea20ef8860101a830a1ddd431a5bbc705723e7a5de2688"}
+   "0d70eb4241721448cdc8941c0c9ea1e6c0d86b1b8b81728a6f5b51b637c9a14e"}
   {:article/id "law/4734/article/2",
    :article/type :additional,
    :article/no "2",
-   :article/title "Çerçeve anlaşmalar73",
+   :article/title "Çerçeve anlaşmalar74",
    :article/path "articles/ek-madde-002.md",
    :article/sha256
-   "226b4ba01ece76af4b027a5c024fd38f8cd36299a1dc55e80a0ff105f37255aa"}
+   "af4afddf0fd49e86480c0cfed74a3b7f4f3d3fab43dc165b5db5489f607787db"}
   {:article/id "law/4734/article/3",
    :article/type :additional,
    :article/no "3",
    :article/title nil,
    :article/path "articles/ek-madde-003.md",
    :article/sha256
-   "c785a0af2ac6e1b8f0dfef03392a97a390be3828d8bf4af96d215876d8389a2f"}
+   "efe7df6418e1c1776234e4aeff26e46c1bbbe98cb3948e995167b5beaf39e985"}
   {:article/id "law/4734/article/4",
    :article/type :additional,
    :article/no "4",
-   :article/title "Dinamik alım sistemi",
+   :article/title nil,
    :article/path "articles/ek-madde-004.md",
    :article/sha256
-   "ce08f2c0a53884bf09dd5897db4f564c8833e23649811a83ddc71118fb4d54c7"}
+   "9f5fc261acaeb51c202e11881bb1b622c5187d0a2bb4294ed4d59b9147b9e892"}
   {:article/id "law/4734/article/5",
    :article/type :additional,
    :article/no "5",
@@ -553,14 +553,14 @@
    "Uygun görüş alınması ve görevlilerin sorumlulukları",
    :article/path "articles/ek-madde-008.md",
    :article/sha256
-   "e1d3e3646b62585cd325eba9df007fc3f4bb83619cc9383aa39c2f06f09065e6"}
+   "31f5a8ba0edd011c0de0211ae5b08b38e1c72916d405cec34b2a906936aad27f"}
   {:article/id "law/4734/article/9",
    :article/type :additional,
    :article/no "9",
    :article/title nil,
    :article/path "articles/ek-madde-009.md",
    :article/sha256
-   "97dcad5e4b182441c113275346261c2562c30021be423863172c8eda55753b55"}
+   "b37be9b32d8897a758b66b54753f09aa423e2f9a86a1417d74162a1d7bdf2e9d"}
   {:article/id "law/4734/article/10",
    :article/type :additional,
    :article/no "10",
@@ -568,14 +568,14 @@
    "FATİH Projesi kapsamında mal ve hizmet alımları ile yapım işleri",
    :article/path "articles/ek-madde-010.md",
    :article/sha256
-   "835af98774d5fc8e6d2b8a66645e33782bb55b8985b5edfa88835157c4bb891b"}
+   "e3f0dce510de8a0fabe39ede43395814e2a34c7f9400dce34bf7a9eb5bb76ac7"}
   {:article/id "law/4734/article/11",
    :article/type :additional,
    :article/no "11",
    :article/title nil,
    :article/path "articles/ek-madde-011.md",
    :article/sha256
-   "9faaa7cee09d515cb9d4bfb6f408993c080bdbdcd3f2be9e5293d0273d002235"}
+   "6fe61d78234fda0923a2de01b13b1bf6e3ab2cc6876b09717103e09c3d72c40a"}
   {:article/id "law/4734/article/12",
    :article/type :additional,
    :article/no "12",
@@ -583,7 +583,14 @@
    "Devlet Malzeme Ofisi Genel Müdürlüğü tarafından idareler adına yapılacak alımlar",
    :article/path "articles/ek-madde-012.md",
    :article/sha256
-   "753d0146519dec21f4a963e05a41be9d955e810f95f5f30c8bb0a9129c690364"}
+   "39de50c7c97c8eee0bb593d18f6869dc07b66709d30249489037c5ac5456a858"}
+  {:article/id "law/4734/article/13",
+   :article/type :additional,
+   :article/no "13",
+   :article/title "Kamu Alımlarında Mütekabiliyet",
+   :article/path "articles/ek-madde-013.md",
+   :article/sha256
+   "377050c87677fe94825d2a142f61763bd8c2ba50d847cad24343742a8a63aca1"}
   {:article/id "law/4734/article/1",
    :article/type :temporary,
    :article/no "1",
@@ -611,14 +618,14 @@
    :article/title "İstisnalara ilişkin esas ve usuller",
    :article/path "articles/gecici-madde-004.md",
    :article/sha256
-   "b3907c25ddaa81a204916785282cebc8da021b8a4cc81442c4884d78fce630cb"}
+   "5b968b1158eca9a5b48e198f60ae75836967f4362f4f3bb1c747204dce4fdddc"}
   {:article/id "law/4734/article/5",
    :article/type :temporary,
    :article/no "5",
    :article/title "Kamu İhale Kurumunun kurulması",
    :article/path "articles/gecici-madde-005.md",
    :article/sha256
-   "12435df6dcf9c4a7fb0424bc5f6082295fa2c6d1c2cf146bbd7e21cfecb4dbfe"}
+   "b122ee7539fbd3e58f69ff939304e3d87dd21e94c38f25d12bffdf81cff81adf"}
   {:article/id "law/4734/article/6",
    :article/type :temporary,
    :article/no "6",
@@ -667,14 +674,14 @@
    :article/title "Başkanlık Müşavirliğine atanmış sayılma",
    :article/path "articles/gecici-madde-012.md",
    :article/sha256
-   "726db173150f870a939406e645ccf02480e468507eeb29a030359156f0027e2b"}
+   "257c5a5d796bd3d884c813d22fed635642d68efd533b1e833d6ff4ed84102ec4"}
   {:article/id "law/4734/article/13",
    :article/type :temporary,
    :article/no "13",
    :article/title nil,
    :article/path "articles/gecici-madde-013.md",
    :article/sha256
-   "7bbee70fa955ab696b5e00badbc1a2110bb26c74e96ea890b4e4a60bad9df1ea"}
+   "0ab6572c38bc67c92ed31e7c4dd4e3158f1f61171378fccbd3c976fc84eb819e"}
   {:article/id "law/4734/article/14",
    :article/type :temporary,
    :article/no "14",

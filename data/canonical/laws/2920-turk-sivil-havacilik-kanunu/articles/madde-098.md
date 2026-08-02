@@ -4,7 +4,7 @@
 Gerek bu Kanunda ve gerekse ilgili mevzuatta yer alan ve can ve mal güvenliğinin
 korunmasına yönelik kurallara aykırı davrandıkları iddiasıyla haklarında soruşturma veya
 kovuşturma başlatılmış bulunan sivil havacılık personelinin yeterlik belgelerini, soruşturma
-veya kovuşturma sonuçlanıncaya kadar geri almaya, Ulaştırma Bakanlığı yetkilidir.16
+veya kovuşturma sonuçlanıncaya kadar geri almaya, Ulaştırma Bakanlığı yetkilidir.17
 (Ek fıkra: 15/8/2016-KHK-671/14 md.; Aynen kabul: 9/11/2016-6757/12 md.)
 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu uyarınca belirlenen
 yükümlülük süresini tamamlamadan bir mahkeme veya disiplin kurulu kararına dayanılarak

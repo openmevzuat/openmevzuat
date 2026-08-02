@@ -18,14 +18,9 @@ sürelerle en fazla iki yıl daha uzatılabilir. Hakkında denetimli serbestlik 
 gerek görülmesi hâlinde denetimli serbestlik süresi içinde tedaviye tabi tutulabilir.
 Cumhuriyet savcısı, erteleme süresi zarfında uyuşturucu veya uyarıcı madde kullanıp
 kullanmadığını tespit etmek için yılda en az iki defa şüphelinin ilgili kuruma sevkine karar
-verir.
-(4) Kişinin, erteleme süresi zarfında;
-a) Kendisine yüklenen yükümlülüklere veya uygulanan tedavinin gereklerine uygun
-davranmamakta ısrar etmesi,
-b) Tekrar kullanmak için uyuşturucu veya uyarıcı madde satın alması, kabul etmesi
-veya bulundurması,
-c) Uyuşturucu veya uyarıcı madde kullanması,
 
+84 15/8/2017 tarihli ve 694 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan ““on yıla kadar
+hapis” ibaresinden sonra gelmek üzere “ve bin günden onbin güne kadar adlî para” ibaresi eklenmiş,
 daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 133 üncü maddesiyle aynen kabul
 edilerek kanunlaşmıştır.
 85 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü
@@ -33,6 +28,13 @@ fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
 86 18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı “Kullanmak için
 uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak” iken metne işlendiği
 şekilde değiştirilmiştir.
+verir.
+(4) Kişinin, erteleme süresi zarfında;
+a) Kendisine yüklenen yükümlülüklere veya uygulanan tedavinin gereklerine uygun
+davranmamakta ısrar etmesi,
+b) Tekrar kullanmak için uyuşturucu veya uyarıcı madde satın alması, kabul etmesi
+veya bulundurması,
+c) Uyuşturucu veya uyarıcı madde kullanması,
 hâlinde, hakkında kamu davası açılır.
 (5) Erteleme süresi zarfında kişinin kullanmak için tekrar uyuşturucu veya uyarıcı
 madde satın alması, kabul etmesi veya bulundurması ya da uyuşturucu veya uyarıcı madde

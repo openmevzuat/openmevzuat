@@ -14,14 +14,10 @@ noterlik işlemlerine ilişkin tüm bilgi ve belgeler güvenli elektronik imzayl
 işlenebilir, saklanabilir ve gerektiğinde ilgili diğer kişi veya kurumlara elektronik ortamda
 gönderilebilir. Ayrıca 61 inci maddede düzenlenen tespit işleri güvenli elektronik imza ile
 elektronik ortamda da yapılabileceği gibi aynı usulle elektronik ortamdaki durum, görüntü,
-işlem veya benzeri her türlü verinin tespiti de yapılabilir.29
+işlem veya benzeri her türlü verinin tespiti de yapılabilir.30
 Noterler tarafından yapılan tüm işlemlere dair bilgi ve belgeler Türkiye Noterler
 Birliğinin Bilişim Sisteminde kaydedilir ve saklanır. Güvenli elektronik imza ile imzalanmış
 belgelerde kanunlarda belirtilen mühürleme işlemi uygulanmaz ve ayrıca suret aranmaz.
-
-29 14/11/2024 tarihli ve 7532 sayılı Kanunun 8 inci maddesiyle, bu fıkranın birinci cümlesine “yapılabilecek
-noterlik işlemleri” ibaresinden sonra gelmek üzere “, el yazısıyla imzalanarak hazırlanan ve güvenli elektronik
-imzayla Türkiye Noterler Birliğinin Bilişim Sistemine kaydedilen noterlik işlemleri” ibaresi eklenmiştir.
 Güvenli elektronik imza ile oluşturulan belge, talep edilmedikçe ayrıca fiziki olarak
 düzenlenmez. Elektronik ortamdan fiziki örnek çıkartılması gereken hâllerde belgenin aslının
 aynı olduğu belirtilerek noterlikçe imzalanır ve mühürlenir. Güvenli elektronik imza ile

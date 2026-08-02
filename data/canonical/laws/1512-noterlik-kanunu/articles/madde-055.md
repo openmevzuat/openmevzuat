@@ -1,18 +1,21 @@
 # MADDE 55
 
-Noterlik evrak ve defterleri mahkeme, sorgu hakimliği ve Cumhuriyet
-savcılıklarınca veya resmi daireler tarafından, konusu da belirtilmek suretiyle, noterlikte
-soruşturmaya yetkili kılınan kimselerce incelenebilir.
-Noterlik evrak ve defterlerinin daire dışına çıkarılabilmesi, mahkemenin veya sorgu
-hakiminin karariyle mümkündür.
-Mahkeme veya sorgu hakimi evrakın dava sonuna kadar dosyada kalmasına karar
-verirse, bu takdirde evrakın bir örneği çıkartılıp aslına uygunluğu onaylanarak, aslının yerinde
-saklanmak üzere notere verilir.
-Noterin bulunduğu yerde inceleme imkanı bulunmaması sebebiyle evrakın başka bir
-yere gönderilmesi gerekiyorsa, noterin bulunduğu yer hukuk hakimliğinin onaylıyacağı örnek,
-aynı şekilde saklanır.
-Soruşturma yetkisi bulunan kişilerle Cumhuriyet savcılarının istiyecekleri örnekler
-noterlik ücretine tabi değildir. Diğer resmi mercilere verilecek örneklerden yalnız yazı ücreti
-alınır.
+(Değişik:16/7/2026-7589/2 md.)
+Noterlik evrak ve defterleri mahkeme, sulh ceza hâkimliği ve Cumhuriyet
+başsavcılıklarınca veya resmî daireler tarafından yahut konusu da belirtilmek suretiyle
+noterlikte soruşturmaya yetkili kılınan kimselerce incelenebilir.
+Mahkeme, sulh ceza hâkimliği veya Cumhuriyet başsavcılığı tarafından, noterlik
+evrakının aslının istenmesi hâlinde ilgili noter, evrakın bir örneğini çıkarıp aslına
+uygunluğunu onaylar. Noter, onayladığı örneği aslının yerinde saklar ve evrakın aslını ilgili
+mercie gönderir.
+Mahkeme, sulh ceza hâkimliği, Cumhuriyet başsavcılığı veya soruşturmaya yetkili
+kılınan resmî daire tarafından noterlik evrakının onaylı bir örneğinin istendiği durumlarda,
+noter istenilen evrakın aslını elektronik ortamda taramak ve güvenli elektronik imzayla
+imzalamak suretiyle oluşturduğu onaylı örneği ilgili mercie elektronik ortamda gönderir.
+Elektronik ortamda gönderme imkânı bulunmayan durumlarda evrakın aslına uygunluğunu
+onaylayarak onaylı örneği ilgili mercie gönderir.
+Bu madde uyarınca yapılan işlemler için yevmiye numarası verilmez. Posta masrafı ve
+112 nci madde uyarınca düzenlenen tarifeyle belirlenen yol masrafı hariç olmak üzere harç,
+vergi, değerli kâğıt ücreti dâhil herhangi bir ücret alınmaz.
 
 Yaş tahdidi:

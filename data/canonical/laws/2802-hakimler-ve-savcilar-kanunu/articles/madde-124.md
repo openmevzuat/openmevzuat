@@ -2,14 +2,14 @@
 
 Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-81 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle; bu maddenin (b) bendindeki “üç yılını” ibaresi “bir
+83 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle; bu maddenin (b) bendindeki “üç yılını” ibaresi “bir
 yılını”, (c) bendindeki “kazanmış” ibaresi “kaybetmemiş” şeklinde değiştirilmiş ve aynı maddenin (d) bendine
 “derecedeki” ibaresinden sonra gelmek üzere “(9 uncu derecede bulunan askeri hakim ve savcılar, 103 üncü
 maddedeki aylık ödeme oranı % 39 olarak uygulanmak ve yargı ödeneği de bu oran üzerinden hesaplanacak brüt
 aylıkları esas alınarak verilmek üzere 8 inci derecedeki)” ibaresi eklenmiştir.
-82 29/6/2006 tarihli ve 5536 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “kadar,” ibaresinden sonra
+84 29/6/2006 tarihli ve 5536 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “kadar,” ibaresinden sonra
 gelmek üzere “aylık,” ibaresi eklenmiştir.
-(1) SAYILI CETVEL83
+(1) SAYILI CETVEL85
 (Değişik:22/12/2005 – 5435/41 md.)
 
 Sınıf Derece Unvan
@@ -52,7 +52,7 @@ Adalet Müfettişliği
 Bakanlık Tetkik Hâkimliği
 Bölge Adliye Mahkemesi Cumhuriyet Savcılığı
 
-83 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
+85 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
 Koordinasyon Kurulu Başkanlığı” ibareleri “Strateji Geliştirme Başkanlığı”, “Araştırma-Planlama ve Koordinasyon
 Kurulu Üyeliği” ibareleri “Strateji Geliştirme Başkanlığı Daire Başkanlığı” şeklinde değiştirilmiştir.
 Sınıf Derece Unvan
@@ -123,7 +123,7 @@ Bölge Adliye Mahkemesi Daire Başkanlığı
 Bölge Adliye Mahkemesi Üyeliği
 Bölge Adliye Mahkemesi Cumhuriyet Başsavcılığı
 Bölge Adliye Mahkemesi Cumhuriyet Savcılığı
-(2) SAYILI CETVEL84
+(2) SAYILI CETVEL86
 
 Sınıf Derece Unvan
 Üçüncü Sınıf 8 Hâkimlik
@@ -166,7 +166,7 @@ Bakanlık Tetkik Hâkimliği
 Genel Müdürlük Daire Başkanlığı
 Strateji Geliştirme Başkanlığı Daire Başkanlığı
 
-84 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
+86 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
 Koordinasyon Kurulu Başkanlığı” ibareleri “Strateji Geliştirme Başkanlığı”, “Araştırma-Planlama ve Koordinasyon
 Kurulu Üyeliği” ibareleri “Strateji Geliştirme Başkanlığı Daire Başkanlığı” şeklinde değiştirilmiştir.
 Sınıf Derece Unvan
@@ -207,11 +207,11 @@ I SAYILI EK GÖSTERGE CETVELİ
 Ek
 UNVANI Derece
 Göstergeler
-a) Yargıtay Birinci Başkanı, Danıştay Başkanı, Yargıtay Cumhuriyet 1 900085
+a) Yargıtay Birinci Başkanı, Danıştay Başkanı, Yargıtay Cumhuriyet 1 900087
 Başsavcısı ve Danıştay Başsavcısı
 b) (Değişik: 30/3/2023-7447/4 md.) Yargıtay üyeleri, Danıştay 1 8000
 üyeleri, Yargıtay Cumhuriyet Başsavcıvekili,
-c) (Ek: 30/3/2023-7447/4 md.)86 Birinci sınıf hâkim ve savcılıkta 1 7800
+c) (Ek: 30/3/2023-7447/4 md.)88 Birinci sınıf hâkim ve savcılıkta 1 7800
 üç yılını doldurup Yargıtay ve Danıştay üyeliğine seçilme hakkını
 kaybetmemiş olanlar, Adalet Bakanlığı Müsteşarı
 d) Birinci sınıfa ayrılmış, bu sınıfa ayrıldığı tarihten itibaren de 1 7000
@@ -237,9 +237,9 @@ TEŞKİLATI : MERKEZ
 UNVANI DERECESİ ADEDİ
 Ceza İşleri Genel Müdürü 1 1
 
-85 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle bu sırada yer alan “8000” ibaresi “9000” şeklinde
+87 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle bu sırada yer alan “8000” ibaresi “9000” şeklinde
 değiştirilmiştir.
-86 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle (b) sırasından sonra gelmek üzere (c) sırası eklenmiş
+88 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle (b) sırasından sonra gelmek üzere (c) sırası eklenmiş
 ve mevcut sıralar buna göre teselsül ettirilmiştir.
 Hukuk İşleri Genel Müdürü 1 1
 Mevzuat Genel Müdürü 1 1

@@ -17,7 +17,6 @@ yükümlü oldukları kişiler ile aynı maddenin onikinci, onüçüncü ve ond�
 kapsamında genel sağlık sigortalısı sayılan kişilerden ilave ücret alınamaz. Sağlık Hizmetleri
 Fiyatlandırma Komisyonunca belirlenen eşdeğer ilaçların, azami fiyatı ile kişinin talep ettiği
 eşdeğer ilacın fiyatı arasında oluşacak fark ve optik için tavan uygulanmaz ve bu fıkra
-kapsamında değerlendirilmez. 128129
 
 126 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu maddenin
 ikinci ve üçüncü fıkralarında yer alan “Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde
@@ -25,13 +24,7 @@ değiştirilmiştir.
 127 10/1/2013 tarihli ve 6385 sayılı Kanunun 8 inci maddesiyle, bu fıkranın üçüncü cümlesinde yer
 alan “kamu idaresi sağlık hizmeti sunucuları tarafından sevk edilmesi halinde” ibaresi madde
 metninden çıkarılmıştır.
-128 21/5/2013 tarihli ve 6486 sayılı Kanunun 4 üncü maddesiyle, bu cümlede yer alan “bir” ibaresi
-“iki” şeklinde değiştirilmiştir.
-129 2/1/2017 tarihli ve 681 sayılı KHK’nin 82 nci maddesiyle bu fıkranın üçüncü cümlesine “yükümlü
-oldukları” ibaresinden sonra gelmek üzere “kişiler ile aynı maddenin onikinci, onüçüncü ve
-ondördüncü fıkraları kapsamında genel sağlık sigortalısı sayılan” ibaresi 1/3/2017 tarihinden geçerli
-olmak üzere eklenmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 81 inci
-maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe girmek üzere kanunlaşmıştır.
+kapsamında değerlendirilmez. 128129
 Kamu idaresi sağlık hizmeti sunucuları ise otelcilik hizmeti ile dördüncü fıkrada belirtilen
 istisnai sağlık hizmetleri dışında, sağladıkları sağlık hizmetleri için genel sağlık sigortalısı ve
 bakmakla yükümlü olduğu kişilerden ilave ücret talep edemez. (Mülga ikinci cümle: 21/1/2010-
@@ -65,6 +58,14 @@ ve sözleşmesiz sağlık hizmeti sunucuları, acil hallerde, sözleşmeli sağl
 ise Kurumun belirlediği sağlık hizmetleri için genel sağlık sigortalısı ve bakmakla yükümlü
 olduğu kişilerden veya Kurumdan herhangi bir ilave ücret talep edemez.
 Kurum, bu Kanunun birinci fıkrasında belirtilen yöntemler dışında, kamu idarelerince
+
+128 21/5/2013 tarihli ve 6486 sayılı Kanunun 4 üncü maddesiyle, bu cümlede yer alan “bir” ibaresi
+“iki” şeklinde değiştirilmiştir.
+129 2/1/2017 tarihli ve 681 sayılı KHK’nin 82 nci maddesiyle bu fıkranın üçüncü cümlesine “yükümlü
+oldukları” ibaresinden sonra gelmek üzere “kişiler ile aynı maddenin onikinci, onüçüncü ve
+ondördüncü fıkraları kapsamında genel sağlık sigortalısı sayılan” ibaresi 1/3/2017 tarihinden geçerli
+olmak üzere eklenmiş; daha sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 81 inci
+maddesiyle aynen kabul edilerek 1/3/2017 tarihinde yürürlüğe girmek üzere kanunlaşmıştır.
 verilecek sağlık hizmetlerini götürü bedel üzerinden hizmet alım sözleşmesiyle de sağlamaya
 yetkilidir. Kamu idaresi sağlık hizmeti sunucuları, sözleşmede belirtilen götürü bedel
 karşılığında genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilere sözleşme

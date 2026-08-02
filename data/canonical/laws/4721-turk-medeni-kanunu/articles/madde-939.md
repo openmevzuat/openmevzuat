@@ -7,4 +7,4 @@ olan kimse, zilyetlik hükümlerine göre edinimi korunduğu ölçüde rehin hak
 kişilerin önceki zilyetlikten doğan hakları saklıdır.
 Taşınır, fiilen yalnız rehnedenin hâkimiyetinde kaldığı sürece rehin hakkı doğmaz.
 
-2. Ayrık durumlar40
+2. Ayrık durumlar42

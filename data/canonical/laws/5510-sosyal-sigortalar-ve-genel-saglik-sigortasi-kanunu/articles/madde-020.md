@@ -8,6 +8,11 @@ oranda kaybetmesi nedeniyle sürekli iş göremezlik geliri bağlanmış iken ö
 kazası veya meslek hastalığına bağlı olup olmadığına bakılmaksızın birinci fıkraya göre
 belirlenen tutar, 34 üncü madde hükümlerine göre hak sahiplerine gelir olarak bağlanır.
 İş kazası veya meslek hastalığı sonucu meslekte kazanma gücünü %50 oranının
+
+37 17/4/2008 tarihli ve 5754 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “prim ve her türlü
+borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
+38 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlerin” ibaresi
+“engellilik hâllerinin” şeklinde değiştirilmiştir.
 altında kaybetmesi nedeniyle sürekli iş göremezlik geliri bağlanmış iken ölenlerin, ölümün iş
 kazası veya meslek hastalığına bağlı olmaması halinde sigortalının almakta olduğu sürekli iş
 göremezlik geliri, 34 üncü madde hükümlerine göre hak sahiplerine gelir olarak bağlanır.

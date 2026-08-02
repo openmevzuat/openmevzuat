@@ -173,15 +173,22 @@ MADDE 25
 
 DÖRDÜNCÜ BÖLÜM
 Atamalar
-Atama esasları:
+Atama ve görev süresi:
 
 MADDE 26
 
-(Mülga: 2/7/2018 – KHK-703/61 md.)
+(Mülga: 2/7/2018 – KHK-703/61 md.) (Başlığı ile Birlikte Yeniden
+Düzenleme:16/7/2026-7589/7 md.)
+Adli tıp ihtisas kurulu başkan ve üyeliklerine atanmak için en az tıpta veya diş
+hekimliğinde uzmanlık belgesi ya da alanında doktora derecesi almış olmak şarttır.
 
 8 Madde başlığı 19/2/2003 tarihli 4810 sayılı Kanunla metne işlendiği şekilde değiştirilmiştir.
 9 Bu madde başlığı “Adli Tıp Genel Kurulunun ve İhtisas Kurullarının çalışması:” iken, 3/11/2016 tarihli ve 6754
 sayılı Kanunun 33 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+Adli tıp ihtisas kurulu başkan ve üyeleri ile adli tıp grup başkanları ve adli tıp ihtisas
+dairesi başkanlarının görev süresi dört yıldır. Yeni atanan veya görevlendirilenler göreve
+başlayıncaya kadar süresi dolanların görevi devam eder.
+
 BEŞİNCİ BÖLÜM
 Özlük Hakları
 İkinci görev aylığı:10
@@ -223,10 +230,6 @@ Kurumu ve birimlerine malzeme, araç, gereç, araştırma ve döner sermayede g�
 giderlerine ayrılır. Gelirin geri kalan kısmı Adlî Tıp Kurumunda ve birimlerinde görevli memur
 ve sözleşmeli personele; unvanı, görevi, sınıfı, çalışma şartları, hizmet nitelikleri, hizmete
 katkısı, performansı ve benzeri hususlar dikkate alınarak Maliye Bakanlığının uygun
-görüşü üzerine çıkarılacak yönetmelikte tespit edilecek esaslara göre ödenebilir.13
-(Değişik ikinci fıkra: 9/2/2011-6110/6 md.) Yapılacak ödeme, ilgili personelin bir
-ayda alacağı aylık (ek gösterge dâhil), yan ödeme ve her türlü tazminat (makam, temsil ve
-görev tazminatı hariç) toplamının;
 
 10 2/7/2018 tarihli 703 sayılı KHK’nin 61 inci maddesiyle, bu maddede yer alan “26 ncı maddede belirtilen
 görevlere” ibaresi “Adlî Tıp Kurumuna” şeklinde değiştirilmiştir.
@@ -236,8 +239,10 @@ maddesiyle metne işlendiği şekilde değiştirilmiştir.
 yer alan “görevli personele” ibaresi “görevli memur ve sözleşmeli personele” şeklinde, ikinci fıkrasının (i)
 bendinde yer alan “% 200’ünü” ibaresi “%215’ini” şeklinde, (j) bendinde yer alan “% 150’sini” ibaresi
 “%200’ünü” şeklinde değiştirilmiştir.
-13 9/2/2011 tarihli ve 6110 sayılı Kanunun 6 ncı maddesiyle, bu maddenin birinci fıkrasının ikinci cümlesinde yer
-alan “personele;” ibaresinden sonra gelmek üzere “unvanı, görevi,” ibareleri eklenmiş ve metne işlenmiştir.
+görüşü üzerine çıkarılacak yönetmelikte tespit edilecek esaslara göre ödenebilir.13
+(Değişik ikinci fıkra: 9/2/2011-6110/6 md.) Yapılacak ödeme, ilgili personelin bir
+ayda alacağı aylık (ek gösterge dâhil), yan ödeme ve her türlü tazminat (makam, temsil ve
+görev tazminatı hariç) toplamının;
 a) Adlî Tıp Kurumu Başkanı için % 700’ünü,
 b) Başkan yardımcıları için % 650’sini,
 c) İhtisas kurulu başkanları için % 625’ini,
@@ -270,12 +275,14 @@ hükümler çerçevesinde ayrıca ek ödeme yapılır.
 (Değişik dördüncü fıkra: 9/2/2011-6110/6 md.) İkinci görevli olarak çalışanlara,
 (…)14 kadrolarının bulunduğu kurumlardaki döner sermaye işletmelerinden yapılan ödemenin
 yanı sıra, çalıştıkları gün esas alınmak suretiyle Adlî Tıp Kurumu döner sermayesinden ek
-ödeme yapılır. Ancak her iki kurum döner sermayesinden yapılacak ödeme, toplamda,
-kadrolarının bulunduğu kurumun döner sermaye tavan oranlarını geçemez.
 
+13 9/2/2011 tarihli ve 6110 sayılı Kanunun 6 ncı maddesiyle, bu maddenin birinci fıkrasının ikinci cümlesinde yer
+alan “personele;” ibaresinden sonra gelmek üzere “unvanı, görevi,” ibareleri eklenmiş ve metne işlenmiştir.
 14 15/8/2016 tarihli ve 674 sayılı KHK’nin 6 ncı maddesiyle, bu fıkrada yer alan “ikinci görev aylığı ödenmeksizin”
 ibaresi yürürlükten kaldırılmış olup, daha sonra bu hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 6 ncı
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
+ödeme yapılır. Ancak her iki kurum döner sermayesinden yapılacak ödeme, toplamda,
+kadrolarının bulunduğu kurumun döner sermaye tavan oranlarını geçemez.
 YEDİNCİ BÖLÜM
 Çeşitli Hükümler
 Diğer Adli Ekspertiz Kurumları:

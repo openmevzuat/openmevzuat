@@ -8,7 +8,7 @@ yıllar itibariyle ödeneğin bütçelerinde bulunmasını sağlamak üzere prog
 olması zorunludur. İlk yıl için öngörülen ödenek, yılı merkezî yönetim bütçe kanununda
 belirlenen stratejik öneme sahip yatırımlar veya projeler hariç olmak üzere, proje maliyetinin %
 10’undan az olamaz ve başlangıçta daha sonraki yıllar için programlanmış olan ödenek dilimleri
-sonraki yıllarda azaltılamaz.62
+sonraki yıllarda azaltılamaz.63
 b) Öngörülen ödeneklerin kullanılmasına imkan verecek süre dikkate alınarak, idarelerce
 ihalelerin zamanında yapılması, birden fazla yılı kapsayan ve yatırım niteliği olan işlerde (doğal
 afetler nedeniyle yapılması gerekenler hariç) ise yılın ilk dokuz ayında ihalenin sonuçlandırılması
@@ -25,7 +25,7 @@ proje üzerinden, her türlü onarım işleri ile işin yapımı sırasında bel
 etütleri gerekmesi veya uygulamada imar ve güzergâh değişikliklerinin muhtemel olması
 nedenleriyle ihaleden önce uygulama projesi yapılamayan, bina işleri hariç, yapım işlerinde ise
 
-62 16/11/2016 tarihli ve 6761 sayılı Kanunun 6 ncı maddesiyle, bu bende 1/1/2017 tarihinden geçerli
+63 16/11/2016 tarihli ve 6761 sayılı Kanunun 6 ncı maddesiyle, bu bende 1/1/2017 tarihinden geçerli
 olmak üzere “İlk yıl için öngörülen ödenek” ibaresinden sonra gelmek üzere “, yılı merkezî yönetim bütçe
 kanununda belirlenen stratejik öneme sahip yatırımlar veya projeler hariç olmak üzere,” ibaresi
 eklenmiştir.
@@ -38,7 +38,7 @@ demiryolu, petrol ve doğalgaz boru hattı projelerinde aranmaz.
 d) (Değişik: 30/7/2003-4964/38 md.) İdarelerce bütçesinin programlanmasında, ihalede
 ise isteklilerce verilen tekliflerin karşılaştırılmasında kullanılmak üzere tespit edilen yaklaşık
 maliyet isteklilere duyurulmaz.
-e) (Değişik: 20/11/2017-KHK-696/83 md. Aynen kabul: 1/2/2018-7079/78 md.)63
+e) (Değişik: 20/11/2017-KHK-696/83 md. Aynen kabul: 1/2/2018-7079/78 md.)64
 1) 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri
 (MİT Müsteşarlığı hariç) ile bunlara bağlı döner sermayeli kuruluşlar, 375 sayılı Kanun Hükmünde
 Kararnameye ekli (I) sayılı listede yer alan idarelerin merkez ve taşra teşkilatları, il özel idareleri,
@@ -65,7 +65,7 @@ yönetim sistemi hizmetleri ve çağrı merkezi hizmetlerine ilişkin alımlar p
 dayalı hizmet alımı olarak kabul edilmez.
 3) Kurum, hizmet alımının personel çalıştırılmasına dayalı olup olmadığı ya da niteliği
 
-63 20/11/2017 tarihli ve 696 sayılı KHK’nin 136 ncı maddesiyle, bu değişikliğin 2/1/2018 tarihinde
+64 20/11/2017 tarihli ve 696 sayılı KHK’nin 136 ncı maddesiyle, bu değişikliğin 2/1/2018 tarihinde
 yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun
 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 itibarıyla bu sonucu doğurup doğurmadığı hususunda (2) numaralı alt bentte sayılan kriterleri ayrı
@@ -84,7 +84,7 @@ geçmemek kaydıyla mezuniyetlerinden sonra geçen her yıl, yüzyirmiikibinüç
 Türk Lirası olarak hesaplanmak üzere 10 uncu madde kapsamındaki benzer iş deneyimi olarak
 dikkate alınır. Bu süre iş deneyimi bulunan mimar ve mühendisler için uygulanmaz. Bu bent
 kapsamında elde edilen deneyim mühendis ve mimarın beş yıldır en az % 51 hissesine sahip olduğu
-(…)64 tüzel kişiler tarafından da kullanılabilir.65
+(…)65 tüzel kişiler tarafından da kullanılabilir.66
 ı) (Ek: 30/7/2003-4964/38 md.) Bu Kanunun 21 ve 22 nci maddelerindeki parasal limitler
 dahilinde yapılacak harcamaların yıllık toplamı, idarelerin bütçelerine bu amaçla konulacak
 ödeneklerin %10’unu Kamu İhale Kurulunun uygun görüşü olmadıkça aşamaz.

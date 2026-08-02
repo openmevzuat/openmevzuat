@@ -40,17 +40,11 @@ kadar adli para cezası uygulanır.
 hakkında bin günden on beş bin güne kadar adlî para cezasına hükmolunur.
 (10) Bu Kanunun 56 ncı maddesinin birinci fıkrası hükümlerine aykırı hareket edenler
 bin günden beş bin güne kadar; ikinci, üçüncü, dördüncü ve beşinci fıkralarına aykırı hareket
-ederek bu işi bizzat yapanlar elli günden yüz güne kadar adli para cezası ile cezalandırılır.19
+ederek bu işi bizzat yapanlar elli günden yüz güne kadar adli para cezası ile cezalandırılır.21
 (11) Bu maddede tanımlanan suçların bir örgütün faaliyeti çerçevesinde işlenmesi
 halinde, verilecek cezalar yarısı oranında artırılır. Bu faaliyette bulunan tüzel kişi ise,
 hakkında 5237 sayılı Kanundaki bunlara özgü güvenlik tedbirlerine de hükmolunur.
 
 SEKİZİNCİ KISIM
-
-19 6/2/2014 tarihli ve 6518 sayılı Kanunun 105 inci maddesi ile bu fıkrada yer alan “ikinci fıkrası
-hükümlerine aykırı hareket edenler yirmi günden yüz güne kadar; üçüncü fıkrası hükümlerine aykırı
-hareket edenler yüz günden beş yüz güne kadar” ibaresi “ikinci, üçüncü, dördüncü ve beşinci
-fıkralarına aykırı hareket ederek bu işi bizzat yapanlar elli günden yüz güne kadar” şeklinde
-değiştirilmiştir.
 Son Hükümler
 Tebligat

@@ -16,6 +16,3 @@ yasaklama hükümleri hariç, bu Kanun hükümlerine tabi değildir. Bu madde uy
 alımlara ilişkin usul ve esaslar Maliye Bakanlığı ve Kamu İhale Kurumunun görüşü alınarak
 Millî Eğitim Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından müştereken
 hazırlanacak yönetmelikle, rekabete açık olacak şekilde düzenlenir.
-
-87 Bu maddede belirtilen kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (mükerrer) sayılı Resmi
-Gazete’ye bakınız.

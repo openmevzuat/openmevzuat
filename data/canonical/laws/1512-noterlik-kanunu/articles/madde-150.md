@@ -10,5 +10,9 @@ yollar. Kurulun vereceği kararlar kesindir.
 
 BEŞİNCİ BÖLÜM
 Noterler, Geçici Yetkili Noter Yardımcıları, Noter Vekilleri ile Katiplerin ve Katip
+
+17 Anayasa Mahkemesinin 16/4/2026 tarihli ve E.: 2026/86, K.: 2026/76 sayılı Kararı ile bu maddenin birinci ve
+ikinci fıkraları iptal edilmiştir. Bu Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
+(6/4/2027) yürürlüğe gireceği hüküm altına alınmıştır.
 Adaylarının İşliyecekleri ve Bunlara Karşı İşlenecek Suçlar
 Görevle ilgili suçlar:

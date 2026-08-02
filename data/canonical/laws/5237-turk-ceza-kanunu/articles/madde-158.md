@@ -34,3 +34,9 @@ verilecek ceza bir kat artırılır.
 71 24/11/2016 tarihli ve 6763 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “iki yıldan yedi
 yıla” ibaresi “üç yıldan on yıla” şeklinde, “(j) ve (k)” ibaresi “(j), (k) ve (l)” şeklinde ve “üç yıldan”
 ibaresi “dört yıldan” şeklinde değiştirilmiştir.
+(4) (Ek:16/7/2026-7589/13 md.) Bu madde ile 157 nci maddede yer alan suçlara
+iştirakin, kendisine veya başkasına haksız bir menfaat sağlamak amacıyla kendisine veya
+başkasına ait banka veya kredi kartı gibi ödeme araçlarını ya da banka, aracı kurum, ödeme
+hizmeti sağlayıcıları veya kripto varlık hizmet sağlayıcıları nezdinde bulunan hesabın
+kullanılmasını sağlayan zorunlu bilgileri veya araçları başkasına vermek fiiliyle sınırlı olması
+halinde verilecek ceza yarı oranında indirilir.

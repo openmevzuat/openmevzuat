@@ -12,6 +12,6 @@ usulüne uygun olmayan istekliler tutanakla tespit edilir. İstekliler ile tekli
 maliyet tutarı açıklanır. Bu işlemlere ilişkin hazırlanan tutanak ihale komisyonunca imzalanır. Bu
 aşamada; hiçbir teklifin reddine veya kabulüne karar verilmez, teklifi oluşturan belgeler
 düzeltilemez ve tamamlanamaz. Teklifler ihale komisyonunca hemen değerlendirilmek üzere
-oturum kapatılır.35
+oturum kapatılır.36
 
 Tekliflerin değerlendirilmesi

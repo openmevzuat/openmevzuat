@@ -12,9 +12,6 @@ e) 73 üncü madde gereğince belirlenen tavanın üzerinde ilave ücret aldığ
 tespit edilen sağlık hizmeti sunucuları hakkında genel hükümlere göre takip yapılır. Bu
 fiiller nedeniyle Kurumun yersiz ödediği tutar 96 ncı maddeye göre geri alınır. Ayrıca bu
 fiilleri işleyen veya sağlık hizmeti satınalınmasına ilişkin sözleşmelerde belirtilen hükümlere
-
-185 18/2/2009 tarihli ve 5838 sayılı Kanunun 4 üncü maddesiyle; bu fıkrada yer alan“8 inci,”
-ibaresinden sonra gelmek üzere “9 uncu,” ibaresi eklenmiştir.
 aykırı davrandığı tespit edilen sağlık hizmeti sunucularının Kurum ile yaptıkları sözleşmeleri
 feshedilebilir ve Kurumca belirlenecek süre içinde tekrar sözleşme yapılmaz.
 71 inci maddede yer alan kimlik tespiti yükümlülüğünü yapmayan ve bu nedenle bir

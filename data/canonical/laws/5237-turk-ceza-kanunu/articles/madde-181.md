@@ -14,3 +14,8 @@ artıklarla ilgili olarak işlenmesi halinde, beş yıldan az olmamak üzere hap
 güne kadar adlî para cezasına hükmolunur.
 (5) Bu maddenin iki, üç ve dördüncü fıkrasındaki fiillerden dolayı tüzel kişiler
 hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
+
+cezalandırılır.” ibaresi “altı aydan iki yıla kadar hapis cezası ile cezalandırılır.” şeklinde
+değiştirilmiştir.
+76 24/11/2016 tarihli ve 6763 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “idare eden kişi,”
+ibaresinden sonra gelmek üzere “üç aydan” ibaresi eklenmiştir.

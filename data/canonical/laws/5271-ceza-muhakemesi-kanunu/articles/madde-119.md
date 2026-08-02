@@ -19,4 +19,7 @@ yapabilmek için o yer ihtiyar heyetinden veya komşulardan iki kişi bulundurul
 (5) (Değişik: 25/7/2018-7145/14 md.) Askerî mahallerde yapılacak arama, Cumhuriyet
 savcısının nezaretinde askerî makamların katılımıyla adlî kolluk görevlileri tarafından yerine
 getirilir. Gecikmesinde sakınca bulunan hâllerde Cumhuriyet savcısının yazılı emriyle de askerî
+
+Kanunun 40 ıncı maddesiyle bu fıkrada yer alan “somut delillere dayalı kuvvetli” ibaresi “makul”
+şeklinde değiştirilmiştir.
 makamların katılımıyla adlî kolluk görevlileri tarafından arama yapılabilir.
