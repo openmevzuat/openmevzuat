@@ -2,10 +2,10 @@
 
 (Ek:17/10/2019-7188/12 md.)
 
-79 7/4/2021 tarihli ve 7315 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “26.10.1994 tarihli ve 4045
+81 7/4/2021 tarihli ve 7315 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “26.10.1994 tarihli ve 4045
 sayılı Kanunun 1 inci maddesine göre” ibaresi “Güvenlik Soruşturması ve Arşiv Araştırması Kanununa göre
 güvenlik soruşturması ve” şeklinde değiştirilmiştir.
-80 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “adaylığına” ibaresi
+82 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “adaylığına” ibaresi
 “yardımcılığına” şeklinde değiştirilmiştir.
 Türkiye Adalet Akademisine öğretim elemanı olarak atanan veya görevlendirilen hâkim
 ve savcılar ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu hükümlerine göre

@@ -3,6 +3,12 @@
 Mahcuz mallar tamamiyle satıldıkta bedelleri alakadarlara hisselerine
 göre paylaştırılır ve bir kısmı satıldıkta icabına göre bedeli hisseleri nispetinde alakadarlara
 avans olarak dağıtılır.
+
+56 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkranın ikinci cümlesinde yer alan
+“ihaleden” ibaresi “ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten”
+şeklinde değiştirilmiştir.
+57 Bu madde başlığı “Gemiler hakkında:” iken, 14/1/2011 tarihli ve 6103 sayılı Kanunun 41 inci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 Haciz, paraya çevirme ve paylaştırma gibi bütün alacaklıları alakadar eden masraflar
 önce satış tutarından alınır ve artan para takip masrafları ve işlemiş faizler dahil olduğu halde
 alacakları nispetinde paylaştırılır.

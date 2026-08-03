@@ -10,4 +10,7 @@ tedbirleri alır veya istendiğinde tekrar verilmek üzere belgeyi ibraz edene g
 (4) Taraflardan biri elindeki belgenin aslını mahkemeye verirse, bu belgenin geri
 verilmesini talep edebilir. Bu takdirde hâkim, belgenin aslının verilip verilmeyeceğine karar
 verir. Geri verilmesine karar verildiğinde, aslına uygun olduğu mahkeme mührü ve yazı işleri
+
+23 22/7/2020 tarihli ve 7251 sayılı Kanunun 22 nci maddesiyle, bu madde başlığı “Belgelerin halefler
+aleyhine kullanılması” iken metne işlendiği şekilde değiştirilmiştir.
 müdürünün imzasıyla onanmış örneği dosyaya konur.

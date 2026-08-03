@@ -8,12 +8,12 @@
  :document/path
  "data/canonical/laws/4447-issizlik-sigortasi-kanunu-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-turkiye-cumhuriyeti-emekli-sandigi-kanunu-esnaf-ve-sanatkarlar-ve-diger-da304b310bb6",
  :document/sha256
- "8edb90cb25f4e09fc637a0b474be0b913678b8833ca36722ea03dc8b8986cc58",
+ "a37d4ded71a10b5b9b70aaa0af35b51ef5897fe45f21925ffdb43e68b9814d6b",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4447.pdf",
- :source/fetched-at #inst "2026-07-16T02:30:12.030-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-03T08:21:13.023-00:00",
+ :openmevzuat/baseline-date "2026-08-03",
+ :openmevzuat/generated-at #inst "2026-08-03T08:20:04.342-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -476,7 +476,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-035.md",
    :article/sha256
-   "e02f95e1527d70d1f4f7cb27b0c5403ac9117f86c988606d8ce9971f267aec83"}
+   "d06db15710659a39381275cbfd966dc5a653ed561a68619d270d7e46c9aa6b4a"}
+  {:article/id "law/4447/article/36",
+   :article/type :temporary,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/gecici-madde-036.md",
+   :article/sha256
+   "19c18bacf596a5a943206436e3e743b04aaed968510cd83a6e03211c555e3b37"}
   {:article/id "law/4447/article/63",
    :article/type :normal,
    :article/no "63",

@@ -11,14 +11,14 @@ sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı o
 toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
 d) Büyükşehir belediyesi sınırları dahilinde bulunan idarelerin onbeş milyar, diğer
 idarelerin beşmilyar Türk Lirasını aşmayan ihtiyaçları ile temsil ağırlama faaliyetleri kapsamında
-yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar.31
+yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar.32
 e) İdarelerin ihtiyacına uygun taşınmaz mal alımı veya kiralanması.
 f) (Değişik: 20/11/2008-5812/8 md.) Özelliğinden ve belli süre içinde kullanılma
 zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan
 ilaç, aşı, serum, anti-serum, kan ve kan ürünleri ile ortez, protez gibi uygulama esnasında hastaya
 göre belirlenebilen ve hastaya özgü tıbbî sarf malzemeleri, test ve tetkik sarf malzemeleri alımları.
 
-31 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
+32 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
 g) Milletlerarası tahkim yoluyla çözülmesi öngörülen uyuşmazlıklarla ilgili davalarda,

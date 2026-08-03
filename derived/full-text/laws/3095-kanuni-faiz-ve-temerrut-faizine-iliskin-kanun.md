@@ -6,15 +6,16 @@
 
 MADDE 1 — Kanuni faiz
 
-(Değişik : 21/4/2005 - 5335/14 md.)
-Borçlar Kanunu ve Türk Ticaret Kanununa göre faiz ödenmesi gereken hallerde,
-miktarı sözleşme ile tespit edilmemişse bu ödeme yıllık yüzde oniki oranı üzerinden yapılır.
-Cumhurbaşkanı, bu oranı aylık olarak belirlemeye, yüzde onuna kadar indirmeye veya
-bir katına kadar artırmaya yetkilidir.123
+(Değişik:16/7/2026-7589/10 md.)
+11/1/2011 tarihli ve 6098 sayılı Türk Borçlar Kanunu ile 13/1/2011 tarihli ve 6102
+sayılı Türk Ticaret Kanununa göre faiz ödenmesi gereken hallerde, miktarı sözleşme ile tespit
+edilmemişse bu ödeme yıllık, Türkiye Cumhuriyet Merkez Bankasının önceki yılın 31 Aralık
+günü kısa vadeli kredi işlemlerinde uyguladığı reeskont oranının yüzde sekseni üzerinden
+yapılır. Söz konusu reeskont oranı, 30 Haziran günü önceki yılın 31 Aralık günü uygulanan
+reeskont oranından beş puan veya daha çok farklı ise, yılın ikinci yarısında 30 Haziran günü
+belirlenen oranın yüzde sekseni geçerli olur.
 
-Temerrüt faizi
-
-MADDE 2
+MADDE 2 — Temerrüt faizi
 
 (Değişik : 15/12/1999 - 4489/2 md.) Bir miktar paranın ödenmesinde
 temerrüde düşen borçlu, sözleşme ile aksi kararlaştırılmadıkça, geçmiş günler için 1 inci
@@ -33,18 +34,7 @@ MADDE 3 — Mürekkep faiz
 Kanuni faiz ve temerrüt faizi hesaplanırken mürekkep faiz yürütülemez.
 Bu konuya ilişkin Türk Ticaret Kanunu hükümleri saklıdır.
 
-Diğer kanunlardaki faizler
-
-1 21/5/2024 tarihli ve 32552 sayılı Resmî Gazete’de yayımlanan 20/5/2024 tarihli ve 8485 sayılı
-Cumhurbaşkanı Kararı ile, kanuni faiz oranının 1/6/2024 tarihinden geçerli olmak üzere yıllık % 24
-olarak uygulanması kararlaştırılmıştır.
-2 2/7/2018 tarihli ve 700 sayılı KHK’nin 94 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-3 Anayasa Mahkemesi’nin 22/7/2025 tarihli ve E: 2024/24, K: 2025/164 sayılı Kararı ile bu madde
-“Sözleşmeden kaynaklanmayan borç ilişkileri” yönünden iptal edilmiştir. Bu Karar Resmî Gazete’de
-yayımlanmasından başlayarak dokuz ay sonra (1/9/2026) yürürlüğe girer.
-
-MADDE 4
+MADDE 4 — Diğer kanunlardaki faizler
 
 Diğer kanunların, bu Kanunda öngörülen orandan fazla temerrüt faizi
 ödenmesine ilişkin hükümleri saklıdır.

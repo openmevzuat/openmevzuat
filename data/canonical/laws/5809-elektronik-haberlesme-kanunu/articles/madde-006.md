@@ -1,6 +1,6 @@
 # MADDE 6 — Kurumun görev ve yetkileri
 
-(1) Kurumun görev ve yetkileri şunlardır:5
+(1) Kurumun görev ve yetkileri şunlardır:6
 a) Elektronik haberleşme sektöründe; rekabeti tesis etmeye ve korumaya, rekabeti
 engelleyici, bozucu veya kısıtlayıcı uygulamaların giderilmesine yönelik düzenlemeleri
 yapmak, bu amaçla ilgili pazarlarda etkin piyasa gücüne sahip işletmecilere ve gerekli
@@ -8,11 +8,11 @@ hallerde diğer işletmecilere yükümlülükler getirmek ve mevzuatın öngörd
 almak.
 b) Bu Kanun ve bu Kanuna dayanılarak yapılan düzenlemelere aykırı olarak,
 elektronik haberleşme sektöründe ortaya çıkan rekabet ihlallerini denetlemek, yaptırım
+
+6 6/2/2014 tarihli ve 6518 sayılı Kanunun 103 üncü maddesiyle bu maddenin birinci fıkrasına (ü)
+bendinden sonra gelmek üzere (v) bendi eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
 uygulamak, mevzuatın öngördüğü hallerde elektronik haberleşme sektöründe rekabet
 ihlallerine ilişkin konularda Rekabet Kurumundan görüş almak.
-
-5 6/2/2014 tarihli ve 6518 sayılı Kanunun 103 üncü maddesiyle bu maddenin birinci fıkrasına (ü)
-bendinden sonra gelmek üzere (v) bendi eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
 c) Abone, kullanıcı, tüketici ve son kullanıcıların hakları ile kişisel bilgilerin işlenmesi
 ve gizliliğinin korunmasına ilişkin gerekli düzenlemeleri ve denetlemeleri yapmak.
 ç) İşletmeciler ile tüketicileri ilgilendiren Kurul kararlarını gerekçe ve süreçleri ile
@@ -92,8 +92,6 @@ ilişkin usul ve esasları belirlemek.
 ü) Elektronik haberleşme sektöründe, bağımsız denetim faaliyetine ilişkin esasları,
 bağımsız denetleme faaliyetlerinde bulunacak kuruluşların kuruluş şartlarını, çalışma
 esaslarını ve çalıştıracağı personelin niteliklerini belirlemek.
-v) (Ek: 6/2/2014-6518/103 md.) (Değişik: 12/3/2025-7545/19 md.) İnternet alan
-adları ve Kurum görevleri konularında Cumhurbaşkanı ve Bakanlık tarafından verilen
-görevleri yerine getirmek.
+v) (Ek: 6/2/2014-6518/103 md.) (Mülga:24/7/2026-7590/27 md.)
 y) Bu Kanunla verilen görevlere ilişkin yönetmelik, tebliğ ve diğer ikincil
 düzenlemeleri çıkarmak.

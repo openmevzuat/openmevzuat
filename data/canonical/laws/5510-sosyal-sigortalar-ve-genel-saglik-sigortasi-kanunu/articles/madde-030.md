@@ -5,12 +5,12 @@ a) (a) ve (b) bentlerinde belirtilen sigortalılardan yaşlılık aylığına ha
 yazılı istek tarihinden sonraki,
 b) (Değişik: 17/4/2008-5754/18 md.) (c) bendinde belirtilen sigortalılardan yaşlılık
 aylığına hak kazananlara, yetkili makamdan alınan emekliye sevk onayı üzerine görevleriyle
-ilişiğinin kesildiği tarihi takip eden,
 
 50 Bu madde başlığı “Yaşlılık aylığının başlangıcı, kesilmesi veya sosyal güvenlik destek primi ödenmesi”
 iken, 29/1/2016 tarihli ve 6663 sayılı Kanunun 24 üncü maddesiyle metne işlendiği biçimde değiştirilmiş
 olup, söz konusu değişikliğin, Kanunun yayımı tarihi olan 10/2/2016 tarihini takip eden ödeme dönemi
 başında yürürlüğe gireceği adı geçen Kanunun 35 inci maddesi ile hüküm altına alınmıştır.
+ilişiğinin kesildiği tarihi takip eden,
 c) (Değişik: 17/4/2008-5754/18 md.) (c) bendinde belirtilen sigortalılardan her ne
 şekilde olursa olsun görevinden ayrılmış ve daha sonra başka bir sigortalılık haline tabi olarak
 çalışmamış olanlar ile kontrol muayenesi sonucu aylığı kesilenlerden yaşlılık aylığına hak

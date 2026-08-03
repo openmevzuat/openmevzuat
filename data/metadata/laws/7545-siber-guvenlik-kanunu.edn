@@ -5,12 +5,12 @@
  :document/slug "7545-siber-guvenlik-kanunu",
  :document/path "data/canonical/laws/7545-siber-guvenlik-kanunu",
  :document/sha256
- "81573f15608d5ebcf6695c8cf4a6c6a14a70f3a4276729478f6810957c9662a4",
+ "56ebeed3a37776b967bacf1533d4ae95bd10d9dbc3d2b27d35821173ccc59cb1",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7545.pdf",
- :source/fetched-at #inst "2026-07-16T03:08:11.437-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :source/fetched-at #inst "2026-08-03T08:22:24.333-00:00",
+ :openmevzuat/baseline-date "2026-08-03",
+ :openmevzuat/generated-at #inst "2026-08-03T08:20:04.342-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -56,7 +56,7 @@
    :article/title "Yetkiler",
    :article/path "articles/madde-006.md",
    :article/sha256
-   "cc9ab1e3a4568611d5edbede78e2041003b979b497f91043e3524be3762cedbe"}
+   "e9ca749d85323ab48ca6fad0ccbe3b897a0d23dddea9ff04c1e284cdf28c2e12"}
   {:article/id "law/7545/article/7",
    :article/type :normal,
    :article/no "7",
@@ -126,14 +126,14 @@
    :article/title nil,
    :article/path "articles/madde-016.md",
    :article/sha256
-   "0df312f394f193c2c758e6c4c49ecd70af24093311bba183a00c83f7dabdb5bd"}
+   "1aedaa27850efd9f25da40911ea10f88e6fcf27e6294307cec0eae59524daabc"}
   {:article/id "law/7545/article/17",
    :article/type :normal,
    :article/no "17",
    :article/title "İdari para cezalarının uygulanması",
    :article/path "articles/madde-017.md",
    :article/sha256
-   "b5889afb3fe784a7410a2c3dad9c445b1d91104ed66de72a7057296f25b28078"}
+   "cab291ccb8bda835e397ef62c462073430d6850c494da932fa33127f89e61471"}
   {:article/id "law/7545/article/18",
    :article/type :normal,
    :article/no "18",
@@ -155,6 +155,13 @@
    :article/path "articles/gecici-madde-001.md",
    :article/sha256
    "ab12ba561d8a2fc665738b3a48de30f5362342e42d6fdf94c1a9bf980b850b2a"}
+  {:article/id "law/7545/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "fea856f976eb5127dcd845469a8815445c5647556f656b895f7548dbbbb5e230"}
   {:article/id "law/7545/article/20",
    :article/type :normal,
    :article/no "20",
@@ -168,4 +175,4 @@
    :article/title "Yürütme",
    :article/path "articles/madde-021.md",
    :article/sha256
-   "feaa88328557f04a687338cad965c72c6fa324169d80233b59680f5d26494000"}]}
+   "b1ab27faf89618c915b0ec81767a24a35fa33b363528711bd40961d8656c2b63"}]}

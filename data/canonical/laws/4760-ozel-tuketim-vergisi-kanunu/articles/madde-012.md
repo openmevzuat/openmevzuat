@@ -18,7 +18,15 @@ sigaraların ve makaronların birim ambalajı içinde yer alan her bir sigara ve
 ve “20 adet sigaradan” ibaresi “20 adet sigaradan, 50 adet makarondan” şeklinde değiştirilmiştir.
 tarafından yüzde 10’a kadar yapılan indirimler alış bedelinden de indirilebilir. Ancak bu
 indirimler sonrası kalan tutar, malın imalatçısının satış bedelinden veya ithalatta hesaplanan
-katma değer vergisi matrahından düşük olamaz. Maliye Bakanlığı, bu hükmün uygulanmasına
+katma değer vergisi matrahından düşük olamaz. (Ek cümleler:24/7/2026-7590/14 md.) (II) sayılı
+listenin 87.03 G.T.İ.P. numarasında yer alan mallar (13/10/1983 tarihli ve 2918 sayılı Karayolları
+Trafik Kanunu uyarınca (L) sınıfında olup içten yanmalı motoru olanlar ile (L) sınıfında olup
+elektrik motor gücü 4 kW’ın altında olanlar ve (T) sınıfında olan araçlar hariç) için nispi vergi
+oranı üzerinden hesaplanacak vergi tutarı, asgari maktu vergi tutarı olan; (L) sınıfı araçlar için
+30.000 Türk Lirası, diğerleri için 100.000 Türk Lirasından az olamaz. Bu tutarlar her yıl bir
+önceki yıla ilişkin olarak 4/1/1961 tarihli ve 213 sayılı Vergi Usul Kanunu hükümlerine göre
+belirlenen yeniden değerleme oranında artırılmak suretiyle uygulanır. Hesaplanan tutarların 100
+Türk Lirasını aşmayan kesirleri dikkate alınmaz. Maliye Bakanlığı, bu hükmün uygulanmasına
 ilişkin usul ve esasları belirlemeye yetkilidir.
 2. Cumhurbaşkanı, topluca veya ayrı ayrı olmak üzere;
 a) (Değişik:14/7/2023-7456/12 md.) (I) sayılı listede yer alan veya bu maddenin (5)
@@ -39,8 +47,6 @@ tütün mamullerinin birim ambalajı içindeki mamulün her bir gramı ile çarp
 (…)23 tutarı aşmamak üzere; birim ambalaj itibarıyla maktu vergi tutarı belirlemeye, bu tutarı
 malların cinsleri, özellikleri, ambalajları (paketleri) ve bunların fiyatları ve fiyat grupları
 itibarıyla farklılaştırmaya,24252627
-c) (Değişik: 16/11/2016-6761/7 md.) (II) sayılı listedeki mallar için belirlenen oranları ve
-oranlara esas özel tüketim vergisi matrahlarının alt ve üst sınırlarını üç katına kadar artırmaya,
 
 23 28/7/2024 tarihli ve 7524 sayılı Kanunun 26 ncı maddesi ile bu bentte yer alan “tutarın %20’sine
 tekabül eden” ibaresi madde metninden çıkarılmıştır.
@@ -50,6 +56,26 @@ yer alan her bir sigara adedi, diğer tütün mamullerinin birim ambalajı için
 çarpımı sonucu bulunacak tutarın %20’sine tekabül eden tutarı aşmamak üzere; birim ambalaj itibarıyla
 maktu vergi tutarı belirlemeye, bu tutarı malların cinsleri, özellikleri, ambalajları (paketleri) ve bunların
 fiyatları ve fiyat grupları itibarıyla farklılaştırmaya,” ibaresi eklenmiştir.
+c) (Değişik: 16/11/2016-6761/7 md.) (II) sayılı listedeki mallar için belirlenen oranları ve
+oranlara esas özel tüketim vergisi matrahlarının alt ve üst sınırlarını üç katına kadar artırmaya,
+sıfıra kadar indirmeye, bu sınırlar içinde kalmak şartıyla 87.03 G.T.İ.P. numarasında yer alan
+(…)28 mallar için farklı matrah grupları oluşturmaya, malların matrah grupları, motor gücü, motor
+silindir hacmi, çekiş sistemi, menzili, batarya kapasitesi, cinsi, sınıfı, üst yapı gövde tanımı,
+emisyon türü ve değeri, istiap haddi ile yolcu ve yük taşıma kapasitesi itibarıyla farklı oranlar
+belirlemeye; uygulanmakta olan oranları EURO normlarını sağlayan katalitik konvertör sistemi
+ile teçhiz edilmiş taşıtlarda yarısına kadar indirmeye, kanunî oranına kadar çıkarmaya,29303132
+ç) (Ek:24/7/2026-7590/14 md.) (II) sayılı listenin 87.03 G.T.İ.P. numarasında yer alan
+mallar için (1) numaralı fıkrada yer alan tutarları veya yeniden değerleme oranı uygulanmak
+suretiyle belirlenmiş olan tutarları on katına kadar artırmaya, sıfıra kadar indirmeye, bu sınırlar
+içinde kalmak şartıyla; farklı matrah grupları oluşturmak suretiyle asgari maktu vergi tutarlarını
+farklılaştırmaya, motor gücü, motor silindir hacmi, çekiş sistemi, menzili, batarya kapasitesi,
+cinsi, sınıfı, üst yapı gövde tanımı, emisyon türü ve değeri, istiap haddi ile yolcu ve yük taşıma
+kapasitesi itibarıyla farklı asgari maktu vergi tutarları belirlemeye,
+d) (IV) sayılı listedeki mallar için belirlenen oranları sıfıra kadar indirmeye;
+8517.12.00.00.11 G.T.İ.P. numaralı mallar için %50’ye, diğer mallar için %25’e kadar artırmaya;
+8517.12.00.00.11 G.T.İ.P. numaralı mallar için belirlenen oranlara esas özel tüketim vergisi
+matrahlarının alt ve üst sınırlarını dörtte birine kadar indirmeye, dört katına kadar artırmaya,33
+
 25 28/11/2017 tarihli ve 7061 sayılı Kanunun 74 üncü maddesi ile bu bentte yer alan “her bir sigara
 adedi” ibaresi “her bir sigara veya makaron adedi” şeklinde değiştirilmiştir.
 26 14/10/2021 tarihli ve 7338 sayılı Kanunun 56 ncı maddesiyle bu bentte yer alan “bir katına” ibaresi
@@ -58,29 +84,6 @@ adedi” ibaresi “her bir sigara veya makaron adedi” şeklinde değiştirilm
 artırmaya,” ibaresinden sonra gelmek üzere “söz konusu listede yer alan veya yeniden belirlenmiş
 sayılan” ibaresi ve “(B) cetvelindeki mallar için listede yer alan” ibaresinden sonra gelmek üzere “veya
 yeniden belirlenmiş sayılan” ibaresi eklenmiştir.
-sıfıra kadar indirmeye, bu sınırlar içinde kalmak şartıyla 87.03 G.T.İ.P. numarasında yer alan
-(…)28 mallar için farklı matrah grupları oluşturmaya, malların matrah grupları, motor gücü, motor
-silindir hacmi, menzili, batarya kapasitesi, cinsi, sınıfı, üst yapı gövde tanımı, emisyon türü ve
-değeri, istiap haddi ile yolcu ve yük taşıma kapasitesi itibarıyla farklı oranlar belirlemeye;
-uygulanmakta olan oranları EURO normlarını sağlayan katalitik konvertör sistemi ile teçhiz
-edilmiş taşıtlarda yarısına kadar indirmeye, kanunî oranına kadar çıkarmaya,293031
-d) (IV) sayılı listedeki mallar için belirlenen oranları sıfıra kadar indirmeye;
-8517.12.00.00.11 G.T.İ.P. numaralı mallar için %50’ye, diğer mallar için %25’e kadar artırmaya;
-8517.12.00.00.11 G.T.İ.P. numaralı mallar için belirlenen oranlara esas özel tüketim vergisi
-matrahlarının alt ve üst sınırlarını dörtte birine kadar indirmeye, dört katına kadar artırmaya,32
-e) Listelerde gümrük tarife pozisyonu veya tarife alt pozisyonu olarak yer alan malların
-her biri için belirlenmiş olan oran veya tutarların alt ve üst sınırları içinde kalmak suretiyle, bu
-pozisyonların altında yer alan mallar itibarıyla farklı vergi tutarları veya oranları belirlemeye,
-yetkilidir.
-3. (Mülga: 30/12/2004-5281/36 md.; Yeniden düzenleme: 31/5/2012-6322/30 md.) (III)
-sayılı listedeki mallar için belirtilen asgari maktu vergi tutarları veya Cumhurbaşkanınca bunlara
-ilişkin belirlenen en son asgari maktu vergi ve maktu vergi tutarları, ocak ve temmuz aylarında,
-Türkiye İstatistik Kurumu tarafından ilan edilen üretici fiyat endeksinde son altı ayda meydana
-gelen değişim oranında, bu değişimin ilanı gününden geçerli olmak üzere yeniden belirlenmiş
-sayılır. Cumhurbaşkanı, uygulama dönemlerini gün veya ay olarak belirlemeye veya
-belirleyeceği mallar ve aylar itibarıyla yeniden belirlenmiş sayılan tutarların uygulanmamasına
-karar vermeye yetkilidir.33343536
-
 28 21/3/2018 tarihli ve 7103 sayılı Kanunun 61 inci maddesiyle bu bentte yer alan “mallar için özel
 tüketim vergisi matrahını esas alarak fiyat grupları oluşturmaya, bu fiyat grupları ve” ibaresi madde
 metninden çıkarılmıştır.
@@ -92,16 +95,23 @@ ibaresinden sonra gelmek üzere “ve oranlara esas özel tüketim vergisi matra
 sınırlarını”” ibaresi eklenmiştir.
 31 20/7/2025 tarihli ve 7555 sayılı Kanunun 14 üncü maddesiyle bu bende “motor gücü,” ibaresinden
 sonra gelmek üzere “motor silindir hacmi, menzili, batarya kapasitesi,” ibaresi eklenmiştir.
-32 21/2/2019 tarihli ve 7166 sayılı Kanunun 9 uncu maddesiyle bu bentte yer alan “indirmeye %25’e
+32 24/7/2026 tarihli ve 7590 sayılı Kanunun 14 üncü maddesiyle bu bende “motor silindir hacmi,”
+ibaresinden sonra gelmek üzere “çekiş sistemi,” ibaresi eklenmiştir.
+33 21/2/2019 tarihli ve 7166 sayılı Kanunun 9 uncu maddesiyle bu bentte yer alan “indirmeye %25’e
 kadar artırmaya,” ibaresi “indirmeye; 8517.12.00.00.11 G.T.İ.P. numaralı mallar için %50’ye, diğer
 mallar için %25’e kadar artırmaya; 8517.12.00.00.11 G.T.İ.P. numaralı mallar için belirlenen oranlara
-esas özel tüketim vergisi matrahlarının alt ve üst sınırlarını dörtte birine kadar indirmeye, dört katına
-kadar artırmaya,” şeklinde değiştirilmiştir.
-33 31/5/2012 tarihli ve 6322 sayılı Kanunun 43 üncü maddesiyle bu fıkrada yapılan düzenlemenin
-1/1/2013 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.
-34 Bu fıkranın uygulanması ile ilgili olarak 1/12/2016 tarihli ve 29905 sayılı Resmî Gazete’de yayımlanan
-30/11/2016 tarihli ve 2016/9567 sayılı Bakanlar Kurulu Kararı Eki Karara veya Kanunun sonundaki (III)
-sayılı listeye bakınız.
+e) Listelerde gümrük tarife pozisyonu veya tarife alt pozisyonu olarak yer alan malların
+her biri için belirlenmiş olan oran veya tutarların alt ve üst sınırları içinde kalmak suretiyle, bu
+pozisyonların altında yer alan mallar itibarıyla farklı vergi tutarları veya oranları belirlemeye,
+yetkilidir.
+3. (Mülga: 30/12/2004-5281/36 md.; Yeniden düzenleme: 31/5/2012-6322/30 md.) (III)
+sayılı listedeki mallar için belirtilen asgari maktu vergi tutarları veya Cumhurbaşkanınca bunlara
+ilişkin belirlenen en son asgari maktu vergi ve maktu vergi tutarları, ocak ve temmuz aylarında,
+Türkiye İstatistik Kurumu tarafından ilan edilen üretici fiyat endeksinde son altı ayda meydana
+gelen değişim oranında, bu değişimin ilanı gününden geçerli olmak üzere yeniden belirlenmiş
+sayılır. Cumhurbaşkanı, uygulama dönemlerini gün veya ay olarak belirlemeye veya
+belirleyeceği mallar ve aylar itibarıyla yeniden belirlenmiş sayılan tutarların uygulanmamasına
+karar vermeye yetkilidir.34353637
 4. (Değişik: 16/7/2004-5228/22 md.) (I) sayılı listedeki mallar için uygulanan maktu
 vergi tutarlarının, bu maddenin (2) numaralı fıkrasının (a) bendi uyarınca Cumhurbaşkanı
 tarafından farklı tespit edilmesi halinde; Maliye Bakanlığı vergi farklılaştırmasını, verginin
@@ -116,3 +126,18 @@ yeniden belirlenmiş sayılır. Bu hesaplama sonucunda ortaya çıkan vergi tuta
 sonraki dört hane dikkate alınır. Cumhurbaşkanı, uygulama dönemlerini gün veya ay olarak
 belirlemeye veya belirleyeceği mallar ve aylar itibarıyla yeniden belirlenmiş sayılan tutarların
 uygulanmamasına karar vermeye yetkilidir.
+
+esas özel tüketim vergisi matrahlarının alt ve üst sınırlarını dörtte birine kadar indirmeye, dört katına
+kadar artırmaya,” şeklinde değiştirilmiştir.
+34 31/5/2012 tarihli ve 6322 sayılı Kanunun 43 üncü maddesiyle bu fıkrada yapılan düzenlemenin
+1/1/2013 tarihinde yürürlüğe gireceği hüküm altına alınmıştır.
+35 Bu fıkranın uygulanması ile ilgili olarak 1/12/2016 tarihli ve 29905 sayılı Resmî Gazete’de yayımlanan
+30/11/2016 tarihli ve 2016/9567 sayılı Bakanlar Kurulu Kararı Eki Karara veya Kanunun sonundaki (III)
+sayılı listeye bakınız.
+36 1/1/2018 tarihli ve 30288 sayılı Resmi Gazete’de yayımlanan 22/12/2017 tarihli ve 2017/11176 sayılı
+Bakanlar Kurulu Kararı Eki Kararın 8 inci maddesiyle, bu fıkra hükmünün bu Kanuna ekli (III) sayılı
+listenin (B) cetvelinde yer alan asgari maktu vergi tutarları ile maktu vergi tutarları hakkında, 2018 yılı
+Ocak-Haziran dönemi için uygulanmayacağı hüküm altına alınmıştır.
+37 2/7/2018 tarihli ve 700 sayılı KHK’nin 143 üncü maddesiyle, bu fıkrada yer alan “Bakanlar
+Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
+şeklinde değiştirilmiştir.

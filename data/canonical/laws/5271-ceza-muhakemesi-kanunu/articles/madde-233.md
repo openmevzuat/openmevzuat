@@ -6,6 +6,6 @@ Kovuşturma evresine geçildiğinde çağrı kâğıdına iddianame eklenir. Ayr
 ilişkin bilgiler ve duruşma tarihi; telefon, telgraf, faks, elektronik posta gibi iletişim bilgilerinin
 dosyada bulunması hâlinde bu araçlardan yararlanılmak suretiyle de bildirilir.
 (2) Bu hususta yapılacak çağrı ve zorla getirme bakımından tanıklara ilişkin hükümler
-uygulanır.80
+uygulanır.79
 
-Mağdur ile şikâyetçinin hakları81
+Mağdur ile şikâyetçinin hakları80

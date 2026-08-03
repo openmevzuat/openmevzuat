@@ -29,5 +29,6 @@
 - [MADDE 18](articles/madde-018.md)
 - [MADDE 19 — Değiştirilen ve yürürlükten kaldırılan hükümler](articles/madde-019.md)
 - [GEÇİCİ MADDE 1 — Uyum, geçiş düzenlemeleri ve kuruluş işlemleri](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2 — Geçiş hükümleri](articles/gecici-madde-002.md)
 - [MADDE 20 — Yürürlük](articles/madde-020.md)
 - [MADDE 21 — Yürütme](articles/madde-021.md)

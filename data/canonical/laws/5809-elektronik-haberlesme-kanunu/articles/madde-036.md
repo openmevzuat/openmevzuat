@@ -9,6 +9,9 @@ tahsisi, uluslararası koordinasyon ile tescil işlemleri Kurum tarafından yap�
 b) Telsiz cihaz veya sistemi kurmak ve işletmek isteyenler Kuruma frekans tahsis ve
 tescil işlemlerini yaptırmak zorundadır. Ancak, bu Kanunun 37 nci maddesinde belirtilen,
 herhangi bir telsiz kurma ve kullanma iznine ve telsiz ruhsatnamesine ihtiyaç göstermeksizin
+
+9 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “Bakanlık” ibaresi
+“Başkanlık” şeklinde değiştirilmiştir.
 kullanılan telsiz cihaz ve sistemlerinde kullanılacak frekanslar için tahsis ve tescil işlemi
 yapılmaz.
 (2) Frekans tahsislerinde Dışişleri Bakanlığı, Jandarma Genel Komutanlığı ile Sahil

@@ -693,10 +693,10 @@ cezaları ile ceza gerektiren fiil ve haller hakkında 14/7/1965 tarihli ve 657 
 Memurları Kanununun 125 inci maddesi uygulanır. Ancak;
 a) Aylıktan kesme cezası; brüt sözleşme ücretinden 1/30 ilâ 1/8 arası oranlarda kesinti
 yapılması,
-b) Kademe ilerlemesinin durdurulması cezası; brüt sözleşme ücretinden 1/4 ilâ 1/2 arası
-oranlarda kesinti yapılması,
 
 9 Bu bentte yer alan kadrolar için 23/5/2013 tarihli ve 28655 sayılı Resmi Gazeteye bakınız.
+b) Kademe ilerlemesinin durdurulması cezası; brüt sözleşme ücretinden 1/4 ilâ 1/2 arası
+oranlarda kesinti yapılması,
 c) Devlet memurluğundan çıkarma cezası; bir daha PTT’de herhangi bir göreve
 alınmamak üzere sözleşmenin feshi,
 suretiyle uygulanır.
@@ -727,6 +727,32 @@ bir safhasında alınabilir. Görevden uzaklaştırmaya; atamaya yetkili amirler
 denetçiler yetkilidir.
 (2) Görevden uzaklaştırmaya ilişkin işlemler, 657 sayılı Kanunun Dördüncü Kısmının
 “Görevden Uzaklaştırma” başlıklı Sekizinci Bölümünde yer alan hükümlere göre yapılır.
+
+EK MADDE 4 — İdari hizmet sözleşmesi ile personel istihdamı
+
+(Ek:24/7/2026-7590/24 md.)
+(1) 4857 sayılı Kanun kapsamında istihdam edilenler hariç olmak üzere PTT personeli,
+657 sayılı Kanun ve diğer kanunların sözleşmeli personel hakkındaki hükümlerine tâbi
+olmaksızın idari hizmet sözleşmesi ile istihdam edilir.
+(2) PTT personelinin işe alınması, görev ve yetkileri, yükümlülükleri, görevlendirilmesi,
+eğitim, terfi, görevde yükselme, ünvan değişikliği, görevden alma, sözleşmenin yenilenip
+yenilenmemesi veya sona erdirilmesi, pozisyon ünvan ve sayıları ile istihdamlarına ilişkin
+diğer hususlar Yönetim Kurulu kararı ile yürürlüğe konulan yönetmelikler ile düzenlenir.
+Sözleşmeli personel pozisyonlarından boş olanların açıktan alım amacıyla kullanılması,
+Cumhurbaşkanlığının iznine tâbidir.
+(3) PTT personelinin aylık ücret ve diğer mali ve sosyal hakları ile sözleşme esasları,
+Yönetim Kurulunun kararı ile belirlenir. Ancak, avukat vekâlet ücretleri hariç aylık ücret ve
+diğer mali ve sosyal haklar kapsamında yapılan her türlü ödemelerin aylık net ortalaması
+hizmet grupları itibarıyla Cumhurbaşkanınca tespit edilecek üst sınırı aşamaz. PTT lehine
+sonuçlanan dava ve icra takipleri nedeniyle hükme bağlanarak karşı taraftan tahsil olunan
+avukat vekâlet ücretlerinin dağıtılması 26/9/2011 tarihli ve 659 sayılı Genel Bütçe
+Kapsamındaki Kamu İdareleri ve Özel Bütçeli İdarelerde Hukuk Hizmetlerinin
+Yürütülmesine İlişkin Kanun Hükmünde Kararname hükümlerine göre yapılır.
+(4) Bu madde kapsamında istihdam edilecekler, 31/5/2006 tarihli ve 5510 sayılı Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanununun 4 üncü maddesinin birinci fıkrasının (a)
+bendi kapsamında sigortalı sayılır. Bu kişilere, 657 sayılı Kanunun 4 üncü maddesinin (B)
+fıkrası kapsamında istihdam edilenlere ilişkin usul ve esaslar çerçevesinde iş sonu tazminatı
+ödenir.
 
 İKİNCİ BÖLÜM
 Geçici ve Son Hükümler
@@ -832,9 +858,6 @@ GEÇİCİ MADDE 11 — Atama işlemlerinin durumu
 
 (Ek: 20/11/2017-KHK-696/119 md.; Aynen kabul:
 1/2/2018-7079/111 md.)
-
-10 2/7/2018 tarihli ve 703 sayılı KHK’nin 87 nci maddesiyle, bu maddede yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 (1) 4/10/2013 tarihinden itibaren PTT’de istihdam edilen personel ile 1/1/2017
 tarihinden sonra yapılan sınavlarda başarılı olan ve haklarında yapılan güvenlik soruşturması
 olumlu sonuçlanan adayların atama işlemlerinin geçerliliği devam eder.
@@ -845,10 +868,56 @@ zamanı
 GEÇİCİ MADDE 12
 
 (Ek:3/11/2022-7420/33 md.)
+
+10 2/7/2018 tarihli ve 703 sayılı KHK’nin 87 nci maddesiyle, bu maddede yer alan “Bakanlar Kurulu”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 (1) Hizmet sağlayıcılarınca, 2022 yılı Ekim-Kasım-Aralık dönemi posta
 hizmetlerinden elde edilen net satış hasılatına isabet eden miktarın yüzde 2’si 2023 yılının
 Mart ayı sonuna kadar Bakanlığa bildirilir ve aynı süre içerisinde Bakanlığın merkez
 muhasebe birimi hesabına aktarılır.
+
+GEÇİCİ MADDE 13 — Geçiş hükümleri
+
+(Ek:24/7/2026-7590/25 md.)
+(1) 27/6/1989 tarihli ve 375 sayılı Kanun Hükmünde Kararnamenin ek 27 nci maddesi
+ile bu Kanunun mülga 27 nci maddesi hükümleri uyarınca PTT’de istihdam edilen mevcut
+personel, bu maddenin yürürlüğe girdiği tarihi takip eden aybaşından itibaren ek 4 üncü
+maddeye göre idari hizmet sözleşmeli personel olarak istihdam edilir.
+(2) PTT’de 399 sayılı Kanun Hükmünde Kararnamenin eki (I) ve (II) sayılı cetvellere
+tabi olarak çalışan personel bu maddenin yürürlük tarihinden itibaren yirmi gün içinde bu
+Kanunun ek 4 üncü maddesi kapsamında istihdam edilmek üzere yazılı olarak PTT’ye talepte
+bulunabilir. Talep tarihinden itibaren otuz gün içinde, talepte bulunan personel ile bu fıkrada
+öngörülen sınırlamalar çerçevesinde idari hizmet sözleşmesi imzalanır. Bu kişiler hakkında bu
+Kanunun geçici 6 ncı maddesinin ikinci fıkrası hükümleri ile 24/11/1994 tarihli ve 4046 sayılı
+Özelleştirme Uygulamaları Hakkında Kanunun 22 nci maddesinin beşinci fıkrası kıyasen
+uygulanır. Ancak, bu fıkra kapsamında sözleşme imzalanabileceklerin sayısı 399 sayılı Kanun
+Hükmünde Kararnamenin eki (I) ve (II) sayılı cetvellere tabi olarak görev yapan personel
+sayısının yüzde 50’sini geçemez. Talebin bu oranı geçmesi durumunda sırasıyla disiplin
+cezası almamış olanlara, PTT’deki hizmet süresi fazla olanlara ve yaşı daha büyük olanlara
+öncelik tanınır.
+(3) PTT’de 399 sayılı Kanun Hükmünde Kararnamenin eki (I) ve (II) sayılı cetvellere
+tabi olup bu madde hükümleri uyarınca idari hizmet sözleşmesi imzalanmayan personel diğer
+kamu kurum ve kuruluşlarına nakledilmek üzere bu maddenin yürürlük tarihinden itibaren
+altmış gün içinde istihdam fazlası personelin nakil işlemlerini yürüten kuruma bildirilir.
+Bildirilen personelin atama teklifleri, ilgili personelin nakil işlemlerini yürüten kurumca,
+doksan gün içinde kamu kurum ve kuruluşlarının hizmet ihtiyaçları ve personelin il tercihleri
+göz önünde bulundurularak 4046 sayılı Kanunun 22 nci maddesinde belirtilen usul ve esaslar
+çerçevesinde gerçekleştirilir. Ancak, anılan madde uyarınca Özelleştirme Fonundan veya
+Hazineden karşılanması öngörülen ödemeler, PTT tarafından karşılanır.
+(4) Üçüncü fıkra kapsamında yapılacak atamalar için uygun boş kadro bulunmaması
+hâlinde, atama onayının alınmasıyla birlikte başka bir işleme gerek kalmaksızın söz konusu
+kadrolar ihdas edilmiş ve kurumların kadro cetvelinin ilgili bölümlerine eklenmiş, bu şekilde
+ihdas edilen kadrolar herhangi bir nedenle boşalması halinde ise başka bir işleme gerek
+kalmaksızın iptal edilmiş sayılır. Bu fıkra kapsamında gerçekleştirilen ihdas ve iptal işlemleri
+kamu personel bilgi sisteminin bulunduğu kuruma bir ay içinde bildirilir.
+(5) Bu madde hükümlerine göre idari hizmet sözleşmeli olarak istihdam edilenlerin,
+ilgili mevzuat hükümlerine göre PTT’de daha önceki istihdam edildikleri statülerinde
+geçirdikleri hizmet süreleri ek 4 üncü madde kapsamında geçmiş sayılır.
+(6) Bu madde hükümlerine göre idari hizmet sözleşmeli olarak istihdam edilenlere
+emeklilik ikramiyesi veya iş sonu tazminatı ödenmez. Bu personelin önceden emeklilik
+ikramiyesi veya iş sonu tazminatı ödenmiş süreleri hariç, emeklilik ikramiyesi veya iş sonu
+tazminatına esas olan toplam hizmet süreleri, ek 4 üncü maddeye göre ödenecek iş sonu
+tazminatının hesabında dikkate alınır.
 
 MADDE 32 — Yürürlük
 

@@ -1,4 +1,4 @@
-# MADDE 28 — Kanun yolu değerlendirme formu:35
+# MADDE 28 — Kanun yolu değerlendirme formu:36
 
 (Mülga: 31/3/2011-6217/31 md.; Yeniden düzenleme: 1/7/2016 –
 6723/25 md.)
@@ -32,7 +32,7 @@ incelemesi sonucu düzenlenen değerlendirme formu ile temyiz incelemesi sonucu 
 değerlendirme formu arasında çelişki bulunması hâlinde temyiz mercilerince düzenlenen
 değerlendirme formu esas alınır.
 
-35 1/7/2016 tarihli ve 6723 sayılı Kanunun 25 inci maddesiyle bu madde başlığı ‘‘Yargıtay, Danıştay ile bölge
+36 1/7/2016 tarihli ve 6723 sayılı Kanunun 25 inci maddesiyle bu madde başlığı ‘‘Yargıtay, Danıştay ile bölge
 adliye ve bölge idare mahkemeleri notları’’ iken metne işlendiği şekilde yeniden düzenlenmiştir.
 Değerlendirme formu, kararı inceleyen heyetin başkanı tarafından düzenlenir. Hakkında
 değerlendirme formu düzenlenenler, formun Ulusal Yargı Ağı Bilişim Sistemi (UYAP)’ne

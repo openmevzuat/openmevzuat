@@ -1,4 +1,4 @@
-# MADDE 209 — Duruşmada anlatılması zorunlu belge ve tutanaklar74
+# MADDE 209 — Duruşmada anlatılması zorunlu belge ve tutanaklar73
 
 (1) Naip veya istinabe yoluyla sorgusu yapılan sanığa ait sorgu
 tutanakları, naip veya istinabe yoluyla dinlenen tanığın ifade tutanakları ile muayene ve keşif

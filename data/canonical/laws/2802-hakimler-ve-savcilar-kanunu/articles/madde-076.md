@@ -1,4 +1,4 @@
-# MADDE 76 — İhbar ve şikayet:59
+# MADDE 76 — İhbar ve şikayet:61
 
 Bir şahsın şikayeti üzerine başlanan disiplin soruşturması, şikayetten
 vazgeçilse dahi durdurulmaz.

@@ -11,6 +11,15 @@ mahkûmiyetine ilişkin hükmün kesinleştiği veya ceza kovuşturmasına başl
 soruşturmanın sonuçsuz kaldığı,
 d) Karara esas alınan ilamın bozularak kesin hüküm şeklinde tamamen ortadan
 kalkmasından haberdar olunduğu,
+
+64 25/7/2018 tarihli ve 7145 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş
+olması” ibaresinden sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları Mahkemesine
+yapılan başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
+verilmesi” ibaresi eklenmiştir.
+65 Anayasa Mahkemesi’nin 21/6/2022 tarihli ve E.: 2022/7, K.: 2022/79 sayılı Kararı ile bu fıkranın
+bentlerini bağlayan hükmünün “her hâlde iade talebine konu olan hükmün kesinleşmesinden itibaren
+on yıldır.” bölümü anılan fıkranın (e) bendi yönünden iptal edilmiştir.
+
 e) 375 inci maddenin birinci fıkrasının (i) bendinde yazılı sebepten dolayı, Avrupa
 İnsan Hakları Mahkemesinin kesinleşmiş kararının tebliğ edildiği,
 tarihten itibaren üç ay ve her hâlde iade talebine konu olan hükmün kesinleşmesinden

@@ -5,5 +5,5 @@ işlemin tarih ve numarası, ilgililerin ad ve soyadları ve işlemin niteliği 
 edilir.
 
 ONUNCU KISIM
-Gelirleri Dağıtılacak Olan İşlemler11
+Gelirleri Dağıtılacak Olan İşlemler12
 Noterlikler ortak cari hesabı:

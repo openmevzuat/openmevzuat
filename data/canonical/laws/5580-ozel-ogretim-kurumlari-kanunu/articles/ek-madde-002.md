@@ -7,9 +7,6 @@ ortaöğretim örgün eğitim programlarının aynısı veya bir kısmını uygu
 programlara yönelik deneme, seviye tespit sınavı gibi adlarla toplu sınav organizasyonları
 yapmak üzere faaliyet göstermek için yüz yüze veya uzaktan öğretim yöntemi ile özel öğretim
 kurumları veya yerler açılamaz, işletilemez, öğretim programları oluşturulamaz. Sivil toplum
-
-19 27/6/2019 tarihli ve 7180 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “eğitim ve
-öğretim desteği,” ibaresi madde metninden çıkarılmıştır.
 kuruluşları ile yükseköğretim kurumlarının sürekli eğitim merkezleri gibi birimlerinde de bu
 faaliyetler yürütülemez. Belediyeler ise il millî eğitim müdürlükleri ile yapılan ve Bakanlıkça
 onaylanan ortak işbirliği protokolleri çerçevesinde, örgün eğitim programlarına destek

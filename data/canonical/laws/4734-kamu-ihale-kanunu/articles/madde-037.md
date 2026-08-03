@@ -20,5 +20,5 @@ bulunmadığı incelenir. Uygun olmadığı belirlenen isteklilerin teklifleri i
 cetvellerinde aritmetik hata bulunan teklifler değerlendirme dışı bırakılır.
 (Mülga son fıkra: 20/11/2008-5812/11 md.)
 
-35 20/11/2008 tarihli ve 5812 sayılı Kanunun 10 uncu maddesiyle; bu fıkrada yer alan “teklif fiyatları
+36 20/11/2008 tarihli ve 5812 sayılı Kanunun 10 uncu maddesiyle; bu fıkrada yer alan “teklif fiyatları
 açıklanır” ibaresi “teklif fiyatları ve yaklaşık maliyet tutarı açıklanır” şeklinde değiştirilmiştir.

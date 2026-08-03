@@ -16,7 +16,7 @@ kabul edilemezler.
 
 Terhis edilenlerin görevlerine dönmesi:
 
-48 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddede geçen "Bakanlık merkez
+49 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddede geçen "Bakanlık merkez
 kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki" şeklinde değiştirilmiştir.
-49 22/12/2005 tarihli ve 5435 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan "Yukarıdaki fıkralarda"
+50 22/12/2005 tarihli ve 5435 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan "Yukarıdaki fıkralarda"
 ibaresi "Birinci fıkrada" şeklinde değiştirilmiştir.

@@ -7,9 +7,6 @@ gelmesi hâlinde mal, en yüksek teklif verene ihale edilir. Şu kadar ki, artı
 haczedilen malın muhammen kıymetinin yüzde ellisi ile o malla güvence altına alınan ve satış
 isteyenin alacağına rüçhanı olan alacakların toplamından hangisi fazla ise bu miktarı ve ayrıca
 bu miktara ilave olarak paraya çevirme ve paylaştırma masraflarını da geçmesi şarttır.
-
-49 Bu madde başlığı “İhalenin yapılması ve geri bırakılması:” iken, 2/7/2012 tarihli ve 6352 sayılı Kanunun 25
-inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Artırmanın sona erdiği gün ve saatte şartların bulunması hâlinde, mal en yüksek teklif
 verene ihale edilmiş olur ve malın mülkiyeti ihale alıcısına geçer.
 İhale alıcısının en yüksek teklifi verip de süresi içinde ihale bedelini yatırmaması
@@ -32,6 +29,9 @@ Artırmada, alıcı çıkmazsa veya bu maddede yazılı şartlar gerçekleşmezs
 önceki satış talebinden kalan satış isteme süresi içinde satış günü verilmesini talep edebilir.
 Satış isteme süresi satış talebiyle birlikte durur ve duran bu süre, ihalenin yapılamadığına
 veya iptal edildiğine ilişkin tutanak tarihinden itibaren kaldığı yerden işlemeye başlar.
+
+49 Bu madde başlığı “İhalenin yapılması ve geri bırakılması:” iken, 2/7/2012 tarihli ve 6352 sayılı Kanunun 25
+inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 İcra müdürü, artırma bittikten sonraki ilk iş gününde elektronik satış portalından
 kaynaklanan teknik sebeplerle, artırmanın son on dakikası içinde teklif verilemediğini satış
 portalı kayıtlarından tespit ederse artırma süresinin bir gün uzatılmasına karar verir; kararda

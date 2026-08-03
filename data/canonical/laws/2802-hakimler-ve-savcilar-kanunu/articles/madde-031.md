@@ -1,4 +1,4 @@
-# MADDE 31 — Lisans üstü öğrenim ve uzmanlık eğitimi:36
+# MADDE 31 — Lisans üstü öğrenim ve uzmanlık eğitimi:37
 
 (Değişik : 22/12/2005 - 5435/14 md.)
 Meslekleriyle ilgili konularda yüksek lisans veya doktora öğrenimi yapmak isteyenlerle
@@ -23,9 +23,9 @@ programlarında başarı ile geçirilen süreler, iki yılı aşmamak üzere, ka
 yükselmesi incelemesinde değerlendirilir. Bu uygulamada alt derece ve kademede geçen süre,
 üst derece ve kademede geçmiş sayılır.
 Hâkim ve savcı yardımcısı iken öğrenime başlayanlar hâkimlik veya savcılığa
-atandıktan sonra bu madde hükümlerine göre öğrenimlerine devam edebilirler.37
+atandıktan sonra bu madde hükümlerine göre öğrenimlerine devam edebilirler.38
 
-DÖRDÜNCÜ BÖLÜM38
+DÖRDÜNCÜ BÖLÜM39
 Birinci Sınıfa Ayrılma Koşul ve Yöntemleri ile
 Birinci Sınıf Hâkim ve Savcıların Çalışmalarının Değerlendirilmesi
 Birinci sınıfa ayrılma koşulları:

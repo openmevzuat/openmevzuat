@@ -168,4 +168,5 @@ kamuya açık bir yazılım vasıtası ile sunulan; sesli, yazılı, görsel ile
 arası elektronik haberleşme hizmetlerini,
 (ddd) (Ek:13/10/2022-7418/36 md.) Şebekeler üstü hizmet sağlayıcı: Şebekeler üstü
 hizmet tanımı kapsamına giren hizmetleri sunan gerçek veya tüzel kişiyi,
+(eee) (Ek:24/7/2026-7590/27 md.) Başkanlık: Siber Güvenlik Başkanlığını,
 ifade eder.

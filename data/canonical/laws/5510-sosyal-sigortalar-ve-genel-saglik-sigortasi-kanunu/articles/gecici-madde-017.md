@@ -2,6 +2,17 @@
 
 (Ek: 17/4/2008-5754/73 md.)
 Kendi adına ve hesabına bağımsız çalışanlarla tarımda kendi adına ve hesabına
+
+228 31/7/2008 tarihli ve 5797 sayılı Kanunun 11 inci maddesiyle; bu başlıkta yer alan “,Milli Eğitim
+Bakanlığı tarafından düzenlenen kurslarda usta öğretici olarak çalıştırılanlar” ibaresi metinden
+çıkarılmıştır.
+229 15/5/2008 tarihli ve 5763 sayılı Kanunun 25 inci maddesiyle bu madde başlığı “Kendi adına ve
+hesabına tarımsal faaliyette bulunan sigortalılara ilişkin geçiş hükmü” iken 1/10/2008 tarihinden
+geçerli olmak üzere metne işlendiği şekilde değiştirilmiştir.
+230 13/2/2011 tarihli ve 6111 sayılı Kanunun 50 nci maddesiyle, bu fıkrada yer alan “Bu maddenin
+yürürlüğe girdiği tarihten önce,” ibaresi ile “bu maddenin yürürlük tarihinden sonra aynı şartlarla bu
+işleri yaptıkları,” ibaresi madde metninden çıkarılmış ve “yapmakta olanların” ibaresi “yaptıkları”
+şeklinde değiştirilmiştir.
 bağımsız çalışanlardan, 1479 ve 2926 sayılı kanunlara göre tescilleri yapıldığı halde, bu
 maddenin yürürlük tarihi itibarıyla beş yılı aşan süreye ilişkin prim borcu bulunanların, bu
 sürelere ilişkin prim borçlarını, prim borçlarının ödenmesine ilişkin Kurumca çıkarılacak
@@ -20,11 +31,6 @@ hükmü uygulanır.
 
 Bazı aylık tazminat ve yardımlara ilişkin geçiş hükümleri
 GEÇİCİ MADDE l8 – (Ek: 17/4/2008-5754/73 md.)
-
-228 13/2/2011 tarihli ve 6111 sayılı Kanunun 50 nci maddesiyle, bu fıkrada yer alan “Bu maddenin
-yürürlüğe girdiği tarihten önce,” ibaresi ile “bu maddenin yürürlük tarihinden sonra aynı şartlarla bu
-işleri yaptıkları,” ibaresi madde metninden çıkarılmış ve “yapmakta olanların” ibaresi “yaptıkları”
-şeklinde değiştirilmiştir.
 İlgili kanunlarında düzenleme yapılıncaya kadar;
 a) 8/6/1949 tarihli ve 5434 sayılı Kanunun 56 ncı maddesinin birinci fıkrasında
 belirtilenlerden bu Kanunla yürürlükten kaldırılan maddeleri dahil 5434 sayılı Kanuna göre
@@ -33,7 +39,7 @@ Komutanlığı ve Sahil Güvenlik Komutanlığı tarafından görevlendirildiği
 sigorta kollarına tabi olarak çalışmayanlardan bu Kanunla yürürlükten kaldırılan maddeleri
 dahil 5434 sayılı Kanuna göre harp malûlü sayılması gerekenlerin kendileri ile bunların dul ve
 yetimlerine bağlanacak aylıklar hakkında bu Kanunun yürürlük tarihinden önceki hükümlerin
-uygulanmasına devam olunur.229
+uygulanmasına devam olunur.231
 b) 5434 sayılı Kanunun ek 77 nci maddesinin birinci fıkrası ile bu Kanunun 47 nci
 maddesinin sekizinci fıkrasında sayılanlara ve bunların haksahiplerine, ilgili kanunları ve bu
 Kanun çerçevesinde bağlanacak aylıkları toplamının, emsallerinin 5434 sayılı Kanunun ek 77
@@ -43,6 +49,11 @@ c) 18/3/1924 tarihli ve 442 sayılı Kanunun ek 16 ncı maddesi, 24/2/1968 tarih
 1005 sayılı Kanun, 3/11/1980 tarihli ve 2330 sayılı Kanun, 11/10/1983 tarihli ve 2913 sayılı
 Kanun, 28/5/1986 tarihli ve 3292 sayılı Kanun, 12/4/1991 tarihli ve 3713 sayılı Kanun ile yılı
 bütçe kanunlarına ekli cetveller kapsamına giren kişilere ve diğer kanunlarda yapılan atıflar
+
+231 17/4/2017 tarihli ve 690 sayılı KHK’nin 50 nci maddesiyle, bu bentte yer alan “Türk Silâhlı
+Kuvvetleri” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik
+Komutanlığı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun 46
+ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
 sebebiyle 2330 sayılı Kanun esas alınarak ilgililerine aylık, tazminat ve ek ödeme verilmesi
 ile yardım işlemleri hakkında, bu Kanunla yürürlükten kaldırılan maddeleri dahil 5434 sayılı
 Kanunun ilgili hükümlerinin uygulanmasına devam edilir.

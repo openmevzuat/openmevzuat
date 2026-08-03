@@ -50,19 +50,13 @@ Aylık prim ve hizmet belgesi veya muhtasar ve prim hizmet beyannamesi işveren
 tarafından verilmeyen veya çalıştıkları Kurumca tespit edilemeyen sigortalılar, çalıştıklarını
 hizmetlerinin geçtiği yılın sonundan başlayarak beş yıl içerisinde iş mahkemesine başvurarak,
 alacakları ilâm ile ispatlayabilirlerse, bunların mahkeme kararında belirtilen aylık kazanç
-toplamları ile prim ödeme gün sayıları dikkate alınır.157
+toplamları ile prim ödeme gün sayıları dikkate alınır.158
 Sigortalının çalıştığı bir veya birden fazla işte, bu Kanunda yazılı şartları yerine
 getirmiş olmasına rağmen, kendisi için verilmesi gereken aylık prim ve hizmet belgesinin
 veya muhtasar ve prim hizmet beyannamesinin işveren tarafından verilmediği veya verilen
 aylık prim ve hizmet belgesinde veya muhtasar ve prim hizmet beyannamesinde kazançların
 veya prim ödeme gün sayılarının eksik gösterildiği Kurumca tespit edilirse, hastalık ve analık
-sigortalarından gerekli ödemeler yapılır.158
-
-157 15/7/2016 tarihli ve 6728 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “Aylık prim ve
-hizmet belgesi” ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamesi” ibaresi
-eklenmiştir.
-158 15/7/2016 tarihli ve 6728 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “aylık prim ve
-hizmet belgesinin” ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamesinin”
+sigortalarından gerekli ödemeler yapılır.159
 Bu maddede belirtilen yükümlülüklerin yerine getirilmemesi halinde, 102 nci maddeye
 göre işlem yapılır.
 Kamu idarelerinde işyerinin özelliği nedeniyle prim belgelerinin farklı sürelerde verilme

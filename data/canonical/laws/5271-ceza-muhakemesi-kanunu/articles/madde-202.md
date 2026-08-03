@@ -7,9 +7,9 @@ savunmaya ilişkin esaslı noktalar tercüme edilir.
 noktalar, anlayabilecekleri biçimde anlatılır.
 (3) Birinci ve ikinci fıkra hükümleri, soruşturma evresinde dinlenen şüpheli, mağdur
 veya tanıklar hakkında da uygulanır. Bu evrede tercüman, hâkim veya Cumhuriyet savcısı
-tarafından atanır.72
+tarafından atanır.71
 (4) (Ek: 24/1/2013-6411/ 1 md.) Ayrıca sanık;
-a) İddianamenin anlatılması,73
+a) İddianamenin anlatılması,72
 b) Esas hakkındaki mütalaanın verilmesi,
 üzerine sözlü savunmasını, kendisini daha iyi ifade edebileceğini beyan ettiği başka bir
 dilde yapabilir. Bu durumda tercüme hizmetleri, beşinci fıkra uyarınca oluşturulan listeden,

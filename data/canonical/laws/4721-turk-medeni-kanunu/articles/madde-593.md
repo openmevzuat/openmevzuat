@@ -13,7 +13,7 @@ terekedeki malların satılması,
 asliye hâkiminin onayı ile yerine getirilmesi,
 6. Terekeye ait paraların faiz getirmek üzere Cumhurbaşkanınca çıkarılan yönetmelikte
 belirtilen bir bankaya yatırılması veya bu paralarla Devlet tahvili alınması ve yeterli güvencesi
-bulunmayan yatırımların güvenceli yatırımlara dönüştürülmesi,30
+bulunmayan yatırımların güvenceli yatırımlara dönüştürülmesi,32
 7. Terekede ticarethane, imalâthane veya başka bir işletme varsa, bunların olduğu gibi
 sürdürülmesi; sürdürmede yarar yoksa, tasfiyesi için gerekli önlemlerin alınması.
 Tereke yöneticisi, görevine giren hususlarda miras ortaklığının temsilcisi olup, ortaklık

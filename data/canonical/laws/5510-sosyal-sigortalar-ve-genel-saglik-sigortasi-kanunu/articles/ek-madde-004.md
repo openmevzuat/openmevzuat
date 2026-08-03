@@ -19,9 +19,6 @@ ile sınırlıdır. Ancak, bulunulan ülke mevzuatı gereğince zorunlu olarak y
 kontrol ve muayeneler ile aşı gibi Türkiye’de Sağlık Bakanlığı tarafından doğrudan ve
 ücretsiz olarak yürütülmesi sebebiyle 66 ncı madde kapsamında herhangi bir belirleme
 yapılmamış sağlık hizmetlerine ilişkin giderler Türkiye’deki uygulamanın sınırlılıkları
-
-beyannamelerinin Maliye Bakanlığına” ibaresi eklenmiş ve fıkrada yer alan “yasal süresi içerisinde”
-ibaresinden sonra gelen “Kuruma” ibaresi yürürlükten kaldırılmıştır.
 dahilinde ayrıca ödenir.
 4) 68 inci maddede belirtilen tutar veya oranları geçmemek kaydıyla, Dışişleri
 Bakanlığı ve Maliye Bakanlığı tarafından tespit edilecek tutar, oran ve usule göre katılım payı

@@ -4,6 +4,6 @@
 yükümlülüğü, mirasbırakanın aksini arzu ettiği ispat edilmedikçe, ancak alışılmış ölçüleri aşan
 kısım için mevcuttur.
 Eğitim ve öğrenimini tamamlamamış olan veya engelliliği bulunan çocuklara, paylaşmada
-hakkaniyete uygun bir ödeme yapılır.34
+hakkaniyete uygun bir ödeme yapılır.36
 
 E. Hediyeler ve evlenme giderleri

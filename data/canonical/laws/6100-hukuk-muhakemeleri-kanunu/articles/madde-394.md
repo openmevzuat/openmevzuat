@@ -15,5 +15,8 @@ itirazının dayanağı olan tüm delilleri dilekçesine eklemek zorundadır. Ma
 dinlemek üzere davet eder; gelmedikleri takdirde dosya üzerinden inceleme yaparak kararını
 verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldırabilir.
 (5) İtiraz hakkında verilen karara karşı, kanun yoluna başvurulabilir. Bu başvuru
+
+66 22/7/2020 tarihli ve 7251 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “verildiği
+tarihten” ibaresi “bu kararın, tedbir isteyen tarafa tefhim veya tebliğinden” şeklinde değiştirilmiştir.
 öncelikle incelenir ve kesin olarak karara bağlanır. Kanun yoluna başvurulmuş olması, tedbirin
 uygulanmasını durdurmaz.

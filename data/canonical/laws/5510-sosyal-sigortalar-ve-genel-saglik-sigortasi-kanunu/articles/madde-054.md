@@ -32,12 +32,12 @@ olan gelirin yarısı,
 ölüm gelirine hak kazananlara, tercihine göre eşinden ya da ana ve/veya babasından bağlanacak
 geliri,
 5) (Ek: 17/4/2008-5754/34 md.) Evliliğin ölüm nedeniyle sona ermesi durumunda
-
-92 17/4/2008 tarihli ve 5754 sayılı Kanunun 34 ücü maddesiyle; bu bentte yer alan “Malûllük”
-ibaresinden sonra gelmek üzere “,vazife malûllüğü” ibaresi eklenmiştir.
 sonraki eşinden de gelire hak kazananlara tercih ettiği geliri,
 bağlanır.
 c) (Değişik: 17/4/2008-5754/34 md.)Malûllük, yaşlılık, ölüm sigortaları ve vazife
+
+92 17/4/2008 tarihli ve 5754 sayılı Kanunun 34 ücü maddesiyle; bu bentte yer alan “Malûllük”
+ibaresinden sonra gelmek üzere “,vazife malûllüğü” ibaresi eklenmiştir.
 malûllüğü ile iş kazası ve meslek hastalığı sigortasından hak kazanılan aylık ve gelirler
 birleşirse, sigortalıya veya hak sahibine bu aylık veya gelirlerden yüksek olanın tamamı, az
 olanın yarısı, eşitliği halinde ise iş kazası ve meslek hastalığından bağlanan gelirin tümü,

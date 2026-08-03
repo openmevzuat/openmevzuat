@@ -13,12 +13,12 @@ Adli Tıp Kurumu Uzmanlıkları,
 yüksek mühendis, mühendis, yüksek mimar ve mimarlarca yürütülmesi gereken teknik
 hizmetleri,
 İkinci görev olarak verilebilir.
-
-158 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu bentte yer alan “veya
-özel kanunların” ibaresi “, Cumhurbaşkanlığı kararnameleriyle veya bunların” şeklinde değiştirilmiştir.
 (Değişik: 23/2/1995 – KHK-547/8 md.) Asıl görevlerinin yanında;
 a) (Değişik: 4/7/2012-6354/ 3 md.) Tabiplere; il ve ilçe sağlık müdürlüğü, il sağlık
 müdür yardımcılığı, halk sağlığı müdürlüğü, halk sağlığı müdür yardımcılığı, sağlık grup
+
+158 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu bentte yer alan “veya
+özel kanunların” ibaresi “, Cumhurbaşkanlığı kararnameleriyle veya bunların” şeklinde değiştirilmiştir.
 başkanlığı, baştabiplik, baştabip yardımcılığı ile il sağlık ve halk sağlığı müdürlüklerinde
 ilgili mevzuatı uyarınca tabipler tarafından yürütülmesi öngörülen şube müdürlükleri,
 b) Diş hekimlerine ve veterinerlere, meslekleri ile ilgili baştabiplik,

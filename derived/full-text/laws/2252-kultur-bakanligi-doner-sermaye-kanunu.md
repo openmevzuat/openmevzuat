@@ -113,7 +113,10 @@ f) (Ek:25/10/2023-7464/10 md.) Kart, belge ve plaket, kokart gelirleri ve benzer
 çeşit gelirler ile atık su arıtma tesisi, katı atık bertaraf tesisi gibi altyapı tesislerinde elde
 edilen her türlü ücret ve bu tesislerin işletme ve kira gelirleri ile döner sermaye faaliyetleri
 kapsamında Bakanlığın görev alanına giren tesislerden elde edilen ücret ve gelirler,
-g) (Ek: 14/7/2004-5225/14 md.) Diğer gelirler,
+g) (Ek:24/7/2026-7590/3 md.)11 2863 sayılı Kanun kapsamında Kültür ve Turizm
+Bakanlığına yapılacak başvurular ve Bakanlıkça sunulacak hizmetler karşılığı alınacak her
+türlü hizmet bedeli,
+ğ) (Ek: 14/7/2004-5225/14 md.) Diğer gelirler,
 Döner sermayenin gelirleridir.
 Yukarıdaki gelirlerle ilgili tarifeler, Kültür Bakanlığınca saptanır.
 
@@ -132,16 +135,18 @@ Sayman Maliye Bakanlığınca atanır.
 (Ek: 16/4/2003-4848/36 md.) Bakanlık Döner Sermaye İşletmesi Merkez Müdürlüğü
 kamu tüzel kişiliğini haizdir. (Ek cümle:25/10/2023-7464/11 md.) Döner Sermaye İşletmesi
 2634 sayılı Kanun kapsamında Bakanlığın görev alanına giren atık su arıtma tesisi, katı atık
-bertaraf tesisleri işletebilir, işlettirebilir. Döner Sermaye İşletmesi ayrıca turizm eğitim
-merkezleri ile bunların uygulama otellerini ve diğer tesisleri işletebilir.
 
 10 20/11/2025 tarihli ve 7565 sayılı Kanunun 5 inci maddesiyle bu bende “kira gelirleri” ibaresinden sonra
 gelmek üzere “ile müzelere, ören yerlerine, kültür merkezlerine, konser alanlarına; tiyatro, opera (Devlet
 Tiyatroları Genel Müdürlüğü ile Devlet Opera ve Balesi Genel Müdürlüğü tarafından düzenlenenler hariç),
 seminer, sempozyum, sergi, festival, kongre ve benzeri kültürel etkinliklere; kültür varlıklarının imar, ihya ve
 kültür envanterine kazandırılmasına yönelik, isim hakkı, destek ve sponsorluk gelirleri” ibaresi eklenmiştir.
+11 24/7/2026 tarihli ve 7590 sayılı Kanunun 3 üncü maddesiyle fıkraya (f) bendinden sonra gelmek üzere bu bent
+eklenmiş ve mevcut (g) bendi buna göre teselsül ettirilmiştir.
+bertaraf tesisleri işletebilir, işlettirebilir. Döner Sermaye İşletmesi ayrıca turizm eğitim
+merkezleri ile bunların uygulama otellerini ve diğer tesisleri işletebilir.
 
-MADDE 7 — Ayrıcalıklar:11
+MADDE 7 — Ayrıcalıklar:12
 
 Kültür Bakanlığı döner sermayesi; 1050 sayılı Muhasebe-i Umumiye
 Kanunu, 2490 sayılı Artırma - Eksiltme ve İhale Kanunu ile bu kanunların ek ve değişiklikleri
@@ -189,12 +194,12 @@ turizm müdürlükleri bünyesindeki müzik toplulukları emrinde ses ve saz san
 görevini icra eden ve bu maddenin yürürlüğe girdiği tarihten itibaren bir ay içinde yazılı
 olarak başvuranlardan, Kültür ve Turizm Bakanlığı tarafından gerçekleştirilecek sözlü ve
 uygulamalı sanatsal yeterlik sınavı sonucunda başarılı olanlar 28/2/2026 tarihine kadar
+
+12 Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine ve
+28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.
 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun ek geçici 16 ncı maddesi
 kapsamındaki durumlarına uygun sözleşmeli sanatçı pozisyonlarına atanırlar. Bu şekilde
 atananların sayısı yetmiş ikiyi geçemez.
-
-11 Bu maddenin uygulanması ile ilgili olarak 10/12/2003 tarihli ve 5018 sayılı Kanunun 81 inci maddesine ve
-28/12/2004 tarihli ve 5277 sayılı 2005 Mali Yılı Bütçe Kanununun 37 nci maddesine bakınız.
 Bu madde hükümlerine göre sözleşmeli sanatçı pozisyonlarına atananların, ilgili
 mevzuat hükümlerine göre Kültür ve Turizm Bakanlığı Döner Sermaye İşletmesi Merkez
 Müdürlüğünde geçirdikleri hizmet süreleri, yeni pozisyonlarının mali haklarının

@@ -9,13 +9,13 @@ hesabına bağımsız çalışanlardan ise;
 vergisi mükellefi olanlar,
 2) Gelir vergisinden muaf olup, esnaf ve sanatkâr siciline kayıtlı olanlar,
 3) Anonim şirketlerin yönetim kurulu üyesi olan ortakları, sermayesi paylara
-bölünmüş komandit şirketlerin komandite ortakları, diğer şirket ve donatma iştiraklerinin ise
-tüm ortakları,
-4) Tarımsal faaliyette bulunanlar,
 
 4 25/3/2020 tarihli ve 7226 sayılı Kanunun 44 üncü maddesiyle bu fıkrada yer alan “alanlar ve bu
 Kanunun ek 9 uncu maddesinin birinci fıkrasına tabi olarak çalışanlardan” ibaresi “alanlardan”
 şeklinde değiştirilmiştir.
+bölünmüş komandit şirketlerin komandite ortakları, diğer şirket ve donatma iştiraklerinin ise
+tüm ortakları,
+4) Tarımsal faaliyette bulunanlar,
 c) Kamu idarelerinde;
 1) Bu maddenin birinci fıkrasının (a) bendine tabi olmayanlardan, kadro ve
 pozisyonlarda sürekli olarak çalışıp ilgili kanunlarında (a) bendi kapsamına girenler gibi

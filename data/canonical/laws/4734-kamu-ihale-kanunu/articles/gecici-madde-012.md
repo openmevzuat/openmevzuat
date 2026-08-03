@@ -1,6 +1,6 @@
 # GEÇİCİ MADDE 12 — Başkanlık Müşavirliğine atanmış sayılma
 
-(Ek: 24/10/2011-KHK-661/58 md.)87
+(Ek: 24/10/2011-KHK-661/58 md.)88
 Kurumda; Başkan Yardımcısı, Baş Hukuk Danışmanı ve Daire Başkanı unvanlı görevlerde
 bulunanların görevleri bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte sona erer.
 Bunlar ekli (3) sayılı liste ile ihdas edilen Başkanlık Müşaviri unvanlarına hiçbir işleme gerek
@@ -14,5 +14,8 @@ atanmış sayıldıkları yeni unvana ilişkin olarak ilgili mevzuatı uyarınca
 kesintiye tabi tutulmaksızın fark kapanıncaya kadar ayrıca fark tazminatı olarak ödenir. Atanmış
 sayıldıkları unvanlarında isteklerine bağlı olarak herhangi bir değişiklik olanlarla, kendi
 istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir.
+
+88 Bu maddede belirtilen kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (mükerrer) sayılı Resmi
+Gazete’ye bakınız.
 Birinci fıkraya göre Başkanlık Müşaviri olarak atanmış sayılanlar, Başkan tarafından
 belirlenen birimlerde, Başkan tarafından belirlenen görevleri yürütür.

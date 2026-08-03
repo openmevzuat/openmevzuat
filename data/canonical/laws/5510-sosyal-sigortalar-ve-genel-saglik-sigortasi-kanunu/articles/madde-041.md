@@ -1,4 +1,4 @@
-# MADDE 41 — Sigortalıların borçlanabileceği süreler
+# MADDE 41
 
 Bu Kanuna göre sigortalı sayılanların;
 a) (Değişik: 10/9/2014-6552/43 md.) Kanunları gereği verilen ücretsiz doğum ya da
@@ -6,12 +6,6 @@ analık izni süreleri ile 4 üncü maddenin birinci fıkrasının (a), (b) ve (
 sigortalı kadının, üç defaya mahsus olmak üzere doğum tarihinden sonra iki yıllık süreyi
 geçmemek kaydıyla borçlanılacak sürelerde uzun vadeli sigorta kolları açısından sigortalı
 sayılmaması ve çocuğunun yaşaması şartlarıyla talepte bulunulan süreleri,
-
-63 10/1/2013 tarihli ve 6385 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “Bu sürelerin, üç
-yılı geçmemek üzere yarısı” ibaresi, “Bu sürelerin, üç yılı geçmemek üzere; (18) numaralı sırasında
-bulunanlar için tamamı diğerleri için yarısı” şeklinde değiştirilmiştir.
-64 10/1/2013 tarihli ve 6385 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “malûliyet
-halleri” ibaresinden sonra gelmek üzere “ile (18) numaralı sırada bulunanlar” ibaresi eklenmiştir.
 b) Er veya erbaş olarak silâh altında veya yedek subay, yedek astsubay okulunda
 geçen süreleri,65
 c) 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında olanların, personel
@@ -40,21 +34,18 @@ kendilerince belirlenecek günlük kazancın (a) bendinde bulunanlar için %32�
 ödemeleri şartı ile borçlandırılarak, borçlandırılan süreleri sigortalılıklarına sayılır. (Ek
 cümle: 13/2/2011-6111/30 md.) (i) bendi kapsamında borçlanılacak sürelere ilişkin genel
 sağlık sigortası primlerinin ödenmiş olması halinde, genel sağlık sigortası primi ödenmiş bu
-sürelere ilişkin borçlanma tutarı %39 oranı üzerinden hesaplanır. 67
-Bir ay içinde ödenmeyen borçlanmalar için ise yeni başvuru şartı aranır. Primi
-ödenmeyen borçlanma süreleri hizmetten sayılmaz. Borçlanma sürelerinin ne şekilde
-belgeleneceğini belirlemeye Kurum yetkilidir.
-Bu Kanuna göre tespit edilen sigortalılığın başlangıç tarihinden önceki süreler için
-borçlandırılma halinde, sigortalılığın başlangıç tarihi, borçlandırılan gün sayısı kadar geriye
 
 65 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle; bu bende “yedek subay” ibaresinden
 sonra gelmek üzere “, yedek astsubay” ibaresi eklenmiştir.
 66 17/4/2008 tarihli ve 5754 sayılı Kanunun 67 nci maddesiyle; bu bentte yer alan “ve Kurumca kabul
 edilecek sektörel veya genel ekonomik kriz dönemlerinde işvereni tarafından ücretsiz izinli
 sayılanların, her yıl için 3 ayı geçmemek üzere bu süreleri” ibaresi yürürlükten kaldırılmıştır.
-67 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “%32’si” ibaresi
-“(a) bendinde bulunanlar için %32’si diğerleri için %45’i”, “%20” ibaresi “%39” şeklinde
-değiştirilmiştir.
+sürelere ilişkin borçlanma tutarı %39 oranı üzerinden hesaplanır. 67
+Bir ay içinde ödenmeyen borçlanmalar için ise yeni başvuru şartı aranır. Primi
+ödenmeyen borçlanma süreleri hizmetten sayılmaz. Borçlanma sürelerinin ne şekilde
+belgeleneceğini belirlemeye Kurum yetkilidir.
+Bu Kanuna göre tespit edilen sigortalılığın başlangıç tarihinden önceki süreler için
+borçlandırılma halinde, sigortalılığın başlangıç tarihi, borçlandırılan gün sayısı kadar geriye
 götürülür. Sigortalılık borçlanması ile aylık bağlanmasına hak kazanılması durumunda,
 ilgililere borcun ödendiği tarihi takip eden ay başından itibaren aylık bağlanır.
 Borçlanılan süreler, uzun vadeli sigorta ve genel sağlık sigortası bakımından;

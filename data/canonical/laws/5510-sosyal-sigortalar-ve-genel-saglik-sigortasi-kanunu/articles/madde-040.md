@@ -12,13 +12,13 @@ işlerde fiilen çalışması ve söz konusu işlerin risklerine maruz kalması 
 10/9/2014-6552/42 md.) Tablonun (10) numaralı sırasında belirtilen sigortalıların, fiili hizmet
 süresi zammından yararlandırılacakları dönem içinde kalan; yıllık ücretli izin, sıhhi izin, hafta
 tatili, ulusal bayram ve genel tatil günleri ile eğitim, kurs, iş öncesi ve sonrası hazırlık
-sürelerinde fiilen çalışma ve söz konusu işlerin risklerine maruz kalma şartı aranmaz.
-Aşağıdaki bentlerden birden fazlasına dahil olanlar için, en yüksek olan bentten fiilî
-hizmet süresi zammı uygulanır.
 
 55 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle birinci fıkrada yer alan “malûl kalan”
 ibaresi “malûl veya vazife malûlü olan” şeklinde değiştirilmiş; aynı Kanunun 66 ncı maddesiyle ikinci
 fıkrada yer alan “Malûllük” ibaresinden sonra gelmek üzere “, vazife malûllüğü” ibaresi eklenmiştir.
+sürelerinde fiilen çalışma ve söz konusu işlerin risklerine maruz kalma şartı aranmaz.
+Aşağıdaki bentlerden birden fazlasına dahil olanlar için, en yüksek olan bentten fiilî
+hizmet süresi zammı uygulanır.
 Eklenecek
 Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
 Gün Sayısı
@@ -55,9 +55,10 @@ tesisatı bulunmadığı takdirde) çalışanlar.
 3) Ateşçilik işlerinde çalışanlar.
 4) Üfleme işlerinde (tamamen otomatik
 makinelerle yapılmadığı takdirde) çalışanlar.
+2) Cam fabrika ve atölyeleri 60
 5) Basınçla yapılan cam işlerinde (cam tazyiki
 işleri) çalışanlar.
-2) Cam fabrika ve atölyeleri 6) Ayna camı sanatında potalı cam dökümü 60
+6) Ayna camı sanatında potalı cam dökümü
 işlerinde (potalar kalıp masasına mekanik
 araçlarla taşınmadığı takdirde) çalışanlar.
 7) Camı fırın başından alma işlerinde çalışanlar.
@@ -67,14 +68,14 @@ araçlarla taşınmadığı takdirde) çalışanlar.
 10) Asitle hak ve cilâlama işlerinde çalışanlar.
 11) Basınçlı havayla kum püskürten cihazlarla
 yapılan işlerde (çalışma ortamındaki tozları
+Eklenecek
+Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
+Gün Sayısı
 sağlık için tehlike oluşturmayacak düzeye
 indiren havalandırma tesisatı bulunmadığı
 takdirde) çalışanlar.
 12) Pota ve taş odalarında görülen işlerde
 çalışanlar.
-Eklenecek
-Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
-Gün Sayısı
 1) Cıva izabe fırınlarında görülen işlerde
 çalışanlar.
 3) Cıva üretimi işleri sanayii 90
@@ -107,20 +108,19 @@ taşınması işlerinde çalışanlar.
 3) Alüminyum madeni üretimi işlerinde çalışanlar.
 1) Demir izabe fabrikalarında cevherin demire
 çevrilmesi işleriyle boru fabrikalarının fırın ve
-döküm dairelerinde yapılan işlerinde çalışanlar.
+7) Demir ve çelik fabrikaları döküm dairelerinde yapılan işlerinde çalışanlar. 90
 2) Çelikhanelerin çelik yapılan fırınlarıyla
 bunların teferruat ve eklentilerinden olan ikinci
+Eklenecek
+Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
+Gün Sayısı
 derecedeki fırınlarda ve konvertörlerde yapılan
-7) Demir ve çelik fabrikaları 90
 işlerinde çalışanlar.
 3) Sıvı haldeki demir ve çeliğin tesisat ve
 teçhizatla veya mekanik olarak taşınmasına ilişkin
 işlerde çalışanlar.
 4) Sıcak veya sıvı haldeki cürufun taşınması ve
 işlenmesi işlerinde çalışanlar.
-Eklenecek
-Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
-Gün Sayısı
 5) Haddehanelerde (soğuk demirle çalışılan
 haddehaneler hariç), fırınlarda, hadde serilerinde,
 haddehaneyi kızgın veya sıvı çelik yahut demirle
@@ -153,21 +153,21 @@ maddelerle yapılan işler
 kaynakları ile yapılan işlerde çalışanlar.
 1) Su altında basınçlı hava içinde çalışmayı
 gerektiren işlerden 20- 35 metreye kadar
-derinlik veya 2-3,5 kg/cm2 basınçta yapılan 60
-işlerde çalışanlar.
 12) Su altında veya su altında basınçlı
-2) Su altında basınçlı hava içinde çalışmayı
+derinlik veya 2-3,5 kg/cm2 basınçta yapılan 60
 hava içinde çalışmayı gerektiren işler
+işlerde çalışanlar.
+2) Su altında basınçlı hava içinde çalışmayı
+Eklenecek
+Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
+Gün Sayısı
 gerektiren işlerden 35-40 (40 hariç) m. derinlik 90
 veya 3,5-4 (3,5 hariç) kg/cm2 basınçta yapılan
 işlerde çalışanlar.
 3) Dalgıçlık işinde çalışanlar.
 Subay, yedek subay, astsubay, yedek astsubay,
-13) Türk Silâhlı Kuvvetlerinde, 90
 uzman jandarma, Jandarma Genel Komutanlığında
-Eklenecek
-Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
-Gün Sayısı
+13) Türk Silâhlı Kuvvetlerinde, 90
 ve uzman erbaşlar ve sözleşmeli erbaş ve erler.
 Sahil Güvenlik Komutanlığında565758
 Asaleti onaylanmış olmak şartıyla adaylıkta
@@ -190,11 +190,7 @@ düzenleme:11/11/2020-7256/32 md.) çalışanlar.60
 90
  Kurumu basın kartı sahibi olmak Kurumunda haber hizmetinde fiilen çalışanlar.61
  suretiyle;
-18)62 (Ek: 10/1/2013-6385/ 15 md.)
-Yasama organı üyeleri ile Cumhurbaşkanı
- Türkiye Büyük Millet Meclisi ile 90
-yardımcıları ve bakanlar.62
- Cumhurbaşkanlığı
+18)62 (Ek: 10/1/2013-6385/ 15 md.) Yasama organı üyeleri ile Cumhurbaşkanı 90
 
 56 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, bu sırada yer alan “ve uzman erbaşlar”
 ibaresi “, uzman erbaşlar ve sözleşmeli erbaş ve erler” şeklinde değiştirilmiştir.
@@ -212,12 +208,11 @@ değiştirilmiştir.
 61 13/10/2022 tarihli ve 7418 sayılı Kanunun 24 üncü maddesiyle bu sırada yer alan “Basın Kartı
 Yönetmeliğine” ibaresi “Basın Kanununa” şeklinde değiştirilmiştir.
 
-62 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle (18) numaralı
-bentte yer alan “Türkiye Büyük Millet Meclisi” ibaresinden sonra gelmek üzere “ile Cumhurbaşkanlığı”
-ibaresi eklenmiş ve “dışarıdan atanan” ibaresi “Cumhurbaşkanı yardımcıları ve” şeklinde değiştirilmiştir.
 Eklenecek
 Kapsamdaki İşler/İşyerleri Kapsamdaki Sigortalılar
 Gün Sayısı
+ Türkiye Büyük Millet Meclisi ile yardımcıları ve bakanlar.62
+ Cumhurbaşkanlığı
 Ceza infaz kurumu müdürü, idare memuru, infaz
 ve koruma başmemuru, infaz ve koruma memuru
 19) (Ek: 15/8/2017-KHK-694/153 md.; unvanlı kadrolarda bulunanlar ile Adalet Bakanlığı
@@ -247,3 +242,14 @@ alan sigortalıların en az 1800 gün, diğer sıralarda yer alan sigortalılar�
 belirtilen işyeri ve işlerde çalışmış olmaları şarttır.64
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar Kurumun önerisi üzerine
 Bakanlıkça çıkarılacak yönetmelik ile düzenlenir.
+
+Sigortalıların borçlanabileceği süreler
+
+62 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle (18) numaralı
+bentte yer alan “Türkiye Büyük Millet Meclisi” ibaresinden sonra gelmek üzere “ile Cumhurbaşkanlığı”
+ibaresi eklenmiş ve “dışarıdan atanan” ibaresi “Cumhurbaşkanı yardımcıları ve” şeklinde değiştirilmiştir.
+63 10/1/2013 tarihli ve 6385 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “Bu sürelerin, üç
+yılı geçmemek üzere yarısı” ibaresi, “Bu sürelerin, üç yılı geçmemek üzere; (18) numaralı sırasında
+bulunanlar için tamamı diğerleri için yarısı” şeklinde değiştirilmiştir.
+64 10/1/2013 tarihli ve 6385 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “malûliyet
+halleri” ibaresinden sonra gelmek üzere “ile (18) numaralı sırada bulunanlar” ibaresi eklenmiştir.

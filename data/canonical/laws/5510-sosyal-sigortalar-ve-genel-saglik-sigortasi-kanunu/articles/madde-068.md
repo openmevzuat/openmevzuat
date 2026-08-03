@@ -4,9 +4,6 @@
 olanlar şunlardır:
 a) Ayakta tedavide hekim ve diş hekimi muayenesi.
 b) (Değişik: 25/6/2009-5917/40 md.) Vücut dışı protez ve ortezler
-c) Ayakta tedavide sağlanan ilaçlar.
-d) (Ek: 25/6/2009-5917/40 md.) Kurumca belirlenecek hastalık gruplarına göre
-yatarak tedavide finansmanı sağlanan sağlık hizmetleri.
 
 117 1/3/2012 tarihli ve 6283 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “nüfus cüzdanı”
 ibaresinden önce gelmek üzere “biyometrik yöntemlerle kimlik doğrulamasının yapılması ve/veya”
@@ -14,6 +11,9 @@ ibaresi eklenmiştir.
 118 13/2/2011 tarihli ve 6111 sayılı Kanunun 36 ncı maddesiyle, bu fıkranın ikinci cümlesinde yer alan
 “zorunlu sigortalılıklarından sonraki genel sağlık sigortalılıklarından dolayı prim borcu olup
 olmadığına bakılmaksızın” ibaresi madde metninden çıkarılmıştır.
+c) Ayakta tedavide sağlanan ilaçlar.
+d) (Ek: 25/6/2009-5917/40 md.) Kurumca belirlenecek hastalık gruplarına göre
+yatarak tedavide finansmanı sağlanan sağlık hizmetleri.
 (Değişik ikinci fıkra: 17/1/2012-6270/9 md.) Katılım payı, birinci fıkranın (a)
 bendindeki sağlık hizmetleri için 20 Türk Lirası olarak uygulanır. Katılım payı, (b) ve (c)
 bentlerindeki sağlık hizmetleri için gereksiz kullanımı azaltma, sağlık hizmetlerinin niteliği
@@ -46,17 +46,17 @@ bakmakla yükümlü olduğu kişilerin birinci fıkranın (b) bendi gereği öde
 payının tutarı, sağlık hizmetinin alındığı tarihteki asgarî ücretin %75’ini, (d) bendi gereği
 ödeyecekleri katılım payının tutarı ise bir takvim yılında asgari ücret tutarını geçmemek
 kaydıyla her bir yatarak tedavi için asgari ücretin dörtte birini geçemez.
-(Değişik beşinci fıkra: 10/9/2014-6552/47 md.) 63 üncü maddenin birinci fıkrasının
-(e) bendi gereğince sağlanan ve bir hastalığın tedavisinin başka tıbbi bir yöntemle mümkün
-olmaması nedeniyle yapılacak yardımcı üreme yöntemi tedavisi dışındaki, yardımcı üreme
-yöntemi tedavisinde katılım payı ilk denemede %30, ikinci denemede %25, üçüncü denemede
-%20 oranında uygulanır. Ancak katılım payında dördüncü fıkra gereği uygulanan üst limit
 
 119 9/1/2025 tarihli ve 7538 sayılı Kanunun 9 uncu maddesi ile bu fıkranın birinci cümlesinde yer alan
 “2” ibaresi “20” şeklinde değiştirilmiş, altıncı cümlesinde yer alan “önceki basamaklardan sevkli
 olarak başvurulup başvurulmadığı gibi hususları göz önünde bulundurarak on katına kadar
 artırmaya” ibaresinden sonra gelmek üzere “, birinci basamak sağlık hizmeti sunucularından sevk
 edilenler için yarısına kadar azaltmaya” ibaresi eklenmiştir.
+(Değişik beşinci fıkra: 10/9/2014-6552/47 md.) 63 üncü maddenin birinci fıkrasının
+(e) bendi gereğince sağlanan ve bir hastalığın tedavisinin başka tıbbi bir yöntemle mümkün
+olmaması nedeniyle yapılacak yardımcı üreme yöntemi tedavisi dışındaki, yardımcı üreme
+yöntemi tedavisinde katılım payı ilk denemede %30, ikinci denemede %25, üçüncü denemede
+%20 oranında uygulanır. Ancak katılım payında dördüncü fıkra gereği uygulanan üst limit
 dikkate alınmaz.
 60 ıncı maddenin birinci fıkrasının (c) bendinin (1), (2) ve (3) numaralı alt bentleri
 gereği genel sağlık sigortalısı sayılanlar ile bunların bakmakla yükümlü olduğu kişilerin

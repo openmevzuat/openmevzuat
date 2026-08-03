@@ -6,4 +6,4 @@ olmamak üzere, verdiği süre içinde veya belirtilen bir tarihte savunmasını
 savunma hakkından vaz geçmiş sayılır.
 
 Ceza soruşturması veya kovuşturması ile disiplin soruşturmasının bir arada
-yürütülmesi ve zamanaşımı:57
+yürütülmesi ve zamanaşımı:59

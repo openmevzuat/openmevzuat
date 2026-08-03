@@ -5,12 +5,12 @@
  :document/slug "6475-posta-hizmetleri-kanunu",
  :document/path "data/canonical/laws/6475-posta-hizmetleri-kanunu",
  :document/sha256
- "1292de3e532a89f36f1006e75ac8f2ee2d4c1acad17346519bf617d0ac3fec68",
+ "1e3ba72c7ead9832f468a053f1adad7cd5b2e3e31984f621bf66bb63dd3072e9",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6475.pdf",
- :source/fetched-at #inst "2026-07-16T03:00:39.960-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :source/fetched-at #inst "2026-08-03T08:22:22.127-00:00",
+ :openmevzuat/baseline-date "2026-08-03",
+ :openmevzuat/generated-at #inst "2026-08-03T08:20:04.342-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -240,7 +240,7 @@
    "Disiplin cezalarının çeşitleri ve uygulanacak haller",
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "c2d08778846d47c4686558265ceab4fdc9c51df3c2b74c506b80f6113a3101ad"}
+   "7d7107fbc6fec4e20bd48d1d4141c0141f034bb7f003b3c9e60bcbc9590a0fa4"}
   {:article/id "law/6475/article/2",
    :article/type :additional,
    :article/no "2",
@@ -255,7 +255,14 @@
    :article/title "Görevden uzaklaştırma",
    :article/path "articles/ek-madde-003.md",
    :article/sha256
-   "2c6799f919190b2cf3c6c2b85e0dfe0a12fe0731cc70363661f6e6a712d12686"}
+   "925ed368a7cee34e2c6344efab27dfbf56153b2102e499d1a06d772ec92be474"}
+  {:article/id "law/6475/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title "İdari hizmet sözleşmesi ile personel istihdamı",
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "3d495872fefb1b70ba024861f071d8d22e407c1ddbd2ca6d1c2859357ac2bbd6"}
   {:article/id "law/6475/article/1",
    :article/type :temporary,
    :article/no "1",
@@ -333,14 +340,21 @@
    :article/title "Atama işlemlerinin durumu",
    :article/path "articles/gecici-madde-011.md",
    :article/sha256
-   "f6686b1df4b3635f22183db0b4a17abcde7bc4e7235a42717bc318fc5a453e56"}
+   "128275e3e3b6787e0e672a4c8b759c95a1ce930e81d19a407b09bf58f048341c"}
   {:article/id "law/6475/article/12",
    :article/type :temporary,
    :article/no "12",
    :article/title nil,
    :article/path "articles/gecici-madde-012.md",
    :article/sha256
-   "bc4c48f66d0507e5fa443b4f3add1871aa898ed571dc1898583e50001c5ab350"}
+   "d5b3f4b118f99cad5f308d3bc46619ece2978b99401e4e83fd1c0ff67863ed61"}
+  {:article/id "law/6475/article/13",
+   :article/type :temporary,
+   :article/no "13",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-013.md",
+   :article/sha256
+   "0579b605ec995d7240f4c7c62533062b4d4c1f66168061d7d4152d52dc5de40a"}
   {:article/id "law/6475/article/32",
    :article/type :normal,
    :article/no "32",

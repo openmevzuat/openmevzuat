@@ -11,4 +11,5 @@ müracaatları halinde bu birimlerin talebi ile harca tâbi olmadan re’sen ilg
 yapılır. Bu hüküm davası devam eden taşınmazların zilyet veya hak sahibi olan kişileri veya
 kanuni mirasçılarını da kapsar. Bu davalarda karar verilmesine yer olmadığı kararı verilir.
 Yargılama giderleri ve masrafları hak sahibi olan kişi ve mirasçılarına yüklenir.
+
 Yürürlük:

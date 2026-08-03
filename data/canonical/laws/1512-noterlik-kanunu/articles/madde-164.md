@@ -2,11 +2,6 @@
 
 (Değişik: 14/2/1984 - 2980/2 md.)
 Adalet Bakanlığı, Türkiye Noterler Birliği ile Birliğin mahalli organları olan odalar
-
-20 Anayasa Mahkemesinin 25/12/2025 tarihli ve E.: 2025/209; K.: 2025/276 sayılı Kararı ile
-bu fıkrada yer alan “…ve ikinci…” ibaresi iptal edilmiştir.
-21 23/6/2022 tarihli ve 7413 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “birinci
-fıkra” ibaresi “birinci ve ikinci fıkralar” şeklinde değiştirilmiştir.
 üzerinde gözetim ve denetim hakkına sahiptir. Birlik ve odaların her türlü faaliyetleri ile
 hesap ve işlemleri adalet müfettişleri veya Cumhuriyet savcılarınca denetlenir. Denetleme
 usulü yönetmelikte gösterilir.
@@ -31,6 +26,6 @@ işlenmesini veya suçun devamını önlemenin yahut yakalamanın gerektirdiği 
 gecikmede sakınca varsa, Birliğin merkezindeki organları ile odaların başkan ve yönetim
 kurulları vali tarafından faaliyetten men edilebilir. Faaliyetten men kararı, yirmidört saat
 içinde görevli hakimin onayına sunulur. Hakim, kararını kırksekiz saat içinde açıklar; aksi
-halde, bu idari karar kendiliğinden yürürlükten kalkar.22
+halde, bu idari karar kendiliğinden yürürlükten kalkar.23
 
 Üyelik:

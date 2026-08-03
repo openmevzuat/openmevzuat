@@ -15,7 +15,7 @@ yükselebilecekleri dereceleri geçmemek üzere tespit edilecek derece ve kademe
 başvuru tarihinde uygulanmakta olan katsayılar esas alınarak belirlenecek emekli keseneğine
 esas aylık tutarlarının %45’i üzerinden Kurum tarafından hesaplanarak halen çalıştıkları veya
 kamu görevlisi olarak en son çalışmış oldukları kamu idarelerine bildirilir ve söz konusu
-tutarlar bu idareler tarafından üç ay içerisinde Kuruma defaten ödenir.241
+tutarlar bu idareler tarafından üç ay içerisinde Kuruma defaten ödenir.243
 Haklarında verilmiş disiplin cezaları bütün sonuçları ile 5525 sayılı Kanun uyarınca
 ortadan kaldırılmış olanlardan memuriyetten çıkarılmış oldukları kuruma yeniden atanmak
 üzere başvuranların, bu başvurularının ilgili kurumların kayıtlarına geçtiği tarihten başlayarak
@@ -24,6 +24,13 @@ içerisindeki uzun vadeli sigorta kollarına tabi olarak sigorta primi ödenmemi
 keseneği yatırılmamış süreleri hakkında ise, birinci fıkra uyarınca yapılmış olan derece
 yükselmesi ve kademe ilerlemeleri saklı kalmak kaydıyla, yukarıdaki fıkra hükümleri
 çerçevesinde işlem yapılır. Ancak, bu fıkra kapsamına girenlerden ataması bu maddenin
+
+242 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “borçlanacakları
+süreye ilişkin olarak” ibaresi “borçlanacakları süreye ilişkin olarak %45 oranında” şeklinde
+değiştirilmiştir..
+243 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “emekli
+keseneğine esas aylık tutarları” ibaresi “emekli keseneğine esas aylık tutarlarının %45’i” şeklinde
+değiştirilmiştir..
 yürürlük tarihinden önce yapılmış olanların bu fıkra hükümlerinden yararlanabilmesi için, bu
 maddenin yürürlük tarihinden itibaren altı ay içerisinde, bu maddenin yürürlük tarihinden
 önce atama talebinde bulunduğu halde atama işlemleri bu maddenin yürürlüğe girdiği tarihten

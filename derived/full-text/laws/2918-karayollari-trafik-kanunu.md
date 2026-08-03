@@ -3970,12 +3970,33 @@ Aday sürücülük:
 
 EK MADDE 17
 
-(Ek: 12/7/2013-6495/22 md.)
-İlk defa sürücü belgesi alanlar en az bir yıl süre ile aday sürücü olarak kabul edilirler.
-Aday sürücülüğün süresi, aday sürücülerin sürücü belgelerinin iptal edilme ve yeniden
-sürücü belgesi alma şartları ile diğer usul ve esaslar yönetmelikle düzenlenir.90
-Aday sürücülerle ilgili olarak yönetmelikte belirtilen iptal edilme şartlarının oluşması
-hâlinde, bu Kanunun 6 ncı maddesinde sayılan görevliler tarafından sürücü belgeleri iptal edilir.
+(Ek: 12/7/2013-6495/22 md.) (Değişik:24/7/2026-7590/5 md.)
+İlk defa sürücü belgesi alanlar ile sürücü belgesi herhangi bir nedenle iptal edilip
+yeniden sürücü belgesi almaya hak kazananlar, belgenin alındığı tarihten itibaren iki yıl süre
+ile aday sürücü olarak kabul edilirler.
+Aday sürücülük süresi içinde;
+a) Bu Kanun kapsamında sürücü belgesinin geçici olarak geri alınmasını gerektiren bir
+ihlalin gerçekleştirilmesi,
+b) 75 ceza puanının aşılması,
+c) Araç cinsine bakılmaksızın 0.20 promilin üzerinde alkollü olarak araç
+kullanıldığının tespit edilmesi,
+ç) Bu Kanunun 53 üncü maddesinin ikinci fıkrası, 74 üncü veya 78 inci maddelerinden
+herhangi birinin üç kez ihlal edilmesi,
+halinde aday sürücü belgesi iptal edilir.
+Aday sürücü belgesi iptal edilenlerin tekrar sürücü belgesi alabilmeleri için; sürücü
+
+89 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
+cümlesinde yer alan “Belediyelerce” ibaresinden sonra gelmek üzere “veya sermayesinin tamamı
+belediyelere ait şirketler tarafından” ibaresi eklenmiştir.
+kurslarına devam etmeleri ve yapılan sınavlarda başarılı olarak motorlu taşıt sürücüsü
+sertifikası almaları gerekir. Bu kişilerin sürücü kurslarında eğitime başlayabilmeleri için tabi
+tutulacakları psiko-teknik değerlendirme ve psikiyatri uzmanı muayenesi sonucunda
+sürücülüğe engel hali bulunmadığını gösterir belgenin sürücü kursuna ibrazı, bu Kanun
+kapsamında verilen idari para cezalarının tamamının tahsil edilmiş olması ve varsa iptal
+işlemi sonrası bekleme süresi veya geçici geri alma işlemleri sonrası geri alma süresi kadar
+zamanın geçmiş olması zorunludur.
+Aday sürücü belgesi iptal işlemleri bu Kanunun 6 ncı maddesinde sayılan görevliler
+tarafından yapılır.
 
 Noterliklere devir:
 
@@ -3984,19 +4005,12 @@ EK MADDE 18
 (Ek: 2/1/2017-KHK-680/61 md.; Aynen kabul: 1/2/2018-7072/60 md.)
 Emniyet Genel Müdürlüğünce yürütülen araç tescil hizmetlerine ilişkin iş ve işlemler, bu
 Kanunun 131 inci maddesi hükümleri saklı kalmak üzere, Türkiye Noterler Birliği koordinesinde
-
-89 20/8/2016 tarihli ve 6745 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
-cümlesinde yer alan “Belediyelerce” ibaresinden sonra gelmek üzere “veya sermayesinin tamamı
-belediyelere ait şirketler tarafından” ibaresi eklenmiştir.
-90 Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2025/28, K.: 2025/139 sayılı Kararı ile bu fıkrada
-yer alan “sürücü belgelerinin iptal edilme” ibaresi iptal edilmiştir. Bu değişiklik yayımlanmasından
-başlayarak dokuz ay sonra (2/9/2026) tarihinde yürürlüğe girer.
 noterliklere devredilebilir. Bu durumda;
 a) Araç tescil işlemlerine ilişkin olarak noterliklere devredilen iş ve işlemler hakkında
 mevzuatta Emniyet birimlerine yapılmış olan atıflar, noterliklere yapılmış sayılır.
 b) Araç sicil ve tescil sistemi veri tabanı Türkiye Noterler Birliğince tutulur ve bu
 kuruluşça yönetimi ve güvenliği sağlanır. Veri tabanında yer alan bilgiler anlık olarak Emniyet
-Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.91
+Genel Müdürlüğü ve Jandarma Genel Komutanlığı ile paylaşılır.90
 c) Araç tescil işlemi karşılığında, noterler tarafından alınacak ücret, araç tescil
 hizmetlerine ilişkin iş ve işlemler ile bu maddenin uygulanmasına ilişkin usul ve esaslar;
 Bilim, Sanayi ve Teknoloji Bakanlığı, Maliye Bakanlığı ve Ulaştırma, Denizcilik ve
@@ -4015,6 +4029,10 @@ verme ve sivil plaka işlemleri hakkında uygulanmaz.
 EK MADDE 19
 
 (Ek: 2/7/2018-KHK-703/188 md.)
+
+90 21/11/2024 tarihli ve 7533 sayılı Kanunun 26 ncı maddesi ile bu bendin ikinci cümlesine
+“Emniyet Genel Müdürlüğü” ibaresinden sonra gelmek üzere “ve Jandarma Genel
+Komutanlığı” ibaresi eklenmiştir.
 Mevzuatta Karayolu Güvenliği Yüksek Kurulu ile Karayolu Trafik Güvenliği Kuruluna
 yapılmış olan atıflar, Cumhurbaşkanınca belirlenen kurul veya mercie yapılmış sayılır.
 
@@ -4034,10 +4052,6 @@ GEÇİCİ MADDE 1
 6085 Sayılı Karayolları Trafik Kanununa ve bu Kanuna göre verilen
 araçlara ait belgelerle şoför ehliyetnameleri ve sürücü belgelerinin değiştirilip yenilenmesi bilgi
 işlem merkezi hizmete konulduktan sonra yönetmelikte belirtilen usul, esas ve şartlara göre
-
-91 21/11/2024 tarihli ve 7533 sayılı Kanunun 26 ncı maddesi ile bu bendin ikinci cümlesine
-“Emniyet Genel Müdürlüğü” ibaresinden sonra gelmek üzere “ve Jandarma Genel
-Komutanlığı” ibaresi eklenmiştir.
 yapılır. Bu işlemlere İçişleri Bakanlığının tespit ve ilan edeceği tarihte başlanır ve iki yıl içinde
 tamamlanır.
 Bu değiştirme ve yenilemeler harca tabi değildir.

@@ -6,6 +6,6 @@ buna hakkı yoksa, hükmü veren mahkeme bir kararla dilekçeyi reddeder.
 (2) İstinaf başvurusunda bulunan Cumhuriyet savcısı veya ilgililer, ret kararının
 kendilerine tebliğinden itibaren iki hafta içinde bölge adliye mahkemesinden bu hususta bir
 karar vermesini isteyebilirler. Bu takdirde dosya bölge adliye mahkemesine gönderilir.
-Ancak, bu nedenle hükmün infazı ertelenemez.118
+Ancak, bu nedenle hükmün infazı ertelenemez.116
 
 İstinaf isteminin tebliği ve cevabı

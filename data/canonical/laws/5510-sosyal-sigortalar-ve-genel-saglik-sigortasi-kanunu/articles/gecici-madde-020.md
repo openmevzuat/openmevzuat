@@ -7,7 +7,7 @@ borsalar veya bunların teşkil ettikleri birlikler personeli için kurulmuş bu
 iştirakçileri ile aylık veya gelir bağlanmış olanlar ile bunların hak sahiplerinin Sosyal
 Güvenlik Kurumuna devir tarihini belirlemeye Cumhurbaşkanı yetkilidir. Devir tarihi
 itibarıyla sandık iştirakçileri bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
-kapsamında sigortalı sayılırlar.230
+kapsamında sigortalı sayılırlar.232
 Sosyal Güvenlik Kurumu, Maliye Bakanlığı, Hazine Müsteşarlığı, Devlet Plânlama
 Teşkilatı Müsteşarlığı, Bankacılık Düzenleme ve Denetleme Kurumu, Tasarruf Mevduatı
 Sigorta Fonu, her sandık için ayrı ayrı olmak üzere hesabı yapılan Sandığı temsilen bir ve
@@ -36,10 +36,10 @@ veya sandık iştirakçilerini istihdam eden kuruluşlar tarafından Kurum kontr
 Devir tarihi itibariyle sandıklarda iştirakçi olanlar ile sandıklardan ayrılmış olup, aylık
 veya gelir almayanların sandıklara karşı hak sahibi olmaları halinde tahsis talep tarihi itibariyle
 aylıkları, bu Kanunun geçici 2 nci maddesi hükümlerine göre hesaplanır. Geçici 2 nci maddenin
-birinci fıkrasının (a) bendinin uygulanmasında bu Kanunun yürürlüğe girdiği tarihten önceki
 
-230 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu fıkrada yer
+232 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+birinci fıkrasının (a) bendinin uygulanmasında bu Kanunun yürürlüğe girdiği tarihten önceki
 dönem için 506 sayılı Kanun hükümlerine göre Kurum tarafından ve vakıf senetlerine göre
 ilgili sandıklar ve sandık iştirakçilerini istihdam eden kuruluşlar tarafından Kurum
 kontrolünde hesaplama yapılır. Geçici 2 nci madde kapsamında hesaplanacak aylıklar ile
@@ -56,7 +56,7 @@ sandık iştirakçilerini istihdam eden kuruluşlarca karşılanmaya devam edili
 Bu maddenin uygulanmasına ilişkin usûl ve esaslar ile bu maddenin beşinci ve altıncı
 fıkralarında belirtilen farklara ilişkin peşin değerin ilk taksitle birlikte defaten veya taksitler
 halinde ödenmesi konusu, Cumhurbaşkanı kararı ile belirlenir. Taraflar, Sosyal Güvenlik
-Kurumunca belirlenecek tarihe kadar görüş ve önerilerini yazılı olarak verirler.231
+Kurumunca belirlenecek tarihe kadar görüş ve önerilerini yazılı olarak verirler.233
 Bu maddenin uygulanmasına ilişkin iş ve işlemlerde Türkiye Odalar, Borsalar ve
 Birlik Personeli Sigorta ve Emekli Sandığı Vakfı iştirakçilerini istihdam eden kuruluşları,
 18/5/2004 tarihli ve 5174 sayılı Türkiye Odalar ve Borsalar Birliği ile Odalar ve Borsalar
@@ -74,12 +74,12 @@ Bu maddenin beşinci ve altıncı fıkralarına göre Sosyal Güvenlik Kurumu ta
 ödenecek olan aylık ve gelirler üzerindeki farklar ve bu madde çerçevesinde devre ilişkin
 belirlenecek usûl ve esaslar bu maddenin yayımından önce 506 sayılı Kanunun ek 36 ncı
 maddesine göre devri gerçekleşmiş veya devam eden sandıklar için uygulanmaz.
-5411 sayılı Bankacılık Kanununun 58 inci maddesi hükümleri bu madde kapsamında
-yapılacak devir ve diğer işlemler hakkında uygulanmaz.
 
-231 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu fıkrada yer
+233 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu fıkrada yer
 alan “Sosyal Güvenlik Kurumu, Maliye Bakanlığı, Hazine Müsteşarlığı, Devlet Plânlama Teşkilatı
 Müsteşarlığı, Bankacılık Düzenleme ve Denetleme Kurumu, Tasarruf Mevduatı Sigorta Fonu, Sandık
 iştirakçilerini istihdam eden kuruluşlar ile sandıkların görüş ve önerileri alınarak Bakanlar Kurulu”
 ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+5411 sayılı Bankacılık Kanununun 58 inci maddesi hükümleri bu madde kapsamında
+yapılacak devir ve diğer işlemler hakkında uygulanmaz.
 2108 sayılı Yasaya ilişkin geçiş hükümleri

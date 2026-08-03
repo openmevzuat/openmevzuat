@@ -12,7 +12,7 @@ maddenin ikinci fıkrasına göre hâkim ve savcı yardımcılığına diğer ka
 ettikleri derece ve kademe üzerinden atananların, bu derece ve kademeleri ile o görevlerde
 geçen süreleri dikkate alınmaz.
 
-29 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin üçüncü ve dördüncü fıkralarında
+30 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin üçüncü ve dördüncü fıkralarında
 yer alan “adaylığa” ibareleri “hâkim ve savcı yardımcılığına” şeklinde ve dördüncü fıkrasında yer alan
 “meslek öncesi eğitim sonu yazılı sınav puanı” ibaresi “hâkim ve savcı yardımcılığı sonu başarı puanı” şeklinde
 değiştirilmiştir.

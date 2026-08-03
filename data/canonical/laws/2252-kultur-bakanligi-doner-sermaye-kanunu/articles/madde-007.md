@@ -1,4 +1,4 @@
-# MADDE 7 — Ayrıcalıklar:11
+# MADDE 7 — Ayrıcalıklar:12
 
 Kültür Bakanlığı döner sermayesi; 1050 sayılı Muhasebe-i Umumiye
 Kanunu, 2490 sayılı Artırma - Eksiltme ve İhale Kanunu ile bu kanunların ek ve değişiklikleri

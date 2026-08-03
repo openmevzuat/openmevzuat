@@ -9,7 +9,7 @@ katılmaktan yasaklama kararı verilir. Katılma yasakları, ihaleyi yapan bakan
 bulunulan bakanlık, herhangi bir bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde bu
 idarelerin ihale yetkilileri, il özel idareleri ve bunlara bağlı birlik, müessese ve işletmelerde İçişleri
 Bakanlığı; belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ise Çevre ve Şehircilik
-Bakanlığı tarafından verilir.60
+Bakanlığı tarafından verilir.61
 Haklarında yasaklama kararı verilen tüzel kişilerin şahıs şirketi olması halinde şirket
 ortaklarının tamamı hakkında, sermaye şirketi olması halinde ise sermayesinin yarısından
 fazlasına sahip olan gerçek veya tüzel kişi ortaklar hakkında birinci fıkra hükmüne göre
@@ -23,7 +23,7 @@ kadar aynı idare tarafından yapılacak sonraki ihalelere de iştirak ettirilme
 Yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi
 izleyen en geç kırkbeş gün içinde verilir. Verilen bu karar Resmi Gazetede yayımlanmak üzere en
 geç onbeş gün içinde gönderilir ve yayımı tarihinde yürürlüğe girer. Bu kararlar Kamu İhale
-Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.61
+Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.62
 İhaleyi yapan idareler, ihalelere katılmaktan yasaklamayı gerektirir bir durumla
 karşılaştıkları takdirde, gereğinin yapılması için bu durumu ilgili veya bağlı bulunulan bakanlığa
 bildirmekle yükümlüdür.

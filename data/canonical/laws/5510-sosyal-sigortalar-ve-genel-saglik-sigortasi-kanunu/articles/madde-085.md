@@ -1,9 +1,23 @@
-# MADDE 85 — Asgari işçilik uygulaması ve uzlaşma156
+# MADDE 85 — Asgari işçilik uygulaması ve uzlaşma157
 
 İşverenin, işin emsaline, niteliğine, kapsam ve kapasitesine göre işin
 yürütümü açısından gerekli olan sigortalı sayısının, çalışma süresinin veya prime esas kazanç
 tutarının altında bildirimde bulunduğunun tespiti halinde, işin yürütümü açısından gerekli
 olan asgarî işçilik tutarı; yapılan işin niteliği, kullanılan teknoloji, işyerinin büyüklüğü, benzer
+
+154 10/9/2014 tarihli ve 6552 sayılı Kanunun 50 nci maddesiyle, bu fıkrada yer alan “6,5 katıdır.”
+ibaresi 6552 sayılı Kanunun yayımlandığı 11/9/2014 tarihini izleyen aybaşında yürürlüğe girmek üzere
+“6,5 katı, ancak sosyal güvenlik sözleşmesi olmayan ülkelerde iş üstlenen işverenlerce yurt dışındaki
+işyerlerinde çalıştırılmak üzere götürülen Türk işçileri için 3 katıdır.” şeklinde değiştirilmiştir.
+155 16/11/2016 tarihli ve 6761 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “6,5” ibaresi
+1/1/2017 tarihinden geçerli olmak üzere “7,5” şeklinde değiştirilmiştir.
+156 4/12/2025 tarihli ve 7566 sayılı Kanunun 24 üncü maddesiyle bu fıkrada yer alan “7,5” ibaresi
+“9” şeklinde değiştirilmiştir.
+157 Bu madde başlığı “Asgarî işçilik uygulaması” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu
+maddesiyle metne işlendiği şekilde değiştirilmiş, aynı maddenin ikinci ve beşinci fıkralarında yer alan
+“döner sermayeli kuruluşlar,” ibaresinden sonra gelmek üzere “kanunla kurulan kurum ve kuruluşlar”
+ibaresi, dokuzuncu fıkrasında yer alan “yapılacak yerinde tespit kriterleri,” ibaresinden sonra gelmek
+üzere “uzlaşma komisyonlarının oluşumu, çalışma usûl ve esasları” ibaresi eklenmiştir.
 işletmelerde çalıştırılan sigortalı sayısı, ilgili meslek veya kamu kuruluşlarının görüşü gibi
 unsurlar dikkate alınarak tespit edilir. Söz konusu tespitler, Kurumun denetim ve kontrolle
 görevlendirilmiş memurları tarafından yapılır.
@@ -16,12 +30,6 @@ hesaplanacak gecikme cezası ve gecikme zammı ile birlikte bir ay içinde öden
 işverene tebliğ edilir. Tebliğ edilen prim ve gecikme cezası ve gecikme zammının ödendiği
 veya ödeneceğinin işveren tarafından yazılı olarak taahhüt edilmesi halinde borç kesinleşir.
 Kuruma verilecek taahhütnamede üstlenilen ödeme yükümlülüğünün yerine getirilmemesi
-
-156 Bu madde başlığı “Asgarî işçilik uygulaması” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 49 uncu
-maddesiyle metne işlendiği şekilde değiştirilmiş, aynı maddenin ikinci ve beşinci fıkralarında yer alan
-“döner sermayeli kuruluşlar,” ibaresinden sonra gelmek üzere “kanunla kurulan kurum ve kuruluşlar”
-ibaresi, dokuzuncu fıkrasında yer alan “yapılacak yerinde tespit kriterleri,” ibaresinden sonra gelmek
-üzere “uzlaşma komisyonlarının oluşumu, çalışma usûl ve esasları” ibaresi eklenmiştir.
 halinde, işveren hakkında 88 inci ve 89 uncu maddeler uyarınca işlem yapılır. Tebliğ edilen
 prim ve gecikme cezası ve gecikme zammının ödenmemesi, taahhütname verilmemesi veya
 Kurumca işyerinin denetlenmesine gerek görülmesi durumunda Kurumca inceleme yapılır.

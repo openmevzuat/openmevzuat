@@ -1,4 +1,4 @@
-# MADDE 16 — İhale saatinden önce ihalenin iptal edilmesi27
+# MADDE 16 — İhale saatinden önce ihalenin iptal edilmesi28
 
 İdarenin gerekli gördüğü veya ihale dokümanında yer alan belgelerde ihalenin
 yapılmasına engel olan ve düzeltilmesi mümkün bulunmayan hususların bulunduğunun tespit

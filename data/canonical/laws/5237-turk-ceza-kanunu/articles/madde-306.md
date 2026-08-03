@@ -1,9 +1,6 @@
 # MADDE 306 — Yabancı devlet aleyhine asker toplama
 
 (1) Türkiye Devletini savaş tehlikesi ile karşı karşıya bırakacak şekilde,
-
-114 29/6/2005 tarihli ve 5377 sayılı Kanunun 38 inci maddesiyle bu maddenin başlığı “Temel milli
-yararlara karşı hareket” iken, metne işlendiği şekilde değiştirilmiştir.
 yetkisiz olarak, yabancı bir devlete karşı asker toplayan veya diğer hasmane hareketlerde
 bulunan kimseye beş yıldan oniki yıla kadar hapis cezası verilir.
 (2) Fiil sonucu savaş meydana gelirse faile müebbet hapis cezası verilir.

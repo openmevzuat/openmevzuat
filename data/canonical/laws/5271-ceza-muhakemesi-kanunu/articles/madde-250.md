@@ -6,7 +6,7 @@ Düzenleme:17/10/2019-7188/23 md.)
 açılmasının ertelenmesine karar verilmediği takdirde seri muhakeme usulü uygulanır:
 a) Türk Ceza Kanununda yer alan;
 1. Hakkı olmayan yere tecavüz (madde 154, ikinci ve üçüncü fıkra),
-2. Genel güvenliğin kasten tehlikeye sokulması (madde 170, birinci ve üçüncü fıkra),92
+2. Genel güvenliğin kasten tehlikeye sokulması (madde 170, birinci ve üçüncü fıkra),90
 3. Trafik güvenliğini tehlikeye sokma (madde 179, ikinci ve üçüncü fıkra),
 4. Gürültüye neden olma (madde 183),
 5. Parada sahtecilik (madde 197, ikinci ve üçüncü fıkra),
@@ -15,16 +15,16 @@ a) Türk Ceza Kanununda yer alan;
 8. Kumar oynanması için yer ve imkan sağlama (madde 228, birinci fıkra),
 9. Başkasına ait kimlik veya kimlik bilgilerinin kullanılması (madde 268),
 suçları.
+
+89 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Mahkeme”
+ibaresi “Sulh ceza hâkimi veya mahkeme” şeklinde değiştirilmiştir.
+90 24/12/2025 tarihli ve 7571 sayılı Kanunun 23 üncü maddesiyle bu alt bentte yer alan “(madde
+170)” ibaresi “(madde 170, birinci ve üçüncü fıkra)” şeklinde değiştirilmiştir.
 b) 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler
 Hakkında Kanunun 13 üncü maddesinin üçüncü fıkrası ile 15 inci maddesinin birinci, ikinci
-ve üçüncü fıkralarında belirtilen suçlar.93
+ve üçüncü fıkralarında belirtilen suçlar.91
 c) 31/8/1956 tarihli ve 6831 sayılı Orman Kanununun 93 üncü maddesinin birinci
 fıkrasında belirtilen suç.
-
-92 24/12/2025 tarihli ve 7571 sayılı Kanunun 23 üncü maddesiyle bu alt bentte yer alan “(madde
-170)” ibaresi “(madde 170, birinci ve üçüncü fıkra)” şeklinde değiştirilmiştir.
-93 21/11/2024 tarihli ve 7533 sayılı Kanunun 34 üncü maddesi ile bu bentte yer alan “birinci, üçüncü
-ve beşinci fıkraları” ibaresi “üçüncü fıkrası” şeklinde değiştirilmiştir.
 d) 13/12/1968 tarihli ve 1072 sayılı Rulet, Tilt, Langırt ve Benzeri Oyun Alet ve
 Makinaları Hakkında Kanunun 2 nci maddesinde belirtilen suç.
 e) 24/4/1969 tarihli ve 1163 sayılı Kooperatifler Kanununun ek 2 nci maddesinin
@@ -37,7 +37,7 @@ teklif edilir ve şüphelinin müdafii huzurunda teklifi kabul etmesi hâlinde b
 belirtilen hususları göz önünde bulundurarak, suçun kanuni tanımında öngörülen cezanın alt
 ve üst sınırı arasında tespit edeceği temel cezadan ve koşulları bulunduğu takdirde zincirleme
 suça ilişkin hükümler uygulandıktan sonra belirlenen cezadan yarı oranında indirim
-uygulamak suretiyle yaptırımı belirler.94
+uygulamak suretiyle yaptırımı belirler.92
 (5) Dördüncü fıkra uyarınca sonuç olarak belirlenen hapis cezası Cumhuriyet savcısı
 tarafından, koşulları bulunması hâlinde Türk Ceza Kanununun 50 nci maddesine göre seçenek
 yaptırımlara çevrilebilir veya 51 inci maddesine göre ertelenebilir.
@@ -56,16 +56,18 @@ tarihleri ile bunların süreleri,
 f) İsnat olunan suçu oluşturan olayların özeti,
 g) Üçüncü fıkrada belirtilen şartların gerçekleştiği,
 h) Belirlenen yaptırım ile beşinci ve altıncı fıkra uygulanmış ise bunlara ilişkin
+
+91 21/11/2024 tarihli ve 7533 sayılı Kanunun 34 üncü maddesi ile bu bentte yer alan “birinci, üçüncü
+ve beşinci fıkraları” ibaresi “üçüncü fıkrası” şeklinde değiştirilmiştir.
+92 8/7/2021 tarihli ve 7331 sayılı Kanunun 22 nci maddesiyle, bu fıkraya “temel cezadan” ibaresinden
+sonra gelmek üzere “ve koşulları bulunduğu takdirde zincirleme suça ilişkin hükümler uygulandıktan
+sonra belirlenen cezadan” ibaresi eklenmiştir.
 hususlar ve güvenlik tedbirleri,
 gösterilir. (Ek cümle:8/7/2021-7331/22 md.) Bu fıkraya aykırı olarak düzenlendiği,
 belirlenen yaptırımda maddi hata yapıldığı, yaptırım hakkında 231 inci veya Türk Ceza
 Kanununun 50 nci ve 51 inci maddelerinin uygulanmasında objektif koşulların gerçekleşmediği
 ya da teklif edilen cezanın mahiyetine uygun bir güvenlik tedbiri belirtilmediği anlaşılan talep
 yazısı, eksikliklerin tamamlanması amacıyla mahkemece Cumhuriyet başsavcılığına iade edilir.
-
-94 8/7/2021 tarihli ve 7331 sayılı Kanunun 22 nci maddesiyle, bu fıkraya “temel cezadan” ibaresinden
-sonra gelmek üzere “ve koşulları bulunduğu takdirde zincirleme suça ilişkin hükümler uygulandıktan
-sonra belirlenen cezadan” ibaresi eklenmiştir.
 Cumhuriyet savcısı tarafından eksiklikler tamamlandıktan ve hatalı noktalar düzeltildikten sonra
 talep yazısı yeniden düzenlenerek mahkemeye gönderilir.
 (9) Mahkeme, şüpheliyi müdafii huzurunda dinledikten sonra üçüncü fıkradaki
@@ -74,7 +76,7 @@ mevcut delillere göre mahkûmiyet kararı verilmesi gerektiği kanaatine varır
 belirtilen yaptırımdan daha ağır olmamak üzere dört ila yedinci fıkra hükümleri
 doğrultusunda hüküm kurar; aksi takdirde talebi reddeder ve soruşturmanın genel hükümlere
 göre sonuçlandırılması amacıyla dosyayı Cumhuriyet başsavcılığına gönderir. Mazeretsiz
-olarak mahkemeye gelmeyen şüpheli, bu usulden vazgeçmiş sayılır.95
+olarak mahkemeye gelmeyen şüpheli, bu usulden vazgeçmiş sayılır.93
 (10) Seri muhakeme usulünün herhangi bir sebeple tamamlanamaması veya
 soruşturmanın genel hükümlere göre sonuçlandırılması amacıyla Cumhuriyet başsavcılığına
 gönderilmesi hâllerinde, şüphelinin seri muhakeme usulünü kabul ettiğine ilişkin beyanları ile
@@ -84,13 +86,25 @@ işlemlerinde delil olarak kullanılamaz.
 uygulanmasını kabul etmemesi hâlinde seri muhakeme usulü uygulanmaz. (Ek cümle:
 8/7/2021-7331/22 md.) Seri muhakeme usulü, bu kapsama giren bir suçun, kapsama
 girmeyen başka bir suçla birlikte işlenmiş olması hâlinde uygulanmaz.
-(12) Seri muhakeme usulü, yaş küçüklüğü ve akıl hastalığı (…)96 hâllerinde
+(12) Seri muhakeme usulü, yaş küçüklüğü ve akıl hastalığı (…)94 hâllerinde
 uygulanmaz.
 (13) Resmî mercilere beyan edilmiş olup da soruşturma dosyasında yer alan adreste
 bulunmama veya yurt dışında olma ya da başka bir nedenle şüpheliye ulaşılamaması hâlinde,
-seri muhakeme usulü uygulanmaz. 97
+seri muhakeme usulü uygulanmaz. 95
 (14) (Değişik:8/7/2021-7331/22 md.) Dokuzuncu fıkra kapsamında mahkemece
 kurulan hükme itiraz edilebilir. İtiraz mercii, itirazı üçüncü ve dokuzuncu fıkralardaki şartlar
+
+93 8/7/2021 tarihli ve 7331 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “şartların
+gerçekleştiği ve eylemin seri muhakeme usulü kapsamında olduğu kanaatine varırsa talepte belirlenen
+yaptırım doğrultusunda” ibaresi “şartların gerçekleştiği, eylemin seri muhakeme usulü kapsamında
+olduğu ve dosyadaki mevcut delillere göre mahkûmiyet kararı verilmesi gerektiği kanaatine varırsa
+talep yazısında belirtilen yaptırımdan daha ağır olmamak üzere dört ila yedinci fıkra hükümleri
+doğrultusunda” şeklinde değiştirilmiştir.
+94 Anayasa Mahkemesinin 5/11/2024 Tarihli ve E: 2024/66, K: 2024/188 Sayılı Kararı ile bu fıkrada
+yer alan "… ile sağır ve dilsizlik..." ibaresi iptal edilmiştir.
+95 Anayasa Mahkemesinin 10/9/2025 Tarihli ve E: 2025/51, K: 2025/184 Sayılı Kararı ile bu fıkrada
+yer alan “ya da başka bir nedenle şüpheliye ulaşılamaması” ibaresi iptal edilmiştir. Bu Karar Resmî
+Gazete’de yayımlanmasından başlayarak dokuz ay sonra (3/9/2026) yürürlüğe girer.
 yönünden inceler.
 (15) Bu maddenin uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından
 çıkarılan yönetmelikle belirlenir.

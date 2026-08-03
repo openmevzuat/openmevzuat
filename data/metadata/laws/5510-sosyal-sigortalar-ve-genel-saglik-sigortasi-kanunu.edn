@@ -7,12 +7,12 @@
  :document/path
  "data/canonical/laws/5510-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu",
  :document/sha256
- "89c70504583cec6bfe9414f570314e897b3db1c23f82b2a8938ca0ee46bfe336",
+ "ac492d9e36bffa402906b501af1305af2928b076de78252db70d6c8e6a18cea6",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5510.pdf",
- :source/fetched-at #inst "2026-07-16T02:40:18.920-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-03T08:21:44.869-00:00",
+ :openmevzuat/baseline-date "2026-08-03",
+ :openmevzuat/generated-at #inst "2026-08-03T08:20:04.342-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -37,49 +37,49 @@
    :article/title "Tanımlar",
    :article/path "articles/madde-003.md",
    :article/sha256
-   "0013fff2374e850066eae45d2efac4b0bb272b8aad276df291b0c4898b3c8668"}
+   "a1e7eafeac412d0d43e47f348071d75be4da5af918c0e51e4593b32e5398b3a0"}
   {:article/id "law/5510/article/4",
    :article/type :normal,
    :article/no "4",
    :article/title nil,
    :article/path "articles/madde-004.md",
    :article/sha256
-   "4146f91ddee5ec3808a78f4cc798d92d0a8c57e30986650956b712a2ef872736"}
+   "eb2986713914c1c209ce3d9a579cbf4883979a338c51412b03cf46a6888df22d"}
   {:article/id "law/5510/article/5",
    :article/type :normal,
    :article/no "5",
    :article/title "Bazı sigorta kollarının uygulanacağı sigortalılar",
    :article/path "articles/madde-005.md",
    :article/sha256
-   "3c9a99031e812f7443faf7bf881c7cc7e50aa07bf43df5fbc1379eff03f82806"}
+   "0819e2005423195f35b8d8d025cb1b33c5fca924cc31c622b84d9e7ded25762b"}
   {:article/id "law/5510/article/6",
    :article/type :normal,
    :article/no "6",
    :article/title "Sigortalı sayılmayanlar",
    :article/path "articles/madde-006.md",
    :article/sha256
-   "a7729bcacc0267c24b9c6494fe57ddb29244c68540770bac465fdacbeb30d75d"}
+   "1bf932cb9d7b52ffcca3738d02ce0e95229222b7fa1216f223024745325f0c4a"}
   {:article/id "law/5510/article/7",
    :article/type :normal,
    :article/no "7",
    :article/title "Sigortalılığın başlangıcı",
    :article/path "articles/madde-007.md",
    :article/sha256
-   "54a7e00f2900b666a238b77abd00dfc819710b678f0d4df9ba08939ccf924415"}
+   "5414a996c99afcd1ad51220f9646c0786474960f6b68265b430b58c013366860"}
   {:article/id "law/5510/article/8",
    :article/type :normal,
    :article/no "8",
    :article/title "Sigortalı bildirimi ve tescili",
    :article/path "articles/madde-008.md",
    :article/sha256
-   "91e0766876a95eeef17b05a6b5e4d15f23d87fefa520d15dd697e7cd14eb93a3"}
+   "1bca3ccf0a4cb9c2e2edec277622dc39f57d5a6bbf6ef8de8d7856b57865fd53"}
   {:article/id "law/5510/article/9",
    :article/type :normal,
    :article/no "9",
    :article/title "Sigortalılığın sona ermesi",
    :article/path "articles/madde-009.md",
    :article/sha256
-   "c9c9da06b3f6bc13efb99500733f61df524ecf22f84c76f6a071cde2792151e3"}
+   "e9604e14c29757c499fdd0e2bc22078eb1ec2a4cf4a8f595c79c7e0ca4060c85"}
   {:article/id "law/5510/article/10",
    :article/type :normal,
    :article/no "10",
@@ -102,14 +102,14 @@
    "İşveren, işveren vekili, geçici iş ilişkisi kurulan işveren ve alt işveren",
    :article/path "articles/madde-012.md",
    :article/sha256
-   "6ee8ea5a9d638ae9c4d988f9aec9c849d19adeed558b8babb33d96a7c84576a2"}
+   "91bc87688f2c5987666fcfa828e8dd40d6972a0a6dc924baeaa0bccf5c7b41b3"}
   {:article/id "law/5510/article/13",
    :article/type :normal,
    :article/no "13",
    :article/title nil,
    :article/path "articles/madde-013.md",
    :article/sha256
-   "ca8e53b3dbb469a5a1d0f5faeeacbb3b53081680e4e025b120db2f70ba5014e1"}
+   "399dffea06bb02f7312857a18fa45c6bf57630dfa7d7582168af916db7becd7a"}
   {:article/id "law/5510/article/14",
    :article/type :normal,
    :article/no "14",
@@ -117,43 +117,42 @@
    "Meslek hastalığının tanımı, bildirilmesi ve soruşturulması",
    :article/path "articles/madde-014.md",
    :article/sha256
-   "f7f4c5d1c41be1aaad98b57ffc461f864eb3bac8ef02371a56409fb06fa30726"}
+   "803dba9d4200b7e87d535f34c433afd6d9098ffd4e9b73af801b0eac0fd368b1"}
   {:article/id "law/5510/article/15",
    :article/type :normal,
    :article/no "15",
    :article/title "Hastalık ve analık hali",
    :article/path "articles/madde-015.md",
    :article/sha256
-   "42405d5cc533abf6ee067603ca35b59255a14e3a5697d1ac85f67a5b06833498"}
+   "e14fde22201c7a9023c556ca488e5dfa43f1a3348173ad5e1fc2df829fce2252"}
   {:article/id "law/5510/article/16",
    :article/type :normal,
    :article/no "16",
-   :article/title
-   "İş kazası, meslek hastalığı, hastalık ve analık sigortasından sağlanan haklar30",
+   :article/title nil,
    :article/path "articles/madde-016.md",
    :article/sha256
-   "5b1dc61c279e533efa7cf63f9d424bbffcd76f2d1c3c1b74ceecaf28de195538"}
+   "0a31b04343bb85b6a4b1b4356069c5427d63ce477d5da88680a95a66ba9ce349"}
   {:article/id "law/5510/article/17",
    :article/type :normal,
    :article/no "17",
    :article/title "Ödenek ve gelirlere esas tutulacak günlük kazanç31",
    :article/path "articles/madde-017.md",
    :article/sha256
-   "f206964102445d997c67b5b5203a68e785ae4562e9e84ee82ba2e2ab6329b429"}
+   "ebd2abaae28233c035ad8f7b1a88ed7cba91476e472aeab93433393439e69254"}
   {:article/id "law/5510/article/18",
    :article/type :normal,
    :article/no "18",
    :article/title "Geçici iş göremezlik ödeneği",
    :article/path "articles/madde-018.md",
    :article/sha256
-   "71ef4e9f6c3bc90725398b485eb10bdcbfe843c0b05eb8d6fbaa31d441270e26"}
+   "3cd5ed54e48359afa39b3fc6a71ba0df489b688a45b0ff9292bb67f75bcf72dd"}
   {:article/id "law/5510/article/19",
    :article/type :normal,
    :article/no "19",
    :article/title nil,
    :article/path "articles/madde-019.md",
    :article/sha256
-   "c591a6f8a1e8d0b149322a84d6d46ddd529b4ae1d21af44cba8dbcdd300cccf4"}
+   "c90cc5610b259135d3bcaedfc0e4931a9cadbd942535dd76d98cb27a737044dd"}
   {:article/id "law/5510/article/20",
    :article/type :normal,
    :article/no "20",
@@ -161,14 +160,14 @@
    "Hak sahiplerine gelir bağlanması, evlenme ve cenaze ödenekleri",
    :article/path "articles/madde-020.md",
    :article/sha256
-   "5e869175f2c044d4b5c56208f1c8e42f5f8cab2eac6e51dd42c74b25c0c7b997"}
+   "afd1e5719eac33f531526f07ee77c306a9cf8e603003f05ef4ea63cc6d4099b0"}
   {:article/id "law/5510/article/21",
    :article/type :normal,
    :article/no "21",
    :article/title nil,
    :article/path "articles/madde-021.md",
    :article/sha256
-   "e6732e6b070c87402339b99a42c17cf515031ef043ee3e355a1f7b9d7c6843ef"}
+   "c36a92dc6a1c61387437222d949f9cf6b75350c2e8c4a90dd5efb01fb88f9c95"}
   {:article/id "law/5510/article/22",
    :article/type :normal,
    :article/no "22",
@@ -197,7 +196,7 @@
    :article/title nil,
    :article/path "articles/madde-025.md",
    :article/sha256
-   "3ca828e0f510baefcfa72df688cb296a71f3176986cebc7a0a01d8b1dc50aeec"}
+   "ba1e9ba7dbdac9ea0747cd5d1ce5595e39a49ec87eeab6da06d95333561be37d"}
   {:article/id "law/5510/article/26",
    :article/type :normal,
    :article/no "26",
@@ -205,14 +204,14 @@
    "Malûllük sigortasından sağlanan haklar ve yararlanma şartları",
    :article/path "articles/madde-026.md",
    :article/sha256
-   "8a59611b25a05a39e7871cafd0005f66a0c2e222102505b2f010aef70881eeec"}
+   "06dd7251b9b9ceb291681dbca291a625480e9670cd7437a5ced7f58f1e5e1c29"}
   {:article/id "law/5510/article/27",
    :article/type :normal,
    :article/no "27",
    :article/title nil,
    :article/path "articles/madde-027.md",
    :article/sha256
-   "64c5ed3ddab68d55c2b13b6fa3578a6e129f1bd63cb3412f5e009b9b4e39771d"}
+   "0e80aacbad2515194b28f1edf41f570ce2ce1716676851d09f917c2a365ba27a"}
   {:article/id "law/5510/article/28",
    :article/type :normal,
    :article/no "28",
@@ -220,7 +219,7 @@
    "Yaşlılık sigortasından sağlanan haklar ve yararlanma şartları45",
    :article/path "articles/madde-028.md",
    :article/sha256
-   "003805fd44331af6a734abe048e04f1954a290f017c959545dd9f48ef7c16574"}
+   "49d74407e811c83cb67f4883c8ce4ae6ca4e487dbe2fd351e768fe0babc90481"}
   {:article/id "law/5510/article/29",
    :article/type :normal,
    :article/no "29",
@@ -234,7 +233,7 @@
    :article/title "Yaşlılık aylığının başlangıcı ve kesilmesi50",
    :article/path "articles/madde-030.md",
    :article/sha256
-   "e88592e11e501bfed47a19130215a01cd64c15db3102fcd19aad57504c28b97f"}
+   "7cd37da16f52640a176027f3213e1922e5d2aedce6789f48137a6fe30dc5bcb2"}
   {:article/id "law/5510/article/31",
    :article/type :normal,
    :article/no "31",
@@ -271,7 +270,7 @@
    "Hak sahiplerinin aylıklarının başlangıcı, kesilmesi ve yeniden bağlanması",
    :article/path "articles/madde-035.md",
    :article/sha256
-   "94ee340819cecc6ba82e2ebf976af95e9a36946c240c95de4417e41def3c30bb"}
+   "77ed146218c164e25da8da006a4d44d56bc08614d25f6b1166ff16eaafb8f340"}
   {:article/id "law/5510/article/36",
    :article/type :normal,
    :article/no "36",
@@ -285,7 +284,7 @@
    :article/title "Evlenme ve cenaze ödeneği",
    :article/path "articles/madde-037.md",
    :article/sha256
-   "dbb6ce6f12edc4b0eb749a2b99888f6d0ce39acad5a960f492a841d40f821ab8"}
+   "42643a3a826885e109ce9514db206ebbd7e57adaee8ceb6f068a3b133a77ac46"}
   {:article/id "law/5510/article/38",
    :article/type :normal,
    :article/no "38",
@@ -308,28 +307,28 @@
    :article/title "Fiilî hizmet süresi zammı",
    :article/path "articles/madde-040.md",
    :article/sha256
-   "f4a56aaef1632e0d73b185fe0613e13ff7c467534081199938d23cdcc5af7e9b"}
+   "1a64577c8f432b7e72386a7bb702f3bd9112bef8c5592a184f432e66097930ca"}
   {:article/id "law/5510/article/41",
    :article/type :normal,
    :article/no "41",
-   :article/title "Sigortalıların borçlanabileceği süreler",
+   :article/title nil,
    :article/path "articles/madde-041.md",
    :article/sha256
-   "b31d41d57640e632aee732a77ff42fd73cb598accc0387c1c5eea4cc0aacc8e3"}
+   "2f5c65fe95cc163b9ef7225e624adc05f38cf30c343f68f9f50713b8227fbcc2"}
   {:article/id "law/5510/article/42",
    :article/type :normal,
    :article/no "42",
    :article/title "Bildirim68",
    :article/path "articles/madde-042.md",
    :article/sha256
-   "a993a93799c8348da9f919b35c22beff73581905fbeec1d373d1f40a7721073f"}
+   "a5f8ef342ab23550e79646ff33313f1af22849f334f43bb96ff76b2ac48dfc5c"}
   {:article/id "law/5510/article/43",
    :article/type :normal,
    :article/no "43",
-   :article/title nil,
+   :article/title "bulunanların aylıkları697071",
    :article/path "articles/madde-043.md",
    :article/sha256
-   "f24fabbb0e60801706b167c86a839b4e4bdb199238e78b949998818ea5a56ec5"}
+   "c578fa161e5d87efb34a1dada40d655e77a6bd73da531e355b0b5b048479ab87"}
   {:article/id "law/5510/article/44",
    :article/type :normal,
    :article/no "44",
@@ -337,7 +336,7 @@
    "Bazı kamu görevlilerine yaşlılık aylığı bağlanacak haller",
    :article/path "articles/madde-044.md",
    :article/sha256
-   "50853eec5bc84e9a9f1d24e82717dd2cdc6f8e6ce1023eb0babbca46332286d8"}
+   "a90a4ed377971b93b9c1041f3b12bc0ac67492736c603e876ec0969dc4749b69"}
   {:article/id "law/5510/article/45",
    :article/type :normal,
    :article/no "45",
@@ -351,21 +350,21 @@
    :article/title nil,
    :article/path "articles/madde-046.md",
    :article/sha256
-   "0d365fab9f6d593cc3c583635afe546cb71f107a10a302c195b4fa61aec7774e"}
+   "4af9beb44522426e9afc8816a2bde1c3a29567ac53fbe3795ac27e22db7498c5"}
   {:article/id "law/5510/article/47",
    :article/type :normal,
    :article/no "47",
    :article/title "Vazife Malûllüğü79",
    :article/path "articles/madde-047.md",
    :article/sha256
-   "73c4a20e898443f7912a971d3ac1ac97a906b1bd3b9652cb7a7a85e5b8cca88e"}
+   "84a76729474752c40eebd687255bf80a75d5825e82a3735e337eb4cd7ae251fc"}
   {:article/id "law/5510/article/48",
    :article/type :normal,
    :article/no "48",
    :article/title "Kamu görevlilerinin emekliye sevk onayları",
    :article/path "articles/madde-048.md",
    :article/sha256
-   "6b55f790faae14bc7ca2f321406e9bbf15c176a90f66076420ce28be9115073e"}
+   "db3a91a6a783c68500e933fc19c9660fa1fa85f2fc68470b5642e4c66a6cef4b"}
   {:article/id "law/5510/article/49",
    :article/type :normal,
    :article/no "49",
@@ -373,7 +372,7 @@
    "İtibarî hizmet süreleri ve itibarî hizmet süresi primi",
    :article/path "articles/madde-049.md",
    :article/sha256
-   "4c600afcddbcdd3a719db00a02d68adbcc3befc08f3ab114ad8d17635b7da1ba"}
+   "ddaca1845caae78116fcd5446d84eb9cb0bbea1d33fbfa66e25e5ab4e12ec9ba"}
   {:article/id "law/5510/article/50",
    :article/type :normal,
    :article/no "50",
@@ -387,7 +386,7 @@
    :article/title "İsteğe bağlı sigorta başlangıcı ve sona ermesi88",
    :article/path "articles/madde-051.md",
    :article/sha256
-   "5b3b5aa7637691840c998ab11b045125595c8eb1c14409db255e76de8dc1efb6"}
+   "de86b24cf7caef880881d704cc0d29ae6da905bfcbae446b5258698eaf83af06"}
   {:article/id "law/5510/article/52",
    :article/type :normal,
    :article/no "52",
@@ -401,21 +400,21 @@
    :article/title nil,
    :article/path "articles/madde-053.md",
    :article/sha256
-   "a6eaf2fc3b3c509095b3e34e9a6b9d3f596554d83dff64a01e5e594d529fb191"}
+   "cd9914dbfed26a3e2ed8e8764a6ea8c523da1cb33ab479346b42a2fc883550d3"}
   {:article/id "law/5510/article/54",
    :article/type :normal,
    :article/no "54",
    :article/title "Aylık ve gelirlerin birleşmesi",
    :article/path "articles/madde-054.md",
    :article/sha256
-   "6717420eb7d30a2f77dbd7d18907983c87216f736bd8c21b6ac420666e5dfbde"}
+   "66bf2594c6a54ca1289fe8ff85d45e9c2e5bd5a6ad634fbc08655a5d57f02fea"}
   {:article/id "law/5510/article/55",
    :article/type :normal,
    :article/no "55",
    :article/title nil,
    :article/path "articles/madde-055.md",
    :article/sha256
-   "0e74fcef6a76109edeb6f84664824bc5b42c75132213b97293bb53644605bd98"}
+   "1a83bd19ff00c39ed7b548ea3cb4ebd840bfdbdca0223481a7b13eb0f6d76c8d"}
   {:article/id "law/5510/article/56",
    :article/type :normal,
    :article/no "56",
@@ -436,7 +435,7 @@
    :article/title nil,
    :article/path "articles/madde-058.md",
    :article/sha256
-   "310f25a99aed74166cee0bfcd2c79976280ceea585501ccacfd6993164acfb9a"}
+   "f55eb9fcaeabbb523ef10939dfd79618013edc5dd51156b67a202630dcbf96fa"}
   {:article/id "law/5510/article/59",
    :article/type :normal,
    :article/no "59",
@@ -450,15 +449,14 @@
    :article/title nil,
    :article/path "articles/madde-060.md",
    :article/sha256
-   "6da17e729fa1463ae67a51c99da295c95a9783bc59b2b11c43e42aa7d2fa3794"}
+   "1f21f1ea7ffbbcdb3bcfef3641c6c85f9442c8387351a5be396fd1a2a77a1199"}
   {:article/id "law/5510/article/61",
    :article/type :normal,
    :article/no "61",
-   :article/title
-   "Genel sağlık sigortalılığının başlangıcı, bildirimi ve tescili",
+   :article/title nil,
    :article/path "articles/madde-061.md",
    :article/sha256
-   "3ec89088bec529cc7ee30196f6e2351b7e5c0d9ebfdf728a13651e54f9377e46"}
+   "1eeb70d1b270e15ae89110e7ce23c1a4e2dab3d6b9e4fbc67d5772534e49e44b"}
   {:article/id "law/5510/article/62",
    :article/type :normal,
    :article/no "62",
@@ -473,7 +471,7 @@
    :article/title nil,
    :article/path "articles/madde-063.md",
    :article/sha256
-   "f0caa387e026c725912b6597301b07ab40e104222195d586f7b4de309dddd3af"}
+   "3b162baf3a1ad88fbfde0fe690296b46623ac7c4c1a0c7e4dcb1a529b5f2b7d7"}
   {:article/id "law/5510/article/64",
    :article/type :normal,
    :article/no "64",
@@ -481,7 +479,7 @@
    "Kurumca finansmanı sağlanmayacak sağlık hizmetleri109",
    :article/path "articles/madde-064.md",
    :article/sha256
-   "e76d521f2ca78ba3912fd36a625b5ab0d8097d74e300ba84f338da7297832197"}
+   "c5312b87ad0ea75600b738942c4ea06bcec60d7a6dab9900c502d93710d96273"}
   {:article/id "law/5510/article/65",
    :article/type :normal,
    :article/no "65",
@@ -502,14 +500,14 @@
    :article/title nil,
    :article/path "articles/madde-067.md",
    :article/sha256
-   "1cddafb9180dd685b0719ec1c576903678f7d7ec12548005f11ab61ec25c6ad9"}
+   "1f3a279e1acca9fe6880613084129fa80e0aff112a32fc50026ca9f522818661"}
   {:article/id "law/5510/article/68",
    :article/type :normal,
    :article/no "68",
    :article/title "Katılım payı alınması",
    :article/path "articles/madde-068.md",
    :article/sha256
-   "94f3f01673a2f20ffbaeff49f91e382f3b40f32cfef923df56afc437e250f97d"}
+   "7da4cdce88b7f99f98b6539d9787192ed0ca2a6d8567b3ca71dc39d6b4bc32a1"}
   {:article/id "law/5510/article/69",
    :article/type :normal,
    :article/no "69",
@@ -517,21 +515,21 @@
    "Katılım payı alınmayacak haller, sağlık hizmetleri ve kişiler120",
    :article/path "articles/madde-069.md",
    :article/sha256
-   "9dbacaa914a91fcb7ac7c794d86e55432856a1d772a5ad48bd0d3a39acbe9434"}
+   "90932b0e4d8ea6300a5ee77f5695e03839ee09435d5dad239455a7d1f20fa1b7"}
   {:article/id "law/5510/article/70",
    :article/type :normal,
    :article/no "70",
    :article/title "Hizmet basamakları ve sevk zinciri123",
    :article/path "articles/madde-070.md",
    :article/sha256
-   "a198e8885ba4f80a7aff72110ba4cb7b807d55881d73b66b0c00bd4b4e9aa7fa"}
+   "7132409a7cf3e32394620f464d85b1fb1fe645bb5d7edd62ec8c5bfb5a391ac7"}
   {:article/id "law/5510/article/71",
    :article/type :normal,
    :article/no "71",
-   :article/title "Kimlik tespiti ve acil haller",
+   :article/title nil,
    :article/path "articles/madde-071.md",
    :article/sha256
-   "9a67de3b5d6ad06ffc404e72d4830ddfcfdd9ae9e247059beab3c7b7026c3e3e"}
+   "01ede42af9a98d4159692b57901c288f6a59f2ba18ebddcbc33650de542e13a5"}
   {:article/id "law/5510/article/72",
    :article/type :normal,
    :article/no "72",
@@ -546,7 +544,7 @@
    "Sağlık hizmetlerinin sağlanma yöntemi ve sağlık giderlerinin ödenmesi126",
    :article/path "articles/madde-073.md",
    :article/sha256
-   "190f2ca88c079007777577fbd463b044bd835a35d72fb471a6f789b22ef79986"}
+   "96bf145101a014c4e12498c6670d550f03bf549ffc939db9942f58b34a1751c5"}
   {:article/id "law/5510/article/74",
    :article/type :normal,
    :article/no "74",
@@ -583,7 +581,7 @@
    "Sağlık hizmeti sunucularının kayıt ve bildirim zorunluluğu ve kontrol yetkisi",
    :article/path "articles/madde-078.md",
    :article/sha256
-   "01486569e3f18c6b75b62c2f0ae69d37723613a24079e00653bb749afa5f5968"}
+   "48cdce1f6f1f5bb1ebe163e7fa9a6bc99f94d81c8ac3c201503f729148ba0fd7"}
   {:article/id "law/5510/article/79",
    :article/type :normal,
    :article/no "79",
@@ -597,21 +595,21 @@
    :article/title "Prime esas kazançlar",
    :article/path "articles/madde-080.md",
    :article/sha256
-   "84b518bbfbeba1d4bd88727bb98721b0f31d27187d89d4108e13ac26a68bfb09"}
+   "292c87c2ea5f46bd7db764f6c5618e88cbf7e457a0c85e1916fb1b9495cae75e"}
   {:article/id "law/5510/article/81",
    :article/type :normal,
    :article/no "81",
-   :article/title "Prim oranları ve Devlet katkısı",
+   :article/title "Prim oranları139",
    :article/path "articles/madde-081.md",
    :article/sha256
-   "721d00d52df5a926a0b236e3dd860e348e20f84253835ace14f5321722732ca6"}
+   "fcbd6f527fca3eb48b406a013d656addb50b186e7df4456b6a211eee4a2e535a"}
   {:article/id "law/5510/article/82",
    :article/type :normal,
    :article/no "82",
    :article/title "Günlük kazanç sınırları",
    :article/path "articles/madde-082.md",
    :article/sha256
-   "3727749c561f4ac9433e83b4c70352c3f71a74007a62ff67b36417d7a7798d17"}
+   "f3ae3896c057e9bb8f54ed452d95bcf9a60c0c7efd298a5731863f845439e2b7"}
   {:article/id "law/5510/article/83",
    :article/type :normal,
    :article/no "83",
@@ -630,108 +628,109 @@
   {:article/id "law/5510/article/85",
    :article/type :normal,
    :article/no "85",
-   :article/title "Asgari işçilik uygulaması ve uzlaşma156",
+   :article/title "Asgari işçilik uygulaması ve uzlaşma157",
    :article/path "articles/madde-085.md",
    :article/sha256
-   "48dd221390750eacc7b1b222c9145afe0db943bc5039cbb0242e11ff123a92d8"}
+   "b69cfb5d11576c32b9834280f7ccab1cce0252a566c4842d704b2148d77d2c98"}
   {:article/id "law/5510/article/86",
    :article/type :normal,
    :article/no "86",
    :article/title nil,
    :article/path "articles/madde-086.md",
    :article/sha256
-   "5c6c11ab16611938b79c0442b3cf560347c716392fe3791c9d601f428ce37c04"}
+   "4752c3567386092993be92deb4ec7fb28041569c1d8724b6f66afe767a0135f9"}
   {:article/id "law/5510/article/87",
    :article/type :normal,
    :article/no "87",
    :article/title "Prim ödeme yükümlüsü",
    :article/path "articles/madde-087.md",
    :article/sha256
-   "91752823f7f861df3d3e5e80e563a2745ac7b7be783f657ae4a49f2d18abc043"}
+   "082549448790272b8f1dbd5a55288701f905aa4779793312969afc9974d50dd2"}
   {:article/id "law/5510/article/88",
    :article/type :normal,
    :article/no "88",
    :article/title "Primlerin ödenmesi",
    :article/path "articles/madde-088.md",
    :article/sha256
-   "b1b6727365a1395ec0c31e9624001f15950a483ec8550ff7175e9f69eaf0f248"}
+   "24c04fa76b916d11f1d32100dc6fb18cc2e3a1bbbc0efe8579e349c3921973a0"}
   {:article/id "law/5510/article/89",
    :article/type :normal,
    :article/no "89",
    :article/title nil,
    :article/path "articles/madde-089.md",
    :article/sha256
-   "6a80e29dd452bb14bf3b3116461a6db736f713806a3e2452c6166f04727b373e"}
+   "cc6cf6576da1e6052c623cfd7a2129093c0098ddf502a99183773475ea35098f"}
   {:article/id "law/5510/article/90",
    :article/type :normal,
    :article/no "90",
    :article/title nil,
    :article/path "articles/madde-090.md",
    :article/sha256
-   "aea1ed7b52ee74d78e3d58896affd0dfa34fab42bf1c3678b4eae740f5367bb3"}
+   "a293961fa9c3b60f1221f9d6896e5a4f59bab5a591b909d1832c6d648593233a"}
   {:article/id "law/5510/article/91",
    :article/type :normal,
    :article/no "91",
    :article/title nil,
    :article/path "articles/madde-091.md",
    :article/sha256
-   "4719b4eb8896fb264739bd0ddcf38d96e7bc096a81f2b9baea58a7e4f1b13dbc"}
+   "274ca3f8df0fbcf19d6082096d5241facf74adda0e38c7d7036bdd8616dcee75"}
   {:article/id "law/5510/article/92",
    :article/type :normal,
    :article/no "92",
    :article/title nil,
    :article/path "articles/madde-092.md",
    :article/sha256
-   "bb16d36a986ac81f72a2611a67a0cca239cb9bdb87062d8d73e2bd68a13aa3df"}
+   "ab8ddffb6640bcd3a1b8b876ea44ab9dc51f592d0fd2e3461bb9d3a946bd871b"}
   {:article/id "law/5510/article/93",
    :article/type :normal,
    :article/no "93",
    :article/title nil,
    :article/path "articles/madde-093.md",
    :article/sha256
-   "fb8371a4019544aa03b1fa91a12c594f96c26f6a965a10d815d07fb4bdaad9fe"}
+   "b60030f865a37c9bce0d25b60c4dbf20fdc0128339979252bb2323ebdb79e04d"}
   {:article/id "law/5510/article/94",
    :article/type :normal,
    :article/no "94",
-   :article/title nil,
+   :article/title "Kontrol muayenesi",
    :article/path "articles/madde-094.md",
    :article/sha256
-   "a67d5f9e84b4c4af814c9a8849885fc9756a9c696d3344982650c9d1bbe34f3f"}
+   "7e66f4a37dc2e6fcb19f2987347183c87e34f371824977c12f5cfe9598b89eff"}
   {:article/id "law/5510/article/95",
    :article/type :normal,
    :article/no "95",
-   :article/title nil,
+   :article/title
+   "Sağlık raporlarının usûl ve esaslarının belirlenmesi",
    :article/path "articles/madde-095.md",
    :article/sha256
-   "a800bc8bf4af4c03214e191e0e1b6ca0d7fcb921bde185f180b2adc2cd1c9d6a"}
+   "b4937ce8f0f8059180dd1937459ad504dcd26363098ce30477448116ab8a0f13"}
   {:article/id "law/5510/article/96",
    :article/type :normal,
    :article/no "96",
    :article/title "Yersiz ödemelerin geri alınması",
    :article/path "articles/madde-096.md",
    :article/sha256
-   "ca04396ac374eb6a53a7b5d02a383e5a8acdd5a5f1164821026d6b3d7f74b7ad"}
+   "b17491849ce9addf736e4404fb1aef9703cf4dd2ba4cbc8bb8e93f09d6032c8f"}
   {:article/id "law/5510/article/97",
    :article/type :normal,
    :article/no "97",
    :article/title "Zamanaşımı, hakkın düşmesi ve avans",
    :article/path "articles/madde-097.md",
    :article/sha256
-   "d46885835054c553e86a1e53647f5ba23f3ecd12c11b42adfac135d5d4476c4b"}
+   "0a404825b5588e19e282aba78d51834651d2dd05d48294a798ecdf4831a6005b"}
   {:article/id "law/5510/article/98",
    :article/type :normal,
    :article/no "98",
    :article/title nil,
    :article/path "articles/madde-098.md",
    :article/sha256
-   "abac21f56c243ae478003e7e1debdec81029bda130c97c18b6c237624a5f039c"}
+   "ca07efe5312df1b3cefbdba4d296ba59b1817ae821eac91b6bfd061df5981e01"}
   {:article/id "law/5510/article/99",
    :article/type :normal,
    :article/no "99",
    :article/title nil,
    :article/path "articles/madde-099.md",
    :article/sha256
-   "d9cdb35362d4669a32b1936428e18f75da21f24e8862494527a5bf7901eed814"}
+   "8d01f8e71abf34000362a520eebbb9ca692a378c4af95a4a37014f2ad0307301"}
   {:article/id "law/5510/article/100",
    :article/type :normal,
    :article/no "100",
@@ -739,7 +738,7 @@
    "Bilgi ve belge isteme hakkı, bilgi ve belgelerin Kuruma verilme usûlü",
    :article/path "articles/madde-100.md",
    :article/sha256
-   "4125bc6694118a242f26440c0ef2a039646605730e7f30c43ad5e27a41ed34d2"}
+   "24946f09ed6f98edfaa53133512c58690de46bb60fbe7153a09e252ea135157c"}
   {:article/id "law/5510/article/101",
    :article/type :normal,
    :article/no "101",
@@ -753,14 +752,14 @@
    :article/title nil,
    :article/path "articles/madde-102.md",
    :article/sha256
-   "4316dde74db59511d80ae077c086a678d43a351df7efcd660ef5f7ed790fdaab"}
+   "49847b266c46b8f16cef6b52989f6ef4ecadb712819098e1ac9a70d06fd1da4a"}
   {:article/id "law/5510/article/103",
    :article/type :normal,
    :article/no "103",
    :article/title "İdarî yaptırımlar ve fesih",
    :article/path "articles/madde-103.md",
    :article/sha256
-   "ced910d6029bf6e141f331cb11ab0900f2c6eedf8c288c9b89940d39f4caff50"}
+   "30a106773ff29cbf28aaa5f0c81452851b8b930a151aa2e66331229c9a208b0f"}
   {:article/id "law/5510/article/104",
    :article/type :normal,
    :article/no "104",
@@ -771,24 +770,24 @@
   {:article/id "law/5510/article/105",
    :article/type :normal,
    :article/no "105",
-   :article/title "Uygulanmayacak hükümler186",
+   :article/title "Uygulanmayacak hükümler187",
    :article/path "articles/madde-105.md",
    :article/sha256
-   "dac807856bbb9836759cd3163af682574295ad18a68b598d94704e3f352f98d0"}
+   "29818f59fb956515b552c78af2cab064e88296abdf61d1b742f1b40bf26ee259"}
   {:article/id "law/5510/article/106",
    :article/type :normal,
    :article/no "106",
    :article/title "Yürürlükten kaldırılan hükümler",
    :article/path "articles/madde-106.md",
    :article/sha256
-   "f97dc2b1356389767e4203894409ae37486b986eca90aa2f5ba198be3a3d057a"}
+   "83236b17126ab2fd40b2e8a982381077ca28090274e01679d46e42bc56433afd"}
   {:article/id "law/5510/article/107",
    :article/type :normal,
    :article/no "107",
-   :article/title "Yönetmelikler",
+   :article/title nil,
    :article/path "articles/madde-107.md",
    :article/sha256
-   "77e9dc97239a7c12890ee8e630281c3d2a48619f1a6ed8d486eb3fc8b3120cbe"}
+   "719a6d925c6573164366aca1352188ed62a07a6e973ac2caeb5623b3c04f0f7c"}
   {:article/id "law/5510/article/1",
    :article/type :additional,
    :article/no "1",
@@ -796,14 +795,14 @@
    "Kuruma yapılan bazı bildirimlerin yeterli sayılması",
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "519f70e84c146066f6925cad64238115382267bd83f3c0327281f5234c4ed6f4"}
+   "c4b1a1a24b7d084a4f36195337fdde5985c72965c241ab1eb2e8c54b10671d36"}
   {:article/id "law/5510/article/2",
    :article/type :additional,
    :article/no "2",
    :article/title nil,
    :article/path "articles/ek-madde-002.md",
    :article/sha256
-   "2faf70391bce1cdfc0da4fd241d88fca0271e2e2b618cfe758fac6daabdb94ec"}
+   "62df66f18be7be6c535bf859b4a36d97f448cd2dbc9b58d4c441013503cb68c2"}
   {:article/id "law/5510/article/3",
    :article/type :additional,
    :article/no "3",
@@ -817,7 +816,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-004.md",
    :article/sha256
-   "7a2799e1b33e1c0166a92b0dd7678d9739cb77c5d91c5aba09ed60618c33eb13"}
+   "3693eb8fd27c4bb46f5162db395699ed06ef6170953128b0576cc532745c3cfa"}
   {:article/id "law/5510/article/5",
    :article/type :additional,
    :article/no "5",
@@ -825,14 +824,14 @@
    "Tarım veya orman işlerinde hizmet akdiyle süreksiz olarak çalışanların sigortalılığı",
    :article/path "articles/ek-madde-005.md",
    :article/sha256
-   "a95af035ece6dd3261c01174e3e3dcd9dcfb01a75aea8c6f91e6fd337fa71f65"}
+   "c735133d159b37ffcf2b2179764361cdbd248fdfb8b3e089dcf4cc051bbcabcd"}
   {:article/id "law/5510/article/6",
    :article/type :additional,
    :article/no "6",
    :article/title "Bazı kısmi süreli çalışanların sigortalılıkları",
    :article/path "articles/ek-madde-006.md",
    :article/sha256
-   "6773828baac11f54ff3d6b17d118442ecc086ff4db4632b23acd433a94474b4d"}
+   "4429ba900315c4e8202b580b5854cfbff809dfcf84b528e0a5e0c825c22be2f8"}
   {:article/id "law/5510/article/7",
    :article/type :additional,
    :article/no "7",
@@ -851,17 +850,17 @@
    :article/type :additional,
    :article/no "9",
    :article/title
-   "Ev hizmetlerinde çalışanların sigortalılığı ve konut kapıcılığı193",
+   "Ev hizmetlerinde çalışanların sigortalılığı ve konut kapıcılığı194",
    :article/path "articles/ek-madde-009.md",
    :article/sha256
-   "49598448e3792e9f94e8f4a43c02957a0f478cf1303a81a681361892c768851e"}
+   "fd73cc3c013cdb7a3b9f08177535ae279459dff3035ea562aef6b7e55ae16706"}
   {:article/id "law/5510/article/10",
    :article/type :additional,
    :article/no "10",
    :article/title nil,
    :article/path "articles/ek-madde-010.md",
    :article/sha256
-   "b430d66b458fd33b87781db9665f0da609ad68bf3b677350614c1585e5810eea"}
+   "67fbdda83a878845a6b7ed6c1d8cab0250539955e8d9746738f88fe3804263db"}
   {:article/id "law/5510/article/11",
    :article/type :additional,
    :article/no "11",
@@ -917,14 +916,14 @@
    :article/title nil,
    :article/path "articles/ek-madde-018.md",
    :article/sha256
-   "569fdc038cc3413f89987ca8ee57ee47306c65a58f21ed606bbc4a464027cbc5"}
+   "7b89144a6eb09fb6daac82d028ab53000f96f8cfb55148018c1996b05da808cc"}
   {:article/id "law/5510/article/19",
    :article/type :additional,
    :article/no "19",
    :article/title nil,
    :article/path "articles/ek-madde-019.md",
    :article/sha256
-   "0cfb4630d81869f9c2ebe6f250b4345dd955b5454cefed27e9979a1ad6700592"}
+   "9a17db27ed54bf89b9582f8cfa681079fd1fa6969c18059aa648de35240bc8ae"}
   {:article/id "law/5510/article/20",
    :article/type :additional,
    :article/no "20",
@@ -938,7 +937,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-021.md",
    :article/sha256
-   "cd779a897a240066858e96dee0c45b07f9f7dbdec48a7d5cf0ddad8a902e115f"}
+   "143888995b8b440b31e14100757899ba616581988b7223e1524782b3b36a0643"}
   {:article/id "law/5510/article/22",
    :article/type :additional,
    :article/no "22",
@@ -977,24 +976,24 @@
   {:article/id "law/5510/article/3",
    :article/type :temporary,
    :article/no "3",
-   :article/title "Önceki mevzuat hükümlerinin uygulanması211",
+   :article/title "Önceki mevzuat hükümlerinin uygulanması213",
    :article/path "articles/gecici-madde-003.md",
    :article/sha256
-   "e542fde2250eabd428f73b3658b04de6b2889c24edf5c8493b6c649c051e0fcc"}
+   "26536e437748f91740c392cf6b72d8a2e50e1b0343e1ad4bab7ccf670fd76b3f"}
   {:article/id "law/5510/article/4",
    :article/type :temporary,
    :article/no "4",
    :article/title nil,
    :article/path "articles/gecici-madde-004.md",
    :article/sha256
-   "4b2957b19baf592ef356a102e90811b93347f86476b20adfdb005f0db76992b9"}
+   "c9e3d122f3bd063f7630dc8ee616bb563581f8ffc7b6d80425a5b6e7f49eb0f5"}
   {:article/id "law/5510/article/5",
    :article/type :temporary,
    :article/no "5",
    :article/title "Toptan ödeme ve ihya geçiş hükümleri",
    :article/path "articles/gecici-madde-005.md",
    :article/sha256
-   "3ae04f68ec4cb59eb906d0293d35007ea3f0d89de3d5265c7b1a5ee3050563c9"}
+   "7a0f732aed533ad38bca083cce88fc08c7b4d0aa2838f0efe63b608b5710ade8"}
   {:article/id "law/5510/article/6",
    :article/type :temporary,
    :article/no "6",
@@ -1019,38 +1018,38 @@
   {:article/id "law/5510/article/9",
    :article/type :temporary,
    :article/no "9",
-   :article/title "Emeklilik yaşına ilişkin bazı geçiş hükümleri214",
+   :article/title "Emeklilik yaşına ilişkin bazı geçiş hükümleri216",
    :article/path "articles/gecici-madde-009.md",
    :article/sha256
-   "cd8b52daa13cda9d608a175bc34eac98d0244712e92358896ee04f03d7a6a8f1"}
+   "de2cab84220396aa27f588b65125f7f86d2b09424691465fa44430730775d210"}
   {:article/id "law/5510/article/10",
    :article/type :temporary,
    :article/no "10",
    :article/title nil,
    :article/path "articles/gecici-madde-010.md",
    :article/sha256
-   "200ba332fd1af2ce08212218b9760cbde09ff1b3ce9ff37cfd25f3cc7019504e"}
+   "4298860e59c0123ce8855648f304caeb4233899a7c082e6a2e935cde93614071"}
   {:article/id "law/5510/article/11",
    :article/type :temporary,
    :article/no "11",
    :article/title nil,
    :article/path "articles/gecici-madde-011.md",
    :article/sha256
-   "7154e76a9e33f0cb08dfc17ec8c17424dcbb7204e7655323074dcef276bc2522"}
+   "d3067f0ddf60c5548101680fdbd30d8427241c1b942e945aba260b6d9078e7b9"}
   {:article/id "law/5510/article/12",
    :article/type :temporary,
    :article/no "12",
    :article/title "Genel sağlık sigortası geçiş hükümleri",
    :article/path "articles/gecici-madde-012.md",
    :article/sha256
-   "b44244fdcc654a1a7e9aa21177f85e533898952f05cdfb45cf0983f0d5cc34c7"}
+   "cdedac37a93de5df9b95f82b4d086747bf060eba9ba7faf5ac35c9cc30351654"}
   {:article/id "law/5510/article/13",
    :article/type :temporary,
    :article/no "13",
    :article/title nil,
    :article/path "articles/gecici-madde-013.md",
    :article/sha256
-   "95a6811482607b160079f309725c1fc0f9ddd21ed5667f278ef643fdb3cbe50e"}
+   "4918d8c958f10622942ac35ff7cf0baa3206fb007c4bbf3c1ec1b32ae996ce5d"}
   {:article/id "law/5510/article/14",
    :article/type :temporary,
    :article/no "14",
@@ -1058,42 +1057,42 @@
    "Sosyal güvenlik destek primine ilişkin geçiş hükümleri",
    :article/path "articles/gecici-madde-014.md",
    :article/sha256
-   "c18dacb6c7f15d43aad11830a5bda4d2bedbdb7eb019854d0c2ed83083d51a02"}
+   "ee1bb313536c3c3f0dd56c5bd868abb675af7fd1370f9795ae6f4c4e65c3c279"}
   {:article/id "law/5510/article/15",
    :article/type :temporary,
    :article/no "15",
    :article/title "Prime esas kazancın beyanına ilişkin geçiş hükmü",
    :article/path "articles/gecici-madde-015.md",
    :article/sha256
-   "be6873319344880a4c59eb4351e991084ef6601aa13e2453a42a3b51c6acfee5"}
+   "466552c9b8aa4e7a5f6dd535fb934b0bca62e309abafa2ddce2777b4ddf766fa"}
   {:article/id "law/5510/article/16",
    :article/type :temporary,
    :article/no "16",
    :article/title nil,
    :article/path "articles/gecici-madde-016.md",
    :article/sha256
-   "c2d480c23a6d6724934dfb9139c8647cfdf7a9e2183796ca49b92d2d6b548c33"}
+   "472997c465c0e618cdab9dcf96a9dd8445e3fccd11f8672c1a56fb173e4d688e"}
   {:article/id "law/5510/article/17",
    :article/type :temporary,
    :article/no "17",
    :article/title nil,
    :article/path "articles/gecici-madde-017.md",
    :article/sha256
-   "89f5c4a8ca233768c5b69f2f7440598fdd629b31da8e0fe27b3d864359cbccea"}
+   "8ae2e03e3a8fc2f6b90638df66741fd5fbab3d4cd5bfd38a24f28ab117ddfbde"}
   {:article/id "law/5510/article/19",
    :article/type :temporary,
    :article/no "19",
    :article/title "Aylık alanlardan kesilecek sağlık sigortası primi",
    :article/path "articles/gecici-madde-019.md",
    :article/sha256
-   "8add63184ee17ad5e591d6ceb2f055a9e614f5050dd7b647e65df208fbe46fa2"}
+   "80f9f4e48d0ad41db01ffa7c793ec7a0eb456cbc47578415e892f66706588554"}
   {:article/id "law/5510/article/20",
    :article/type :temporary,
    :article/no "20",
    :article/title nil,
    :article/path "articles/gecici-madde-020.md",
    :article/sha256
-   "b2941d8e38a124f48f8adc11c6856214f351d61841b141c613497c17dd955631"}
+   "81223a90f99399c3eeab5edf16df71ca75c74b194bc1bd0ac24a7a703d4524ae"}
   {:article/id "law/5510/article/21",
    :article/type :temporary,
    :article/no "21",
@@ -1172,14 +1171,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-031.md",
    :article/sha256
-   "3f6986f8354c100fb65cde37ca2e7c6be0c2e3497f031fd7512ea08218c2705f"}
+   "ca380ff395313a7fc435046e0f32881bfc7f92746bf93688f657a2ebc3a3e9f2"}
   {:article/id "law/5510/article/32",
    :article/type :temporary,
    :article/no "32",
    :article/title nil,
    :article/path "articles/gecici-madde-032.md",
    :article/sha256
-   "a5063272232afb89ab771f2b8e4ce5f1234d4ba8080df824a195db3da07fa768"}
+   "32cbbd8319e61c67b3078475d695304f0570781e30296e064681f3e452f97c95"}
   {:article/id "law/5510/article/33",
    :article/type :temporary,
    :article/no "33",
@@ -1207,42 +1206,42 @@
    :article/title nil,
    :article/path "articles/gecici-madde-036.md",
    :article/sha256
-   "77d4dd509006151ec36a8d5115722d821a613c177be5eb4fee566079f24895a0"}
+   "e0d9374e0f55376530a953e09ba0f930b6661980960648a486049a08cc2fb309"}
   {:article/id "law/5510/article/37",
    :article/type :temporary,
    :article/no "37",
    :article/title nil,
    :article/path "articles/gecici-madde-037.md",
    :article/sha256
-   "f0713cf17ccc03914ee1d58d6e022bd8a2a6064105eaf35099182b32d3acb1a6"}
+   "9fbf3be9ec0ca5b94b50d4b3b3c149a5c9aa98a1ec77b71345e80d3ca07946b2"}
   {:article/id "law/5510/article/38",
    :article/type :temporary,
    :article/no "38",
    :article/title nil,
    :article/path "articles/gecici-madde-038.md",
    :article/sha256
-   "00762048f0c582d84ded1c1a76effb8d284cabe97ce77faf11135c326ba35cff"}
+   "1f253f2486b2c55cde2ac4fa66c2017456356dbad685a08a29dcf17560492aae"}
   {:article/id "law/5510/article/39",
    :article/type :temporary,
    :article/no "39",
    :article/title nil,
    :article/path "articles/gecici-madde-039.md",
    :article/sha256
-   "38fe3cc9a0721a141f3ef44a53673eda2eb78bcb5821cb6c5a39602da57ca4ce"}
+   "923b53cd0453730dfe290758592131677b8319b395df170a1f1764b89b4539ac"}
   {:article/id "law/5510/article/40",
    :article/type :temporary,
    :article/no "40",
    :article/title nil,
    :article/path "articles/gecici-madde-040.md",
    :article/sha256
-   "d76cbb014066227df296cdb79ed828f9ecb0f25ebba507daa4df45b172b88ebe"}
+   "ad091f97bfa895819070fccd3e2e8b292213179162ee445dae3aef83249a1671"}
   {:article/id "law/5510/article/41",
    :article/type :temporary,
    :article/no "41",
    :article/title nil,
    :article/path "articles/gecici-madde-041.md",
    :article/sha256
-   "1f041f084aaba1ccc00c6420841cceb2673e261625a8148ac5ec08c8bf40877a"}
+   "e02c13499c6963a75dcd460b67a09a3471cf5979f29af543fc4e2ee37794adb8"}
   {:article/id "law/5510/article/42",
    :article/type :temporary,
    :article/no "42",
@@ -1256,21 +1255,21 @@
    :article/title nil,
    :article/path "articles/gecici-madde-043.md",
    :article/sha256
-   "beb9f5dfd652e765ceeac0ceb272ed3fd9f5ff101e1678e887d897618a86006a"}
+   "208a5e631bccacb7d736a8b378eb182cd12578f1a067d41e37d87019d60d612d"}
   {:article/id "law/5510/article/44",
    :article/type :temporary,
    :article/no "44",
    :article/title nil,
    :article/path "articles/gecici-madde-044.md",
    :article/sha256
-   "72ad32b6e70cfdc4f34aa1ed3cf78d3744b1a7f55082f477fd798592f3195435"}
+   "03b8f0c753afc8db2664e172982183c24f0d627e1ab58fa39d2b1af4f3087a52"}
   {:article/id "law/5510/article/45",
    :article/type :temporary,
    :article/no "45",
    :article/title "Yersiz yapılan sağlık giderlerinin terkini",
    :article/path "articles/gecici-madde-045.md",
    :article/sha256
-   "5b28ee46934258ae1f1c5cc270c434819820d90e6489e210b201f55f4ce4cbe1"}
+   "6cb2407d058c3f7c1ff512a1944b18f6ab8d6555dea6d24ac3888ba72c8cc74b"}
   {:article/id "law/5510/article/46",
    :article/type :temporary,
    :article/no "46",
@@ -1327,14 +1326,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-053.md",
    :article/sha256
-   "f31d70ea00e8d406e51e56cdb97b80ac2ad783d72371d74387cda7394b224700"}
+   "dc9023f970d472db20c2d0f07c3bec95231d2ca26066ee349395ff3d42a469e5"}
   {:article/id "law/5510/article/54",
    :article/type :temporary,
    :article/no "54",
    :article/title nil,
    :article/path "articles/gecici-madde-054.md",
    :article/sha256
-   "332cfa3c212b6a3ac6865b07603672c07df9483231dce4309f8c11b6f88f1159"}
+   "48cbdc774a5389b3b6a63150ecbdc05c723afb0eb25f0caadd0a2fbcdf58dcb2"}
   {:article/id "law/5510/article/55",
    :article/type :temporary,
    :article/no "55",
@@ -1376,7 +1375,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-060.md",
    :article/sha256
-   "91811419b7d663ebc36dbc57ad45156c25126231cfa18d275a2f9150e0c14cef"}
+   "8287da013827929585fab7f18748ebb9d47dc7ee2142f9b813f26f3b68b4b8ef"}
   {:article/id "law/5510/article/61",
    :article/type :temporary,
    :article/no "61",
@@ -1432,14 +1431,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-068.md",
    :article/sha256
-   "a0bd04074cd0e94dc155baebed964a42e3e2b84b09b4955cddce739b351e4054"}
+   "f484e844d12bf70394f136308551980b9fe52bc445f7f1e89874d87982487794"}
   {:article/id "law/5510/article/69",
    :article/type :temporary,
    :article/no "69",
    :article/title nil,
    :article/path "articles/gecici-madde-069.md",
    :article/sha256
-   "8a8ec4e41a2b413bd9487faddd0c22d1f5e6adf08db0966240bef1086cf112a3"}
+   "767eb2e288165f52433325dbca464a694302ec77c9069233caf9a0ddb915373d"}
   {:article/id "law/5510/article/70",
    :article/type :temporary,
    :article/no "70",
@@ -1453,7 +1452,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-071.md",
    :article/sha256
-   "7c71dc73918febaf8207ccaf8d7f7d57a36f4e5165a0e4fb2288d8c1a5d7e922"}
+   "57bdaafbb7bf534ca2297adaacd3498708996633e9096289cbdd02419c1606f2"}
   {:article/id "law/5510/article/72",
    :article/type :temporary,
    :article/no "72",
@@ -1481,7 +1480,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-075.md",
    :article/sha256
-   "f15ee924d7f35713701977453bfe67fd17b181b8c82864908b7fe7b7cf5781a2"}
+   "92d9f8a2c6639612b8523c11d972355ad7da7c56c57776589086bda659536d38"}
   {:article/id "law/5510/article/76",
    :article/type :temporary,
    :article/no "76",
@@ -1551,14 +1550,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-084.md",
    :article/sha256
-   "499eae4faa07d533532a3cf90c7f25ceeae347e12227865c82a872025c78dfc9"}
+   "5bba6a5f8d3b9980cff89deba26525158d0444d5187de0c7a98cd19975bcc25f"}
   {:article/id "law/5510/article/85",
    :article/type :temporary,
    :article/no "85",
    :article/title nil,
    :article/path "articles/gecici-madde-085.md",
    :article/sha256
-   "6c4be7a2e223dcf47dc8299bff4b132c878916cbfc88740f43d2f71260e78d54"}
+   "ae32e37bb617136f9ea86f2c9995b037193e8759ab04f258e1e41ba25046dae4"}
   {:article/id "law/5510/article/86",
    :article/type :temporary,
    :article/no "86",
@@ -1719,14 +1718,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-108.md",
    :article/sha256
-   "a68f91c71475597640941e8fd4ecce26159e7bb89477ce3a325cf289dce054b3"}
+   "c3586250177543c383252ff9bb59bba621ddeaf38fba0374301b793e39c00744"}
   {:article/id "law/5510/article/109",
    :article/type :temporary,
    :article/no "109",
    :article/title nil,
    :article/path "articles/gecici-madde-109.md",
    :article/sha256
-   "0bd03e26df62442514db8ae5eab890497257b33c44de1bf4532bcd2ed2b06466"}
+   "64f0f219b5e490561aed505afdd866f138a802058f3e0e596cd6dae39a8631d0"}
   {:article/id "law/5510/article/110",
    :article/type :temporary,
    :article/no "110",

@@ -1,15 +1,6 @@
 # MADDE 17 — Ödenek ve gelirlere esas tutulacak günlük kazanç31
 
 (Değişik birinci fıkra:25/12/2024-7537/25 md.) İş kazası, meslek
-
-29 22/4/2026 tarihli ve 7578 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “sekiz” ibaresi
-“onaltı” şeklinde değiştirilmiş ve “, çoğul gebelik halinde ise ilk on haftalık” ibaresi madde
-metninden çıkarılmıştır.
-30 Bu madde başlığı “İş kazası, meslek hastalığı, hastalık ve analık hallerinde sağlanan haklar” iken,
-17/4/2008 tarihli ve 5754 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-31 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle bu maddenin birinci fıkrasındaki
-“prim gün sayısına” ibaresi “prim ödeme gün sayısına”, üçüncü fıkrasındaki “(a) ve (c) bentleri”
-ibaresi “(a) bendi”şeklinde değiştirilmiştir.
 hastalığı, hastalık ve analık hallerinde verilecek ödeneklerin hesabına esas tutulacak günlük
 kazanç; iş kazasının veya doğumun olduğu tarihten, meslek hastalığı veya hastalık halinde ise iş
 göremezliğin başladığı tarihten önceki oniki aydaki; iş kazası ve meslek hastalığı halinde
@@ -32,6 +23,10 @@ a) Prim, ikramiye ve bu nitelikteki arızi ödemeler dikkate alınmış ise öde
 alınacak günlük kazanç, ücret toplamının ücret alınan gün sayısına bölünmesiyle hesaplanacak
 günlük kazanca, %50 oranında bir ekleme yapılarak bulunan tutardan çok olamaz.
 b) İdare veya yargı mercilerince verilen karar gereğince yapılan ücret, ikramiye, zam,
+
+31 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle bu maddenin birinci fıkrasındaki
+“prim gün sayısına” ibaresi “prim ödeme gün sayısına”, üçüncü fıkrasındaki “(a) ve (c) bentleri”
+ibaresi “(a) bendi”şeklinde değiştirilmiştir.
 tazminat ve bu mahiyetteki ödemelerden, ödenek ve gelirin hesabına esas alınan (…)32
 dönemden önceki aylara ilişkin olanlar dikkate alınmaz.
 Meslek hastalığı, sigortalının sigortalı olarak çalıştığı son işinden ayrıldığı tarihten bir

@@ -290,13 +290,16 @@ MADDE 7 — Kurum açma izninin iptali, kurumun kapatılması, devri ve nakli
 
 (Değişik birinci fıkra: 2/12/2016-6764/62 md.) Kurum açma izni
 verilen kurumlardan iki yıl içerisinde faaliyete başlamayan, faaliyete başladıktan sonra
-yönetmelikte belirtilen süreden daha fazla izinsiz ara veren veya söz konusu izni amacı
-dışında kullandığı tespit edilen kurumların kurum açma izni ve iş yeri açma ve çalışma ruhsatı
-iptal edilir.
+yönetmelikte belirtilen süreden daha fazla izinsiz ara veren, kurum türüne uygun olmayan
+program uygulayan veya söz konusu izni amacı dışında kullandığı tespit edilen kurumların
+kurum açma izni ve iş yeri açma ve çalışma ruhsatı iptal edilir.13
 (Değişik ikinci fıkra: 2/12/2016-6764/62 md.) Özel öğretim kurumunun;
 a) Bakanlıkça onaylı yerleşim planında izinsiz değişiklik yapması,
 b) (Değişik:27/6/2019-7180/11 md.) Gerçeğe aykırı veya yanıltıcı reklam ya da ilan
 vermesi, reklam veya ilanlarda öğrenci resim ya da bilgilerini kullanması,
+
+13 24/7/2026 tarihli ve 7590 sayılı Kanunun 18 inci maddesiyle bu fıkraya “ara veren” ibaresinden
+sonra gelmek üzere “, kurum türüne uygun olmayan program uygulayan” ibaresi eklenmiştir.
 c) Haftalık ders çizelgesi ve programları Bakanlık izni olmadan kurumda uygulaması,
 d) Bu Kanun ve bu Kanuna dayanılarak yürürlüğe konulan yönetmelik ve
 yönergelerde belirtilen hükümlere aykırı fiillerde bulunması,
@@ -305,16 +308,24 @@ e) Mevzuatta belirtilen sayıda personel çalıştırmaması veya mevzuata aykı
 f) 14/6/1973 tarihli ve 1739 sayılı Millî Eğitim Temel Kanununun genel ve özel
 amaçları ile temel ilkelerine uymaması,
 g) Kurum açma şartlarından herhangi birini kaybetmesi,
+ğ) (Ek:24/7/2026-7590/18 md.) Milletlerarası okul olması hâlinde Türkiye
+Cumhuriyeti vatandaşı olan öğrencilerin kayıtlarını yapması veya bu öğrencilere eğitim
+vermesi ya da bu kurumlara devam ederken Türk vatandaşlığını kazananları bu Kanunda
+belirlenmiş sürelerden daha fazla sürede kurumda kayıtlı tutması,
 h) Mevzuata uygun olarak kapatılmaması,
 hâllerinde; (a), (b), (c) ve (d) bentlerindeki fiiller için brüt asgari ücretin beş katı; (e) ve (f)
 bentlerindeki fiiller için brüt asgari ücretin on katı ve (g) bendindeki fiil için brüt asgari ücretin
-yirmi katı idari para cezası uygulanır. Bu fıkranın (a), (b), (c), (d), (e), (f) ve (g) bentlerindeki
-fiillerin tekrarı hâlinde idari para cezası miktarı beş kat artırılarak uygulanır ve bu bentlerdeki
-fiillerin üçüncü kez tekrarlanması hâlinde ise kurum açma izni ile iş yeri açma ve çalışma ruhsatı
-iptal edilir, (h) bendindeki fiilin işlenmesi hâlinde brüt asgari ücretin yirmi katı idari para cezası
-verilir ve kurum açma izni ile iş yeri açma ve çalışma ruhsatı iptal edilir. İdari para cezası, kurum
-açma iznini vermeye yetkili makam tarafından verilir. Bu fıkranın uygulanmasına ilişkin usul ve
-esaslar yönetmelikle belirlenir.1314
+yirmi katı idari para cezası uygulanır. (Değişik cümle:24/7/2026-7590/18 md.) Bu fıkranın (a),
+(b), (c), (d), (e), (f) ve (g) bentlerindeki fiillerin tekrarı hâlinde idari para cezası miktarı beş katı
+olarak uygulanır ve bu bentlerdeki fiillerin üçüncü kez işlenmesi hâlinde ise kurum açma izni ile
+iş yeri açma ve çalışma ruhsatı iptal edilir, (ğ) ve (h) bentlerindeki fiillerin işlenmesi hâlinde brüt
+asgari ücretin yirmi katı idari para cezası verilir ve kurum açma izni ile iş yeri açma ve çalışma
+ruhsatı iptal edilir. (Ek cümle:24/7/2026-7590/18 md.) Bu fıkranın (a), (b), (c) ve (d)
+bentlerindeki fiiller için uygulanan idari para cezasının tebliğ edildiği tarihten itibaren dört; (e), (f)
+ve (g) bentlerindeki fiiller için ise uygulanan idari para cezasının tebliğ edildiği tarihten itibaren
+beş yıl geçmesi hâlinde o fiil tekerrüre esas alınmaz. İdari para cezası, kurum açma iznini
+vermeye yetkili makam tarafından kurum bazlı olarak verilir. Bu fıkranın uygulanmasına ilişkin
+usul ve esaslar yönetmelikle belirlenir.14
 Okul kurucusu/kurucu temsilcisi; Bakanlığa, yönetici, öğretmen, uzman öğretici, usta
 öğretici ve öğrenci/kursiyerlere en az üç ay önce yazılı olarak bildirmek şartıyla ve gerekçesi
 Bakanlıkça uygun bulunduğu takdirde öğretim yılı sonunda okulunu kapatabilir.
@@ -327,21 +338,14 @@ bütün defterlerini, dosyalarını ve diğer evrakını ilgili valiliğe devir 
 mecburdur. (Değişik ikinci cümle: 2/12/2016-6764/62 md.) Devir ve teslimden kaçınan veya
 bu görevi savsaklayan kurucu hakkında brüt asgari ücretin yirmi katı idari para cezası
 uygulanır.
+
+14 24/7/2026 tarihli ve 7590 sayılı Kanunun 18 inci maddesiyle bu fıkraya “yetkili makam tarafından”
+ibaresinden sonra gelmek üzere “kurum bazlı olarak” ibaresi eklenmiştir.
 (Ek fıkra: 2/12/2016-6764/62 md.) Bu Kanunda belirtilen şartlara uymadan
 kurumunu kapatanlar ile soruşturma sonucu kurum açma izni ile işyeri açma ve çalışma
 ruhsatı iptal edilen kurucuya beş yıl geçmeden tekrar kurum açma izni veya bir kurumu
 devralma ya da bir kuruma ortak olma izni verilmez.
 Kapatılan kurumlarla ilgili olarak öğrenci/kursiyer veya velilerinin, kurucular aleyhine
-
-13 Anayasa Mahkemesinin 11/2/2025 tarihli ve E.: 2024/163; K.: 2025/41 sayılı Kararı ile bu fıkrada
-yer alan “…üçüncü kez tekrarlanması hâlinde ise kurum açma izni ile iş yeri açma ve çalışma ruhsatı
-iptal edilir,…” bölümü (d) bendinde yer alan “…yönetmelik…” ibaresi yönünden iptal edilmiştir.
-14 Anayasa Mahkemesinin 26/2/2026 tarihli ve E.: 2025/187; K.: 2026/53 sayılı Kararı ile bu fıkranın
-ikinci cümlesinin “…fiillerin tekrarı hâlinde idari para cezası miktarı beş kat artırılarak uygulanır…”
-bölümünün “anılan fıkranın (b) bendi” yönünden, ikinci cümlede yer alan “…(d),…” ibaresinin
-“anılan fıkranın (d) bendinde yer alan “…yönetmelik…” ibaresi yönünden iptal edlmiştir. Kararın
-Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra (14/2/2027) yürürlüğe gireceği hüküm
-altına alınmıştır.
 genel hükümlere göre dava açma hakları saklıdır.
 Kurumların devri ve nakline ilişkin usûl ve esaslar yönetmelikle belirlenir.
 
@@ -353,10 +357,12 @@ Bir kurumun öğretime başladığı tarihten itibaren mevcut ders saati sayıs�
 sırasında üçte birinin, kuruluşundan üç yıl sonra da en az üçte ikisinin asıl görevi bu
 kurumlarda olan öğretmen, uzman öğretici veya usta öğreticiler tarafından okutulması
 zorunludur.
-Kurumların yöneticilik ve eğitim-öğretim hizmetlerinde, en az dengi resmî öğretim
-kurumlarına atanabilmek için gerekli nitelik ve şartları taşıyanlar, resmî dengi bulunmayan
-kurumların yöneticilik ve eğitim-öğretim hizmetlerinde ise yönetmelikle belirtilen nitelik ve
-şartları taşıyanlar görevlendirilir.
+(Değişik fıkra:24/7/2026-7590/19 md.) Kurumlarda Bakanlıkça belirlenen
+öğretmenlik alanlarına kaynak teşkil eden yükseköğretim programlarından mezun olup
+Bakanlıkça özel alan eğitimi ve öğretmenlik meslek bilgisi bakımından belirlenen niteliklere
+sahip olanlar öğretmen olarak görevlendirilir. Kurumların eğitim-öğretim hizmetlerinde
+görevlendirilecek yönetici, uzman öğretici ve usta öğreticilerin nitelikleri ile bu fıkranın
+uygulanmasına ilişkin usul ve esaslar yönetmelikle belirlenir.
 İhtiyaç halinde, resmî okullarda görevli öğretmenlere asıl görevlerini aksatmamak ve
 aylık karşılığı okutmakla yükümlü bulunduğu haftalık ders saati sayısını doldurmaları kaydı
 ve çalıştıkları kurumların izni ile sadece okullarda, aylık karşılığı okutmakla yükümlü
@@ -454,7 +460,16 @@ Kurumlar, ancak amaçlarına uygun tanıtıcı mahiyette reklâm ve ilân verebi
 kurumlar reklâm ve ilânlarında gerçeğe aykırı beyanlarda bulunamazlar ve televizyonda
 reklâm ve ilân yapamazlar.
 
-MADDE 12 — Malî hükümler1516
+Malî hükümler1516
+
+15
+ 2023-2024 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için; 2/9/2023
+tarihli ve 32297 sayılı Resmi Gazete’ de yayımlanan 2023-2024 Eğitim Öğretim Yılında Organize
+Sanayi Bölgeleri İçinde ve Organize Sanayi Bölgeleri Dışında Açılan Özel Meslekî Ve Teknik Anadolu
+Liselerinde Öğrenim Gören/Görecek Öğrenciler İçin Eğitim ve Öğretim Desteği Verilmesine İlişkin
+Tebliğe bakınız.
+
+MADDE 12
 
 Kurumlar, faaliyetlerini sadece kazanç sağlamak için düzenleyemezler.
 Ancak, Türk Millî Eğitiminin amaçları doğrultusunda eğitimin kalitesini yükseltmek,
@@ -463,16 +478,6 @@ Okulların su, doğal gaz ve elektrik ücretlendirilmesi, resmî okullara uygula
 üzerinden uygulanır.
 (Ek fıkra: 4/7/2012-6353/42 md.) Bu Kanun kapsamında organize sanayi
 bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti
-
-15
- 2023-2024 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için; 2/9/2023
-tarihli ve 32297 sayılı Resmi Gazete’ de yayımlanan 2023-2024 Eğitim Öğretim Yılında Organize
-Sanayi Bölgeleri İçinde ve Organize Sanayi Bölgeleri Dışında Açılan Özel Meslekî Ve Teknik Anadolu
-Liselerinde Öğrenim Gören/Görecek Öğrenciler İçin Eğitim ve Öğretim Desteği Verilmesine İlişkin
-Tebliğe bakınız.
-16 27/6/2019 tarihli ve 7180 sayılı Kanunun 12 nci maddesiyle, bu maddenin üçüncü ve dördüncü
-fıkralarında yer alan “mesleki ve teknik eğitim okullarında öğrenim gören” ibarelerinden sonra gelmek
-üzere “Türkiye Cumhuriyeti vatandaşı” ibareleri eklenmiştir.
 vatandaşı her bir öğrenci için, 2012-2013 eğitim ve öğretim yılından başlamak üzere, resmî
 okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını
 geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından
@@ -501,6 +506,12 @@ becerilerini geliştirmek amacıyla alan ve dalların özelliklerine göre Bakan
 standartlara ve donanıma sahip atölye ve laboratuvarlarda üretim yapılabilir ve üretilen malların
 satışından elde edilen gelir okulun eğitim, öğretim ve yönetim hizmetlerinde kullanılır. Üretimde
 görev alan öğrenci ve personele ödenen pay ile üretim şartlarına ilişkin usul ve esaslar
+
+16 27/6/2019 tarihli ve 7180 sayılı Kanunun 12 nci maddesiyle, bu maddenin üçüncü ve dördüncü
+fıkralarında yer alan “mesleki ve teknik eğitim okullarında öğrenim gören” ibarelerinden sonra gelmek
+üzere “Türkiye Cumhuriyeti vatandaşı” ibareleri eklenmiştir.
+17 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 177 nci maddesiyle bu fıkrada yer
+alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 yönetmelikle düzenlenir.
 (Ek fıkra: 9/5/2018-7141/13 md.) Bu Kanun kapsamında faaliyet gösteren çeşitli
 kurslar, kurumlarında öğretim faaliyetlerinin yanında, programlarının içeriğine uygun, eğitim
@@ -512,9 +523,6 @@ belirlenir.
 MADDE 13 — Öğrenim ücreti ve diğer ücretler, ücretsiz öğrenim ve yabancı uyruklu öğrenciler
 
 Öğrenim ücreti ve diğer ücretler, kurumlarca her yıl tespit edilerek ocak
-
-17 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 177 nci maddesiyle bu fıkrada yer
-alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 ayından itibaren en geç mayıs ayında ilân edilir.
 Ücretlerin hangi esaslara göre tespit, tayin, ilân ve tahsil edileceği yönetmelikle belirlenir.
 Kurumlar, öğrenim gören öğrenci sayısının yüzde üçünden az olmamak üzere ücretsiz
@@ -549,6 +557,10 @@ mevzuat hükümleri uygulanır.
 EK MADDE 1
 
 (Ek: 1/3/2014-6528/12 md.)18
+
+18 2022-2023 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için 26/7/2022
+tarihli ve 31904 sayılı Resmi Gazete’ de yayımlanan 5580 Sayılı Kanun Kapsamında Açılan Özel
+Okullarda Öğrenim Gören ve Önceki Yıllarda Eğitim ve Öğretim Desteği Kapsamına Alınıp Öğretim
 (İptal birinci fıkra: Anayasa Mahkemesinin 13/7/2015 tarihli ve E.: 2014/88, K.:
 2015/68 sayılı Kararı ile.)
 Bu Kanun kapsamında örgün eğitim yapan özel ilkokul, özel ortaokul ve özel liselerde
@@ -557,12 +569,6 @@ bir öğrencinin okul türüne göre her kademede okulun öğrenim süresini aş
 ve öğretim desteği verilebilir. Bu fıkra kapsamındaki eğitim ve öğretim desteğinden özel okul
 öncesi eğitim kurumlarından eğitim alanlar da, 48-66 ay arasında olmak şartıyla en fazla bir
 eğitim-öğretim yılı süresince yararlandırılabilir.
-
-18 2022-2023 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için 26/7/2022
-tarihli ve 31904 sayılı Resmi Gazete’ de yayımlanan 5580 Sayılı Kanun Kapsamında Açılan Özel
-Okullarda Öğrenim Gören ve Önceki Yıllarda Eğitim ve Öğretim Desteği Kapsamına Alınıp Öğretim
-Kademesini Tamamlamayan Öğrencilere 2022-2023 Eğitim Öğretim Yılında Eğitim ve Öğretim
-Desteği Ödemesine İlişkin Tebliğe bakınız.
 Eğitim ve öğretim desteği, Bakanlıkça eğitim kademelerine göre her bir derslik için
 belirlenen asgari öğrenci sayısının üzerinde ve her hâlükârda derslik başına belirlenen azami
 öğrenci sayısını geçmemek üzere verilebilir. Eğitim ve öğretim desteği verilecek toplam
@@ -591,6 +597,11 @@ göre Maliye Bakanlığına bağlı vergi daireleri tarafından takip ve tahsil 
 Bu madde kapsamında Bakanlıkta istihdam edileceklerde aranacak şartlar, eğitim ve
 öğretim desteğinin verilmesine ilişkin ölçütler, desteğin verileceği eğitim kurumu türleri,
 eğitim kademeleri ve kurumlar itibarıyla verilecek destek tutarları, eğitim ve öğretim
+
+Kademesini Tamamlamayan Öğrencilere 2022-2023 Eğitim Öğretim Yılında Eğitim ve Öğretim
+Desteği Ödemesine İlişkin Tebliğe bakınız.
+19 27/6/2019 tarihli ve 7180 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “eğitim ve
+öğretim desteği,” ibaresi madde metninden çıkarılmıştır.
 desteğinin kontrol ve denetimi ile bu maddenin uygulanmasına ilişkin diğer usul ve esaslar
 Maliye Bakanlığı ve Bakanlıkça müştereken hazırlanan yönetmelikle belirlenir.
 
@@ -603,9 +614,6 @@ ortaöğretim örgün eğitim programlarının aynısı veya bir kısmını uygu
 programlara yönelik deneme, seviye tespit sınavı gibi adlarla toplu sınav organizasyonları
 yapmak üzere faaliyet göstermek için yüz yüze veya uzaktan öğretim yöntemi ile özel öğretim
 kurumları veya yerler açılamaz, işletilemez, öğretim programları oluşturulamaz. Sivil toplum
-
-19 27/6/2019 tarihli ve 7180 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “eğitim ve
-öğretim desteği,” ibaresi madde metninden çıkarılmıştır.
 kuruluşları ile yükseköğretim kurumlarının sürekli eğitim merkezleri gibi birimlerinde de bu
 faaliyetler yürütülemez. Belediyeler ise il millî eğitim müdürlükleri ile yapılan ve Bakanlıkça
 onaylanan ortak işbirliği protokolleri çerçevesinde, örgün eğitim programlarına destek
@@ -677,6 +685,12 @@ GEÇİCİ MADDE 7
 Bu maddeyi ihdas eden Kanunla değiştirilen 6 ncı maddenin altıncı fıkrası uyarınca
 Bakanlıkça belirlenen programları bu maddenin yürürlüğe girdiği tarihe kadar başarıyla
 tamamlayarak kurs bitirme belgesi alanların kazanılmış hakları saklıdır.
+
+GEÇİCİ MADDE 8
+
+(Ek:24/7/2026-7590/20 md.)
+Bu maddenin yürürlüğe girdiği tarihten önce 7 nci maddenin ikinci fıkrası kapsamında
+işlenen fiiller, anılan fıkrada belirlenen süreler dikkate alınarak tekerrüre esas alınır.
 
 MADDE 15 — Yürürlük
 

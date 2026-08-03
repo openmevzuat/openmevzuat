@@ -5,12 +5,12 @@
  :document/slug "657-devlet-memurlari-kanunu",
  :document/path "data/canonical/laws/657-devlet-memurlari-kanunu",
  :document/sha256
- "76953b2d506dca331b53930bded37dd37abbf6d8958336c9aff2950ba91b8ccb",
+ "aaea4ce1868cbfaac244d9d59ea2063bf60fdd41f895a90cb315e3c2a7950db6",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.657.pdf",
- :source/fetched-at #inst "2026-07-16T02:13:16.958-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-03T08:20:12.758-00:00",
+ :openmevzuat/baseline-date "2026-08-03",
+ :openmevzuat/generated-at #inst "2026-08-03T08:20:04.342-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -498,7 +498,7 @@
    :article/title nil,
    :article/path "articles/madde-068.md",
    :article/sha256
-   "43a797a281e0465fc0a5e553a9bf855301354ac0bbd4d1df8cd38411ad20a8bc"}
+   "afde13a9d5ca8c42c77cbe87f33465d916d196292b734d48fc510f9aae20043a"}
   {:article/id "law/t5-657/article/69",
    :article/type :normal,
    :article/no "69",
@@ -519,14 +519,14 @@
    :article/title nil,
    :article/path "articles/madde-071.md",
    :article/sha256
-   "d2c5393fe4486ed187ef264455b5c9361af4c3e9e128693fa82e1fe4b3bd607c"}
+   "b1d9383b0038fdd708ae7454deecaae0c27b774dbb1ea378a9193f482f730533"}
   {:article/id "law/t5-657/article/72",
    :article/type :normal,
    :article/no "72",
    :article/title nil,
    :article/path "articles/madde-072.md",
    :article/sha256
-   "bc7b2471bc4680a93498d3cf1996063d2084fc68d6663157406b30bbc322bb60"}
+   "438e77a6b34561fa7372a15f89ed4aa38b6bdc99f034f27449c2d1f8cfc85b7d"}
   {:article/id "law/t5-657/article/73",
    :article/type :normal,
    :article/no "73",
@@ -562,7 +562,7 @@
    "Yabancı bir memleket veya uluslararası kuruluşta hizmet alma:147",
    :article/path "articles/madde-077.md",
    :article/sha256
-   "7649f15400c8ad4cb0607361a523ae2f6a1d566e762bb654d91b76efd4409b36"}
+   "82ca0a78ef7709fd561e168b22a1773505198f3f620eb39c82eca811e826dee1"}
   {:article/id "law/t5-657/article/78",
    :article/type :normal,
    :article/no "78",
@@ -584,14 +584,14 @@
    "Bilgilerini artırmak üzere dış memleketlere gönderilme esasları149",
    :article/path "articles/madde-080.md",
    :article/sha256
-   "60020af5b523c285b3b26bdee91272ff87efb69b53668313d9e159f1cf1eb43e"}
+   "100f021912c289b661ecde55a6d3343f5ee52d42dc82582c249aa103f4710590"}
   {:article/id "law/t5-657/article/81",
    :article/type :normal,
    :article/no "81",
    :article/title nil,
    :article/path "articles/madde-081.md",
    :article/sha256
-   "93a0f93fb64d64c10c811d2c7763b1f7ca2e3732c1afdb1d7a4761daa19058a7"}
+   "677add8ec00cd41108c34941225b1048dca72f35d542c7814270cec0e1251dec"}
   {:article/id "law/t5-657/article/82",
    :article/type :normal,
    :article/no "82",
@@ -626,21 +626,21 @@
    :article/title nil,
    :article/path "articles/madde-086.md",
    :article/sha256
-   "f896f9f6162f500677ae55f524af35bf5343038adf029960c7bad3f859138289"}
+   "8d2408d30e867bf37ecec0dc232ecdfa5a62e0aae4295a836ed38acf45102838"}
   {:article/id "law/t5-657/article/87",
    :article/type :normal,
    :article/no "87",
-   :article/title nil,
+   :article/title "İkinci görev yasağı:157",
    :article/path "articles/madde-087.md",
    :article/sha256
-   "46f1a16c11e45755918e79e26dcd9f65388475356c78ab7f3de38997e27015c0"}
+   "54daacaff4a36b38ce3a354585e1b86178a4b0e579284a1b17c758e4c2431452"}
   {:article/id "law/t5-657/article/88",
    :article/type :normal,
    :article/no "88",
    :article/title nil,
    :article/path "articles/madde-088.md",
    :article/sha256
-   "ec6f09acd7a60cb3a018e1a59253dcea2acbfccfbb46776625fd2923c257a105"}
+   "b7b0253e507168b224654186fddb82fc6268e510f23904e04e8078545609bd80"}
   {:article/id "law/t5-657/article/89",
    :article/type :normal,
    :article/no "89",
@@ -661,7 +661,7 @@
    :article/title nil,
    :article/path "articles/madde-091.md",
    :article/sha256
-   "b6fdab10352ea58f7bc4ec9d95d1ab1cd9a5d16af8928942b95f03ff2e578cfc"}
+   "9569e556248d62c879387dc664c4861d231f416cd73c4abc1b72848809bf7b99"}
   {:article/id "law/t5-657/article/92",
    :article/type :normal,
    :article/no "92",
@@ -717,7 +717,7 @@
    :article/title nil,
    :article/path "articles/madde-099.md",
    :article/sha256
-   "84d31f71cf02324655a4d14b7ae55ad58cce03acf94755ac5a489c56011895d2"}
+   "f070873b93450b90820fd23f229ebe57cab3a14721c1c72e02e28c458cb01340"}
   {:article/id "law/t5-657/article/100",
    :article/type :normal,
    :article/no "100",
@@ -731,14 +731,14 @@
    :article/title nil,
    :article/path "articles/madde-101.md",
    :article/sha256
-   "4dd8ab295ef1f25e5d27c94121efd7c2248465facfe3a58f113be965b93c46f7"}
+   "07520738f0d48653e3b8bc78a7f43bb5fd6d196eab83e87e386ba52bea6747ee"}
   {:article/id "law/t5-657/article/102",
    :article/type :normal,
    :article/no "102",
    :article/title nil,
    :article/path "articles/madde-102.md",
    :article/sha256
-   "6a478bf3ab091fa7ad59d46ef956bb4babe63a96bbbceeaeee5e76d337ba5576"}
+   "ce4ef11a064dd8717d936dfa522d814f9c46da07a407135b399c54b3bf2dac0e"}
   {:article/id "law/t5-657/article/103",
    :article/type :normal,
    :article/no "103",
@@ -752,7 +752,7 @@
    :article/title "Mazeret izni:166167168",
    :article/path "articles/madde-104.md",
    :article/sha256
-   "fac82bb224bc8cd9094a5a86d835aabe4383524d79b8fad51590bc5011e57aac"}
+   "0f4f886a21efbe5e4a24d3b29c4bf9ef3ee462837c74054fb260d7e19cdaff90"}
   {:article/id "law/t5-657/article/105",
    :article/type :normal,
    :article/no "105",

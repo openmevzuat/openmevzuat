@@ -1,0 +1,237 @@
+{:snapshot/date "2026-08-03",
+ :snapshot/generated-at #inst "2026-08-03T08:20:04.342-00:00",
+ :generator/name "openmevzuat",
+ :generator/version "0.1.0",
+ :documents
+ [{:document/id "law/488",
+   :document/title "DAMGA VERGİSİ KANUNU",
+   :document/path "data/canonical/laws/488-damga-vergisi-kanunu",
+   :metadata/path "data/metadata/laws/488-damga-vergisi-kanunu.edn",
+   :document/sha256
+   "c8982c3a180d8a8b255eb3401d797edcf54dcd7a341b497271c7d5f8e44d8ece"}
+  {:document/id "law/t5-657",
+   :document/title "DEVLET MEMURLARI KANUNU",
+   :document/path "data/canonical/laws/657-devlet-memurlari-kanunu",
+   :metadata/path "data/metadata/laws/657-devlet-memurlari-kanunu.edn",
+   :document/sha256
+   "aaea4ce1868cbfaac244d9d59ea2063bf60fdd41f895a90cb315e3c2a7950db6"}
+  {:document/id "law/1512",
+   :document/title "NOTERLİK KANUNU",
+   :document/path "data/canonical/laws/1512-noterlik-kanunu",
+   :metadata/path "data/metadata/laws/1512-noterlik-kanunu.edn",
+   :document/sha256
+   "4f1ecbe598eeb270fc34c11edd3376d97b6509d8b221949f3374aa95bc38cdb6"}
+  {:document/id "law/2004",
+   :document/title "İCRA VE İFLAS KANUNU",
+   :document/path "data/canonical/laws/2004-icra-ve-iflas-kanunu",
+   :metadata/path "data/metadata/laws/2004-icra-ve-iflas-kanunu.edn",
+   :document/sha256
+   "263c1c4117fb431a9ce34d10d5376134b5731e83b8229a1ded9e2280b4df78a4"}
+  {:document/id "law/2252",
+   :document/title "KÜLTÜR BAKANLIĞI DÖNER SERMAYE KANUNU",
+   :document/path
+   "data/canonical/laws/2252-kultur-bakanligi-doner-sermaye-kanunu",
+   :metadata/path
+   "data/metadata/laws/2252-kultur-bakanligi-doner-sermaye-kanunu.edn",
+   :document/sha256
+   "c60f7c3c6c967743ebbeb0c5227dc5c79d7c7c1845b27a0106cc71ae5b5e8072"}
+  {:document/id "law/2559",
+   :document/title "POLİS VAZİFE VE SALAHİYET KANUNU",
+   :document/path
+   "data/canonical/laws/2559-polis-vazife-ve-salahiyet-kanunu",
+   :metadata/path
+   "data/metadata/laws/2559-polis-vazife-ve-salahiyet-kanunu.edn",
+   :document/sha256
+   "84108473fc1ff216d16b64ffae20d4aa27d7e7a2d4368fe990d4cfac9ddeaf54"}
+  {:document/id "law/2575",
+   :document/title "DANIŞTAY KANUNU",
+   :document/path "data/canonical/laws/2575-danistay-kanunu",
+   :metadata/path "data/metadata/laws/2575-danistay-kanunu.edn",
+   :document/sha256
+   "01e4a45dc8ed58bfe6f8d836a917b5d8aac4f80d5810f23b172e8912c769183b"}
+  {:document/id "law/2576",
+   :document/title
+   "BÖLGE İDARE MAHKEMELERİ, İDARE MAHKEMELERİ VE VERGİ MAHKEMELERİNİN KURULUŞU VE GÖREVLERİ HAKKINDA KANUN",
+   :document/path
+   "data/canonical/laws/2576-bolge-idare-mahkemeleri-idare-mahkemeleri-ve-vergi-mahkemelerinin-kurulusu-ve-gorevleri-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/2576-bolge-idare-mahkemeleri-idare-mahkemeleri-ve-vergi-mahkemelerinin-kurulusu-ve-gorevleri-hakkinda-kanun.edn",
+   :document/sha256
+   "bde982cc2ef377f025f37f9ac3ba5c72c4fc2182dcdeae7a88450fe56e99e2c1"}
+  {:document/id "law/2577",
+   :document/title "İdari Yargılama Usulü Kanunu",
+   :document/path
+   "data/canonical/laws/2577-idari-yargilama-usulu-kanunu",
+   :metadata/path
+   "data/metadata/laws/2577-idari-yargilama-usulu-kanunu.edn",
+   :document/sha256
+   "add766f6a7fc7403a8369fe72bd809d429ad57ba928d7a95e5e41caf3a71500c"}
+  {:document/id "law/2659",
+   :document/title
+   "ADLİ TIP KURUMU İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN",
+   :document/path
+   "data/canonical/laws/2659-adli-tip-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/2659-adli-tip-kurumu-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun.edn",
+   :document/sha256
+   "fd3dcc06ee0214b3b448f08ce55437c3fbe39987e0c14f8df3474f0fbaef6ea8"}
+  {:document/id "law/2802",
+   :document/title "HAKİMLER VE SAVCILAR KANUNU",
+   :document/path
+   "data/canonical/laws/2802-hakimler-ve-savcilar-kanunu",
+   :metadata/path
+   "data/metadata/laws/2802-hakimler-ve-savcilar-kanunu.edn",
+   :document/sha256
+   "4974eae1db29fe7fe44ce41aa22a3fc44e76dee825a4fbbe94cd7996e6aa0bed"}
+  {:document/id "law/2863",
+   :document/title "KÜLTÜR VE TABİAT VARLIKLARINI KORUMA KANUNU",
+   :document/path
+   "data/canonical/laws/2863-kultur-ve-tabiat-varliklarini-koruma-kanunu",
+   :metadata/path
+   "data/metadata/laws/2863-kultur-ve-tabiat-varliklarini-koruma-kanunu.edn",
+   :document/sha256
+   "418c7dbd62c51489ec5498614ee172488f15a15164054bf15326770652ca5cdb"}
+  {:document/id "law/2918",
+   :document/title "Karayolları Trafik Kanunu",
+   :document/path "data/canonical/laws/2918-karayollari-trafik-kanunu",
+   :metadata/path
+   "data/metadata/laws/2918-karayollari-trafik-kanunu.edn",
+   :document/sha256
+   "2d41084bc184daa8cce6a187f23ad12ede75de48159c6942bea0a8811f03955d"}
+  {:document/id "law/2920",
+   :document/title "TÜRK SİVİL HAVACILIK KANUNU",
+   :document/path
+   "data/canonical/laws/2920-turk-sivil-havacilik-kanunu",
+   :metadata/path
+   "data/metadata/laws/2920-turk-sivil-havacilik-kanunu.edn",
+   :document/sha256
+   "e4ef781eacd10139d15be77a1e1ca2cd5741460b53853449e5516f58132e6d08"}
+  {:document/id "law/3065",
+   :document/title "Katma Değer Vergisi Kanunu",
+   :document/path
+   "data/canonical/laws/3065-katma-deger-vergisi-kanunu",
+   :metadata/path
+   "data/metadata/laws/3065-katma-deger-vergisi-kanunu.edn",
+   :document/sha256
+   "dc8b56600f61ad1b902ad14c60dcc1eae479ac48d0bef125f24bf2750e95b18e"}
+  {:document/id "law/3095",
+   :document/title "KANUNİ FAİZ VE TEMERRÜT FAİZİNE İLİŞKİN KANUN",
+   :document/path
+   "data/canonical/laws/3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun",
+   :metadata/path
+   "data/metadata/laws/3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun.edn",
+   :document/sha256
+   "51ca4221e5dc38446eee621e3798b37fa985a015d297ec171d09277c7331fff6"}
+  {:document/id "law/4447",
+   :document/title
+   "İŞSİZLİK SİGORTASI KANUNU ( SOSYAL SİGORTALAR KANUNU, TARIM İŞÇİLERİ SOSYAL SİGORTALAR KANUNU, TÜRKİYE CUMHURİYETİ EMEKLİ SANDIĞI KANUNU, ESNAF VE SANATKARLAR VE DİĞER BAĞIMSIZ ÇALIŞANLAR SOSYAL SİGORTALAR KURUMU KANUNU, TARIMDA KENDİ ADINA VE HESABINA ÇALIŞANLAR SOSYAL SİGORTALAR KANUNU İLE İŞ KANUNUNUN BİR MADDESİNİN DEĞİŞTİRİLMESİ VE BU KANUNLARA EK VE GEÇİCİ MADDELER EKLENMESİ, İŞSİZLİK SİGORTASI KURULMASI, ÇALIŞANLARIN TASARRUFA TEŞVİK EDİL- MESİ VE BU TASARRUFLARIN DEĞERLENDİRİLMESİNE DAİR KANUNUN İKİ MADDESİNİN YÜRÜRLÜKTEN KALDIRILMASI İLE GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN)",
+   :document/path
+   "data/canonical/laws/4447-issizlik-sigortasi-kanunu-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-turkiye-cumhuriyeti-emekli-sandigi-kanunu-esnaf-ve-sanatkarlar-ve-diger-da304b310bb6",
+   :metadata/path
+   "data/metadata/laws/4447-issizlik-sigortasi-kanunu-sosyal-sigortalar-kanunu-tarim-iscileri-sosyal-sigortalar-kanunu-turkiye-cumhuriyeti-emekli-sandigi-kanunu-esnaf-ve-sanatkarlar-ve-diger-da304b310bb6.edn",
+   :document/sha256
+   "a37d4ded71a10b5b9b70aaa0af35b51ef5897fe45f21925ffdb43e68b9814d6b"}
+  {:document/id "law/4721",
+   :document/title "Türk Medeni Kanunu",
+   :document/path "data/canonical/laws/4721-turk-medeni-kanunu",
+   :metadata/path "data/metadata/laws/4721-turk-medeni-kanunu.edn",
+   :document/sha256
+   "85e00f6917409091effe39dfbf6bb473d000ac549be9832135a3d2ab72cfe020"}
+  {:document/id "law/4734",
+   :document/title "KAMU İHALE KANUNU",
+   :document/path "data/canonical/laws/4734-kamu-ihale-kanunu",
+   :metadata/path "data/metadata/laws/4734-kamu-ihale-kanunu.edn",
+   :document/sha256
+   "50babb917e8b538c6a3eae90c93a636269429ae19042daf5563888c0d7239dc7"}
+  {:document/id "law/t5-4760",
+   :document/title "ÖZEL TÜKETİM VERGİSİ KANUNU",
+   :document/path
+   "data/canonical/laws/4760-ozel-tuketim-vergisi-kanunu",
+   :metadata/path
+   "data/metadata/laws/4760-ozel-tuketim-vergisi-kanunu.edn",
+   :document/sha256
+   "b66ac15f8e7f103ce18408b8d7df6dfecdab3f6ac6122c8cf759bb239c6baa83"}
+  {:document/id "law/5237",
+   :document/title "Türk Ceza Kanunu",
+   :document/path "data/canonical/laws/5237-turk-ceza-kanunu",
+   :metadata/path "data/metadata/laws/5237-turk-ceza-kanunu.edn",
+   :document/sha256
+   "b18f90ba3afaf342033f35361afdf61523189cd8cdd7cbc44633f6ceba470d32"}
+  {:document/id "law/5271",
+   :document/title "CEZA MUHAKEMESİ KANUNU",
+   :document/path "data/canonical/laws/5271-ceza-muhakemesi-kanunu",
+   :metadata/path "data/metadata/laws/5271-ceza-muhakemesi-kanunu.edn",
+   :document/sha256
+   "c4a9db3dc3cb705274133488fdab0a02972631b74fbaa6f3678e9448eb6eab7e"}
+  {:document/id "law/5510",
+   :document/title
+   "SOSYAL SİGORTALAR VE GENEL SAĞLIK SİGORTASI KANUNU",
+   :document/path
+   "data/canonical/laws/5510-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu",
+   :metadata/path
+   "data/metadata/laws/5510-sosyal-sigortalar-ve-genel-saglik-sigortasi-kanunu.edn",
+   :document/sha256
+   "ac492d9e36bffa402906b501af1305af2928b076de78252db70d6c8e6a18cea6"}
+  {:document/id "law/5520",
+   :document/title "KURUMLAR VERGİSİ KANUNU",
+   :document/path "data/canonical/laws/5520-kurumlar-vergisi-kanunu",
+   :metadata/path
+   "data/metadata/laws/5520-kurumlar-vergisi-kanunu.edn",
+   :document/sha256
+   "e7dffef3008ed71f0233d846e197468287e29d1bfb66c96490fd8d6cd36ed652"}
+  {:document/id "law/5580",
+   :document/title "ÖZEL ÖĞRETİM KURUMLARI KANUNU",
+   :document/path
+   "data/canonical/laws/5580-ozel-ogretim-kurumlari-kanunu",
+   :metadata/path
+   "data/metadata/laws/5580-ozel-ogretim-kurumlari-kanunu.edn",
+   :document/sha256
+   "018dea2645a2cdd02192a6cf2624ed2cf7975b5d31c5ce35278dbcd79671d32b"}
+  {:document/id "law/5809",
+   :document/title "ELEKTRONİK HABERLEŞME KANUNU",
+   :document/path
+   "data/canonical/laws/5809-elektronik-haberlesme-kanunu",
+   :metadata/path
+   "data/metadata/laws/5809-elektronik-haberlesme-kanunu.edn",
+   :document/sha256
+   "da080826a52914d1d71d36dea40d7e6e92cb4a6e848fd0e9f8d0f5bf0eddeb90"}
+  {:document/id "law/6085",
+   :document/title "SAYIŞTAY KANUNU",
+   :document/path "data/canonical/laws/6085-sayistay-kanunu",
+   :metadata/path "data/metadata/laws/6085-sayistay-kanunu.edn",
+   :document/sha256
+   "dd2aaf7aac4dde1c9f094e19c99c201a5eb7f95a4c11ffb4d8f74ae56f0b56b8"}
+  {:document/id "law/6098",
+   :document/title "Türk Borçlar Kanunu",
+   :document/path "data/canonical/laws/6098-turk-borclar-kanunu",
+   :metadata/path "data/metadata/laws/6098-turk-borclar-kanunu.edn",
+   :document/sha256
+   "4a96c48ecbb626d851a42500d11b11e63880b18807998a10a5e4b14cbcfe0a10"}
+  {:document/id "law/6100",
+   :document/title "HUKUK MUHAKEMELERİ KANUNU",
+   :document/path "data/canonical/laws/6100-hukuk-muhakemeleri-kanunu",
+   :metadata/path
+   "data/metadata/laws/6100-hukuk-muhakemeleri-kanunu.edn",
+   :document/sha256
+   "26ae1b1af5905075f4d6db9057ed1c0d5a3e8db37146ecb85a7b9d679269ebc0"}
+  {:document/id "law/6446",
+   :document/title "ELEKTRİK PİYASASI KANUNU",
+   :document/path "data/canonical/laws/6446-elektrik-piyasasi-kanunu",
+   :metadata/path
+   "data/metadata/laws/6446-elektrik-piyasasi-kanunu.edn",
+   :document/sha256
+   "afa49b85814f63c95edbaefffa5172b870766fe581dbf10ec8c0804427d48de4"}
+  {:document/id "law/6475",
+   :document/title "POSTA HİZMETLERİ KANUNU",
+   :document/path "data/canonical/laws/6475-posta-hizmetleri-kanunu",
+   :metadata/path
+   "data/metadata/laws/6475-posta-hizmetleri-kanunu.edn",
+   :document/sha256
+   "1e3ba72c7ead9832f468a053f1adad7cd5b2e3e31984f621bf66bb63dd3072e9"}
+  {:document/id "law/7545",
+   :document/title "SİBER GÜVENLİK KANUNU",
+   :document/path "data/canonical/laws/7545-siber-guvenlik-kanunu",
+   :metadata/path "data/metadata/laws/7545-siber-guvenlik-kanunu.edn",
+   :document/sha256
+   "56ebeed3a37776b967bacf1533d4ae95bd10d9dbc3d2b27d35821173ccc59cb1"}],
+ :snapshot/scope :incremental}

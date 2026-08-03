@@ -19,6 +19,9 @@ fıkrası kıyas yoluyla uygulanır.61
 duruşma yapılmasına karar verebilir.
 (5) Duruşma günü belli edilen hâllerde Yargıtay, tarafları veya gelen tarafı dinledikten
 sonra, taraflardan hiçbiri gelmemiş ise dosya üzerinde inceleme yaparak kararını verir.
+
+61 31/3/2011 tarihli ve 6217 sayılı Kanunun 28 inci maddesiyle, bu fıkralarda yer alan “yirmibin”
+ibareleri “altmışbin” olarak değiştirilmiş ve metne işlenmiştir.
 (6) Duruşma günü kararı verilemeyen işlerin en geç bir ay içinde karara bağlanması
 zorunludur.
 (7) Kanunda ivedi olduğu bildirilen dava ve işlere ait temyiz incelemesi öncelikle

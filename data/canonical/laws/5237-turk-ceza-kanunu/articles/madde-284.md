@@ -2,9 +2,6 @@
 
 (1) Hakkında tutuklama kararı verilmiş olan veya hükümlü bir kişinin
 bulunduğu yeri bildiği halde yetkili makamlara bildirmeyen kimse, bir yıla kadar hapis cezası
-
-110 26/6/2009 tarihli ve 5918 sayılı Kanunun 5 inci maddesiyle birinci fıkradan sonra gelmek üzere
-ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 ile cezalandırılır.
 (2) İşlenmiş olan bir suça ilişkin delil ve eserlerin başkaları tarafından saklandığı yeri
 bildiği halde yetkili makamlara bildirmeyen kimse, yukarıdaki fıkra hükmüne göre cezalandırılır.

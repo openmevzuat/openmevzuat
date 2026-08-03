@@ -14,3 +14,7 @@ başvurulabilir.
 Bölge adliye mahkemesi bu halde dosya üzerine kararını verir.
 
 Refi:
+
+123 2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle 327 inci maddenin beşinci fıkrasının ikinci
+cümlesinde geçen “temyize müracaat olunabilir.” İbaresi, “istinaf yoluna başvurulabilir.”; altıncı fıkrasında
+geçen “Temyiz” ibaresi, “Bölge adliye mahkemesi” şeklinde değiştirilmiştir.

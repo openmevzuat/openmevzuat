@@ -5,12 +5,12 @@
  :document/slug "2920-turk-sivil-havacilik-kanunu",
  :document/path "data/canonical/laws/2920-turk-sivil-havacilik-kanunu",
  :document/sha256
- "e80f42c817b780fc4fc21373b234f16275891e4f75ffbed7cfdd9b8f0d15b1aa",
+ "e4ef781eacd10139d15be77a1e1ca2cd5741460b53853449e5516f58132e6d08",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2920.pdf",
- :source/fetched-at #inst "2026-07-16T02:21:15.406-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-03T08:21:02.648-00:00",
+ :openmevzuat/baseline-date "2026-08-03",
+ :openmevzuat/generated-at #inst "2026-08-03T08:20:04.342-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -311,7 +311,7 @@
    :article/title "Kurtarma ve yardım",
    :article/path "articles/madde-042.md",
    :article/sha256
-   "e583a6c8eb1e7e97cb1b1cb0de9ff632ba74ac990d9ed63e5cfadd37cf5e6bf5"}
+   "13bece80e4f35b4fe308cb7e9ce78385f81e43c0c9b0dab8b8536f24789f361f"}
   {:article/id "law/2920/article/43",
    :article/type :normal,
    :article/no "43",
@@ -332,7 +332,7 @@
    :article/title "Uçuş ve haberleşme hizmetleri",
    :article/path "articles/madde-045.md",
    :article/sha256
-   "5d8e08b23de08515ccc9a638387dfab6ebec7f3cc64204aea01d984903dad3e0"}
+   "d90217d5b2f66eadc2b28015b4aa29e5034b0e83901ceda658e3b662080cb138"}
   {:article/id "law/2920/article/46",
    :article/type :normal,
    :article/no "46",
@@ -344,10 +344,10 @@
    :article/type :normal,
    :article/no "47",
    :article/title
-   "Havaalanları ve çevresinde yapılaşma sınırlamaları1213",
+   "Havaalanları ve çevresinde yapılaşma sınırlamaları1314",
    :article/path "articles/madde-047.md",
    :article/sha256
-   "2371784ee73cf168cc5f8c10406589c5568efc045a849cf0cf6b11bb285af4ec"}
+   "0ae4a099fd2ace96be6338b1a7ad6edfb5860faf1cf18de2de47d0c53fdde2b6"}
   {:article/id "law/2920/article/48",
    :article/type :normal,
    :article/no "48",
@@ -464,17 +464,17 @@
   {:article/id "law/2920/article/64",
    :article/type :normal,
    :article/no "64",
-   :article/title "Yönetmelik14",
+   :article/title "Yönetmelik15",
    :article/path "articles/madde-064.md",
    :article/sha256
-   "48c96102313b5dc13c8ea29c61d62ab465455783a71138a8355554d6bd3897b3"}
+   "779b6fa6cb453f08c7501145558002a883fec32f3b9c571fc37040968625bab4"}
   {:article/id "law/2920/article/65",
    :article/type :normal,
    :article/no "65",
    :article/title "Hava araçlarının hukuki niteliği",
    :article/path "articles/madde-065.md",
    :article/sha256
-   "93298128c6f0312d8cbc6222204c8458e04a78a14c6b6253cbadd7c0bde8a48e"}
+   "8d1a6db2c0006fefadad6a5864a59eba7f9d272a4b1a527251d6811b414cd51d"}
   {:article/id "law/2920/article/66",
    :article/type :normal,
    :article/no "66",
@@ -650,7 +650,7 @@
    :article/title "Hava aracı belgeleri",
    :article/path "articles/madde-089.md",
    :article/sha256
-   "951baf2e369df1a3b7f75cc11580e09d686ecc734d3f550a3baec796803b58a2"}
+   "c33e558da5efed65d8ffe13b7b82dea8d9be095768f3c7b2944bb451a1803e83"}
   {:article/id "law/2920/article/90",
    :article/type :normal,
    :article/no "90",
@@ -678,14 +678,14 @@
    :article/title "Yasaklar",
    :article/path "articles/madde-093.md",
    :article/sha256
-   "b61692a4b1d9fbeb27565af39ac6a9940ce049596ed9f3ebd33d532f0b8a3253"}
+   "68dfae53c20bc83c7c42aec526bac7bfdf1c2d2be39e7d30b4c955a06f29d1b5"}
   {:article/id "law/2920/article/94",
    :article/type :normal,
    :article/no "94",
-   :article/title "İnme mecburiyeti",
+   :article/title "Önleme talimatlarına uyma ve inme mecburiyeti",
    :article/path "articles/madde-094.md",
    :article/sha256
-   "f80fc75f090b6f29553cac9f2f4ff613a6b488c06626011868945bd64ec9dfed"}
+   "a784ed9223f1be5dd390715faa7cc214861995c86a7eaff5fa30ed7f32060e41"}
   {:article/id "law/2920/article/95",
    :article/type :normal,
    :article/no "95",
@@ -714,14 +714,14 @@
    :article/title "İdari önlem",
    :article/path "articles/madde-098.md",
    :article/sha256
-   "eb0fb257e10a597a22d0e8d73c6cb30fcda9657a953b82f69f0b1c06b00032d2"}
+   "cf32cc6a19a649136c9bd1a533a9a5c6725f808edf09e2b246a4b492d2a6cd16"}
   {:article/id "law/2920/article/99",
    :article/type :normal,
    :article/no "99",
    :article/title "Eğitim ve öğretim",
    :article/path "articles/madde-099.md",
    :article/sha256
-   "0f9d60e337b6cbe5fc2c56bf1c5b0af2c88cb5030e694a40e7342dd97fc41319"}
+   "c55111887bfa5903fef809123afcc6e145e08ee0c522ef0aa5df7bc1913f727b"}
   {:article/id "law/2920/article/100",
    :article/type :normal,
    :article/no "100",
@@ -735,7 +735,7 @@
    :article/title "Kaptan pilotun idari yetki ve sorumlulukları",
    :article/path "articles/madde-101.md",
    :article/sha256
-   "f3e928c4a61ef7a8ddad54bf2cc334663114b0d0a8fd903eff1a8ebe6d893d43"}
+   "04031f619bd1c1c20ebcb9b229455d5b7f983bb958b19f4880529c2c585e3207"}
   {:article/id "law/2920/article/102",
    :article/type :normal,
    :article/no "102",
@@ -749,7 +749,7 @@
    :article/title "Özel düzenlemeler",
    :article/path "articles/madde-103.md",
    :article/sha256
-   "c255d43170a63cf9c73db24ae98d23fb6851c0763e91a26ae55f58fc0aa8d211"}
+   "f04774f198f197514f568cdc01696108048c9f483b0cd39da092ffc4d5a98454"}
   {:article/id "law/2920/article/104",
    :article/type :normal,
    :article/no "104",
@@ -763,7 +763,7 @@
    :article/title "Uluslararası sözleşme hükümleri",
    :article/path "articles/madde-105.md",
    :article/sha256
-   "4cd36dd1c17d91b6e182664c01e704e745d5087bb3395c1d1690fd9898c39e5a"}
+   "23dd98175579c13ee068745e4c337b18b51987689a04d0d640c954a760f6d489"}
   {:article/id "law/2920/article/106",
    :article/type :normal,
    :article/no "106",
@@ -896,7 +896,7 @@
    :article/title "Sorumluluğun sınırlandırılması",
    :article/path "articles/madde-124.md",
    :article/sha256
-   "38434febe38732f89875a75644c3a2a0d7c8f5c8dd34749a6e6bd59e27119ffa"}
+   "12b78da6783d5a7de754565ced74605477992a617e46a013bad43b7dd2cbbdd1"}
   {:article/id "law/2920/article/125",
    :article/type :normal,
    :article/no "125",
@@ -910,7 +910,7 @@
    :article/title "Sınırsız sorumluluk",
    :article/path "articles/madde-126.md",
    :article/sha256
-   "15ce7b1ebf931cedb7a074c0a0b1a24d06d96092e733120cd7b44b760de52161"}
+   "592c7ffb3e7ee1de3b774ade30795f10f2718abdf4cf53b9af43a2b12dc600a1"}
   {:article/id "law/2920/article/127",
    :article/type :normal,
    :article/no "127",
@@ -1010,14 +1010,14 @@
    "Üçüncü şahıslara verilecek zarara karşı sigorta şartlarının tespiti",
    :article/path "articles/madde-140.md",
    :article/sha256
-   "3134f56b42c54e46c8aab892a461df04074b67230d14b3bd1da9f611d90d171f"}
+   "b4546d446ae4f82be38722040f34c3d5242691bebd624880257a726e532a9d96"}
   {:article/id "law/2920/article/141",
    :article/type :normal,
    :article/no "141",
    :article/title nil,
    :article/path "articles/madde-141.md",
    :article/sha256
-   "28389db4592ed515f8639badfcdfa3645eedf90e8e32fbc8b1f287193cfb5065"}
+   "612cd4fcbe0a01ef4b1042b7fdb124a05f7e1ac4eed85a4a5627911586be64eb"}
   {:article/id "law/2920/article/142",
    :article/type :normal,
    :article/no "142",
@@ -1028,17 +1028,17 @@
   {:article/id "law/2920/article/143",
    :article/type :normal,
    :article/no "143",
-   :article/title "Kabahat oluşturan davranışlar202122",
+   :article/title "Kabahat oluşturan davranışlar212223",
    :article/path "articles/madde-143.md",
    :article/sha256
-   "bfc43d1e2c4cb184eed47333e974be66141477cb570cdb36d791a95d3f97348d"}
+   "b2f1f0a356f3fd9446a161a50f4e6550ec45ecaf7b677a84ec779a8524b1fb4f"}
   {:article/id "law/2920/article/144",
    :article/type :normal,
    :article/no "144",
-   :article/title "İnsansız hava araçları242526",
+   :article/title "İnsansız hava araçları252627",
    :article/path "articles/madde-144.md",
    :article/sha256
-   "75b11fb5c9c3338f4465aff55c9499f706b6282f631fb8ca4292703c64cf6cdc"}
+   "a1c7de0a0c4ff92d946a8fa40ccab8282a12b4972148a8f53e7b7b95f05fd178"}
   {:article/id "law/2920/article/145",
    :article/type :normal,
    :article/no "145",
@@ -1060,21 +1060,21 @@
    :article/title "İstatistiki bilgiler",
    :article/path "articles/madde-147.md",
    :article/sha256
-   "da4286a309a69154f83471ea82ffaf5f88b63f6a0626923ad1edc895183dc492"}
+   "aadf41f52b14a06bb00d58e1b5d2ca1c85911a9cc9df00e51c27446f5da792af"}
   {:article/id "law/2920/article/148",
    :article/type :normal,
    :article/no "148",
-   :article/title nil,
+   :article/title "Yönetmelikler28",
    :article/path "articles/madde-148.md",
    :article/sha256
-   "af7742e02a1a11ca4cc92751c2f798365733c89cc74b20b3721d62c3ddf0f385"}
+   "f6786e6532b73ced02a3c40099a90ed79aff6676512f20643afc676d538fdbdf"}
   {:article/id "law/2920/article/1",
    :article/type :additional,
    :article/no "1",
    :article/title nil,
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "ee0847b292e939b43e852d9f3b0d209866e268543a905b764d645136b55a6510"}
+   "3aa1a9096fda7550f6cc610e059f1cc845c15a40b25f60152dbe60392f7875a1"}
   {:article/id "law/2920/article/2",
    :article/type :additional,
    :article/no "2",
