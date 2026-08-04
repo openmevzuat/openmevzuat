@@ -2,11 +2,11 @@
 
 Birinci sınıfa ayrılabilmek için:
 
-36 22/12/2005 tarihli ve 5435 sayılı Kanunun 14 üncü maddesiyle bu madde başlığı " Lisansüstü öğrenim yapmış
+37 22/12/2005 tarihli ve 5435 sayılı Kanunun 14 üncü maddesiyle bu madde başlığı " Lisansüstü öğrenim yapmış
 olanlar:" iken; metne işlendiği şekilde değiştirilmiştir.
-37 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Aday” ibaresi “Hâkim ve
+38 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Aday” ibaresi “Hâkim ve
 savcı yardımcısı” şeklinde değiştirilmiştir.
-38 22/12/2005 tarihli ve 5435 sayılı Kanunun 15 inci maddesiyle bu bölümün başlığı " Birinci Sınıfa Ayrılma Koşul ve
+39 22/12/2005 tarihli ve 5435 sayılı Kanunun 15 inci maddesiyle bu bölümün başlığı " Birinci Sınıfa Ayrılma Koşul ve
 Yöntemleri" iken metne işlendiği şekilde değiştirilmiştir.
 a) Birinci dereceye yükselmek,
 b) (Değişik: 9/3/1995 – 4087/1 md.) Hakimlik ve savcılık mesleğinde on yılını doldurmak,
@@ -27,7 +27,7 @@ düzenlenen uzmanlık eğitim programını başarıyla bitirenler için dokuz, m
 yeterli sayılır. Ayrıca fiilen avukatlıkta geçen sürenin üçte ikisi, hâkim ve savcı yardımcılarının
 yardımcılık süresini aşan süreleri, avukatlık stajının üçte ikisi ve askerlik hizmetinde geçen
 sürenin yarısı, birinci sınıfa ayrılmaya esas sürenin hesabında dikkate alınır. Ancak birinci sınıfa
-ayrılabilmek için her halde meslekte fiilen üç terfi dönemi çalışmak zorunludur.39
+ayrılabilmek için her halde meslekte fiilen üç terfi dönemi çalışmak zorunludur.40
 Birinci sınıfa ayrılma incelemesine tabi tutulacaklar hakkında 22 nci maddenin; listelerin
 yayımı, yeniden inceleme ve itiraza ilişkin hükümleri uygulanır.
 (Ek fıkra: 22/12/2005 - 5435/15 md.) Birinci sınıfa ayrılma koşul ve yöntemlerine dair

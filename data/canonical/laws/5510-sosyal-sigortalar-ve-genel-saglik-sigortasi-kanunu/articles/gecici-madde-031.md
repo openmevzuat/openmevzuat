@@ -7,4 +7,4 @@ olarak çalıştırılanlar, bu durumlarını milli eğitim il veya ilçe müdü
 belgelendirmeleri kaydıyla, bu maddenin yürürlük tarihinden önceki bu çalışmalarından
 dolayı ay içinde 30 günden eksik kalan sürelerini 41 inci madde esaslarına göre %45 oranı
 üzerinden kendileri veya hak sahipleri borçlanabilirler. Borçlanılan bu süreler 4 üncü
-maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık süresi sayılır.232
+maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık süresi sayılır.234

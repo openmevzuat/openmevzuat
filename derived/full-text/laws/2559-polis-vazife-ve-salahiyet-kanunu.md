@@ -747,12 +747,12 @@ Komisyonuna sunulur.
 (Ek fıkra: 3/7/2005 – 5397/1 md.; Değişik: 15/8/2016-KHK-671/24 md.; Aynen
 kabul: 9/11/2016-6757/21 md.) Bu maddede belirtilen telekomünikasyon yoluyla yapılan
 iletişime ilişkin işlemler ile 5271 sayılı Kanunun 135 inci maddesi kapsamında yapılacak
-dinlemeler, Bilgi Teknolojileri ve İletişim Kurumu bünyesinde tek bir merkezden yürütülür.
+dinlemeler, Siber Güvenlik Başkanlığı bünyesinde tek bir merkezden yürütülür.23
 (Ek fıkra: 3/7/2005 – 5397/1 md.) Bu maddede belirlenen usûl ve esaslara aykırı
 dinlemeler hukuken geçerli sayılmaz ve bu şekilde dinleme yapanlar hakkında 26.9.2004
 tarihli ve 5237 sayılı Türk Ceza Kanunu hükümlerine göre işlem yapılır.
 (Ek fıkra: 3/7/2005 – 5397/1 md.) Bu maddenin uygulanmasına ilişkin esas ve usûller
-Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.23
+Cumhurbaşkanınca çıkarılan yönetmelikle düzenlenir.24
 
 EK MADDE 8
 
@@ -780,7 +780,9 @@ fıkranın uygulanmasına dair diğer hususlar İçişleri Bakanlığınca çık
 
 şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun 27 nci maddesiyle aynen
 kabul edilerek kanunlaşmıştır.
-23 2/7/2018 tarihli ve 700 sayılı KHK’nin 14 üncü maddesiyle, bu fıkrada yer alan “Adalet, İçişleri ve Ulaştırma
+23 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “Bilgi Teknolojileri ve
+İletişim Kurumu” ibaresi “Siber Güvenlik Başkanlığı” şeklinde değiştirilmiştir.
+24 2/7/2018 tarihli ve 700 sayılı KHK’nin 14 üncü maddesiyle, bu fıkrada yer alan “Adalet, İçişleri ve Ulaştırma
 bakanlıklarının görüşü alınarak Başbakanlık tarafından üç ay içinde çıkarılacak” ibaresi “Cumhurbaşkanınca
 çıkarılan” şeklinde değiştirilmiştir.
 gösterilir. Para ödülüne ait giderler Emniyet Genel Müdürlüğü bütçesine konulacak ödenekten

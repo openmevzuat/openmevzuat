@@ -3,7 +3,7 @@
 (Değişik: 11/9/1987 – KHK 276/9 md.; Aynen Kabul: 24/2/1988 –
 3409/9 md.)
 
-30 22/12/2005 tarihli ve 5435 sayılı Kanunun 7 nci maddesiyle bu bente "veya çalışmış sayılmaları," ibaresi
+31 22/12/2005 tarihli ve 5435 sayılı Kanunun 7 nci maddesiyle bu bente "veya çalışmış sayılmaları," ibaresi
 eklenmiştir.
 19 uncu maddedeki şartları haiz olanlar, bir yıllık ilerleme süresini doldurdukları tarihte,
 başka bir işleme gerek olmaksızın bir ileri kademeye ilerlemiş sayılırlar ve keyfiyet Personel

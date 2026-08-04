@@ -1,4 +1,4 @@
-# MADDE 2
+# MADDE 2 — Temerrüt faizi
 
 (Değişik : 15/12/1999 - 4489/2 md.) Bir miktar paranın ödenmesinde
 temerrüde düşen borçlu, sözleşme ile aksi kararlaştırılmadıkça, geçmiş günler için 1 inci

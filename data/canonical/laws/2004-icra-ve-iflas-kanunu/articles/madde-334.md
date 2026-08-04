@@ -3,10 +3,6 @@
 (Değişik: 31/5/2005-5358/5 md.)
 Konkordato mühleti elde etmek veya konkordato veya sermaye şirketleri ile
 kooperatiflerin uzlaşma yoluyla yeniden yapılandırma projesini tasdik ettirmek için hileli
-
-126 Bu madde başlığı “Konkordatoda yetkili kimseleri hataya düşüren veya konkordato koşullarına uymayan
-borçlunun cezası:” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
 tutum ve davranışlarıyla malî durumu hakkında alacaklıları, komiseri, ara dönem denetçisini
 veya yetkili memuru hataya düşürmek veya konkordato projesine ya da sermaye şirketleri ve
 kooperatiflerin uzlaşma yoluyla yeniden yapılandırılması projesine uymamak yoluyla kasten

@@ -1,4 +1,4 @@
-# MADDE 294
+# MADDE 294 — Kesin mühletin alacaklılar bakımından sonuçları:96
 
 (Değişik: 28/2/2018-7101/22 md.)
 Mühlet içinde borçlu aleyhine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının
@@ -12,6 +12,13 @@ Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin müh
 tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
 Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir. Bu maddelerin
 uygulanmasında geçici mühletin ilânı tarihi esas alınır.
+
+94 Bu maddenin “Alacaklılar hakkında borçlunun beyana daveti:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+95 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibaresi “iki hafta”
+şeklinde değiştirilmiştir.
+96 Bu maddenin “Alacaklıların toplanması:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 22 nci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü
 uygulanır.
 Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi

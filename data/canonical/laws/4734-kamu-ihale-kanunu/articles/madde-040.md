@@ -18,7 +18,7 @@ dikkate alınmak suretiyle ekonomik açıdan en avantajlı teklif belirlenerek i
 Kararlarda isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi
 istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
 İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya
-gerekçesini açıkça belirtmek suretiyle iptal eder.38
+gerekçesini açıkça belirtmek suretiyle iptal eder.39
 İhale; kararın onaylanması halinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır.
 (Değişik son fıkra: 20/11/2008-5812/13 md.) İhale kararları ihale yetkilisince
 onaylanmadan önce idareler, ihale üzerinde kalan istekli ile varsa ekonomik açıdan en avantajlı

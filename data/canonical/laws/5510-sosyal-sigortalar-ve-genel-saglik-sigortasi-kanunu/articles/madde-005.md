@@ -2,11 +2,6 @@
 
 Kısa ve uzun vadeli sigorta kolları bakımından aşağıda sayılan kişiler
 hakkında uygulanacak sigorta kolları şunlardır:
-a) Hizmet akdi ile çalışmamakla birlikte, ceza infaz kurumları ile tutukevleri
-bünyesinde oluşturulan tesis, atölye ve benzeri ünitelerde çalıştırılan hükümlü ve tutuklular
-hakkında, iş kazası ve meslek hastalığı ile analık sigortası uygulanır ve bunlar, 4 üncü
-maddenin birinci fıkrasının (a) bendi kapsamında sigortalı sayılırlar.
-b) (Değişik: 13/2/2011-6111/24 md.) 5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim
 
 5 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer alan
 “Başbakan,” ibaresinden sonra gelmek üzere “Cumhurbaşkanı yardımcıları,” ibaresi eklenmiştir.
@@ -18,6 +13,11 @@ tarihli ve 7072 sayılı Kanunun 71 inci maddesiyle aynen kabul edilerek kanunla
 8 2/1/2017 tarihli ve 680 sayılı KHK’nin 73 üncü maddesiyle bu fıkrada yer alan “(d) ve (e)” ibaresi
 “(d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı Kanunun
 71 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+a) Hizmet akdi ile çalışmamakla birlikte, ceza infaz kurumları ile tutukevleri
+bünyesinde oluşturulan tesis, atölye ve benzeri ünitelerde çalıştırılan hükümlü ve tutuklular
+hakkında, iş kazası ve meslek hastalığı ile analık sigortası uygulanır ve bunlar, 4 üncü
+maddenin birinci fıkrasının (a) bendi kapsamında sigortalı sayılırlar.
+b) (Değişik: 13/2/2011-6111/24 md.) 5/6/1986 tarihli ve 3308 sayılı Meslekî Eğitim
 Kanununda belirtilen aday çırak, çırak ve işletmelerde meslekî eğitim gören öğrenciler
 hakkında iş kazası ve meslek hastalığı ile hastalık sigortası; meslekî ve teknik ortaöğretim ile
 yükseköğrenimleri sırasında staja tabi tutulan öğrenciler, mesleki ve teknik ortaöğretim
@@ -46,10 +46,6 @@ d) (Mülga: 17/4/2008-5754/3 md.)
 e) (Değişik: 13/2/2011-6111/24 md.) Türkiye İş Kurumu tarafından düzenlenen
 meslek edindirme, geliştirme ve değiştirme eğitimine katılan kursiyerler, 4 üncü maddenin
 birinci fıkrasının (a) bendi kapsamında sigortalı sayılırlar ve bunlar hakkında iş kazası ve
-meslek hastalığı sigortası ile (…)11 genel sağlık sigortası hükümleri uygulanır. (Ek cümle:
-11/10/2011-KHK-665/30 md.) Bunlar için Türkiye İş Kurumu prim ödeme yükümlüsü
-olmakla birlikte bu Kanun kapsamında işyeri ve işveren sayılmaz.
-f) (Mülga: 17/4/2008-5754/3 md.)
 
 9 16/2/2016 tarihli ve 6676 sayılı Kanunun 21 inci maddesiyle, bu bentte yer alan “staja tabi tutulan
 öğrenciler” ibaresinden sonra gelmek üzere “, kamu kurum ve kuruluşları tarafından desteklenen
@@ -59,9 +55,10 @@ liselerinde okumakta iken veya yüksek öğrenimleri sırasında staja tabi tutu
 “meslekî ve teknik ortaöğretim ile yükseköğrenimleri sırasında staja tabi tutulan öğrenciler, mesleki
 ve teknik ortaöğretim sırasında tamamlayıcı eğitim ya da alan eğitimi gören öğrenciler” şeklinde
 değiştirilmiştir.
-11 4/4/2015 tarihli ve 6645 sayılı Kanunun 44 üncü maddesiyle, bu bentte yer alan “bunlardan
-bakmakla yükümlü olunan kişi durumunda olmayanlar hakkında ayrıca” ibaresi madde metninden
-çıkarılmıştır.
+meslek hastalığı sigortası ile (…)11 genel sağlık sigortası hükümleri uygulanır. (Ek cümle:
+11/10/2011-KHK-665/30 md.) Bunlar için Türkiye İş Kurumu prim ödeme yükümlüsü
+olmakla birlikte bu Kanun kapsamında işyeri ve işveren sayılmaz.
+f) (Mülga: 17/4/2008-5754/3 md.)
 g) (Ek: 17/4/2008-5754/3 md.) Ülkemiz ile sosyal güvenlik sözleşmesi olmayan
 ülkelerde iş üstlenen işverenlerce yurt dışındaki işyerlerinde çalıştırılmak üzere götürülen
 Türk işçileri 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır ve

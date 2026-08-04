@@ -1,4 +1,4 @@
-# MADDE 143 — Kabahat oluşturan davranışlar202122
+# MADDE 143 — Kabahat oluşturan davranışlar212223
 
 (Değişik: 23/1/2008-5728/435 md.)
 Bu Kanunun;
@@ -10,6 +10,8 @@ bulunanlara onbin Türk Lirasından beşyüzbin Türk Lirasına kadar,
 idarî para cezası verilir.
 Yukarıdaki fıkralarda belirtilenler dışında kalıp da Sivil Havacılık Genel
 Müdürlüğünün sivil havacılığı düzenlemek maksadıyla alacağı önlemlere uymayanlara, onbin
-Türk Lirasından beşyüzbin Türk Lirasına kadar idarî para cezası verilir.23
+Türk Lirasından beşyüzbin Türk Lirasına kadar idarî para cezası verilir.24
+(Ek fıkra:24/7/2026-7590/8 md.) Birinci ve ikinci fıkralarda yer alan idari para
+cezalarının alt ve üst sınırları tüzel kişiler için beş katı olarak uygulanır.
 Bu madde hükümlerine göre idarî para cezasına karar vermeye Ulaştırma Bakanlığı
 Sivil Havacılık Genel Müdürü yetkilidir.

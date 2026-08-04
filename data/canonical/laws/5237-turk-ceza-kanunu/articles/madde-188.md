@@ -13,11 +13,6 @@ bulunduran kişi, on yıldan az olmamak üzere hapis ve bin günden yirmibin gü
 cezası ile cezalandırılır. (Ek cümle: 18/6/2014 – 6545/66 md.) Ancak, uyuşturucu veya uyarıcı
 madde verilen veya satılan kişinin çocuk olması hâlinde, veren veya satan kişiye verilecek hapis
 cezası on beş yıldan az olamaz.79
-(4) (Değişik: 27/3/2015-6638/11 md.) a) Yukarıdaki fıkralarda belirtilen uyuşturucu
-veya uyarıcı maddelerin eroin, kokain, morfin, bazmorfin, sentetik kannabinoid ve türevleri,
-sentetik katinon ve türevleri, sentetik opioid ve türevleri veya amfetamin ve türevleri olması,80
-
-b) Üçüncü fıkradaki fiillerin; okul, yurt, hastane, kışla veya ibadethane gibi tedavi,
 
 77 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu maddenin birinci fıkrasında yer
 alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında
@@ -30,10 +25,11 @@ ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanun
 aynen kabul edilerek kanunlaşmıştır.
 79 29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle bu fıkralarda geçen "nakleden"
 ibaresinden önce gelmek üzere "sevk eden," ibaresi eklenmiştir.
-80 28/3/2023 tarihli ve 7445 sayılı Kanunun 17 nci maddesiyle bu fıkrada yer alan
-“sentetik kannabinoid ve türevleri veya bazmorfin olması,” ibaresi “bazmorfin,
-sentetik kannabinoid ve türevleri, sentetik katinon ve türevleri, sentetik opioid ve türevleri veya
-amfetamin ve türevleri olması,” şeklinde değiştirilmiştir.
+(4) (Değişik: 27/3/2015-6638/11 md.) a) Yukarıdaki fıkralarda belirtilen uyuşturucu
+veya uyarıcı maddelerin eroin, kokain, morfin, bazmorfin, sentetik kannabinoid ve türevleri,
+sentetik katinon ve türevleri, sentetik opioid ve türevleri veya amfetamin ve türevleri olması,80
+
+b) Üçüncü fıkradaki fiillerin; okul, yurt, hastane, kışla veya ibadethane gibi tedavi,
 eğitim, askerî ve sosyal amaçla toplu bulunulan bina ve tesisler ile bunların varsa çevre
 duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen sınırlarına iki yüz metreden
 yakın mesafe içindeki umumi veya umuma açık yerlerde işlenmesi,

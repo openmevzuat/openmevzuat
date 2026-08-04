@@ -1,4 +1,4 @@
-# MADDE 56 — Abone ve cihaz kimlik bilgilerinin güvenliği13
+# MADDE 56 — Abone ve cihaz kimlik bilgilerinin güvenliği15
 
 (1) Abone kimlik ve iletişim bilgilerini taşıyan özel bilgiler ile
 cihazların elektronik kimlik bilgilerini taşıyan her türlü yazılım, kart, araç veya gereç yetkisiz

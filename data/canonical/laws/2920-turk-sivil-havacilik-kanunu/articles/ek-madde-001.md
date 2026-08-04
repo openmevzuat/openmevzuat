@@ -30,12 +30,14 @@ Hurdaya ayrılan hava araçları, Sivil Havacılık Genel Müdürlüğünün ruh
 havaalanı işleticisi tarafından ayrıştırılmaksızın bütün donanımları ile birlikte açık artırma
 usulü ile satılarak, bedelden konma-konaklama bedeli alınmaksızın ilan, terkin ve satışa
 ilişkin masraflar düşüldükten sonra kalan bedel Genel Müdürlüğün emanet hesabına yatırılır.
+
+28 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu maddenin
+“Tüzük ve yönetmelikler” olan başlığı metne işlendiği şekilde; birinci fıkrasında yer alan “tüzük ve
+yönetmelikler bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde hazırlanır ve” ibaresi
+“yönetmelikler” şeklinde değiştirilmiştir.
 Hava araçları üzerinde bulunan ipotek, haciz ve mevcut takyidatlar bu bedel üzerinden devam
 eder. Alacakların tasfiyesinden sonra kalan miktar satıştan itibaren beş yıl içinde hak
 sahiplerinin müracaatları halinde ilgililerine iade edilir. Beş yıl içinde herhangi bir müracaatın
-
-yönetmelikler bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde hazırlanır ve” ibaresi
-“yönetmelikler” şeklinde değiştirilmiştir.
 olmaması halinde söz konusu bedel Genel Müdürlük bütçesine gelir kaydedilir. Gelir
 kaydedilen bu tutarların harcanacağı yerler Maliye Bakanlığının uygun görüşü üzerine Genel
 Müdürlük tarafından belirlenir.

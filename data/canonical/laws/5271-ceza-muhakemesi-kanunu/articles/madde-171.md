@@ -3,7 +3,7 @@
 (Değişik: 6/12/2006 – 5560/22 md.)
 (1) Cezayı kaldıran şahsî sebep olarak etkin pişmanlık hükümlerinin uygulanmasını
 
-65 8/7/2021 tarihli ve 7331 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “açıklanır.”
+64 8/7/2021 tarihli ve 7331 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “açıklanır.”
 ibaresi “açıklanır; yüklenen suçu oluşturan olaylar ve suçun delilleriyle ilgisi bulunmayan bilgilere
 yer verilmez.” şeklinde değiştirilmiştir.
 gerektiren koşulların ya da şahsî cezasızlık sebebinin varlığı halinde, Cumhuriyet savcısı
@@ -13,7 +13,7 @@ hariç olmak üzere, Cumhuriyet savcısı, üst sınırı üç yıl veya daha az
 gerektiren suçlardan dolayı, yeterli şüphenin varlığına rağmen, kamu davasının açılmasının
 beş yıl süre ile ertelenmesine karar verebilir. Suçtan zarar gören veya şüpheli, bu karara 173
 üncü madde hükümlerine göre itiraz edebilir.
-(3) Kamu davasının açılmasının ertelenmesine karar verilebilmesi için;66
+(3) Kamu davasının açılmasının ertelenmesine karar verilebilmesi için;65
 a) Şüphelinin daha önce kasıtlı bir suçtan dolayı hapis cezası ile mahkûm olmamış
 bulunması,
 b) Yapılan soruşturmanın, kamu davası açılmasının ertelenmesi halinde şüphelinin suç

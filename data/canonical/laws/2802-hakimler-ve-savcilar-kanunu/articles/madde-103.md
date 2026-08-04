@@ -1,10 +1,10 @@
 # MADDE 103
 
 (Değişik: 29/6/2006-5536/2 md.)
-Kıstas aylığı oluşturan her bir ödeme unsurunun;66
-a) (…)67 Yargıtay Başkanı, Danıştay Başkanı, Uyuşmazlık Mahkemesi Başkanı, Yargıtay
+Kıstas aylığı oluşturan her bir ödeme unsurunun;68
+a) (…)69 Yargıtay Başkanı, Danıştay Başkanı, Uyuşmazlık Mahkemesi Başkanı, Yargıtay
 Cumhuriyet Başsavcısı ve Danıştay Başsavcısına % 100'ü,
-b) (…)67 Yargıtay ve Danıştay Birinci Başkan Vekilleri, Yargıtay Cumhuriyet
+b) (…)69 Yargıtay ve Danıştay Birinci Başkan Vekilleri, Yargıtay Cumhuriyet
 Başsavcıvekili, Yargıtay ve Danıştay Daire Başkanları ile Adalet Bakanlığı Müsteşarına % 90’ı,
 c) Yargıtay ve Danıştay Üyelerine % 86’sı,
 ç) Birinci sınıf hâkim ve savcılara % 79'u,

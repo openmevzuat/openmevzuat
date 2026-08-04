@@ -32,10 +32,10 @@ halinde üçte bir oranında, birden fazla kişi tarafından işlenmesi halinde 
 altyapıların siber saldırılara karşı korunması kapsamında görevinin gereklerine aykırı hareket
 etmek suretiyle veri ihlali yaşanmasına sebebiyet verenlere bir yıldan üç yıla kadar hapis
 cezası verilir.
-(10) 7 nci maddenin birinci fıkrasının (b) ve (c) bentlerindeki görev ve sorumluluklarını
-yerine getirmeyenlere bir milyon Türk lirasından on milyon Türk lirasına kadar, 18 inci
-maddedeki görev ve sorumluluklarını yerine getirmeyenlere ise on milyon Türk lirasından yüz
-milyon Türk lirasına kadar idari para cezası verilir.
+(10) 7 nci maddenin birinci fıkrasının (a), (b) ve (c) bentlerindeki görev ve
+sorumluluklarını yerine getirmeyenlere bir milyon Türk lirasından on milyon Türk lirasına
+kadar, 18 inci maddedeki görev ve sorumluluklarını yerine getirmeyenlere ise on milyon Türk
+lirasından yüz milyon Türk lirasına kadar idari para cezası verilir.1
 (11) 8 inci maddenin dördüncü fıkrasındaki yükümlülüklerini yerine
 getirmeyenlere, yüzbin Türk lirasından bir milyon Türk lirasına kadar, bu yükümlülüklerin
 ticari şirketlerce yerine getirilmemesi halinde yüzbin Türk lirasından az olmamak üzere

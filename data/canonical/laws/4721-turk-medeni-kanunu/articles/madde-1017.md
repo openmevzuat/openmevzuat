@@ -3,6 +3,6 @@
 Kütüğe tesciller, istem tarihine ve sırasına göre yapılır.
 Sicildeki kaydın bir örneği isteyen ilgiliye verilir.
 Tescil ve terkin ile verilecek örneklerin şekli Cumhurbaşkanınca çıkarılan yönetmelikle
-belirlenir.46
+belirlenir.48
 
 2. Taşınmaz lehine irtifaklarda

@@ -53,7 +53,7 @@ ve desteklediği araştırma-geliştirme projeleri için gerekli olan mal ve hiz
 finansmanının tamamı Kanun kapsamındaki bir idare tarafından karşılanarak elde edilen
 sonuçların bu idare tarafından sadece kendi faaliyetlerinin yürütülmesinde faydalanıldığı haller
 hariç, her türlü araştırma ve geliştirme hizmeti alımları,
-g) 2 nci maddenin birinci fıkrasının (b) ve (d) bentlerinde sayılan kuruluşların, ticarî ve
+g) İdarelerin bütçe içi işletmeleri hariç 2 nci maddenin birinci fıkrasının (b) ve (d)
 
 4 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle; bu bentte yer alan “malzemeler” ibaresi
 “hizmetler” şeklinde değiştirilmiş, aynı bendin sonuna “ile araştırma-geliştirme faaliyetleri kapsamında
@@ -70,10 +70,11 @@ Sermaye İşletmeleri Genel Müdürlüğünden” ibaresi “Tasfiye İşleri D�
 Müdürlüğünden, sağlık alanında faaliyette bulunan idarelerin Türkiye Sağlık Enstitüleri Başkanlığı ile
 sermayesinin yarısından fazlası bu Başkanlığa ait şirketler tarafından sağlık alanında bizzat üretilen mal,
 hizmet ve danışmanlık hizmetleri için bu kuruluşlardan” şeklinde değiştirilmiştir.
-sınaî faaliyetleri çerçevesinde; doğrudan mal ve hizmet üretimine veya ana faaliyetlerine yönelik
-ihtiyaçlarının temini için yapacakları, Hazine garantisi veya doğrudan bütçenin transfer
-tertibinden aktarma yapmak suretiyle finanse edilenler dışındaki yaklaşık maliyeti ve sözleşme
-bedeli ikitrilyon üçyüzmilyar Türk Lirasını aşmayan mal veya hizmet alımları,7
+bentlerinde sayılan kuruluşların, ticarî ve sınaî faaliyetleri çerçevesinde; doğrudan mal ve hizmet
+üretimine veya ana faaliyetlerine yönelik ihtiyaçlarının temini için yapacakları, Hazine garantisi
+veya doğrudan bütçenin transfer tertibinden aktarma yapmak suretiyle finanse edilenler dışındaki
+yaklaşık maliyeti ve sözleşme bedeli ikitrilyon üçyüzmilyar Türk Lirasını aşmayan mal veya
+hizmet alımları,78
 h) Bu Kanun kapsamındaki idarelerin kendi özel mevzuatı uyarınca hak sahiplerine
 sağlayacakları teşhis ve tedaviye yönelik hizmet alımları ve 2/3/1927 tarihli ve 984 sayılı Ecza
 Ticarethaneleriyle Sanat ve Ziraat İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin
@@ -82,12 +83,12 @@ Müstahzarlar Kanunu kapsamında Sosyal Güvenlik Kurumu tarafından yurt dış�
 gerçekleştirilecek beşeri tıbbi ürün alımları ve bunlara ilişkin hizmet alımları ile tedavisi
 kurumlarınca üstlenilen kişilerin ayakta tedavisi sırasında reçeteye bağlanan ilaç ve tıbbî
 malzemelerin kişilerce alımları, sağlık hizmeti sunan bu Kanun kapsamındaki idarelerin teşhis ve
-tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları,89
+tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları,910
 i) (Ek: 14/7/2004-5226/21 md.) 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat
 Varlıklarını Koruma Kanunu kapsamındaki taşınır ve taşınmaz kültür varlıklarının rölöve,
 restorasyon, restitüsyon ve konservasyon projeleri, sokak sağlıklaştırma, çevre düzenleme
 projeleri ve bunların uygulamaları ile değerlendirme, muhafaza, nakil işleri ve kazı çalışmalarına
-ilişkin mal ve hizmet alımları,10
+ilişkin mal ve hizmet alımları,11
 j) (Ek: 3/3/2005-5312/25 md.) Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle
 Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun
 hükümleri kapsamında, acil müdahale plânlarının hazırlanması ve bir olay meydana geldikten
@@ -96,19 +97,21 @@ sonra kirliliğe müdahale ve acil müdahale plânlarının icrası için acil o
 7 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
-8 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle bu bendin sonuna “sağlık hizmeti sunan bu
+8 24/7/2026 tarihli ve 7590 sayılı Kanunun 12 nci maddesiyle bu bende “2 nci maddenin” ibaresinden
+önce gelmek üzere “İdarelerin bütçe içi işletmeleri hariç” ibaresi eklenmiştir.
+9 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle bu bendin sonuna “sağlık hizmeti sunan bu
 Kanun kapsamındaki idarelerin teşhis ve tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet
 alımları,” ibaresi eklenmiştir.
-9 9/1/2025 tarihli ve 7538 sayılı Kanunun 3 üncü maddesiyle bu bende “tedaviye yönelik hizmet alımları”
+10 9/1/2025 tarihli ve 7538 sayılı Kanunun 3 üncü maddesiyle bu bende “tedaviye yönelik hizmet alımları”
 ibaresinden sonra gelmek üzere “ve 2/3/1927 tarihli ve 984 sayılı Ecza Ticarethaneleriyle Sanat ve Ziraat
 İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin Satıldığı Dükkanlara Mahsus Kanun ile
 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanunu kapsamında Sosyal Güvenlik
 Kurumu tarafından yurt dışından gerçekleştirilecek beşeri tıbbi ürün alımları ve bunlara ilişkin hizmet
 alımları” ibaresi eklenmiştir.
-10 28/12/2010 tarihli ve 6093 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “kapsamındaki”
+11 28/12/2010 tarihli ve 6093 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “kapsamındaki”
 ibaresinden sonra gelmek üzere “taşınır ve taşınmaz” ibaresi ve “restitüsyon” ibaresinden sonra gelmek
 üzere “ ve konservasyon” ibaresi eklenmiştir.
-hizmet alımı ile araç, gereç ve malzeme alımı,11 (İptal ibare: Anayasa Mahkemesi’nin
+hizmet alımı ile araç, gereç ve malzeme alımı,12 (İptal ibare: Anayasa Mahkemesi’nin
 16/2/2023 tarihli ve E: 2021/27, K: 2023/26 sayılı Kararı ile.) (…)
 k) (Ek: 20/2/2008-5737/79 md.) Vakıf kültür varlıklarının onarımları ve restorasyonları
 ile çevre düzenlemesine ilişkin mal veya hizmet alımları,
@@ -123,7 +126,7 @@ program, haber, yapım ve yayınlarla ilgili olarak Anadolu Ajansı Türk Anonim
 yapacağı mal ve hizmet alımları ile uluslararası mükellefiyetlerden doğan veya ulusal amaçlı;
 savunma, güvenlik, insani yardım gibi durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve
 etkin bir biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan anlaşmalar
-veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,12
+veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,13
 o) (Ek: 25/6/2009-5917/31 md.; Değişik: 4/6/2016-6719/11 md.) Enerji ve Tabii
 Kaynaklar Bakanlığının bağlı, ilgili veya ilişkili kurum veya kuruluşlarının, faaliyetleri ile ilgili
 olarak birbirlerinden veya diğer kamu kurum ve kuruluşlarından karşılanan enerji, yakıt, mal,
@@ -131,22 +134,22 @@ hizmet, danışmanlık alımları ve büyük onarım işleri, TETAŞ tarafından
 elektrik enerjisi alımları,
 p) (Ek: 22/2/2007-5583/9 md.; Değişik: 3/6/2011-KHK-638/31 md.) Gençlik ve Spor
 Bakanlığının uluslararası gençlik faaliyetleri ile Spor Genel Müdürlüğü ve bağımsız spor
-federasyonlarının ulusal ve uluslararası sportif faaliyetlerine ilişkin mal ve hizmet alımları,13
+federasyonlarının ulusal ve uluslararası sportif faaliyetlerine ilişkin mal ve hizmet alımları,14
 r) (Ek: 13/2/2011-6111/177 md.) Fakir ailelere kömür yardımı yapılmasına ilişkin
 Cumhurbaşkanı kararları kapsamında; işleticisi kim olursa olsun, Türkiye Kömür İşletmeleri
 Kurumu Genel Müdürlüğünün kendisine veya bağlı ortaklık veya iştiraklerine ait olan kömür
-sahalarından yapacağı mal ve hizmet alımları,14
+sahalarından yapacağı mal ve hizmet alımları,15
 
-11 24/12/2020 tarihli ve 7261 sayılı Kanunun 28 inci maddesiyle bu bende “depozito yönetim sisteminin
+12 24/12/2020 tarihli ve 7261 sayılı Kanunun 28 inci maddesiyle bu bende “depozito yönetim sisteminin
 kurulması ve işletilmesi faaliyetlerine ilişkin olarak Türkiye Çevre Ajansının yapacağı mal ve hizmet
 alımları,” ibaresi eklenmiştir.
-12 27/3/2015 tarihli ve 6637 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Türk Hava Yolları
+13 27/3/2015 tarihli ve 6637 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Türk Hava Yolları
 Anonim Ortaklığından yapılacak hizmet alımları” ibaresinden sonra gelmek üzere “, Türkiye Radyo-
 Televizyon Kurumu Genel Müdürlüğünün her türlü program, haber, yapım ve yayınlarla ilgili olarak
 Anadolu Ajansı Türk Anonim Şirketinden yapacağı mal ve hizmet alımları” ibaresi eklenmiştir.
-13 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen “(k)” bendi, 13/2/2011 tarihli ve
+14 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen “(k)” bendi, 13/2/2011 tarihli ve
 6111 sayılı Kanunun 177 nci maddesi ile “(p)” bendi olarak teselsül ettirilmiştir.
-14 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulu
+15 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulu
 kararnameleri” ibaresi “Cumhurbaşkanı kararları” şeklinde değiştirilmiştir.
 s) (Ek: 31/3/2012-6288/5 md.; Değişik: 24/4/2013-6461/10 md.) Türkiye Cumhuriyeti
 Devlet Demiryolları İşletmesi Genel Müdürlüğü ile Türkiye Cumhuriyeti Devlet Demiryolları

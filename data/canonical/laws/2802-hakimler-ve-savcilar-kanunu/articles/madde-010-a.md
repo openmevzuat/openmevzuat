@@ -24,11 +24,6 @@ g) Mevzuatta belirtilen diğer görevler ile savcı tarafından verilen benzeri 
 getirmek.
 Münhasıran hâkim veya savcı tarafından yapılması gereken iş ve işlemler, hâkim ve
 savcı yardımcısı tarafından yapılamaz.
-
-25 Anayasa Mahkemesinin 10/7/2025 tarihli ve E.: 2022/107; K.: 2025/146 sayılı Kararı ile bu fıkrada
-yer alan “Türkiye Adalet Akademisince çıkarılacak” ibaresinden sonra gelen “…yönetmelikle…”
-ibaresi iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
-(9/9/2026) yürürlüğe gireceği hüküm altına alınmıştır.
 Hâkim ve savcı yardımcısının yetiştirilmesi ve mesleki deneyim ve beceri kazanması
 amacıyla gerekli görülen uygulamalar, hâkim ve savcının nezaretinde yaptırılabilir.
 Hâkim ve savcı yardımcılarının görev yaptığı yargı mercilerinde çalışan personel,
@@ -36,4 +31,7 @@ görevleriyle ilgili olarak hâkim ve savcı yardımcılarına karşı sorumludu
 Hâkim ve savcı yardımcılarının yargı mercilerindeki görev ve yetkileri ile çalışma usul ve
 esasları ve bu maddenin uygulanmasına ilişkin diğer hususlar Yargıtay ve Danıştay ile Hâkimler
 ve Savcılar Kurulunun görüşü alınarak Adalet Bakanlığınca çıkarılan yönetmelikle düzenlenir.
+
+sınavlara ilişkin diğer hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.”
+şeklinde değiştirilmiştir.
 Hâkim ve savcı yardımcıları hakkında düzenlenecek formlar:

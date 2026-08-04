@@ -24,9 +24,6 @@ maddeye göre belirlenen prime esas kazançları üzerinden 81 inci madde gereğ
 uzun vadeli sigorta kolları ile genel sağlık sigortasına ait prim alınır. Bunlardan işten ayrılarak
 yeniden malûllük aylığı bağlanması için yazılı istekte bulunan ya da emekliye ayrılan veya
 sevkedilenlere; kontrol muayenesine tabi tutulmak ve ilk aylığına esas malûllüğünün devam
-
-44 17/4/2008 tarihli ve 5754 sayılı Kanunun 14 üncü maddesiyle; bu fıkrada yer alan “prim ve her
-türlü borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
 ettiği anlaşılmak kaydıyla, 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında
 çalışıyorsa görevinden ayrıldığı tarihi, diğerlerine ise istek tarihlerini takip eden ödeme
 döneminden itibaren yeniden malûllük aylığı hesaplanarak bağlanır.

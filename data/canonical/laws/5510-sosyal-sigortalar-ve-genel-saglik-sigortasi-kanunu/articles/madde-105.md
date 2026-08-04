@@ -1,4 +1,4 @@
-# MADDE 105 — Uygulanmayacak hükümler186
+# MADDE 105 — Uygulanmayacak hükümler187
 
 (Değişik: 17/4/2008-5754/63 md.)
 21/4/2005 tarihli ve 5335 sayılı Kanunun 30 uncu maddesi, 26/10/1990 tarihli ve 3671

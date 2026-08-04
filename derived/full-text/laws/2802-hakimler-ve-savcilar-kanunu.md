@@ -17,6 +17,13 @@ b) (…)3, Yargıtay ve Danıştay Başkan ve üyelerinin aylık ve ödenekleri 
 sosyal hak ve yardımlarını,
 Düzenlemektir.
 
+Kapsam:
+
+MADDE 2
+
+Bu Kanun, adli yargı hakim ve Cumhuriyet savcıları ile idari yargı hakim
+ve savcıları hakkında uygulanır.
+
 1 12/2/1989 tarihli ve 360 sayılı KHK‘nin Geçici Maddesi ile 2802 sayılı Hakimler ve Savcılar Kanunu ve bu Kanuna
 ekli (1) sayılı cetvel ile diğer kanunlarda yer alan Cumhuriyet savcılığı ünvanı, il ve ilçe Cumhuriyet başsavcılığı;
 Cumhuriyet savcı yardımcılığı ünvanı, Cumhuriyet savcılığı; Yargıtay Cumhuriyet Başsavcı yardımcılığı ünvanı,
@@ -32,12 +39,6 @@ Kanunun 394/a maddesinde belirtilen suçları soruşturmak ve kovuşturmakla gö
 olarak uygulanacağını hüküm altına almıştır.
 3 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu bentte yer alan “Anayasa Mahkemesi” ibaresi
 madde metninden çıkarılmıştır.
-Kapsam:
-
-MADDE 2
-
-Bu Kanun, adli yargı hakim ve Cumhuriyet savcıları ile idari yargı hakim
-ve savcıları hakkında uygulanır.
 (…)4, Yargıtay ve Danıştay Başkan ve üyeleri de 1 inci maddenin (b) bendinde sayılan
 özlük hakları bakımından bu Kanun hükümlerine tabidirler.
 
@@ -340,6 +341,11 @@ döneminde adli yargı hâkim ve savcı yardımcıları, adli yargı teşkilatı
 imkânlar ölçüsünde kendi istekleri göz önünde bulundurulmak ve Hâkimler ve Savcılar
 Kurulunun görüşü alınmak suretiyle, Adalet Bakanlığınca hâkimliğe veya savcılığa atanacak
 şekilde ayrılır.
+(Ek fıkra:16/7/2026-7589/8 md.) Adli yargı hâkim ve savcı yardımcıları ile idari
+yargı hâkim yardımcılarına ilgisine göre; Anayasa ve insan hakları hukuku, ceza hukuku, özel
+hukuk, idare hukuku, vergi hukuku ve usul hukuku alanları ile duruşma yönetimi, karar ve
+gerekçeli karar yazımı, adalet hizmetlerinin yönetimi ve denetimi, uluslararası kuruluşlar ve
+sözleşmeler, sık karşılaşılan davalar ve kişisel gelişim konularında eğitim verilir.
 Hâkim ve savcı yardımcıları, temel eğitim döneminin sonunda yazılı sınava tabi
 tutulur ve aldıkları puana göre en yüksek puandan başlamak üzere ayrı ayrı sıralanır. Eşitlik
 hâlinde hâkim ve savcı yardımcılığı yazılı yarışma sınavında puanı yüksek olana öncelik
@@ -374,17 +380,40 @@ sınav sonucuna göre de yazılı sınavlar nihai puanının yetmiş ve üzerind
 kalmayanların, hâkim ve savcı yardımcılıklarına Adalet Bakanlığınca son verilir.
 Son yazılı sınav puanı ile yazılı sınavlar nihai puanı en az yetmiş olmayanlar, en geç
 iki ay içinde yeniden son yazılı sınava alınır. Bu sınav sonucuna göre de başarılı olamayanlar
-hakkında onaltıncı fıkra hükümleri uygulanır.
+hakkında ondokuzuncu fıkra hükümleri uygulanır.25
 Hâkim ve savcı yardımcılığı sonunda başarılı sayılmak için yazılı sınavlar nihai
 puanının %50’si, sözlü sınav puanının %25’i ile görev ve eğitim dönemlerinde verilen puanların
 aritmetik ortalamasının %25’inin toplamının en az yetmiş olması şarttır.
 Yazılı sınavlar; hâkim ve savcı yardımcılarına ders verenler arasından Türkiye Adalet
 Akademisi Başkanınca seçilen başkan ile dört asıl ve iki yedek üyeden oluşan yazılı sınav
 kurulu tarafından yapılır.
+(Ek fıkra:16/7/2026-7589/8 md.) Yazılı sınavlarda eğitim verilen konulardan soru
+sorulur. Sınavlar, yüz tam puan üzerinden değerlendirilir. Mazereti sebebiyle yazılı sınavlara
+
+25 16/7/2026 tarihli ve 7589 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “onaltıncı” ibaresi
+“ondokuzuncu” şeklinde değiştirilmiştir.
+katılamayan hâkim ve savcı yardımcıları, mazeretlerinin ortadan kalktığı günden itibaren
+durumlarını en geç beş iş günü içinde Türkiye Adalet Akademisine bildirir. Yazılı sınav
+kurulunca mazereti haklı görülenlerin yazılı sınavı, Akademi tarafından belirlenen tarihte
+yapılır. Yazılı sınav sonuçları, yazılı sınav kurulunca tutanağa bağlanır ve Akademiye teslim
+edilir.
 Sözlü sınav; Türkiye Adalet Akademisi Başkanının başkanlığında, Teftiş Kurulu
 Başkanı ve Personel Genel Müdürü ile hâkim ve savcı yardımcılarına ders verenler arasından
 ilgili bakan yardımcısınca seçilen iki asıl ve bir yedek üyeden oluşan sözlü sınav kurulu
 tarafından yapılır.
+(Ek fıkra:16/7/2026-7589/8 md.) Sözlü sınavda hâkim ve savcı yardımcısının;
+a) Eğitim konularına ilişkin mevzuat, içtihat ve uygulama bilgisi,
+b) Mesleki yeterliliği, hukuki meseleleri kavrama, çözme ve ifade etme yeteneği,
+c) Özgüveni, temsil kabiliyeti ve davranışlarının mesleğe uygunluğu,
+ç) Türkçeyi etkin bir şekilde kullanma becerisi ile genel kültür ve yetenek düzeyi,
+değerlendirilir. Sözlü sınav, bu fıkrada belirtilen hususların her biri yirmibeşer puan
+üzerinden değerlendirilerek yapılır. Sözlü sınav kurulunun her bir üyesi tarafından verilen
+puanlar ayrı ayrı tutanağa geçirilir. Sözlü sınav puanı, üyelerin yüz üzerinden verdikleri
+puanların aritmetik ortalamasıdır. Sözlü sınav sonuçları, sözlü sınav kurulunca tutanağa
+bağlanır ve Akademiye teslim edilir. Mazereti sebebiyle sözlü sınava katılamayan hâkim ve
+savcı yardımcıları, mazeretlerinin ortadan kalktığı günden itibaren durumlarını en geç beş iş
+günü içinde Türkiye Adalet Akademisine bildirir. Sözlü sınav kurulunca mazereti haklı
+görülenlerin sözlü sınavı, Akademi tarafından belirlenen tarihte yapılır.
 Hâkim ve savcı yardımcılığı sonunda başarılı olamayanlar, talepleri hâlinde Adalet
 Bakanlığınca merkez veya taşra teşkilatında genel idare hizmetleri sınıfında bir kadroya
 atanabilir, aksi hâlde bunların hâkim ve savcı yardımcılığına Adalet Bakanlığınca son verilir.
@@ -398,8 +427,11 @@ Cumhuriyet savcılığına atanacak şekilde ayrılması, görev yerlerinin tesp
 savcıların belirlenmesi ve görevleri ile bu maddenin uygulanmasına ilişkin diğer hususlar
 Hâkimler ve Savcılar Kurulunun görüşü; görev döneminin Yargıtay ve Danıştayda geçirilmesine
 ilişkin hususlar ise Yargıtay ve Danıştayın görüşleri alınmak suretiyle Adalet Bakanlığınca
-çıkarılacak yönetmelikle; eğitimlerin uygulama esasları ile yazılı ve sözlü sınavlara ilişkin
-hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.25
+çıkarılacak yönetmelikle; eğitimlerin uygulama esasları ile yazılı ve sözlü sınavlara ilişkin diğer
+hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.26
+
+26 16/7/2026 tarihli ve 7589 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “sözlü sınavlara
+ilişkin hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.” ibaresi “sözlü
 
 Hâkim ve savcı yardımcısının görev ve yetkileri:
 
@@ -429,11 +461,6 @@ g) Mevzuatta belirtilen diğer görevler ile savcı tarafından verilen benzeri 
 getirmek.
 Münhasıran hâkim veya savcı tarafından yapılması gereken iş ve işlemler, hâkim ve
 savcı yardımcısı tarafından yapılamaz.
-
-25 Anayasa Mahkemesinin 10/7/2025 tarihli ve E.: 2022/107; K.: 2025/146 sayılı Kararı ile bu fıkrada
-yer alan “Türkiye Adalet Akademisince çıkarılacak” ibaresinden sonra gelen “…yönetmelikle…”
-ibaresi iptal edilmiştir. Kararın Resmî Gazete’de yayımlanmasından başlayarak dokuz ay sonra
-(9/9/2026) yürürlüğe gireceği hüküm altına alınmıştır.
 Hâkim ve savcı yardımcısının yetiştirilmesi ve mesleki deneyim ve beceri kazanması
 amacıyla gerekli görülen uygulamalar, hâkim ve savcının nezaretinde yaptırılabilir.
 Hâkim ve savcı yardımcılarının görev yaptığı yargı mercilerinde çalışan personel,
@@ -441,6 +468,9 @@ görevleriyle ilgili olarak hâkim ve savcı yardımcılarına karşı sorumludu
 Hâkim ve savcı yardımcılarının yargı mercilerindeki görev ve yetkileri ile çalışma usul ve
 esasları ve bu maddenin uygulanmasına ilişkin diğer hususlar Yargıtay ve Danıştay ile Hâkimler
 ve Savcılar Kurulunun görüşü alınarak Adalet Bakanlığınca çıkarılan yönetmelikle düzenlenir.
+
+sınavlara ilişkin diğer hususlar Türkiye Adalet Akademisince çıkarılacak yönetmelikle düzenlenir.”
+şeklinde değiştirilmiştir.
 Hâkim ve savcı yardımcıları hakkında düzenlenecek formlar:
 
 MADDE 11
@@ -461,7 +491,7 @@ Değerlendirme formunun şekli ve içeriği ile bu maddenin uygulanmasına iliş
 hususlar yüksek mahkemeler ve Hâkimler ve Savcılar Kurulu ile Türkiye Adalet Akademisinin
 görüşü alınmak suretiyle Adalet Bakanlığınca çıkarılan yönetmelikle düzenlenir.
 
-MADDE 12 — Hâkim ve savcı yardımcılığı süresi içinde göreve son verme:26
+MADDE 12 — Hâkim ve savcı yardımcılığı süresi içinde göreve son verme:27
 
 Hâkim ve savcı yardımcısının;
 a) Hâkim ve savcı yardımcılığına atanma niteliklerinden herhangi birini taşımadığının
@@ -476,17 +506,17 @@ son verilenlerden takipsizlik kararı veya son soruşturmanın açılmasına yer
 karar veya beraat hükmü verilenler, Kanunda belirtilen niteliklere sahip olmaları koşuluyla
 yeniden hâkim ve savcı yardımcılığına alınabilirler.
 
-Atama:2728
+Atama:2829
 
-26 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin başlığında yer alan “Adaylık”
+27 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin başlığında yer alan “Adaylık”
 ibaresi “Hâkim ve savcı yardımcılığı” şeklinde; birinci fıkrasında yer alan “Adayın;” ibaresi “Hâkim ve savcı
 yardımcısının;” şeklinde, “adaylığına” ibaresi “hâkim ve savcı yardımcılığına” şeklinde; birinci fıkrasının (a)
 ve (b) bentlerinde yer alan “Adaylığa” ibareleri “Hâkim ve savcı yardımcılığına”, (c) bendinde yer alan
 “Adaylık” ibaresi “Hâkim ve savcı yardımcılığı” şeklinde; ikinci fıkrasında yer alan “adaylıklarına” ve
 “adaylığa” ibareleri “hâkim ve savcı yardımcılığına” şeklinde değiştirilmiştir.
-27 1/7/2016 tarihli ve 6723 sayılı Kanunun 23 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “yazılı
+28 1/7/2016 tarihli ve 6723 sayılı Kanunun 23 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan “yazılı
 sınavda” ibaresi “yapılan yazılı ve sözlü sınav neticesinde” şeklinde değiştirilmiştir.
-28 23/6/2022 tarihli ve 7413 sayılı Kanunun 4 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Meslek
+29 23/6/2022 tarihli ve 7413 sayılı Kanunun 4 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “Meslek
 öncesi eğitim sonunda yapılan yazılı ve sözlü sınav neticesinde” ibaresi “Hâkim ve savcı yardımcılığı süresi sonunda”
 şeklinde ve “adayların” ibaresi “hâkim ve savcı yardımcılarının” şeklinde değiştirilmiş; ikinci fıkrasında yer alan
 “adayların,” ibaresi “hâkim ve savcı yardımcılarının,” şeklinde, “adlî yargı adayları” ibaresi “adlî yargı hâkim ve
@@ -524,7 +554,7 @@ atananların askerlikte geçen süreleri kademe ilerlemesi ve derece yükselmesi
 
 İKİNCİ BÖLÜM
 Hakimliğin ve Savcılığın Sınıf ve Dereceleri
-Sınıflar ve kıdem:29
+Sınıflar ve kıdem:30
 
 MADDE 15
 
@@ -540,7 +570,7 @@ maddenin ikinci fıkrasına göre hâkim ve savcı yardımcılığına diğer ka
 ettikleri derece ve kademe üzerinden atananların, bu derece ve kademeleri ile o görevlerde
 geçen süreleri dikkate alınmaz.
 
-29 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin üçüncü ve dördüncü fıkralarında
+30 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin üçüncü ve dördüncü fıkralarında
 yer alan “adaylığa” ibareleri “hâkim ve savcı yardımcılığına” şeklinde ve dördüncü fıkrasında yer alan
 “meslek öncesi eğitim sonu yazılı sınav puanı” ibaresi “hâkim ve savcı yardımcılığı sonu başarı puanı” şeklinde
 değiştirilmiştir.
@@ -583,7 +613,7 @@ MADDE 19
 
 Hakimlik ve savcılık mesleğinde bulunanların bulundukları derecenin
 kademelerinde ilerleyebilmeleri için;
-a) Bulundukları kademede en az bir yıl çalışmış olmaları veya çalışmış sayılmaları,30
+a) Bulundukları kademede en az bir yıl çalışmış olmaları veya çalışmış sayılmaları,31
 b) (Değişik: 22/12/2005 - 5345/7 md.) Kademe ilerlemesine engel kesinleşmiş mahkeme
 hükmü veya disiplin cezasının bulunmaması,
 c) (Mülga: 11/9/1987 – KHK 276/13 md.; Aynen Kabul:24/2/1988 – 3409/13 md.)
@@ -596,7 +626,7 @@ MADDE 20
 (Değişik: 11/9/1987 – KHK 276/9 md.; Aynen Kabul: 24/2/1988 –
 3409/9 md.)
 
-30 22/12/2005 tarihli ve 5435 sayılı Kanunun 7 nci maddesiyle bu bente "veya çalışmış sayılmaları," ibaresi
+31 22/12/2005 tarihli ve 5435 sayılı Kanunun 7 nci maddesiyle bu bente "veya çalışmış sayılmaları," ibaresi
 eklenmiştir.
 19 uncu maddedeki şartları haiz olanlar, bir yıllık ilerleme süresini doldurdukları tarihte,
 başka bir işleme gerek olmaksızın bir ileri kademeye ilerlemiş sayılırlar ve keyfiyet Personel
@@ -621,7 +651,7 @@ devamları, üst merciler ve müfettişlerce haklarında düzenlenen hâl kâğ�
 kanun yolu incelemesinden geçen işleri, kanun yolu değerlendirme formları, örnek karar ve
 mütalâaları ve varsa meslekî eser ve yazıları ile katıldıkları meslek içi ve uzmanlık eğitimleri
 göz önünde tutularak Hâkimler ve Savcılar Yüksek Kurulunca ilân edilen derece yükselme
-ilkelerinde aranan koşulları taşımaları,313233
+ilkelerinde aranan koşulları taşımaları,323334
 Gerekir.
 
 Derece yükselmesinde listelerin yayımı:
@@ -639,12 +669,12 @@ Kurul, başvurunun süresi içinde yapılmadığını veya haklı olmadığını
 karar verir. İlgili bu karar aleyhine tebliğden itibaren on gün içinde İtirazları İnceleme Kuruluna
 itiraz edebilir.
 
-31 31/3/2011 tarihli ve 6217 sayılı Kanunun 18 inci maddesiyle, bu bentte yer alan “iş sayısı ve bu inceleme
+32 31/3/2011 tarihli ve 6217 sayılı Kanunun 18 inci maddesiyle, bu bentte yer alan “iş sayısı ve bu inceleme
 üzerine verilen notları” ibaresi “işleri” şeklinde değiştirilmiştir.
-32 17/4/2013 tarihli ve 6460 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “çıkardıkları işlerin miktar ve
+33 17/4/2013 tarihli ve 6460 sayılı Kanunun 6 ncı maddesiyle, bu bentte yer alan “çıkardıkları işlerin miktar ve
 mahiyetleri,” ibaresinden sonra gelmek üzere “alternatif uyuşmazlık çözüm yöntemlerinin uygulanmasına ilişkin
 çalışmaları,” ibaresi eklenmiştir.
-33 1/7/2016 tarihli ve 6723 sayılı Kanunun 24 üncü maddesiyle, bu bentte yer alan “geçen işleri,” ibaresinden
+34 1/7/2016 tarihli ve 6723 sayılı Kanunun 24 üncü maddesiyle, bu bentte yer alan “geçen işleri,” ibaresinden
 sonra gelmek üzere “kanun yolu değerlendirme formları,” ibaresi eklenmiştir.
 Başvuru veya itirazın kabulü halinde ilgililerin adları, birinci fıkradaki süre kaydına
 bakılmaksızın Resmi Gazete’de ait olduğu listeye ek olarak yayımlanır.
@@ -679,7 +709,7 @@ Adalet müfettişleri, denetimleri sırasında inceledikleri belgelere ve
 gözlemlerine dayanarak hakim ve savcılar hakkında düzenleyecekleri hal kağıtlarını ilgilinin
 gizli sicil dosyasına konulmak üzere Teftiş Kurulu Başkanlığına gönderirler.
 
-MADDE 25 — Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında bulunanlar:34
+MADDE 25 — Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında bulunanlar:35
 
 (Değişik: 22/12/2005 - 5435/10 md.)
 Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında bulunanlardan birinci sınıf
@@ -694,7 +724,7 @@ Yargıtay ve Danıştayda görev yapanlardan birinci sınıf olmayanlar hakkınd
 ilgisine göre Yargıtay Birinci Başkanı, Danıştay Başkanı, daire veya kurul başkanları, Yargıtay
 Cumhuriyet Başsavcısı veya Danıştay Başsavcısı tarafından düzenlenir.
 
-34 22/12/2005 tarihli ve 5435 sayılı Kanunun 10 uncu maddesiyle bu madde başlığı "Bakanlık merkez kuruluşu
+35 22/12/2005 tarihli ve 5435 sayılı Kanunun 10 uncu maddesiyle bu madde başlığı "Bakanlık merkez kuruluşu
 hizmetinde bulunanlar:" iken metne işlendiği şekilde değiştirilmiştir.
 Eserler:
 
@@ -706,7 +736,7 @@ Alınan bu eser ve yazılar ilgilinin siciline işlenerek özlük dosyasına kon
 kademe ilerlemesi ve derece yükselmesi ile birinci sınıfa ayırmada, Hakimler ve Savcılar Yüksek
 Kurulunca değerlendirmeye tabi tutulur.
 
-MADDE 28 — Kanun yolu değerlendirme formu:35
+MADDE 28 — Kanun yolu değerlendirme formu:36
 
 (Mülga: 31/3/2011-6217/31 md.; Yeniden düzenleme: 1/7/2016 –
 6723/25 md.)
@@ -740,7 +770,7 @@ incelemesi sonucu düzenlenen değerlendirme formu ile temyiz incelemesi sonucu 
 değerlendirme formu arasında çelişki bulunması hâlinde temyiz mercilerince düzenlenen
 değerlendirme formu esas alınır.
 
-35 1/7/2016 tarihli ve 6723 sayılı Kanunun 25 inci maddesiyle bu madde başlığı ‘‘Yargıtay, Danıştay ile bölge
+36 1/7/2016 tarihli ve 6723 sayılı Kanunun 25 inci maddesiyle bu madde başlığı ‘‘Yargıtay, Danıştay ile bölge
 adliye ve bölge idare mahkemeleri notları’’ iken metne işlendiği şekilde yeniden düzenlenmiştir.
 Değerlendirme formu, kararı inceleyen heyetin başkanı tarafından düzenlenir. Hakkında
 değerlendirme formu düzenlenenler, formun Ulusal Yargı Ağı Bilişim Sistemi (UYAP)’ne
@@ -794,7 +824,7 @@ ilerlemesi döneminde kesinleşmiş ve uygulanmış ise, derece yükselmesi ince
 bir daha dikkate alınmaz.
 (Mülga dördüncü fıkra: 22/12/2005 - 5435/43 md.)
 
-MADDE 31 — Lisans üstü öğrenim ve uzmanlık eğitimi:36
+MADDE 31 — Lisans üstü öğrenim ve uzmanlık eğitimi:37
 
 (Değişik : 22/12/2005 - 5435/14 md.)
 Meslekleriyle ilgili konularda yüksek lisans veya doktora öğrenimi yapmak isteyenlerle
@@ -819,9 +849,9 @@ programlarında başarı ile geçirilen süreler, iki yılı aşmamak üzere, ka
 yükselmesi incelemesinde değerlendirilir. Bu uygulamada alt derece ve kademede geçen süre,
 üst derece ve kademede geçmiş sayılır.
 Hâkim ve savcı yardımcısı iken öğrenime başlayanlar hâkimlik veya savcılığa
-atandıktan sonra bu madde hükümlerine göre öğrenimlerine devam edebilirler.37
+atandıktan sonra bu madde hükümlerine göre öğrenimlerine devam edebilirler.38
 
-DÖRDÜNCÜ BÖLÜM38
+DÖRDÜNCÜ BÖLÜM39
 Birinci Sınıfa Ayrılma Koşul ve Yöntemleri ile
 Birinci Sınıf Hâkim ve Savcıların Çalışmalarının Değerlendirilmesi
 Birinci sınıfa ayrılma koşulları:
@@ -830,11 +860,11 @@ MADDE 32
 
 Birinci sınıfa ayrılabilmek için:
 
-36 22/12/2005 tarihli ve 5435 sayılı Kanunun 14 üncü maddesiyle bu madde başlığı " Lisansüstü öğrenim yapmış
+37 22/12/2005 tarihli ve 5435 sayılı Kanunun 14 üncü maddesiyle bu madde başlığı " Lisansüstü öğrenim yapmış
 olanlar:" iken; metne işlendiği şekilde değiştirilmiştir.
-37 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Aday” ibaresi “Hâkim ve
+38 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “Aday” ibaresi “Hâkim ve
 savcı yardımcısı” şeklinde değiştirilmiştir.
-38 22/12/2005 tarihli ve 5435 sayılı Kanunun 15 inci maddesiyle bu bölümün başlığı " Birinci Sınıfa Ayrılma Koşul ve
+39 22/12/2005 tarihli ve 5435 sayılı Kanunun 15 inci maddesiyle bu bölümün başlığı " Birinci Sınıfa Ayrılma Koşul ve
 Yöntemleri" iken metne işlendiği şekilde değiştirilmiştir.
 a) Birinci dereceye yükselmek,
 b) (Değişik: 9/3/1995 – 4087/1 md.) Hakimlik ve savcılık mesleğinde on yılını doldurmak,
@@ -855,14 +885,14 @@ düzenlenen uzmanlık eğitim programını başarıyla bitirenler için dokuz, m
 yeterli sayılır. Ayrıca fiilen avukatlıkta geçen sürenin üçte ikisi, hâkim ve savcı yardımcılarının
 yardımcılık süresini aşan süreleri, avukatlık stajının üçte ikisi ve askerlik hizmetinde geçen
 sürenin yarısı, birinci sınıfa ayrılmaya esas sürenin hesabında dikkate alınır. Ancak birinci sınıfa
-ayrılabilmek için her halde meslekte fiilen üç terfi dönemi çalışmak zorunludur.39
+ayrılabilmek için her halde meslekte fiilen üç terfi dönemi çalışmak zorunludur.40
 Birinci sınıfa ayrılma incelemesine tabi tutulacaklar hakkında 22 nci maddenin; listelerin
 yayımı, yeniden inceleme ve itiraza ilişkin hükümleri uygulanır.
 (Ek fıkra: 22/12/2005 - 5435/15 md.) Birinci sınıfa ayrılma koşul ve yöntemlerine dair
 ilkeler, Kanunda belirtilen esaslar doğrultusunda Hâkimler ve Savcılar Yüksek Kurulunca tespit
 edilerek, Resmî Gazetede yayımlanır.
 
-MADDE 33 — Birinci sınıf hâkim ve savcıların çalışmalarının değerlendirilmesi:40
+MADDE 33 — Birinci sınıf hâkim ve savcıların çalışmalarının değerlendirilmesi:41
 
 (Değişik : 22/12/2005 - 5435/16 md.)
 Birinci sınıf olan hâkim ve savcıların başarılı olup olmadıkları; müfettiş hâl kâğıtları,
@@ -870,14 +900,14 @@ alternatif uyuşmazlık çözüm yöntemlerine ilişkin uygulamayı da kapsayaca
 cetvelleri, kanun yolu incelemesinden geçen işleri, kanun yolu değerlendirme formları ile
 varsa meslekî ve akademik konulardaki faaliyetlerine ilişkin diğer bilgi ve belgeler dikkate
 alınarak, üç yılda bir Hâkimler ve Savcılar Yüksek Kurulunca değerlendirilmesi suretiyle
-tespit edilir.414243
+tespit edilir.424344
 
-39 23/6/2022 tarihli ve 7413 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “adaylarının 4954 sayılı
+40 23/6/2022 tarihli ve 7413 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “adaylarının 4954 sayılı
 Kanunda belirtilen staj dönemlerini aşan adaylık süreleri,” ibaresi “yardımcılarının yardımcılık süresini aşan
 süreleri,” şeklinde değiştirilmiştir.
-40 22/12/2005 tarihli ve 5435 sayılı Kanunun 16 ncı maddesiyle bu madde başlığı " İlke kararı:" iken metne işlendiği
+41 22/12/2005 tarihli ve 5435 sayılı Kanunun 16 ncı maddesiyle bu madde başlığı " İlke kararı:" iken metne işlendiği
 şekilde değiştirilmiştir.
-41 31/3/2011 tarihli ve 6217 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “not oranları” ibaresi
+42 31/3/2011 tarihli ve 6217 sayılı Kanunun 18 inci maddesiyle, bu fıkrada yer alan “not oranları” ibaresi
 “kanun yolu incelemesinden geçen işleri” şeklinde değiştirilmiştir.
 Birinci sınıf olan hâkim ve savcıların çalışmalarının değerlendirilmesine dair ilkeler,
 Kanunda belirtilen esaslar doğrultusunda Hâkimler ve Savcılar Yüksek Kurulunca tespit
@@ -885,7 +915,7 @@ edilerek Resmî Gazetede yayımlanır.
 
 BEŞİNCİ BÖLÜM
 Eşitlik ve Yer Değiştirme
-Eşitlik:44
+Eşitlik:45
 
 MADDE 34
 
@@ -921,11 +951,11 @@ bölgedeki görev süresini doldurup doldurmadığına ve meslek kıdemine bakı
 hizmetinden yararlanılabilecek diğer bir bölgeye veya bulunduğu bölge seviyesinde bir yere
 naklen ataması yapılabilir.
 
-42 17/4/2013 tarihli ve 6460 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “iş cetvelleri” ibaresi “alternatif
+43 17/4/2013 tarihli ve 6460 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “iş cetvelleri” ibaresi “alternatif
 uyuşmazlık çözüm yöntemlerine ilişkin uygulamayı da kapsayacak biçimde iş cetvelleri” şeklinde değiştirilmiştir.
-43 1/7/2016 tarihli ve 6723 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “geçen işleri” ibaresinden sonra
+44 1/7/2016 tarihli ve 6723 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “geçen işleri” ibaresinden sonra
 gelmek üzere “, kanun yolu değerlendirme formları” ibaresi eklenmiştir.
-44 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin birinci fıkrasında geçen "Adalet
+45 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin birinci fıkrasında geçen "Adalet
 Bakanlığı merkez kuruluşundaki" ibaresi, "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki"; ikinci ve
 üçüncü fıkralarında geçen "Bakanlık merkez kuruluşundaki" ibareleri "Adalet Bakanlığı merkez, bağlı ve ilgili
 kuruluşlarındaki" şeklinde değiştirilmiştir.
@@ -945,7 +975,7 @@ c - d) (Ek: 12/5/1988 – 3446/2 md.; İptal: Anayasa Mahkemesinin 28/2/1989 tar
 E. 1988/32, K. 1989/10 sayılı kararı ile.)
 Görevlerine, Hakimler ve Savcılar Yüksek Kurulunca nakledilebilirler.
 
-MADDE 37 — Adalet Bakanlığı merkez kuruluşuna atama şartları ve şekli:4546
+MADDE 37 — Adalet Bakanlığı merkez kuruluşuna atama şartları ve şekli:4647
 
 (Değişik: 22/12/2005 - 5435/18 md.)
 Adalet Bakanlığı merkez kuruluşunda:
@@ -962,16 +992,16 @@ denetim hizmetlerinde yararlı olacağı anlaşılmış bulunanlar arasından, m
 Müsteşarın teklifi üzerine Bakan tarafından atama yapılır. Bu şekilde atananlar İç Denetim
 Koordinasyon Kurulu tarafından en az iki aylık eğitime tabi tutulur ve eğitim sonunda bunlara
 kendi idarelerinde geçerli Kamu İç Denetçi Sertifikası verilir.
-(Mülga: 2/7/2018 - KHK/703/136 md.)47
+(Mülga: 2/7/2018 - KHK/703/136 md.)48
 (Mülga: 2/7/2018 - KHK/703/136 md.)
 Bakanlık merkez teşkilâtında olmayıp, yargı görevinden bu görevlere atanacakların
 muvafakati alınır.
 
-45 22/12/2005 tarihli ve 5435 sayılı Kanunun 18 inci maddesiyle bu madde başlığı " Adalet Bakanlığı merkez
+46 22/12/2005 tarihli ve 5435 sayılı Kanunun 18 inci maddesiyle bu madde başlığı " Adalet Bakanlığı merkez
 kuruluşuna atama" iken metne işlendiği şekilde değiştirilmiştir.
-46 8/8/2011 tarihli ve 650 sayılı KHK’nin 18 inci maddesiyle, bu bentte yer alan “sekiz” ibaresi “beş” şeklinde
+47 8/8/2011 tarihli ve 650 sayılı KHK’nin 18 inci maddesiyle, bu bentte yer alan “sekiz” ibaresi “beş” şeklinde
 değiştirilmiştir.
-47 Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile bu fıkranın
+48 Anayasa Mahkemesinin 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile bu fıkranın
 yürürlükten kaldırılması iptal edilmiştir.
 (Ek fıkra: 8/8/2011-KHK-650/18 md.) Bakanlıkta görev yapan hâkim ve savcıların
 diğer kanunlar uyarınca Bakanlık dışındaki bir göreve atanabilmeleri Bakanın muvafakatine
@@ -985,7 +1015,7 @@ Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki hizmetlerde ça
 dışındaki hakim ve savcılar, Adalet Bakanının teklifi üzerine, Bakanlık hizmetlerinde kazanmış
 oldukları haklar korunmak suretiyle, idari yargıdan gelmiş olanlar idari yargıda, adli yargıdan
 gelmiş olanlar adli yargıda, durumlarına göre Hakimler ve Savcılar Yüksek Kurulunca uygun
-görülecek hakimlik ve savcılık görevlerine en çok otuz gün içerisinde atanırlar.48
+görülecek hakimlik ve savcılık görevlerine en çok otuz gün içerisinde atanırlar.49
 
 Diğer hizmetlerden mesleğe atanma:
 
@@ -1000,7 +1030,7 @@ kadro aylıklarının karşılığı sınıf ve derecedeki idarî yargı hâkim 
 (Mülga ikinci ve üçüncü fıkra: 22/12/2005 - 5435/43 md.)
 Birinci fıkrada yazılı şartları taşıyan isteklilerin mesleğe alınıp alınmayacakları ve
 alınmaları halinde girebilecekleri sınıf ve dereceler Hâkimler ve Savcılar Yüksek Kurulunca belli
-edilir.49
+edilir.50
 
 Yeniden atanma:
 
@@ -1022,9 +1052,9 @@ kabul edilemezler.
 
 Terhis edilenlerin görevlerine dönmesi:
 
-48 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddede geçen "Bakanlık merkez
+49 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddede geçen "Bakanlık merkez
 kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki" şeklinde değiştirilmiştir.
-49 22/12/2005 tarihli ve 5435 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan "Yukarıdaki fıkralarda"
+50 22/12/2005 tarihli ve 5435 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan "Yukarıdaki fıkralarda"
 ibaresi "Birinci fıkrada" şeklinde değiştirilmiştir.
 
 MADDE 41
@@ -1157,17 +1187,17 @@ alamazlar, kazanç getirici faaliyetlerde bulunamazlar. Eşlerinin, reşit olmay
 kısıtlanmış çocuklarının kazanç getiren sürekli faaliyetlerini Adalet Bakanlığına onbeş gün
 içinde bildirmekle yükümlüdürler.
 
-MADDE 49 — Yurtdışında eğitim ve malî haklar:50
+MADDE 49 — Yurtdışında eğitim ve malî haklar:51
 
 (Değişik: 8/8/2011-KHK-650/19 md.)
 Bilgi ve görgülerini artırmak, meslekleriyle ilgili staj ve araştırma yapmak, kurs, eğitim ve
 öğrenim görmek üzere seçilen ya da iç veya dış burstan yararlanan hâkim ve savcılar iki yılı;
 doktora yapmak üzere görevlendirilenler ise üç yılı aşmamak üzere Bakanlıkça yurtdışına
-gönderilebilir. Bu süreler, gerekirse en çok bir katına kadar uzatılabilir.51
+gönderilebilir. Bu süreler, gerekirse en çok bir katına kadar uzatılabilir.52
 
-50 8/8/2011 tarihli ve 650 sayılı KHK’nin 19 uncu maddesiyle bu madde başlığı “Yabancı ülkelere gönderilme:”
+51 8/8/2011 tarihli ve 650 sayılı KHK’nin 19 uncu maddesiyle bu madde başlığı “Yabancı ülkelere gönderilme:”
 iken, metne işlendiği şekilde değiştirilmiştir.
-51 15/2/2014 tarihli ve 6524 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “aşmamak üzere” ibaresinden
+52 15/2/2014 tarihli ve 6524 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “aşmamak üzere” ibaresinden
 sonra gelmek üzere “Bakanlıkça” ibaresi eklenmiştir.
 (Mülga ikinci fıkra:15/2/2014-6524/1 md.)
 Bu suretle yurtdışına gidenlerden üç aydan fazla yurtdışında kalanlar, yurda dönüp
@@ -1182,7 +1212,7 @@ görevli bulunan ve dokuzuncu derecenin birinci kademesinden aylık alan Dışi�
 meslek memurlarına ödenmekte olan yurtdışı aylığının üçte ikisi ödenir. Bunlardan iç ve dış
 bursla gidenlerin aldıkları burs miktarı, ödenecek üçte iki yurtdışı aylığının altında kaldığı
 takdirde aradaki fark kendilerine ayrıca ödenir. Ancak şahsen özel burs sağlayan ve bu
-burstan istifade etmesi için (…)52 Bakanlıkça kendilerine aylıksız izin verilmesi uygun
+burstan istifade etmesi için (…)53 Bakanlıkça kendilerine aylıksız izin verilmesi uygun
 görülenler bu fıkra hükmünden yararlanamaz.
 Bu madde gereğince yurtdışına gönderilenlerin masrafları gönderen kurum
 bütçesinden karşılanır. Bu şekilde gönderilenlere, Dışişleri Bakanlığı meslek memurlarına
@@ -1190,7 +1220,7 @@ bütçesinden karşılanır. Bu şekilde gönderilenlere, Dışişleri Bakanlı�
 Bu maddede hüküm bulunmayan konularda Devlet memurlarına ilişkin hükümler
 uygulanır.
 
-MADDE 50 — Yurtdışında görevlendirme ve malî haklar:53
+MADDE 50 — Yurtdışında görevlendirme ve malî haklar:54
 
 (Değişik: 8/8/2011-KHK-650/20 md.)
 (Değişik birinci fıkra: 15/2/2014-6524/2 md.) Hâkim ve savcıların, dış temsilciliklerde,
@@ -1208,9 +1238,9 @@ görevden çekilmiş sayılarak haklarında 40 ıncı madde hükümleri uygulan�
 geçen süreler hâkimlik ve savcılık mesleğinde geçmiş sayılır, ilgilinin kademe ve derece
 ilerlemesinde dikkate alınır ve 49 uncu maddede öngörülen mecburi hizmetten düşülür.
 
-52 15/2/2014 tarihli ve 6524 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “ilgisine göre Hâkimler ve
+53 15/2/2014 tarihli ve 6524 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “ilgisine göre Hâkimler ve
 Savcılar Yüksek Kurulunca veya” ibaresi madde metninden çıkarılmıştır.
-53 8/8/2011 tarihli ve 650 sayılı KHK’nin 20 nci maddesiyle bu madde başlığı “Haklar, yükümlülükler ve
+54 8/8/2011 tarihli ve 650 sayılı KHK’nin 20 nci maddesiyle bu madde başlığı “Haklar, yükümlülükler ve
 giderler:” iken, metne işlendiği şekilde değiştirilmiştir.
 Dış temsilciliklerde, uluslararası mahkeme veya kuruluşlarda Bakan onayıyla
 görevlendirilenlere, sadece gittikleri ülkelerde sürekli görevle bulunan aynı derecede ve
@@ -1247,7 +1277,7 @@ Olağanüstü hallerde çekilmede usul ve genel olarak çekilmenin sonuçları:
 
 MADDE 52
 
-Olağanüstü hallerde, (…)54 seferberlik ve savaş halinde o bölgelerde
+Olağanüstü hallerde, (…)55 seferberlik ve savaş halinde o bölgelerde
 görevli hakim ve savcılar çekilme istekleri kabul edilmedikçe veya yerlerine atanacaklar gelip
 işe başlamadıkça görevlerini bırakamazlar.
 Yukarıdaki fıkraya aykırı hareket edenler bir daha mesleğe alınmazlar ve kamu kurum
@@ -1259,7 +1289,7 @@ MADDE 53
 
 Hakim ve savcıların:
 
-54 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu fıkrada yer alan “sıkıyönetim,” ibaresi madde
+55 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu fıkrada yer alan “sıkıyönetim,” ibaresi madde
 metninden çıkarılmıştır.
 a) Bu Kanun hükümlerine göre meslekten çıkarılmaları veya meslekte kalmalarının
 uygun olmadığına karar verilmesi,
@@ -1390,24 +1420,26 @@ Cumhuriyet başsavcıları ise merkezdeki Cumhuriyet savcıları ile bağlı il�
 ve Cumhuriyet savcılarının; öğrendikleri disiplin cezasını gerektiren eylemlerini Adalet
 Bakanlığına bildirirler.
 
-MADDE 63 — Uyarma cezası:55
+MADDE 63 — Uyarma cezası:56
 
 Uyarma: Görevde daha dikkatli olması gerektiğinin yazı ile bildirilmesidir.
 Uyarma cezası:
-a)Görevde kayıtsızlık ve düzensizlik,
+a) Görevde kayıtsızlık ve düzensizlik,
 b) Meslektaşlarına, emrindeki personele, görevi nedeniyle muhatap olduğu kişilere
 veya iş sahiplerine karşı kırıcı davranmak,
 c) Mazeretsiz olarak göreve geç gelmek ve görevden erken ayrılmak,
 d) Kanun ve diğer mevzuat ile karar ve talimatlarda açık olarak belirtilen konularda,
-işi uzatacak şekilde davranışlarda bulunmak, yazı ve tekitleri zamanında cevaplandırmamak,56
+işi uzatacak şekilde davranışlarda bulunmak, yazı ve tekitleri zamanında cevaplandırmamak,57
 
-55 3/11/2016 tarihli ve 6754 sayılı Kanunun 37 nci maddesiyle, bu maddenin ikinci fıkrasına (d) bendinden sonra
+56 3/11/2016 tarihli ve 6754 sayılı Kanunun 37 nci maddesiyle, bu maddenin ikinci fıkrasına (d) bendinden sonra
 gelmek üzere (e) bendi eklenmiş ve mevcut (e) bendi (f) bendi olarak teselsül ettirilmiştir.
-56 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu bentte yer alan “, tüzük, yönetmelik” ibaresi
+57 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu bentte yer alan “, tüzük, yönetmelik” ibaresi
 “ve diğer mevzuat ile” şeklinde değiştirilmiştir.
 e) (Ek: 3/11/2016-6754/37 md.) Bilirkişi seçimi ve görevlendirmesi sırasında kanunlarla
 belirlenen kurallara uymamak,
-f) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen benzeri eylemlerde bulunmak,
+f) (Ek:16/7/2026-7589/9 md.) Mesleğin gerektirdiği hukuki bilgiyle çözümlenmesi
+mümkün olan konularda bilirkişiye başvurmak,58
+g) Nitelik ve ağırlıkları itibariyle yukarıda belirtilen benzeri eylemlerde bulunmak,
 Hallerinde uygulanır.
 
 Aylıktan kesme cezası:
@@ -1448,6 +1480,10 @@ Kademe ilerlemesini durdurma: İlgilinin bulunduğu kademede, ilerlemesinin
 bir yıl süre ile durdurulmasıdır.
 Kademe ilerlemesini durdurma cezası:
 a) Mazeretsiz olarak göreve geç gelmeyi veya erken ayrılmayı alışkanlık haline getirmek,
+
+58 16/7/2026 tarihli ve 7589 sayılı Kanunun 9 uncu maddesiyle bu fıkraya (e) bendinden sonra gelmek
+üzere bent eklenmiş ve diğer bent buna göre teselsül ettirilmiştir.
+
 b) Ödeme gücünün üstünde borçlanmak suretiyle borçlarını ödeyemez duruma düşmek
 veya kesinleşmiş borcunu kasden ödemeyerek hakkında yasal yollara başvurulmasına neden
 olmak,
@@ -1541,7 +1577,7 @@ olmamak üzere, verdiği süre içinde veya belirtilen bir tarihte savunmasını
 savunma hakkından vaz geçmiş sayılır.
 
 Ceza soruşturması veya kovuşturması ile disiplin soruşturmasının bir arada
-yürütülmesi ve zamanaşımı:57
+yürütülmesi ve zamanaşımı:59
 
 MADDE 72
 
@@ -1549,9 +1585,6 @@ MADDE 72
 Hâkim ve savcılar hakkında ceza soruşturması veya kovuşturmasına başlanmış olması,
 aynı olaydan dolayı disiplin soruşturmasını gerektirmeyeceği gibi, ilgilinin mahkûm olması
 veya olmaması ayrıca disiplin cezası verilmesine engel teşkil etmez.
-
-57 22/12/2005 tarihli ve 5435 sayılı Kanunun 27 nci maddesiyle bu madde başlığı "Ceza kovuşturması ile disiplin
-kovuşturmasının bir arada yürütülmesi:" iken metne işlendiği değiştirilmiştir.
 Meslekten çıkarma ve yer değiştirme cezalarını gerektiren eylemler hariç olmak üzere,
 bu Kanuna göre disiplin soruşturmasını gerektiren eylemlerin işlenmesinden itibaren üç yıl
 geçmiş ise disiplin soruşturması açılamaz. Disiplin cezasını gerektiren eylemin işlendiği
@@ -1591,6 +1624,8 @@ uzaklaştırılan hâkim ve savcılara bu süre içinde aylık ve ödeneklerinin
 Görevden uzaklaştırma tedbiri kaldırılan hâkim ve savcılar hakkında 78 inci maddenin ikinci
 fıkrasındaki hükümler uygulanır.
 
+59 22/12/2005 tarihli ve 5435 sayılı Kanunun 27 nci maddesiyle bu madde başlığı "Ceza kovuşturması ile disiplin
+kovuşturmasının bir arada yürütülmesi:" iken metne işlendiği değiştirilmiştir.
 Disiplin cezalarının sicilden silinmesi:
 
 MADDE 75
@@ -1599,16 +1634,13 @@ Meslekten çıkarma ve yer değiştirme cezalarından başka bir disiplin cezas�
 verilen hakim ve savcılar, uyarma, aylıktan kesme ve kınama cezalarının kesinleşmesinden itibaren
 dört yıl, kademe ilerlemesi ve derece yükselmesini durdurma cezalarının kesinleşmesinden itibaren
 altı yıl geçtikten sonra Hakimler ve Savcılar Yüksek Kuruluna başvurarak bu disiplin cezalarının
-sicillerinden silinmesini isteyebilirler.58
-
-58 22/12/2005 tarihli ve 5435 sayılı Kanunun 29 uncu maddesiyle; bu fıkrada geçen "uygulanmasından" ibareleri
-"kesinleşmesinden" şeklinde değiştirilmiştir.
+sicillerinden silinmesini isteyebilirler.60
 İlgilinin yukarıdaki fıkrada yazılı süreler içerisindeki sicilinde mevcut belgelerle
 kanıtlanan tutum ve davranışları ile meslekteki başarısı, isteğini haklı kılacak nitelikte
 görülürse, disiplin cezasının silinmesine karar verilir ve sicil dosyasındaki disiplin bölümü
 çıkarılarak yenisi düzenlenir.
 
-MADDE 76 — İhbar ve şikayet:59
+MADDE 76 — İhbar ve şikayet:61
 
 Bir şahsın şikayeti üzerine başlanan disiplin soruşturması, şikayetten
 vazgeçilse dahi durdurulmaz.
@@ -1637,6 +1669,13 @@ karar verilebilir.
 Yukarıdaki önlemler, soruşturmanın ve ceza kovuşturmasının herhangi bir safhasında
 da alınabilir.
 
+60 22/12/2005 tarihli ve 5435 sayılı Kanunun 29 uncu maddesiyle; bu fıkrada geçen "uygulanmasından" ibareleri
+"kesinleşmesinden" şeklinde değiştirilmiştir.
+61 22/12/2005 tarihli ve 5435 sayılı Kanunun 30 uncu maddesiyle; ikinci fıkrada geçen "Ceza Muhakemeleri
+Usulü Kanununun 411 inci maddesinin birinci fıkrası" ibaresi "5271 sayılı Ceza Muhakemesi Kanununun 329
+uncu maddesi" şeklinde; üçüncü fıkrada geçen "Türk Ceza Kanununun 285 inci" ibaresi "5237 sayılı Türk Ceza
+Kanununun 267 nci" şeklinde değiştirilmiştir.
+
 Görevden uzaklaştırılanların hakları:
 
 MADDE 78
@@ -1645,11 +1684,6 @@ Görevden uzaklaştırılanlara aylık ve ödeneklerinin üçte ikisi; görevi i
 ilgili olsun veya olmasın herhangi bir suçtan tutuklanan veya gözaltına alınanlara bu süreler
 içinde aylık ve ödeneklerinin yarısı verilir. Bunlar, bu Kanunda yer alan diğer sosyal hak ve
 yardımlardan yararlanmaya devam ederler.
-
-59 22/12/2005 tarihli ve 5435 sayılı Kanunun 30 uncu maddesiyle; ikinci fıkrada geçen "Ceza Muhakemeleri
-Usulü Kanununun 411 inci maddesinin birinci fıkrası" ibaresi "5271 sayılı Ceza Muhakemesi Kanununun 329
-uncu maddesi" şeklinde; üçüncü fıkrada geçen "Türk Ceza Kanununun 285 inci" ibaresi "5237 sayılı Türk Ceza
-Kanununun 267 nci" şeklinde değiştirilmiştir.
 Tutuklanan, gözaltına alınan veya-görevden uzaklaştırılanlardan haklarında 79 uncu
 maddenin birinci fıkrası ile 80 inci madde uyarınca işlem yapılanlar, görevlerine iade veya
 başka bir göreve atanmakla beraber kesilmiş olan aylık ve ödeneklerini alırlar ve görevden
@@ -1696,7 +1730,7 @@ Hâkimler ve Savcılar Yüksek Kurulunca bu süre iki ay daha uzatılabilir. Bu 
 hakkında bir karar verilmediği takdirde ilgili göreve başlatılır.
 Görevden uzaklaştırma, bir ceza soruşturması veya kovuşturması gereği olduğu takdirde,
 Hakimler ve Savcılar Yüksek Kurulu iki ayı aşmayan süreler içinde ilgilinin durumunu
-inceleyerek görevine dönüp dönmemesi hakkında bir karar verir. Bu karar ilgiliye tebliğ olunur.60
+inceleyerek görevine dönüp dönmemesi hakkında bir karar verir. Bu karar ilgiliye tebliğ olunur.62
 
 YEDİNCİ KISIM
 Soruşturma ve Kovuşturma
@@ -1745,7 +1779,7 @@ MADDE 86
 Hakim ve savcıların suçlarına iştirak edenler aynı soruşturma ve kovuşturma
 mercilerine tabidirler.
 
-60 22/12/2005 tarihli ve 5435 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan "ceza" kelimesinden sonra
+62 22/12/2005 tarihli ve 5435 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan "ceza" kelimesinden sonra
 gelmek üzere "soruşturması veya" ibaresi eklenmiştir.
 Soruşturmanın tamamlanması:
 
@@ -1757,7 +1791,7 @@ sonunda düzenlenecek düşünce yazısı üzerine kovuşturma yapılmasına vey
 uygulanmasına gerek olup olmadığı Bakanlıkça takdir edilerek evrak ilgili mercilere tevdi
 olunur veya işlemden kaldırılır.
 
-MADDE 88 — Yakalama ve sorgu usulü:61
+MADDE 88 — Yakalama ve sorgu usulü:63
 
 Ağır ceza mahkemesinin görevine giren suçüstü hâlleri dışında suç işlediği
 ileri sürülen hakim ve savcılar yakalanamaz, üzerleri ve konutları aranamaz, sorguya çekilemez.
@@ -1768,7 +1802,7 @@ soruşturma ve kovuşturma yapılır.
 
 İKİNCİ BÖLÜM
 Kovuşturma
-Kovuşturma kararı ve ilk soruşturma:62
+Kovuşturma kararı ve ilk soruşturma:64
 
 MADDE 89
 
@@ -1793,9 +1827,9 @@ Haklarında son soruşturma açılmasına karar verilenlerden; birinci sınıfa
 ayrılmış olanlarla ağır ceza mahkemeleri heyetine dahil bulunan hakim ve Cumhuriyet
 savcılarının, son soruşturmaları Yargıtayın görevli ceza dairesinde görülür.
 
-61 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle bu maddede yer alan "Ağır cezayı gerektiren
+63 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle bu maddede yer alan "Ağır cezayı gerektiren
 suçüstü halleri" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü hâlleri" şeklinde değiştirilmiştir.
-62 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle bu maddenin birinci fıkrasında geçen "Adalet
+64 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle bu maddenin birinci fıkrasında geçen "Adalet
 Bakanlığı merkez kuruluşunda" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarında", üçüncü
 fıkrasında geçen "Ceza Muhakemeleri Usulü Kanunu" ibaresi "Ceza Muhakemesi Kanunu" şeklinde
 değiştirilmiştir.
@@ -1844,14 +1878,14 @@ MADDE 93/A
 
 DÖRDÜNCÜ BÖLÜM
 Ortak Hükümler
-Ağır ceza mahkemesinin görevine giren suçüstü hâlleri:63
+Ağır ceza mahkemesinin görevine giren suçüstü hâlleri:65
 
 MADDE 94
 
 (Değişik birinci fıkra: 12/2/1989 – KHK-360/5 md.; Aynen Kabul:
 24/1/1990 – 3611/5 md.) Ağır ceza mahkemesinin görevine giren suçüstü hâllerinde hazırlık
 
-63 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin başlığında geçen "Ağır cezayı
+65 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle; bu maddenin başlığında geçen "Ağır cezayı
 gerektiren suçüstü hali" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü hâlleri", birinci fıkrasında
 geçen "Ağır cezayı gerektiren suçüstü hallerinde" ibaresi "Ağır ceza mahkemesinin görevine giren suçüstü
 hâllerinde" şeklinde değiştirilmiştir.
@@ -1900,12 +1934,12 @@ MADDE 98
 
 Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki birinci sınıf hakim
 ve savcılar, disiplin cezası, soruşturma ve kovuşturma bakımından Yargıtay üyeleri hakkındaki
-hükümlere tabidir. Ancak soruşturma yapılması Adalet Bakanının istemine bağlıdır.64
+hükümlere tabidir. Ancak soruşturma yapılması Adalet Bakanının istemine bağlıdır.66
 
 SEKİZİNCİ KISIM
 Denetim
 
-64 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle, bu maddede geçen "Adalet Bakanlığı merkez
+66 22/12/2005 tarihli ve 5435 sayılı Kanunun 39 uncu maddesiyle, bu maddede geçen "Adalet Bakanlığı merkez
 kuruluşundaki" ibaresi "Adalet Bakanlığı merkez, bağlı ve ilgili kuruluşlarındaki" şeklinde değiştirilmiştir.
 Teftiş Kurulu:
 
@@ -2002,16 +2036,16 @@ gösterilen oranda hesaplanan tutarını,
 ifade eder.
 
 İKİNCİ BÖLÜM
-Aylık Tablosu ve Aylıklar65
-Aylık tablosu:65
+Aylık Tablosu ve Aylıklar67
+Aylık tablosu:67
 
 MADDE 103
 
 (Değişik: 29/6/2006-5536/2 md.)
-Kıstas aylığı oluşturan her bir ödeme unsurunun;66
-a) (…)67 Yargıtay Başkanı, Danıştay Başkanı, Uyuşmazlık Mahkemesi Başkanı, Yargıtay
+Kıstas aylığı oluşturan her bir ödeme unsurunun;68
+a) (…)69 Yargıtay Başkanı, Danıştay Başkanı, Uyuşmazlık Mahkemesi Başkanı, Yargıtay
 Cumhuriyet Başsavcısı ve Danıştay Başsavcısına % 100'ü,
-b) (…)67 Yargıtay ve Danıştay Birinci Başkan Vekilleri, Yargıtay Cumhuriyet
+b) (…)69 Yargıtay ve Danıştay Birinci Başkan Vekilleri, Yargıtay Cumhuriyet
 Başsavcıvekili, Yargıtay ve Danıştay Daire Başkanları ile Adalet Bakanlığı Müsteşarına % 90’ı,
 c) Yargıtay ve Danıştay Üyelerine % 86’sı,
 ç) Birinci sınıf hâkim ve savcılara % 79'u,
@@ -2042,12 +2076,12 @@ MADDE 104
 
 (Mülga: 29/6/2006-5536/7 md.)
 
-65 29/6/2006 tarihli ve 5536 sayılı Kanunun 2 nci maddesiyle, 103 üncü maddenin başlığı "Gösterge tablosu:",
+67 29/6/2006 tarihli ve 5536 sayılı Kanunun 2 nci maddesiyle, 103 üncü maddenin başlığı "Gösterge tablosu:",
 Dokuzuncu Kısmının İkinci Bölüm başlığı “Gösterge Tablosu, Katsayı, Aylıklar“ iken metne işlendiği şekilde
 değiştirilmiştir.
-66 30/3/2023 tarihli ve 7447 sayılı Kanunun 2 nci maddesiyle 103 üncü maddesinin birinci fıkrasının (b) bendinde yer
+68 30/3/2023 tarihli ve 7447 sayılı Kanunun 2 nci maddesiyle 103 üncü maddesinin birinci fıkrasının (b) bendinde yer
 alan “% 86’sı” ibaresi “% 90’ı” şeklinde, (c) bendinde yer alan “% 83’ü” ibaresi “% 86’sı” şeklinde değiştirilmiştir.
-67 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu maddede yer alan “Anayasa Mahkemesi
+69 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu maddede yer alan “Anayasa Mahkemesi
 Başkanı,”, “Anayasa Mahkemesi Başkanvekili, Anayasa Mahkemesi Üyeleri,” ibareleri madde metninden
 çıkarılmıştır.
 
@@ -2057,7 +2091,7 @@ MADDE 105
 
 (Mülga: 29/6/2006-5536/7 md.)
 
-MADDE 106 — Yargı ödeneği ve ek ödeme:686970
+MADDE 106 — Yargı ödeneği ve ek ödeme:707172
 
 (Değişik: 29/6/2006-5536/3 md.)
 103 üncü maddede unvanları belirtilenlere aynı maddeye göre ödenmekte olan brüt
@@ -2077,7 +2111,7 @@ Bu maddeye ve 103 üncü maddeye göre ödeme yapılanlara; yabancı dil tazmina
 yüksek hâkimlik tazminatları ödenmez ve 657 sayılı Devlet Memurları Kanununun 152 nci
 maddesi uyarınca ödeme yapılmaz. (Ek cümle: 24/7/2008-5793/5md.) Ancak, hakim ve savcı
 yardımcılarına 375 sayılı Kanun Hükmünde Kararnamenin 1 inci maddesinde öngörülen taban
-aylığının ödenmesine devam olunur.71
+aylığının ödenmesine devam olunur.73
 (Ek fıkra: 2/12/2014-6572/29 md.) (Değişik altıncı fıkra:28/7/2024-7524/58 md.)
 Yargıtay Birinci Başkanı, Danıştay Başkanı, Yargıtay Cumhuriyet Başsavcısı, Danıştay
 Başsavcısı, Yargıtay Birinci başkanvekilleri, Danıştay başkanvekilleri, Yargıtay
@@ -2086,16 +2120,16 @@ ile Adalet Bakanlığı Müsteşarına (40.000); birinci sınıf hâkim ve savc�
 aylık ödeme oranı % 86 olanlara ve Adalet Bakanlığı Teftiş Kurulu ile Hâkimler ve Savcılar
 Kurulu Teftiş Kurulunda fiilen görev yapan müfettişlere (35.000); diğer birinci sınıf hâkim ve
 
-68 29/6/2006 tarihli ve 5536 sayılı Kanunun 3 üncü maddesiyle bu madde başlığı “Ödenek :” iken, metne
+70 29/6/2006 tarihli ve 5536 sayılı Kanunun 3 üncü maddesiyle bu madde başlığı “Ödenek :” iken, metne
 işlendiği şekilde değiştirilmiştir.
-69 2/12/2014 tarihli ve 6572 sayılı Kanunun 29 uncu maddesiyle, bu maddenin dördüncü fıkrasına “Adalet
+71 2/12/2014 tarihli ve 6572 sayılı Kanunun 29 uncu maddesiyle, bu maddenin dördüncü fıkrasına “Adalet
 Müfettişlerine,” ibaresinden sonra gelmek üzere “Hâkimler ve Savcılar Yüksek Kurulu Müfettişlerine ve
 Bakanlık İç Denetçilerine” ibaresi, beşinci fıkrasına “ödeme yapılanlara;” ibaresinden sonra gelmek üzere
 “yabancı dil tazminatı hariç,” ibaresi ve mevcut altıncı fıkrada yer alan “vergiye” ibaresi “vergi ve kesintiye”
 şeklinde değiştirilmiştir.
-70 23/6/2022 tarihli ve 7413 sayılı Kanunun 7 nci maddesiyle bu maddenin üçüncü ve beşinci fıkralarında yer
+72 23/6/2022 tarihli ve 7413 sayılı Kanunun 7 nci maddesiyle bu maddenin üçüncü ve beşinci fıkralarında yer
 alan “adaylarına” ibareleri “yardımcılarına” şeklinde değiştirilmiştir.
-71 Anayasa Mahkemesi’nin 20/11/2008 tarihli ve E.: 2007/104, K.: 2008/164 sayılı Kararı ile; bu maddenin
+73 Anayasa Mahkemesi’nin 20/11/2008 tarihli ve E.: 2007/104, K.: 2008/164 sayılı Kararı ile; bu maddenin
 beşinci fıkrasında yer alan “...375 sayılı Kanun Hükmünde Kararname kapsamında yapılan ödemeler...”
 bölümü yabancı dil tazminatı yönünden iptal edilmiştir.
 savcılara (30.000); birinci sınıfa ayrılmış hâkim ve savcılara (26.000); diğer hâkim ve savcılara ise
@@ -2126,7 +2160,7 @@ Emekliye ayrılma ve ölüm hallerinde o aya ait peşin ödenen aylık ve ödene
 alınmaz.
 
 Hâkim ve savcı yardımcılığından ve açıktan atanmada aylık ve ödeneğe hak
-kazanma:72
+kazanma:74
 
 MADDE 109
 
@@ -2143,15 +2177,15 @@ MADDE 110
 Bu Kanunun 2 nci maddesinde belirtilenlerin, lüzum ve zaruret görülen
 yerlerde lojman ihtiyaçları Adalet Bakanlığınca tespit edilerek, Cumhurbaşkanınca onanacak
 programlar gereğince ilgililerin tabi oldukları kuruluşların bütçelerine her yıl konulacak
-ödenekten karşılanır.73
+ödenekten karşılanır.75
 Lojmanların tahsis ve idaresi ile alınacak kira miktarı yönetmelikle düzenlenir.
 
 Diğer sosyal yardımlar:
 
-72 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin başlığında yer alan “Adaylıktan”
+74 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu maddenin başlığında yer alan “Adaylıktan”
 ibaresi “Hâkim ve savcı yardımcılığından” şeklinde ve birinci fıkrasında yer alan “hakim adaylığından” ibaresi
 “hâkim ve savcı yardımcılığından” şeklinde değiştirilmiştir.
-73 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
+75 2/7/2018 tarihli ve 703 sayılı KHK’nin 136 ncı maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 
 MADDE 111
@@ -2159,7 +2193,7 @@ MADDE 111
 Devlet memurlarına tanınan sosyal hak ve yardımlara ilişkin hükümler
 bu Kanunun 2 nci maddesinde sayılanlar hakkında da uygulanır.
 
-MADDE 112 — Meslekî Kıyafet, Kitap ve Bilgisayar Yardımı:74
+MADDE 112 — Meslekî Kıyafet, Kitap ve Bilgisayar Yardımı:76
 
 Hakim ve savcıların resmi kıyafetlerinin şekli, bunların giyilme zaman
 ve yerleri ile yenilenme süreleri, Hakimler ve Savcılar Yüksek Kurulunca çıkarılacak bir
@@ -2196,9 +2230,9 @@ tüm resmi ve özel kurum ve kuruluşların iş ve işlemlerinde resmi kimlik h�
 
 ONUNCU KISIM
 Adalet Komisyonlarının Kuruluş ve Görevleri
-Kuruluş:75
+Kuruluş:77
 
-74 29/6/2006 tarihli ve 5536 sayılı Kanunun 4 üncü maddesiyle bu madde başlığı “Mesleki kıyafet ve kitap
+76 29/6/2006 tarihli ve 5536 sayılı Kanunun 4 üncü maddesiyle bu madde başlığı “Mesleki kıyafet ve kitap
 yardımı :” iken, metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 113
@@ -2226,7 +2260,7 @@ Görevleri:
 
 MADDE 114
 
-(Değişik: 22/12/2005 - 5435/36 md.)76
+(Değişik: 22/12/2005 - 5435/36 md.)78
 Adalet komisyonlarının görevleri şunlardır:
 a) Atamaları doğrudan Bakanlıkça yapılanlar dışındaki adlî ve idarî yargı ile ceza infaz
 kurumları ve tutukevleri personelinin;
@@ -2235,18 +2269,18 @@ ilgili yönetmelik hükümlerine göre düzenlenecek sözlü ve gerektiğinde uy
 yapmak, hukuk fakültesi, adalet meslek yüksek okulu veya meslek yüksekokullarının adalet
 veya ceza infaz ve güvenlik hizmetleri programı, lise veya meslek liselerinin adalet alanı ve
 ilgili mevzuat uyarınca bunlara denkliği kabul edilen program veya alan mezunlarına öncelik
-tanımak kaydıyla başarılı olanların atanmalarını teklif etmek.77
+tanımak kaydıyla başarılı olanların atanmalarını teklif etmek.79
 2) Aslî Devlet memurluğuna atanmaları, sicil ve disiplin işlemleri, görevden
 uzaklaştırılmaları, aylık ve ödenekleri ile diğer özlük işlemlerini bu Kanun ve 657 sayılı
 Devlet Memurları Kanunu ile ilgili mevzuat hükümlerine göre yerine getirmek.
 
-75 26/9/2004 tarihli ve 5235 sayılı Kanunun 49 uncu maddesiyle bu maddede geçen “adlî yargı adalet
+77 26/9/2004 tarihli ve 5235 sayılı Kanunun 49 uncu maddesiyle bu maddede geçen “adlî yargı adalet
 komisyonları” ibaresi “Adli yargı ilk derece mahkemesi adalet komisyonları ” olarak 1/4/2005 tarihinden
 geçerli olmak üzere değiştirilmiştir.
-76 14/4/2020 tarihli ve 7242 sayılı Kanunun 64 üncü maddesiyle bu maddeye birinci fıkrasından sonra gelmek
+78 14/4/2020 tarihli ve 7242 sayılı Kanunun 64 üncü maddesiyle bu maddeye birinci fıkrasından sonra gelmek
 üzere fıkra eklenmiş ve maddenin mevcut ikinci fıkrasına “esaslar” ibaresinden sonra gelmek üzere “ile sınav
 kurullarının oluşumu” ibaresi eklenmiştir.
-77 14/4/2020 tarihli ve 7242 sayılı Kanunun 64 üncü maddesiyle bu alt bentte yer alan alan “hukuk fakültesi ve
+79 14/4/2020 tarihli ve 7242 sayılı Kanunun 64 üncü maddesiyle bu alt bentte yer alan alan “hukuk fakültesi ve
 adalet meslek yüksek okulu” ibaresi “hukuk fakültesi, adalet meslek yüksek okulu veya meslek yüksekokullarının
 adalet veya ceza infaz ve güvenlik hizmetleri programı, lise veya meslek liselerinin adalet alanı ve ilgili mevzuat
 uyarınca bunlara denkliği kabul edilen program veya alan” şeklinde değiştirilmiştir.
@@ -2265,7 +2299,7 @@ Bu madde kapsamındaki personeli, ilgili adalet komisyonunun muvafakati, teklifi
 hizmetin gereği olarak başka bir adalet komisyonunun yetki alanına naklen atama veya geçici
 olarak görevlendirme yetkisi Adalet Bakanlığına aittir.
 
-MADDE 115 — Zorunlu hâllerde görevlendirme:78
+MADDE 115 — Zorunlu hâllerde görevlendirme:80
 
 (Değişik: 22/12/2005 - 5435/37 md.)
 Herhangi bir nedenle görevine gelemeyen hâkimin yerine, bu hâkim görevine
@@ -2296,7 +2330,7 @@ ONBİRİNCİ KISIM
 Çeşitli Hükümler
 İlke kararları:
 
-78 22/12/2005 tarihli ve 5435 sayılı Kanunun 37 nci maddesiyle bu madde başlığı "Geçici görevlendirme:" iken
+80 22/12/2005 tarihli ve 5435 sayılı Kanunun 37 nci maddesiyle bu madde başlığı "Geçici görevlendirme:" iken
 metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 118
@@ -2349,7 +2383,7 @@ EK MADDE 1
 Hâkim ve savcı yardımcılığına atanacaklar ile hâkimlik ve savcılık mesleğine kabul
 edilecekler ve hâkim ve savcı sınıfı dışında kalan adlî ve idarî yargıda çalıştırılacak tüm personel
 hakkında Güvenlik Soruşturması ve Arşiv Araştırması Kanununa göre güvenlik soruşturması ve
-arşiv araştırması yapılır.7980
+arşiv araştırması yapılır.8182
 
 Türkiye Adalet Akademisinde ders ücreti
 
@@ -2357,10 +2391,10 @@ EK MADDE 2
 
 (Ek:17/10/2019-7188/12 md.)
 
-79 7/4/2021 tarihli ve 7315 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “26.10.1994 tarihli ve 4045
+81 7/4/2021 tarihli ve 7315 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “26.10.1994 tarihli ve 4045
 sayılı Kanunun 1 inci maddesine göre” ibaresi “Güvenlik Soruşturması ve Arşiv Araştırması Kanununa göre
 güvenlik soruşturması ve” şeklinde değiştirilmiştir.
-80 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “adaylığına” ibaresi
+82 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “adaylığına” ibaresi
 “yardımcılığına” şeklinde değiştirilmiştir.
 Türkiye Adalet Akademisine öğretim elemanı olarak atanan veya görevlendirilen hâkim
 ve savcılar ile 4/11/1981 tarihli ve 2547 sayılı Yükseköğretim Kanunu hükümlerine göre
@@ -2608,9 +2642,9 @@ Kararnamenin 3 üncü maddesi ile 657 sayılı Devlet Memurları Kanununa eklene
 Ek gösterge Cetveli Sayıştay meslek mensupları, Sayıştay savcısı ve savcı yardımcıları
 hakkında uygulanmaz.
 
-Ek Geçici Madde 2 – (Ek:13/7/1993-KHK-486/13 md.)81
+Ek Geçici Madde 2 – (Ek:13/7/1993-KHK-486/13 md.)83
 Kendi kanunlarında gerekli değişiklik yapılıncaya kadar, aylık, ek gösterge, ödenek,
-mali, sosyal ve diğer özlük hakları bakımından;82
+mali, sosyal ve diğer özlük hakları bakımından;84
 a) Askeri Yargıtay ve Askeri Yüksek İdare Mahkemesi Başkanları ve Başsavcıları, Askeri
 Yargıtay İkinci Başkanı ile bu yüksek yargı organlarının daire başkanları ve üyeleri; sırasıyla
 Yargıtay Başkanı, Yargıtay Cumhuriyet Başsavcısı, Yargıtay Birinci Başkanvekili, Daire
@@ -2643,14 +2677,14 @@ MADDE 124
 
 Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
 
-81 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle; bu maddenin (b) bendindeki “üç yılını” ibaresi “bir
+83 24/7/2008 tarihli ve 5793 sayılı Kanunun 46 ncı maddesiyle; bu maddenin (b) bendindeki “üç yılını” ibaresi “bir
 yılını”, (c) bendindeki “kazanmış” ibaresi “kaybetmemiş” şeklinde değiştirilmiş ve aynı maddenin (d) bendine
 “derecedeki” ibaresinden sonra gelmek üzere “(9 uncu derecede bulunan askeri hakim ve savcılar, 103 üncü
 maddedeki aylık ödeme oranı % 39 olarak uygulanmak ve yargı ödeneği de bu oran üzerinden hesaplanacak brüt
 aylıkları esas alınarak verilmek üzere 8 inci derecedeki)” ibaresi eklenmiştir.
-82 29/6/2006 tarihli ve 5536 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “kadar,” ibaresinden sonra
+84 29/6/2006 tarihli ve 5536 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “kadar,” ibaresinden sonra
 gelmek üzere “aylık,” ibaresi eklenmiştir.
-(1) SAYILI CETVEL83
+(1) SAYILI CETVEL85
 (Değişik:22/12/2005 – 5435/41 md.)
 
 Sınıf Derece Unvan
@@ -2693,7 +2727,7 @@ Adalet Müfettişliği
 Bakanlık Tetkik Hâkimliği
 Bölge Adliye Mahkemesi Cumhuriyet Savcılığı
 
-83 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
+85 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
 Koordinasyon Kurulu Başkanlığı” ibareleri “Strateji Geliştirme Başkanlığı”, “Araştırma-Planlama ve Koordinasyon
 Kurulu Üyeliği” ibareleri “Strateji Geliştirme Başkanlığı Daire Başkanlığı” şeklinde değiştirilmiştir.
 Sınıf Derece Unvan
@@ -2764,7 +2798,7 @@ Bölge Adliye Mahkemesi Daire Başkanlığı
 Bölge Adliye Mahkemesi Üyeliği
 Bölge Adliye Mahkemesi Cumhuriyet Başsavcılığı
 Bölge Adliye Mahkemesi Cumhuriyet Savcılığı
-(2) SAYILI CETVEL84
+(2) SAYILI CETVEL86
 
 Sınıf Derece Unvan
 Üçüncü Sınıf 8 Hâkimlik
@@ -2807,7 +2841,7 @@ Bakanlık Tetkik Hâkimliği
 Genel Müdürlük Daire Başkanlığı
 Strateji Geliştirme Başkanlığı Daire Başkanlığı
 
-84 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
+86 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle bu cetvelde yer alan “Araştırma-Planlama ve
 Koordinasyon Kurulu Başkanlığı” ibareleri “Strateji Geliştirme Başkanlığı”, “Araştırma-Planlama ve Koordinasyon
 Kurulu Üyeliği” ibareleri “Strateji Geliştirme Başkanlığı Daire Başkanlığı” şeklinde değiştirilmiştir.
 Sınıf Derece Unvan
@@ -2848,11 +2882,11 @@ I SAYILI EK GÖSTERGE CETVELİ
 Ek
 UNVANI Derece
 Göstergeler
-a) Yargıtay Birinci Başkanı, Danıştay Başkanı, Yargıtay Cumhuriyet 1 900085
+a) Yargıtay Birinci Başkanı, Danıştay Başkanı, Yargıtay Cumhuriyet 1 900087
 Başsavcısı ve Danıştay Başsavcısı
 b) (Değişik: 30/3/2023-7447/4 md.) Yargıtay üyeleri, Danıştay 1 8000
 üyeleri, Yargıtay Cumhuriyet Başsavcıvekili,
-c) (Ek: 30/3/2023-7447/4 md.)86 Birinci sınıf hâkim ve savcılıkta 1 7800
+c) (Ek: 30/3/2023-7447/4 md.)88 Birinci sınıf hâkim ve savcılıkta 1 7800
 üç yılını doldurup Yargıtay ve Danıştay üyeliğine seçilme hakkını
 kaybetmemiş olanlar, Adalet Bakanlığı Müsteşarı
 d) Birinci sınıfa ayrılmış, bu sınıfa ayrıldığı tarihten itibaren de 1 7000
@@ -2878,9 +2912,9 @@ TEŞKİLATI : MERKEZ
 UNVANI DERECESİ ADEDİ
 Ceza İşleri Genel Müdürü 1 1
 
-85 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle bu sırada yer alan “8000” ibaresi “9000” şeklinde
+87 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle bu sırada yer alan “8000” ibaresi “9000” şeklinde
 değiştirilmiştir.
-86 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle (b) sırasından sonra gelmek üzere (c) sırası eklenmiş
+88 30/3/2023 tarihli ve 7447 sayılı Kanunun 4 üncü maddesiyle (b) sırasından sonra gelmek üzere (c) sırası eklenmiş
 ve mevcut sıralar buna göre teselsül ettirilmiştir.
 Hukuk İşleri Genel Müdürü 1 1
 Mevzuat Genel Müdürü 1 1

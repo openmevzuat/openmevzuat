@@ -5,6 +5,6 @@ Yargıtay ve Danıştayda görev yapanlardan birinci sınıf olmayanlar hakkınd
 ilgisine göre Yargıtay Birinci Başkanı, Danıştay Başkanı, daire veya kurul başkanları, Yargıtay
 Cumhuriyet Başsavcısı veya Danıştay Başsavcısı tarafından düzenlenir.
 
-34 22/12/2005 tarihli ve 5435 sayılı Kanunun 10 uncu maddesiyle bu madde başlığı "Bakanlık merkez kuruluşu
+35 22/12/2005 tarihli ve 5435 sayılı Kanunun 10 uncu maddesiyle bu madde başlığı "Bakanlık merkez kuruluşu
 hizmetinde bulunanlar:" iken metne işlendiği şekilde değiştirilmiştir.
 Eserler:

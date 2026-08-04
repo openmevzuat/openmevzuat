@@ -1,4 +1,4 @@
-# MADDE 65 — Atıflar ve uygulama
+# MADDE 65
 
 (1) Diğer mevzuatta, hizmet alanları itibariyle, 4/2/1924 tarihli ve 406
 sayılı Telgraf ve Telefon Kanunu ve 5/4/1983 tarihli ve 2813 sayılı Telsiz Kanununa yapılan

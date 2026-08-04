@@ -6,12 +6,12 @@
  :document/path
  "data/canonical/laws/2252-kultur-bakanligi-doner-sermaye-kanunu",
  :document/sha256
- "e4fbe7d403e883c0d8cbe3715a748bc55becf9919c26c1791eaf9e1593864209",
+ "c60f7c3c6c967743ebbeb0c5227dc5c79d7c7c1845b27a0106cc71ae5b5e8072",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2252.pdf",
- :source/fetched-at #inst "2026-07-16T02:17:17.663-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-04T07:30:42.884-00:00",
+ :openmevzuat/baseline-date "2026-08-04",
+ :openmevzuat/generated-at #inst "2026-08-04T07:30:12.716-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -50,21 +50,21 @@
    :article/title "Gelir kaynakları:8",
    :article/path "articles/madde-005.md",
    :article/sha256
-   "c74f1664a0b27259a703281048de931509b97c0e9eb017e8f58897a363c8def9"}
+   "eb40f1603dbe8f866eda78a97fce35c78e8729110afce41fad9a25ef1f049f86"}
   {:article/id "law/2252/article/6",
    :article/type :normal,
    :article/no "6",
    :article/title nil,
    :article/path "articles/madde-006.md",
    :article/sha256
-   "9fdc7d13d700757cd2c989f4ea1f3c240ea669e242b95c3f277267d2a2d910b1"}
+   "21942cbc3a30b061d1d039aa3ebba1d5cc6a88bc490e1d6ee7f2b6939590e392"}
   {:article/id "law/2252/article/7",
    :article/type :normal,
    :article/no "7",
-   :article/title "Ayrıcalıklar:11",
+   :article/title "Ayrıcalıklar:12",
    :article/path "articles/madde-007.md",
    :article/sha256
-   "be5973f9f5b47a223013f74e901df0187f2b44fa69670c900b8687f928e778c4"}
+   "528beb83c956dcf3b5ccebb45659c95955b7d32420b691763b38330ffa653122"}
   {:article/id "law/2252/article/8",
    :article/type :normal,
    :article/no "8",
@@ -99,7 +99,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-001.md",
    :article/sha256
-   "993b0c6709fa9593a054ae37ce40014bd33943582de03680ad4165f1183f03ff"}
+   "1774068826e474a5095210ae4a58729aaff755b5bbb70483bee4d71d35b5f80d"}
   {:article/id "law/2252/article/12",
    :article/type :normal,
    :article/no "12",

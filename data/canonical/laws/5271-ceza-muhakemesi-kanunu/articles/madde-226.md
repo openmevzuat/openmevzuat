@@ -10,7 +10,7 @@ hazırlaması için süre verilir.
 (4) (Değişik:14/11/2024-7532/16 md.) Yukarıdaki fıkralarda yazılı bildirimler, sanığa
 ve varsa müdafie yapılır. Müdafii sanığa tanınan haklardan onun gibi yararlanır. Sanığın
 dosyada var olan son adresine bildirim yapılamaması veya bildirime rağmen duruşmaya
-gelmemesi halinde müdafie yapılan bildirimler yeterli kabul edilir.
+gelmemesi halinde müdafie yapılan bildirimler yeterli kabul edilir.74
 
 ÜÇÜNCÜ BÖLÜM
 Karar ve Hüküm

@@ -29,7 +29,4 @@ Kesinleşen kararların infazı Cumhuriyet başsavcılığınca yapılır.
 yerine getirilmesi ya da şikâyetten vazgeçilmesi hâlinde, dava ve bütün sonuçlarıyla beraber
 ceza düşer.
 (9) Disiplin hapsine ilişkin karar, kesinleştiği tarihten itibaren iki yıl geçtikten sonra
-
-67 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “tefhim veya”
-ibaresi madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 yerine getirilemez.

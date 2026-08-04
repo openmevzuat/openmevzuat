@@ -8,6 +8,13 @@ gelmezse, gelen tarafın talebi üzerine, yargılamaya gelmeyen tarafın yokluğ
 veya dosya işlemden kaldırılır. Geçerli bir özrü olmaksızın duruşmaya gelmeyen taraf,
 yokluğunda yapılan işlemlere itiraz edemez.
 (3) Duruşma gününün belli edilmesi için tarafların başvurması gereken hâllerde gün
+
+18 16/7/2026 tarihli ve 7589 sayılı Kanunun 22 nci maddesiyle yayımı tarihinden itibaren üç ay sonra
+(31/10/2026) yürürlüğe girmek üzere bu maddeye üçüncü fıkradan sonra gelmek üzere fıkra eklenmiş
+ve diğer fıkralar buna göre teselsül ettirilmiştir. Söz konusu düzenleme, yürürlüğe girdiği tarihte
+Mevzuat Bilgi Sistemine işlenecek olup mezkur düzenlemeyi görmek için 31/7/2026 tarihli ve 33326
+sayılı Resmî Gazete’ye bakınız.
+
 tespit ettirilmemişse, son işlem tarihinden başlayarak bir ay geçmekle dosya işlemden
 kaldırılır.
 (4) Dosyası işlemden kaldırılmış olan dava, işlemden kaldırıldığı tarihten başlayarak

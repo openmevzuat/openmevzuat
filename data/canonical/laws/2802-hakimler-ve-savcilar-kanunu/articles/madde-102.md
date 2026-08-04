@@ -11,5 +11,5 @@ gösterilen oranda hesaplanan tutarını,
 ifade eder.
 
 İKİNCİ BÖLÜM
-Aylık Tablosu ve Aylıklar65
-Aylık tablosu:65
+Aylık Tablosu ve Aylıklar67
+Aylık tablosu:67

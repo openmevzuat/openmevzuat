@@ -5,7 +5,7 @@ tekliflerini hazırlayabilmeleri için en az 13 üncü maddedeki süreler verile
 birlikte ihaleye davet mektubu gönderilir. Ön yeterlik değerlendirmesi sonucunda yeterli
 bulunmayanlar ile kısa listede yer verilmeyen adaylara yazılı olarak bildirim yapılır. İhaleye
 davet edilebilecek aday sayısının üçten az olması halinde davet mektubu gönderilmez ve ihale
-yapılmaz.40
+yapılmaz.41
 İstekliler tekliflerini hazırlarken ihale dokümanında açıklanmasına ihtiyaç duyulan
 hususlarla ilgili olarak son teklif verme gününden yirmi gün öncesine kadar yazılı olarak
 açıklama talep edebilir. İdarece açıklama yapılması halinde yapılan açıklama, kısa listede yer
@@ -14,7 +14,7 @@ temin edecek şekilde yazılı olarak gönderilir.
 Davet mektubu gönderildikten sonra, tekliflerin hazırlanmasını veya işin
 gerçekleştirilmesini etkileyebilecek maddi veya teknik hatalar veya eksikliklerin idarece tespit
 
-40 30/7/2003 tarihli ve 4964 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “kırk gün süre”
+41 30/7/2003 tarihli ve 4964 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “kırk gün süre”
 ibaresi, “13 üncü maddedeki süreler” şeklinde değiştirilmiştir.
 edilmesi veya isteklilerce yazılı olarak bildirilmesi halinde, ihale dokümanında değişiklikler
 yapılabilir. Yapılan bu değişikliklere ilişkin ihale dokümanının bağlayıcı bir parçası olan

@@ -1,16 +1,7 @@
 # GEÇİCİ MADDE 60
 
-(Ek: 10/9/2014-6552/81 md.)243244
+(Ek: 10/9/2014-6552/81 md.)245246
 (1) 2014 yılı Nisan ve önceki aylara ilişkin olup bu maddenin yayımlandığı tarihten
-
-243 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu
-maddede yer alan başvuru süresi ile ilk taksit ödeme süresi, sözkonusu maddenin birinci fıkrasının (d)
-bendi hükümlerine ilişkin süreler hariç olmak üzere, aynı maddede belirtilen sürelerin bitiminden
-itibaren bir ay uzatılmıştır.
-244 31/3/2015 tarihli ve 29312 sayılı Resmi Gazete’de yayımlanan 23/3/2015 tarihli ve 2015/7470
-sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu maddede yer alan başvuru süresi ile
-ilk taksit ödeme süresinin aynı maddenin birinci fıkrasının (d) bendinde belirtilen borçlular yönünden
-maddede belirtilen sürelerin bitiminden itibaren altı ay uzatılması kararlaştırılmıştır.
 önce tahakkuk ettiği hâlde ödenmemiş olan;
 a) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a), (b) ve (c) bentleri
 kapsamındaki sigortalılık statülerinden kaynaklanan, sigorta primi, emeklilik keseneği ve
@@ -36,6 +27,15 @@ tarihe kadar geçen süre için Yİ-ÜFE aylık değişim oranları esas alınar
 bu maddede belirtilen süre ve şekilde ödenmesi hâlinde, bu alacaklara uygulanan gecikme
 cezası ve gecikme zammı gibi ferî alacakların tamamının tahsilinden vazgeçilir.
 (2) 30/4/2014 tarihine kadar (bu tarih dâhil) işlenen fiillere ilişkin olup bu maddenin
+
+245 24/11/2014 tarihli ve 2014/7016 sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu
+maddede yer alan başvuru süresi ile ilk taksit ödeme süresi, sözkonusu maddenin birinci fıkrasının (d)
+bendi hükümlerine ilişkin süreler hariç olmak üzere, aynı maddede belirtilen sürelerin bitiminden
+itibaren bir ay uzatılmıştır.
+246 31/3/2015 tarihli ve 29312 sayılı Resmi Gazete’de yayımlanan 23/3/2015 tarihli ve 2015/7470
+sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu maddede yer alan başvuru süresi ile
+ilk taksit ödeme süresinin aynı maddenin birinci fıkrasının (d) bendinde belirtilen borçlular yönünden
+maddede belirtilen sürelerin bitiminden itibaren altı ay uzatılması kararlaştırılmıştır.
 yayımlandığı tarih itibarıyla ödenmemiş olan idari para cezası asıllarının %50’si ile bu tutara
 ödeme sürelerinin bittiği tarihlerden bu maddenin yayımlandığı tarihe kadar geçen süre için
 Yİ-ÜFE aylık değişim oranları esas alınarak hesaplanacak tutarın, bu maddede belirtilen süre

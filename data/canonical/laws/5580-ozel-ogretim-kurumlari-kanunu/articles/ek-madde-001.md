@@ -1,6 +1,10 @@
 # EK MADDE 1
 
 (Ek: 1/3/2014-6528/12 md.)18
+
+18 2022-2023 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için 26/7/2022
+tarihli ve 31904 sayılı Resmi Gazete’ de yayımlanan 5580 Sayılı Kanun Kapsamında Açılan Özel
+Okullarda Öğrenim Gören ve Önceki Yıllarda Eğitim ve Öğretim Desteği Kapsamına Alınıp Öğretim
 (İptal birinci fıkra: Anayasa Mahkemesinin 13/7/2015 tarihli ve E.: 2014/88, K.:
 2015/68 sayılı Kararı ile.)
 Bu Kanun kapsamında örgün eğitim yapan özel ilkokul, özel ortaokul ve özel liselerde
@@ -9,12 +13,6 @@ bir öğrencinin okul türüne göre her kademede okulun öğrenim süresini aş
 ve öğretim desteği verilebilir. Bu fıkra kapsamındaki eğitim ve öğretim desteğinden özel okul
 öncesi eğitim kurumlarından eğitim alanlar da, 48-66 ay arasında olmak şartıyla en fazla bir
 eğitim-öğretim yılı süresince yararlandırılabilir.
-
-18 2022-2023 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için 26/7/2022
-tarihli ve 31904 sayılı Resmi Gazete’ de yayımlanan 5580 Sayılı Kanun Kapsamında Açılan Özel
-Okullarda Öğrenim Gören ve Önceki Yıllarda Eğitim ve Öğretim Desteği Kapsamına Alınıp Öğretim
-Kademesini Tamamlamayan Öğrencilere 2022-2023 Eğitim Öğretim Yılında Eğitim ve Öğretim
-Desteği Ödemesine İlişkin Tebliğe bakınız.
 Eğitim ve öğretim desteği, Bakanlıkça eğitim kademelerine göre her bir derslik için
 belirlenen asgari öğrenci sayısının üzerinde ve her hâlükârda derslik başına belirlenen azami
 öğrenci sayısını geçmemek üzere verilebilir. Eğitim ve öğretim desteği verilecek toplam
@@ -43,5 +41,10 @@ göre Maliye Bakanlığına bağlı vergi daireleri tarafından takip ve tahsil 
 Bu madde kapsamında Bakanlıkta istihdam edileceklerde aranacak şartlar, eğitim ve
 öğretim desteğinin verilmesine ilişkin ölçütler, desteğin verileceği eğitim kurumu türleri,
 eğitim kademeleri ve kurumlar itibarıyla verilecek destek tutarları, eğitim ve öğretim
+
+Kademesini Tamamlamayan Öğrencilere 2022-2023 Eğitim Öğretim Yılında Eğitim ve Öğretim
+Desteği Ödemesine İlişkin Tebliğe bakınız.
+19 27/6/2019 tarihli ve 7180 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “eğitim ve
+öğretim desteği,” ibaresi madde metninden çıkarılmıştır.
 desteğinin kontrol ve denetimi ile bu maddenin uygulanmasına ilişkin diğer usul ve esaslar
 Maliye Bakanlığı ve Bakanlıkça müştereken hazırlanan yönetmelikle belirlenir.

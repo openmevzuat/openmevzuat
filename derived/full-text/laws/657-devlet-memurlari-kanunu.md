@@ -1985,12 +1985,8 @@ Hizmetleri Sınıfı” şeklinde değiştirilmiştir.
 subaylıkta” ibaresi “okul devresi dâhil yedek astsubaylık ve yedek subaylıkta” şeklinde değiştirilmiştir.
 ve emeklilik keseneğine esas aylık derecelerinin yükselmesinde gözönüne alınır. Ancak
 atandıkları kadro aylıkları, başka görevlere atanma halinde kazanılmış hak sayılmaz.
-(Ek paragraf: 2/7/2018 - KHK-703/172 md.) Cumhurbaşkanı onayıyla yapılan
-atamalarda Cumhurbaşkanlığı kararnamesinde öngörülen hizmet süresi şartları aranır. Üst
-kademe kamu yöneticisi sayılmayan daire başkanı ve bu kadrolara denk yönetici kadrolarına
-yapılacak atamalarda bu bentte öngörülen hizmet süresi yükseköğrenim gördükten sonra beş
-yıl olarak uygulanır. Ancak bu beş yıllık sürenin hesabında Devlet memurlarının kazanılmış
-hak aylık derece ve kademesinde değerlendirilen hizmet süreleri esas alınır.
+(Ek paragraf: 2/7/2018 - KHK-703/172 md.) (Mülga paragraf:24/7/2026-7590/2
+md.)
 C) (Ek: 13/2/2011 - 6111/101 md.) Derece yükselmesi ile ilgili onay mercii atamaya
 yetkili amirdir. Müşterek kararla atanmış olanların derece yükselmeleri, ilgili bakanın veya
 yetkili kıldığı makamın onayı ile yapılır. Üst derece kadroya atanmış olup da kazanılmış hak
@@ -2030,6 +2026,10 @@ geçecekleri sınıf ve görev için bu Kanunda, kuruluş kanunlarında veya Cum
 kararnamelerinde belirtilen niteliklere sahip olmaları şarttır. Bu durumda sınıfları değişenlerin
 eski sınıflarının derecesinde elde ettikleri kademelerde geçirdikleri süreler yeni sınıflardaki
 derecelerinde dikkate alınır.145
+
+145 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “veya
+kuruluş kanunlarında” ibaresi “, kuruluş kanunlarında veya Cumhurbaşkanlığı kararnamelerinde” şeklinde
+değiştirilmiştir.
 Kurumlar, memurlarını meslekleri ile ilgili sınıftan genel idare hizmetleri sınıfına veya
 genel idare hizmetleri sınıfından meslekleri ile ilgili sınıfa, görev ve unvan eşitliği
 gözetmeden kazanılmış hak aylık dereceleriyle atayabilirler.
@@ -2067,10 +2067,6 @@ ve kıdem aylığı dahil), ek gösterge, zam ve tazminatlarının kanuni kesint
 sonraki net miktarının, eşleri;
 a) Olağanüstü Hal Bölgesine dahil illerle bu illere mücavir olarak belirlenen illerde
 görevli olanlara % 60'ı,
-
-145 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “veya
-kuruluş kanunlarında” ibaresi “, kuruluş kanunlarında veya Cumhurbaşkanlığı kararnamelerinde” şeklinde
-değiştirilmiştir.
 b) Kalkınmada 1 inci derecede öncelikli yörelerde görevli olanlara % 50'si,
 c) Kalkınmada 2 nci derecede öncelikli yörelerde görevli olanlara % 25'i,
 kurumlarınca kadro tasarrufundan ödenir.
@@ -2154,6 +2150,10 @@ MADDE 77 — Yabancı bir memleket veya uluslararası kuruluşta hizmet alma:147
 
 (Değişik: 30/5/1974 – KHK-12; değiştirilerek kabul: 15/5/1975 - 1897/1
 md.)
+(Değişik birinci fıkra: 13/2/2011 - 6111/102 md.) Yabancı memleketlerin resmî
+kurumları veya uluslararası kuruluşlarda ya da Cumhurbaşkanınca belirlenen yurtdışındaki
+kuruluşlarda kurumlarının muvafakati ile görev alacak memurlara, ilgili Bakanın onayı ile
+(her üç yılda bir Bakan onayı yenilenmek kaydıyla) memuriyeti süresince yabancı
 
 146 29/11/1984 tarih ve 243 sayılı K.H.K.'nin 55 inci maddesi uyarınca; 13/12/1960 tarih ve 160 sayılı Kanunun
 4 üncü maddesine yapılan atıflar, 8/6/1984 gün ve 217 sayılı K.H.K.'nin ilgili maddesine yapılmış sayılmaktadır.
@@ -2165,10 +2165,6 @@ uluslararası kuruluşlarda” ibaresi ile “yabancı memleketlerin resmi kurum
 alan “yabancı memleketlerde veya uluslararası kuruluşlarda görevde” ibaresi “birinci fıkra kapsamındaki
 görevlerde” şeklinde ve üçüncü fıkrasında yer alan “yabancı memleketlerde veya uluslararası kuruluşlarda”
 ibaresi “birinci fıkra kapsamındaki görevlerde” şeklinde değiştirilmiştir.
-(Değişik birinci fıkra: 13/2/2011 - 6111/102 md.) Yabancı memleketlerin resmî
-kurumları veya uluslararası kuruluşlarda ya da Cumhurbaşkanınca belirlenen yurtdışındaki
-kuruluşlarda kurumlarının muvafakati ile görev alacak memurlara, ilgili Bakanın onayı ile
-(her üç yılda bir Bakan onayı yenilenmek kaydıyla) memuriyeti süresince yabancı
 memleketlerin resmî kurumlarında ya da Cumhurbaşkanınca belirlenen yurtdışındaki
 kuruluşlarda on yıla, uluslararası kuruluşlarda yirmibir yıla kadar aylıksız izin verilebilir.
 Yukarıdaki fıkraya göre izin alan memurların kadro ile ilişkileri devam eder ve birinci
@@ -2242,6 +2238,13 @@ bir talimatla belirtilir.152
 
 Silah altına alınma:
 
+MADDE 81
+
+Hazarda ve seferde muvazzaflık hizmeti dışında silah altına alınan Devlet
+memurları, silah altında bulundukları sürece izinli sayılırlar.
+
+Terhis edilenlerin görevlerine dönmeleri:
+
 148 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan
 “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 149 17/9/2004 tarihli ve 5234 sayılı Kanunun 1 inci maddesiyle bu madde başlığı “78 ve 79 uncu maddelerin
@@ -2254,13 +2257,6 @@ olarak değiştirilmiştir.
 152 15/8/2017 tarihli ve 694 sayılı KHK’nin 26 ncı maddesiyle, bu paragrafta yer alan “Başbakan” ibaresi
 “Cumhurbaşkanı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 26 ncı
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
-
-MADDE 81
-
-Hazarda ve seferde muvazzaflık hizmeti dışında silah altına alınan Devlet
-memurları, silah altında bulundukları sürece izinli sayılırlar.
-
-Terhis edilenlerin görevlerine dönmeleri:
 
 MADDE 82
 
@@ -2340,7 +2336,12 @@ verilmek suretiyle memurlar arasından atama yapılabilir.
 günü geçmemek üzere çalıştıkları her ay için iki gün yıllık izin verilir. Bu iznin kullanımında,
 bir sonraki yıla devredilme hâli dışında Devlet memurları için öngörülen hükümler uygulanır.
 
-İkinci görev yasağı:157
+MADDE 87 — İkinci görev yasağı:157
+
+(Değişik: 30/5/1974 – KHK-12; Değiştirilerek kabul: 15/5/1975 -
+1897/1 md.)
+Memurlara;
+a) Bu Kanuna tabi kurumlarda,
 
 153 21/6/2005 tarihli ve 5371 sayılı Kanunun 5 inci maddesiyle, bu fıkraya, “eczacılık” ibaresinden sonra gelmek
 üzere “köy ve beldelerdeki ebelik ve hemşirelik,” ibaresi eklenmiştir.
@@ -2354,13 +2355,6 @@ ibaresi “vaizlik, Kur’an kursu öğreticiliği, imam-hatiplik ve müezzin-ka
 fıkrasının (c) bendinde yer alan “özel kanunların verdiği yetkiye dayanılarak” ibaresi “Cumhurbaşkanlığı
 kararnameleriyle” şeklinde değiştirilmiş ve ikinci fıkrasına “özel kanunlarla” ibarelerinden sonra gelmek üzere
 “veya Cumhurbaşkanlığı kararnameleriyle” ibaresi eklenmiştir.
-
-MADDE 87
-
-(Değişik: 30/5/1974 – KHK-12; Değiştirilerek kabul: 15/5/1975 -
-1897/1 md.)
-Memurlara;
-a) Bu Kanuna tabi kurumlarda,
 b) Sermayesinin tamamı Devlet tarafından verilmek suretiyle kurulan iktisadi
 kurumlar ile sermayesinin yarısından fazlası Devlete ait bankalarda,
 c) Özel kanunlarla veya Cumhurbaşkanlığı kararnameleriyle kurulan banka ve
@@ -2397,12 +2391,12 @@ Adli Tıp Kurumu Uzmanlıkları,
 yüksek mühendis, mühendis, yüksek mimar ve mimarlarca yürütülmesi gereken teknik
 hizmetleri,
 İkinci görev olarak verilebilir.
-
-158 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu bentte yer alan “veya
-özel kanunların” ibaresi “, Cumhurbaşkanlığı kararnameleriyle veya bunların” şeklinde değiştirilmiştir.
 (Değişik: 23/2/1995 – KHK-547/8 md.) Asıl görevlerinin yanında;
 a) (Değişik: 4/7/2012-6354/ 3 md.) Tabiplere; il ve ilçe sağlık müdürlüğü, il sağlık
 müdür yardımcılığı, halk sağlığı müdürlüğü, halk sağlığı müdür yardımcılığı, sağlık grup
+
+158 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu bentte yer alan “veya
+özel kanunların” ibaresi “, Cumhurbaşkanlığı kararnameleriyle veya bunların” şeklinde değiştirilmiştir.
 başkanlığı, baştabiplik, baştabip yardımcılığı ile il sağlık ve halk sağlığı müdürlüklerinde
 ilgili mevzuatı uyarınca tabipler tarafından yürütülmesi öngörülen şube müdürlükleri,
 b) Diş hekimlerine ve veterinerlere, meslekleri ile ilgili baştabiplik,
@@ -2446,12 +2440,12 @@ Söz konusu memurların eski kadrolarına ait en son ayda aldığı malî haklar
 fiilen yapılmakta olan her türlü ödemeler toplamının net tutarının, atandıkları yeni kadrolarına
 ait malî haklar kapsamında fiilen yapılmakta olan her türlü ödemeler toplamının net
 tutarından fazla olması hâlinde, aradaki fark, farklılık giderilinceye kadar, atandıkları
-
-159 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
-Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 kadrolarda veya bu kadrolardan istekleri dışında atandıkları başka kadrolarda kaldıkları
 sürece, herhangi bir vergi ve kesintiye tabi tutulmaksızın tazminat olarak ödenir. Aylık mutad
 olarak yapılmayıp belirli bir dönemi kapsayan ödemelerin ödendiği tarih itibarıyla net
+
+159 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “ilgili
+Bakanlığın teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 tutarları toplamının yılı içinde çalışılan aylara bölünmesi suretiyle bulunacak tutarı, en son
 ayda aldığı aylık tutarına ilave edilir. Fazla çalışma ücreti, fiilen yapılan ders karşılığı ödenen
 ek ders ücreti ve nöbet ücreti gibi ilave bir çalışmanın karşılığında elde edilen ödemeler aylık
@@ -2585,6 +2579,8 @@ BÖLÜM: 5
 MADDE 99
 
 (Değişik: 30/5/1974 – KHK-12; Aynen kabul: 15/5/1975 - 1897/1 md.)
+Memurların haftalık çalışma süresi genel olarak 40 saattir.
+Bu süre Cumartesi ve Pazar günleri tatil olmak üzere düzenlenir.
 
 160 13/2/2011 tarihli ve 6111 sayılı Kanunun 117 nci maddesiyle bu bentte yer alan “ve sicil” ibaresi yürürlükten
 kaldırılmıştır.
@@ -2592,8 +2588,6 @@ kaldırılmıştır.
 fıkrasında yer alan “özel kanunlarla yahut bu kanuna veya özel kanunlara dayanılarak çıkarılacak tüzük ve”
 ibaresi “bu kanuna, özel kanunlara, Cumhurbaşkanlığı kararnamelerine veya bunlara dayanılarak çıkarılacak”
 şeklinde, dördüncü fıkrasında yer alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-Memurların haftalık çalışma süresi genel olarak 40 saattir.
-Bu süre Cumartesi ve Pazar günleri tatil olmak üzere düzenlenir.
 Ancak bu kanuna, özel kanunlara, Cumhurbaşkanlığı kararnamelerine veya bunlara
 dayanılarak çıkarılacak yönetmeliklerle, kurumların ve hizmetlerin özellikleri dikkate alınmak
 suretiyle farklı çalışma süreleri tespit olunabilir.
@@ -2627,6 +2621,12 @@ yirmidördüncü haftasından önce ve her hâlde hamileliğin yirmidördüncü 
 ve doğumdan sonraki iki yıl süreyle gece nöbeti ve gece vardiyası görevi verilemez. Engelli
 memurlara da isteği dışında gece nöbeti ve gece vardiyası görevi verilemez.164165
 
+Yıllık izin:
+
+MADDE 102
+
+(Değişik: 31/7/1970 - 1327/46 md.)
+
 162 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu maddenin birinci
 fıkrasında yer alan “Başbakanlık Devlet Personel Başkanlığının teklifi üzerine Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde ve üçüncü fıkrasında yer alan “Devlet Personel Başkanlığının teklifi üzerine
@@ -2637,11 +2637,6 @@ ibareleri sırasıyla “engelliler” ve “engel” şeklinde değiştirilmiş
 şeklinde değiştirilmiştir.
 165 12/7/2013 tarihli ve 6495 sayılı Kanunun 8 inci maddesiyle, bu fıkrada yer alan “doğumdan sonraki bir yıl
 süreyle” ibaresi “doğumdan sonraki iki yıl süreyle” şeklinde değiştirilmiştir.
-Yıllık izin:
-
-MADDE 102
-
-(Değişik: 31/7/1970 - 1327/46 md.)
 Devlet memurlarının yıllık izin süresi, hizmeti 1 yıldan on yıla kadar (On yıl dahil)
 olanlar için yirmi gün, hizmeti on yıldan fazla olanlar için 30 gündür. Zorunlu hallerde bu
 sürelere gidiş ve dönüş için en çok ikişer gün eklenebilir.
@@ -2677,6 +2672,8 @@ kullanılırken annenin ölümü hâlinde, isteği üzerine memur olan babaya an
 süre kadar izin verilir. (Ek cümleler: 29/1/2016 - 6663/6 md.) Üç yaşını doldurmamış bir
 çocuğu eşiyle birlikte veya münferit olarak evlat edinen memurlar ile memur olmayan eşin
 münferit olarak evlat edinmesi hâlinde memur olan eşlerine, çocuğun teslim edildiği tarihten
+itibaren sekiz hafta süre ile izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen
+teslim edildiği durumlarda da uygulanır. (Ek cümle:22/4/2026-7578/2 md.) Bir veya daha
 
 166 20/2/2014 tarihli ve 6525 sayılı Kanunun 7 nci maddesiyle, bu maddeye (E) fıkrası eklenmiş, mevcut (E)
 fıkrası (F) olarak teselsül ettirilmiştir.
@@ -2685,8 +2682,6 @@ fıkrası (F) olarak teselsül ettirilmiştir.
 168 Bu maddenin uygulanması ile ilgili olarak 13/4/2016 tarihli ve 29683 sayılı Resmi Gazete’de yayımlanan
 Kamu Personeli Genel Tebliği’ne (Seri No: 6) bakınız.
 
-itibaren sekiz hafta süre ile izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen
-teslim edildiği durumlarda da uygulanır. (Ek cümle:22/4/2026-7578/2 md.) Bir veya daha
 fazla çocuğa eşiyle birlikte veya münferit olarak koruyucu aile olan memura çocuğun
 koruyucu aile yanına teslim edildiği tarihten sonra isteği üzerine on gün izin verilir.169
 B) Memura, eşinin doğum yapması hâlinde, isteği üzerine on gün babalık izni;

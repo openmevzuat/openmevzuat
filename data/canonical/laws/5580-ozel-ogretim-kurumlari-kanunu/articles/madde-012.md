@@ -1,4 +1,4 @@
-# MADDE 12 — Malî hükümler1516
+# MADDE 12
 
 Kurumlar, faaliyetlerini sadece kazanç sağlamak için düzenleyemezler.
 Ancak, Türk Millî Eğitiminin amaçları doğrultusunda eğitimin kalitesini yükseltmek,
@@ -7,16 +7,6 @@ Okulların su, doğal gaz ve elektrik ücretlendirilmesi, resmî okullara uygula
 üzerinden uygulanır.
 (Ek fıkra: 4/7/2012-6353/42 md.) Bu Kanun kapsamında organize sanayi
 bölgelerinde açılan mesleki ve teknik eğitim okullarında öğrenim gören Türkiye Cumhuriyeti
-
-15
- 2023-2024 eğitim ve öğretim yılı için uygulanacak eğitim ve öğretim desteği tutarları için; 2/9/2023
-tarihli ve 32297 sayılı Resmi Gazete’ de yayımlanan 2023-2024 Eğitim Öğretim Yılında Organize
-Sanayi Bölgeleri İçinde ve Organize Sanayi Bölgeleri Dışında Açılan Özel Meslekî Ve Teknik Anadolu
-Liselerinde Öğrenim Gören/Görecek Öğrenciler İçin Eğitim ve Öğretim Desteği Verilmesine İlişkin
-Tebliğe bakınız.
-16 27/6/2019 tarihli ve 7180 sayılı Kanunun 12 nci maddesiyle, bu maddenin üçüncü ve dördüncü
-fıkralarında yer alan “mesleki ve teknik eğitim okullarında öğrenim gören” ibarelerinden sonra gelmek
-üzere “Türkiye Cumhuriyeti vatandaşı” ibareleri eklenmiştir.
 vatandaşı her bir öğrenci için, 2012-2013 eğitim ve öğretim yılından başlamak üzere, resmî
 okullarda öğrenim gören bir öğrencinin okul türüne göre Devlete maliyetinin bir buçuk katını
 geçmemek üzere, her eğitim öğretim yılı itibarıyla Maliye Bakanlığı ile Bakanlık tarafından
@@ -45,6 +35,12 @@ becerilerini geliştirmek amacıyla alan ve dalların özelliklerine göre Bakan
 standartlara ve donanıma sahip atölye ve laboratuvarlarda üretim yapılabilir ve üretilen malların
 satışından elde edilen gelir okulun eğitim, öğretim ve yönetim hizmetlerinde kullanılır. Üretimde
 görev alan öğrenci ve personele ödenen pay ile üretim şartlarına ilişkin usul ve esaslar
+
+16 27/6/2019 tarihli ve 7180 sayılı Kanunun 12 nci maddesiyle, bu maddenin üçüncü ve dördüncü
+fıkralarında yer alan “mesleki ve teknik eğitim okullarında öğrenim gören” ibarelerinden sonra gelmek
+üzere “Türkiye Cumhuriyeti vatandaşı” ibareleri eklenmiştir.
+17 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 177 nci maddesiyle bu fıkrada yer
+alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 yönetmelikle düzenlenir.
 (Ek fıkra: 9/5/2018-7141/13 md.) Bu Kanun kapsamında faaliyet gösteren çeşitli
 kurslar, kurumlarında öğretim faaliyetlerinin yanında, programlarının içeriğine uygun, eğitim

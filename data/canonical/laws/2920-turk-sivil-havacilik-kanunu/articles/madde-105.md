@@ -6,9 +6,6 @@ tarihli Tokyo, 1970 tarihli Lahey ve 1971 tarihli Montreal sözleşmeleri hükü
 ÜÇÜNCÜ KISIM
 Havayolu ile Taşımalar
 
-17 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
-alan “tüzük veya yönetmelik” ibaresi “ilgili mevzuat” şeklinde değiştirilmiştir.
-
 BİRİNCİ BÖLÜM
 İç Hat Taşıma Sözleşmesi
 Uygulanacak hükümler

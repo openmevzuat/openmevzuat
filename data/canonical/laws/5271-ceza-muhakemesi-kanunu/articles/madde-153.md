@@ -3,22 +3,22 @@
 (Değişik: 2/12/2014-6572/44 md.)
 (1) Müdafi, soruşturma evresinde dosya içeriğini inceleyebilir ve istediği belgelerin bir
 
-56 3/10/2016 tarihli ve 676 sayılı KHK’nin 2 nci maddesiyle, bu fıkrada yer alan “tutuklu ve” ibaresi
+55 3/10/2016 tarihli ve 676 sayılı KHK’nin 2 nci maddesiyle, bu fıkrada yer alan “tutuklu ve” ibaresi
 “şüpheli, sanık veya” şeklinde, “kovuşturma açılması halinde tutuklu veya hükümlünün müdafilik
 veya vekilliğini” ibaresi “soruşturma ya da kovuşturma bulunması halinde müdafilik veya vekillik
 görevini” şeklinde değiştirilmiştir.
-57 Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı ile bu fıkrada yer
+56 Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı ile bu fıkrada yer
 alan “soruşturma ya da” ibaresi iptal edilmiştir.
-58 3/10/2016 tarihli ve 676 sayılı KHK’nin 2 nci maddesiyle, bu fıkrada yer alan “müdafi veya vekil
+57 3/10/2016 tarihli ve 676 sayılı KHK’nin 2 nci maddesiyle, bu fıkrada yer alan “müdafi veya vekil
 hakkında açılan kovuşturmanın yapıldığı” ibaresi “hâkim veya” şeklinde, “Kovuşturma sonunda”
 ibaresi “Soruşturma sonunda kovuşturmaya yer olmadığına dair karar verilmesi veya kovuşturma
 sonunda” şeklinde değiştirilmiş, aynı fıkraya “Müdafilik görevinden yasaklama kararı,” ibaresinden
 sonra gelmek üzere “avukat hakkındaki soruşturma veya” ibaresi ve “Ancak,” ibaresinden sonra
 gelmek üzere “soruşturma veya” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070
 sayılı Kanunun 2 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-59 Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı ile bu fıkrada yer
+58 Anayasa Mahkemesinin 24/7/2019 tarihli ve E.:2018/73; K.:2019/65 sayılı Kararı ile bu fıkrada yer
 alan “avukat hakkındaki soruşturma veya” ibaresi ve “soruşturma veya” ibaresi iptal edilmiştir.
-60 3/10/2016 tarihli ve 676 sayılı KHK’nin 2 nci maddesiyle, bu fıkrada yer alan “tutuklu” ibaresi
+59 3/10/2016 tarihli ve 676 sayılı KHK’nin 2 nci maddesiyle, bu fıkrada yer alan “tutuklu” ibaresi
 “şüpheli, sanık” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun
 2 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 örneğini harçsız olarak alabilir.

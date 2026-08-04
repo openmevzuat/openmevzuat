@@ -1,4 +1,4 @@
-# MADDE 50 — Yurtdışında görevlendirme ve malî haklar:53
+# MADDE 50 — Yurtdışında görevlendirme ve malî haklar:54
 
 (Değişik: 8/8/2011-KHK-650/20 md.)
 (Değişik birinci fıkra: 15/2/2014-6524/2 md.) Hâkim ve savcıların, dış temsilciliklerde,
@@ -16,9 +16,9 @@ görevden çekilmiş sayılarak haklarında 40 ıncı madde hükümleri uygulan�
 geçen süreler hâkimlik ve savcılık mesleğinde geçmiş sayılır, ilgilinin kademe ve derece
 ilerlemesinde dikkate alınır ve 49 uncu maddede öngörülen mecburi hizmetten düşülür.
 
-52 15/2/2014 tarihli ve 6524 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “ilgisine göre Hâkimler ve
+53 15/2/2014 tarihli ve 6524 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “ilgisine göre Hâkimler ve
 Savcılar Yüksek Kurulunca veya” ibaresi madde metninden çıkarılmıştır.
-53 8/8/2011 tarihli ve 650 sayılı KHK’nin 20 nci maddesiyle bu madde başlığı “Haklar, yükümlülükler ve
+54 8/8/2011 tarihli ve 650 sayılı KHK’nin 20 nci maddesiyle bu madde başlığı “Haklar, yükümlülükler ve
 giderler:” iken, metne işlendiği şekilde değiştirilmiştir.
 Dış temsilciliklerde, uluslararası mahkeme veya kuruluşlarda Bakan onayıyla
 görevlendirilenlere, sadece gittikleri ülkelerde sürekli görevle bulunan aynı derecede ve

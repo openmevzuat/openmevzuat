@@ -7,4 +7,4 @@ uygulanmasına ilişkin usul ve esaslar yönetmelikle düzenlenir.
 
 YEDİNCİ BÖLÜM
 Koruma Tedbirleri Nedeniyle Tazminat
-Tazminat istemi51
+Tazminat istemi50

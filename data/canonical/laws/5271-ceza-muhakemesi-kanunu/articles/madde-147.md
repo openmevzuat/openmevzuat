@@ -16,7 +16,7 @@ f) Şüpheden kurtulması için somut delillerin toplanmasını isteyebileceği 
 kendisi aleyhine var olan şüphe nedenlerini ortadan kaldırmak ve lehine olan hususları ileri
 sürmek olanağı tanınır.
 
-54 Bu madde başlığı “Şüpheli veya sanığın zorla getirilmesi “ iken, 6/12/2006 tarihli ve 5560 sayılı
+53 Bu madde başlığı “Şüpheli veya sanığın zorla getirilmesi “ iken, 6/12/2006 tarihli ve 5560 sayılı
 Kanunun 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 g) İfade verenin veya sorguya çekilenin kişisel ve ekonomik durumu hakkında bilgi alınır.
 h) İfade ve sorgu işlemlerinin kaydında, teknik imkânlardan yararlanılır.

@@ -3,7 +3,7 @@
 Bu Kanunun uygulanmasında;
 Mal : Satın alınan her türlü ihtiyaç maddeleri ile taşınır ve taşınmaz mal ve hakları,
 Hizmet: (Değişik: 30/7/2003-4964/3 md.) Bakım ve onarım, taşıma, haberleşme, sigorta,
-araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, (…)15, tanıtım,
+araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, (…)16, tanıtım,
 basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme,
 koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine
 yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve
@@ -36,7 +36,7 @@ ihale veya ön yeterlik dokümanı satın almış gerçek veya tüzel kişiyi ya
 ortak girişimi,
 Yerli istekli: (Değişik: 30/7/2003-4964/3 md.) Türkiye Cumhuriyeti vatandaşı gerçek
 
-15 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu tanımda yer alan “mimarlık ve
+16 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu tanımda yer alan “mimarlık ve
 mühendislik, etüt ve proje, harita ve kadastro, imar uygulama, her ölçekte imar planı” ibareleri metinden
 çıkarılmıştır.
 kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
@@ -58,7 +58,7 @@ araştırmaları yapılmış olan, yapı elemanlarının ölçülendirilip boyut
 gereçleri ile teknik özelliklerinin belirtildiği projeyi,
 Uygulama projesi : Belli bir yapının onaylanmış kesin projesine göre yapının her türlü
 ayrıntısının belirtildiği projeyi,
-(…)16
+(…)17
 İhale : Bu Kanunda yazılı usul ve şartlarla mal veya hizmet alımları ile yapım işlerinin
 istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını
 müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
@@ -76,7 +76,7 @@ Sözleşme: Mal veya hizmet alımları ile yapım işlerinde idare ile yüklenic
 yapılan yazılı anlaşmayı,
 Kurum: Kamu İhale Kurumunu,
 
-16 14/7/2004 tarihli ve 5226 sayılı Kanunun 22 nci maddesiyle bu maddede yer alan “Röleve Projesi”,
+17 14/7/2004 tarihli ve 5226 sayılı Kanunun 22 nci maddesiyle bu maddede yer alan “Röleve Projesi”,
 “Restorasyon projesi” ve “Restitüsyon Projesi” tanımları, madde metninden çıkartılmıştır.
 Kurul : Kamu İhale Kurulunu,
 Ön ilan: (Ek: 20/11/2008-5812/2 md.) Yıl içerisinde ihale edilmesi planlanmış işlere

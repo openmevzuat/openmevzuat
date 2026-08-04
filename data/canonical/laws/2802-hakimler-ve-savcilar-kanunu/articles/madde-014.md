@@ -5,4 +5,4 @@ atananların askerlikte geçen süreleri kademe ilerlemesi ve derece yükselmesi
 
 İKİNCİ BÖLÜM
 Hakimliğin ve Savcılığın Sınıf ve Dereceleri
-Sınıflar ve kıdem:29
+Sınıflar ve kıdem:30

@@ -4,9 +4,6 @@
 Yurt içi üretimin ve katma değerin artırılması, teknoloji kazanımının sağlanması, daha
 önce yurt içinde üretimi bulunmayan ürünlerin üretilebilmesi, yeni teknoloji ve ürünlere yönelik
 araştırma-geliştirme faaliyetlerinin sürdürülmesi ve bilgi toplumuna geçiş hedefleriyle, Millî
-
-78 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Eğitim Bakanlığına bağlı okulöncesi, ilköğretim ve ortaöğretim kademelerindeki okulların
 dersliklerine bilişim teknolojisi donanımı, yazılımı, ağ altyapısı ve internet erişim imkânının
 sağlanması, dersler için çevrim içi ve çevrim dışı ortamlarda e-içerik temin edilmesi ve e-içerik

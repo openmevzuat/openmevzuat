@@ -12,6 +12,3 @@ fıkra hükmü uygulanmaz.
 yanlışlıkları hakkında da bu hüküm uygulanır.
 (4) Karar, usule ve kanuna uygun olup da gösterilen gerekçe doğru bulunmazsa, gerekçe
 değiştirilerek ve düzeltilerek onanır.
-
-61 31/3/2011 tarihli ve 6217 sayılı Kanunun 28 inci maddesiyle, bu fıkralarda yer alan “yirmibin”
-ibareleri “altmışbin” olarak değiştirilmiş ve metne işlenmiştir.

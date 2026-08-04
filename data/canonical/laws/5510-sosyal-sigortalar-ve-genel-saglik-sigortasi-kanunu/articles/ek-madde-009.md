@@ -1,4 +1,4 @@
-# EK MADDE 9 — Ev hizmetlerinde çalışanların sigortalılığı ve konut kapıcılığı193
+# EK MADDE 9 — Ev hizmetlerinde çalışanların sigortalılığı ve konut kapıcılığı194
 
 (Ek: 10/9/2014-6552/55 md.)
 Ev hizmetlerinde bir veya birden fazla gerçek kişi tarafından çalıştırılan ve çalıştıkları
@@ -8,7 +8,7 @@ Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamındaki sigort
 hükümler uygulanır. Bunların bildirimi, işverenler tarafından örneği Kurumca hazırlanan
 belgeyle en geç çalışmanın geçtiği ayın sonuna kadar yapılır. Süresinde yapılmayan bildirim
 için işverene 102 nci maddenin birinci fıkrasının (a) bendinin (1) numaralı alt bendi hükmü
-uygulanır.194
+uygulanır.195
 Ev hizmetlerinde bir veya birden fazla gerçek kişi tarafından çalıştırılan ve çalıştıkları
 kişi yanında ay içinde çalışma saati süresine göre hesaplanan çalışma gün sayısı 10 günden az
 olanlar için ise, çalıştırıldıkları süreyle orantılı olarak çalıştıranlarca 82 nci maddeye göre
@@ -21,18 +21,20 @@ hastalık sigortası hükümleri uygulanmaz. Bu fıkra kapsamına girenler, adla
 ait olduğu ayı takip eden ayın sonuna kadar aynı kazancın otuz katının %33,5 oranında prim
 ödeyebilir. Bunun %21’i malullük, yaşlılık ve ölüm sigortaları, %12,5'i genel sağlık sigortası
 primidir. Bu süre içinde ödenmeyen primin ödenme hakkı düşer. Ödenen primler 4 üncü
-
-193 Bu maddenin “Ev hizmetlerinde çalışanların sigortalılığı” olan başlığı, 21/3/2018 tarihli ve 7103
-sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-194 21/3/2018 tarihli ve 7103 sayılı Kanunun 68 inci maddesiyle bu fıkraya “10 gün ve daha fazla olan
-sigortalılar” ibaresinden sonra gelmek üzere “ile konut kapıcılığı işyerlerinde çalıştırılan sigortalılar”
-ibaresi eklenmiştir.
-maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık sayılır.195
+maddenin birinci fıkrasının (a) bendi kapsamında sigortalılık sayılır.196
 İkinci fıkra kapsamındakileri çalıştıranlar bu Kanun uygulamasında işveren sayılmaz.
 Sigortalının iş kazası ve meslek hastalığı sigorta kollarından sağlanan yardımlardan
 yararlanabilmesi için iş kazasının olduğu tarihten en az on gün önce tescil edilmiş olması ve
 sigortalılığının sona ermemiş olması, bu Kanuna göre iş kazası veya meslek hastalığından
 dolayı geçici iş göremezlik ödeneği ödenmesi veya sürekli iş göremezlik geliri ya da
+
+194 Bu maddenin “Ev hizmetlerinde çalışanların sigortalılığı” olan başlığı, 21/3/2018 tarihli ve 7103
+sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+195 21/3/2018 tarihli ve 7103 sayılı Kanunun 68 inci maddesiyle bu fıkraya “10 gün ve daha fazla olan
+sigortalılar” ibaresinden sonra gelmek üzere “ile konut kapıcılığı işyerlerinde çalıştırılan sigortalılar”
+ibaresi eklenmiştir.
+196 4/12/2025 tarihli ve 7566 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “%32,5” ibaresi
+“%33,5”, “%20’si” ibaresi “%21’i” şeklinde değiştirilmiştir.
 malullük, yaşlılık ve ölüm sigortalarından aylık bağlanabilmesi için prim ve prime ilişkin her
 türlü borçlarının ödenmiş olması şarttır. Bu sigortalılar ile ilgili iş kazası ve meslek hastalığı
 olaylarında Kanunun 21 inci maddesinin birinci fıkrası hükümleri uygulanmaz.

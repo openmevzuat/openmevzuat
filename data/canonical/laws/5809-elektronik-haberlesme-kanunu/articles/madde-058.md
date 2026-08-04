@@ -8,7 +8,7 @@ cihazının elektronik haberleşme bağlantısının kesilmesi için öncelikle 
 başvururlar.
 
 ALTINCI KISIM
-Denetim, Kurumun Yetkisi, İdari Yaptırımlar
+Denetim, Kurumun ve Başkanlığın Yetkileri, İdari Yaptırımlar17
 
 BİRİNCİ BÖLÜM
 Denetim

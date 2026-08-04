@@ -10,9 +10,6 @@ c) Bu kanunda verilen görevleri yapmak.
 d) Mahkemenin istediği konularda ve uygun göreceği sürelerde ara raporlar sunmak.
 e) Alacaklılar kurulunu konkordatonun seyri hakkında düzenli aralıklarla
 bilgilendirmek.
-
-90 Bu maddenin “Mühletin borçlu bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 f) Talepte bulunan diğer alacaklılara konkordatonun seyri ve borçlunun güncel malî
 durumu hakkında bilgi vermek.
 g) Mahkeme tarafından verilen diğer görevleri yerine getirmek.
@@ -25,6 +22,9 @@ tarafından oluşturulan komiser listesinden seçilir. Listeye kayıt için Adal
 tarafından izin verilen kurumlardan alınacak eğitimin tamamlanmış olması zorunludur.
 Ayrıca, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, komiser olarak
 görevlendirilebilecek, yetkilendirilmiş bağımsız denetçileri liste hâlinde bilirkişilik bölge
+
+90 Bu maddenin “Mühletin borçlu bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 kurullarına bildirir. Listede görevlendirilecek komiser bulunmaması hâlinde liste dışından
 görevlendirme yapılır ve bu durum bölge kuruluna bildirilir. Bir kişi eş zamanlı olarak beşten
 fazla dosyada geçici komiser ve komiser olarak görev yapamaz. Komiserin sorumlulukları

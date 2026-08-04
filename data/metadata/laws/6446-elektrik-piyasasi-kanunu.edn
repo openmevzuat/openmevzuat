@@ -5,12 +5,12 @@
  :document/slug "6446-elektrik-piyasasi-kanunu",
  :document/path "data/canonical/laws/6446-elektrik-piyasasi-kanunu",
  :document/sha256
- "bab15ace20d37b7813e32d8765281528716891a5c6e8dd44be68fac0995b0ad9",
+ "afa49b85814f63c95edbaefffa5172b870766fe581dbf10ec8c0804427d48de4",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.6446.pdf",
- :source/fetched-at #inst "2026-07-16T03:00:27.207-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :source/fetched-at #inst "2026-08-04T07:32:48.363-00:00",
+ :openmevzuat/baseline-date "2026-08-04",
+ :openmevzuat/generated-at #inst "2026-08-04T07:30:12.716-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -35,7 +35,7 @@
    :article/title "Tanımlar ve kısaltmalar",
    :article/path "articles/madde-003.md",
    :article/sha256
-   "6f2ba742ca39470fd7f3e178bbcf7e565b0c1eaf9046565de1473295abcb5304"}
+   "020812a1ad8365c1bf3b65e9398b36b49085c521324dc741d7f1b577ada35baa"}
   {:article/id "law/6446/article/4",
    :article/type :normal,
    :article/no "4",
@@ -324,7 +324,7 @@
    :article/title "Genel aydınlatma2930",
    :article/path "articles/gecici-madde-006.md",
    :article/sha256
-   "0b3a0e31a4fd8cd33eb732af70f676181d8fa67270370df2f8f6a9379980f1e0"}
+   "83b10e17346f9c524a7e4facdeee425ba47ef3bc425050dc782cc6b3d8847aa9"}
   {:article/id "law/6446/article/7",
    :article/type :temporary,
    :article/no "7",

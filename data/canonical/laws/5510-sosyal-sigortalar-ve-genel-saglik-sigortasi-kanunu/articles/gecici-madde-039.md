@@ -24,7 +24,7 @@ talep tarihi itibarıyla kadın ise 50, erkek ise 55 yaşından sonra doldurduğ
 (l)’er artırılır, 5000 günden noksan ödediği her 240 gün için (1)’er eksiltilir. Maden
 işyerlerinin yer altı işlerinde çalışması, sigortalı olarak ilk defa çalışmaya başladığı tarihten
 önce malûl olması, engelliliği nedeniyle vergi indiriminden yararlanması veya erken
-yaşlanması nedeniyle tarafına yaşlılık aylığı bağlananlara günden dolayı eksiltme yapılmaz.236
+yaşlanması nedeniyle tarafına yaşlılık aylığı bağlananlara günden dolayı eksiltme yapılmaz.238
 c) Ölüm aylığında; gösterge tablosundan aylık hesaplanmış olan için %60, üst gösterge
 tablosundan aylık hesaplanmış olan için ise 1999 yılı Aralık ayında yürürlükte bulunan ve
 gösterge rakamına göre %59,9 ila %50 arasında belirlenmiş olan taban aylık bağlama oranı
@@ -54,3 +54,6 @@ suretiyle tam aylığa yükseltenler ile geçici 20 nci maddeye göre devir alı
 aylık alanlara devir tarihinden sonra bu madde hükümleri uygulanmaz.
 (9) Bu maddenin uygulanmasına ilişkin tereddütleri gidermeye Kurum Yönetim
 Kurulu yetkilidir.
+
+238 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “sakatlığı” ibaresi
+“engelliliği” şeklinde değiştirilmiştir.

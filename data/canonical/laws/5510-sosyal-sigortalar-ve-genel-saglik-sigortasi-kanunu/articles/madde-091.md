@@ -1,13 +1,6 @@
 # MADDE 91
 
 (Değişik: 15/7/2016-6728/49 md.)
-
-172 13/2/2011 tarihli ve 6111 sayılı Kanunun 43 üncü maddesiyle, bu fıkranın ilk cümlesinde geçen
-“daha önce başlayıp devam eden nakdi olmayanlar” ibaresinden sonra gelmek üzere “ile kamu
-kurum ve kuruluşları tarafından proje ve faaliyetleri karşılığında kamu kurum ve kuruluşlarına
-sağlananlar” ibaresi eklenmiştir.
-173 Bu madde başlığı “Afet durumunda belgelerin verilme süresi ve primlerin ertelenmesi” iken,
-15/7/2016 tarihli ve 6728 sayılı Kanunun 49 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Yangın, su baskını, sel, kuraklık, yer kayması, deprem gibi afetlerle ağır hastalık, ağır
 kaza, tutukluluk ve sabotaj gibi nedenlerle ticari veya ekonomik kayıplara uğrayan işverenler,
 bu Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki sigortalılar ile bu
@@ -35,6 +28,13 @@ gecikme cezası ve gecikme zammı uygulanmaz.
 
 BEŞİNCİ KISIM
 Ortak ve Çeşitli Hükümler
+
+173 13/2/2011 tarihli ve 6111 sayılı Kanunun 43 üncü maddesiyle, bu fıkranın ilk cümlesinde geçen
+“daha önce başlayıp devam eden nakdi olmayanlar” ibaresinden sonra gelmek üzere “ile kamu
+kurum ve kuruluşları tarafından proje ve faaliyetleri karşılığında kamu kurum ve kuruluşlarına
+sağlananlar” ibaresi eklenmiştir.
+174 Bu madde başlığı “Afet durumunda belgelerin verilme süresi ve primlerin ertelenmesi” iken,
+15/7/2016 tarihli ve 6728 sayılı Kanunun 49 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 BİRİNCİ BÖLÜM
 Ortak Hükümler

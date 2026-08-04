@@ -1043,26 +1043,13 @@ açmakta hukuken korunmaya değer güncel bir yararı bulunmalıdır.
 
 MADDE 107 — Belirsiz alacak davası9
 
-(1) Davanın açıldığı tarihte alacağın miktarını yahut değerini tam ve
-kesin olarak belirleyebilmesinin kendisinden beklenemeyeceği veya bunun imkânsız olduğu
-hâllerde, alacaklı, hukuki ilişkiyi ve asgari bir miktar ya da değeri belirtmek suretiyle belirsiz
-alacak davası açabilir.
-(2) (Değişik:22/7/2020-7251/7 md.) Karşı tarafın verdiği bilgi veya tahkikat sonucu
-alacağın miktarı veya değerinin tam ve kesin olarak belirlenebilmesi mümkün olduğunda,
-hâkim tarafından tahkikat sona ermeden verilecek iki haftalık kesin süre içinde davacı,
-iddianın genişletilmesi yasağına tabi olmaksızın talebini tam ve kesin olarak belirleyebilir.
-Aksi takdirde dava, talep sonucunda belirtilen miktar veya değer üzerinden görülüp karara
-bağlanır.
-(3) (Mülga:22/7/2020-7251/7 md.)
+(Mülga:16/7/2026-7589/19 md.)
 
 MADDE 108 — İnşaî dava
 
 (1) İnşaî dava yoluyla, mahkemeden, yeni bir hukuki durum yaratılması
 veya mevcut bir hukuki durumun içeriğinin değiştirilmesi yahut onun ortadan kaldırılması talep
 edilir.
-
-9 22/7/2020 tarihli ve 7251 sayılı Kanunun 7 nci maddesiyle, bu madde başlığı “Belirsiz alacak ve
-tespit davası” iken metne işlendiği şekilde değiştirilmiştir.
 (2) Bir inşaî hakkın, dava yoluyla kullanılmasının zorunlu olduğu hâllerde, inşaî dava
 açılır.
 (3) Kanunlarda aksi belirtilmedikçe, inşaî hükümler, geçmişe etkili değildir.
@@ -1072,9 +1059,16 @@ MADDE 109 — Kısmi dava
 (1) Talep konusunun niteliği itibarıyla bölünebilir olduğu durumlarda,
 sadece bir kısmı da dava yoluyla ileri sürülebilir.
 (2) (Mülga: 1/4/2015-6644/4 md.)
+
+9 22/7/2020 tarihli ve 7251 sayılı Kanunun 7 nci maddesiyle, bu madde başlığı “Belirsiz alacak ve
+tespit davası” iken metne işlendiği şekilde değiştirilmiştir.
 (3) Dava açılırken, talep konusunun kalan kısmından açıkça feragat edilmiş olması
 hâli dışında, kısmi dava açılması, talep konusunun geri kalan kısmından feragat edildiği
 anlamına gelmez.
+(4) (Ek:16/7/2026-7589/20 md.) Alacağın sadece bir kısmının dava edildiği
+durumlarda talep konusu, aynı davada bir defaya mahsus olmak üzere iddianın genişletilmesi
+yasağına tabi olmaksızın tahkikatın sona ermesine kadar artırılabilir. Bu durumda
+zamanaşımı, artırılan kısım bakımından da dava tarihinden itibaren kesilmiş sayılır.
 
 MADDE 110 — Davaların yığılması
 
@@ -1201,15 +1195,17 @@ MADDE 120 — Harç ve gider avansının ödenmesi1011
 yatırmak zorundadır.
 (2) Avansın yeterli olmadığının dava sırasında anlaşılması hâlinde, mahkemece, bu
 eksikliğin tamamlanması için davacıya iki haftalık kesin süre verilir.
+(3) (Ek:22/7/2020-7251/9 md.) Taraflardan her birinin ikamesini talep ettiği delil için
+mahkemece belirlenen delil avansına ilişkin 324 üncü madde hükümleri saklıdır.
+
+Belgelerin birlikte verilmesi
 
 10 Bu maddenin birinci fıkrasında yer alan tarife ile ilgili olarak 24/10/2023 tarihli ve 32349 sayılı
 Resmi Gazete’de yayımlanan “Hukuk Muhakemeleri Kanunu Gider Avansı Tarifesi”ne bakınız.
 11 22/7/2020 tarihli ve 7251 sayılı Kanunun 9 uncu maddesiyle, bu madde başlığı “Harç ve avans
 ödenmesi” iken metne işlendiği şekilde değiştirilmiştir.
-(3) (Ek:22/7/2020-7251/9 md.) Taraflardan her birinin ikamesini talep ettiği delil için
-mahkemece belirlenen delil avansına ilişkin 324 üncü madde hükümleri saklıdır.
 
-MADDE 121 — Belgelerin birlikte verilmesi
+MADDE 121
 
 (1) Dava dilekçesinde gösterilen ve davacının elinde bulunan belgelerin
 asıllarıyla birlikte harç ve vergiye tabi olmaksızın davalı sayısından bir fazla düzenlenmiş
@@ -1248,13 +1244,13 @@ a) İsterse, devreden tarafla olan davasından vazgeçerek, dava konusunu devral
 kişiye karşı davaya devam eder. Bu takdirde dava davacı lehine sonuçlanırsa, dava konusunu
 devreden ve devralan yargılama giderlerinden müteselsilen sorumlu olur.12
 b) İsterse, davasını devreden taraf hakkında tazminat davasına dönüştürür.
-
-12 22/7/2020 tarihli ve 7251 sayılı Kanunun 11 inci maddesiyle, bu bendin ikinci cümlesinde yer alan
-“davacı davayı kazanırsa” ibaresi “dava davacı lehine sonuçlanırsa” şeklinde değiştirilmiştir.
 (2) Davanın açılmasından sonra, dava konusu davacı tarafından devredilecek olursa,
 devralmış olan kişi, görülmekte olan davada davacı yerine geçer ve dava kaldığı yerden
 itibaren devam eder. (Ek cümle:22/7/2020-7251/11 md.) Bu takdirde dava davacı aleyhine
 sonuçlanırsa, dava konusunu devreden ve devralan yargılama giderlerinden müteselsilen
+
+12 22/7/2020 tarihli ve 7251 sayılı Kanunun 11 inci maddesiyle, bu bendin ikinci cümlesinde yer alan
+“davacı davayı kazanırsa” ibaresi “dava davacı lehine sonuçlanırsa” şeklinde değiştirilmiştir.
 sorumlu olur.
 
 İKİNCİ BÖLÜM
@@ -1297,15 +1293,15 @@ d) Davalının savunmasının dayanağı olan bütün vakıaların sıra numaras
 e) Savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceği.
 f) Dayanılan hukuki sebepler.
 g) Açık bir şekilde talep sonucu.
-
-13 22/7/2020 tarihli ve 7251 sayılı Kanunun 12 nci maddesiyle, bu fıkraya “başvuran davalıya,” ibaresinden
-sonra gelmek üzere “cevap süresinin bitiminden itibaren işlemeye başlamak,” ibaresi eklenmiştir.
 ğ) Davalının veya varsa kanuni temsilcisinin yahut vekilinin imzası.
 (2) 121 inci madde hükmü cevap dilekçesi hakkında da uygulanır.
 
 MADDE 130 — Cevap dilekçesinde eksiklik bulunması
 
 (1) 129 uncu maddenin birinci fıkrasının (a), (b), (c), (ç) ve (ğ)
+
+13 22/7/2020 tarihli ve 7251 sayılı Kanunun 12 nci maddesiyle, bu fıkraya “başvuran davalıya,” ibaresinden
+sonra gelmek üzere “cevap süresinin bitiminden itibaren işlemeye başlamak,” ibaresi eklenmiştir.
 bentlerinin cevap dilekçesinde eksik olması hâlinde, bunun giderilmesi için hâkim tarafından
 bir haftalık süre verilir; eksikliğin bu süre zarfında da giderilmemesi hâlinde cevap dilekçesi
 verilmemiş sayılır.
@@ -1392,14 +1388,17 @@ getirtilecek belgelerin getirtilebilmesi amacıyla gereken açıklamayı yapmala
 verilen süre içinde yerine getirilmemesi hâlinde o delile dayanmaktan vazgeçmiş sayılacaklarına
 karar verileceği.
 
-14 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “sulhe” ibaresinden
-sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
-
 MADDE 140 — Ön inceleme duruşması15
 
 (1) Hâkim, ön inceleme duruşmasında, dava şartları ve ilk itirazlar
 hakkında karar verebilmek için gerekli görürse tarafları dinler; daha sonra, tarafların iddia ve
 savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit eder.
+
+14 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “sulhe” ibaresinden
+sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
+15 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu maddenin ikinci fıkrasına “sulhe”
+ibaresinden sonra gelmek üzere “veya arabuluculuğa”, üçüncü fıkrasına “sulh” ibaresinden sonra
+gelmek üzere “veya arabuluculuk” ibaresi eklenmiştir.
 (2) Uyuşmazlık konularının tespitinden sonra hâkim, tarafları sulh ve arabuluculuğun
 esasları, süreci ve hukuki sonuçları hakkında aydınlatarak sulhe veya arabuluculuğa teşvik
 eder; bu konuda sonuç alınacağı kanaatine varırsa, bir defaya mahsus olmak üzere yeni bir
@@ -1432,12 +1431,6 @@ karara bağlar.
 BEŞİNCİ BÖLÜM
 Tahkikat ve Tahkikat Sırasındaki Özel Durumlar
 
-15 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu maddenin ikinci fıkrasına “sulhe”
-ibaresinden sonra gelmek üzere “veya arabuluculuğa”, üçüncü fıkrasına “sulh” ibaresinden sonra
-gelmek üzere “veya arabuluculuk” ibaresi eklenmiştir.
-16 22/7/2020 tarihli ve 7251 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “sulhe veya
-arabuluculuğa” ibaresi “sulh ve arabuluculuğun esasları, süreci ve hukuki sonuçları hakkında
-aydınlatarak sulhe veya arabuluculuğa” şeklinde değiştirilmiştir.
 BİRİNCİ AYIRIM
 Tahkikat
 Tahkikatın konusu
@@ -1447,6 +1440,10 @@ MADDE 143
 (1) Tarafların davada ileri sürdükleri bütün iddia ve savunmalar birlikte
 incelenir.
 (2) Hâkim, muhakemeyi basitleştirmek veya kısaltmak için resen veya taraflardan
+
+16 22/7/2020 tarihli ve 7251 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “sulhe veya
+arabuluculuğa” ibaresi “sulh ve arabuluculuğun esasları, süreci ve hukuki sonuçları hakkında
+aydınlatarak sulhe veya arabuluculuğa” şeklinde değiştirilmiştir.
 birinin talebi üzerine tahkikatın her aşamasında iddia veya savunmalardan birinin veya bir
 kısmının diğerinden önce incelenmesine karar verebilir.
 
@@ -1481,16 +1478,20 @@ MADDE 147
 ve sözlü yargılama için duruşmaya davet edilir.
 (2) Taraflara gönderilecek davetiyede, belirlenen gün ve saatte geçerli bir özrü
 olmadan mahkemede hazır bulunmadıkları takdirde, duruşmaya yokluklarında devam
+edileceği ve yapılan işlemlere itiraz edemeyecekleri, tahkikatın sona erdiği duruşmada sözlü
+yargılamaya geçileceği, sözlü yargılama için duruşmanın ertelenmesi hâlinde taraflara ayrıca
+davetiye gönderilmeyeceği ve 150 nci madde hükmü saklı kalmak kaydıyla, yokluklarında
+hüküm verileceği bildirilir.
+(3) (Ek:16/7/2026-7589/21 md.) Duruşmalar arasındaki süre üç aydan daha uzun
+olamaz. İşin niteliği gereği bilirkişi incelemesinin uzaması veya istinabe yoluyla tahkikat
 
 17 22/7/2020 tarihli ve 7251 sayılı Kanunun 16 ncı maddesiyle, birinci fıkraya “tahkikat” ibaresinden
 sonra gelmek üzere “ve sözlü yargılama” ibaresi ile ikinci fıkraya “itiraz edemeyecekleri”
 ibaresinden sonra gelmek üzere “, tahkikatın sona erdiği duruşmada sözlü yargılamaya geçileceği,
 sözlü yargılama için duruşmanın ertelenmesi hâlinde taraflara ayrıca davetiye gönderilmeyeceği ve
 150 nci madde hükmü saklı kalmak kaydıyla, yokluklarında hüküm verileceği” ibaresi eklenmiştir.
-edileceği ve yapılan işlemlere itiraz edemeyecekleri, tahkikatın sona erdiği duruşmada sözlü
-yargılamaya geçileceği, sözlü yargılama için duruşmanın ertelenmesi hâlinde taraflara ayrıca
-davetiye gönderilmeyeceği ve 150 nci madde hükmü saklı kalmak kaydıyla, yokluklarında
-hüküm verileceği bildirilir.
+işlemlerinin yürütülmesi gibi zorunlu hâllerde, hâkim gerekçesini belirterek daha uzun bir
+süre belirleyebilir.
 
 MADDE 148 — Mahkemenin çalışma zamanı
 
@@ -1501,7 +1502,7 @@ dışında da yapılmasına karar verilebilir.
 
 MADDE 149 — Ses ve görüntü nakledilmesi yoluyla veya başka yerde duruşma icrası
 
-(Başlığı ile Birlikte Değişik:22/7/2020-7251/17 md.)
+(Başlığı ile Birlikte Değişik:22/7/2020-7251/17 md.)18
 (1) Mahkeme, taraflardan birinin talebi üzerine talep eden tarafın veya vekilinin, aynı
 anda ses ve görüntü nakledilmesi yoluyla bulundukları yerden duruşmaya katılmalarına ve
 usul işlemleri yapabilmelerine karar verebilir.
@@ -1526,6 +1527,13 @@ gelmezse, gelen tarafın talebi üzerine, yargılamaya gelmeyen tarafın yokluğ
 veya dosya işlemden kaldırılır. Geçerli bir özrü olmaksızın duruşmaya gelmeyen taraf,
 yokluğunda yapılan işlemlere itiraz edemez.
 (3) Duruşma gününün belli edilmesi için tarafların başvurması gereken hâllerde gün
+
+18 16/7/2026 tarihli ve 7589 sayılı Kanunun 22 nci maddesiyle yayımı tarihinden itibaren üç ay sonra
+(31/10/2026) yürürlüğe girmek üzere bu maddeye üçüncü fıkradan sonra gelmek üzere fıkra eklenmiş
+ve diğer fıkralar buna göre teselsül ettirilmiştir. Söz konusu düzenleme, yürürlüğe girdiği tarihte
+Mevzuat Bilgi Sistemine işlenecek olup mezkur düzenlemeyi görmek için 31/7/2026 tarihli ve 33326
+sayılı Resmî Gazete’ye bakınız.
+
 tespit ettirilmemişse, son işlem tarihinden başlayarak bir ay geçmekle dosya işlemden
 kaldırılır.
 (4) Dosyası işlemden kaldırılmış olan dava, işlemden kaldırıldığı tarihten başlayarak
@@ -1697,7 +1705,8 @@ MADDE 166
 (1) Aynı yargı çevresinde yer alan aynı düzey ve sıfattaki hukuk
 mahkemelerinde açılmış davalar, aralarında bağlantı bulunması durumunda, davanın her
 aşamasında, talep üzerine veya kendiliğinden ilk davanın açıldığı mahkemede birleştirilebilir.
-Birleştirme kararı, ikinci davanın açıldığı mahkemece verilir (…)18
+(Değişik cümle:16/7/2026-7589/23 md.) İlk davanın açıldığı mahkeme birleştirme kararının
+kesinleşmesinden itibaren bununla bağlıdır.
 (2) Davalar, ayrı yargı çevrelerinde yer alan aynı düzey ve sıfattaki hukuk
 mahkemelerinde açılmış ise bağlantı sebebiyle birleştirme ikinci davanın açıldığı
 mahkemeden talep edilebilir. Birinci davanın açıldığı mahkeme, talebin kabulü ile davaların
@@ -1707,9 +1716,6 @@ birleştirilmesine ilişkin kararın kesinleşmesinden itibaren, bununla bağlı
 verilecek hükmün diğerini etkileyecek nitelikte bulunması durumunda, bağlantı var sayılır.
 (5) İstinaf incelemesi ayrı dairelerde yapılması gereken davaların da bu madde
 hükmüne göre birleştirilmesine karar verilebilir. Bu hâlde istinaf incelemesi, birleştirilen
-
-18 Anayasa Mahkemesinin 17/6/2025 tarihli ve E.: 2024/237; K.: 2025/137 sayılı Kararı ile bu fıkranın
-ikinci cümlesinde yer alan “…ve bu karar, diğer mahkemeyi bağlar.” ibaresi iptal edilmiştir.
 davalarda uyuşmazlığı doğuran asıl hukuki ilişkiye ait kararı inceleyen bölge adliye
 mahkemesi dairesinde yapılır.
 
@@ -1722,12 +1728,15 @@ ayrılmasına karar verilen davalara bakmaya devam eder.
 
 MADDE 168 — Kanun yolları
 
-(1) Aynı yargı çevresinde yer alan aynı düzey ve sıfattaki hukuk
-mahkemelerinde görülmekte olan davalar yönünden verilen birleştirme ve ayırma
-hususundaki ilk derece mahkemesi kararlarına karşı istinaf yoluna; bölge adliye mahkemesi
-kararları hakkında ise temyiz yoluna, ancak hükümle birlikte gidilebilir. Şu kadar ki, bu husus
-tek başına, bölge adliye mahkemesinde hükmün kaldırılarak esastan incelenme; Yargıtayda
-ise bozma sebebi teşkil etmez.
+(Değişik:16/7/2026-7589/24 md.)
+(1) Aynı yargı çevresinde yer alan aynı düzey ve sıfattaki hukuk mahkemelerinde
+görülmekte olan davalar yönünden verilen birleştirme kararına karşı sadece istinaf yoluna
+başvurulabilir.
+(2) İlk derece mahkemelerince verilen ayırma kararlarına karşı istinaf yoluna; bölge
+adliye mahkemelerinin birleştirme ve ayırma kararları hakkında ise temyiz yoluna, ancak
+hükümle birlikte gidilebilir. Şu kadar ki, bu husus tek başına, bölge adliye mahkemesinde
+hükmün kaldırılarak esastan incelenme; Yargıtayda ise bozma sebebi teşkil etmez.
+
 BEŞİNCİ AYIRIM
 İsticvap
 Konusu
@@ -1799,15 +1808,13 @@ MADDE 176
 tamamen ıslah edebilir.
 (2) Aynı davada, taraflar ancak bir kez ıslah yoluna başvurabilir.
 
+19 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibaresi
+“engellilik” şeklinde değiştirilmiştir.
+
 MADDE 177 — Islahın zamanı ve şekli20
 
 (1) Islah, tahkikatın sona ermesine kadar yapılabilir.
 (2) (Ek:22/7/2020-7251/18 md.) Yargıtayın bozma kararından veya bölge adliye
-
-19 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibaresi
-“engellilik” şeklinde değiştirilmiştir.
-20 22/7/2020 tarihli ve 7251 sayılı Kanunun 18 inci maddesiyle, bu maddeye birinci fıkradan sonra
-gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 mahkemesinin kaldırma kararından sonra dosya ilk derece mahkemesine gönderildiğinde, ilk
 derece mahkemesinin tahkikata ilişkin bir işlem yapması hâlinde tahkikat sona erinceye kadar
 da ıslah yapılabilir. Ancak bozma kararına uymakla ortaya çıkan hukuki durum ortadan
@@ -1846,6 +1853,9 @@ MADDE 181 — Kısmen ıslah
 
 (1) Kısmen ıslaha başvuran tarafa, ıslah ettiği usul işlemini yapması
 için bir haftalık süre verilir. Bu süre içinde ıslah edilen işlem yapılmazsa, ıslah hiç
+
+20 22/7/2020 tarihli ve 7251 sayılı Kanunun 18 inci maddesiyle, bu maddeye birinci fıkradan sonra
+gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 yapılmamış gibi davaya devam edilir.
 
 MADDE 182 — Kötüniyetli ıslah
@@ -2116,18 +2126,18 @@ mühürlenerek, saklanması için mahkemece gerekli tedbirler alınır.
 ileri sürebileceği gibi, bu konuda ayrı bir dava da açabilir.
 (4) Resmî bir senetteki yazı veya imzayı inkâr eden tarafın bu iddiası, ancak ilgili
 evraka resmiyet kazandıran kişiyi de taraf göstererek açacağı ayrı bir davada incelenip karara
-bağlanabilir. Asıl davaya bakan hâkim, gerekirse bu konuda imza veya yazıyı inkâr eden
-tarafa, dava açması için iki haftalık kesin bir süre verir.
-
-MADDE 209 — Yazı veya imza inkârının sonucu
-
-(1) Adi bir senetteki yazı veya imza inkâr edildiğinde, bu konuda bir
 
 21 22/7/2020 tarihli ve 7251 sayılı Kanunun 21 inci maddesiyle, birinci fıkrada yer alan “İmza”
 ibaresi “Okuma ve yazma bilmediği için imza” şeklinde değiştirilmiş, maddeye birinci fıkradan sonra
 gelmek üzere fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 22 22/7/2020 tarihli ve 7251 sayılı Kanunun 21 inci maddesiyle, bu fıkraya “noterlerce” ibaresinden
 sonra gelmek üzere “onaylanacak veya” ibaresi eklenmiştir.
+bağlanabilir. Asıl davaya bakan hâkim, gerekirse bu konuda imza veya yazıyı inkâr eden
+tarafa, dava açması için iki haftalık kesin bir süre verir.
+
+MADDE 209 — Yazı veya imza inkârının sonucu
+
+(1) Adi bir senetteki yazı veya imza inkâr edildiğinde, bu konuda bir
 karar verilinceye kadar, o senet herhangi bir işleme esas alınamaz.
 (2) Resmî senetlerdeki yazı veya imza inkâr edildiğinde, senetteki yazı veya imzanın
 sahteliği, ancak mahkeme kararıyla sabit olursa, bu senet herhangi bir işleme esas alınamaz.
@@ -2212,14 +2222,14 @@ tedbirleri alır veya istendiğinde tekrar verilmek üzere belgeyi ibraz edene g
 (4) Taraflardan biri elindeki belgenin aslını mahkemeye verirse, bu belgenin geri
 verilmesini talep edebilir. Bu takdirde hâkim, belgenin aslının verilip verilmeyeceğine karar
 verir. Geri verilmesine karar verildiğinde, aslına uygun olduğu mahkeme mührü ve yazı işleri
+
+23 22/7/2020 tarihli ve 7251 sayılı Kanunun 22 nci maddesiyle, bu madde başlığı “Belgelerin halefler
+aleyhine kullanılması” iken metne işlendiği şekilde değiştirilmiştir.
 müdürünün imzasıyla onanmış örneği dosyaya konur.
 
 MADDE 217 — Belge aslının ibrazı usulü
 
 (1) Bir kişi veya kurumun elinde bulunup mahkemeye teslim edilmesi
-
-23 22/7/2020 tarihli ve 7251 sayılı Kanunun 22 nci maddesiyle, bu madde başlığı “Belgelerin halefler
-aleyhine kullanılması” iken metne işlendiği şekilde değiştirilmiştir.
 gereken belgenin aslı istendiğinde, kişi veya kurumun bulunduğu ya da belgenin teslim
 edileceği yerdeki asliye mahkemesi tarafından örneği onaylanarak aslı mahkemeye gönderilir
 yahut teslim edilir.
@@ -2298,14 +2308,14 @@ MADDE 223 — Yabancı dilde yazılmış belgeler
 (1) Yabancı dilde yazılmış belgeye dayanan taraf, tercümesini de
 mahkemeye sunmak zorundadır.
 (2) Mahkeme kendiliğinden veya diğer tarafın talebi üzerine, belgenin resmî tercümesini
+
+24 22/7/2020 tarihli ve 7251 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “ilgili hususta hiç
+bir kayıt içermemesi” ibaresi “diğer tarafın ticari defterlerini ibraz etmemesi” şeklinde değiştirilmiştir.
 de isteyebilir.
 
 MADDE 224 — Yabancı resmî belgelerin yetkili makamlar tarafından onaylanması zorunluluğu
 
 (1) Yabancı devlet makamlarınca hazırlanan resmî belgelerin,
-
-24 22/7/2020 tarihli ve 7251 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “ilgili hususta hiç
-bir kayıt içermemesi” ibaresi “diğer tarafın ticari defterlerini ibraz etmemesi” şeklinde değiştirilmiştir.
 Türkiye’de bu vasfı taşıması, belgenin verildiği devletin yetkili makamı veya ilgili Türk
 konsolosluk makamı tarafından onaylanmasına bağlıdır.
 (2) Türkiye’nin taraf olduğu milletlerarası sözleşmelerin yabancı resmî belgelerin
@@ -2440,11 +2450,11 @@ listede gösterilmemiş olan kimseler tanık olarak dinlenemez ve ikinci bir lis
 (3) Tanık listesinde adres gösterilmemiş veya gösterilen adreste tanık bulunamamışsa,
 tarafa adres göstermesi için, işin niteliğine uygun kesin süre verilir. Bu süre içinde adres
 gösterilmez veya gösterilen yeni adres de doğru değilse, bu tanığın dinlenilmesinden vazgeçilmiş
-sayılır.
 
 25 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
 “özürlülerin” ibaresi “engellilerin”, birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde
 değiştirilmiştir.
+sayılır.
 
 MADDE 241 — Tanıklardan bir kısmının dinlenilmesiyle yetinilmesi
 
@@ -2485,12 +2495,12 @@ c) Tanıklık yapacağı konu,
 ç) Hazır bulunması gereken yer, gün ve saat,
 d) Gelmemesinin veya gelmesine rağmen tanıklıktan ya da yemin etmekten çekinmesinin
 hukuki ve cezai sonuçları,
-e) Adalet Bakanlığınca hazırlanan tarife gereğince ücret ödeneceği,
-yazılır.
 
 26 2/7/2018 tarihli ve 700 sayılı Kanun Hükmünde Kararnamenin 191 inci maddesiyle bu fıkrada yer
 alan “, Bakanlar Kurulu üyeleri” ibaresi “üyeleri, Cumhurbaşkanı yardımcıları ve bakanlar”
 şeklinde değiştirilmiştir.
+e) Adalet Bakanlığınca hazırlanan tarife gereğince ücret ödeneceği,
+yazılır.
 
 MADDE 245 — Çağrıya uyma zorunluluğu
 
@@ -2625,9 +2635,6 @@ veya şeyin bulunduğu yerde dinlenilmesine karar verebilir.
 dinler.27
 (4) Mahkemenin yargı çevresi dışında bulunan tanığın, bulunduğu yer mahkemesi
 tarafından dinlenmesine karar verilebilir. İstinabe yolu ile dinlenilmesine karar verilen
-
-27 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
-“engelli” şeklinde değiştirilmiştir.
 tanığın, nerede, hangi gün ve saatte dinleneceği hususu, talepleri hâlinde taraflara tebliğ edilir.
 Bu durumda, tanığın, hangi hususlardan dolayı dinleneceğini hâkim belirler.
 
@@ -2666,7 +2673,12 @@ MADDE 263 — Tercüman ve bilirkişi kullanılması
 olarak bildirilir ve cevapları yazdırılır; okuma ve yazma bilmediği takdirde, hâkim, kendisini
 işaret dilinden anlayan bilirkişi yardımıyla dinler.
 
-MADDE 264 — Yalan yere veya menfaat temin ederek tanıklık edilmesi ve sonuçları
+Yalan yere veya menfaat temin ederek tanıklık edilmesi ve sonuçları
+
+27 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
+“engelli” şeklinde değiştirilmiştir.
+
+MADDE 264
 
 (1) Hâkim, tanığın tanıklığı esnasında yalan söylediği veya menfaat
 temin ederek tanıklık ettiği hakkında yeterli delil veya emare elde ederse bir tutanak düzenler
@@ -2712,16 +2724,13 @@ kendi bölge listesinde ilgili uzmanlık alanında bilirkişi olmasına rağmen 
 bilirkişinin, görevlendirme yapılan yere daha yakın bir mesafede bulunması durumunda, bu
 listeden de görevlendirme yapılabilir.
 (2) Bölge kurulunun hazırladığı listede bilgisine başvurulacak uzmanlık dalında
+
+28 Bu maddenin birinci fıkrasında yer alan tarife ile ilgili olarak 28/10/2025 tarihli ve 33061 sayılı
+Resmi Gazete’de yayımlanan “Hukuk Muhakemeleri Kanunu Tanık Ücret Tarifesi” ne bakınız.
 bilirkişi bulunmaması hâlinde, diğer bölge kurullarının listelerinden; burada da bulunmaması
 hâlinde, Bilirkişilik Kanununun 10 uncu maddesinin (d), (e) ve (f) bentleri hariç birinci
 fıkrasında yer alan şartları da taşımak kaydıyla listelerin dışından bilirkişi görevlendirilebilir.
 Listelerin dışından görevlendirilen bilirkişiler, bölge kuruluna bildirilir.29
-
-28 Bu maddenin birinci fıkrasında yer alan tarife ile ilgili olarak 28/10/2025 tarihli ve 33061 sayılı
-Resmi Gazete’de yayımlanan “Hukuk Muhakemeleri Kanunu Tanık Ücret Tarifesi” ne bakınız.
-29 15/8/2017 tarihli ve 694 sayılı KHK’nin 161 inci maddesiyle, bu maddede yer alan “(ç), (d) ve (e)”
-ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı
-Kanunun 156 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
 (3) Kanunların görüş bildirmekle yükümlü kıldığı kişi ve kuruluşlara görevlendirildikleri
 konularda bilirkişi olarak öncelikle başvurulur. Ancak kamu görevlilerine, bağlı bulundukları
 kurumlarla ilgili dava ve işlerde, bilirkişi olarak görev verilemez.
@@ -2758,16 +2767,17 @@ bilirkişilere, bilirkişilik bölge kurulu veya bulunduğu yer il adli yargı a
 huzurunda, “Bilirkişilik görevimi sadakat ve özenle, bilim ve fenne uygun olarak, tarafsız ve
 objektif bir biçimde yerine getireceğime, namusum, şerefim ve kutsal saydığım bütün inanç
 ve değerlerim üzerine yemin ederim.” şeklindeki sözler, tekrarlattırılmak suretiyle yemin
+
+29 15/8/2017 tarihli ve 694 sayılı KHK’nin 161 inci maddesiyle, bu maddede yer alan “(ç), (d) ve (e)”
+ibaresi “(d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı
+Kanunun 156 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
+30 3/11/2016 tarihli ve 6754 sayılı Kanunun 51 inci maddesiyle bu fıkrada yer alan “uygulanır”
+ibaresinden sonra gelmek üzere “ve durum bilirkişilik bölge kuruluna bildirilir” ibaresi eklenmiştir.
 verdirilir. Bu bilirkişilere, görevlendirildikleri her dava veya işte ayrıca yemin verdirilmez;
 sadece görevlendirme yazısında, bilirkişilere önceden etmiş bulundukları yemine bağlı
 kalmak suretiyle oy ve görüş bildirmek zorunda oldukları hususu hatırlatılır.31
 (2) Listelere kaydedilmemiş olan kişiler arasından bilirkişiler görevlendirilmişse,
 kendilerine, görevlendiren mahkemece, huzurda, göreve başlamadan önce, birinci fıkrada
-
-30 3/11/2016 tarihli ve 6754 sayılı Kanunun 51 inci maddesiyle bu fıkrada yer alan “uygulanır”
-ibaresinden sonra gelmek üzere “ve durum bilirkişilik bölge kuruluna bildirilir” ibaresi eklenmiştir.
-31 3/11/2016 tarihli ve 6754 sayılı Kanunun 52 nci maddesiyle bu fıkrada yer alan “bilirkişilere,”
-ibaresinden sonra gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu yer” ibaresi eklenmiştir.
 belirtilen şekilde yemin verdirilir. Yemine ilişkin tutanak, hâkim, zabıt kâtibi ve bilirkişi
 tarafından imzalanır.
 
@@ -2803,6 +2813,9 @@ MADDE 274 — Bilirkişinin görev süresi
 
 (1) Bilirkişi raporunun hazırlanması için verilecek süre üç ayı geçemez.
 Bilirkişinin talebi üzerine, kendisini görevlendiren mahkeme gerekçesini göstererek, süreyi üç
+
+31 3/11/2016 tarihli ve 6754 sayılı Kanunun 52 nci maddesiyle bu fıkrada yer alan “bilirkişilere,”
+ibaresinden sonra gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu yer” ibaresi eklenmiştir.
 ayı geçmemek üzere uzatabilir. (Ek cümle: 28/2/2018-7101/56 md.) Ancak basit yargılama
 usulüne tabi dava ve işlerde bu süreler iki ay olarak uygulanır.
 (2) Belirlenen süre içinde raporunu vermeyen bilirkişi görevden alınıp, yerine bir
@@ -2936,6 +2949,9 @@ Keşif kararı
 MADDE 288
 
 (1) Hâkim, uyuşmazlık konusu hakkında bizzat duyu organları
+
+32 Bu maddede yer alan tarife ile ilgili olarak 26/12/2025 tarihli ve 33119 sayılı Resmî Gazete’de
+yayımlanan “2026 Yılı Bilirkişilik Asgari Ücret Tarifesi”ne bakınız.
 yardımıyla bulunduğu yerde veya mahkemede inceleme yaparak bilgi sahibi olmak amacıyla
 keşif yapılmasına karar verebilir. Hâkim gerektiğinde bilirkişi yardımına başvurur.
 (2) Keşif kararı, mahkemece, sözlü yargılamaya kadar taraflardan birinin talebi
@@ -2944,9 +2960,6 @@ keşif yapılmasına karar verebilir. Hâkim gerektiğinde bilirkişi yardımın
 MADDE 289 — Keşfe yetkili mahkeme
 
 (1) Keşif, davaya bakan mahkemece icra edilir. Keşif konusu,
-
-32 Bu maddede yer alan tarife ile ilgili olarak 26/12/2025 tarihli ve 33119 sayılı Resmî Gazete’de
-yayımlanan “2026 Yılı Bilirkişilik Asgari Ücret Tarifesi”ne bakınız.
 mahkemenin yargı çevresi dışında ise inceleme istinabe suretiyle yapılır.
 (2) Keşif konusu, büyükşehir belediye sınırları içerisinde ise inceleme, davaya bakan
 mahkeme tarafından da yerine getirilebilir.
@@ -2982,6 +2995,9 @@ MADDE 292 — Soybağı tespiti için inceleme
 olmak, ayrıca sağlık yönünden bir tehlike oluşturmamak şartıyla, herkes, soybağının tespiti
 amacıyla vücudundan kan veya doku alınmasına katlanmak zorundadır. Haklı bir sebep
 olmaksızın bu zorunluluğa uyulmaması hâlinde, hâkim incelemenin zor kullanılarak yapılmasına
+
+33 22/7/2020 tarihli ve 7251 sayılı Kanunun 25 inci maddesiyle, bu fıkraya “yeri” ibaresinden sonra
+gelmek üzere “, kapsamı” ibaresi eklenmiştir.
 karar verir.
 (2) Üçüncü kişi tanıklıktan çekinme hakkı bulunduğunu ileri sürerek bu yükümlülükten
 kaçınamaz.
@@ -2989,9 +3005,6 @@ kaçınamaz.
 YEDİNCİ BÖLÜM
 Uzman Görüşü
 Uzman görüşü
-
-33 22/7/2020 tarihli ve 7251 sayılı Kanunun 25 inci maddesiyle, bu fıkraya “yeri” ibaresinden sonra
-gelmek üzere “, kapsamı” ibaresi eklenmiştir.
 
 MADDE 293
 
@@ -3124,11 +3137,9 @@ geçerli değildir.
 
 İKİNCİ BÖLÜM
 Hükmün Tashihi, Tavzihi ve Tamamlanması34
+Hükmün tashihi
 
-34 22/7/2020 tarihli ve 7251 sayılı Kanunun 26 ncı maddesiyle, bu bölüm başlığı “Hükmün Tashihi ve
-Tavzihi” iken metne işlendiği şekilde değiştirilmiştir.
-
-MADDE 304 — Hükmün tashihi
+MADDE 304
 
 (1) Hükümdeki yazı ve hesap hataları ile diğer benzeri açık hatalar,
 mahkemece resen veya taraflardan birinin talebi üzerine düzeltilebilir. Hüküm tebliğ edilmişse
@@ -3163,6 +3174,13 @@ talebinde bulunan tarafa tebliğ olunur.
 (2) Mahkeme, cevap verilmemiş olsa bile dosya üzerinde inceleme yaparak karar
 verir; ancak gerekli görürse iki tarafı sözlü açıklamalarını yapabilmeleri için davet edebilir.
 (3) Mahkeme tavzih veya tamamlama talebini yerinde gördüğü takdirde 304 üncü
+
+34 22/7/2020 tarihli ve 7251 sayılı Kanunun 26 ncı maddesiyle, bu bölüm başlığı “Hükmün Tashihi ve
+Tavzihi” iken metne işlendiği şekilde değiştirilmiştir.
+35 22/7/2020 tarihli ve 7251 sayılı Kanunun 28 inci maddesiyle, bu madde başlığı “Tavzih talebi ve
+usulü” iken metne işlendiği şekilde değiştirilmiş, birinci fıkraya “Tavzih” ibaresinden sonra gelmek
+üzere “veya tamamlama” ibaresi ile birinci ve üçüncü fıkralara “tavzih” ibarelerinden sonra gelmek
+üzere “veya tamamlama” ibareleri eklenmiştir.
 madde uyarınca işlem yapar.
 
 ÜÇÜNCÜ BÖLÜM
@@ -3173,11 +3191,6 @@ MADDE 307
 
 (1) Feragat, davacının, talep sonucundan kısmen veya tamamen
 vazgeçmesidir.
-
-35 22/7/2020 tarihli ve 7251 sayılı Kanunun 28 inci maddesiyle, bu madde başlığı “Tavzih talebi ve
-usulü” iken metne işlendiği şekilde değiştirilmiş, birinci fıkraya “Tavzih” ibaresinden sonra gelmek
-üzere “veya tamamlama” ibaresi ile birinci ve üçüncü fıkralara “tavzih” ibarelerinden sonra gelmek
-üzere “veya tamamlama” ibareleri eklenmiştir.
 
 MADDE 308 — Davayı kabul
 
@@ -3304,17 +3317,15 @@ etmeden dosya üzerinden karar verir.
 (2) Daha önce karar verilemeyen hâllerde mahkeme, ilk duruşmada dava şartları ve ilk
 itirazlarla hak düşürücü süre ve zamanaşımı hakkında tarafları dinler; daha sonra tarafların
 iddia ve savunmaları çerçevesinde, anlaştıkları ve anlaşamadıkları hususları tek tek tespit
+
+36 22/7/2020 tarihli ve 7251 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “davalıya, bir
+defaya mahsus” ibaresi “davalıya, cevap süresinin bitiminden itibaren işlemeye başlamak, bir defaya
+mahsus olmak” şeklinde değiştirilmiştir.
 eder. Uyuşmazlık konularının tespitinden sonra hâkim, tarafları sulhe veya arabuluculuğa
 teşvik eder. Tarafların sulh olup olmadıkları, sulh olmadıkları takdirde anlaşamadıkları
 hususların nelerden ibaret olduğu tutanağa yazılır; tutanağın altı hazır bulunan taraflarca
 imzalanır. Tahkikat bu tutanak esas alınmak suretiyle yürütülür.37
 (3) Mahkeme, tarafların dinlenmesi, delillerin incelenmesi ve tahkikat işlemlerinin
-
-36 22/7/2020 tarihli ve 7251 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “davalıya, bir
-defaya mahsus” ibaresi “davalıya, cevap süresinin bitiminden itibaren işlemeye başlamak, bir defaya
-mahsus olmak” şeklinde değiştirilmiştir.
-37 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “tarafları sulhe”
-ibaresinden sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
 yapılmasını yukarıdaki fıkrada belirtilen duruşma hariç, iki duruşmada tamamlar. Duruşmalar
 arasındaki süre bir aydan daha uzun olamaz. İşin niteliği gereği bilirkişi incelemesinin
 uzaması, istinabe yoluyla tahkikat işlemlerinin yürütülmesi gibi zorunlu hâllerde, hâkim
@@ -3353,15 +3364,17 @@ MADDE 323
 (1) Yargılama giderleri şunlardır:
 a) Başvurma, karar ve ilam harçları.38
 b) Dava nedeniyle yapılan tebliğ ve posta giderleri.
+
+37 7/6/2012 tarihli ve 6325 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “tarafları sulhe”
+ibaresinden sonra gelmek üzere “veya arabuluculuğa” ibaresi eklenmiştir.
+38 22/7/2020 tarihli ve 7251 sayılı Kanunun 32 nci maddesiyle, bu bentte yer alan “Celse” ibaresi
+“Başvurma” şeklinde değiştirilmiştir.
 c) Dosya ve sair evrak giderleri.
 ç) Geçici hukuki koruma tedbirleri ve protesto, ihbar, ihtarname ve vekâletname
 düzenlenmesine ilişkin giderler.
 d) Keşif giderleri.
 e) Tanık ile bilirkişiye ödenen ücret ve giderler.
 f) Resmî dairelerden alınan belgeler için ödenen harç, vergi, ücret ve sair giderler.
-
-38 22/7/2020 tarihli ve 7251 sayılı Kanunun 32 nci maddesiyle, bu bentte yer alan “Celse” ibaresi
-“Başvurma” şeklinde değiştirilmiştir.
 g) Vekil ile takip edilmeyen davalarda tarafların hazır bulundukları günlere ait
 gündelik, seyahat ve konaklama giderlerine karşılık hâkimin takdir edeceği miktar; vekili
 bulunduğu hâlde mahkemece bizzat dinlenmek, isticvap olunmak veya yemin etmek üzere
@@ -3394,6 +3407,12 @@ hüküm verilen taraftan alınmasına karar verilir.
 (2) Davada iki taraftan her biri kısmen haklı çıkarsa, mahkeme, yargılama giderlerini
 tarafların haklılık oranına göre paylaştırır.3940
 (3) Aleyhine hüküm verilenler birden fazla ise mahkeme yargılama giderlerini, bunlar
+
+39 Anayasa Mahkemesinin 30/11/2023 Tarihli ve E: 2023/101, K: 2023/207 Sayılı Kararı ile bu fıkra
+“kamulaştırmasız el atma sebebine dayalı tazminat davaları” yönünden iptal edilmiştir.
+40 Anayasa Mahkemesinin 25/12/2024 tarihli ve E: 2024/29, K: 2024/226 sayılı Kararı ile bu fıkra
+“manevi tazminat davaları” yönünden iptal edilmiştir.
+
 arasında paylaştırabileceği gibi, müteselsilen sorumlu tutulmalarına da karar verebilir.
 
 MADDE 327 — Dürüstlük kuralına aykırılık sebebiyle yargılama giderlerinden sorumluluk
@@ -3401,12 +3420,6 @@ MADDE 327 — Dürüstlük kuralına aykırılık sebebiyle yargılama giderleri
 (1) Gereksiz yere davanın uzamasına veya gider yapılmasına sebebiyet
 vermiş olan taraf, davada lehine karar verilmiş olsa bile, karar ve ilam harcı dışında kalan
 yargılama giderlerinin tamamını veya bir kısmını ödemeye mahkûm edilebilir.
-
-39 Anayasa Mahkemesinin 30/11/2023 Tarihli ve E: 2023/101, K: 2023/207 Sayılı Kararı ile bu fıkra
-“kamulaştırmasız el atma sebebine dayalı tazminat davaları” yönünden iptal edilmiştir.
-40 Anayasa Mahkemesinin 25/12/2024 tarihli ve E: 2024/29, K: 2024/226 sayılı Kararı ile bu fıkra
-“manevi tazminat davaları” yönünden iptal edilmiştir.
-
 (2) Bir kişi davada sıfatı olmadığı hâlde, davacıyı, davalı sıfatı kendisine aitmiş gibi
 yanıltıp, kendisine karşı dava açılmasına sebebiyet verirse, davanın sıfat yokluğu nedeniyle
 reddi hâlinde, davalı yararına yargılama giderlerine hükmedilemez.
@@ -3448,12 +3461,7 @@ açıldığı mahkeme dosya üzerinden bu durumu tespit ile davacıyı yargılam
 (3) Davanın açılmamış sayılmasına karar verilen hâllerde yargılama giderleri davacıya
 yükletilir.
 
-Yargılama giderlerine hükmedilmesi
-
-41 22/7/2020 tarihli ve 7251 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Görevsizlik,
-yetkisizlik veya gönderme” ibareleri “Görevsizlik veya yetkisizlik” şeklinde değiştirilmiştir.
-
-MADDE 332
+MADDE 332 — Yargılama giderlerine hükmedilmesi
 
 (1) Yargılama giderlerine, mahkemece resen hükmedilir.
 (2) Yargılama gideri, tutarı, hangi tarafa ve hangi oranda yükletildiği ve dökümü
@@ -3491,6 +3499,12 @@ c) Dava ve icra takibi sırasında yapılması gereken tüm giderlerin Devlet ta
 avans olarak ödenmesi.
 ç) Davanın avukat ile takibi gerekiyorsa, ücreti sonradan ödenmek üzere bir avukat temini.
 (2) Mahkeme, talepte bulunanın, yukarıdaki bentlerde düzenlenen hususlardan bir
+
+41 22/7/2020 tarihli ve 7251 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Görevsizlik,
+yetkisizlik veya gönderme” ibareleri “Görevsizlik veya yetkisizlik” şeklinde değiştirilmiştir.
+42 11/4/2013 tarihli ve 6459 sayılı Kanunun 22 nci maddesi ile bu fıkrada yer alan “haklı oldukları
+yolunda kanaat uyandırmak” ibaresi “taleplerinin açıkça dayanaktan yoksun olmaması” şeklinde
+değiştirilmiştir.
 kısmından yararlanmasına da karar verebilir.
 (3) Adli yardım, hükmün kesinleşmesine kadar devam eder.
 
@@ -3498,10 +3512,6 @@ MADDE 336 — Adli yardım talebi
 
 (1) Adli yardım, asıl talep veya işin karara bağlanacağı mahkemeden;
 icra ve iflas takiplerinde ise takibin yapılacağı yerdeki icra mahkemesinden istenir.
-
-42 11/4/2013 tarihli ve 6459 sayılı Kanunun 22 nci maddesi ile bu fıkrada yer alan “haklı oldukları
-yolunda kanaat uyandırmak” ibaresi “taleplerinin açıkça dayanaktan yoksun olmaması” şeklinde
-değiştirilmiştir.
 (2) Talepte bulunan kişi, iddiasının özeti ile birlikte, iddiasını dayandıracağı delilleri
 ve yargılama giderlerini karşılayabilecek durumda olmadığını gösteren mali durumuna ilişkin
 belgeleri mahkemeye sunmak zorundadır.
@@ -3536,15 +3546,15 @@ MADDE 339 — Adli yardımla ertelenen yargılama giderlerinin tahsili
 
 (1) Adli yardım kararından dolayı ertelenen tüm yargılama giderleri ile
 Devletçe ödenen avanslar dava veya takip sonunda haksız çıkan kişiden tahsil olunur. Adli
+
+43 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “bir hafta” ibaresi
+“iki hafta” şeklinde değiştirilmiştir.
 yardımdan yararlanan kişinin haksız çıkması hâlinde, uygun görülürse yargılama giderlerinin
 en çok bir yıl içinde aylık eşit taksitler hâlinde ödenmesine karar verilebilir.
 (2) (Ek: 11/4/2013-6459/ 24 md.) Adli yardım kararından dolayı Devletçe ödenen veya
 muaf tutulan yargılama giderlerinin tahsilinin, adli yardımdan yararlananın mağduriyetine
 neden olacağı mahkemece açıkça anlaşılırsa, mahkeme, hükümde tamamen veya kısmen
 ödemeden muaf tutulmasına karar verebilir.
-
-43 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “bir hafta” ibaresi
-“iki hafta” şeklinde değiştirilmiştir.
 
 MADDE 340 — Adli yardım kararıyla atanan avukatın ücretinin ödenmesi
 
@@ -3580,17 +3590,17 @@ giren dava ve işlere ilişkin nihai kararlarına karşı, bölge adliye mahkeme
 MADDE 342 — İstinaf dilekçesi
 
 (1) İstinaf yoluna başvurma, dilekçeyle yapılır ve dilekçeye, karşı
+
+44 24/11/2016 tarihli ve 6763 sayılı Kanunun 41 inci maddesi ile bu maddenin ikinci, üçüncü ve
+dördüncü fıkralarında yer alan “binbeşyüz” ibareleri “üç bin” şeklinde değiştirilmiştir.
+45 Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.:2021/34, K.:2022/21 sayılı Kararı ile bu fıkranın
+birinci cümlesi “kamulaştırma bedelinin tespitine ilişkin davalar” yönünden iptal edilmiştir.
 tarafın sayısı kadar örnek eklenir.
 (2) İstinaf dilekçesinde aşağıdaki hususlar bulunur:
 a) Başvuran ile karşı tarafın davadaki sıfatları, adı, soyadı, Türkiye Cumhuriyeti kimlik
 numarası ve adresleri.
 b) Varsa kanuni temsilci ve vekillerinin adı, soyadı ve adresleri.
 c) Kararın hangi mahkemeden verilmiş olduğu ve tarihi ile sayısı.
-
-44 24/11/2016 tarihli ve 6763 sayılı Kanunun 41 inci maddesi ile bu maddenin ikinci, üçüncü ve
-dördüncü fıkralarında yer alan “binbeşyüz” ibareleri “üç bin” şeklinde değiştirilmiştir.
-45 Anayasa Mahkemesi’nin 24/2/2022 tarihli ve E.:2021/34, K.:2022/21 sayılı Kararı ile bu fıkranın
-birinci cümlesi “kamulaştırma bedelinin tespitine ilişkin davalar” yönünden iptal edilmiştir.
 ç) Kararın başvurana tebliğ edildiği tarih.
 d) Kararın özeti.
 e) Başvuru sebepleri ve gerekçesi.
@@ -3622,7 +3632,14 @@ başvurana yazılı olarak bildirilir. Verilen kesin süre içinde harç ve gide
 takdirde, mahkeme başvurunun yapılmamış sayılmasına karar verir. Bu karara karşı istinaf
 yoluna başvurulması hâlinde, 346 ncı maddenin ikinci fıkrası hükmü kıyas yoluyla uygulanır.
 
-MADDE 345 — Başvuru süresi
+Başvuru süresi
+
+46 15/8/2016 tarihli ve 674 sayılı KHK’nin 18 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
+“başvuru harcı” ibaresi “başvuru için gerekli harçlar” şeklinde değiştirilmiş olup, daha sonra bu
+hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 18 inci maddesiyle aynen kabul edilerek
+kanunlaşmıştır.
+
+MADDE 345
 
 (1) İstinaf yoluna başvuru süresi iki haftadır. Bu süre, ilamın usulen
 taraflardan her birine tebliğiyle işlemeye başlar. İstinaf yoluna başvuru süresine ilişkin özel
@@ -3631,11 +3648,6 @@ kanun hükümleri saklıdır.
 MADDE 346 — İstinaf dilekçesinin reddi
 
 (1) İstinaf dilekçesi, kanuni süre geçtikten sonra verilir veya kesin olan
-
-46 15/8/2016 tarihli ve 674 sayılı KHK’nin 18 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
-“başvuru harcı” ibaresi “başvuru için gerekli harçlar” şeklinde değiştirilmiş olup, daha sonra bu
-hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 18 inci maddesiyle aynen kabul edilerek
-kanunlaşmıştır.
 bir karara ilişkin olursa, kararı veren mahkeme istinaf dilekçesinin reddine karar verir ve 344
 üncü maddeye göre yatırılan giderden karşılanmak suretiyle ret kararını kendiliğinden ilgiliye
 tebliğ eder.
@@ -3673,6 +3685,9 @@ gönderilmez ve kararı veren mahkemece başvurunun reddine karar verilir. Dosya
 adliye mahkemesine gönderilmiş ve henüz karara bağlanmamış ise başvuru feragat nedeniyle
 reddolunur.
 
+47 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “bir hafta” ibaresi
+“iki hafta” şeklinde değiştirilmiştir.
+
 MADDE 350 — Başvurunun icraya etkisi
 
 (1) İstinaf yoluna başvurma, kararın icrasını durdurmaz. İcra ve İflas
@@ -3680,9 +3695,6 @@ Kanununun icranın geri bırakılmasıyla ilgili 36 ncı maddesi hükmü saklıd
 kararlarında icranın geri bırakılmasına karar verilemez.
 (2) Kişiler hukuku, aile hukuku ve taşınmaz mal ile ilgili ayni haklara ilişkin kararlar
 kesinleşmedikçe yerine getirilemez.
-
-47 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “bir hafta” ibaresi
-“iki hafta” şeklinde değiştirilmiştir.
 
 MADDE 351 — Kötüniyetle istinaf yoluna başvurma
 
@@ -3717,6 +3729,11 @@ mahkemeye gönderilmesine duruşma yapmadan kesin olarak karar verir:
 vermiş olması veya mahkemenin görevli ya da yetkili olmamasına rağmen davaya bakmış
 bulunması (…)48
 4) Diğer dava şartlarına aykırılık bulunması.
+
+48 20/7/2017 tarihli ve 7035 sayılı Kanunun 29 uncu maddesiyle, bu maddenin birinci fıkrasının (a)
+bendinin (3) numaralı alt bendinde yer alan “veyahut mahkemenin bölge adliye mahkemesinin yargı
+çevresi dışında kalması” ibaresi ile bendin (5) numaralı alt bendinde yer alan “, merci tayinine”
+ibaresi madde metninden çıkarılmıştır.
 5) Mahkemece usule aykırı olarak davanın veya karşı davanın açılmamış sayılmasına,
 davaların birleştirilmesine veya ayrılmasına, (…)48 karar verilmiş olması.
 6) (Değişik:22/7/2020-7251/35 md.) Mahkemece, uyuşmazlığın çözümünde etkili
@@ -3724,11 +3741,6 @@ olabilecek ölçüde önemli delillerin toplanmamış veya değerlendirilmemiş 
 önemli bir kısmı hakkında karar verilmemiş olması.
 b) Aşağıdaki durumlarda davanın esasıyla ilgili olarak;
 1) İncelenen mahkeme kararının usul veya esas yönünden hukuka uygun olduğu
-
-48 20/7/2017 tarihli ve 7035 sayılı Kanunun 29 uncu maddesiyle, bu maddenin birinci fıkrasının (a)
-bendinin (3) numaralı alt bendinde yer alan “veyahut mahkemenin bölge adliye mahkemesinin yargı
-çevresi dışında kalması” ibaresi ile bendin (5) numaralı alt bendinde yer alan “, merci tayinine”
-ibaresi madde metninden çıkarılmıştır.
 anlaşıldığı takdirde başvurunun esastan reddine,
 2) Yargılamada eksiklik bulunmamakla beraber, kanunun olaya uygulanmasında hata
 edilip de yeniden yargılama yapılmasına ihtiyaç duyulmadığı takdirde veya kararın
@@ -3763,20 +3775,18 @@ MADDE 357 — Yapılamayacak işlemler
 davaya müdahale talebinde bulunulamaz, davanın ıslahı ve 166 ncı maddenin birinci fıkrası
 hükmü saklı kalmak üzere davaların birleştirilmesi istenemez, bölge adliye mahkemesince
 resen göz önünde tutulacaklar dışında, ilk derece mahkemesinde ileri sürülmeyen iddia ve
+
+49 22/7/2020 tarihli ve 7251 sayılı Kanunun 35 inci maddesiyle, bu alt bende “tamamlanmasından
+sonra” ibaresinden sonra gelmek üzere “başvurunun esastan reddine veya” ibaresi eklenmiştir.
+50 22/7/2020 tarihli ve 7251 sayılı Kanunun 36 ncı maddesiyle, bu bölüm başlığında yer alan
+“yapılmasına” ibaresi “yapılması ve” şeklinde değiştirilmiştir.
 savunmalar dinlenemez, yeni delillere dayanılamaz.
 (2) Bölge adliye mahkemeleri için yetki sözleşmesi yapılamaz.
 (3) İlk derece mahkemesinde usulüne uygun olarak gösterildiği hâlde incelenmeden
 reddedilen veya mücbir bir sebeple gösterilmesine olanak bulunmayan deliller bölge adliye
 mahkemesince incelenebilir.
 
-Duruşmaya gelinmemesi ve giderlerin ödenmemesi
-
-49 22/7/2020 tarihli ve 7251 sayılı Kanunun 35 inci maddesiyle, bu alt bende “tamamlanmasından
-sonra” ibaresinden sonra gelmek üzere “başvurunun esastan reddine veya” ibaresi eklenmiştir.
-50 22/7/2020 tarihli ve 7251 sayılı Kanunun 36 ncı maddesiyle, bu bölüm başlığında yer alan
-“yapılmasına” ibaresi “yapılması ve” şeklinde değiştirilmiştir.
-
-MADDE 358
+MADDE 358 — Duruşmaya gelinmemesi ve giderlerin ödenmemesi
 
 (1) Duruşmalı olarak incelenen işlerde taraflara çıkartılan davetiyelerde,
 duruşmada hazır bulunmadıkları takdirde tahkikatın yokluklarında yapılarak karar verileceği
@@ -3807,13 +3817,6 @@ delillerin tartışması, ret ve üstün tutma sebepleri, sabit görülen vakıa
 sonuç ve hukuki sebep.
 f) Hüküm sonucu ile varsa kanun yolu ve süresi.
 g) Kararın verildiği tarih, başkan ve üyeler ile zabıt kâtibinin imzaları.
-ğ) Gerekçeli kararın yazıldığı tarihi.
-(2) Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin,
-taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların,
-sıra numarası altında, açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir.
-(3) (Ek:22/7/2020-7251/38 md.) Bölge adliye mahkemesi, başvurunun esastan reddi
-kararında, ileri sürülen istinaf sebeplerini özetlemek ve ret sebeplerini açıklamak kaydıyla,
-kararın hukuk kurallarına uygunluk gerekçesini göstermekle yetinebilir.
 
 51 22/7/2020 tarihli ve 7251 sayılı Kanunun 37 nci maddesiyle, bu fıkrada yer alan “gideri duruşma
 gününe kadar” ibaresi “gideri, iki haftadan az olmamak üzere verilecek kesin süre içinde” şeklinde
@@ -3823,6 +3826,13 @@ ibaresi eklenmiştir.
 53 22/7/2020 tarihli ve 7251 sayılı Kanunun 38 inci maddesiyle, bu fıkradan sonra gelmek üzere
 maddeye fıkra eklenmiş, diğer fıkra buna göre teselsül ettirilmiş ve mevcut üçüncü fıkrasına “bölge
 adliye mahkemesi tarafından” ibaresinden sonra gelmek üzere “resen” ibaresi eklenmiştir.
+ğ) Gerekçeli kararın yazıldığı tarihi.
+(2) Hükmün sonuç kısmında, gerekçeye ait herhangi bir söz tekrar edilmeksizin,
+taleplerden her biri hakkında verilen hükümle, taraflara yüklenen borç ve tanınan hakların,
+sıra numarası altında, açık, şüphe ve tereddüt uyandırmayacak şekilde gösterilmesi gereklidir.
+(3) (Ek:22/7/2020-7251/38 md.) Bölge adliye mahkemesi, başvurunun esastan reddi
+kararında, ileri sürülen istinaf sebeplerini özetlemek ve ret sebeplerini açıklamak kaydıyla,
+kararın hukuk kurallarına uygunluk gerekçesini göstermekle yetinebilir.
 (4) (Ek: 20/7/2017-7035/30 md.)Temyizi kabil olmayan kararlar, ilk derece mahkemesi
 tarafından; temyizi kabil olan kararlar ise bölge adliye mahkemesi tarafından resen tebliğe
 çıkarılır.
@@ -3854,8 +3864,6 @@ b) Kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebile
 davaları ile kira ilişkisinden doğan diğer davalardan üç aylık kira tutarı temyiz sınırının üzerinde
 olanlar hariç olmak üzere 4 üncü maddede gösterilen davalar ile (23/6/1965 tarihli ve 634 sayılı
 Kat Mülkiyeti Kanunundan doğup taşınmazın aynına ilişkin olan davalar hariç) özel kanunlarda
-sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar. 5960
-c) (Değişik:22/7/2020-7251/39 md.) Yargı çevresi içinde bulunan ilk derece
 
 54 Bu maddenin uygulanması ile ilgili olarak Kanunun sonundaki “İşlemeyen hükümler” bölümünde
 yer alan 20/7/2017 tarihli ve 7035 sayılı Kanunun Geçici 1 inci maddesine bakınız.
@@ -3868,12 +3876,8 @@ bendi ile ikinci fıkrasında yer alan “yirmibeşbin” ibareleri “kırk bin
 Gazete’de yayımlanmasından başlayarak dokuz ay sonra (20/10/2026) yürürlüğe girer.
 58 Anayasa Mahkemesinin 26/2/2026 tarihli ve E.: 2026/49, K.: 2026/48 sayılı Kararı ile bu bent
 “istinaf başvurusunun kısmen veya tümden kabulü hali” yönünden iptal edilmiştir.
-59 20/7/2017 tarihli ve 7035 sayılı Kanunun 32 nci maddesiyle, bu maddenin birinci fıkrasının (b)
-bendinin başına “Kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak
-davaları hariç olmak üzere” ibaresi eklenmiştir.
-60 22/7/2020 tarihli ve 7251 sayılı Kanunun 39 uncu maddesiyle, bu bende “temyiz edilebilen alacak
-davaları” ibaresinden sonra gelmek üzere “ile kira ilişkisinden doğan diğer davalardan üç aylık kira
-tutarı temyiz sınırının üzerinde olanlar” ibaresi eklenmiştir.
+sulh hukuk mahkemesinin görevine girdiği belirtilen davalarla ilgili kararlar. 5960
+c) (Değişik:22/7/2020-7251/39 md.) Yargı çevresi içinde bulunan ilk derece
 mahkemelerinin görev ve yetkisi hakkında verilen kararlar ile yargı yeri belirlenmesine ilişkin
 kararlar.
 ç) Çekişmesiz yargı işlerinde verilen kararlar.
@@ -3891,10 +3895,29 @@ Alacağın tamamının dava edilmiş olması hâlinde, kararda asıl talebinin k
 bölümü kırk bin Türk Lirasını geçmeyen tarafın temyiz hakkı yoktur. Ancak, karşı taraf
 temyiz yoluna başvurduğu takdirde, diğer taraf da düzenleyeceği cevap dilekçesiyle kararı
 temyiz edebilir.
+(3) (Ek:16/7/2026-7589/25 md.) Bölge adliye mahkemesinin yaptığı inceleme
+sonucunda istinaf başvurusunun kısmen veya tamamen kabul edilerek yeniden esas hakkında
+verilen kararın kabul edilen ya da reddedilen kısmının, miktar veya değeri itibarıyla 341 inci
+maddenin ikinci fıkrasında düzenlenen parasal sınırın üzerinde olması halinde temyiz
+edilebilir. Şu kadar ki;
+a) Miktar veya değeri itibarıyla birinci fıkrada belirtilen temyiz sınırının altında kalan
+bölge adliye mahkemesinin yeniden esas hakkında verdiği karar ile ilk derece mahkemesi
+kararı arasındaki farkın, miktar veya değeri itibarıyla 341 inci maddenin ikinci fıkrasında
+belirtilen parasal sınırı geçmemesi halinde bu karara karşı temyiz yoluna başvurulamaz.
+b) Miktar veya değeri itibarıyla birinci fıkrada belirtilen temyiz sınırının altında kalan
+bölge adliye mahkemesinin yeniden esas hakkında verdiği kararın, sadece yargılama gideri
+veya vekâlet ücretine ilişkin olması halinde bu karara karşı temyiz yoluna başvurulamaz.
 
 MADDE 363 — Kanun yararına temyiz
 
 (1) (Değişik: 20/7/2017-7035/33 md.) İlk derece mahkemelerinin kesin
+
+59 20/7/2017 tarihli ve 7035 sayılı Kanunun 32 nci maddesiyle, bu maddenin birinci fıkrasının (b)
+bendinin başına “Kira ilişkisinden doğan ve miktar veya değeri itibarıyla temyiz edilebilen alacak
+davaları hariç olmak üzere” ibaresi eklenmiştir.
+60 22/7/2020 tarihli ve 7251 sayılı Kanunun 39 uncu maddesiyle, bu bende “temyiz edilebilen alacak
+davaları” ibaresinden sonra gelmek üzere “ile kira ilişkisinden doğan diğer davalardan üç aylık kira
+tutarı temyiz sınırının üzerinde olanlar” ibaresi eklenmiştir.
 olarak verdikleri kararlar ile istinaf incelemesinden geçmeden kesinleşmiş bulunan kararlarına
 ve bölge adliye mahkemesi hukuk dairelerinin ilk derece mahkemesi sıfatıyla kesin olarak
 verdikleri kararlar ile yine bu sıfatla verdikleri ve temyiz incelemesinden geçmeden
@@ -3977,6 +4000,9 @@ fıkrası kıyas yoluyla uygulanır.61
 duruşma yapılmasına karar verebilir.
 (5) Duruşma günü belli edilen hâllerde Yargıtay, tarafları veya gelen tarafı dinledikten
 sonra, taraflardan hiçbiri gelmemiş ise dosya üzerinde inceleme yaparak kararını verir.
+
+61 31/3/2011 tarihli ve 6217 sayılı Kanunun 28 inci maddesiyle, bu fıkralarda yer alan “yirmibin”
+ibareleri “altmışbin” olarak değiştirilmiş ve metne işlenmiştir.
 (6) Duruşma günü kararı verilemeyen işlerin en geç bir ay içinde karara bağlanması
 zorunludur.
 (7) Kanunda ivedi olduğu bildirilen dava ve işlere ait temyiz incelemesi öncelikle
@@ -3996,9 +4022,6 @@ fıkra hükmü uygulanmaz.
 yanlışlıkları hakkında da bu hüküm uygulanır.
 (4) Karar, usule ve kanuna uygun olup da gösterilen gerekçe doğru bulunmazsa, gerekçe
 değiştirilerek ve düzeltilerek onanır.
-
-61 31/3/2011 tarihli ve 6217 sayılı Kanunun 28 inci maddesiyle, bu fıkralarda yer alan “yirmibin”
-ibareleri “altmışbin” olarak değiştirilmiş ve metne işlenmiştir.
 
 MADDE 371 — Bozma sebepleri
 
@@ -4023,6 +4046,9 @@ MADDE 373 — Bozmaya uyma veya direnme62
 başvurunun bölge adliye mahkemesi tarafından esastan reddi kararına ilişkin ise bölge adliye
 mahkemesi kararı kaldırılarak dosya, kararı veren ilk derece mahkemesine veya uygun görülecek
 diğer bir ilk derece mahkemesine, kararın bir örneği de bölge adliye mahkemesine gönderilir.
+
+62 17/4/2013 tarihli ve 6460 sayılı Kanunun 1 inci maddesiyle bu maddenin beşinci fıkrasından sonra
+gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 (2) Bölge adliye mahkemesinin düzelterek veya yeniden esas hakkında verdiği karar
 Yargıtayca tamamen veya kısmen bozulduğu takdirde dosya, kararı veren bölge adliye
 mahkemesi veya uygun görülen diğer bir bölge adliye mahkemesine gönderilir.
@@ -4040,13 +4066,6 @@ uyularak tesis olunan kararın önceki bozmayı ortadan kaldıracak şekilde yen
 üzerine alt mahkemece verilen kararın temyiz incelemesi, her hâlde Yargıtay Hukuk Genel
 Kurulunca yapılır.
 (7) Hukuk Genel Kurulunun verdiği karara uymak zorunludur.
-
-62 17/4/2013 tarihli ve 6460 sayılı Kanunun 1 inci maddesiyle bu maddenin beşinci fıkrasından sonra
-gelmek üzere aşağıdaki fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
-63 24/11/2016 tarihli ve 6763 sayılı Kanunun 43 üncü maddesi ile bu fıkrada yer alan “Yargıtay
-Hukuk Genel Kurulunca yapılır.” ibaresi “kararına direnilen dairece yapılır. Direnme kararı
-öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı
-Yargıtay Hukuk Genel Kuruluna gönderir.” şeklinde değiştirilmiştir.
 
 ÜÇÜNCÜ BÖLÜM
 Yargılamanın İadesi
@@ -4071,6 +4090,11 @@ d) Karara esas alınan senedin sahteliğine karar verilmiş veya senedin sahte o
 mahkeme veya resmî makam önünde ikrar edilmiş olması.
 e) İfadesi karara esas alınan tanığın, karardan sonra yalan tanıklık yaptığının sabit olması.
 f) Bilirkişi veya tercümanın, hükme esas alınan husus hakkında kasten gerçeğe aykırı
+
+63 24/11/2016 tarihli ve 6763 sayılı Kanunun 43 üncü maddesi ile bu fıkrada yer alan “Yargıtay
+Hukuk Genel Kurulunca yapılır.” ibaresi “kararına direnilen dairece yapılır. Direnme kararı
+öncelikle incelenir. Daire, direnme kararını yerinde görürse kararını düzeltir; görmezse dosyayı
+Yargıtay Hukuk Genel Kuruluna gönderir.” şeklinde değiştirilmiştir.
 beyanda bulunduğunun sabit olması.
 g) Lehine karar verilen tarafın, karara esas alınan yemini yalan yere ettiğinin, ikrar
 veya yazılı delille sabit olması.
@@ -4087,11 +4111,6 @@ başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda dü
 istenebilmesi, bu sebeplerin kesinleşmiş bir ceza mahkûmiyet kararı ile belirlenmiş olması
 şartına bağlıdır. Delil yokluğundan başka bir sebeple ceza kovuşturmasına başlanamamış veya
 mahkûmiyet kararı verilememiş ise ceza mahkemesi kararı aranmaz. Bu takdirde dayanılan
-
-64 25/7/2018 tarihli ve 7145 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş
-olması” ibaresinden sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları Mahkemesine
-yapılan başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
-verilmesi” ibaresi eklenmiştir.
 yargılamanın iadesi sebebinin, yargılamanın iadesi davasında öncelikle ispat edilmesi gerekir.
 
 MADDE 376 — Üçüncü kişilerin hükmün iptalini talep etmesi
@@ -4113,6 +4132,15 @@ mahkûmiyetine ilişkin hükmün kesinleştiği veya ceza kovuşturmasına başl
 soruşturmanın sonuçsuz kaldığı,
 d) Karara esas alınan ilamın bozularak kesin hüküm şeklinde tamamen ortadan
 kalkmasından haberdar olunduğu,
+
+64 25/7/2018 tarihli ve 7145 sayılı Kanunun 19 uncu maddesiyle, bu bentte yer alan “tespit edilmiş
+olması” ibaresinden sonra gelmek üzere “veya karar aleyhine Avrupa İnsan Hakları Mahkemesine
+yapılan başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
+verilmesi” ibaresi eklenmiştir.
+65 Anayasa Mahkemesi’nin 21/6/2022 tarihli ve E.: 2022/7, K.: 2022/79 sayılı Kararı ile bu fıkranın
+bentlerini bağlayan hükmünün “her hâlde iade talebine konu olan hükmün kesinleşmesinden itibaren
+on yıldır.” bölümü anılan fıkranın (e) bendi yönünden iptal edilmiştir.
+
 e) 375 inci maddenin birinci fıkrasının (i) bendinde yazılı sebepten dolayı, Avrupa
 İnsan Hakları Mahkemesinin kesinleşmiş kararının tebliğ edildiği,
 tarihten itibaren üç ay ve her hâlde iade talebine konu olan hükmün kesinleşmesinden
@@ -4137,11 +4165,6 @@ b) Yargılamanın iadesi yoluyla kaldırılması istenen hükmün kesin olarak v
 kesinleşmiş olup olmadığını,
 c) İleri sürülen yargılamanın iadesi sebebinin kanunda yazılı sebeplerden olup
 olmadığını,
-
-65 Anayasa Mahkemesi’nin 21/6/2022 tarihli ve E.: 2022/7, K.: 2022/79 sayılı Kararı ile bu fıkranın
-bentlerini bağlayan hükmünün “her hâlde iade talebine konu olan hükmün kesinleşmesinden itibaren
-on yıldır.” bölümü anılan fıkranın (e) bendi yönünden iptal edilmiştir.
-
 kendiliğinden inceler.
 (2) Bu koşullardan biri eksik ise hâkim davayı esasa girmeden reddeder.
 
@@ -4396,9 +4419,6 @@ kararında belirtmek suretiyle, tedbirin uygulanmasında, yazı işleri müdür�
 hususunda, bütün kolluk kuvvetleri ve köylerde muhtarlar, uygulamayı gerçekleştirecek memurun
 yazılı başvurusu üzerine, kendisine yardım etmek ve emirlerine uymakla yükümlüdürler.
 (4) İhtiyati tedbiri uygulayan memur, bir tutanak düzenler. Bu tutanakta, tedbir konusu
-
-66 22/7/2020 tarihli ve 7251 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “verildiği
-tarihten” ibaresi “bu kararın, tedbir isteyen tarafa tefhim veya tebliğinden” şeklinde değiştirilmiştir.
 ve bulunduğu yer gösterilir; tedbir konusu ile ilgili her türlü iddia bu tutanağa geçirilir.
 Tedbiri uygulayan memur, bu tutanağın bir örneğini tedbir sırasında hazır bulunmayan
 taraflara ve duruma göre üçüncü kişiye tebliğ eder.
@@ -4422,6 +4442,9 @@ itirazının dayanağı olan tüm delilleri dilekçesine eklemek zorundadır. Ma
 dinlemek üzere davet eder; gelmedikleri takdirde dosya üzerinden inceleme yaparak kararını
 verir. İtiraz üzerine mahkeme, tedbir kararını değiştirebilir veya kaldırabilir.
 (5) İtiraz hakkında verilen karara karşı, kanun yoluna başvurulabilir. Bu başvuru
+
+66 22/7/2020 tarihli ve 7251 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “verildiği
+tarihten” ibaresi “bu kararın, tedbir isteyen tarafa tefhim veya tebliğinden” şeklinde değiştirilmiştir.
 öncelikle incelenir ve kesin olarak karara bağlanır. Kanun yoluna başvurulmuş olması, tedbirin
 uygulanmasını durdurmaz.
 
@@ -4483,9 +4506,6 @@ Kesinleşen kararların infazı Cumhuriyet başsavcılığınca yapılır.
 yerine getirilmesi ya da şikâyetten vazgeçilmesi hâlinde, dava ve bütün sonuçlarıyla beraber
 ceza düşer.
 (9) Disiplin hapsine ilişkin karar, kesinleştiği tarihten itibaren iki yıl geçtikten sonra
-
-67 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “tefhim veya”
-ibaresi madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 yerine getirilemez.
 
 MADDE 399 — Tazminat
@@ -4511,6 +4531,9 @@ yapılmasını talep edebilir.
 (2) Delil tespiti istenebilmesi için hukuki yararın varlığı gerekir. Kanunda açıkça
 öngörülen hâller dışında, delilin hemen tespit edilmemesi hâlinde kaybolacağı yahut ileri
 sürülmesinin önemli ölçüde zorlaşacağı ihtimal dâhilinde bulunuyorsa hukuki yarar var sayılır.
+
+67 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “tefhim veya”
+ibaresi madde metninden çıkarılmış ve “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 
 MADDE 401 — Görev ve yetki
 
@@ -4692,6 +4715,9 @@ MADDE 417
 tarafsızlık ve bağımsızlığından şüphe edilmeyi haklı gösteren durum ve koşulları açıklamak
 zorundadır. Taraflar önceden bilgilendirilmemiş oldukları takdirde hakem, daha sonra ortaya
 çıkan durumları da gecikmeksizin taraflara bildirir.
+
+68 28/2/2018 tarihli ve 7101 sayılı Kanunun 58 inci maddesi ile bu fıkrada yer alan “temyiz yoluna”
+ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 (2) Hakem, taraflarca kararlaştırılan niteliklere sahip olmadığı, taraflarca kararlaştırılan
 tahkim usulünde öngörülen bir ret sebebi mevcut bulunduğu veya tarafsızlığından şüphe
 edilmeyi haklı gösteren durum ve koşullar gerçekleştiği takdirde reddedilebilir. Taraflardan
@@ -4712,9 +4738,6 @@ tarihten itibaren karara karşı bir ay içinde mahkemeye başvurarak bu kararı
 hakem veya hakemlerin reddine ilişkin talep hakkında karar verilmesini isteyebilir.
 (4) Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu ortadan
 kaldıracak sayıda hakemin reddi için ancak mahkemeye başvurulabilir. Mahkemenin bu fıkra
-
-68 28/2/2018 tarihli ve 7101 sayılı Kanunun 58 inci maddesi ile bu fıkrada yer alan “temyiz yoluna”
-ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 uyarınca vereceği kararlara karşı kanun yoluna başvurulamaz.69
 (5) Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu ortadan
 kaldıracak sayıda hakemin ret talebini mahkemenin kabul etmesi hâlinde tahkim sona erer.
@@ -4736,6 +4759,9 @@ anlaşmaları suretiyle sona erer.
 aralarında uyuşmazlık olursa, mahkemeden hakemin yetkisinin sona erdirilmesi konusunda
 karar verilmesini isteyebilir. Mahkemenin vereceği karar kesindir.
 (3) Hakemin görevinden çekilmesi veya diğer tarafın hakemin yetkisinin sona
+
+69 28/2/2018 tarihli ve 7101 sayılı Kanunun 59 uncu maddesi ile bu fıkrada yer alan “temyiz yoluna”
+ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 ermesine muvafakat etmesi, hakemin ret sebeplerinin varlığının kabulü anlamına gelmez.
 
 MADDE 421 — Yeni hakem seçilmesi
@@ -4757,9 +4783,6 @@ verebilir. Bu karar verilirken, bir sözleşmede yer alan tahkim şartı, sözle
 hükümlerinden bağımsız olarak değerlendirilir. Hakem veya hakem kurulunun asıl sözleşmenin
 hükümsüzlüğüne karar vermesi, tahkim sözleşmesinin kendiliğinden hükümsüzlüğü sonucunu
 doğurmaz.
-
-69 28/2/2018 tarihli ve 7101 sayılı Kanunun 59 uncu maddesi ile bu fıkrada yer alan “temyiz yoluna”
-ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 (2) Hakem veya hakem kurulunun yetkisizliğine ilişkin itiraz, en geç cevap
 dilekçesinde yapılır. Tarafların hakemleri bizzat seçmiş veya hakem seçimine katılmış
 olmaları, hakem veya hakem kurulunun yetkisine itiraz etme haklarını ortadan kaldırmaz.
@@ -4954,6 +4977,11 @@ MADDE 439 — İptal davası70
 
 (1) Hakem kararına karşı yalnızca iptal davası açılabilir. İptal davası,
 tahkim yeri bölge adliye mahkemesinde açılır; öncelikle ve ivedilikle görülür.
+
+70 28/2/2018 tarihli ve 7101 sayılı Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer
+alan “tahkim yerindeki mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde,
+beşinci fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde değiştirilmiş ve
+yedinci fıkrasına “(b),” ibaresinden sonra gelmek üzere “(c),” ibaresi eklenmiştir.
 (2) a) Tahkim sözleşmesinin taraflarından birinin ehliyetsiz ya da tahkim sözleşmesinin
 geçersiz olduğu,
 b) Hakem veya hakem kurulunun seçiminde, sözleşmede belirlenen veya bu Kısımda
@@ -4973,11 +5001,6 @@ tahkime elverişli olmadığı,
 tespit edilirse, hakem kararları iptal edilebilir.
 (3) Hakem veya hakem kurulunun, tahkim sözleşmesi dışında kalan bir konuda karar
 verdiği iddiasıyla açılan iptal davasında, tahkim sözleşmesi kapsamında olan konuların,
-
-70 28/2/2018 tarihli ve 7101 sayılı Kanunun 60 ıncı maddesi ile bu maddenin birinci fıkrasında yer
-alan “tahkim yerindeki mahkemede” ibaresi “tahkim yeri bölge adliye mahkemesinde” şeklinde,
-beşinci fıkrasında yer alan “mahkeme” ibaresi “bölge adliye mahkemesi” şeklinde değiştirilmiş ve
-yedinci fıkrasına “(b),” ibaresinden sonra gelmek üzere “(c),” ibaresi eklenmiştir.
 tahkim sözleşmesi kapsamında olmayan konulardan ayrılması mümkün olduğu takdirde,
 hakem kararının sadece tahkim sözleşmesi kapsamında olmayan konuları içeren bölümü iptal
 edilebilir.
@@ -5015,11 +5038,6 @@ hazırlanan ücret tarifesine göre belirlenir.71
 tamamlanması hâllerinde ek hakem ücreti ödenmez.72
 (6) Hakem veya hakem kurulu kararında tahkim yargılamasının giderleri gösterilir.
 
-71 Bu fıkrada yer alan tarife ile ilgili olarak 28/10/2025 tarihli ve 33061 sayılı Resmi Gazete’de
-yayımlanan “Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi”ne bakınız.
-72 22/7/2020 tarihli ve 7251 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “Hakem
-kararının” ibaresi “Aksi kararlaştırılmadıkça hakem kararının” şeklinde değiştirilmiştir.
-
 MADDE 441 — Yargılama giderleri
 
 (1) Yargılama giderleri;
@@ -5042,6 +5060,11 @@ giderleri için gereken hâllerde avans yatırılmasını isteyebilir. Aksi kara
 avans taraflarca eşit miktarda ödenir.
 (2) Avans, hakem veya hakem kurulu kararında öngörülen süre içinde ödenmemişse
 hakem veya hakem kurulu yargılamayı durdurabilir. Yargılamanın durdurulduğunun taraflara
+
+71 Bu fıkrada yer alan tarife ile ilgili olarak 28/10/2025 tarihli ve 33061 sayılı Resmi Gazete’de
+yayımlanan “Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi”ne bakınız.
+72 22/7/2020 tarihli ve 7251 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “Hakem
+kararının” ibaresi “Aksi kararlaştırılmadıkça hakem kararının” şeklinde değiştirilmiştir.
 bildirilmesinden itibaren bir ay içinde avans ödenirse yargılamaya devam olunur; aksi hâlde
 tahkim yargılaması sona erer.
 (3) Hakem veya hakem kurulu, kararını verdikten sonra taraflara, yatırılmış olan
@@ -5152,9 +5175,6 @@ GEÇİCİ MADDE 2
 
 (1) 1086 sayılı Kanunun yürürlükte olduğu dönemde usulüne
 uygun olarak düzenlenmiş bulunan senetler, bu Kanunun yürürlüğe girdiği tarihten sonra da
-
-73 7/11/2024 tarihli ve 7531 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “on” ibaresi “bin”
-şeklinde değiştirilmiştir.
 geçerliliklerini korur.
 
 GEÇİCİ MADDE 3
@@ -5176,6 +5196,15 @@ uygulanır.
 GEÇİCİ MADDE 4
 
 (Ek: 24/11/2016-6763/45 md.)
+
+73 7/11/2024 tarihli ve 7531 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “on” ibaresi “bin”
+şeklinde değiştirilmiştir.
+74 Bu maddenin uygulanmasıyla ilgili olarak 17/4/2013 tarihli ve 6460 sayılı Kanunun 1 ve 2 nci
+maddelerine bakınız.
+75 1/7/2016 tarihli ve 6723 sayılı Kanunun 34 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan
+“aleyhine temyiz yoluna başvurulmuş olan” ibaresi “verilen” şeklinde değiştirilmiştir.
+76 22/7/2020 tarihli ve 7251 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “454” ibaresi
+“444” şeklinde değiştirilmiştir.
 (1) Bölge adliye mahkemelerinin göreve başlama tarihinden önce verilen kararlarla
 ilgili Yargıtay hukuk daireleri tarafından verilen bozma kararları üzerine mahkemelerce
 verilen direnme kararları, kararına direnilen daireye gönderilir.
@@ -5195,10 +5224,3 @@ MADDE 451 — Yürürlük
 MADDE 452 — Yürütme
 
 (1) Bu Kanun hükümlerini Bakanlar Kurulu yürütür.
-
-74 Bu maddenin uygulanmasıyla ilgili olarak 17/4/2013 tarihli ve 6460 sayılı Kanunun 1 ve 2 nci
-maddelerine bakınız.
-75 1/7/2016 tarihli ve 6723 sayılı Kanunun 34 üncü maddesiyle, bu maddenin ikinci fıkrasında yer alan
-“aleyhine temyiz yoluna başvurulmuş olan” ibaresi “verilen” şeklinde değiştirilmiştir.
-76 22/7/2020 tarihli ve 7251 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “454” ibaresi
-“444” şeklinde değiştirilmiştir.

@@ -1,4 +1,4 @@
-# MADDE 88 — Yakalama ve sorgu usulü:61
+# MADDE 88 — Yakalama ve sorgu usulü:63
 
 Ağır ceza mahkemesinin görevine giren suçüstü hâlleri dışında suç işlediği
 ileri sürülen hakim ve savcılar yakalanamaz, üzerleri ve konutları aranamaz, sorguya çekilemez.
@@ -9,4 +9,4 @@ soruşturma ve kovuşturma yapılır.
 
 İKİNCİ BÖLÜM
 Kovuşturma
-Kovuşturma kararı ve ilk soruşturma:62
+Kovuşturma kararı ve ilk soruşturma:64

@@ -13,6 +13,10 @@ göre hesaplanır. Sürekli tam iş göremezlikte sigortalıya, 17 nci maddeye g
 aylık kazancının %70'i oranında gelir bağlanır. Sürekli kısmî iş göremezlikte sigortalıya
 bağlanacak gelir, tam iş göremezlik geliri gibi hesaplanarak bunun iş göremezlik derecesi
 oranındaki tutarı kendisine ödenir. Sigortalı, başka birinin sürekli bakımına muhtaç ise gelir
+
+36 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
+“özürler” ibaresi “engellilik”, dokuzuncu fıkrasında yer alan “özürlülük” ibaresi “engellilik” şeklinde
+değiştirilmiştir.
 bağlama oranı %100 olarak uygulanır.
 4 üncü maddenin birinci fıkrasının (b) bendine göre sigortalı sayılanlara, sürekli iş
 göremezlik geliri bağlanabilmesi için, kendi sigortalılığından dolayı, genel sağlık sigortası
@@ -33,12 +37,6 @@ otuzda biri arasındaki fark, her gün için geçici iş göremezlik ödeneği o
 Sigortalının yeniden bir iş kazasına uğraması veya yeni bir meslek hastalığına
 tutulması halinde, meydana gelen engellilik hâllerinin bütünü göz önüne alınarak kendisine,
 sürekli iş göremezliğini doğuran son iş kazası veya meslek hastalığı sırasındaki kazancı
-
-36 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
-“özürler” ibaresi “engellilik”, dokuzuncu fıkrasında yer alan “özürlülük” ibaresi “engellilik” şeklinde
-değiştirilmiştir.
-37 17/4/2008 tarihli ve 5754 sayılı Kanunun 12 nci maddesiyle bu fıkrada yer alan “prim ve her türlü
-borçlarının” ibaresi “prim ve prime ilişkin her türlü borçlarının” şeklinde değiştirilmiştir.
 üzerinden gelir hesaplanır. Ancak, sigortalının son iş kazası veya meslek hastalığı sırasındaki
 günlük kazancına göre bulunacak geliri, hesaplanan ilk gelirinden az ise sigortalının sürekli iş
 göremezlik geliri ilk kazanç üzerinden ödenir.38

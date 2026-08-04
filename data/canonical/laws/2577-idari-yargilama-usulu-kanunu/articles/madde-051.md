@@ -1,4 +1,4 @@
-# MADDE 51 — Kanun yararına temyiz:4344
+# MADDE 51 — Kanun yararına temyiz:4445
 
 1. (Değişik: 5/4/1990-3622/20 md.) İdare ve vergi mahkemeleri ile bölge
 idare mahkemelerinin kesin olarak verdiği kararlar ile istinaf veya temyiz incelemesinden

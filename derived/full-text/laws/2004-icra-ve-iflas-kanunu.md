@@ -2369,7 +2369,11 @@ Birinci ve ikinci artırmanın yapılacağı gün ve saat aralığı, artırmaya
 tarihinden en az on beş gün önce ilan edilir. Elektronik satış portalı ve Basın İlân Kurumu
 İlan Portalında yapılacak ilan, artırmanın bitimine kadar erişime açık tutulur. İkinci artırmanın
 başlangıç tarihi, birinci artırmanın bitimi tarihinden itibaren bir ayı geçmeyecek şekilde
-belirlenir.
+belirlenir. (Ek cümleler:16/7/2026-7589/1 md.) Tüm maliklerin miras yoluyla edindikleri ve
+mirasçılar dışında üçüncü kişilerin mülkiyet hakkının bulunmadığı taşınmazlar bakımından
+ortaklığın satış suretiyle giderilmesine karar verilmesi hâlinde yapılacak açık artırmalarda
+birinci artırma sadece malik olan mirasçılar arasında yapılır. Sadece malik olan mirasçılar
+arasında yapılacak bu artırma usulü bir defaya mahsus olmak üzere uygulanır.
 (Değişik fıkra: 13/10/2022 -7418/25 md.) Gazete ve internet haber sitesi ilanları
 Basın-İlân Kurumu aracılığıyla aşağıda belirtilen usulde yapılır.
 (Ek fıkra: 13/10/2022 -7418/25 md.) Toplam muhammen bedeli beş yüz bin Türk
@@ -2380,9 +2384,6 @@ Ancak;
 lirasının altında olanlar, satışın yapılacağı yerde yayınlanan resmî ilan yayınlama hakkını haiz
 bir yerel gazete veya bir internet haber sitesinde ilan edilir. Satışın yapılacağı yerde resmî ilan
 yayınlama hakkını haiz yerel gazete veya internet haber sitesi yönetimi bulunmaması hâlinde
-ilan, icra dairesinin belirleyeceği aynı il mülki sınırları içerisinde bulunan başka bir yayın
-yerinde resmî ilan yayınlama hakkını haiz bir yerel gazete veya bir internet haber sitesi
-aracılığıyla duyurulur.
 
 47 2/7/2012 tarihli ve 6352 sayılı Kanunun 23 üncü maddesiyle, bu fıkrada yer alan “bir ay” ibaresi “iki ay”
 şeklinde değiştirilmiştir.
@@ -2390,6 +2391,9 @@ aracılığıyla duyurulur.
 yer alan “Elektronik satış portalında” ibaresi “Elektronik satış portalı ve Basın İlân Kurumu İlan Portalında”
 şeklinde değiştirilmiş ve mevcut dördüncü fıkrasının birinci cümlesine “Gazete” ibaresinden sonra gelmek üzere
 “veya internet haber sitesi” ibaresi eklenmiştir.
+ilan, icra dairesinin belirleyeceği aynı il mülki sınırları içerisinde bulunan başka bir yayın
+yerinde resmî ilan yayınlama hakkını haiz bir yerel gazete veya bir internet haber sitesi
+aracılığıyla duyurulur.
 2. Toplam muhammen bedeli iki milyon Türk lirası ve üzerinde olanlar ise bir internet
 haber sitesinde veya yurt genelinde dağıtılıp satışa sunulan ve ilan talebi tarihinde günlük fiilî
 satışı elli bin adedin üzerinde olan resmî ilan yayınlama hakkını haiz bir gazetede yayınlatılır.
@@ -2431,19 +2435,33 @@ olduğu.
 5. Hisseli satışın mümkün olduğu hâllerde açık artırma konusu malı belirli paylarla
 satın almak isteyen müşterek alıcıların, en geç artırma süresinin bitiminden önceki iş günü
 mesai bitimine kadar satışı yapan icra dairesine müracaat etmelerinin zorunlu olduğu.
-6. Satış talep eden ve artırmaya katılmak isteyen alacaklı ile ortaklığın satış suretiyle
-giderilmesinde artırmaya katılmak isteyen pay sahibinin, en geç artırma süresinin bitiminden
-önceki iş günü mesai bitimine kadar satışı yapan icra dairesine müracaat etmeleri hâlinde
-alacağın veya ortaklık payının teminatı karşıladığı miktar kadar kendilerinden teminat
-alınmayacağı.
+6. (Değişik:16/7/2026-7589/1 md.) Satış talep eden ve artırmaya katılmak isteyen
+alacaklının, en geç artırma süresinin bitiminden önceki iş günü mesai bitimine kadar satışı
+yapan icra dairesine müracaat etmesi hâlinde alacağın teminatı karşıladığı miktar kadar
+kendisinden teminat alınmayacağı, açık artırmalarda Hazinenin teminat göstermekten muaf
+olduğu.
 7. Şartlar yerine gelmişse malın en yüksek teklif verene ihale edileceği.
-8. Elektronik satış portalında verilecek tekliflerin haczedilen malın muhammen
-kıymetinin yüzde ellisi ile o malla güvence altına alınan ve satış isteyenin alacağına rüçhanı
-olan alacakların toplamından hangisi fazla ise bu miktarı ve ayrıca bu miktara ilave olarak
-paraya çevirme ve paylaştırma masraflarını geçmesi gerektiği.
-9. İhale alıcısının en yüksek teklifi verip de süresi içinde ihale bedelini yatırmaması
-hâlinde, alınan teminatın iade edilmeyip öncelikle satış masraflarından düşülmek üzere
-alacaklarına mahsuben hak sahiplerine ödeneceği.
+8. (Değişik:16/7/2026-7589/1 md.) Elektronik satış portalında verilecek tekliflerin
+haczedilen malın muhammen kıymetinin yüzde ellisi, ortaklığın satış suretiyle giderilmesinde
+birinci artırmanın sadece malik olan mirasçılar arasında yapıldığı durumlarda muhammen
+kıymetin yüzde yüzü, ikinci artırmada ise muhammen kıymetin yüzde ellisi ile o malla
+güvence altına alınan ve satış isteyenin alacağına rüçhanı olan alacakların toplamından
+hangisi fazla ise bu miktarı ve ayrıca bu miktara ilave olarak paraya çevirme ve paylaştırma
+masraflarını geçmesi gerektiği.
+9. (Değişik:16/7/2026-7589/1 md.) İhale alıcısının en yüksek teklifi verip de süresi
+içinde ihale bedelini yatırmaması hâlinde, alınan teminatın iade edilmeyip öncelikle satış
+masraflarından mahsup edileceği, kalan miktarın icra dosyaları bakımından alacaklarına
+mahsuben hak sahiplerine ödeneceği; süresi içinde ihale bedelini yatırmayan ihale alıcısının
+satış isteyen alacaklı olması durumunda, muhammen bedelin yüzde onunun kendi alacağından
+mahsup edileceği ve bu satış için yapılan masrafın kendisi üzerinde bırakılarak borçluya
+yüklenmeyeceği; ortaklığın satış suretiyle giderilmesinde en yüksek teklifi verip de ihale
+bedelini süresi içinde yatırmayan ihale alıcısından alınan teminatın kendisine iade
+edilmeyerek satış masrafları mahsup edildikten sonra paydaşlara payları oranında ödeneceği,
+süresi içinde ihale bedelini yatırmayanın paydaş olması durumunda ise alınan teminatın
+tamamının diğer pay sahiplerine payları oranında ödeneceği; ayrıca en yüksek teklifi verip de
+süresi içinde ihale bedelini yatırmayan ihale alıcısına, teklif ettiği bedelin yüzde beşi oranında
+satışı yapan icra dairesince veya satış memurunca idari para cezası verileceği, verilen bu
+cezanın 6183 sayılı Kanun hükümleri uyarınca tahsili için tahsil dairesine bildirileceği.
 10. Asgari ihale bedelinin teklif edilmemesi nedeniyle ihalenin yapılamadığı veya en
 yüksek teklif verenin ihale bedelini yatırmaması sebebiyle ihalenin iptal edildiği hâllerde
 ikinci artırmanın ilk açık artırmadaki şartlar çerçevesinde tekrar yapılacağı.
@@ -2466,9 +2484,6 @@ gelmesi hâlinde mal, en yüksek teklif verene ihale edilir. Şu kadar ki, artı
 haczedilen malın muhammen kıymetinin yüzde ellisi ile o malla güvence altına alınan ve satış
 isteyenin alacağına rüçhanı olan alacakların toplamından hangisi fazla ise bu miktarı ve ayrıca
 bu miktara ilave olarak paraya çevirme ve paylaştırma masraflarını da geçmesi şarttır.
-
-49 Bu madde başlığı “İhalenin yapılması ve geri bırakılması:” iken, 2/7/2012 tarihli ve 6352 sayılı Kanunun 25
-inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Artırmanın sona erdiği gün ve saatte şartların bulunması hâlinde, mal en yüksek teklif
 verene ihale edilmiş olur ve malın mülkiyeti ihale alıcısına geçer.
 İhale alıcısının en yüksek teklifi verip de süresi içinde ihale bedelini yatırmaması
@@ -2491,6 +2506,9 @@ Artırmada, alıcı çıkmazsa veya bu maddede yazılı şartlar gerçekleşmezs
 önceki satış talebinden kalan satış isteme süresi içinde satış günü verilmesini talep edebilir.
 Satış isteme süresi satış talebiyle birlikte durur ve duran bu süre, ihalenin yapılamadığına
 veya iptal edildiğine ilişkin tutanak tarihinden itibaren kaldığı yerden işlemeye başlar.
+
+49 Bu madde başlığı “İhalenin yapılması ve geri bırakılması:” iken, 2/7/2012 tarihli ve 6352 sayılı Kanunun 25
+inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 İcra müdürü, artırma bittikten sonraki ilk iş gününde elektronik satış portalından
 kaynaklanan teknik sebeplerle, artırmanın son on dakikası içinde teklif verilemediğini satış
 portalı kayıtlarından tespit ederse artırma süresinin bir gün uzatılmasına karar verir; kararda
@@ -2596,6 +2614,11 @@ MADDE 125
 
 Artırma şartnamesinde taşınmazın, üzerindeki irtifak hakları, taşınmaz
 mükellefiyetleri, ipotekler, ipotekli borç senetleri, irat senetleriyle birlikte satıldığı ve
+
+50 2/7/2012 tarihli ve 6352 sayılı Kanunun 27 nci maddesiyle, bu maddede yer alan “iki ay” ibaresi “üç ay”
+şeklinde değiştirilmiştir.
+51 24/11/2021 tarihli ve 7343 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “1 – Şartnamenin açık
+bulundurulması:” iken metne işlendiği şekilde değiştirilmiştir.
 borçlunun bu taşınmaz ile temin edilmiş şahsi borçlarının da alıcıya intikal eyliyeceği tasrih
 olunur.
 İpotek ve ipotekli borç senediyle temin edilmiş olupta bu suretle müşteriye devrolunan
@@ -2616,11 +2639,6 @@ Elektronik satış portalında yapılacak satış ilanında; 114 üncü maddede 
 hususlarla birlikte varsa ipotek sahibi alacaklılar ile diğer ilgililerin taşınmaz üzerindeki
 haklarını, hususiyle faiz ve masrafa dair olan iddialarını evrakı müsbiteleriyle on beş gün
 içinde icra dairesine bildirmeleri gerektiği, aksi hâlde hakları tapu siciliyle sabit olmadıkça,
-
-50 2/7/2012 tarihli ve 6352 sayılı Kanunun 27 nci maddesiyle, bu maddede yer alan “iki ay” ibaresi “üç ay”
-şeklinde değiştirilmiştir.
-51 24/11/2021 tarihli ve 7343 sayılı Kanunun 19 uncu maddesiyle bu madde başlığı “1 – Şartnamenin açık
-bulundurulması:” iken metne işlendiği şekilde değiştirilmiştir.
 satış bedelinin paylaşmasından hariç kalacakları ve bu hususların irtifak hakkı sahipleri için
 de geçerli olacağı belirtilir.
 
@@ -2647,6 +2665,9 @@ mühlet verir. 96 ve 97 nci maddeler hükümleri burada da caridir.
 taşınmazın kıymetinin takdirinde, taşınmaz üzerindeki mükellefiyetlerin kıymete olan etkisi
 de nazara alınır. (Ek cümle: 17/7/2003-4949/33 md.) Taşınmazın önceden takdir edilen
 kıymetini etkileyen mükellefiyetlerin ortaya çıkması hâlinde, icra dairesi satışa esas olmak
+
+52 24/11/2021 tarihli ve 7343 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “elektronik ortamda”
+ibaresi “elektronik satış portalında” şeklinde değiştirilmiştir.
 üzere taşınmazın kıymetini yeniden takdir ettirir. Kıymet takdirine ilişkin rapor borçluya,
 haciz koydurmuş alacaklılara ve diğer ipotekli alacaklılara tebligatın yapıldığı icra
 dosyasındaki, ayrıca bildirilmiş bulunması hali müstesna olmak üzere, tapudaki mevcut
@@ -2662,9 +2683,6 @@ ilgili kurumlardan bu mallar üzerindeki vergi, resim, harç gibi yükümlülük
 isteyen alacaklının talebi üzerine bu mallar satış dışında tutulabileceği gibi, üzerlerindeki
 vergi, resim, harç gibi malın aynından kaynaklanan kamu alacakları dikkate alınarak 129 uncu
 madde hükümlerine göre taşınmazla birlikte ihale de edilebilir.
-
-52 24/11/2021 tarihli ve 7343 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “elektronik ortamda”
-ibaresi “elektronik satış portalında” şeklinde değiştirilmiştir.
 (Ek fıkra: 28/2/2018-7101/1 md.) Ticari ve ekonomik bütünlük arz eden ya da bir
 bütün hâlinde satıldığı takdirde daha yüksek gelir elde edileceği anlaşılan mal ve haklar bir
 bütün olarak paraya çevrilir.
@@ -2711,10 +2729,6 @@ itibaren yedi gün içinde satış bedelini nakden ödemek zorundadır.
 
 Ödeme müddeti içinde taşınmazın idaresi:
 
-53 24/11/2021 tarihli ve 7343 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “kararı verir” ibaresi
-“kararı verir ve masrafını gider avansından karşılamak suretiyle dosyayı resen yetkili icra mahkemesine
-gönderir” şeklinde değiştirilmiştir.
-
 MADDE 131
 
 Satış bedelinin ödenmesi için mühlet verilmiş ise para verilinceye kadar
@@ -2748,6 +2762,10 @@ MADDE 133
 MADDE 134
 
 (Değişik: 18/2/1965-538/63 md.)
+
+53 24/11/2021 tarihli ve 7343 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “kararı verir” ibaresi
+“kararı verir ve masrafını gider avansından karşılamak suretiyle dosyayı resen yetkili icra mahkemesine
+gönderir” şeklinde değiştirilmiştir.
 İcra dairesi tarafından taşınmaz kendisine ihale edilen alıcı o taşınmazın mülkiyetini
 iktisap etmiş olur. (Ek cümle: 17/7/2003-4949/38 md.) İhale kesinleşinceye kadar taşınmazın
 ne şekilde muhafaza ve idare edileceği icra dairesi tarafından kararlaştırılır. (Ek
@@ -2821,6 +2839,13 @@ alıcıya teslim edilmedikçe veya teslime hazır hâle getirilmedikçe ihale be
 durumlarda ihale icra müdürü tarafından iptal olunarak ihale bedeli alıcısına ödenir.
 Satış ilanı tebliğ edilmemiş veya satılan malın esaslı vasıflarındaki hataya veya ihalede
 fesada bilahare vakıf olunmuşsa şikayet müddeti ıttıla tarihinden başlar. Şu kadar ki, bu
+
+54 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “ikinci fıkrada” ibaresi
+“beşinci fıkrada” şeklinde değiştirilmiştir.
+55 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkraya “kararı verir” ibaresinden sonra
+gelmek üzere “ve masrafını gider avansından karşılamak suretiyle dosyayı resen görevli veya yetkili icra
+mahkemesine gönderir” ibaresi eklenmiştir.
+
 müddet ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten
 itibaren bir seneyi geçemez.56
 İhalenin feshini şikayet yolu ile talep eden ilgili, vakı yolsuzluk neticesinde kendi
@@ -2836,16 +2861,6 @@ MADDE 135
 
 Taşınmaz alıcıya ihale edilip bedeli alındıktan sonra alıcı namına tescil
 edilmesi için (134) üncü maddede yazılı müddete riayet edilerek tapuya müzekkere yazılır.
-
-54 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “ikinci fıkrada” ibaresi
-“beşinci fıkrada” şeklinde değiştirilmiştir.
-55 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkraya “kararı verir” ibaresinden sonra
-gelmek üzere “ve masrafını gider avansından karşılamak suretiyle dosyayı resen görevli veya yetkili icra
-mahkemesine gönderir” ibaresi eklenmiştir.
-
-56 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkranın ikinci cümlesinde yer alan
-“ihaleden” ibaresi “ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten”
-şeklinde değiştirilmiştir.
 (Değişik 6/6/1985-3222/17 md.) Taşınmaz borçlu tarafından veya hacizden evvelki
 bir tarihte yapıldığı resmi bir belge ile belgelenmiş bir akte dayanmayarak başkaları
 tarafından işgal edilmekte ise onbeş gün içinde tahliyesi için borçluya veya işgal edene bir
@@ -2876,6 +2891,12 @@ MADDE 138
 Mahcuz mallar tamamiyle satıldıkta bedelleri alakadarlara hisselerine
 göre paylaştırılır ve bir kısmı satıldıkta icabına göre bedeli hisseleri nispetinde alakadarlara
 avans olarak dağıtılır.
+
+56 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkranın ikinci cümlesinde yer alan
+“ihaleden” ibaresi “ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten”
+şeklinde değiştirilmiştir.
+57 Bu madde başlığı “Gemiler hakkında:” iken, 14/1/2011 tarihli ve 6103 sayılı Kanunun 41 inci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 Haciz, paraya çevirme ve paylaştırma gibi bütün alacaklıları alakadar eden masraflar
 önce satış tutarından alınır ve artan para takip masrafları ve işlemiş faizler dahil olduğu halde
 alacakları nispetinde paylaştırılır.
@@ -2893,9 +2914,6 @@ MADDE 139
 Satış tutarı bütün alacakları ödemiye yetmezse icra memuru
 kendiliğinden yeni hacizler yaparak haczi tamamlar; ancak bu suretle haczolunan mallar
 üzerinde sonra gelen derecelerin evvelce koydurdukları hacizler varsa bu hacizlerin
-
-57 Bu madde başlığı “Gemiler hakkında:” iken, 14/1/2011 tarihli ve 6103 sayılı Kanunun 41 inci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
 doğurduğu haklara halel gelmez. Yeniden haczedilen mallar ayrıca satış talebine hacet
 kalmaksızın ve mümkün olduğu kadar çabuk satılır.
 
@@ -2948,10 +2966,6 @@ MADDE 143
 (Değişik: 3/7/1940-3890/1 md.)
 (Değişik birinci fıkra: 17/7/2003-4949/40 md.) Alacaklı alacağının tamamını
 alamamış ve aciz vesikası düzenlenmesi için gerekli şartlar yerine gelmişse, icra dairesi kalan
-
-58 24/11/2021 tarihli ve 7343 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Sıra cetveline karşı 142
-nci madde uyarınca şikâyet veya itiraz yapılmışsa,” ibaresi “Sıra cetvelinin düzenlenmesi üzerine” şeklinde
-değiştirilmiş ve fıkraya “bankanın kesin” ibaresinden sonra gelmek üzere “ve süresiz” ibaresi eklenmiştir.
 miktar için hemen bir aciz vesikası düzenleyip alacaklıya ve bir suretini de borçluya verir; bu
 belgeler hiçbir harç ve vergiye tâbi değildir. Aciz vesikasının bir nüshası da her il merkezinde
 Adalet Bakanlığınca tespit edilen icra dairesi tarafından tutulan özel sicile kaydedilmek üzere
@@ -2976,6 +2990,10 @@ borçluya borcunu ödeyerek aciz vesikasını sicilden terkin ettirdiğine dair 
 Aynı şekilde, icra takibi batıl ise veya iptal edilirse yahut borçlunun borçlu olmadığı
 mahkeme kararıyla sabit olursa ya da alacaklı icra takibini geri alırsa, aciz vesikası sicilden
 terkin edilir ve borçluya buna ilişkin bir belge verilir.
+
+58 24/11/2021 tarihli ve 7343 sayılı Kanunun 29 uncu maddesiyle bu fıkrada yer alan “Sıra cetveline karşı 142
+nci madde uyarınca şikâyet veya itiraz yapılmışsa,” ibaresi “Sıra cetvelinin düzenlenmesi üzerine” şeklinde
+değiştirilmiş ve fıkraya “bankanın kesin” ibaresinden sonra gelmek üzere “ve süresiz” ibaresi eklenmiştir.
 
 Senedin geri verilmesi ve ilamın icrası vesikası:
 
@@ -3443,11 +3461,6 @@ değiştirmeye veya kaldırmaya yetkilidir.
 MADDE 165
 
 İflas hükümle açılır ve bu hükümde açılma anı gösterilir.
-
-59 Bu madde başlığı “Yargıtaya müracaat:” iken, 2/3/2005 tarihli ve 5311 sayılı Kanunun 12 nci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-60 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
 (Ek: 9/11/1988-3494/29 md.) İflasa karar verilmesinden sonra iflas davasından
 feragat geçersizdir.
 
@@ -3466,6 +3479,18 @@ gazetelerden biri ile birlikte iflas edenin muamele merkezinin bulunduğu yerdek
 ve Ticaret Sicili Gazetesinde ilan eder. Tirajı ellibinin (50.000) üzerinde olan ve yurt
 düzeyinde dağıtımı yapılan gazetenin yayınlandığı yer aynı zamanda muamele merkezi ise
 mahalli gazetede ilan yapılmaz.616263
+
+59 Bu madde başlığı “Yargıtaya müracaat:” iken, 2/3/2005 tarihli ve 5311 sayılı Kanunun 12 nci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
+60 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
+şeklinde değiştirilmiştir.
+61 17/7/2003 tarihli ve 4949 sayılı Kanunun 44 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan
+“kararı,” kelimesinden sonra “karar tarihinde,” ibaresi eklenmiş; ikinci ve üçüncü cümlesinde yer alan “trajı”
+kelimeleri “tirajı” olarak değiştirilmiştir.
+62 12/2/2004 tarihli ve 5092 sayılı Kanunun 3 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan “yurt
+düzeyinde tirajı en yüksek beş gazeteden” ibaresi, “tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde
+dağıtımı yapılan gazetelerden”; üçüncü cümlesinde geçen “en yüksek” ibaresi ise, “ellibinin (50.000) üzerinde
+olan ve yurt düzeyinde dağıtımı yapılan” olarak değiştirilmiştir.
 İflasın kapandığı veya kaldırıldığı da aynı suretle bildirilir ve ilan olunur.
 
 III – KAMBİYO SENETLERİ (ÇEK, POLİÇE VE EMRE MUHARRER
@@ -3488,17 +3513,6 @@ A) Haciz yolu ile takip:
 MADDE 168
 
 (Değişik: 18/2/1965-538/81 md.)
-
-61 17/7/2003 tarihli ve 4949 sayılı Kanunun 44 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan
-“kararı,” kelimesinden sonra “karar tarihinde,” ibaresi eklenmiş; ikinci ve üçüncü cümlesinde yer alan “trajı”
-kelimeleri “tirajı” olarak değiştirilmiştir.
-62 12/2/2004 tarihli ve 5092 sayılı Kanunun 3 üncü maddesiyle, bu fıkranın ikinci cümlesinde yer alan “yurt
-düzeyinde tirajı en yüksek beş gazeteden” ibaresi, “tirajı ellibinin (50.000) üzerinde olan ve yurt düzeyinde
-dağıtımı yapılan gazetelerden”; üçüncü cümlesinde geçen “en yüksek” ibaresi ise, “ellibinin (50.000) üzerinde
-olan ve yurt düzeyinde dağıtımı yapılan” olarak değiştirilmiştir.
-63 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkranın ikinci cümlesinde yer alan “karar”
-ibaresi “bir internet haber sitesinde veya ilan talep” şeklinde değiştirilmiştir.
-64 III üncü fasıl başlığı 18/2/1965 tarih ve 538 sayılı Kanunun 80 inci maddesi ile değiştirilmiştir.
 İcra memuru senedin kambiyo senedi olduğunu ve vadesinin geldiğini görürse,
 borçluya senet sureti ile birlikte hemen bir ödeme emri gönderir. Bu ödeme emrine şunlar
 yazılır:
@@ -3519,6 +3533,10 @@ icraya devam olunacağı ihtarı.
 mehil verildiği veya alacağın zaman aşımına uğradığı veya yetki itirazını sebepleri ile birlikte
 beş gün içinde icra mahkemesine bir dilekçe ile bildirerek icra mahkemesinden itirazın
 kabulüne dair bir karar getirmediği takdirde cebri icraya devam olunacağı ihtarı.
+
+63 13/10/2022 tarihli ve 7418 sayılı Kanunun 28 inci maddesiyle; bu fıkranın ikinci cümlesinde yer alan “karar”
+ibaresi “bir internet haber sitesinde veya ilan talep” şeklinde değiştirilmiştir.
+64 III üncü fasıl başlığı 18/2/1965 tarih ve 538 sayılı Kanunun 80 inci maddesi ile değiştirilmiştir.
 6. (Değişik: 17/7/2003-4949/45 md.) İtiraz edilmediği ve borç ödenmediği takdirde on
 gün içinde 74 üncü maddeye, itiraz edilip de reddedildiği takdirde ise üç gün içinde 75 inci
 maddeye göre mal beyanında bulunması ve bulunmazsa hapisle tazyik edileceği, mal
@@ -3581,9 +3599,6 @@ sonuçlanan taraf için, daha önce hükmedilmiş olan tazminat kalkar.65
 başvurulması, hiçbir icra muamelesini durdurmaz. Şu kadar ki, borçlu 33 üncü maddenin
 üçüncü fıkrasına göre teminat gösterirse icra durur.
 
-65 2/7/2012 tarihli ve 6352 sayılı Kanunun 34 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “yüzde
-kırktan” ibaresi “yüzde yirmisinden” olarak değiştirilmiştir.
-
 b) İmzaya itiraz:
 
 MADDE 170
@@ -3604,6 +3619,9 @@ ait olduğu anlaşılırsa ve itiraz ile birlikte takip ikinci fıkraya göre du
 edilen senede dayanan takip konusu alacağın yüzde yirmisinden aşağı olmamak üzere inkâr
 tazminatına ve takip konusu alacağın yüzde onu oranında para cezasına mahkûm edilir
 ve itiraz reddedilir. Borçlu menfi tespit veya istirdat davası açarsa, hükmolunan tazminatın ve
+
+65 2/7/2012 tarihli ve 6352 sayılı Kanunun 34 üncü maddesiyle, bu fıkranın birinci cümlesinde yer alan “yüzde
+kırktan” ibaresi “yüzde yirmisinden” olarak değiştirilmiştir.
 para cezasının tahsili dava sonuna kadar tehir olunur ve davanın borçlu lehine sonuçlanması
 hâlinde daha önce hükmedilmiş olan tazminat ve para cezası kalkar.66
 (Değişik birinci cümle: 17/7/2003-4949/47 md.) İcra mahkemesi, itirazın kabulüne
@@ -3627,9 +3645,6 @@ hususlarını re’sen nazara alarak bu fasla göre yapılan takibi iptal edebil
 (Ek: 9/11/1988-3494/34 md.) Her ne suretle olursa olsun, imza inkarı itirazı geri
 alınmış veya borç kısmen veya tamamen kabul edilmiş ise bu madde hükmü uygulanmaz.
 
-66 2/7/2012 tarihli ve 6352 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
-“yüzde yirmisinden” olarak değiştirilmiştir.
-
 Uygulanacak diğer hükümler:
 
 MADDE 170/b
@@ -3652,6 +3667,9 @@ borçluya senet sureti ile birlikte hemen bir ödeme emri gönderir.
 hariç olmak üzere, takip talebine yazılması lazım gelen kayıtlar,
 2. (Değişik: 2/7/2012-6352/36 md.) Borcun ve takip masraflarının beş gün içinde
 ödeme emrinde yazılı olan icra dairesine ait banka hesabına ödenmesi ihtarı,
+
+66 2/7/2012 tarihli ve 6352 sayılı Kanunun 35 inci maddesiyle, bu fıkrada yer alan “yüzde kırkından” ibaresi
+“yüzde yirmisinden” olarak değiştirilmiştir.
 3. Kambiyo senedine ve borca dair her türlü itiraz ve şikayetlerini sebepleriyle birlikte
 diğer tarafa tebliğ edilecek nüshadan bir fazla dilekçe ile beş gün içinde icra dairesine
 bildirmesi ihtarı,
@@ -3775,9 +3793,6 @@ veya itiraz ederek, borçlunun iflas talebini, hakkındaki takipleri ertelemek v
 ödemeyi geciktirmek için yaptığını ileri sürerek mahkemeden talebin reddini isteyebilirler.
 İflasa tabi bir borçlu aleyhine alacaklılardan birinin haciz yolu ile takibi neticesinde
 yapılan haciz borçlunun yarı mevcudunun elinden çıkmasına sebep olup da kalanı muaccel ve
-
-67 28/2/2018 tarihli ve 7101 sayılı Kanunun 2 nci maddesiyle bu bentte yer alan “301 inci” ibaresi “308 inci”
-şeklinde değiştirilmiştir.
 vadesi bir sene içinde hülül edecek diğer borçlarını ödemeye yetişmiyorsa borçlu derhal
 aczini bildirerek iflasını istemeye mecburdur.
 
@@ -3794,6 +3809,16 @@ tarihli ve 1163 sayılı Kooperatifler Kanununun 63 üncü maddesi hükmü sakl�
 MADDE 179/a — Erteleme yargılaması:69
 
 (Ek: 17/7/2003-4949/50 md.; Mülga: 28/2/2018-7101/65 md.)
+
+67 28/2/2018 tarihli ve 7101 sayılı Kanunun 2 nci maddesiyle bu bentte yer alan “301 inci” ibaresi “308 inci”
+şeklinde değiştirilmiştir.
+68 Bu madde başlığı; “Anonim, limited, kooperatif şirketlerinin iflası:” iken, 17/7/2003 tarihli ve 4949 sayılı
+Kanunun 49 uncu maddesiyle “Sermaye şirketleri ile kooperatiflerin iflâsı:” şeklinde, daha sonra 15/7/2016
+tarihli ve 6728 sayılı Kanunun 1 inci maddesiyle “Sermaye şirketleri ile kooperatiflerin iflası ve iflasın
+ertelenmesi:” şeklinde, daha sonra 28/2/2018 tarihli ve 7101 sayılı Kanunun 3 üncü maddesiyle metne işlendiği
+şekilde değiştirilmiştir.
+69 Bu madde başlığı “Erteleme tedbirleri:” iken, 15/7/2016 tarihli ve 6728 sayılı Kanunun 2 nci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 179/b — Erteleme kararı ve sonuçları:70
 
@@ -3823,16 +3848,6 @@ gelen iflaslara da tatbik olunur.
 V. İFLASIN KALDIRILMASI
 İflasın kaldırılması:
 
-68 Bu madde başlığı; “Anonim, limited, kooperatif şirketlerinin iflası:” iken, 17/7/2003 tarihli ve 4949 sayılı
-Kanunun 49 uncu maddesiyle “Sermaye şirketleri ile kooperatiflerin iflâsı:” şeklinde, daha sonra 15/7/2016
-tarihli ve 6728 sayılı Kanunun 1 inci maddesiyle “Sermaye şirketleri ile kooperatiflerin iflası ve iflasın
-ertelenmesi:” şeklinde, daha sonra 28/2/2018 tarihli ve 7101 sayılı Kanunun 3 üncü maddesiyle metne işlendiği
-şekilde değiştirilmiştir.
-69 Bu madde başlığı “Erteleme tedbirleri:” iken, 15/7/2016 tarihli ve 6728 sayılı Kanunun 2 nci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-70 Bu madde başlığı “Erteleme kararının etkileri:” iken, 15/7/2016 tarihli ve 6728 sayılı Kanunun 3 üncüi
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
 MADDE 182
 
 Borçlu bütün alacaklılarının taleplerinin geri aldıklarına dair bir
@@ -3855,6 +3870,11 @@ Bir tereke 180 inci madde mucibince tasfiye halinde bulunur ve
 tasfiyenin kapanmasından evvel mirasçılardan biri gelerek mirası kabul eylediğini bildirirse
 borçların ödenmesi için mirasçının teminat göstermesi mukabilinde mahkeme tasfiyeyi
 durdurur.
+
+70 Bu madde başlığı “Erteleme kararının etkileri:” iken, 15/7/2016 tarihli ve 6728 sayılı Kanunun 3 üncüi
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
+71 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
+şeklinde değiştirilmiştir.
 
 YEDİNCİ BAP
 
@@ -3880,9 +3900,6 @@ mahfuz kalmak suretiyle masaya girer ve iflas idaresi tarafından en yakın ve m
 zamanda paraya çevrilip muhafaza ve satış masrafları çıkarıldıktan sonra rehinli alacaklıya
 hakkı verilir. (Ek cümle: 17/7/2003-4949/51 md.) Ancak, rehin sahibi alacaklı, istediği
 takdirde iflâstan sonra da masaya karşı rehnin paraya çevrilmesi yoluyla takip yapabilir.
-
-71 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
 Rehinin kıymeti rehinle temin edilen alacağa kafi gelmiyeceği borsa rayiciyle
 tahakkuk eder ve mürtehin rehnin satılmasını istemezse rehin, masadan muvakkaten çıkarılır.
 Rehinli alacak sahibi bu işlere ait muamelelerden dolayı icra mahkemesine şikayet
@@ -4187,8 +4204,6 @@ kimselerin reşit olanlarına düşer.
 İflas dairesi bu mecburiyet kandilerine teveccüh eden kimselere kanunun hükmünü
 ihtar eder.
 
-72 28/2/2018 tarihli ve 7101 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “üç” ibaresi “iki” şeklinde
-değiştirilmiştir.
 Teminat tedbirleri:
 
 MADDE 210
@@ -4212,6 +4227,8 @@ MADDE 211
 Daire 82 nci maddede sayılan malları deftere kaydetmekle beraber
 müflisin elinde bırakır.
 
+72 28/2/2018 tarihli ve 7101 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “üç” ibaresi “iki” şeklinde
+değiştirilmiştir.
 Üçüncü şahıslara ait mallar:
 
 MADDE 212
@@ -4344,9 +4361,6 @@ alacak tutarına göre ekseriyeti teşkil edenlerce, iki adedi ise alacaklılar 
 ekseriyeti teşkil edenlerce seçilir ve icra mahkemesine bildirilir. İcra mahkemesi, iflas
 idaresini teşkil edecek üç kişiden ikisini alacak ekseriyetine sahip olanların gösterdiği dört
 aday, birini ise alacaklı ekseriyetinin gösterdiği iki aday arasından seçer.
-
-73 Bu madde başlığı “İlk alacaklılar toplanması mümkün olmazlarsa:” iken, 17/7/2003 tarihli ve 4949 sayılı
-Kanunun 53 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Tasfiye, iflas dairesince, yukarıdaki fıkraya göre teşkil edilen iflas idaresine havale
 olunur.
 (Değişik üçüncü fıkra: 17/7/2003-4949/54 md.) İflâs idaresi toplantıları, idare
@@ -4364,6 +4378,9 @@ alacaklılar hakkında iflâs idare memurunun kararlarına karşı kanun yollar�
 tarihinden itibaren işlemeye başlar.
 İflas idaresine, Adalet Bakanlığınca hazırlanan ve iki yılda bir yenilenen ücret
 tarifesine göre ücret ödenir.
+
+73 Bu madde başlığı “İlk alacaklılar toplanması mümkün olmazlarsa:” iken, 17/7/2003 tarihli ve 4949 sayılı
+Kanunun 53 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 İflas idaresi iflas dairesinin murakabesi altındadır. Bu halde iflas dairesi aşağıdaki
 görevleri yerine getirir:
 1. Alacaklılar toplantısının kararlarına, alacaklıların menfaatine uygun görmediği
@@ -4437,9 +4454,6 @@ davalara adliye mahkemelerinde bakılır.
 MADDE 228
 
 (Değişik: 18/2/1965-538/96 md.)
-
-74 Bu fıkrada yer alan “ikiyüzbin” ibaresi, 17/7/2003 tarihli ve 4949 sayılı Kanunun 55 inci maddesiyle
-“ikimilyar” olarak değiştirilmiş
 Üçüncü şahıslar tarafından istihkak iddiasında bulunulan eşyanın kendilerine verilip
 verilmiyeceğini iflas idaresi kararlaştırır.
 İflas idaresi; istihkak iddiasını reddederse, üçüncü şahsa icra mahkemesinde istihkak
@@ -4459,6 +4473,9 @@ Kıymeti düşecek yahut muhafazası masraflı olacak şeyler geciktirilmeksizin
 Borsa veya piyasada fiyatı bulunan esham ve eşya derhal paraya çevrilebilir. Sair mallar
 ancak ikinci alacaklılar toplanmasından sonra satılır.
 Üzerinde rehin hakkı bulunan mallar 185 inci madde hükmüne tabidir.
+
+74 Bu fıkrada yer alan “ikiyüzbin” ibaresi, 17/7/2003 tarihli ve 4949 sayılı Kanunun 55 inci maddesiyle
+“ikimilyar” olarak değiştirilmiş
 
 IV. ALACAKLARIN TAHKİKİ VE SIRALARIN TAYİNİ
 İddia edilen alacakların tetkiki:
@@ -4540,9 +4557,6 @@ MADDE 236
 
 Vaktinde deftere kaydettirilmiyen alacaklar iflasın kapanmasına kadar
 kabul olunur.
-
-75 28/2/2018 tarihli ve 7101 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “297 nci maddenin son
-fıkrasına” ibaresi “302 nci maddenin altıncı fıkrasına” şeklinde değiştirilmiştir.
 Geç kalmadan ileri gelen masraflar alacaklıya aittir. Alacaklı bu masrafları peşin
 vermeğe cebrolunabilir.
 Müracaattan evvel kararlaştırılmış paylaşmıya alacaklının iştirak hakkı yoktur.
@@ -4561,6 +4575,9 @@ tamamen veya kısmen idarece kabul edilen alacaklılar ile sıra cetveline kayı
 alacaklılardan 235 inci maddeye göre katılmalarına karar verilmiş olanları da ikinci toplantıya
 ilanla davet eder.
 İlan, en az yirmi gün evvel yapılır ve ilanın birer nüshası alacaklılara gönderilir.
+
+75 28/2/2018 tarihli ve 7101 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “297 nci maddenin son
+fıkrasına” ibaresi “302 nci maddenin altıncı fıkrasına” şeklinde değiştirilmiştir.
 Konkordato teklifi hakkında müzakere cereyan edecekse davette bu cihet de
 bildirilmelidir.
 Toplanmıya iflas memuru veya yardımcısı reislik eder. 221 inci maddenin 2 ve 3 üncü
@@ -4590,9 +4607,6 @@ Alacaklıların ekseriyeti ister yahut iflas idaresi lüzumuna kani olursa yenid
 alacaklılar toplanması için davet yapılabilir. Yeniden alacaklılar toplantısının gündemindeki
 konular hakkında alacaklıların oyu, kendilerinin bilinen adreslerine taahhütlü bir mektupla
 yazılacak davet üzerine ve imzası noterlikçe tasdikli cevap yazısı ile elde edilebilir.
-
-76 Bu madde başlığı “Toplanma mümkün olmazsa:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 56 ncı
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Nisap hakkında 221 inci madde hükümleri uygulanır.
 
 Malların paraya çevrilmesi usulü:
@@ -4611,6 +4625,8 @@ olan katkısı gözetilir. Bu hâlde taşınmazın paraya çevrilmesi hükümler
 olarak satış gerçekleşmezse mal ve haklar ayrı ayrı satılır. Bu fıkranın uygulanmasına ilişkin
 usul ve esaslar Adalet Bakanlığı tarafından çıkarılan yönetmelikte düzenlenir.
 
+76 Bu madde başlığı “Toplanma mümkün olmazsa:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 56 ncı
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Artırmanın ilanı:
 
 MADDE 242
@@ -4644,10 +4660,6 @@ Alacaklıların masa tarafından neticelendirilmesine lüzum görmedikleri
 bir iddianın takibi hakkı istiyen alacaklıya devrolunur. Hasıl olan neticeden masraflar
 çıkarıldıktan sonra devralanın alacağı verilir ve artanı masaya yatırılır.
 
-77 2/7/2012 tarihli ve 6352 sayılı Kanunun 37 nci maddesiyle, bu fıkrada yer alan “116 ve 242 nci maddeler”
-ibaresi “242 nci madde” şeklinde değiştirilmiştir.
-78 24/11/2021 tarihli ve 7343 sayılı Kanunun 31 inci maddesiyle bu fıkraya “117” ibaresinden önce gelmek
-üzere “111/b,” ibaresi eklenmiş ve fıkrada yer alan “133,” ibaresi madde metninden çıkarılmıştır.
 Aile yurtları:
 
 MADDE 246
@@ -4675,6 +4687,11 @@ MADDE 249
 
 Pay cetveli ve son hesap iflas dairesine bırakılır ve orada on gün kalır.
 İflas idaresince bırakılma keyfiyeti ve payının miktarı her alacaklıya bildirilir.
+
+77 2/7/2012 tarihli ve 6352 sayılı Kanunun 37 nci maddesiyle, bu fıkrada yer alan “116 ve 242 nci maddeler”
+ibaresi “242 nci madde” şeklinde değiştirilmiştir.
+78 24/11/2021 tarihli ve 7343 sayılı Kanunun 31 inci maddesiyle bu fıkraya “117” ibaresinden önce gelmek
+üzere “111/b,” ibaresi eklenmiş ve fıkrada yer alan “133,” ibaresi madde metninden çıkarılmıştır.
 
 Dağıtma:
 
@@ -4758,9 +4775,6 @@ tasfiye muamelesi bitmediği takdirde alacaklılar toplanıp basit tasfiye usul�
 karar verebilir. Bu karar da ekseriyeti meblağiyenin husulü şarttır. Böyle bir karar
 verilmemişse tetkik icra mahkemesi icabına göre müddeti uzatır.
 
-79 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
-
 DOKUZUNCU BAP
 İhtiyati haciz
 
@@ -4776,6 +4790,13 @@ Vadesi gelmemiş borçtan dolayı yalnız aşağıdaki hallerde ihtiyati haciz i
 2 – Borçlu taahhütlerinden kurtulmak maksadiyle mallarını gizlemeğe, kaçırmağa
 veya kendisi kaçmağa hazırlanır yahut kaçar ya da bu maksatla alacaklının haklarını ihlâl
 eden hileli işlemlerde bulunursa;
+
+79 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
+şeklinde değiştirilmiştir.
+80 17/7/2003 tarihli ve 4949 sayılı Kanunun 59 uncu maddesiyle madde başlığı “İhtiyatî haciz:” iken “İhtiyatî
+haciz şartları”; birinci fıkrasında yer alan “borcun” ibaresi, “para borcunun”; ikinci fıkrasının (2) numaralı
+bendinde yer alan “kaçarsa” ibaresi “kaçar ya da bu maksatla alacaklının haklarını ihlâl eden hileli işlemlerde
+bulunursa;” olarak değiştirilmiş metne işlenmiştir.
 Bu suretle ihtiyati haciz konulursa borç yalnız borçlu hakkında muacceliyet kesbeder.
 (Ek fıkra: 29/6/1956-6763/42 md.; Mülga dördüncü fıkra: 14/1/2011-6103/41 md.)
 (Ek fıkra: 29/6/1956-6763/42 md.; Mülga beşinci fıkra: 14/1/2011-6103/41 md.)
@@ -4805,11 +4826,6 @@ Kanununun 96 ncı maddesinde yazılı teminatı vermeğe mecburdur.
 Ancak alacak bir ilama müstenid ise teminat aranmaz.
 Alacak ilam mahiyetinde bir vesikaya müstenid ise mahkeme teminata lüzum olup
 olmadığını takdir eder.
-
-80 17/7/2003 tarihli ve 4949 sayılı Kanunun 59 uncu maddesiyle madde başlığı “İhtiyatî haciz:” iken “İhtiyatî
-haciz şartları”; birinci fıkrasında yer alan “borcun” ibaresi, “para borcunun”; ikinci fıkrasının (2) numaralı
-bendinde yer alan “kaçarsa” ibaresi “kaçar ya da bu maksatla alacaklının haklarını ihlâl eden hileli işlemlerde
-bulunursa;” olarak değiştirilmiş metne işlenmiştir.
 Tazminat davası ihtiyati haczi koyan mahkemede dahi görülür.
 
 İhtiyati haciz kararının muhtevası:
@@ -4901,9 +4917,6 @@ Mahkeme, gösterilen sebeplere hasren tetkikat yaparak itirazı kabul veya redde
 itiraz üzerine iki tarafı davet edip gelenleri dinledikten sonra, itirazı varit görürse kararını
 değiştirebilir veya kaldırabilir. Şu kadar ki, iki taraf da gelmezse evrak üzerinde inceleme
 yapılarak karar verilir.
-
-81 Bu madde başlığı “İhtiyati haciz kararına itiraz “iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 63 üncü
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
 (Ek fıkra: 17/7/2003-4949/63 md.; Değişik:2/3/2005-5311/17 md.) İtiraz üzerine
 verilen karara karşı istinaf yoluna başvurulabilir. Bölge adliye mahkemesi bu başvuruyu
 öncelikle inceler ve verdiği karar kesindir. İstinaf yoluna başvuru, ihtiyatî haciz kararının
@@ -4924,6 +4937,9 @@ geçer.
 MADDE 267
 
 (Değişik: 18/2/1965-538/107 md.)
+
+81 Bu madde başlığı “İhtiyati haciz kararına itiraz “iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 63 üncü
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Alacaklı, iflasa tabi borçlusu aleyhine 264 üncü maddenin, birinci fıkrası gereğince
 iflas yolu ile takipte bulunmuş veya iflas yolu ile takipte bulunduktan sonra borçlunun
 mallarını ihtiyaten haczettirmiş ise, aşağıdaki hükümler tatbik olunur.
@@ -5194,9 +5210,6 @@ olunduğunu ispatla çürütülebilir.
 MADDE 281
 
 (Değişik: 18/2/1965-538/116 md.)
-
-82 Bu madde başlığı “Diğer butlan halleri:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 66 ncı
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Mahkeme, iptal davalarını basit yargılama usulü ile görüp hükme bağlar ve bu
 davalara mütaallik ihtilafları hal ve şartları gözönünde tutarak serbestçe takdir ve halleder.
 Hakim, iptale tabi tasarrufların konusu olan mallar hakkında alacaklının talebi üzerine
@@ -5212,6 +5225,9 @@ surette taksim eder.
 MADDE 282
 
 (Değişik: 18/2/1965-538/117 md.)
+
+82 Bu madde başlığı “Diğer butlan halleri:” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 66 ncı
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 İcra ve iflas Kanununun 11 inci babındaki iptal davaları borçlu ve borçlu ile hukuki
 muamelede bulunan veya borçlu tarafından kendilerine ödeme yapılan kimseler ile bunların
 mirasçıları aleyhine açılır. Bunlardan başka, kötü niyet sahibi üçüncü şahıslar aleyhine de
@@ -5256,6 +5272,13 @@ Konkordato talebi:
 MADDE 285
 
 (Değişik: 28/2/2018-7101/13 md.)
+
+83 Onikinci Babın başlığı, “Konkordato” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
+84 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
+üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
+Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
+85 Bu üst başlık 17/7/2003 tarihli ve 4949 sayılı Kanunun 67 nci maddesiyle eklenmiştir.
 Borçlarını, vadesi geldiği hâlde ödeyemeyen veya vadesinde ödeyememe tehlikesi
 altında bulunan herhangi bir borçlu, vade verilmek veya tenzilat yapılmak suretiyle borçlarını
 ödeyebilmek veya muhtemel bir iflâstan kurtulmak için konkordato talep edebilir.
@@ -5283,15 +5306,6 @@ b) Borçlunun malvarlığının durumunu gösterir belgeler; borçlu defter tutm
 kişilerden ise Türk Ticaret Kanununa göre hazırlanan son bilanço, gelir tablosu, nakit akım
 tablosu, hem işletmenin devamlılığı esasına göre hem de aktiflerin muhtemel satış fiyatları
 üzerinden hazırlanan ara bilançolar, ticari defterlerin açılış ve kapanış tasdikleri ile elektronik
-
-83 Onikinci Babın başlığı, “Konkordato” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
-84 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-85 Bu üst başlık 17/7/2003 tarihli ve 4949 sayılı Kanunun 67 nci maddesiyle eklenmiştir.
-86 Bu maddenin “Konkordato talebinin nazara alınması şartları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 ortamda oluşturulan defterlere ilişkin e-defter berat bilgileri, borçlunun malî durumunu
 açıklayıcı diğer bilgi ve belgeler, maddi ve maddi olmayan duran varlıklara ait olup defter
 değerlerini içeren listeler, tüm alacak ve borçları vadeleri ile birlikte gösteren liste ve belgeler.
@@ -5302,6 +5316,9 @@ karşılaştırmalı olarak gösteren tablo.
 e) (Değişik:6/12/2018-7155/13 md.) Kamu Gözetimi, Muhasebe ve Denetim
 Standartları Kurumunca yetkilendirilen bağımsız denetim kuruluşu tarafından Türkiye
 Denetim Standartlarına göre yapılacak denetim kapsamında hazırlanan ve konkordato ön
+
+86 Bu maddenin “Konkordato talebinin nazara alınması şartları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 projesinde yer alan teklifin gerçekleşeceği hususunda makul güvence veren denetim raporu ile
 dayanakları.
 (Mülga fıkra:6/12/2018-7155/13 md.)
@@ -5329,9 +5346,6 @@ içinde ve eksiksiz olarak sunması hâlinde geçici mühlet kararı verilir. Bu
 belge ve kayıtların hazırlanması için gerekli masraf alacaklı tarafından karşılanır. Belge ve
 kayıtların süresinde ve eksiksiz olarak sunulmaması hâlinde geçici mühlet kararı verilmez ve
 alacaklının yaptığı konkordato talebinin de reddine karar verilir.
-
-87 Bu maddenin “Mühlet:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 15 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
 Mahkeme, geçici mühlet kararıyla birlikte konkordatonun başarıya ulaşmasının
 mümkün olup olmadığının yakından incelenmesi amacıyla bir geçici konkordato komiseri
 görevlendirir. Alacaklı sayısı ve alacak miktarı dikkate alınarak gerektiğinde üç komiser de
@@ -5343,6 +5357,9 @@ Geçici mühlet üç aydır. Mahkeme bu üç aylık süre dolmadan borçlunun ve
 komiserin yapacağı talep üzerine geçici mühleti en fazla iki ay daha uzatabilir, uzatmayı
 borçlu talep etmişse geçici komiserin de görüşü alınır. Geçici mühletin toplam süresi beş ayı
 geçemez.
+
+87 Bu maddenin “Mühlet:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 15 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
 291 inci ve 292 nci maddeler, geçici mühlet hakkında kıyasen uygulanır.
 Geçici mühlet talebinin kabulü, geçici komiser görevlendirilmesi, geçici mühletin
 uzatılması ve tedbirlere ilişkin kararlara karşı kanun yoluna başvurulamaz.
@@ -5369,11 +5386,6 @@ Mahkeme, kesin mühlet hakkındaki kararını geçici mühlet içinde verir.
 Kesin mühlet hakkında bir karar verilebilmesi için, mahkeme borçluyu ve varsa
 konkordato talep eden alacaklıyı duruşmaya davet eder. Geçici komiser, duruşmadan önce
 yazılı raporunu sunar ve mahkemece gerekli görülürse, beyanı alınmak üzere duruşmada hazır
-
-88 Bu maddenin “Mühletin ilanı:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 16 ncı maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-89 Bu maddenin “Mühletin alacaklılar bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 bulunur. Mahkeme yapacağı değerlendirmede, itiraz eden alacaklıların dilekçelerinde ileri
 sürdükleri itiraz sebeplerini de dikkate alır.
 Konkordatonun başarıya ulaşmasının mümkün olduğunun anlaşılması hâlinde
@@ -5386,6 +5398,11 @@ olmak kaydıyla ayrıca bir alacaklılar kurulu oluşturulabilir. Bu durumda ala
 nitelik itibarıyla birbirinden farklı olan alacaklı sınıfları ve varsa rehinli alacaklılar, alacaklılar
 kurulunda hakkaniyete uygun şekilde temsil edilir. Alacaklılar kurulu oluşturulurken
 komiserin de görüşü alınır. Alacaklılar kurulu her ay en az bir kere toplanır ve hazır
+
+88 Bu maddenin “Mühletin ilanı:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 16 ncı maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
+89 Bu maddenin “Mühletin alacaklılar bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 bulunanların oy çokluğuyla karar alır. Komiser bu toplantıda hazır bulunarak alınan kararları
 toplantıya katılanların imzasını almak suretiyle tutanağa bağlar. Alacaklı sayısı, alacak
 miktarı ve alacakların çeşitliliği dikkate alınarak alacaklılar kurulunun zorunlu olarak
@@ -5412,9 +5429,6 @@ c) Bu kanunda verilen görevleri yapmak.
 d) Mahkemenin istediği konularda ve uygun göreceği sürelerde ara raporlar sunmak.
 e) Alacaklılar kurulunu konkordatonun seyri hakkında düzenli aralıklarla
 bilgilendirmek.
-
-90 Bu maddenin “Mühletin borçlu bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 f) Talepte bulunan diğer alacaklılara konkordatonun seyri ve borçlunun güncel malî
 durumu hakkında bilgi vermek.
 g) Mahkeme tarafından verilen diğer görevleri yerine getirmek.
@@ -5427,6 +5441,9 @@ tarafından oluşturulan komiser listesinden seçilir. Listeye kayıt için Adal
 tarafından izin verilen kurumlardan alınacak eğitimin tamamlanmış olması zorunludur.
 Ayrıca, Kamu Gözetimi, Muhasebe ve Denetim Standartları Kurumu, komiser olarak
 görevlendirilebilecek, yetkilendirilmiş bağımsız denetçileri liste hâlinde bilirkişilik bölge
+
+90 Bu maddenin “Mühletin borçlu bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 18 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 kurullarına bildirir. Listede görevlendirilecek komiser bulunmaması hâlinde liste dışından
 görevlendirme yapılır ve bu durum bölge kuruluna bildirilir. Bir kişi eş zamanlı olarak beşten
 fazla dosyada geçici komiser ve komiser olarak görev yapamaz. Komiserin sorumlulukları
@@ -5451,14 +5468,7 @@ Mahkeme, bu madde kapsamında kesin mühletin kaldırılmasına karar vermeden �
 borçlu ve varsa konkordato talep eden alacaklı ve alacaklılar kurulunu duruşmaya davet eder;
 diğer alacaklıları ise gerekli görürse davet eder.
 
-Kesin mühlet içinde konkordato talebinin reddi ile iflâsın açılması:92
-
-91 Bu maddenin “Defter tutulması ve rehinli malların kıymetinin takdiri:” olan başlığı, 28/2/2018 tarihli ve 7101
-sayılı Kanunun 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
-92 Bu maddenin “Alacaklıları davet ve alacakların bildirilmesi:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
-MADDE 292
+MADDE 292 — Kesin mühlet içinde konkordato talebinin reddi ile iflâsın açılması:92
 
 (Değişik: 28/2/2018-7101/20 md.)
 İflâsa tabi borçlu bakımından, kesin mühletin verilmesinden sonra aşağıdaki
@@ -5470,6 +5480,14 @@ c) Borçlu, 297 nci maddeye aykırı davranır veya komiserin talimatlarına uym
 da borçlunun alacaklıları zarara uğratma amacıyla hareket ettiği anlaşılıyorsa.93
 d) Borca batık olduğu anlaşılan bir sermaye şirketi veya kooperatif, konkordato
 talebinden feragat ederse.
+
+91 Bu maddenin “Defter tutulması ve rehinli malların kıymetinin takdiri:” olan başlığı, 28/2/2018 tarihli ve 7101
+sayılı Kanunun 19 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
+92 Bu maddenin “Alacaklıları davet ve alacakların bildirilmesi:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 20 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+93 6/12/2018 tarihli ve 7155 sayılı Kanunun 16 ncı maddesiyle bu bentte yer alan “uymazsa” ibaresinden sonra
+gelmek üzere “ya da borçlunun alacaklıları zarara uğratma amacıyla hareket ettiği anlaşılıyorsa” ibaresi
+eklenmiştir.
 İflâsa tabi olmayan borçlu bakımından ise birinci fıkranın (b) ve (c) bentlerindeki
 hâllerin kesin mühletin verilmesinden sonra gerçekleşmesi durumunda, komiserin yazılı
 raporu üzerine mahkeme kesin mühleti kaldırarak konkordato talebinin reddine resen karar
@@ -5493,19 +5511,7 @@ mahkemesine gönderilir.95
 Mahkemenin veya bölge adliye mahkemesinin konkordato talebinin reddiyle birlikte
 borçlunun iflâsına da karar verdiği hâllerde 164 üncü madde hükmü uygulanır.
 
-Kesin mühletin alacaklılar bakımından sonuçları:96
-
-93 6/12/2018 tarihli ve 7155 sayılı Kanunun 16 ncı maddesiyle bu bentte yer alan “uymazsa” ibaresinden sonra
-gelmek üzere “ya da borçlunun alacaklıları zarara uğratma amacıyla hareket ettiği anlaşılıyorsa” ibaresi
-eklenmiştir.
-94 Bu maddenin “Alacaklılar hakkında borçlunun beyana daveti:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-95 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibaresi “iki hafta”
-şeklinde değiştirilmiştir.
-96 Bu maddenin “Alacaklıların toplanması:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 22 nci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
-MADDE 294
+MADDE 294 — Kesin mühletin alacaklılar bakımından sonuçları:96
 
 (Değişik: 28/2/2018-7101/22 md.)
 Mühlet içinde borçlu aleyhine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının
@@ -5519,6 +5525,13 @@ Tasdik edilen konkordato projesi aksine hüküm içermediği takdirde kesin müh
 tarihinden itibaren rehinle temin edilmemiş her türlü alacağa faiz işlemesi durur.
 Takas bu Kanunun 200 ve 201 inci maddelerine tâbidir. Bu maddelerin
 uygulanmasında geçici mühletin ilânı tarihi esas alınır.
+
+94 Bu maddenin “Alacaklılar hakkında borçlunun beyana daveti:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 21 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+95 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibaresi “iki hafta”
+şeklinde değiştirilmiştir.
+96 Bu maddenin “Alacaklıların toplanması:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 22 nci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Hacizli mallar hakkında niteliğine uygun düştüğü ölçüde 186 ncı madde hükmü
 uygulanır.
 Konkordato mühletinin verilmesinden önce, müstakbel bir alacağın devri sözleşmesi
@@ -5545,11 +5558,6 @@ MADDE 296 — Kesin mühletin sözleşmeler bakımından sonuçları:98
 Sözleşmenin karşı tarafının konkordato projesinden etkilenip etkilenmediğine
 bakılmaksızın, borçlunun taraf olduğu ve işletmesinin faaliyetinin devamı için önem arz eden
 sözleşmelerin devamı esastır. Bu sözleşmelerde yer alıp da borçlunun konkordato talebinde
-
-97 Bu maddenin “Müşterek borçlulara karşı haklar:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 23
-üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-98 Bu maddenin “Konkordatonun mahkemede incelenmesi:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 24 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 bulunmasının sözleşmeye aykırılık teşkil edeceğine, haklı fesih sebebi sayılacağına yahut
 borcu muaccel hâle getireceğine ilişkin hükümler, borçlunun konkordato yoluna başvurması
 durumunda uygulanmaz. Sözleşmede bu yönde bir hüküm bulunmasa dahi sözleşme,
@@ -5559,6 +5567,13 @@ nedeniyle borçlanılan edimler karşılıklı olarak ifa edilir.99
 Borçlu, tarafı olduğu ve konkordatonun amacına ulaşmasını engelleyen aşırı külfetli
 sürekli borç ilişkilerini, komiserin uygun görüşü ve mahkemenin izniyle herhangi bir
 zamanda sona erecek şekilde feshedebilir. Bu çerçevede ödenmesi gereken tazminat,
+
+97 Bu maddenin “Müşterek borçlulara karşı haklar:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 23
+üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+98 Bu maddenin “Konkordatonun mahkemede incelenmesi:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 24 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+99 9/6/2021 tarihli ve 7327 sayılı Kanunun 4 üncü maddesiyle, bu fıkraya “arz eden” ibaresinden sonra gelmek
+üzere “sözleşmelerin devamı esastır. Bu” ibaresi eklenmiştir.
 konkordato projesine tabi olur. Hizmet sözleşmelerinin feshine ilişkin özel hükümler
 saklıdır.100
 
@@ -5585,18 +5600,6 @@ ve ilgili yerlere bildirilir.
 MADDE 298 — Defter tutulması ve rehinli malların kıymetinin takdiri:103
 
 (Değişik: 28/2/2018-7101/26 md.)
-
-99 9/6/2021 tarihli ve 7327 sayılı Kanunun 4 üncü maddesiyle, bu fıkraya “arz eden” ibaresinden sonra gelmek
-üzere “sözleşmelerin devamı esastır. Bu” ibaresi eklenmiştir.
-100 9/6/2021 tarihli ve 7327 sayılı Kanunun 4 üncü maddesiyle, bu fıkranın birinci cümlesine “engelleyen”
-ibaresinden sonra gelmek üzere “aşırı külfetli” ibaresi eklenmiş ve cümlede yer alan “onayıyla” ibaresi
-“izniyle” şeklinde değiştirilmiştir.
-101 Bu maddenin “Konkordatonun kabulü için lazımgelen ekseriyet:” olan başlığı, 28/2/2018 tarihli ve 7101
-sayılı Kanunun 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-102 Anayasa Mahkemesinin 4/4/2024 Tarihli ve E: 2024/10, K: 2024/97 Sayılı Kararı ile bu fıkrada yer alan
-“…ile alacaklılar kurulunun…” ve “…muvafakatini…” ibareleri iptal edilmiştir.
-103 Bu maddenin “Konkordatonun tasdiki” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 26 ncı
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Komiser, görevlendirilmesini müteakip borçlunun mevcudunun bir defterini yapar ve
 malların kıymetlerini takdir eder. Borçlunun başka yerlerde malları varsa bu muamele o yer
 icra dairesi marifetiyle yaptırılabilir.
@@ -5607,6 +5610,16 @@ olarak rehinli alacaklılara ve borçluya bildirilir.
 malların kıymetini yeniden takdir etmesini isteyebilirler. Eğer yeni kıymet takdiri bir alacaklı
 tarafından istenmiş ve takdir edilen kıymet, kayda değer bir şekilde değişmişse alacaklı
 borçludan masraflarının ödenmesini talep edebilir.
+
+100 9/6/2021 tarihli ve 7327 sayılı Kanunun 4 üncü maddesiyle, bu fıkranın birinci cümlesine “engelleyen”
+ibaresinden sonra gelmek üzere “aşırı külfetli” ibaresi eklenmiş ve cümlede yer alan “onayıyla” ibaresi
+“izniyle” şeklinde değiştirilmiştir.
+101 Bu maddenin “Konkordatonun kabulü için lazımgelen ekseriyet:” olan başlığı, 28/2/2018 tarihli ve 7101
+sayılı Kanunun 25 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+102 Anayasa Mahkemesinin 4/4/2024 Tarihli ve E: 2024/10, K: 2024/97 Sayılı Kararı ile bu fıkrada yer alan
+“…ile alacaklılar kurulunun…” ve “…muvafakatini…” ibareleri iptal edilmiştir.
+103 Bu maddenin “Konkordatonun tasdiki” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 26 ncı
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Rehinli taşınmaz malların bu madde kapsamındaki kıymet takdiri, 6/12/2012 tarihli ve
 6362 sayılı Sermaye Piyasası Kanunu uyarınca gayrimenkul değerleme uzmanlığı lisansı ile
 yetkilendirilen kişilere yaptırılabilir.
@@ -5644,9 +5657,6 @@ MADDE 301
 Konkordato projesinin hazırlanması, alacakların bildirilmesi ve tahkiki
 tamamlandıktan sonra komiser, 288 inci madde uyarınca yapacağı yeni bir ilânla alacaklıları,
 konkordato projesini müzakere etmek üzere toplanmaya davet eder. Toplantı günü ilândan en
-
-104 Bu maddenin “Kanun yollarına başvurma:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 27 nci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
 az on beş gün sonra olmak zorundadır. İlanda alacaklıların, toplantıdan önceki yedi gün içinde
 belgeleri inceleyebilecekleri de bildirilir. Ayrıca, ilânın birer sureti adresi belli olan
 alacaklılara posta ile gönderilir.
@@ -5660,6 +5670,9 @@ Komiser alacaklılar toplantısına başkanlık eder ve borçlunun durumu hakkı
 rapor verir.
 Borçlu gerekli açıklamaları yapmak üzere toplantıda hazır bulunmaya mecburdur.
 Konkordato projesi;
+
+104 Bu maddenin “Kanun yollarına başvurma:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 27 nci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 a) Kaydedilmiş olan alacaklıların ve alacakların yarısını veya
 b) Kaydedilmiş olan alacaklıların dörtte birini ve alacakların üçte ikisini,
 aşan bir çoğunluk tarafından imza edilmiş ise kabul edilmiş sayılır.
@@ -5827,9 +5840,6 @@ Alacakları itiraza uğramış olan alacaklılar, tasdik kararının ilânı tar
 ay içinde dava açabilirler.
 Tasdik kararını veren mahkeme, konkordato projesi uyarınca çekişmeli alacaklara
 isabet eden payın, kararın kesinleşmesine kadar borçlu tarafından, mahkemece belirlenen bir
-
-105 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
 bankaya yatırılmasına karar verebilir. Süresi içinde dava açmamış olan alacaklılar, bu paydan
 ödeme yapılmasını talep edemezler; bu durumda yatırılan pay borçluya iade edilir.
 
@@ -5842,6 +5852,9 @@ Konkordato, tasdik kararıyla bağlayıcı hâle gelir. Tasdik edilen konkordato
 konkordatonun, tasdik kararının kesinleşmesiyle bağlayıcı hâle geleceği de kararlaştırılabilir;
 bu takdirde mühletin etkileri, kanunda öngörülen istisnalar saklı kalmak kaydıyla
 konkordatonun bağlayıcı hâle geldiği tarihe kadar devam eder.
+
+105 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
+şeklinde değiştirilmiştir.
 Bağlayıcı hâle gelen konkordato, konkordato talebinden önce veya komiserin izni
 olmaksızın mühlet içinde doğan bütün alacaklar için mecburidir.
 206 ncı maddenin birinci sırasında yazılı imtiyazlı alacaklar, rehinli alacaklıların
@@ -5888,6 +5901,9 @@ Konkordatonun tamamen feshi:
 MADDE 308/f
 
 (Ek: 28/2/2018-7101/37 md.)
+
+106 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
+şeklinde değiştirilmiştir.
 Her alacaklı, kötü niyetle sakatlanmış konkordatonun feshini tasdik kararını vermiş
 olan mahkemeden isteyebilir.
 Konkordatonun tamamen feshi kararı kesinleştiğinde durum 288 inci madde uyarınca
@@ -5920,12 +5936,6 @@ Rehinli alacaklılarla müzakere şartları ve yapılandırmanın hükümleri:
 MADDE 308/h
 
 (Ek: 28/2/2018-7101/38 md.)
-
-106 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibareleri “iki hafta”
-şeklinde değiştirilmiştir.
-107 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 Adi konkordatoda borçlu, ön projede belirtmek suretiyle, alacaklı lehine rehin tesis
 edilmiş borçlarının yapılandırılmasını bu madde uyarınca talep eder.
 Komiser, kesin mühlet içinde uygun göreceği zamanda bütün rehinli alacaklıları
@@ -5936,6 +5946,10 @@ alacaklıların, alacak miktarı itibarıyla üçte ikiyi aşan çoğunluğu ile
 komiser, imzalanan anlaşmaları tutanağa bağlar ve rehinli alacaklılarla anlaşma yapıldığını
 302 nci madde uyarınca mahkemeye tevdi edeceği gerekçeli raporuna ayrı ve bağımsız bir
 başlık altında işler.
+
+107 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
+üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
+Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 Borçlunun tekliflerinin alacak miktarı itibarıyla üçte ikiyi aşan çoğunlukla kabul
 edilmesi hâlinde, borçlu ile anlaşamayan rehinli alacaklı, konkordato talep tarihinden itibaren,
 taraflar arasındaki sözleşmede kararlaştırılan temerrüt öncesi faiz oranı uygulanmak suretiyle,
@@ -5974,6 +5988,13 @@ MADDE 309
 alacaklılarından biri konkordato işlemlerinin başlatılmasını isterse, iflâs idaresi, görüşüyle
 beraber ikinci alacaklılar toplanmasında veya daha sonra müzakere edilmek üzere alacaklılara
 bu talebi bildirir.
+
+108 Bu maddenin başlığı “İflâstan sonra konkordato” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 83 üncü
+maddesiyle, “Şartları ve hükümleri” şeklinde değiştirilmiş, üst başlık olarak “II. İFLÂSTAN SONRA
+KONKORDATO” ibaresi eklenmiştir.
+109 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
+üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
+Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 302 ilâ 307 nci maddeler ile 308/a ilâ 308/g maddeleri burada da uygulanır. Komisere
 ait görevler iflâs idaresi tarafından yapılır.
 Konkordato talebinin alacaklılar tarafından kabul edildiği toplantının yapıldığı
@@ -6001,21 +6022,6 @@ komiseri de tasfiye memuru olabilir.112
 
 Zorunlu içeriği:
 
-108 Bu maddenin başlığı “İflâstan sonra konkordato” iken, 17/7/2003 tarihli ve 4949 sayılı Kanunun 83 üncü
-maddesiyle, “Şartları ve hükümleri” şeklinde değiştirilmiş, üst başlık olarak “II. İFLÂSTAN SONRA
-KONKORDATO” ibaresi eklenmiştir.
-109 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-110 Bu üst başlık altında 17/7/2003 tarihli ve 4949 sayılı Kanunun 83 üncü maddesiyle eklenen 309/a ila 309/l
-maddelerinin uygulanmasına ilişkin usul ve esaslar 104 üncü madde gereğince Adalet Bakanlınca çıkarılacak
-Yönetmelikte gösterilir.
-111 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-112 28/2/2018 tarihli ve 7101 sayılı Kanunun 40 ıncı maddesiyle bu fıkrada yer alan “icra” ibaresi “asliye
-ticaret” şeklinde değiştirilmiştir.
-
 MADDE 309/b
 
 (Ek: 17/7/2003-4949/84 md.)
@@ -6029,6 +6035,15 @@ bunların yetkileri.
 kişiye devredilecekse, bu devrin şekli ve teminatlandırılması.
 4- (Değişik: 28/2/2018-7101/41 md.) Alacaklılara yönelik ilânların ve ilgili yerlere
 bildirimlerin 288 inci madde uyarınca yapılacağı.
+
+110 Bu üst başlık altında 17/7/2003 tarihli ve 4949 sayılı Kanunun 83 üncü maddesiyle eklenen 309/a ila 309/l
+maddelerinin uygulanmasına ilişkin usul ve esaslar 104 üncü madde gereğince Adalet Bakanlınca çıkarılacak
+Yönetmelikte gösterilir.
+111 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
+üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
+Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
+112 28/2/2018 tarihli ve 7101 sayılı Kanunun 40 ıncı maddesiyle bu fıkrada yer alan “icra” ibaresi “asliye
+ticaret” şeklinde değiştirilmiştir.
 Konkordato kapsamı dışında kalan mallar varsa bunlar açıkça belirtilir.
 
 Tasdikin sonuçları:
@@ -6109,9 +6124,6 @@ etmesini, haklı bir sebep olmaksızın teslim etmezse rüçhan hakkından mahru
 ihtar eder.113
 
 Tahsili güç ve ihtilaflı hakların alacaklılara devri:
-
-113 28/2/2018 tarihli ve 7101 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “336/a” ibaresi “26/9/2004
-tarihli ve 5237 sayılı Türk Ceza Kanununun 289 uncu” şeklinde değiştirilmiştir.
 Madde 309/ğ- (Ek: 17/7/2003-4949/84 md.)
 Alacaklılar kurulu, konkordato tasfiye memurlarının teklifi üzerine ihtilaflı veya tahsili
 güç bir alacaktan, özellikle bir iptal davasından, borçlunun organlarına veya çalışanlarına
@@ -6125,6 +6137,9 @@ MADDE 309/h
 (Ek: 17/7/2003-4949/84 md.)
 Konkordato tasfiye memurları, geçici de olsa her dağıtımdan önce, bir pay cetveli
 düzenler ve payının miktarını her alacaklıya bildirir; konkordato tasfiye memurları pay
+
+113 28/2/2018 tarihli ve 7101 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “336/a” ibaresi “26/9/2004
+tarihli ve 5237 sayılı Türk Ceza Kanununun 289 uncu” şeklinde değiştirilmiştir.
 cetvelini on gün süreyle iflâs dairesinde alacaklıların incelemesine hazır tutar. Pay cetveline
 karşı şikâyet yoluna başvurulabilir.
 Konkordato tasfiye memurları, pay cetveli ile birlikte masrafları da içeren son hesabı
@@ -6204,13 +6219,6 @@ Muaccel para borçlarını ödeyemeyecek durumda olan veya mevcut ve alacakları
 borçlarını karşılamaya yetmeyen ya da bu hallerden birine düşme tehlikesiyle karşı karşıya
 kalması kuvvetle muhtemel olan bir sermaye şirketi veya kooperatif, önceden müzakere
 edilmiş ve projeden etkilenen alacaklılar tarafından gerekli çoğunluk sağlanarak kabul
-
-114 28/2/2018 tarihli ve 7101 sayılı Kanunun 44 üncü maddesiyle bu fıkrada yer alan “308 inci maddeler”
-ibaresi “308/g maddeleri,” şeklinde değiştirilmiştir.
-115 Bu üst başlık, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle eklenmiştir.
-116 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 edilmiş olan yeniden yapılandırma projesi ile birlikte, muamele merkezinin bulunduğu yer
 asliye ticaret mahkemesine, uzlaşma yoluyla yeniden yapılandırma için başvurabilir.
 309/m ilâ 309/ü maddelerinde geçen “projeden etkilenen alacaklılar” terimi, yeniden
@@ -6227,6 +6235,13 @@ Yeniden yapılandırma projesi:
 MADDE 309/n
 
 (Ek: 12/2/2004-5092/8 md.)
+
+114 28/2/2018 tarihli ve 7101 sayılı Kanunun 44 üncü maddesiyle bu fıkrada yer alan “308 inci maddeler”
+ibaresi “308/g maddeleri,” şeklinde değiştirilmiştir.
+115 Bu üst başlık, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle eklenmiştir.
+116 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
+üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
+Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
 Asliye ticaret mahkemesine sunulacak yeniden yapılandırma projesi, aşağıdaki
 hususları içerir:
 1- Projeden etkilenen alacaklıların tâbi olacağı koşullar ve benzer alacaklara sahip olan
@@ -6334,9 +6349,6 @@ Tarafların itirazı ile istinaf ve temyiz maktu harca tâbidir.117
 
 Kararın sonuçları:
 
-117 2/3/2024 tarihli ve 7499 sayılı Kanunun 2 nci maddesiyle bu fıkraya “itirazı” ibaresinden sonra gelmek üzere
-“ile istinaf” ibaresi eklenmiştir.
-
 MADDE 309/r
 
 (Ek: 12/2/2004-5092/8 md.)
@@ -6351,6 +6363,9 @@ sözleşmelerde projenin tadiline veya feshine yol açabilecek veyahut borçlunu
 yapılandırma yoluna başvurmasının temerrüt hali oluşturacağına ya da akde aykırılık teşkil
 edeceğine ilişkin hükümler bulunması hâlinde, bu hükümler borçlunun yeniden yapılandırma
 yoluna başvurması durumunda uygulanmaz.
+
+117 2/3/2024 tarihli ve 7499 sayılı Kanunun 2 nci maddesiyle bu fıkraya “itirazı” ibaresinden sonra gelmek üzere
+“ile istinaf” ibaresi eklenmiştir.
 Başvurunun tasdiki talebinin reddine ilişkin mahkeme kararının verilmesi hâlinde,
 mahkemece verilmiş tedbirler kalkar, durmuş olan dava ve takiplere devam edilir.
 
@@ -6381,9 +6396,6 @@ Uzlaşma yoluyla yeniden yapılandırma projesinin ihlâli ve muhtelif hükümle
 MADDE 309/t
 
 (Ek: 12/2/2004-5092/8 md.)
-
-118 28/2/2018 tarihli ve 7101 sayılı Kanunun 45 inci maddesiyle bu fıkrada yer alan “307 nci madde ile 308 inci
-maddenin” ibaresi “308/e maddesi ile 308/f maddesinin” şeklinde değiştirilmiştir.
 Borçlunun projeden doğan yükümlülüklerini tamamen veya kısmen zamanında yerine
 getirmemesi hâlinde durum proje denetçisi, borçlu veya projeden etkilenen alacaklılar
 tarafından projeyi tasdik etmiş olan mahkemeye bildirilir. Aynı hak, projenin tasdikinden
@@ -6397,6 +6409,9 @@ itirazlarını inceledikten sonra, borçlunun yükümlülüklerini kısmen veya 
 getirmediğini, projenin uygulanmayıp tadilinin de söz konusu olmadığını veya finansman
 alacaklısının alacağını tamamen ya da kısmen elde edemediğini tespit edince derhal borçlunun
 iflâsına hükmeder.
+
+118 28/2/2018 tarihli ve 7101 sayılı Kanunun 45 inci maddesiyle bu fıkrada yer alan “307 nci madde ile 308 inci
+maddenin” ibaresi “308/e maddesi ile 308/f maddesinin” şeklinde değiştirilmiştir.
 Sermaye şirketleri ve kooperatiflerin uzlaşma yoluyla yeniden yapılandırılmasına,
 bankalar ve sigorta şirketleri borçlu sıfatı ile başvuramazlar.
 Ara dönem denetçisi ve proje denetçisi hakkında 334/a madde hükümleri uygulanır.
@@ -6564,9 +6579,6 @@ MADDE 318
 
 Cumhurbaşkanınca bu suretle tayin edilen mıntakalarda 317 nci
 maddede gösterilen haller sebebiyle kusuru olmaksızın taahhütlerini ifa edemiyen borçlu
-
-119 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 mühletin hitamında borçlarını tamamen tediye edebileceğini ahval ümit ettiriyorsa icra
 mahkemesinden nihayet altı ayı geçmemek üzere fevkalade bir mühlet istiyebilir.120
 Borçlu dilekçesine mali vaziyetini gösteren vesikaları, alacaklıların listesini
@@ -6585,6 +6597,11 @@ MADDE 319
 İcra mahkemesi lüzum gördüğü tahkikleri de yaptıktan sonra mühlet
 talebi ilk bakışta esassız gibi görünmezse bir gün tayin ve o gün için ilan tarikiyle bütün
 alacaklıları davet ve icabında ehli hibreye de müracaat eyler.
+
+119 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyeti”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+120 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “İcra Vekilleri Heyetince”
+ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Alacaklılar tayin olunan günden evvel dosyayı tetkik edebilirler; alacaklıların mühlet
 talebine karşı tahriri itirazlarını dermeyan etmek yetkileri de vardır.
 İcra mahkemesi kısa bir müddette kararını verir; mühlet vermekle beraber borçluyu bir
@@ -6613,13 +6630,6 @@ MADDE 322
 
 Mühlet kararı katileşince icra dairesine tebliğ ve hemen ilan olunur.
 
-120 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu fıkrada yer alan “İcra Vekilleri Heyetince”
-ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-121 Bu madde başlığı “Temyize müracaat:” iken, 2/3/2005 tarihli ve 5311 sayılı Kanunun 20 nci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-122 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibaresi “iki hafta”
-şeklinde değiştirilmiştir.
-
 Neticeler, takipler ve müddetler:
 
 MADDE 323
@@ -6637,6 +6647,11 @@ faizleri için de geçerlidir.
 
 Borçlunun tasarruf hakları:
 A – Umumiyetle:
+
+121 Bu madde başlığı “Temyize müracaat:” iken, 2/3/2005 tarihli ve 5311 sayılı Kanunun 20 nci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
+122 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “on gün” ibaresi “iki hafta”
+şeklinde değiştirilmiştir.
 
 MADDE 324
 
@@ -6685,6 +6700,10 @@ Bölge adliye mahkemesi bu halde dosya üzerine kararını verir.
 
 Refi:
 
+123 2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle 327 inci maddenin beşinci fıkrasının ikinci
+cümlesinde geçen “temyize müracaat olunabilir.” İbaresi, “istinaf yoluna başvurulabilir.”; altıncı fıkrasında
+geçen “Temyiz” ibaresi, “Bölge adliye mahkemesi” şeklinde değiştirilmiştir.
+
 MADDE 328
 
 İcra mahkemesi aşağıdaki hallerde alacaklılardan birinin veya komiserin
@@ -6711,12 +6730,6 @@ projesini mühletin bitmesinden evvel vermeğe mecburdur.
 Fevkalade müddetin bitmesinden sonra başlıyan altı ay içinde konkordato mühleti
 verilemiyeceği gibi yeniden fevkalade mühlet de verilemez.
 
-123 2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle 327 inci maddenin beşinci fıkrasının ikinci
-cümlesinde geçen “temyize müracaat olunabilir.” İbaresi, “istinaf yoluna başvurulabilir.”; altıncı fıkrasında
-geçen “Temyiz” ibaresi, “Bölge adliye mahkemesi” şeklinde değiştirilmiştir.
-124 2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle bu fıkranın üçüncü cümlesinde geçen “temyiz de”
-ibaresi, “bölge adliye mahkemesi de” şeklinde değiştirilmiştir.
-
 İflâsın ertelenmesi ile ilişki:
 
 MADDE 329/a
@@ -6740,6 +6753,11 @@ Alacaklısını zarara sokmak kasdiyle mevcudunu eksilten borçluların cezası:
 MADDE 331
 
 (Değişik: 31/5/2005-5358/1 md.)
+
+124 2/3/2005 tarihli ve 5311 sayılı Kanunun 21 inci maddesiyle bu fıkranın üçüncü cümlesinde geçen “temyiz de”
+ibaresi, “bölge adliye mahkemesi de” şeklinde değiştirilmiştir.
+125 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyetinin”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Haciz yolu ile takip talebinden sonra veya bu talepten önceki iki yıl içinde borçlu;
 alacaklısını zarara sokmak maksadıyla, mallarını veya bunlardan bir kısmını mülkünden
 çıkararak, telef ederek veya kıymetten düşürerek hakiki surette yahut gizleyerek muvazaa
@@ -6765,9 +6783,6 @@ MADDE 332
 (Değişik: 31/5/2005-5358/2 md.)
 Haciz yolu ile takip talebinden sonra veya bu talepten önceki iki yıl içinde borçlu, adet
 üzere tecviz edilemiyecek bir hiffetle hareket ederek veya haddinden ziyade masraflar
-
-125 2/7/2018 tarihli ve 698 sayılı KHK’nin 8 inci maddesiyle, bu maddede yer alan “İcra Vekilleri Heyetinin”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 yaparak yahut cüretli talih oyunlarına veya basiretsizce spekülasyonlara girişerek yahut
 işlerinde ağır ihmallerde bulunarak aczine kendi fiili ile sebebiyet verir yahut vaziyetinin
 fenalığını bildiği halde o gibi hareketlerle bu fenalığı ağırlaştırırsa, aleyhine aciz belgesi
@@ -6814,10 +6829,6 @@ MADDE 334
 (Değişik: 31/5/2005-5358/5 md.)
 Konkordato mühleti elde etmek veya konkordato veya sermaye şirketleri ile
 kooperatiflerin uzlaşma yoluyla yeniden yapılandırma projesini tasdik ettirmek için hileli
-
-126 Bu madde başlığı “Konkordatoda yetkili kimseleri hataya düşüren veya konkordato koşullarına uymayan
-borçlunun cezası:” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
 tutum ve davranışlarıyla malî durumu hakkında alacaklıları, komiseri, ara dönem denetçisini
 veya yetkili memuru hataya düşürmek veya konkordato projesine ya da sermaye şirketleri ve
 kooperatiflerin uzlaşma yoluyla yeniden yapılandırılması projesine uymamak yoluyla kasten
@@ -6844,6 +6855,10 @@ Müflisin mallarını vermeyenler hakkındaki cezalar:
 MADDE 336
 
 (Değişik: 31/5/2005-5358/6 md.)
+
+126 Bu madde başlığı “Konkordatoda yetkili kimseleri hataya düşüren veya konkordato koşullarına uymayan
+borçlunun cezası:” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 9 uncu maddesiyle metne işlendiği şekilde
+değiştirilmiştir.
 Müflisin mallarını ellerinde bulunduran veya müflise borçlu olan üçüncü şahıslar,
 iflasın açıldığına dair ilana muttali oldukları tarihten itibaren bir ay içinde makbul bir mazeret
 olmaksızın o malları iflas idaresi emrine vermezler veya borçlarını bildirmezlerse, doksan
@@ -6871,10 +6886,6 @@ MADDE 337/a
 (Ek: 18/2/1965-538/133 md.; Değişik: 31/5/2005-5358/8 md.)
 44 üncü maddeye göre mal beyanında bulunmayan veya beyanında mevcudunu eksik
 gösteren veya aktifinde yer almış malı veya yerine kaim olan değerini haciz veya iflas
-
-127 Bu madde başlığı “Mal beyanı için gelmiyenlerin ve beyanda bulunmıyanların ve istenen malı teslim
-etmiyenlerin cezası:” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 7 nci maddesiyle metne işlendiği şekilde
-değiştirilmiştir.
 sırasında göstermeyen veya beyanından sonra bu malları üzerinde tasarruf eden borçlu,
 bundan zarar gören alacaklının şikâyeti üzerine, üç aydan bir yıla kadar hapis cezası ile
 cezalandırılır.
@@ -6895,6 +6906,10 @@ içinde müracaatı üzerine sabit olursa, asgari ücretin üstünde kalan gelir
 mahkemesinin dörtte birden az olmamak üzere tespit edeceği kısmını icra mahkemesi
 kararının kesinleşmesinden itibaren en geç bir ay içinde ve aciz vesikasındaki borcun
 ödenmesine kadar her ay icra dairesine yatırmaya mecburdur. Bu mükellefiyeti yerine
+
+127 Bu madde başlığı “Mal beyanı için gelmiyenlerin ve beyanda bulunmıyanların ve istenen malı teslim
+etmiyenlerin cezası:” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 7 nci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.
 getirmeyen borçlu hakkında bir yıla kadar tazyik hapsine karar verilir. Hapsin tatbikine
 başlandıktan sonra borçlu borcun tamamını veya o tarihe kadar icra veznesine yatırmak
 zorunda olduğu meblağı öderse tahliye edilir; ödemelerini tekrar keserse, hakkında tazyik
@@ -6973,9 +6988,6 @@ MADDE 345
 
 Bu kanunda yazılı suçlar, hükmi bir şahsın idare veya muamelelerini ifa
 sırasında işlenmiş ise ceza o hükmi şahsın müdürlerinden, mümessil ve vekillerinden, tasfiye
-
-128 344 üncü maddenin başlığı “Nafaka hükmüne uymuyanların cezası:” iken, 17/7/2003 tarihli ve 4949 sayılı
-Kanunun 97 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 memurlarından, idare meclisi reis ve azasından veya murakıp ve müfettişlerinden fiili yapmış
 olan hakkında hükmolunur
 (İkinci fıkra mülga: 29/6/1956-6763/42 md.)
@@ -6999,6 +7011,9 @@ Bu Kanuna göre yapılan ihalelerde kendisine veya başkasına vaat olunan veya
 sağlanan yarar karşılığında artırmadan çekilen veya artırmaya katılmayan kimseye bir yıla
 kadar hapis ve bin güne kadar adlî para cezası verilir.
 Aracılara da aynı ceza verilir.
+
+128 344 üncü maddenin başlığı “Nafaka hükmüne uymuyanların cezası:” iken, 17/7/2003 tarihli ve 4949 sayılı
+Kanunun 97 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 346 — Görev ve birleştirilme yasağı:129
 
@@ -7026,9 +7041,6 @@ yerdeki mahkemedir.
 
 Yargılama usulü:
 
-129 Bu madde başlığı “Davaların birleştirilmemesi:” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 18 inci
-maddesiyle metne işlindiği şekilde değiştirilmiştir.
-
 MADDE 349
 
 Şikayet dilekçe ile veya şifahi beyanla yapılır. Dilekçeyi veya dava
@@ -7052,6 +7064,9 @@ MADDE 350
 
 İcra mahkemesi iki tarafı ve delillerini dinler ve gerek tarafların gerek
 şahitlerin ifadelerini duruşma tutanağına geçirir.
+
+129 Bu madde başlığı “Davaların birleştirilmemesi:” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 18 inci
+maddesiyle metne işlindiği şekilde değiştirilmiştir.
 Cumhuriyet Savcısı hazır bulundurulmaz.
 
 Tahkikat:
@@ -7081,12 +7096,7 @@ MADDE 352/b
 
 (Ek: 6/6/1985-3222/44 md.; Mülga: 31/5/2005-5358/23 md.)
 
-İtiraz:130
-
-130 Bu madde başlığı “İstinaf yoluna başvurma” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 21 inci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-
-MADDE 353
+MADDE 353 — İtiraz:130
 
 (Değişik: 31/5/2005-5358/21 md.)
 (Değişik birinci fıkra: 31/3/2011-6217/5 md.) İcra mahkemesinin verdiği tazyik ve
@@ -7101,7 +7111,16 @@ verilen karar kesindir.131
 4.12.2004 tarihli ve 5271 sayılı Ceza Muhakemesi Kanununun kanun yollarına ilişkin
 hükümleri uygulanır.
 
-MADDE 354 — Davanın ve cezanın düşmesi ile ceza verilemeyecek hâller132
+Davanın ve cezanın düşmesi ile ceza verilemeyecek hâller132
+
+130 Bu madde başlığı “İstinaf yoluna başvurma” iken, 31/5/2005 tarihli ve 5358 sayılı Kanunun 21 inci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
+131 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “tefhim veya” ibaresi madde
+metninden çıkarılmış ve “yedi gün” ibaresi “iki hafta” şeklinde değiştirilmiştir.
+132 Bu madde başlığı “Davanın ve cezanın düşmesi :” iken, 31/3/2011 tarihli ve 6217 sayılı Kanunun 6 ncı
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
+
+MADDE 354
 
 Kanunun bu babında yazılı suçlardan takibi şikayete bağlı olanların
 müştekisi feragat eder veya borcun itfa edildiği sabit olursa dava ve bütün neticeleriyle
@@ -7127,11 +7146,6 @@ müstahdemlerin maaş ve ücretlerinden kesilmesi için icra dairelerinden yapı
 kanuni muhatapları haczin icra edildiğini ve borçlunun maaş ve ücreti miktarını nihayet bir
 hafta içinde bildirmeğe ve borç bitinceye kadar icra dairesinin tebligatı mucibince haczolunan
 miktarı tevkif edip hemen daireye göndermeğe mecburdurlar.
-
-131 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “tefhim veya” ibaresi madde
-metninden çıkarılmış ve “yedi gün” ibaresi “iki hafta” şeklinde değiştirilmiştir.
-132 Bu madde başlığı “Davanın ve cezanın düşmesi :” iken, 31/3/2011 tarihli ve 6217 sayılı Kanunun 6 ncı
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Memurun maaş, ücret veya memuriyetinde yahut başka bir şubeden maaş almağı
 mucip olacak surette vukubulacak tebeddülleri ve hizmetine nihayet verildiği takdirde bu
 keyfiyeti de malmemuru veya daire amiri yahut hususi müesseselerin kanuni muhatapları
@@ -7231,14 +7245,6 @@ satışın düşürülmesi, 263 üncü maddenin uygulanma biçimi, iflâs idares
 mahkemesinin iflâs idaresinin işlemleri hakkında şikâyet üzerine verdiği kararlara karşı, iflâs
 idare memurunun ücret ve masrafları hakkındaki hesap pusulası ve 36 ncı maddeye göre
 icranın geri bırakılmasına ilişkin kararları dışındaki kararlarına karşı, ait olduğu alacak, hak
-
-133 Anayasa Mahkemesinin 22/10/2020 tarihli ve E.:2019/59; K.:2020/61 sayılı Kararı ile bu maddenin
-“8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu kapsamında faaliyet gösteren okullar …taşınır
-ve taşınmaz malları,… içinde bulunulan eğitim ve öğretim yılı sonunda haczedilir.” bölümü “8/2/2007 tarihli ve
-5580 sayılı Özel Öğretim Kurumları Kanunu kapsamında faaliyet gösteren” yönünden iptal edilmiştir.
-134 2/3/2005 tarihli ve 5311 sayılı Kanunun 24 üncü maddesiyle, 362 inci maddeden sonra gelen bölüm başlığı
-“SON MADDELER”, 363 üncü maddenin başlığı “Temyizi kabil kararlar, kötü niyetle temyiz halinde yapılacak
-işlem:” iken, metne işlendiği şekilde değiştirilmiştir.
 veya malın değer veya miktarının yedi bin Türk lirasını geçmesi şartıyla istinaf yoluna
 başvurulabilir. İstinaf yoluna başvuru süresi (…)135 tebliğ tarihinden itibaren iki haftadır. 135136
 İcra mahkemesi kararları aleyhine işlemleri uzatmak gibi kötüniyetle istinaf yoluna
@@ -7253,6 +7259,20 @@ dosyaya konulur.
 MADDE 364 — Temyiz yoluna başvurma ve incelenmesi137
 
 (Değişik: 2/3/2005-5311/25 md.)
+
+133 Anayasa Mahkemesinin 22/10/2020 tarihli ve E.:2019/59; K.:2020/61 sayılı Kararı ile bu maddenin
+“8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanunu kapsamında faaliyet gösteren okullar …taşınır
+ve taşınmaz malları,… içinde bulunulan eğitim ve öğretim yılı sonunda haczedilir.” bölümü “8/2/2007 tarihli ve
+5580 sayılı Özel Öğretim Kurumları Kanunu kapsamında faaliyet gösteren” yönünden iptal edilmiştir.
+134 2/3/2005 tarihli ve 5311 sayılı Kanunun 24 üncü maddesiyle, 362 inci maddeden sonra gelen bölüm başlığı
+“SON MADDELER”, 363 üncü maddenin başlığı “Temyizi kabil kararlar, kötü niyetle temyiz halinde yapılacak
+işlem:” iken, metne işlendiği şekilde değiştirilmiştir.
+135 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “tefhim veya” ibaresi madde
+metninden çıkarılmış ve “on gündür.” ibaresi “iki haftadır.” şeklinde değiştirilmiştir.
+136 24/11/2016 tarihli ve 6763 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “bin lirayı” ibaresi “yedi
+bin Türk lirasını” şeklinde değiştirilmiştir.
+137 Bu madde başlığı “Temyiz:“ iken, 2/3/2005 tarihli ve 5311 sayılı Kanunun 25 inci maddesiyle metne işlendiği
+şekilde değiştirilmiştir.
 Bölge adliye mahkemesi hukuk dairelerince verilen ve miktar veya değeri elli sekiz
 bin sekiz yüz Türk lirasını geçen nihaî kararlara karşı temyiz yoluna başvurulabilir.138
 (Değişik cümle:2/3/2024-7499/3 md.) Birinci fıkrada belirtilen kararlara karşı, tebliğ
@@ -7274,18 +7294,6 @@ mahkemesine gönderilir. Şu kadar ki bu hâlde satış dahil hiçbir icra işle
 Bölge adliye mahkemesi, birinci fıkra kapsamına girdiği hâlde reddine karar
 verilmemiş başvuruyu geri çevirmeyip doğrudan kesin karara bağlar.
 
-135 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “tefhim veya” ibaresi madde
-metninden çıkarılmış ve “on gündür.” ibaresi “iki haftadır.” şeklinde değiştirilmiştir.
-136 24/11/2016 tarihli ve 6763 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “bin lirayı” ibaresi “yedi
-bin Türk lirasını” şeklinde değiştirilmiştir.
-137 Bu madde başlığı “Temyiz:“ iken, 2/3/2005 tarihli ve 5311 sayılı Kanunun 25 inci maddesiyle metne işlendiği
-şekilde değiştirilmiştir.
-138 24/11/2016 tarihli ve 6763 sayılı Kanunun 4 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan
-“onbin lirayı” ibaresi “kırk bin Türk lirasını” şeklinde değiştirilmiş daha sonra 20/2/2019 tarihli ve 7165 sayılı
-Kanunun 1 inci maddesiyle bu ibare“elli sekiz bin sekiz yüz” şeklinde değiştirilmiştir.
-139 2/3/2005 tarihli ve 5311 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı “Tetkik merciinin temyiz
-talebini reddetmesi:” iken, metne işlendiği şekilde değiştirilmiştir.
-
 MADDE 366 — Bölge adliye mahkemesi ve Yargıtay kararları140
 
 (Değişik: 2/3/2005-5311/27 md.)
@@ -7301,6 +7309,14 @@ yeniden esas hakkında vereceği kararları üzerine icra ve iflâs işlerinde 4
 kıyas yoluyla uygulanır.
 
 Borçlunun mevcudu hakkında malümat vermek mecburiyeti:
+
+138 24/11/2016 tarihli ve 6763 sayılı Kanunun 4 üncü maddesiyle, bu maddenin birinci fıkrasında yer alan
+“onbin lirayı” ibaresi “kırk bin Türk lirasını” şeklinde değiştirilmiş daha sonra 20/2/2019 tarihli ve 7165 sayılı
+Kanunun 1 inci maddesiyle bu ibare“elli sekiz bin sekiz yüz” şeklinde değiştirilmiştir.
+139 2/3/2005 tarihli ve 5311 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı “Tetkik merciinin temyiz
+talebini reddetmesi:” iken, metne işlendiği şekilde değiştirilmiştir.
+140 2/3/2005 tarihli ve 5311 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı “Yargıtay kararları:” iken
+metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 367
 
@@ -7327,14 +7343,6 @@ takvim yılı başından geçerli olmak üzere, önceki yılda uygulanan parasal
 Bakanlığınca her yıl tespit ve ilân edilen yeniden değerleme oranında artırılması suretiyle
 uygulanır. Bu şekilde belirlenen sınırların bin Türk lirasını aşmayan kısımları dikkate
 alınmaz.141142
-
-140 2/3/2005 tarihli ve 5311 sayılı Kanunun 26 ncı maddesiyle bu maddenin başlığı “Yargıtay kararları:” iken
-metne işlendiği şekilde değiştirilmiştir.
-141 20/2/2019 tarihli ve 7165 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan 326 ve 363 üncü”
-ibaresi “326, 363 ve 364 üncü” şeklinde, “onmilyon lirayı” ibaresi “on Türk lirasını” şeklinde
-değiştirilmiştir.
-142 7/11/2024 tarihli ve 7531 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “on” ibaresi “bin”
-şeklinde değiştirilmiştir.
 (Değişik ikinci fıkra:24/12/2025-7571/3 md.) 363 ve 364 üncü maddelerdeki parasal
 sınırların uygulanmasında şikâyet başvurusunun yapıldığı veya davanın açıldığı tarihteki
 miktar esas alınır.
@@ -7354,6 +7362,12 @@ haklarını kullanan şartlı satıcı veya kiralayan, herhangi bir yargı karar
 sahibi olduğunu gösteren ve Sivil Havacılık Genel Müdürlüğü tarafından düzenlenecek tescil
 belgesiyle Ankara İcra Dairesine başvurarak, tercih ettiği hakkın yerine getirilmesini talep
 edebilir.
+
+141 20/2/2019 tarihli ve 7165 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan 326 ve 363 üncü”
+ibaresi “326, 363 ve 364 üncü” şeklinde, “onmilyon lirayı” ibaresi “on Türk lirasını” şeklinde
+değiştirilmiştir.
+142 7/11/2024 tarihli ve 7531 sayılı Kanunun 2 nci maddesiyle bu fıkrada yer alan “on” ibaresi “bin”
+şeklinde değiştirilmiştir.
 Talep üzerine icra müdürü tarafından başkaca herhangi bir araştırma yapılmaksızın,
 hak sahibi lehine üzerinde güvence tesis edilen nesnenin zilyetliği veya kontrolünün devrine
 ilişkin karar verilir ve karar borçluya tebliğ edilir. Tebliğ tarihinden itibaren üç iş günü içinde
@@ -7481,6 +7495,9 @@ itiraza konu teşkil etmiş olan sıra cetvellerinde,
 maddeye bu Kanunla eklenen yedinci fıkra, Kanunun yürürlüğe girmesinden itibaren altı ay
 sonra, 143 üncü maddesinin altıncı fıkrasında değişiklik yapan hükmü, Kanunun yürürlüğe
 girmesinden itibaren,
+
+143 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bendde “sözleşmelerde” ibaresinden sonra
+gelmek üzere “de” ibaresi eklenmiştir.
 23- 148/a maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden sonra
 akdedilecek ipotek sözleşmelerinin tapu siciline tescilinde,
 24- 150/b ve 150/ı maddelerinde değişiklik yapan hükümleri, Kanunun yürürlüğe
@@ -7499,9 +7516,6 @@ ertelenmesi taleplerinde,
 devam eden iflâs tasfiyelerinde,
 31- 206 ncı maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra düzenlenecek sıra cetvellerinde,
-
-143 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bendde “sözleşmelerde” ibaresinden sonra
-gelmek üzere “de” ibaresi eklenmiştir.
 32- 222 nci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra yapılacak ilk alacaklılar toplanmalarında,
 33- 223 üncü maddesinde değişiklik yapan hükmü, bu Kanunun yürürlüğe
@@ -7520,6 +7534,9 @@ fıkrasına eklenen dördüncü cümlesi ise Kanunun yürürlüğe girmesinden i
 Kanunun yürürlüğe girmesinden sonra yapılacak ihtiyatî haciz taleplerinde,
 38- 280 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 önce açılmış ve derdest olan iptal davalarında da,144
+
+144 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bentte “davalarında” ibaresinden sonra
+gelmek üzere “da” ibaresi eklenmiştir.
 39- 285, 286, 287, 288, 289, 290, 291, 292, 296, 297, 298, 300, 301, 302, 303 ve 309
 uncu maddelerinde değişiklik yapan hükümleri ile bu Kanunla getirilen 298/a ve 309/a ilâ
 309/l maddeleri hükümleri, Kanunun yürürlüğe girmesinden sonra yapılacak konkordato
@@ -7542,9 +7559,6 @@ GEÇİCİ MADDE 7
 Bölge adliye mahkemelerinin, 26.9.2004 tarihli ve 5235 sayılı Adlî Yargı İlk Derece
 Mahkemeleri ile Bölge Adliye Mahkemelerinin Kuruluş, Görev ve Yetkileri Hakkında
 Kanunun geçici 2 nci maddesi uyarınca göreve başlama tarihinden önce verilen kararlar
-
-144 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bentte “davalarında” ibaresinden sonra
-gelmek üzere “da” ibaresi eklenmiştir.
 hakkında, kesinleşinceye kadar İcra ve İflâs Kanununun bu Kanunla yapılan değişiklikten
 önceki temyiz ve karar düzeltmeye ilişkin hükümleri uygulanır.
 
@@ -7570,6 +7584,9 @@ bildirilmesi gerekir.
 GEÇİCİ MADDE 10
 
 (Ek: 2/7/2012-6352/38 md.)
+
+145 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
+girmesi hüküm altına alınmıştır.
 Bu Kanunun ilgili hükümlerinin yürürlüğe girdiği tarihten önce başlatılan takip
 işlemleri hakkında, değişiklikten önceki hükümlerin uygulanmasına devam edilir.
 
@@ -7589,11 +7606,6 @@ Ancak, satış yapılamazsa Adalet Bakanlığı tarafından görevlendirilecek i
 müdürünün başkanlığında kaymakamlık, belediye, ilgili yer baro başkanlığı ve ticaret odası
 tarafından bildirilecek birer kişinin katılımıyla oluşturulacak değer tespit komisyonu
 tarafından tespit edilecek değer üzerinden, yedieminin alacağına mahsup için malın mülkiyeti
-
-145 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
-girmesi hüküm altına alınmıştır.
-146 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
-girmesi hüküm altına alınmıştır.
 yediemine devredilebilir; komisyon, ekonomik bir değerinin kalmadığına karar verirse mal bir
 tutanakla imha edilir.
 Satılan veya mülkiyeti devredilen malın bedelinden, muhafaza ve diğer giderler
@@ -7618,6 +7630,9 @@ GEÇİCİ MADDE 13
 md.)
 İdari yargının görev alanına giren konularda, bu maddenin yürürlüğe girdiği tarihten
 önce başlatılmış ilamsız icra takipleri hakkında, talep üzerine icra müdürünce 42 nci
+
+146 2/7/2012 tarihli ve 6352 sayılı Kanunun 106 ncı maddesiyle, bu maddenin 5/1/2013 tarihinde yürürlüğe
+girmesi hüküm altına alınmıştır.
 maddenin üçüncü fıkrası uyarınca dosya üzerinden düşme kararı verilir ve karar alacaklıya
 resen tebliğ edilir. Alacaklı, düşme kararının tebliğinden itibaren yedi gün içinde şikayet
 yoluna başvurabilir. Düşme kararının kesinleşmesinden itibaren otuz gün içinde idari yargı

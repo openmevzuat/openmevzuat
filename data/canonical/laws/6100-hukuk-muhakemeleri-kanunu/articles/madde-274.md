@@ -2,6 +2,9 @@
 
 (1) Bilirkişi raporunun hazırlanması için verilecek süre üç ayı geçemez.
 Bilirkişinin talebi üzerine, kendisini görevlendiren mahkeme gerekçesini göstererek, süreyi üç
+
+31 3/11/2016 tarihli ve 6754 sayılı Kanunun 52 nci maddesiyle bu fıkrada yer alan “bilirkişilere,”
+ibaresinden sonra gelmek üzere “bilirkişilik bölge kurulu veya bulunduğu yer” ibaresi eklenmiştir.
 ayı geçmemek üzere uzatabilir. (Ek cümle: 28/2/2018-7101/56 md.) Ancak basit yargılama
 usulüne tabi dava ve işlerde bu süreler iki ay olarak uygulanır.
 (2) Belirlenen süre içinde raporunu vermeyen bilirkişi görevden alınıp, yerine bir

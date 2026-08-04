@@ -5,7 +5,7 @@ görevlileri aracılığı ile her türlü araştırmayı yapabilir; yukarıdaki
 varmak için bütün kamu görevlilerinden her türlü bilgiyi isteyebilir. Cumhuriyet savcısı, adlî
 görevi gereğince nezdinde görev yaptığı mahkemenin yargı çevresi dışında bir işlem yapmak
 
-61 15/8/2017 tarihli ve 694 sayılı KHK’nin 145 inci maddesiyle, bu fıkra eklenmiş ve diğer fıkra buna
+60 15/8/2017 tarihli ve 694 sayılı KHK’nin 145 inci maddesiyle, bu fıkra eklenmiş ve diğer fıkra buna
 göre teselsül ettirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 140 ıncı
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
 ihtiyacı ortaya çıkınca, bu hususta o yer Cumhuriyet savcısından söz konusu işlemi yapmasını
@@ -26,7 +26,7 @@ veya ihmalleri görülen kolluk âmir ve memurları hakkında Cumhuriyet savcıl
 doğruya soruşturma yapılır. Vali ve kaymakamlar hakkında 2.12.1999 tarihli ve 4483 sayılı
 Memurlar ve Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri, en üst
 dereceli kolluk amirleri hakkında ise, hâkimlerin görevlerinden dolayı tâbi oldukları yargılama
-usulü uygulanır.62
+usulü uygulanır.61
 (6) (Değişik: 2/1/2017-KHK-680/9 md.; Aynen kabul: 1/2/2018-7072/8 md.) Vali
 ve kaymakamların kişisel suçları hakkında soruşturma ve kovuşturma yapma yetkisi, ilgilinin
 görev yaptığı yerin bağlı olduğu bölge adliye mahkemesinin bulunduğu yerdeki il Cumhuriyet
@@ -45,7 +45,7 @@ maddesi hükmü saklıdır.
 (9) (Ek: 15/8/2017-KHK-694/146 md.; Aynen kabul: 1/2/2018-7078/141 md.)
 Seçimden önce veya sonra bir suç işlediği ileri sürülen milletvekili hakkında soruşturma ve
 
-62 Bu fıkraya 25/5/2005 tarihli ve 5353 sayılı Kanunun 24 üncü maddesiyle; "4483 sayılı Memurlar ve
+61 Bu fıkraya 25/5/2005 tarihli ve 5353 sayılı Kanunun 24 üncü maddesiyle; "4483 sayılı Memurlar ve
 Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun Hükümleri" ibaresinden sonra gelmek
 üzere ", en üst dereceli kolluk amirleri hakkında ise, hâkimlerin görevlerinden dolayı tâbi oldukları
 yargılama usulü" ibaresi eklenmiştir.

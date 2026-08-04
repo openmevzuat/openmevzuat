@@ -25,6 +25,6 @@ Seçim dönemi bitmeden önce ayrılan Yönetim Kurulu üyesinin yeri en çok oy
 yedek üye ile doldurulur ve bundan sonra yapılacak ilk kongrede bir yedek üye seçilir.
 Yönetim Kurulu üyelerinden biri hakkında seçilmeye engel bir suçtan dolayı kamu
 davası açılmış ise, dava sonuna kadar bu üye Yönetim Kurulu çalışmalarına katılamaz, yeri
-yedek üye ile doldurulur.24
+yedek üye ile doldurulur.25
 
 Türkiye Noterler Birliği Yönetim Kurulunun görevleri:

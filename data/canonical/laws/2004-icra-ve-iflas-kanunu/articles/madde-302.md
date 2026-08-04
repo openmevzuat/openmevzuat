@@ -5,6 +5,9 @@ Komiser alacaklılar toplantısına başkanlık eder ve borçlunun durumu hakkı
 rapor verir.
 Borçlu gerekli açıklamaları yapmak üzere toplantıda hazır bulunmaya mecburdur.
 Konkordato projesi;
+
+104 Bu maddenin “Kanun yollarına başvurma:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 27 nci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 a) Kaydedilmiş olan alacaklıların ve alacakların yarısını veya
 b) Kaydedilmiş olan alacaklıların dörtte birini ve alacakların üçte ikisini,
 aşan bir çoğunluk tarafından imza edilmiş ise kabul edilmiş sayılır.

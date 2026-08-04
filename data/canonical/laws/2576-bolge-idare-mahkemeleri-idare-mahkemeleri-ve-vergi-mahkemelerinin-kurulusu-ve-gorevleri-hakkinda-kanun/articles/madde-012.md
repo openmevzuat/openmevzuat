@@ -1,4 +1,4 @@
-# MADDE 12 — Müdürlükler ve mahkeme memurları:9
+# MADDE 12 — Müdürlükler ve mahkeme memurları:10
 
 (Değişik: 18/6/2014-6545/12 md.)
 1. Her mahkemede bir yazı işleri müdürlüğü kurulur.

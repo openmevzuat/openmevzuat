@@ -13,14 +13,16 @@ Sosyal Sigortalar Kanunu,
 5) 24/5/1983 tarihli ve 2829 sayılı Sosyal Güvenlik Kurumlarına Tabi Olarak Geçen
 Hizmetlerin Birleştirilmesi Hakkında Kanun,
 6) 17/10/1983 tarihli ve 2925 sayılı Tarım İşçileri Sosyal Sigortalar Kanununun 1 ilâ 5
-
-186 Bu madde başlığı “Değiştirilen, eklenen ve uygulanmayacak hükümler” iken, 17/4/2008 tarihli ve
-5754 sayılı Kanunun 63 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
-inci, 13 ilâ 17 nci, 24 üncü, 33 üncü ve 35 inci maddeleri,187
+inci, 13 ilâ 17 nci, 24 üncü, 33 üncü ve 35 inci maddeleri,188
 7) 14/7/1965 tarihli ve 657 sayılı Devlet Memurları Kanununun 107 nci, 209 uncu ve
 ek 22 nci maddeleri,
 8) 8/6/1949 tarihli ve 5434 sayılı Türkiye Cumhuriyeti Emekli Sandığı Kanununun 12
 ilâ 19 uncu maddeleri, 23 üncü maddesi, 30 ilâ 39 uncu maddeleri, 41 ilâ 55 inci maddeleri,
+
+187 Bu madde başlığı “Değiştirilen, eklenen ve uygulanmayacak hükümler” iken, 17/4/2008 tarihli ve
+5754 sayılı Kanunun 63 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
+188 13/2/2011 tarihli ve 6111 sayılı Kanunun 46 ncı maddesiyle, bu bentte yer alan “ve 33 üncü” ibaresi
+“, 33 üncü ve 35 inci” şeklinde değiştirilmiştir.
 57 ilâ 59 uncu maddeleri, 61 ilâ 64 üncü maddeleri, 66 ilâ 71 inci maddeleri, 72 nci
 maddesinin birinci, ikinci ve üçüncü fıkraları, 73 ilâ 80 inci maddeleri, 82 ilâ 88 inci
 maddeleri, 90 ilâ 100 üncü maddeleri, 102 nci maddesi, 104 ilâ 124 üncü maddeleri, 127 ilâ
@@ -52,9 +54,6 @@ maddeleri,
 13) 18/1/1972 tarihli ve 1512 sayılı Noterlik Kanununun 201 ilâ 203 üncü maddeleri,
 14) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 3 üncü
 maddesinin (d) bendi ile geçici 3 üncü maddesi,
-
-187 13/2/2011 tarihli ve 6111 sayılı Kanunun 46 ncı maddesiyle, bu bentte yer alan “ve 33 üncü” ibaresi
-“, 33 üncü ve 35 inci” şeklinde değiştirilmiştir.
 15) 22/1/1990 tarihli ve 399 sayılı Kamu İktisadi Teşebbüsleri Personel Rejiminin
 Düzenlenmesi ve 233 Sayılı Kanun Hükmünde Kararnamenin Bazı Maddelerinin Yürürlükten
 Kaldırılmasına Dair Kanun Hükmünde Kararnamenin 32 nci maddesindeki “resmî ve özel
@@ -89,7 +88,6 @@ Kurumuna aktarılır. Bu primler, sigorta primlerinin hesabında esas alınan en
 yürürlükten kaldırılmıştır.
 18/6/1992 tarihli ve 3816 sayılı Kanun 1/1/2012 tarihinde, 506 sayılı Kanunun ek 36
 ncı ve geçici 20 nci maddeleri ise bu Kanunun geçici 20 nci maddesinde belirtilen devir
-işlemlerinin tamamlanmasından sonra yürürlükten kaldırılmıştır.188
+işlemlerinin tamamlanmasından sonra yürürlükten kaldırılmıştır.189
 
-188 16/6/2010 tarihli ve 5997 sayılı Kanunun 7 nci maddesiyle, bu fıkrada yer alan “bu Kanunun
-yürürlük tarihinden itibaren iki yıl sonra,” ibaresi “1/1/2012 tarihinde,” olarak değiştirilmiştir.
+Yönetmelikler
