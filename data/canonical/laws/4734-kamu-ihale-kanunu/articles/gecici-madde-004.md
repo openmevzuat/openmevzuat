@@ -10,19 +10,37 @@ tarafından belirlenir.
 faaliyet gösteren teşebbüs, işletme ve şirketler, özel kanunları yürürlüğe girinceye kadar bu
 Kanunun 3 üncü maddesinin (g) bendi hükmüne, bu bent kapsamında yer almayan mal ve hizmet
 alımları ile yapım işlerinde ise Kanunun diğer hükümlerine tâbi olurlar. (Ek cümle: 22/12/2005-
-5436/13 md.) Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit, (…)80 Türkiye
+5436/13 md.) Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit, (…)81 Türkiye
 Petrolleri Anonim Ortaklığının ve BOTAŞ’ın ve bu şirketlerin bağlı ortaklıkları ile yurt dışında
-
-80 20/11/2017 tarihli ve 696 sayılı KHK’nin 85 inci maddesiyle, bu fıkrada yer alan “Posta ve Telgraf
-Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi yürürlükten
-kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 80 inci maddesiyle aynen kabul
-edilerek kanunlaşmıştır.
-kurdukları şirketlerin (…)81 petrol ve doğalgaz arama, sondaj, üretim, taşıma, depolama ve
+kurdukları şirketlerin (…)82 petrol ve doğalgaz arama, sondaj, üretim, taşıma, depolama ve
 gazlaştırma faaliyetleri ile ilgili olarak yapacakları her türlü mal ve hizmet alımları ile yapım
 işlerinde ve Toprak Mahsulleri Ofisi Genel Müdürlüğünün faaliyet ve görev alanı kapsamında
 yer alan tarımsal ürünlerle ilgili olmak üzere, ilgili bakanın onayı ve Toprak Mahsulleri Ofisi
 Yönetim Kurulunun görevlendirmesi ile ithalat yoluyla yapacağı tarımsal ürün alımlarında ve
-buna ilişkin hizmet alımlarında (…)82 uygulanmaz.8183848586
+buna ilişkin hizmet alımlarında (…)83 uygulanmaz.8284858687
+
+81 20/11/2017 tarihli ve 696 sayılı KHK’nin 85 inci maddesiyle, bu fıkrada yer alan “Posta ve Telgraf
+Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi yürürlükten
+kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 80 inci maddesiyle aynen kabul
+edilerek kanunlaşmıştır.
+82 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “Türkiye karasuları
+ile uluslararası sular dahilinde” ibaresi madde metninden çıkarılmış ve “üretim ve taşıma” ibaresi
+“üretim, taşıma, depolama ve gazlaştırma” şeklinde değiştirilmiştir.
+83 Anayasa Mahkemesinin 18/5/2023 Tarihli ve E: 2020/11, K: 2023/98 Sayılı Kararı ile bu fıkranın ikinci
+cümlesinde yer alan “…; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği
+taşıt alımı, taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında…” ibaresi
+iptal edilmiştir.
+84 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Bu Kanunun 3 üncü
+maddesinin (g) bendinde yer alan parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
+Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi eklenmiştir.
+85 5/12/2019 tarihli ve 7194 sayılı Kanunun 45 inci maddesiyle, bu fıkraya “yapım işlerinde” ibaresinden
+sonra gelmek üzere “; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği taşıt alımı,
+taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında” ibaresi eklenmiştir.
+86 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkraya “Türkiye Petrolleri Anonim
+Ortaklığının” ibaresinden sonra gelmek üzere “ve Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu
+şirketlerin bağlı ortaklıkları ile yurt dışında kurdukları şirketlerin” ibaresi eklenmiştir.
+87 18/7/2024 tarihli ve 7521 sayılı Kanunun 8 inci maddesi ile bu fıkranın ikinci cümlesinde yer alan “ve
+Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu şirketlerin bağlı ortaklıkları ile” ibaresi “ve
 (Ek fıkra: 14/7/2004-5226/24 md.; Mülga altıncı fıkra: 2/7/2018-KHK-703/171 md.)
 (Ek fıkra: 3/3/2005-5312/26 md.; Mülga yedinci fıkra: 2/7/2018-KHK-703/171 md.)
 (Ek fıkra: 27/12/2007-5726/24 md.; Mülga sekizinci fıkra: 2/7/2018-KHK-703/171 md.)
@@ -36,30 +54,6 @@ alımlarda Kanunun 5 inci maddesinin birinci fıkrasında belirlenen temel ilkel
 ihaleler en yüksek katılımı sağlayacak şekilde gerçekleştirilir.
 (Ek fıkra:18/7/2024-7521/8 md.) Beşinci fıkra kapsamında BOTAŞ ve Toprak
 Mahsulleri Ofisi Genel Müdürlüğü tarafından yapılacak alımlarda Kanunun 5 inci maddesinin
-
-81 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “Türkiye karasuları
-ile uluslararası sular dahilinde” ibaresi madde metninden çıkarılmış ve “üretim ve taşıma” ibaresi
-“üretim, taşıma, depolama ve gazlaştırma” şeklinde değiştirilmiştir.
-82 Anayasa Mahkemesinin 18/5/2023 Tarihli ve E: 2020/11, K: 2023/98 Sayılı Kararı ile bu fıkranın ikinci
-cümlesinde yer alan “…; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği
-taşıt alımı, taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında…” ibaresi
-iptal edilmiştir.
-83 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Bu Kanunun 3 üncü
-maddesinin (g) bendinde yer alan parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
-Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi eklenmiştir.
-84 5/12/2019 tarihli ve 7194 sayılı Kanunun 45 inci maddesiyle, bu fıkraya “yapım işlerinde” ibaresinden
-sonra gelmek üzere “; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği taşıt alımı,
-taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında” ibaresi eklenmiştir.
-85 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkraya “Türkiye Petrolleri Anonim
-Ortaklığının” ibaresinden sonra gelmek üzere “ve Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu
-şirketlerin bağlı ortaklıkları ile yurt dışında kurdukları şirketlerin” ibaresi eklenmiştir.
-86 18/7/2024 tarihli ve 7521 sayılı Kanunun 8 inci maddesi ile bu fıkranın ikinci cümlesinde yer alan “ve
-Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu şirketlerin bağlı ortaklıkları ile” ibaresi “ve
-BOTAŞ’ın ve bu şirketlerin bağlı ortaklıkları ile” şeklinde, “yapılacak” ibaresi “yapacakları” şeklinde
-değiştirilmiş, cümleye “yapım işlerinde” ibaresinden sonra gelmek üzere “ve Toprak Mahsulleri Ofisi
-Genel Müdürlüğünün faaliyet ve görev alanı kapsamında yer alan tarımsal ürünlerle ilgili olmak üzere,
-ilgili bakanın onayı ve Toprak Mahsulleri Ofisi Yönetim Kurulunun görevlendirmesi ile ithalat yoluyla
-yapacağı tarımsal ürün alımlarında ve buna ilişkin hizmet alımlarında” ibaresi eklenmiştir.
 birinci fıkrasında belirlenen temel ilkeler doğrultusunda uygulanacak satın alma yöntemleri, ilan
 ve davet süreleri ile kuralları, doküman hazırlanması, tekliflerin sunulması, değerlendirilmesi ve
 alımların sonuçlandırılması dahil ihale süreci ve çerçeve anlaşmalara ilişkin iş ve işlemler ile

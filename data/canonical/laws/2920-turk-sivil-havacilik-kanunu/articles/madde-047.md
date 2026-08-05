@@ -1,4 +1,4 @@
-# MADDE 47 — Havaalanları ve çevresinde yapılaşma sınırlamaları1213
+# MADDE 47 — Havaalanları ve çevresinde yapılaşma sınırlamaları1314
 
 (Değişik fıkra: 4/7/2024-7519/14 md.) Havaalanlarının ve ilgili tesis ve
 teçhizatın dâhilinde ve çevresinde, Sivil Havacılık Genel Müdürlüğünce belirlenen esaslar ve
@@ -25,19 +25,19 @@ alınarak Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca belirlenir.
 kullanımda olan havaalanlarında ise Millî Savunma Bakanlığı, ilgili kuruluşların da görüşünü
 alarak bu havaalanları için yukarıda değinilen hususları kapsayan planları ve kuralları hazırlar
 ve yayımlar. Yeni yapılacak askerî havaalanları hakkında Ulaştırma, Denizcilik ve
-Haberleşme Bakanlığının görüşü alınır.
-(Değişik: 23/1/2008-5728/431 md.) Millî Savunma Bakanlığının veya Sivil Havacılık
-Genel Müdürlüğünün yukarıdaki fıkralar hükümlerine göre verdiği emir ve koyduğu yasaklara
-aykırı hareket eden kişilere, ilgili Mahallin en büyük mülki idare amiri tarafından Kabahatler
 
-12 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu maddenin birinci fıkrasında yer alan
+13 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu maddenin birinci fıkrasında yer alan
 “Ulaştırma Bakanlığınca” ibaresi “Sivil Havacılık Genel Müdürlüğünce”, ikinci ve üçüncü
 fıkralarında yer alan “Ulaştırma Bakanlığı” ibareleri “Sivil Havacılık Genel Müdürlüğü” ve altıncı
 fıkrasında yer alan “Ulaştırma Bakanlığının” ibaresi “Millî Savunma Bakanlığının veya Sivil
 Havacılık Genel Müdürlüğünün” şeklinde değiştirilmiştir.
-13 4/7/2024 tarihli ve 7519 sayılı Kanunun 14 üncü maddesi ile bu maddenin başlığı “İnşaat
+14 4/7/2024 tarihli ve 7519 sayılı Kanunun 14 üncü maddesi ile bu maddenin başlığı “İnşaat
 sınırlamaları” iken, metne işlendiği şekilde, altıncı fıkrasında yer alan “valilik” ibareleri “Mahallin
 en büyük mülki idare amiri” şeklinde değiştirilmiştir.
+Haberleşme Bakanlığının görüşü alınır.
+(Değişik: 23/1/2008-5728/431 md.) Millî Savunma Bakanlığının veya Sivil Havacılık
+Genel Müdürlüğünün yukarıdaki fıkralar hükümlerine göre verdiği emir ve koyduğu yasaklara
+aykırı hareket eden kişilere, ilgili Mahallin en büyük mülki idare amiri tarafından Kabahatler
 Kanununun 32 nci maddesi hükmüne göre idarî para cezası verilir. Mahallin en büyük mülki
 idare amiri ayrıca ilgili kişiye emir veya yasağın gereğinin yerine getirilmesini sağlamaya
 yönelik azami bir süre verir. Bu süre yazısında, emir ve yasağın gereğinin ilgilisince yerine

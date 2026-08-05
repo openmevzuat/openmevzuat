@@ -35,7 +35,7 @@ Bu madde kapsamındaki sigortalılar, 82 nci maddeye göre belirlenen prime esas
 kazancın alt ve üst sınırı arasında olmak kaydıyla sigortalı tarafından belirlenen günlük
 kazancın otuz katının %35,5’i oranında prim öderler. Bunun %21’i malûllük, yaşlılık ve ölüm
 sigortaları, %12,5’i genel sağlık sigortası, %2’si iş kazası ve meslek hastalıkları sigortası
-primidir.191
+primidir.192
 Bu madde kapsamındaki sigortalılar ve bakmakla yükümlü olduğu kişilerin, genel
 sağlık sigortası hükümlerinden yararlanabilmesi için 67 nci maddede sayılan diğer şartların
 yanı sıra sağlık hizmeti sunucusuna başvurduğu tarihte 6183 sayılı Kanunun 48 inci
@@ -44,10 +44,6 @@ günden fazla prim ve prime ilişkin her türlü borcunun bulunmaması şarttır
 Bu madde kapsamındaki sigortalıların primlerinin yılda bir veya birden fazla dönem
 halinde ödenmesini ve ödeme tarihlerini belirlemeye Kurum yetkilidir.
 Bu madde kapsamındaki sigortalılar ile ilgili olarak bu maddede aksine hüküm
-
-191 4/12/2025 tarihli ve 7566 sayılı Kanunun 22 nci maddesiyle 2026 yılı Ocak ayı başında (1/1/2026)
-yürürlüğe girmek üzere bu fıkrada yer alan “%34,5’i” ibaresi “%35,5’i”, “%20’si” ibaresi “%21’i”
-şeklinde değiştirilmiştir.
 bulunmaması kaydıyla bu Kanunun ilgili hükümleri uygulanır.
 Kamu idarelerinin tarım veya orman işlerinde hizmet akdiyle süreksiz olarak
 çalıştırılanlar hakkında bu madde hükümleri uygulanmaz.

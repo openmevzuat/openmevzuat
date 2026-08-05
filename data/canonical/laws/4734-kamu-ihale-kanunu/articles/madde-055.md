@@ -1,4 +1,4 @@
-# MADDE 55 — İdareye şikayet başvurusu58
+# MADDE 55 — İdareye şikayet başvurusu59
 
 (Değişik: 20/11/2008-5812/22 md.)
 Şikayet başvurusu, ihale sürecindeki işlem veya eylemlerin hukuka aykırılığı iddiasıyla bu
@@ -15,7 +15,7 @@ başvuruların idarelerce ihale veya son başvuru tarihinden önce sonuçlandır
 maddi veya teknik hataların veya eksikliklerin bulunması ve idarece ihale dokümanında düzeltme
 yapılmasına karar verilmesi halinde, gerekli düzeltme yapılarak 29 uncu maddede belirtilen usule
 
-58 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İdare tarafından
+59 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İdare tarafından
 inceleme” iken, metne işlendiği şekilde değiştirilmiştir.
 göre son başvuru veya ihale tarihi bir defaya mahsus olmak üzere ertelenir. Ancak belirlenen maddi
 veya teknik hataların veya eksikliklerin ilanda da bulunması halinde 26 ncı maddeye göre işlem

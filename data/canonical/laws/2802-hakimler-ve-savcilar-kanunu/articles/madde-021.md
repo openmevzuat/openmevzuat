@@ -11,7 +11,7 @@ devamları, üst merciler ve müfettişlerce haklarında düzenlenen hâl kâğ�
 kanun yolu incelemesinden geçen işleri, kanun yolu değerlendirme formları, örnek karar ve
 mütalâaları ve varsa meslekî eser ve yazıları ile katıldıkları meslek içi ve uzmanlık eğitimleri
 göz önünde tutularak Hâkimler ve Savcılar Yüksek Kurulunca ilân edilen derece yükselme
-ilkelerinde aranan koşulları taşımaları,313233
+ilkelerinde aranan koşulları taşımaları,323334
 Gerekir.
 
 Derece yükselmesinde listelerin yayımı:

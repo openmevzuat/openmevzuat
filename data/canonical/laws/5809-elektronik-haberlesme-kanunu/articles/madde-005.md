@@ -2,8 +2,8 @@
 
 (1) Bakanlığın elektronik haberleşme sektörüne ilişkin yetki ve görevleri
 şunlardır:
-a) Numaralandırma, internet alan adları, uydu pozisyonu, frekans tahsisi gibi kıt
-kaynaklara dayalı elektronik haberleşme hizmetlerine ilişkin strateji ve politikaları belirlemek.
+a) Numaralandırma, (…)5 uydu pozisyonu, frekans tahsisi gibi kıt kaynaklara dayalı
+elektronik haberleşme hizmetlerine ilişkin strateji ve politikaları belirlemek.
 b) Elektronik haberleşme sektörünün; serbest rekabet ortamında gelişimini teşvik
 etmeye ve bilgi toplumuna dönüşümün desteklenmesini sağlamaya yönelik hedef, ilke ve
 politikaları belirlemek ve bu amaçla teşvik edici tedbirleri almak.
@@ -13,12 +13,14 @@ ve birbirlerini tamamlayıcı şekilde yürütülmesini sağlamaya yönelik poli
 ç) Elektronik haberleşme cihazları sanayisinin gelişmesine ilişkin politikaların
 oluşumuna ve elektronik haberleşme cihazları bakımından yerli üretimi özendirici tedbirleri
 almaya yönelik politikaları belirlemeye katkıda bulunmak.
-d) Ülkemizin üyesi bulunduğu elektronik haberleşme sektörü ile ilgili uluslararası
-birlik ve kuruluşlar nezdinde 5/5/1969 tarihli ve 1173 sayılı Milletlerarası Münasebetlerin
-Yürütülmesi ve Koordinasyonu Hakkında Kanun hükümleri saklı kalmak üzere Devleti temsil
 
 4 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürlü” ibaresi
 “engelli” şeklinde değiştirilmiştir.
+5 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu bentte yer alan “internet alan
+adları,” ibaresi madde metninden çıkarılmıştır.
+d) Ülkemizin üyesi bulunduğu elektronik haberleşme sektörü ile ilgili uluslararası
+birlik ve kuruluşlar nezdinde 5/5/1969 tarihli ve 1173 sayılı Milletlerarası Münasebetlerin
+Yürütülmesi ve Koordinasyonu Hakkında Kanun hükümleri saklı kalmak üzere Devleti temsil
 etmek veya temsile yetkilendirmek, çalışmalara katılım ve kararların uygulanması konusunda
 koordinasyonu sağlamak.
 e) Elektronik haberleşme politikalarının tespiti ve uygulanması amacıyla gerekli

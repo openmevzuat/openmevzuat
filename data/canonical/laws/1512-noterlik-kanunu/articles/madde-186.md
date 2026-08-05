@@ -4,8 +4,6 @@ Noter odası genel kurulu odaya kayıtlı noterlerden ibarettir.
 (Değişik birinci cümle: 16/11/1989 - 3588/14 md.) Genel kurul her sene Nisan ayı
 içinde toplanır. Toplantı yeri ve zamanı ile gündemi, en az bir ay önce üyelere noter odası
 başkanı tarafından bildirilir.
-
-27 Bu hükmün uygulanmasında ek 1 inci maddeye bakınız.
 Genel kurul, Adalet Bakanlığının veya odaya kayıtlı noterlerden beşte birinin yazılı
 istemi üzerine olağanüstü toplantıya çağrılır. Şu kadar ki, toplantı isteminde bulunan
 noterlerin sayısı ikiden aşağı olamaz.

@@ -24,9 +24,6 @@ Mevcut bir işletmenin kapatılarak değişik bir ad ve unvan altında ya da bir
 olarak açılması veya yönetim ve kontrolü elinde bulunduracak şekilde doğrudan veya dolaylı
 ortaklık ilişkisi bulunan şirketler arasında istihdamın kaydırılması, şahıs işletmelerinde
 işletme sahipliğinin değiştirilmesi gibi İşsizlik Sigortası Fonu katkısından yararlanmak
-
-250 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkranın birinci cümlesinde yer
-alan “kazanç tutarı üzerinden” ibaresi “kazanç tutarının %45’i üzerinden” şeklinde değiştirilmiştir.
 amacıyla muvazaalı işlem tesis ettiği anlaşılan veya sigortalıların prime esas kazançlarını
 2021 yılı Ocak ila Aralık ayları/dönemi için Kuruma bildirmediği veya eksik bildirdiği tespit
 edilen işyerlerinden İşsizlik Sigortası Fonunca karşılanan tutar, gecikme cezası ve gecikme

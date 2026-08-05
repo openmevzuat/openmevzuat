@@ -1,4 +1,4 @@
-# MADDE 16 — İş kazası, meslek hastalığı, hastalık ve analık sigortasından sağlanan haklar30
+# MADDE 16
 
 (Değişik: 17/4/2008-5754/10 md.)
 İş kazası veya meslek hastalığı sigortasından sağlanan haklar şunlardır:
@@ -19,6 +19,14 @@ tarihinde geçerli olan ve Kurum Yönetim Kurulunca belirlenip Bakan tarafından
 tarife üzerinden emzirme ödeneği verilir.
 Sigortalı kadına veya sigortalı olmayan eşinin doğum yapması nedeniyle sigortalı
 erkeğe emzirme ödeneği verilebilmesi için, Kanunun 4 üncü maddesinin birinci fıkrasının;
+
+28 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlülük” ibaresi
+“engellilik” şeklinde değiştirilmiştir.
+29 22/4/2026 tarihli ve 7578 sayılı Kanunun 18 inci maddesiyle bu fıkrada yer alan “sekiz” ibaresi
+“onaltı” şeklinde değiştirilmiş ve “, çoğul gebelik halinde ise ilk on haftalık” ibaresi madde
+metninden çıkarılmıştır.
+30 Bu madde başlığı “İş kazası, meslek hastalığı, hastalık ve analık hallerinde sağlanan haklar” iken,
+17/4/2008 tarihli ve 5754 sayılı Kanunun 10 uncu maddesiyle metne işlendiği şekilde değiştirilmiştir.
 a) (a) bendi kapsamında olanlar için doğumdan önceki bir yıl içinde en az 120 gün
 kısa vadeli sigorta kolları primi bildirilmiş olması,
 b) (b) bendi kapsamında olanlar için doğumdan önceki bir yıl içinde en az 120 gün

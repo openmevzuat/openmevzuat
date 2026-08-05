@@ -8,6 +8,6 @@ Taşıyıcı, birinci fıkrada anılan sözleşme ve protokoller ile öngörülm
 sınırların yükseltilmesine ilişkin özel anlaşmalar yapmak veya bu nitelikteki anlaşmalara
 katılmak yetkisini haizdir.
 Para kıymetinin değişmesi halinde, birinci fıkrada öngörülen sorumluluk sınırlarının
-yeniden belirlenmesine Cumhurbaşkanı yetkilidir.18
+yeniden belirlenmesine Cumhurbaşkanı yetkilidir.19
 
 Geçersiz sayılan hükümler

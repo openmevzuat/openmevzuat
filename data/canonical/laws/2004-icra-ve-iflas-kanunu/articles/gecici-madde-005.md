@@ -55,6 +55,9 @@ itiraza konu teşkil etmiş olan sıra cetvellerinde,
 maddeye bu Kanunla eklenen yedinci fıkra, Kanunun yürürlüğe girmesinden itibaren altı ay
 sonra, 143 üncü maddesinin altıncı fıkrasında değişiklik yapan hükmü, Kanunun yürürlüğe
 girmesinden itibaren,
+
+143 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bendde “sözleşmelerde” ibaresinden sonra
+gelmek üzere “de” ibaresi eklenmiştir.
 23- 148/a maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden sonra
 akdedilecek ipotek sözleşmelerinin tapu siciline tescilinde,
 24- 150/b ve 150/ı maddelerinde değişiklik yapan hükümleri, Kanunun yürürlüğe
@@ -73,9 +76,6 @@ ertelenmesi taleplerinde,
 devam eden iflâs tasfiyelerinde,
 31- 206 ncı maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra düzenlenecek sıra cetvellerinde,
-
-143 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bendde “sözleşmelerde” ibaresinden sonra
-gelmek üzere “de” ibaresi eklenmiştir.
 32- 222 nci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 sonra yapılacak ilk alacaklılar toplanmalarında,
 33- 223 üncü maddesinde değişiklik yapan hükmü, bu Kanunun yürürlüğe
@@ -94,6 +94,9 @@ fıkrasına eklenen dördüncü cümlesi ise Kanunun yürürlüğe girmesinden i
 Kanunun yürürlüğe girmesinden sonra yapılacak ihtiyatî haciz taleplerinde,
 38- 280 inci maddesinde değişiklik yapan hükmü, Kanunun yürürlüğe girmesinden
 önce açılmış ve derdest olan iptal davalarında da,144
+
+144 12/2/2004 tarihli ve 5092 sayılı Kanunun 10 uncu maddesiyle bu bentte “davalarında” ibaresinden sonra
+gelmek üzere “da” ibaresi eklenmiştir.
 39- 285, 286, 287, 288, 289, 290, 291, 292, 296, 297, 298, 300, 301, 302, 303 ve 309
 uncu maddelerinde değişiklik yapan hükümleri ile bu Kanunla getirilen 298/a ve 309/a ilâ
 309/l maddeleri hükümleri, Kanunun yürürlüğe girmesinden sonra yapılacak konkordato

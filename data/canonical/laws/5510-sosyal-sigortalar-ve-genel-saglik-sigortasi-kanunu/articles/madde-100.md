@@ -9,9 +9,6 @@ doğuracak hâller ile özel hayat ve aile hayatının gizliliği ve savunma hak
 saklı kalmak kaydıyla özel kanunlardaki yasaklayıcı ve sınırlayıcı hükümler dikkate
 alınmaksızın gizli dahi olsa Kurum tarafından kişilerin sosyal güvenliğinin sağlanması, 6183
 sayılı Kanuna göre Kurum alacaklarının takip ve tahsili ile bu Kanun kapsamında verilen
-
-182 20/7/2025 tarihli ve 7555 sayılı Kanunun 26 ncı maddesiyle bu madde başlığı “Sosyal güvenlikle
-ilgili düzenlemeler ve bildirimler” iken metne işlendiği şekilde değiştirilmiştir.
 diğer görevler ile sınırlı olmak üzere istenecek her türlü bilgi ve belgeyi sürekli ve/veya belli
 aralıklarla vermeye, bilgilerin elektronik ortamda görüntülenmesini sağlamaya, görüntülenen
 bu bilgilerin güvenliğini sağlamaya, muhafaza etmek zorunda oldukları her türlü belge ile
@@ -32,7 +29,7 @@ ile ilgili işveren, sigortalı ve diğer kurum, kuruluş ve kişilerin talepler
 düzenleyeceği her türlü bilgi ve belgeyi bilgi işlem ortamında oluşturmaya, bu şekilde
 hazırlanacak olan bilgi ve belgelerin sadece internet ve benzeri iletişim ortamından ilgili
 kişilere verilmesini kararlaştırmaya yetkilidir. Elektronik ortamda hazırlanacak bilgi ve
-belgeler adli ve idari makamlar nezdinde resmi belge olarak geçerlidir.183
+belgeler adli ve idari makamlar nezdinde resmi belge olarak geçerlidir.184
 Belge veya bilgileri internet, elektronik ve benzeri ortamda göndermekle zorunlu
 tutulan gerçek ve tüzel kişilerin, Kurumun bilgi işlem sistemlerinin herhangi bir nedenle
 hizmet dışı kalması sonucu belge ve bilgiyi, bu Kanunda öngörülen sürenin son gününde
@@ -50,9 +47,5 @@ Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendine tabi sigortalılar
 sahiptir. Bu Kanunun 3 üncü maddesinin birinci fıkrasının (10) numaralı bendinde belirtilen
 şartlara uygun olarak veya Kurumca belirlenecek sürede bilgi girişlerini yapmayanlar
 hakkında bu Kanunun 102 nci maddesine göre idari para cezası uygulanır.
-
-183 15/7/2016 tarihli ve 6728 sayılı Kanunun 50 nci maddesiyle, bu fıkranın birinci cümlesinde yer
-alan “gerçek ve tüzel kişileri” ibaresi “gerçek veya tüzel kişiler ile yazılı sözleşme ile yetki verilmiş
-gerçek veya tüzel kişilere izin vermeye, bu kişileri aracı kılmaya veya” şeklinde değiştirilmiştir.
 Bu maddenin uygulanması ile ilgili usûl ve esaslar, Kurum tarafından çıkarılacak
 yönetmelikle düzenlenir.

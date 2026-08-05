@@ -6,10 +6,6 @@ sigortalılar için bu Kanuna göre yapılacak toptan ödemelerin, bu Kanunun y�
 tarihten önceki hizmet sürelerine ait bölümü, bu Kanunla bazı maddeleri yürürlükten
 kaldırılan ilgili kanun hükümlerine göre bu Kanunun yürürlük tarihi itibarıyla hesaplanarak,
 bu Kanunun yürürlüğe girdiği tarih ile toptan ödemenin yapılmasına ilişkin yazılı istek
-
-213 13/2/2011 tarihli ve 6111 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “altı ay içerisinde”
-ibaresi “30/6/2011 tarihine kadar” şeklinde ve “iki yıl içinde” ibaresi “31/12/2014 tarihine kadar”
-şeklinde değiştirilmiştir.
 tarihine kadar geçen yıllar için her yılın güncelleme katsayısı ile çarpılarak bulunan tutar, bu
 Kanunun yürürlüğe girdiği tarihten sonraki süreler için bu Kanuna göre hesaplanan toptan
 ödeme tutarına ilâve edilerek ödenir.

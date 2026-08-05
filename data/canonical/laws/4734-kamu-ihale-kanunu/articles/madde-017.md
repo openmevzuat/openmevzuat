@@ -6,7 +6,7 @@ başka yollarla ihaleye ilişkin işlemlere fesat karıştırmak veya buna teşe
 b) İsteklileri tereddüde düşürmek, katılımı engellemek, isteklilere anlaşma teklifinde
 bulunmak veya teşvik etmek, rekabeti veya ihale kararını etkileyecek davranışlarda bulunmak.
 
-27 30/7/2003 tarihli ve 4964 sayılı Kanunun 11 inci maddesiyle bu maddenin başlığında ve birinci
+28 30/7/2003 tarihli ve 4964 sayılı Kanunun 11 inci maddesiyle bu maddenin başlığında ve birinci
 fıkrasındaki “gününden” ibaresi, “saatinden” olarak değiştirilmiştir.
 c) Sahte belge veya sahte teminat düzenlemek, kullanmak veya bunlara teşebbüs etmek.
 d) Alternatif teklif verebilme halleri dışında, ihalelerde bir istekli tarafından kendisi veya

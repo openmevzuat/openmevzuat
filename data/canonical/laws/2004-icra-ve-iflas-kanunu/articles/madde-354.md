@@ -1,4 +1,4 @@
-# MADDE 354 — Davanın ve cezanın düşmesi ile ceza verilemeyecek hâller132
+# MADDE 354
 
 Kanunun bu babında yazılı suçlardan takibi şikayete bağlı olanların
 müştekisi feragat eder veya borcun itfa edildiği sabit olursa dava ve bütün neticeleriyle

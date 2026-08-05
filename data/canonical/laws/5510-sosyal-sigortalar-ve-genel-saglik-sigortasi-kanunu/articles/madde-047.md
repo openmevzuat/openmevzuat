@@ -12,6 +12,10 @@ denir.
 Vazife malûllükleri;
 a) Keyif verici içki ve her çeşit maddeler kullanmaktan,
 b) Mevzuat ve emir dışında hareket etmiş olmaktan,80
+
+79 Bu madde başlığı "Vazife malûllüğü, harp malûllüğü ile harp malûllerine verilecek malûllük zammı
+ve vazife malûllerine verilecek sürekli iş göremezlik geliri karşılığı " iken, 17/4/2008 tarihli ve 5754
+sayılı Kanunun 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 c) Yasak fiilleri yapmaktan,
 d) İntihara teşebbüsten,
 e) Her ne suretle olursa olsun kendisine veya başkalarına menfaat sağlama veya zarar
@@ -29,12 +33,6 @@ b) Hastalıklarının sebep ve mahiyetleri dolayısıyla haklarında vazife mal�
 hükümleri uygulanacaklar için, hastalıklarının tedavisinin imkânsız olduğuna dair düzenlenen
 kati raporun onay tarihinden,
 c) Esirlik ve gaiplik hallerinde ise, bu hallerin sona erdiği tarihten,
-
-79 Bu madde başlığı "Vazife malûllüğü, harp malûllüğü ile harp malûllerine verilecek malûllük zammı
-ve vazife malûllerine verilecek sürekli iş göremezlik geliri karşılığı " iken, 17/4/2008 tarihli ve 5754
-sayılı Kanunun 27 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-80 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer
-alan “Kanun, tüzük” ibaresi “Mevzuat” şeklinde değiştirilmiştir.
 başlar.
 Süresi içerisinde bildirimde bulunulan vazife malûllüğü aylıkları, sigortalının ölüm ya
 da malûliyeti sebebiyle göreviyle ilişiğinin kesildiği tarihi takip eden aybaşından itibaren
@@ -55,6 +53,9 @@ Vazife malûllüğü aylığı, vazife malûllerinden itibari hizmet süreleri e
 suretiyle bulunacak prim ödeme gün sayısı toplamı;
 a) 10800 güne kadar olanlara 10800 gün üzerinden,
 b) 10800 günden fazla olanlara, toplam prim ödeme gün sayıları üzerinden,
+
+80 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer
+alan “Kanun, tüzük” ibaresi “Mevzuat” şeklinde değiştirilmiştir.
 en son prime esas kazancı esas alınmak suretiyle 29 uncu maddeye göre hesaplanacak
 aylıklara, malûllük derecelerine göre aşağıda yazılı oranlarda ayrıca zam yapılmak suretiyle
 bağlanır:
@@ -91,6 +92,11 @@ Bunlardan uzman erbaş ve sözleşmeli erbaş ve erlere bulundukları kademenin 
 ilerisindeki kademenin, uzman jandarmalara bulundukları rütbenin bir üst rütbesinin aynı
 kademesinin; astsubaylarla yarbay rütbesine kadar (yarbay hariç) bir üst rütbenin aynı
 kademesinin, yarbaylara albay, albaylara kıdemli albay, kıdemli albay ile general ve
+
+81 17/4/2017 tarihli ve 690 sayılı KHK’nin 38 inci maddesiyle, bu bentte yer alan “Türk Silâhlı
+Kuvvetlerinin” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik
+Komutanlığı mensuplarının” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077
+sayılı Kanunun 34 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 amirallere bir üst rütbenin, bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi
 kapsamında bulunan sigortalılara ise bir üst derecesine veya kademesine karşılık gelen prime
 esas kazancı üzerinden aylık bağlanır.82
@@ -112,15 +118,6 @@ Harp malûlü sayılanlardan bir harekâtın başarıyla sonuçlanmasını şahs
 örnek tutulacak cesaret ve fedakârlık gösterdiği sıralarda bu malûllüğe uğradıkları usûlüne
 göre sıralı üstlerince saptanan Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil
 Güvenlik Komutanlığı mensupları ile Türk Silâhlı Kuvvetlerince görevlendirilen sivil
-
-81 17/4/2017 tarihli ve 690 sayılı KHK’nin 38 inci maddesiyle, bu bentte yer alan “Türk Silâhlı
-Kuvvetlerinin” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil Güvenlik
-Komutanlığı mensuplarının” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077
-sayılı Kanunun 34 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
-82 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, sekizinci fıkrada yer alan “uzman
-erbaş” ibaresinden sonra gelmek üzere “, sözleşmeli erbaş ve er” ibaresi eklenmiş ve dokuzuncu
-fıkrada yer alan “uzman erbaşlara” ibaresi “uzman erbaş ve sözleşmeli erbaş ve erlere” şeklinde
-değiştirilmiştir.
 görevlilere, Genelkurmay Başkanlığının uygun görmesi ve ilgisine göre İçişleri Bakanının
 veya Millî Savunma Bakanının onayı ile harp malûllüğü zamları %25 fazlasıyla bağlanır.83
 Bu madde gereğince vazife malûllüğü aylığı almakta iken veya vazife malûllüğü aylığı
@@ -132,6 +129,16 @@ Bakanlığı tarafından Kurumun göstereceği hesaplara yatırılır. Süresind
 için 89 uncu madde hükümleri uygulanır.
 Vazife malûllüğü aylığı bağlananlardan;
 a) (Değişik birinci cümle: 12/7/2013-6495/97 md.) 5 inci maddenin birinci fıkrasının
+
+82 10/3/2011 tarihli ve 6191 sayılı Kanunun 10 uncu maddesiyle, sekizinci fıkrada yer alan “uzman
+erbaş” ibaresinden sonra gelmek üzere “, sözleşmeli erbaş ve er” ibaresi eklenmiş ve dokuzuncu
+fıkrada yer alan “uzman erbaşlara” ibaresi “uzman erbaş ve sözleşmeli erbaş ve erlere” şeklinde
+değiştirilmiştir.
+83 17/4/2017 tarihli ve 690 sayılı KHK’nin 38 inci maddesiyle, bu fıkrada yer alan “Türk Silâhlı
+Kuvvetleri mensupları” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil
+Güvenlik Komutanlığı mensupları” şeklinde ve “Millî Savunma Bakanının” ibaresi “ilgisine göre
+İçişleri Bakanının veya Millî Savunma Bakanının” şeklinde değiştirilmiş, daha sonra bu hüküm
+1/2/2018 tarihli ve 7077 sayılı Kanunun 34 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 (c) bendi hükmü saklı kalmak kaydıyla vazife malûllüğü aylığı bağlanmış olanlardan
 Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi kapsamında çalışmaya başlayanların
 aylıkları, çalışmaya başladıkları tarihi takip eden ödeme dönemi başından itibaren kesilir ve
@@ -159,12 +166,6 @@ değiştirerek 4 üncü maddenin birinci fıkrasının (c) bendi kapsamında ça
 hakkında uzun vadeli sigorta kollarının uygulanmasına devam edilir. Bunların sınıf veya görev
 değiştirdikleri tarihten sonra geçen çalışmaları dolayısıyla yeniden aylık bağlanması için yazılı
 istekte bulunmaları ya da emekliye ayrılmaları veya herhangi bir nedenle görevlerinin sona ermesi
-
-83 17/4/2017 tarihli ve 690 sayılı KHK’nin 38 inci maddesiyle, bu fıkrada yer alan “Türk Silâhlı
-Kuvvetleri mensupları” ibaresi “Türk Silâhlı Kuvvetleri, Jandarma Genel Komutanlığı ve Sahil
-Güvenlik Komutanlığı mensupları” şeklinde ve “Millî Savunma Bakanının” ibaresi “ilgisine göre
-İçişleri Bakanının veya Millî Savunma Bakanının” şeklinde değiştirilmiş, daha sonra bu hüküm
-1/2/2018 tarihli ve 7077 sayılı Kanunun 34 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 halinde, sonraki çalışmaları karşılığında aylığa hak kazanmaları durumunda bu süre için 29 uncu
 maddeye göre aylık hesaplanır. Sonradan geçen çalışmalarından dolayı yaşlılık aylığına hak
 kazanamayanların kendilerine toptan ödeme yapılır, vefatları halinde ise hak sahiplerine ölüm

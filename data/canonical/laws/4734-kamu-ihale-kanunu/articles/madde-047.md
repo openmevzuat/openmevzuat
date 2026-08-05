@@ -1,4 +1,4 @@
-# MADDE 47 — Sonuç bildirimi39
+# MADDE 47 — Sonuç bildirimi40
 
 (Değişik: 20/11/2008-5812/17 md.)
 Bu Kanun kapsamında yer alan idarelerin yapım işleri ile mal ve hizmet alımlarının

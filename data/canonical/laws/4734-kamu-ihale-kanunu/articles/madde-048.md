@@ -2,7 +2,7 @@
 
 (Değişik: 20/11/2008-5812/18 md.)
 
-39 20/11/2008 tarihli ve 5812 sayılı Kanunun 17 nci maddesiyle bu madde başlığı “İhale sonucunun ilânı”
+40 20/11/2008 tarihli ve 5812 sayılı Kanunun 17 nci maddesiyle bu madde başlığı “İhale sonucunun ilânı”
 iken metne işlendiği şekilde değiştirilmiştir.
 Mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, her ölçekte imar planı, imar
 uygulama, ÇED raporu hazırlanması, plan, yazılım geliştirme, tasarım, teknik şartname

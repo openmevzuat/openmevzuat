@@ -1,6 +1,9 @@
 # GEÇİCİ MADDE 109
 
 (Ek:31/1/2025-7539/5 md.)
+
+253 4/12/2025 tarihli ve 7566 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “dört” ibaresi
+“iki” şeklinde değiştirilmiştir.
 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında haklarında uzun vadeli
 sigorta kolları hükümleri uygulanan sigortalıları çalıştıran işverenlerce;
 a) 2024 yılının aynı ayına ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde
@@ -30,9 +33,6 @@ edilen işyerlerinden İşsizlik Sigortası Fonunca karşılanan tutar, gecikme 
 zammıyla birlikte geri alınır ve bu işyerleri hakkında bu madde hükümleri
 uygulanmaz. Ancak, ilgili ayda 2025 yılı Ocak ila Aralık aylarına/dönemine ait aylık brüt
 asgari ücretin onda birini geçmeyecek tutarda eksik prime esas kazanç bildirimi yapıldığının
-
-251 4/12/2025 tarihli ve 7566 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “dört” ibaresi
-“iki” şeklinde değiştirilmiştir.
 tespiti durumunda Kurumca yapılacak ihtar üzerine on beş günlük süre içinde söz konusu
 eksikliği gideren işyerleri hakkında bu madde hükümleri uygulanmaya devam eder.
 İşyerinde çalıştırılan sigortalılarla ilgili 2025 yılı Ocak ila Aralık aylarına/dönemine ait

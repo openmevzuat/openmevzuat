@@ -7,10 +7,16 @@ a) 2016 yılının aynı ayına ilişkin Kuruma verilen aylık prim ve hizmet be
 prime esas günlük kazancı Bakanlar Kurulunca belirlenen tutar ve altında bildirilen
 sigortalıların toplam prim ödeme gün sayısını geçmemek üzere, 2017 yılında cari aya ilişkin
 verilen aylık prim ve hizmet belgelerinde veya muhtasar ve prim hizmet beyannamelerinde
-bildirilen sigortalılara ilişkin toplam prim ödeme gün sayısının,248
+bildirilen sigortalılara ilişkin toplam prim ödeme gün sayısının,250
 b) 2017 yılı içinde ilk defa bu Kanun kapsamına alınan işyerlerinden bildirilen
 sigortalılara ilişkin toplam prim ödeme gün sayısının,
 2017 yılı Ocak ila Aralık ayları/dönemleri için Bakanlar Kurulunca tespit edilen günlük
+
+249 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü maddesiyle, bu fıkrada yer alan “aylık prim ve
+hizmet belgelerinde” ibaresinden sonra gelmek üzere “veya Maliye Bakanlığına verilecek muhtasar
+ve prim hizmet beyannamelerinde” ibaresi eklenmiştir.
+250 Bu bendin 2017 yılında uygulanması ile ilgili olarak 22/2/2017 tarihli ve 29987 sayılı Resmi
+Gazete’de yayımlanan 6/2/2017 tarihli ve 2017/9865 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 tutar ile çarpımı sonucu bulunacak tutar, bu işverenlerin Kuruma ödeyecekleri sigorta
 primlerinden mahsup edilir ve bu tutar Hazinece karşılanır. (Ek cümle: 23/2/2017-6824/19 md.)
 Ancak (a) bendinin uygulanmasında Bakanlar Kurulunca belirlenecek prime esas günlük kazancı
@@ -28,9 +34,6 @@ hizmet belgelerini veya muhtasar ve prim hizmet beyannamelerini yasal süresi i�
 vermediği, sigorta primlerini yasal süresinde ödemediği, denetim ve kontrolle görevli
 memurlarca yapılan soruşturma ve incelemelerde çalıştırdığı kişileri sigortalı olarak
 bildirmediği veya bildirilen sigortalının fiilen çalışmadığı durumlarının tespit edilmesi, Kuruma
-
-248 Bu bendin 2017 yılında uygulanması ile ilgili olarak 22/2/2017 tarihli ve 29987 sayılı Resmi
-Gazete’de yayımlanan 6/2/2017 tarihli ve 2017/9865 sayılı Bakanlar Kurulu Kararı Eki Karara bakınız.
 prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı borcu bulunması
 hâllerinde bu maddenin birinci fıkrasının (b) bendine ilişkin hükümler uygulanmaz. Ancak
 Kuruma olan prim, idari para cezası ve bunlara ilişkin gecikme cezası ve gecikme zammı

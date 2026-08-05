@@ -29,6 +29,9 @@ cezalandırılır.
 veya yayınlanmasına aracılık eden ya da çocukların görmesini, dinlemesini veya okumasını
 sağlayan kişi, altı yıldan on yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
 cezalandırılır.
+
+93 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
+“çocukları, temsili çocuk görüntülerini veya çocuk gibi görünen kişileri” şeklinde değiştirilmiştir.
 (6) Bu suçlardan dolayı, tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.
 (7) Bu madde hükümleri, bilimsel eserlerle; üçüncü fıkra hariç olmak ve çocuklara

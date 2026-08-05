@@ -4,17 +4,6 @@
 birinci fıkrasının (a) bendi kapsamında sigortalı sayılan kişileri, 7 nci maddenin birinci fıkrasının
 (a) bendinde belirtilen sigortalılık başlangıç tarihinden önce, sigortalı işe giriş bildirgesi ile
 Kuruma bildirmekle yükümlüdür. Ancak işveren tarafından sigortalı işe giriş bildirgesi;
-
-17 13/2/2011 tarihli ve 6111 sayılı Kanunun 26 ncı maddesiyle, bu bentte yer alan “zorunlu” ibaresi
-madde metninden çıkarılmıştır.
-18 16/2/2016 tarihli ve 6676 sayılı Kanunun 22 nci maddesiyle, bu bentte yer alan “meslekî eğitime
-veya staja” ibaresi “meslekî eğitime, staja veya bursiyer olarak göreve” şeklinde değiştirilmiştir.
-19 2/12/2016 tarihli ve 6764 sayılı Kanunun 56 ncı maddesiyle, bu bentte yer alan alan “meslekî
-eğitime” ibaresi “meslekî ve teknik eğitime, meslekî ve teknik ortaöğretim sırasında tamamlayıcı
-eğitim ya da alan eğitimine” şeklinde değiştirilmiştir.
-20 17/4/2017 tarihli ve 690 sayılı KHK’nin 35 inci maddesiyle, bu bentte yer alan “(d) ve (e)” ibaresi
-“(d), (e) ve (f)” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanunun
-31 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 a) İnşaat, balıkçılık ve tarım işyerlerinde işe başlatılacak sigortalılar için, en geç
 çalışmaya başlatıldığı gün,
 b) Yabancı ülkelere sefer yapan ulaştırma araçlarına sefer esnasında alınarak çalıştırılanlar
@@ -46,18 +35,6 @@ sayılanların kendileri tarafından da sigortalılık bildirimleri yapılabilir
 fıkrasında belirtilenlerin ise çalışmaya başladıkları tarihten itibaren en geç bir ay içinde tescil
 eden kuruluş tarafından Kuruma bildirilmesi zorunludur. Kurum bu bildirimlerden itibaren bir
 ay içinde tescili yapılan kişilere, sigortalılık hak ve yükümlülüklerinin başladığını bildirir.21
-
-21 13/2/2011 tarihli ve 6111 sayılı Kanunun 27 nci maddesiyle; bu fıkrada yer alan “4 üncü maddenin
-birinci fıkrasının (b) bendinin (4) numaralı alt bendinde bulunanlar hariç olmak üzere diğer alt
-bentleri kapsamında sigortalı sayılan kişiler için 7 nci maddenin birinci fıkrasının (b) bendinde
-belirtilen sigortalılık başlangıcından;” ibaresi “4 üncü maddenin birinci fıkrasının (b) bendinin (4)
-numaralı alt bendinde bulunanlar hariç olmak üzere diğer alt bentleri kapsamında sigortalı sayılan
-kişilerden köy ve mahalle muhtarları için seçildiklerine ilişkin mazbatalarını ilgili seçim kurulundan
-aldıkları tarihten, sigortalılıkları vergi mükellefiyetlerinin başladığı tarihten başlayan sigortalılar için
-vergi mükellefiyeti işleminin tesis tarihinden itibaren iki ayı geçmemek üzere ilgili vergi dairesince
-vergi mükellefinin işe başlama işlemlerinin tekemmül ettirildiği tarihten ve diğerleri için 7 nci
-maddenin birinci fıkrasının (b) bendinde belirtilen sigortalılık başlangıcından;” şeklinde, “esnaf sicil
-memurluğu” ibaresi “Esnaf ve Sanatkâr Sicil Müdürlüğü” olarak değiştirilmiştir.
 (Mülga dördüncü fıkra: 17/4/2008-5754/6 md.)
 (Değişik beşinci fıkra: 17/4/2008-5754/6 md.) 4 üncü maddenin birinci fıkrasının (c)
 bendi kapsamında sigortalı sayılan kişileri çalıştıracak işverenler, bu kapsamda ilk defa veya

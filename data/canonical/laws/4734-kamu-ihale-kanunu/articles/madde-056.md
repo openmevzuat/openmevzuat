@@ -1,4 +1,4 @@
-# MADDE 56 — Kuruma itirazen şikayet başvurusu59
+# MADDE 56 — Kuruma itirazen şikayet başvurusu60
 
 (Değişik: 22/11/2008-5812/23 md.)
 İdareye şikayet başvurusunda bulunan veya idarece alınan kararı uygun bulmayan aday,
@@ -16,7 +16,7 @@ Kanunda belirtilen sürelere ve usule uyulmadan sözleşme imzalanmış olması 
 şikayet başvurusundan feragat edilmesi itirazen şikayet başvurusunun incelenmesine ve 54 üncü
 maddede sayılan kararlardan birinin alınmasına engel teşkil etmez.
 
-59 20/11/2008 tarihli ve 5812 sayılı Kanunun 23 üncü maddesiyle bu madde başlığı “Kamu İhale Kurulu
+60 20/11/2008 tarihli ve 5812 sayılı Kanunun 23 üncü maddesiyle bu madde başlığı “Kamu İhale Kurulu
 tarafından inceleme” iken, 5/1/2009 tarihinden geçerli olmak üzere metne işlendiği şekilde
 değiştirilmiştir.
 Kurul tarafından gerekli görülen hallerde tarafların ve ilgililerin dinlenmesine karar

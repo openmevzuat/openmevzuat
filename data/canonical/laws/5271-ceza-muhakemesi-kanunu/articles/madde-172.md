@@ -4,7 +4,7 @@
 açılması için yeterli şüphe oluşturacak delil elde edilememesi veya kovuşturma olanağının
 bulunmaması hâllerinde kovuşturmaya yer olmadığına karar verir. Bu karar, suçtan zarar
 
-66 17/10/2019 tarihli ve 7188 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan “, uzlaşmaya
+65 17/10/2019 tarihli ve 7188 sayılı Kanunun 19 uncu maddesiyle bu fıkrada yer alan “, uzlaşmaya
 ilişkin hükümler saklı kalmak üzere” ibaresi madde metninden çıkarılmış, (d) bendinde yer alan
 “uğradığı zararın,” ibaresi “uğradığı ve Cumhuriyet savcısı tarafından tespit edilen zararın,”
 şeklinde değiştirilmiştir.
@@ -19,6 +19,6 @@ soruşturma yapılmadan verildiğinin Avrupa İnsan Hakları Mahkemesinin kesinl
 kararıyla tespit edilmesi veya bu karar aleyhine Avrupa İnsan Hakları Mahkemesine yapılan
 başvuru hakkında dostane çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı
 verilmesi üzerine, kararın kesinleşmesinden itibaren üç ay içinde talep edilmesi hâlinde
-yeniden soruşturma açılır.67
+yeniden soruşturma açılır.66
 
-Cumhuriyet savcısının kararına itiraz6869
+Cumhuriyet savcısının kararına itiraz6768

@@ -8,6 +8,6 @@ gerekir. Belirli bir satışta önalım hakkını kullanmaktan vazgeçme, yazıl
 önce veya sonra yapılabilir.
 Yapılan satış, alıcı veya satıcı tarafından diğer paydaşlara noter aracılığıyla bildirilir.
 Önalım hakkı, satışın hak sahibine bildirildiği tarihin üzerinden üç ay ve her hâlde satışın
-üzerinden bir yıl geçmekle düşer.37
+üzerinden bir yıl geçmekle düşer.39
 
 c. Kullanılması

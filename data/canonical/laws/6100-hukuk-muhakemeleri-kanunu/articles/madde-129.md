@@ -11,8 +11,5 @@ d) Davalının savunmasının dayanağı olan bütün vakıaların sıra numaras
 e) Savunmanın dayanağı olarak ileri sürülen her bir vakıanın hangi delillerle ispat edileceği.
 f) Dayanılan hukuki sebepler.
 g) Açık bir şekilde talep sonucu.
-
-13 22/7/2020 tarihli ve 7251 sayılı Kanunun 12 nci maddesiyle, bu fıkraya “başvuran davalıya,” ibaresinden
-sonra gelmek üzere “cevap süresinin bitiminden itibaren işlemeye başlamak,” ibaresi eklenmiştir.
 ğ) Davalının veya varsa kanuni temsilcisinin yahut vekilinin imzası.
 (2) 121 inci madde hükmü cevap dilekçesi hakkında da uygulanır.

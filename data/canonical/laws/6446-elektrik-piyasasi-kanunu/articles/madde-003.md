@@ -117,7 +117,6 @@ ll) Toptan satış: Elektrik enerjisinin ve/veya kapasitesinin tekrar satışı 
 mm) Tüketici: Elektriği kendi kullanımı için alan kişiyi,
 nn) Türev piyasalar: İleri bir tarihte nakit uzlaşması yapılmak üzere elektrik enerjisinin
 ve/veya kapasitesinin, bugünden alım satımının yapıldığı piyasaları,2
-
 oo) Uluslararası enterkonneksiyon: Ulusal elektrik sisteminin diğer ülkelere ait
 elektrik sistemi ile senkron paralel, asenkron paralel, ünite yönlendirmesi veya izole bölge
 yöntemlerinden birinin kullanılmasıyla işletilmesini esas alan enterkonneksiyonu,

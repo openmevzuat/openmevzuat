@@ -1,4 +1,4 @@
-# MADDE 115 — Zorunlu hâllerde görevlendirme:78
+# MADDE 115 — Zorunlu hâllerde görevlendirme:80
 
 (Değişik: 22/12/2005 - 5435/37 md.)
 Herhangi bir nedenle görevine gelemeyen hâkimin yerine, bu hâkim görevine

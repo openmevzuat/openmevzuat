@@ -4,4 +4,4 @@
 
 DÖRDÜNCÜ BÖLÜM
 Ortak Hükümler
-Ağır ceza mahkemesinin görevine giren suçüstü hâlleri:63
+Ağır ceza mahkemesinin görevine giren suçüstü hâlleri:65

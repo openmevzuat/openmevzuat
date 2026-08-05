@@ -25,7 +25,7 @@ feshedebilme hakkına sahiptir. İşletmeciler, sözleşmede yapılacak değişi
 girmeden en az bir ay önce abonelerini bilgilendirmekle ve söz konusu değişikliklerin abone
 tarafından kabul edilmemesi halinde abonelerin herhangi bir tazminat ödemeden sözleşmeyi
 fesh edebilme haklarının bulunduğunu bildirmekle yükümlüdürler. Aboneler taleplerini
-bildirmek kaydıyla aboneliklerini her zaman sona erdirebilir.12
+bildirmek kaydıyla aboneliklerini her zaman sona erdirebilir.14
 (5) (Değişik: 23/10/2014-6563/14 md.) İşletmeciler tarafından, sundukları hizmetlere
 ilişkin olarak abone ve kullanıcılarla, önceden izinleri alınmaksızın otomatik arama
 makineleri, fakslar, elektronik posta, kısa mesaj gibi elektronik haberleşme vasıtalarının
@@ -36,10 +36,10 @@ propaganda içerikli haberleşme yapamazlar.
 iletişim bilgilerinin bir mal ya da hizmetin sağlanması sırasında, bu tür haberleşmenin
 yapılacağına dair bilgilendirilerek ve reddetme imkânı sağlanarak edinilmiş olması hâlinde,
 
-11 24/12/2025 tarihli ve 7571 sayılı Kanunun 30 uncu maddesiyle bu maddeye yedinci
+13 24/12/2025 tarihli ve 7571 sayılı Kanunun 30 uncu maddesiyle bu maddeye yedinci
 fıkrasından sonra gelmek üzere fıkralar eklenmiş, maddenin mevcut sekizinci fıkrası buna
 göre teselsül ettirilmiştir.
-12 18/6/2020 tarihli ve 7247 sayılı Kanunun 10 uncu maddesiyle, bu fıkranın üçüncü cümlesinde yer
+14 18/6/2020 tarihli ve 7247 sayılı Kanunun 10 uncu maddesiyle, bu fıkranın üçüncü cümlesinde yer
 alan “yazılı olarak” ibaresi “taleplerini” şeklinde değiştirilmiştir.
 abone ve kullanıcılarla önceden izin alınmaksızın aynı veya benzer mal ya da hizmetlerle
 ilgili pazarlama, tanıtım, değişiklik ve bakım hizmetleri için haberleşme yapılabilir.

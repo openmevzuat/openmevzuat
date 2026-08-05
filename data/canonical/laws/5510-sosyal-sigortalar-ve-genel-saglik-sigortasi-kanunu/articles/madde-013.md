@@ -9,12 +9,6 @@ yere gönderilmesi nedeniyle asıl işini yapmaksızın geçen zamanlarda,
 d) (Değişik: 17/4/2008-5754/8 md.) Bu Kanunun 4 üncü maddesinin birinci fıkrasının
 (a) bendi kapsamındaki emziren kadın sigortalının, iş mevzuatı gereğince çocuğuna süt
 vermek için ayrılan zamanlarda,
-
-23 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci maddesiyle; 12 nci maddesinin üçüncü fıkrasında yer
-alan “üçüncü” ibaresi “dördüncü”olarak değiştirilmiş; aynı Kanunun 66 ncı maddesiyle “işçi
-sendikaları” ibaresinden sonra gelmek üzere “ve konfederasyonları” ibaresi eklenmiştir.
-24 Bu bölüm başlığı “Kısa Vadeli Sigorta Hükümleri” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun
-65 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 e) Sigortalıların, işverence sağlanan bir taşıtla işin yapıldığı yere gidiş gelişi sırasında,
 meydana gelen ve sigortalıyı hemen veya sonradan bedenen ya da ruhen engelli hâle
 getiren olaydır.25
@@ -38,5 +32,10 @@ anlaşılırsa, Kurumca bu olay için yersiz olarak yapılmış bulunan ödemele
 yapıldığı tarihten itibaren gerçeğe aykırı bildirimde bulunanlardan, 96 ncı madde hükmüne
 göre tahsil edilir.
 İş kazası ve meslek hastalığı bildirgesinin şekli ve içeriği, verilme usûlü ile bu
+
+24 Bu bölüm başlığı “Kısa Vadeli Sigorta Hükümleri” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun
+65 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
+25 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özüre uğratan”
+ibaresi “engelli hâle getiren” şeklinde değiştirilmiştir.
 maddenin uygulanmasına ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak yönetmelikle
 düzenlenir.

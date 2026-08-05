@@ -137,7 +137,6 @@ ll) Toptan satış: Elektrik enerjisinin ve/veya kapasitesinin tekrar satışı 
 mm) Tüketici: Elektriği kendi kullanımı için alan kişiyi,
 nn) Türev piyasalar: İleri bir tarihte nakit uzlaşması yapılmak üzere elektrik enerjisinin
 ve/veya kapasitesinin, bugünden alım satımının yapıldığı piyasaları,2
-
 oo) Uluslararası enterkonneksiyon: Ulusal elektrik sisteminin diğer ülkelere ait
 elektrik sistemi ile senkron paralel, asenkron paralel, ünite yönlendirmesi veya izole bölge
 yöntemlerinden birinin kullanılmasıyla işletilmesini esas alan enterkonneksiyonu,
@@ -1786,7 +1785,7 @@ tarifelerine yansıtılmak suretiyle, şirketlere ilave kaynak sağlanarak, Fona
 
 GEÇİCİ MADDE 6 — Genel aydınlatma2930
 
-(1) 31/12/2025 tarihine kadar, genel aydınlatma kapsamında
+(1) 31/12/2030 tarihine kadar, genel aydınlatma kapsamında
 aydınlatılan yerlerde gerçekleşen aydınlatma giderleri Bakanlık bütçesine konulacak ödenekten
 ve ilgili belediyeler ile il özel idarelerinin genel bütçe vergi gelirleri payından karşılanır.
 
@@ -1813,10 +1812,10 @@ Mükerrer) sayılı Resmi Gazete’de yayımlanan 25/12/2017 tarihli ve 2017/111
 Kararı Eki Kararın 1 inci maddesiyle, ‘‘31/12/2017’’ ibaresi ‘‘31/12/2020’’ olarak değiştirilmiştir.
 Cumhurbaşkanı bu süreyi beş yıla kadar uzatmaya yetkilidir. Belediyelerin genel bütçe vergi
 gelirleri payından yapılacak kesinti, büyükşehir belediyeleri ve mücavir alanlarındaki
-belediyelerde aydınlatma giderlerinin yüzde onu, diğer belediyelerde yüzde beşi olarak
-uygulanır. Bu sınırlar dışında ise aydınlatma giderlerinin yüzde onu ilgili il özel idaresi
+belediyelerde aydınlatma giderlerinin yüzde otuzu, diğer belediyelerde yüzde on beşi olarak
+uygulanır. Bu sınırlar dışında ise aydınlatma giderlerinin yüzde otuzu ilgili il özel idaresi
 payından kesinti yapılmak suretiyle karşılanır. Cumhurbaşkanı bu fıkra kapsamındaki oranları
-iki katına kadar artırmaya yetkilidir.313233
+iki katına kadar artırmaya yetkilidir.31323334
 
 (2) Bakanlığın belirleyeceği temsilcinin başkanlığında dağıtım şirketi, ilgili belediye
 ve/veya il özel idaresi temsilcilerinden oluşan aydınlatma komisyonunun genel aydınlatma
@@ -1841,20 +1840,23 @@ yüzde yirmilik kısmı ise ilgili mahalli idarelere aktarılır.(Ek cümle:4/4/
 TEDAŞ’ın bu fıkra kapsamındaki denetim işlemleri için yapacağı her türlü masraf Bakanlık
 bütçesine konulan ödenekten karşılanır. Bu fıkranın uygulanmasına ilişkin tereddütleri
 gidermeye ve gerektiğinde usul ve esas belirlemeye Hazine ve Maliye Bakanlığının uygun
-görüşü üzerine Bakanlık yetkilidir.34
+görüşü üzerine Bakanlık yetkilidir.35
 
+31 28/11/2017 tarihli 7061 sayılı Kanunun 113 üncü maddesiyle bu maddenin birinci fıkrasının ikinci cümlesinde
+yer alan “iki yıla kadar” ibaresi “beş yıla kadar” şeklinde değiştirilmiştir.
+32 2/7/2018 tarihli ve 703 sayılı KHK’nin 9 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan
+“Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+33 25/11/2020 tarihli ve 7257 sayılı Kanunun 43 üncü maddesiyle bu fıkrada yer alan “31/12/2015” ibaresi
+“31/12/2025” şeklinde değiştirilmiştir.
+34 24/7/2026 tarihli ve 7590 sayılı Kanunun 23 üncü maddesiyle bu fıkranın birinci cümlesinde yer alan
+“31/12/2025” ibaresi “31/12/2030” şeklinde, üçüncü cümlesinde yer alan “yüzde onu” ibaresi “yüzde otuzu”
+şeklinde, “yüzde beşi” ibaresi “yüzde on beşi” şeklinde ve dördüncü cümlesinde yer alan “yüzde onu” ibaresi
+“yüzde otuzu” şeklinde değiştirilmiştir.
+35 4/4/2023 tarihli ve 7451 sayılı Kanunun 21 inci maddesiyle bu fıkranın son cümlesinde yer alan “Maliye
+Bakanlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.
 (5) Bakanlık birinci fıkra kapsamındaki ödemelere ilişkin gerekli düzenlemeleri bu
 Kanunun yürürlüğe girdiği tarihten itibaren üç ay içerisinde yapar. Bu süre zarfında, genel
 aydınlatma tüketim giderlerinin ödenmesine ilişkin iş ve işlemler, 4628 sayılı Kanunun bu
-
-31 28/11/2017 tarihli 7061 sayılı Kanunun 113 üncü maddesiyle bu maddenin birinci fıkrasının ikinci
-cümlesinde yer alan “iki yıla kadar” ibaresi “beş yıla kadar” şeklinde değiştirilmiştir.
-32 2/7/2018 tarihli ve 703 sayılı KHK’nin 9 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan
-“Bakanlar Kurulu” ibareleri “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-33 25/11/2020 tarihli ve 7257 sayılı Kanunun 43 üncü maddesiyle bu fıkrada yer alan “31/12/2015”
-ibaresi “31/12/2025” şeklinde değiştirilmiştir.
-34 4/4/2023 tarihli ve 7451 sayılı Kanunun 21 inci maddesiyle bu fıkranın son cümlesinde yer alan
-“Maliye Bakanlığının” ibaresi “Hazine ve Maliye Bakanlığının” şeklinde değiştirilmiştir.
 Kanunla mülga geçici 17 nci maddesine ve diğer ilgili mevzuat hükümlerine göre Hazine
 Müsteşarlığı tarafından yürütülür. 4628 sayılı Kanunun bu Kanunla mülga geçici 17 nci
 maddesi uyarınca Hazine Müsteşarlığı bütçesinden yapılan ödemelere ilişkin denetim, takip

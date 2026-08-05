@@ -12,16 +12,6 @@ faaliyetler kapsamında kullanılan taşıtların yenilenmesi amacıyla, aynı t
 kapsamındaki taşıtların (87.03 tarife pozisyon sırası kapsamındaki; yarış arabaları, arazi taşıtları,
 ATV olarak adlandırılan üç veya dört tekerlekli taşıtlar, motorlu karavanlar ile motor silindir
 hacmi 1600 cm3’ü geçen binek otomobilleri hariç) bu maddenin yürürlüğe girdiği tarihten
-
-“2710.19.41.00.11, 2710.19.41.00.13 ve 2710.19.45.00.12 G.T.İ.P. numaralı” ibaresi “2710.19.43.00.11 ve
-2710.20.11.00.11 G.T.İ.P. numaralı” şeklinde değiştirilmiştir.
-42 24/5/2013 tarihli ve 6487 sayılı Kanunun 29 uncu maddesi ile bu maddede yer alan “31/12/2013”
-ibaresi “31/12/2023” şeklinde değiştirilmiştir.
-43 20/8/2016 tarihli ve 6745 sayılı Kanunun 53 üncü maddesiyle, bu maddede yer alan “40” ibareleri
-“160” şeklinde değiştirilmiştir.
-44 27/12/2023 tarihli ve 7491 sayılı Kanunun 45 inci maddesi ile bu fıkrada yer alan “31/12/2023” ibaresi
-“31/12/2033” şeklinde, “bu tutarı” ibaresi “bu tutarı veya yeniden değerleme oranı uygulanmak suretiyle
-belirlenmiş olan tutarı” şeklinde değiştirilmiştir.
 30/6/2019 tarihine kadar (bu tarih dâhil) ilk iktisabı vergiden müstesnadır.
 Bu düzenlemeden, bu maddenin yürürlüğe girdiği tarih itibarıyla maliki olunan, trafik
 tescil kuruluşlarınca ticari yolcu veya yük taşımacılığında kullanılmak üzere kayıt ve tescil

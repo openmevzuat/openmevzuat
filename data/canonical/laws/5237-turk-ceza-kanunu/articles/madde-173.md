@@ -5,3 +5,8 @@ başkasının hayatı, sağlığı veya malvarlığı hakkında önemli ölçüd
 kişi, beş yıldan az olmamak üzere hapis cezası ile cezalandırılır.
 (2) Yukarıdaki fıkrada tanımlanan fiilin taksirle işlenmesi halinde, iki yıldan beş yıla
 kadar hapis cezasına hükmolunur.
+
+Tehlikeli maddelerin izinsiz olarak bulundurulması veya el değiştirmesi74
+
+74 24/11/2016 tarihli ve 6763 sayılı Kanunun 15 inci maddesiyle, bu maddenin birinci fıkrasında yer
+alan “üç yıldan” ibaresi “dört yıldan” şeklinde, “maddelerin imalinde, işlenmesinde veya

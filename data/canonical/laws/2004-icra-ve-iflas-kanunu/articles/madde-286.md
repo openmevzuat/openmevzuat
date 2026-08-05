@@ -12,15 +12,6 @@ b) Borçlunun malvarlığının durumunu gösterir belgeler; borçlu defter tutm
 kişilerden ise Türk Ticaret Kanununa göre hazırlanan son bilanço, gelir tablosu, nakit akım
 tablosu, hem işletmenin devamlılığı esasına göre hem de aktiflerin muhtemel satış fiyatları
 üzerinden hazırlanan ara bilançolar, ticari defterlerin açılış ve kapanış tasdikleri ile elektronik
-
-83 Onikinci Babın başlığı, “Konkordato” iken, 12/2/2004 tarihli ve 5092 sayılı Kanunun 8 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
-84 28/2/2018 tarihli ve 7101 sayılı Kanunun 38 inci maddesiyle Onikinci Bap Birinci Bölümden sonra gelmek
-üzere “II. REHİNLİ ALACAKLILARLA MÜZAKERE VE BORÇLARIN YAPILANDIRILMASI” başlığıyla İkinci
-Bölüm eklenmiş, diğer bölümler buna göre teselsül ettirilmiştir.
-85 Bu üst başlık 17/7/2003 tarihli ve 4949 sayılı Kanunun 67 nci maddesiyle eklenmiştir.
-86 Bu maddenin “Konkordato talebinin nazara alınması şartları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 ortamda oluşturulan defterlere ilişkin e-defter berat bilgileri, borçlunun malî durumunu
 açıklayıcı diğer bilgi ve belgeler, maddi ve maddi olmayan duran varlıklara ait olup defter
 değerlerini içeren listeler, tüm alacak ve borçları vadeleri ile birlikte gösteren liste ve belgeler.
@@ -31,6 +22,9 @@ karşılaştırmalı olarak gösteren tablo.
 e) (Değişik:6/12/2018-7155/13 md.) Kamu Gözetimi, Muhasebe ve Denetim
 Standartları Kurumunca yetkilendirilen bağımsız denetim kuruluşu tarafından Türkiye
 Denetim Standartlarına göre yapılacak denetim kapsamında hazırlanan ve konkordato ön
+
+86 Bu maddenin “Konkordato talebinin nazara alınması şartları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 14 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 projesinde yer alan teklifin gerçekleşeceği hususunda makul güvence veren denetim raporu ile
 dayanakları.
 (Mülga fıkra:6/12/2018-7155/13 md.)

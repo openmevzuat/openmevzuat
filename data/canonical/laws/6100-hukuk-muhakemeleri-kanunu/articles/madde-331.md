@@ -10,8 +10,3 @@ açıldığı mahkeme dosya üzerinden bu durumu tespit ile davacıyı yargılam
 ödemeye mahkûm eder.41
 (3) Davanın açılmamış sayılmasına karar verilen hâllerde yargılama giderleri davacıya
 yükletilir.
-
-Yargılama giderlerine hükmedilmesi
-
-41 22/7/2020 tarihli ve 7251 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Görevsizlik,
-yetkisizlik veya gönderme” ibareleri “Görevsizlik veya yetkisizlik” şeklinde değiştirilmiştir.

@@ -17,10 +17,6 @@ onayı ile tekemmül eder.
 Özel kanun hükümleri hariç olmak üzere yetkili makamın emekliye sevk onayı, talep
 tarihinden itibaren bir ayı geçemez. Bakanlar Kurulu kararı veya müşterek kararname ile
 atananların görevleriyle ilişiklerinin kesilmesi ilgili bakanın onayı ile tekemmül eder.
-
-84 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 203 üncü maddesiyle bu bentte yer
-alan “Danıştay Başkanının istek, malûliyet ve yaş haddi hallerinde Başbakanlık,” ibaresi madde
-metninden çıkarılmıştır.
 Özelleştirilmeleri sonucu sermayesindeki kamu payı % 50'nin altına düşen kuruluşlar
 ile satış veya devri yapılmış olan kuruluşlarda çalışmakta iken emekliye ayrılanlar için
 emekliye sevk onayı aranmaz. Birinci fıkranın (b) bendine göre emekliye ayrılmak isteyenler

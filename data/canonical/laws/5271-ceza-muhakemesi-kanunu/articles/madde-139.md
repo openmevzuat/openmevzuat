@@ -11,6 +11,16 @@ hazırlanabilir, değiştirilebilir ve kullanılabilir.
 (3) Soruşturmacı görevlendirilmesine ilişkin karar ve diğer belgeler ilgili Cumhuriyet
 Başsavcılığında muhafaza edilir. Soruşturmacının kimliği, görevinin sona ermesinden sonra
 da gizli tutulur. (Ek cümleler: 15/8/2017-KHK-694/142 md.; Aynen kabul: 1/2/2018-
+
+42 25/5/2005 tarihli ve 5353 sayılı Kanunun 18 inci maddesiyle bu fıkrada geçen "halinde" ibaresinden
+sonra gelmek üzere "soruşturma evresinin bitiminden itibaren" ibaresi eklenmiştir.
+43 8/7/2021 tarihli ve 7331 sayılı Kanunun 18 inci maddesiyle, bu fıkraya “soruşturma” ibaresinden
+sonra gelmek üzere “veya kovuşturma” ibaresi eklenmiş ve fıkrada yer alan “Başsavcılığı,” ibaresi
+“başsavcılığı veya mahkeme,” şeklinde değiştirilmiştir.
+44 24/11/2016 tarihli ve 6763 sayılı Kanunun 27 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
+“ağır ceza mahkemesince oy birliğiyle” ibaresi “hâkim tarafından” şeklinde değiştirilmiş, aynı
+maddenin yedinci fıkrasının (a) bendinin (1) numaralı alt bendinde yer alan “Uyuşturucu” ibaresi
+“Örgüt faaliyeti çerçevesinde işlenip işlenmediğine bakılmaksızın uyuşturucu” şeklinde değiştirilmiştir.
 7078/137 md.) Soruşturmacı, kovuşturma evresinde tanık olarak dinlenmesinin zorunlu
 olması halinde, duruşmada hazır bulunma hakkına sahip bulunanlar olmadan veya ses ya da
 görüntüsü değiştirilerek özel ortamda dinlenir. Bu durumda 27/12/2007 tarihli ve 5726 sayılı
@@ -25,11 +35,6 @@ işlemekte olduğu suçlardan sorumlu tutulamaz.
 (6) Soruşturmacı görevlendirilmesi suretiyle elde edilen kişisel bilgiler, görevlendirildiği
 ceza soruşturması ve kovuşturması dışında kullanılamaz. (Ek: 21/2/2014–6526/13 md.) Suçla
 bağlantılı olmayan kişisel bilgiler derhâl yok edilir.
-
-45 24/11/2016 tarihli ve 6763 sayılı Kanunun 27 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
-“ağır ceza mahkemesince oy birliğiyle” ibaresi “hâkim tarafından” şeklinde değiştirilmiş, aynı
-maddenin yedinci fıkrasının (a) bendinin (1) numaralı alt bendinde yer alan “Uyuşturucu” ibaresi
-“Örgüt faaliyeti çerçevesinde işlenip işlenmediğine bakılmaksızın uyuşturucu” şeklinde değiştirilmiştir.
 (7) Bu madde hükümleri ancak aşağıda sayılan suçlarla ilgili olarak uygulanabilir:
 a) Türk Ceza Kanununda yer alan;
 1. Örgüt faaliyeti çerçevesinde işlenip işlenmediğine bakılmaksızın uyuşturucu veya

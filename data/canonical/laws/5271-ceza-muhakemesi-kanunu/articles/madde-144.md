@@ -1,7 +1,7 @@
 # MADDE 144 — Tazminat isteyemeyecek kişiler
 
 (1) Kanuna uygun olarak yakalanan, adli kontrol altına alınan veya
-tutuklanan kişilerden aşağıda belirtilenler tazminat isteyemezler:53
+tutuklanan kişilerden aşağıda belirtilenler tazminat isteyemezler:52
 a) (Mülga: 11/4/2013-6459/18 md.)
 b) Tazminata hak kazanmadığı hâlde, sonradan yürürlüğe giren ve lehte düzenlemeler
 getiren kanun gereği, durumları tazminat istemeye uygun hâle dönüşenler.
@@ -12,7 +12,7 @@ d) Kusur yeteneğinin bulunmaması nedeniyle hakkında ceza verilmesine yer
 olmadığına karar verilenler.
 e) Adlî makamlar huzurunda gerçek dışı beyanla suç işlediğini veya suça katıldığını
 bildirerek gözaltına alınmasına, adli kontrol altına alınmasına veya tutuklanmasına neden
-olanlar.53
+olanlar.52
 
 BEŞİNCİ KISIM
 İfade ve Sorgu

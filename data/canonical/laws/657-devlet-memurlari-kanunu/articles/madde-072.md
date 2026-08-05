@@ -21,10 +21,6 @@ ve kıdem aylığı dahil), ek gösterge, zam ve tazminatlarının kanuni kesint
 sonraki net miktarının, eşleri;
 a) Olağanüstü Hal Bölgesine dahil illerle bu illere mücavir olarak belirlenen illerde
 görevli olanlara % 60'ı,
-
-145 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 182 nci maddesiyle bu fıkrada yer alan “veya
-kuruluş kanunlarında” ibaresi “, kuruluş kanunlarında veya Cumhurbaşkanlığı kararnamelerinde” şeklinde
-değiştirilmiştir.
 b) Kalkınmada 1 inci derecede öncelikli yörelerde görevli olanlara % 50'si,
 c) Kalkınmada 2 nci derecede öncelikli yörelerde görevli olanlara % 25'i,
 kurumlarınca kadro tasarrufundan ödenir.

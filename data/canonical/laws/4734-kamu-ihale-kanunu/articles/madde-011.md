@@ -6,7 +6,7 @@ a) (Değişik: 20/11/2008-5812/4 md.) Bu Kanun ve diğer kanunlardaki hükümler
 gereğince geçici veya sürekli olarak idarelerce veya mahkeme kararıyla kamu ihalelerine
 katılmaktan yasaklanmış olanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu
 kapsamına giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir
-ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.22
+ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.23
 b) İlgili mercilerce hileli iflas ettiğine karar verilenler.
 c) İhaleyi yapan idarenin ihale yetkilisi kişileri ile bu yetkiye sahip kurullarda görevli
 kişiler.
@@ -24,7 +24,7 @@ katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de o işin dan�
 ihalelerine katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu
 şirketlerin sermayesinin yarısından fazlasına sahip oldukları şirketleri için de geçerlidir.
 
-22 1/11/2012 tarihli ve 6359 sayılı Kanunun 1 inci maddesiyle; bu bentte yer alan “olarak” ibaresinden
+23 1/11/2012 tarihli ve 6359 sayılı Kanunun 1 inci maddesiyle; bu bentte yer alan “olarak” ibaresinden
 sonra gelmek üzere “idarelerce veya mahkeme kararıyla” ibaresi eklenmiştir.
 (Değişik üçüncü fıkra: 30/7/2003-4964/8 md.) İhaleyi yapan idare bünyesinde bulunan
 veya idare ile ilgili her ne amaçla kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi

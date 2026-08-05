@@ -10,9 +10,6 @@ kararında belirtmek suretiyle, tedbirin uygulanmasında, yazı işleri müdür�
 hususunda, bütün kolluk kuvvetleri ve köylerde muhtarlar, uygulamayı gerçekleştirecek memurun
 yazılı başvurusu üzerine, kendisine yardım etmek ve emirlerine uymakla yükümlüdürler.
 (4) İhtiyati tedbiri uygulayan memur, bir tutanak düzenler. Bu tutanakta, tedbir konusu
-
-66 22/7/2020 tarihli ve 7251 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “verildiği
-tarihten” ibaresi “bu kararın, tedbir isteyen tarafa tefhim veya tebliğinden” şeklinde değiştirilmiştir.
 ve bulunduğu yer gösterilir; tedbir konusu ile ilgili her türlü iddia bu tutanağa geçirilir.
 Tedbiri uygulayan memur, bu tutanağın bir örneğini tedbir sırasında hazır bulunmayan
 taraflara ve duruma göre üçüncü kişiye tebliğ eder.

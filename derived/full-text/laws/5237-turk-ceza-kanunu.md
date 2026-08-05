@@ -2456,6 +2456,12 @@ verilecek ceza bir kat artırılır.
 71 24/11/2016 tarihli ve 6763 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “iki yıldan yedi
 yıla” ibaresi “üç yıldan on yıla” şeklinde, “(j) ve (k)” ibaresi “(j), (k) ve (l)” şeklinde ve “üç yıldan”
 ibaresi “dört yıldan” şeklinde değiştirilmiştir.
+(4) (Ek:16/7/2026-7589/13 md.) Bu madde ile 157 nci maddede yer alan suçlara
+iştirakin, kendisine veya başkasına haksız bir menfaat sağlamak amacıyla kendisine veya
+başkasına ait banka veya kredi kartı gibi ödeme araçlarını ya da banka, aracı kurum, ödeme
+hizmeti sağlayıcıları veya kripto varlık hizmet sağlayıcıları nezdinde bulunan hesabın
+kullanılmasını sağlayan zorunlu bilgileri veya araçları başkasına vermek fiiliyle sınırlı olması
+halinde verilecek ceza yarı oranında indirilir.
 
 MADDE 159 — Daha az cezayı gerektiren hal
 
@@ -2578,18 +2584,18 @@ MADDE 170
 (1) Kişilerin hayatı, sağlığı veya malvarlığı bakımından tehlikeli olacak
 biçimde ya da kişilerde korku, kaygı veya panik yaratabilecek tarzda;
 a) Yangın çıkaran,
-b) Bina çökmesine, toprak kaymasına, çığ düşmesine, sel veya taşkına neden olan,
-c) Silahla ateş eden veya patlayıcı madde kullanan,
-kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. (Ek cümle:24/12/2025-
-7571/19 md.) Suçun ses ve gaz fişeği atabilen silahla ateş etmek suretiyle işlenmesi halinde
-kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır.
-(2) (Ek:24/12/2025-7571/19 md.) Birinci fıkrada tanımlanan suçun kişilerin toplu
 
 72 2/7/2012 tarihli ve 6352 sayılı Kanunun 84 üncü maddesiye bu fıkrada yer alan “ve karşılıksız
 yararlanma” ibaresi madde metninden çıkarılmıştır.
 73 24/12/2025 tarihli ve 7571 sayılı Kanunun 19 uncu maddesiyle birinci fıkrada yer alan “altı aydan
 üç yıla” ibaresi “bir yıldan beş yıla” şeklinde değiştirilmiş maddeye birinci fıkradan sonra gelmek
 üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
+b) Bina çökmesine, toprak kaymasına, çığ düşmesine, sel veya taşkına neden olan,
+c) Silahla ateş eden veya patlayıcı madde kullanan,
+kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır. (Ek cümle:24/12/2025-
+7571/19 md.) Suçun ses ve gaz fişeği atabilen silahla ateş etmek suretiyle işlenmesi halinde
+kişi, altı aydan üç yıla kadar hapis cezası ile cezalandırılır.
+(2) (Ek:24/12/2025-7571/19 md.) Birinci fıkrada tanımlanan suçun kişilerin toplu
 olarak bulundukları yerlerde işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 (3) Yangın, bina çökmesi, toprak kayması, çığ düşmesi, sel veya taşkın tehlikesine
 neden olan kişi, üç aydan bir yıla kadar hapis veya adlî para cezası ile cezalandırılır.
@@ -2625,18 +2631,16 @@ kişi, beş yıldan az olmamak üzere hapis cezası ile cezalandırılır.
 (2) Yukarıdaki fıkrada tanımlanan fiilin taksirle işlenmesi halinde, iki yıldan beş yıla
 kadar hapis cezasına hükmolunur.
 
-MADDE 174 — Tehlikeli maddelerin izinsiz olarak bulundurulması veya el değiştirmesi74
+Tehlikeli maddelerin izinsiz olarak bulundurulması veya el değiştirmesi74
+
+74 24/11/2016 tarihli ve 6763 sayılı Kanunun 15 inci maddesiyle, bu maddenin birinci fıkrasında yer
+alan “üç yıldan” ibaresi “dört yıldan” şeklinde, “maddelerin imalinde, işlenmesinde veya
+
+MADDE 174
 
 (1) Yetkili makamlardan gerekli izni almaksızın, patlayıcı, yakıcı,
 aşındırıcı, yaralayıcı, boğucu, zehirleyici, sürekli hastalığa yol açıcı nükleer, radyoaktif,
 kimyasal, biyolojik maddeyi imal, ithal veya ihraç eden, ülke içinde bir yerden diğer bir yere
-
-74 24/11/2016 tarihli ve 6763 sayılı Kanunun 15 inci maddesiyle, bu maddenin birinci fıkrasında yer
-alan “üç yıldan” ibaresi “dört yıldan” şeklinde, “maddelerin imalinde, işlenmesinde veya
-kullanılmasında gerekli olan malzeme ve teçhizatı ihraç eden” ibaresi “maddeleri imal etmek, işlemek
-veya kullanmak amacıyla, gerekli olan malzeme ve teçhizatı ithal eden, ihraç eden, satışa arz eden,
-başkalarına veren, nakleden, depolayan, satın alan, kabul eden veya bulunduran” şeklinde, ikinci
-fıkrasında yer alan “yarı oranında” ibaresi “bir kat” şeklinde değiştirilmiştir.
 nakleden, muhafaza eden, satan, satın alan veya işleyen kişi, dört yıldan sekiz yıla kadar hapis
 ve beşbin güne kadar adlî para cezası ile cezalandırılır. Yetkili makamların izni olmaksızın,
 bu fıkra kapsamına giren maddeleri imal etmek, işlemek veya kullanmak amacıyla, gerekli
@@ -2672,18 +2676,22 @@ bırakılan eşyadan doğan tehlikeyi önlemek için gerekli işaret veya engell
 konulmuş olan işaret veya engelleri kaldıran ya da bunların yerini değiştiren kişi, iki aydan
 altı aya kadar hapis veya adlî para cezası ile cezalandırılır.
 
-MADDE 179 — Trafik güvenliğini tehlikeye sokma75
+Trafik güvenliğini tehlikeye sokma75
+
+kullanılmasında gerekli olan malzeme ve teçhizatı ihraç eden” ibaresi “maddeleri imal etmek, işlemek
+veya kullanmak amacıyla, gerekli olan malzeme ve teçhizatı ithal eden, ihraç eden, satışa arz eden,
+başkalarına veren, nakleden, depolayan, satın alan, kabul eden veya bulunduran” şeklinde, ikinci
+fıkrasında yer alan “yarı oranında” ibaresi “bir kat” şeklinde değiştirilmiştir.
+75 4/6/2025 tarihli ve 7550 sayılı Kanunun 12 nci maddesiyle bu maddenin ikinci fıkrasında yer alan
+“üç aydan” ibaresi “dört aydan” ve üçüncü fıkrasında yer alan “yukarıdaki fıkra hükmüne göre
+
+MADDE 179
 
 (1) Kara, deniz, hava veya demiryolu ulaşımının güven içinde akışını
 sağlamak için konulmuş her türlü işareti değiştirerek, kullanılamaz hale getirerek, konuldukları
 yerden kaldırarak, yanlış işaretler vererek, geçiş, varış, kalkış veya iniş yolları üzerine bir şey
 koyarak ya da teknik işletim sistemine müdahale ederek, başkalarının hayatı, sağlığı veya
 malvarlığı bakımından bir tehlikeye neden olan kişiye bir yıldan altı yıla kadar hapis cezası verilir.
-
-75 4/6/2025 tarihli ve 7550 sayılı Kanunun 12 nci maddesiyle bu maddenin ikinci fıkrasında yer alan
-“üç aydan” ibaresi “dört aydan” ve üçüncü fıkrasında yer alan “yukarıdaki fıkra hükmüne göre
-cezalandırılır.” ibaresi “altı aydan iki yıla kadar hapis cezası ile cezalandırılır.” şeklinde
-değiştirilmiştir.
 (2) Kara, deniz, hava veya demiryolu ulaşım araçlarını kişilerin hayat, sağlık veya
 malvarlığı açısından tehlikeli olabilecek şekilde sevk ve idare eden kişi, dört aydan iki yıla
 kadar hapis cezası ile cezalandırılır.76
@@ -2718,6 +2726,11 @@ güne kadar adlî para cezasına hükmolunur.
 (5) Bu maddenin iki, üç ve dördüncü fıkrasındaki fiillerden dolayı tüzel kişiler
 hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
 
+cezalandırılır.” ibaresi “altı aydan iki yıla kadar hapis cezası ile cezalandırılır.” şeklinde
+değiştirilmiştir.
+76 24/11/2016 tarihli ve 6763 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “idare eden kişi,”
+ibaresinden sonra gelmek üzere “üç aydan” ibaresi eklenmiştir.
+
 MADDE 182 — Çevrenin taksirle kirletilmesi
 
 (1) Çevreye zarar verecek şekilde, atık veya artıkların toprağa, suya veya
@@ -2725,9 +2738,6 @@ havaya verilmesine taksirle neden olan kişi, adlî para cezası ile cezalandır
 artıkların, toprakta, suda veya havada kalıcı etki bırakması halinde, iki aydan bir yıla kadar
 hapis cezasına hükmolunur.
 (2) İnsan veya hayvanlar açısından tedavisi zor hastalıkların ortaya çıkmasına, üreme
-
-76 24/11/2016 tarihli ve 6763 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “idare eden kişi,”
-ibaresinden sonra gelmek üzere “üç aydan” ibaresi eklenmiştir.
 yeteneğinin körelmesine, hayvanların veya bitkilerin doğal özelliklerini değiştirmeye neden
 olabilecek niteliklere sahip olan atık veya artıkların toprağa, suya veya havaya taksirle
 verilmesine neden olan kişi, bir yıldan beş yıla kadar hapis cezası ile cezalandırılır.
@@ -2799,11 +2809,6 @@ bulunduran kişi, on yıldan az olmamak üzere hapis ve bin günden yirmibin gü
 cezası ile cezalandırılır. (Ek cümle: 18/6/2014 – 6545/66 md.) Ancak, uyuşturucu veya uyarıcı
 madde verilen veya satılan kişinin çocuk olması hâlinde, veren veya satan kişiye verilecek hapis
 cezası on beş yıldan az olamaz.79
-(4) (Değişik: 27/3/2015-6638/11 md.) a) Yukarıdaki fıkralarda belirtilen uyuşturucu
-veya uyarıcı maddelerin eroin, kokain, morfin, bazmorfin, sentetik kannabinoid ve türevleri,
-sentetik katinon ve türevleri, sentetik opioid ve türevleri veya amfetamin ve türevleri olması,80
-
-b) Üçüncü fıkradaki fiillerin; okul, yurt, hastane, kışla veya ibadethane gibi tedavi,
 
 77 18/6/2014 tarihli ve 6545 sayılı Kanunun 66 ncı maddesiyle, bu maddenin birinci fıkrasında yer
 alan “on yıldan az olmamak üzere” ibaresi “yirmi yıldan otuz yıla kadar” şeklinde, üçüncü fıkrasında
@@ -2816,10 +2821,11 @@ ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanun
 aynen kabul edilerek kanunlaşmıştır.
 79 29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle bu fıkralarda geçen "nakleden"
 ibaresinden önce gelmek üzere "sevk eden," ibaresi eklenmiştir.
-80 28/3/2023 tarihli ve 7445 sayılı Kanunun 17 nci maddesiyle bu fıkrada yer alan
-“sentetik kannabinoid ve türevleri veya bazmorfin olması,” ibaresi “bazmorfin,
-sentetik kannabinoid ve türevleri, sentetik katinon ve türevleri, sentetik opioid ve türevleri veya
-amfetamin ve türevleri olması,” şeklinde değiştirilmiştir.
+(4) (Değişik: 27/3/2015-6638/11 md.) a) Yukarıdaki fıkralarda belirtilen uyuşturucu
+veya uyarıcı maddelerin eroin, kokain, morfin, bazmorfin, sentetik kannabinoid ve türevleri,
+sentetik katinon ve türevleri, sentetik opioid ve türevleri veya amfetamin ve türevleri olması,80
+
+b) Üçüncü fıkradaki fiillerin; okul, yurt, hastane, kışla veya ibadethane gibi tedavi,
 eğitim, askerî ve sosyal amaçla toplu bulunulan bina ve tesisler ile bunların varsa çevre
 duvarı, tel örgü veya benzeri engel veya işaretlerle belirlenen sınırlarına iki yüz metreden
 yakın mesafe içindeki umumi veya umuma açık yerlerde işlenmesi,
@@ -2848,15 +2854,12 @@ MADDE 189 — Tüzel kişiler hakkında güvenlik tedbiri uygulanması
 kişinin faaliyeti çerçevesinde işlenmesi halinde, tüzel kişi hakkında bunlara özgü güvenlik
 tedbirlerine hükmolunur.
 
-MADDE 190 — Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma83
+Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırma83
 
-(1) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak için;
-a) Özel yer, donanım veya malzeme sağlayan,
-b) Kullananların yakalanmalarını zorlaştıracak önlemler alan,
-c) Kullanma yöntemleri konusunda başkalarına bilgi veren,
-Kişi, beş yıldan on yıla kadar hapis ve bin günden onbin güne kadar adlî para cezası
-ile cezalandırılır.84
-
+80 28/3/2023 tarihli ve 7445 sayılı Kanunun 17 nci maddesiyle bu fıkrada yer alan
+“sentetik kannabinoid ve türevleri veya bazmorfin olması,” ibaresi “bazmorfin,
+sentetik kannabinoid ve türevleri, sentetik katinon ve türevleri, sentetik opioid ve türevleri veya
+amfetamin ve türevleri olması,” şeklinde değiştirilmiştir.
 81 29/6/2005 tarihli ve 5377 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan "nakleden"
 ibaresinden önce gelmek üzere, "sevk eden," ibaresi eklenmiştir.
 82 15/8/2017 tarihli ve 694 sayılı KHK’nin 137 nci maddesiyle, bu fıkrada yer alan “sekiz yıldan az
@@ -2864,8 +2867,15 @@ olmamak üzere hapis ve” ibaresinden sonra gelmek üzere “bin günden” iba
 hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 132 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 83 18/6/2014 tarihli ve 6545 sayılı Kanunun 67 nci maddesiyle, bu maddenin birinci ve ikinci
 fıkralarında yer alan “iki yıldan beş” ibareleri “beş yıldan on” şeklinde değiştirilmiştir.
-84 15/8/2017 tarihli ve 694 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan ““on yıla kadar
-hapis” ibaresinden sonra gelmek üzere “ve bin günden onbin güne kadar adlî para” ibaresi eklenmiş,
+
+MADDE 190
+
+(1) Uyuşturucu veya uyarıcı madde kullanılmasını kolaylaştırmak için;
+a) Özel yer, donanım veya malzeme sağlayan,
+b) Kullananların yakalanmalarını zorlaştıracak önlemler alan,
+c) Kullanma yöntemleri konusunda başkalarına bilgi veren,
+Kişi, beş yıldan on yıla kadar hapis ve bin günden onbin güne kadar adlî para cezası
+ile cezalandırılır.84
 (2) Uyuşturucu veya uyarıcı madde kullanılmasını alenen özendiren veya bu nitelikte
 yayın yapan kişi, beş yıldan on yıla kadar hapis ve bin günden onbin güne kadar adlî para
 cezası ile cezalandırılır.84 85
@@ -2897,14 +2907,9 @@ sürelerle en fazla iki yıl daha uzatılabilir. Hakkında denetimli serbestlik 
 gerek görülmesi hâlinde denetimli serbestlik süresi içinde tedaviye tabi tutulabilir.
 Cumhuriyet savcısı, erteleme süresi zarfında uyuşturucu veya uyarıcı madde kullanıp
 kullanmadığını tespit etmek için yılda en az iki defa şüphelinin ilgili kuruma sevkine karar
-verir.
-(4) Kişinin, erteleme süresi zarfında;
-a) Kendisine yüklenen yükümlülüklere veya uygulanan tedavinin gereklerine uygun
-davranmamakta ısrar etmesi,
-b) Tekrar kullanmak için uyuşturucu veya uyarıcı madde satın alması, kabul etmesi
-veya bulundurması,
-c) Uyuşturucu veya uyarıcı madde kullanması,
 
+84 15/8/2017 tarihli ve 694 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan ““on yıla kadar
+hapis” ibaresinden sonra gelmek üzere “ve bin günden onbin güne kadar adlî para” ibaresi eklenmiş,
 daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 133 üncü maddesiyle aynen kabul
 edilerek kanunlaşmıştır.
 85 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü
@@ -2912,6 +2917,13 @@ fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
 86 18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı “Kullanmak için
 uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak” iken metne işlendiği
 şekilde değiştirilmiştir.
+verir.
+(4) Kişinin, erteleme süresi zarfında;
+a) Kendisine yüklenen yükümlülüklere veya uygulanan tedavinin gereklerine uygun
+davranmamakta ısrar etmesi,
+b) Tekrar kullanmak için uyuşturucu veya uyarıcı madde satın alması, kabul etmesi
+veya bulundurması,
+c) Uyuşturucu veya uyarıcı madde kullanması,
 hâlinde, hakkında kamu davası açılır.
 (5) Erteleme süresi zarfında kişinin kullanmak için tekrar uyuşturucu veya uyarıcı
 madde satın alması, kabul etmesi veya bulundurması ya da uyuşturucu veya uyarıcı madde
@@ -2989,6 +3001,9 @@ DÖRDÜNCÜ BÖLÜM
 Kamu Güvenine Karşı Suçlar
 Parada sahtecilik
 
+87 24/11/2016 tarihli ve 6763 sayılı Kanunun 17 nci maddesiyle, bu fıkraya “makamlara” ibaresinden
+sonra gelmek üzere “veya sağlık kuruluşlarına” ibaresi eklenmiştir.
+
 MADDE 197
 
 (1) Memlekette veya yabancı ülkelerde kanunen tedavülde bulunan
@@ -2998,9 +3013,6 @@ iki yıldan oniki yıla kadar hapis ve onbin güne kadar adlî para cezası ile 
 cezası ile cezalandırılır.
 (3) Sahteliğini bilmeden kabul ettiği parayı bu niteliğini bilerek tedavüle koyan kişi,
 üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
-
-87 24/11/2016 tarihli ve 6763 sayılı Kanunun 17 nci maddesiyle, bu fıkraya “makamlara” ibaresinden
-sonra gelmek üzere “veya sağlık kuruluşlarına” ibaresi eklenmiştir.
 
 MADDE 198 — Paraya eşit sayılan değerler
 
@@ -3174,6 +3186,10 @@ MADDE 217/A — Halkı yanıltıcı bilgiyi alenen yayma
 güvenliği, kamu düzeni ve genel sağlığı ile ilgili gerçeğe aykırı bir bilgiyi, kamu barışını
 bozmaya elverişli şekilde alenen yayan kimse, bir yıldan üç yıla kadar hapis cezasıyla
 cezalandırılır.
+
+88 11/4/2013 tarihli ve 6459 sayılı Kanunun 10 uncu maddesiyle, bu maddede yer alan “kimse,”
+ibaresinden sonra gelmek üzere “bu nedenle kamu düzeni açısından açık ve yakın bir tehlikenin
+ortaya çıkması hâlinde,” ibaresi eklenmiştir.
 (2) Fail, suçu gerçek kimliğini gizleyerek veya bir örgütün faaliyeti çerçevesinde
 işlemesi hâlinde, birinci fıkraya göre verilen ceza yarı oranında artırılır.
 
@@ -3182,10 +3198,6 @@ MADDE 218 — Ortak hüküm
 (1) (Değişik: 29/6/2005 – 5377/25 md.) Yukarıdaki maddelerde tanımlanan
 suçların basın ve yayın yoluyla işlenmesi hâlinde, verilecek ceza yarı oranına kadar artırılır.
 Ancak, haber verme sınırlarını aşmayan ve eleştiri amacıyla yapılan düşünce açıklamaları suç
-
-88 11/4/2013 tarihli ve 6459 sayılı Kanunun 10 uncu maddesiyle, bu maddede yer alan “kimse,”
-ibaresinden sonra gelmek üzere “bu nedenle kamu düzeni açısından açık ve yakın bir tehlikenin
-ortaya çıkması hâlinde,” ibaresi eklenmiştir.
 oluşturmaz.
 
 MADDE 219 — Görev sırasında din hizmetlerini kötüye kullanma
@@ -3215,13 +3227,6 @@ MADDE 220 — Suç işlemek amacıyla örgüt kurma8990
 yönetenler, örgütün yapısı, sahip bulunduğu üye sayısı ile araç ve gereç bakımından amaç
 suçları işlemeye elverişli olması halinde, beş yıldan on yıla kadar hapis cezası ile
 cezalandırılır. Ancak, örgütün varlığı için üye sayısının en az üç kişi olması gerekir.
-(2) Suç işlemek amacıyla kurulmuş olan örgüte üye olanlar, iki yıldan beş yıla kadar
-hapis cezası ile cezalandırılır.
-(3) Örgütün silahlı olması halinde, yukarıdaki fıkralara göre verilecek ceza yarısı
-oranında artırılır.
-(4) Örgütün faaliyeti çerçevesinde suç işlenmesi halinde, ayrıca bu suçlardan dolayı da
-cezaya hükmolunur.
-(5) (Ek cümle:24/12/2025-7571/20 md.) Örgütün faaliyeti çerçevesinde işlenen
 
 89 14/4/2020 tarihli ve 7242 sayılı Kanunun 13 üncü maddesiyle, birinci fıkrada yer alan “iki yıldan
 altı yıla” ibaresi “dört yıldan sekiz yıla” ve ikinci fıkrada yer alan “bir yıldan üç yıla” ibaresi “iki
@@ -3231,6 +3236,13 @@ alan “dört yıldan sekiz yıla” ibaresi “beş yıldan on yıla”, ikinci
 ibaresi “beş yıla”, üçüncü fıkrasında yer alan “dörtte birinden yarısına kadar” ibaresi “yarısı
 oranında” şeklinde değiştirilmiştir.
 
+(2) Suç işlemek amacıyla kurulmuş olan örgüte üye olanlar, iki yıldan beş yıla kadar
+hapis cezası ile cezalandırılır.
+(3) Örgütün silahlı olması halinde, yukarıdaki fıkralara göre verilecek ceza yarısı
+oranında artırılır.
+(4) Örgütün faaliyeti çerçevesinde suç işlenmesi halinde, ayrıca bu suçlardan dolayı da
+cezaya hükmolunur.
+(5) (Ek cümle:24/12/2025-7571/20 md.) Örgütün faaliyeti çerçevesinde işlenen
 suçlarda çocukların araç olarak kullanılması halinde, örgüt yöneticilerine yukarıdaki fıkralara
 göre verilecek ceza yarısından bir katına kadar artırılır. Örgüt yöneticileri, örgütün faaliyeti
 çerçevesinde işlenen bütün suçlardan dolayı ayrıca fail olarak cezalandırılır.
@@ -3262,22 +3274,17 @@ olmamakla birlikte örgüt adına suç işleyen veya örgüte bilerek ve isteyer
 gönüllü olarak teslim olup, örgütün yapısı ve faaliyeti çerçevesinde işlenen suçlarla ilgili bilgi
 vermesi halinde, hakkında örgüt kurmak, yönetmek veya örgüte üye olmak suçundan dolayı
 cezaya hükmolunmaz. Kişinin bu bilgileri yakalandıktan sonra vermesi halinde, hakkında bu
+
+91 11/4/2013 tarihli ve 6459 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “veya amacının”
+ibaresi “cebir, şiddet veya tehdit içeren yöntemlerini meşru gösterecek veya övecek ya da bu
+yöntemlere başvurmayı teşvik edecek şekilde” şeklinde değiştirilmiştir.
 suçtan dolayı verilecek cezada üçte birden dörtte üçe kadar indirim yapılır.92
 (5) Etkin pişmanlıktan yararlanan kişiler hakkında bir yıl süreyle denetimli serbestlik
 tedbirine hükmolunur. Denetimli serbestlik tedbirinin süresi üç yıla kadar uzatılabilir.
 (6) (Ek: 6/12/2006 – 5560/8 md.) Kişi hakkında, bu maddedeki etkin pişmanlık
 hükümleri birden fazla uygulanmaz.
 
-Şapka ve Türk harfleri
-
-91 11/4/2013 tarihli ve 6459 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “veya amacının”
-ibaresi “cebir, şiddet veya tehdit içeren yöntemlerini meşru gösterecek veya övecek ya da bu
-yöntemlere başvurmayı teşvik edecek şekilde” şeklinde değiştirilmiştir.
-92 29/6/2005 tarihli ve 5377 sayılı Kanunun 26 ncı maddesiyle bu fıkrada geçen "örgüte üye olan"
-ibaresinden sonra gelmek üzere, "ya da üye olmamakla birlikte örgüt adına suç işleyen veya örgüte
-bilerek ve isteyerek yardım eden" ibaresi eklenmiştir.
-
-MADDE 222
+MADDE 222 — Şapka ve Türk harfleri
 
 (Mülga: 2/3/2014-6529/16 md.)
 
@@ -3312,6 +3319,10 @@ cezalandırılır.
 ayrıca cezaya hükmolunur.
 (3) Bu suçun işlenmesi sırasında kasten yaralama suçunun neticesi sebebiyle ağırlaşmış
 hallerinin gerçekleşmesi durumunda, ayrıca kasten yaralama suçuna ilişkin hükümler uygulanır.
+
+92 29/6/2005 tarihli ve 5377 sayılı Kanunun 26 ncı maddesiyle bu fıkrada geçen "örgüte üye olan"
+ibaresinden sonra gelmek üzere, "ya da üye olmamakla birlikte örgüt adına suç işleyen veya örgüte
+bilerek ve isteyerek yardım eden" ibaresi eklenmiştir.
 
 YEDİNCİ BÖLÜM
 Genel Ahlaka Karşı Suçlar
@@ -3353,6 +3364,9 @@ cezalandırılır.
 veya yayınlanmasına aracılık eden ya da çocukların görmesini, dinlemesini veya okumasını
 sağlayan kişi, altı yıldan on yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
 cezalandırılır.
+
+93 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
+“çocukları, temsili çocuk görüntülerini veya çocuk gibi görünen kişileri” şeklinde değiştirilmiştir.
 (6) Bu suçlardan dolayı, tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.
 (7) Bu madde hükümleri, bilimsel eserlerle; üçüncü fıkra hariç olmak ve çocuklara
@@ -3364,9 +3378,6 @@ MADDE 227 — Fuhuş
 tedarik eden veya barındıran ya da çocuğun fuhşuna aracılık eden kişi, dört yıldan on yıla
 kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu suçun işlenişine
 yönelik hazırlık hareketleri de tamamlanmış suç gibi cezalandırılır.
-
-93 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
-“çocukları, temsili çocuk görüntülerini veya çocuk gibi görünen kişileri” şeklinde değiştirilmiştir.
 (2) Bir kimseyi fuhşa teşvik eden, bunun yolunu kolaylaştıran ya da fuhuş için aracılık
 eden veya yer temin eden kişi, iki yıldan dört yıla kadar hapis ve üçbin güne kadar adlî para
 cezası ile cezalandırılır. Fuhşa sürüklenen kişinin kazancından yararlanılarak kısmen veya
@@ -3393,14 +3404,6 @@ Kumar oynanması için yer ve imkan sağlama95
 MADDE 228
 
 (1) Kumar oynanması için yer ve imkan sağlayan kişi, bir yıldan üç yıla
-kadar hapis ve iki yüz günden aşağı olmamak üzere adlî para cezası ile cezalandırılır.96
-(2) Çocukların kumar oynaması için yer ve imkan sağlanması halinde, verilecek ceza
-bir katı oranında artırılır.
-(3) (Ek: 15/8/2017-KHK-694/139 md.; Aynen kabul: 1/2/2018-7078/134 md.)
-Suçun bilişim sistemlerinin kullanılması suretiyle işlenmesi halinde üç yıldan beş yıla kadar
-hapis ve bin günden onbin güne kadar adlî para cezasına hükmolunur.
-(4) (Ek: 15/8/2017-KHK-694/139 md.; Aynen kabul: 1/2/2018-7078/134 md.) Suçun
-bir örgütün faaliyeti çerçevesinde işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 
 94 6/12/2006 tarihli ve 5560 sayılı Kanunun 9 uncu maddesiyle bu fıkrada yer alan “tedavi veya
 terapiye tabi tutulur.” ibaresi, "tedaviye veya psikolojik terapiye tâbi tutulabilir." şeklinde
@@ -3409,9 +3412,14 @@ değiştirilmiştir.
 gelmek üzere (3), (4) numaralı fıkralar eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiş, daha
 sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 134 üncü maddesiyle aynen kabul edilerek
 kanunlaşmıştır.
-96 24/11/2016 tarihli ve 6763 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “bir yıla kadar
-hapis ve” ibaresi “bir yıldan üç yıla kadar hapis ve iki yüz günden aşağı olmamak üzere” şeklinde
-değiştirilmiştir.
+kadar hapis ve iki yüz günden aşağı olmamak üzere adlî para cezası ile cezalandırılır.96
+(2) Çocukların kumar oynaması için yer ve imkan sağlanması halinde, verilecek ceza
+bir katı oranında artırılır.
+(3) (Ek: 15/8/2017-KHK-694/139 md.; Aynen kabul: 1/2/2018-7078/134 md.)
+Suçun bilişim sistemlerinin kullanılması suretiyle işlenmesi halinde üç yıldan beş yıla kadar
+hapis ve bin günden onbin güne kadar adlî para cezasına hükmolunur.
+(4) (Ek: 15/8/2017-KHK-694/139 md.; Aynen kabul: 1/2/2018-7078/134 md.) Suçun
+bir örgütün faaliyeti çerçevesinde işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 (5) Bu suçtan dolayı, tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.
 (6) Ceza Kanununun uygulanmasında kumar, kazanç amacıyla icra edilen ve kar ve
@@ -3445,6 +3453,10 @@ kararının kesinleştiği tarihten itibaren işlemeye başlar.
 sayılı Kararı ile.)
 (6) (İptal: Anayasa Mahkemesi’nin 27/5/2015 tarihli ve E.: 2014/36, K.: 2015/51
 sayılı Kararı ile.)
+
+96 24/11/2016 tarihli ve 6763 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “bir yıla kadar
+hapis ve” ibaresi “bir yıldan üç yıla kadar hapis ve iki yüz günden aşağı olmamak üzere” şeklinde
+değiştirilmiştir.
 
 MADDE 231 — Çocuğun soybağını değiştirme
 
@@ -3574,6 +3586,10 @@ bankacılık sırrı veya müşteri sırrı niteliğindeki bilgi veya belgeleri 
 ifşa eden kişi, şikayet üzerine, bir yıldan üç yıla kadar hapis ve beşbin güne kadar adlî para
 cezası ile cezalandırılır. Bu bilgi veya belgelerin, hukuka aykırı yolla elde eden kişiler
 tarafından yetkisiz kişilere verilmesi veya ifşa edilmesi halinde de bu fıkraya göre cezaya
+
+97 23/6/2022 tarihli ve 7413 sayılı Kanunun 19 uncu maddesiyle bu maddenin birinci fıkrasında yer
+alan “üç aydan iki yıla” ibaresi “bir yıldan üç yıla”, ikinci fıkrasında yer alan “üçte biri” ibaresi
+“yarısı” ve üçüncü fıkrasında yer alan “sekizde bir” ibaresi “yarısı” şeklinde değiştirilmiştir.
 hükmolunur.
 (2) Birinci fıkra hükümleri, fenni keşif ve buluşları veya sınai uygulamaya ilişkin
 bilgiler hakkında da uygulanır.
@@ -3582,13 +3598,7 @@ takdirde, faile verilecek ceza üçte biri oranında artırılır. Bu halde şik
 (4) Cebir veya tehdit kullanarak bir kimseyi bu madde kapsamına giren bilgi veya
 belgeleri açıklamaya mecbur kılan kişi, üç yıldan yedi yıla kadar hapis cezasıyla cezalandırılır.
 
-Mal veya hizmet satımından kaçınma98
-
-97 23/6/2022 tarihli ve 7413 sayılı Kanunun 19 uncu maddesiyle bu maddenin birinci fıkrasında yer
-alan “üç aydan iki yıla” ibaresi “bir yıldan üç yıla”, ikinci fıkrasında yer alan “üçte biri” ibaresi
-“yarısı” ve üçüncü fıkrasında yer alan “sekizde bir” ibaresi “yarısı” şeklinde değiştirilmiştir.
-
-MADDE 240
+MADDE 240 — Mal veya hizmet satımından kaçınma98
 
 (1) Belli bir mal veya hizmeti satmaktan kaçınarak kamu için acil bir
 ihtiyacın ortaya çıkmasına neden olan kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
@@ -3622,6 +3632,13 @@ yıla kadar hapis cezasına hükmolunur.
 sistemleri arasında gerçekleşen veri nakillerini, sisteme girmeksizin teknik araçlarla hukuka
 aykırı olarak izleyen kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
 
+98 23/6/2022 tarihli ve 7413 sayılı Kanunun 20 nci maddesiyle bu maddede yer alan “altı aydan iki
+yıla” ibaresi “bir yıldan üç yıla” şeklinde değiştirilmiştir.
+99 14/4/2020 tarihli ve 7242 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “beş yıla kadar
+hapis ve” ibaresi “altı yıla kadar hapis ve beşyüz günden” şeklinde değiştirilmiştir.
+100 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “ve” ibaresi
+“veya” şeklinde değiştirilmiştir.
+
 MADDE 244 — Sistemi engelleme, bozma, verileri yok etme veya değiştirme
 
 (1) Bir bilişim sisteminin işleyişini engelleyen veya bozan kişi, bir yıldan
@@ -3631,13 +3648,6 @@ sisteme veri yerleştiren, var olan verileri başka bir yere gönderen kişi, al
 hapis cezası ile cezalandırılır.
 (3) Bu fiillerin bir banka veya kredi kurumuna ya da bir kamu kurum veya kuruluşuna
 ait bilişim sistemi üzerinde işlenmesi halinde, verilecek ceza yarı oranında artırılır.
-
-98 23/6/2022 tarihli ve 7413 sayılı Kanunun 20 nci maddesiyle bu maddede yer alan “altı aydan iki
-yıla” ibaresi “bir yıldan üç yıla” şeklinde değiştirilmiştir.
-99 14/4/2020 tarihli ve 7242 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “beş yıla kadar
-hapis ve” ibaresi “altı yıla kadar hapis ve beşyüz günden” şeklinde değiştirilmiştir.
-100 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “ve” ibaresi
-“veya” şeklinde değiştirilmiştir.
 (4) Yukarıdaki fıkralarda tanımlanan fiillerin işlenmesi suretiyle kişinin kendisinin
 veya başkasının yararına haksız bir çıkar sağlamasının başka bir suç oluşturmaması halinde,
 iki yıldan altı yıla kadar hapis ve beşbin güne kadar adlî para cezasına hükmolunur.
@@ -3841,6 +3851,9 @@ gibi cezaya hükmolunur.
 fakat bunun kabul edilmemesi ya da menfaat teklif veya vaadinde bulunulması ve fakat bunun
 kabul edilmemesi hallerinde, birinci fıkra hükmüne göre verilecek ceza yarı oranında indirilir.
 (4) Nüfuz ticareti suçuna aracılık eden kişi, müşterek fail olarak, birinci fıkrada
+
+101 2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
+iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
 belirtilen ceza ile cezalandırılır.
 (5) Nüfuz ticareti ilişkisinde dolaylı olarak kendisine menfaat sağlanan üçüncü gerçek
 kişi veya tüzel kişinin menfaati kabul eden yetkilileri, müşterek fail olarak, birinci fıkrada
@@ -3850,9 +3863,6 @@ hallerde kişiler ayrıca bu suç nedeniyle cezalandırılır.
 (7) Bu madde hükümleri, 252 nci maddenin dokuzuncu fıkrasında sayılan kişiler
 üzerinde nüfuz ticareti yapılması halinde de uygulanır. Bu kişiler hakkında, Türkiye’de
 bulunmaları halinde, vatandaş veya yabancı olduklarına bakılmaksızın, resen soruşturma ve
-
-101 2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
-iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
 kovuşturma yapılır.
 
 MADDE 256 — Zor kullanma yetkisine ilişkin sınırın aşılması
@@ -3882,6 +3892,12 @@ görevlisine, bir yıldan dört yıla kadar hapis cezası verilir.
 (2) Kamu görevlisi sıfatı sona erdikten sonra, birinci fıkrada yazılı fiilleri işleyen
 kimseye de aynı ceza verilir.
 
+102 8/12/2010 tarihli ve 6086 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci ve ikinci
+fıkralarında yer alan “kazanç” ibareleri “menfaat”, birinci fıkrasında yer alan “bir yıldan üç yıla
+kadar” ibaresi “altı aydan iki yıla kadar”, ikinci fıkrasında yer alan “altı aydan iki yıla kadar”
+ibaresi “üç aydan bir yıla kadar” ve üçüncü fıkrasında yer alan “birinci fıkra hükmüne göre” ibaresi
+“bir yıldan üç yıla kadar hapis ve beşbin güne kadar adli para cezası ile” şeklinde değiştirilmiştir.
+
 MADDE 259 — Kamu görevlisinin ticareti
 
 (1) Yürüttüğü görevin sağladığı nüfuzdan yararlanarak, bir başkasına mal
@@ -3893,12 +3909,6 @@ MADDE 260 — Kamu görevinin terki veya yapılmaması
 (1) Hukuka aykırı olarak ve toplu biçimde, görevlerini terk eden,
 görevlerine gelmeyen, görevlerini geçici de olsa kısmen veya tamamen yapmayan veya
 yavaşlatan kamu görevlilerinin her biri hakkında üç aydan bir yıla kadar hapis cezası verilir.
-
-102 8/12/2010 tarihli ve 6086 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci ve ikinci
-fıkralarında yer alan “kazanç” ibareleri “menfaat”, birinci fıkrasında yer alan “bir yıldan üç yıla
-kadar” ibaresi “altı aydan iki yıla kadar”, ikinci fıkrasında yer alan “altı aydan iki yıla kadar”
-ibaresi “üç aydan bir yıla kadar” ve üçüncü fıkrasında yer alan “birinci fıkra hükmüne göre” ibaresi
-“bir yıldan üç yıla kadar hapis ve beşbin güne kadar adli para cezası ile” şeklinde değiştirilmiştir.
 Kamu görevlisi sayısının üçten fazla olmaması halinde cezaya hükmolunmaz.
 (2) Kamu görevlilerinin mesleki ve sosyal hakları ile ilgili olarak, hizmeti
 aksatmayacak biçimde, geçici ve kısa süreli iş bırakmaları veya yavaşlatmaları halinde,
@@ -3974,6 +3984,10 @@ hükümlere göre dolaylı fail olarak sorumlu tutulur.
 halinde, yirmi yıldan otuz yıla kadar hapis cezasına; (…)103 hükmolunur.
 (6) Mağdurun mahkûm olduğu hapis cezasının infazına başlanmış ise, beşinci fıkraya
 göre verilecek ceza yarısı kadar artırılır.
+
+103 Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı ile bu fıkranın
+“…süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis
+cezasına…” ibaresi iptal edilmiştir.
 (7) (İptal: Anayasa Mahkemesi’nin 17/11/2011 tarihli ve E.: 2010/115, K.: 2011/154
 sayılı Kararı ile.)
 (8) İftira suçundan dolayı dava zamanaşımı, mağdurun fiili işlemediğinin sabit olduğu
@@ -3985,10 +3999,6 @@ MADDE 268 — Başkasına ait kimlik veya kimlik bilgilerinin kullanılması
 
 (1) İşlediği suç nedeniyle kendisi hakkında soruşturma ve kovuşturma
 yapılmasını engellemek amacıyla, başkasına ait kimliği veya kimlik bilgilerini kullanan
-
-103 Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı ile bu fıkranın
-“…süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis
-cezasına…” ibaresi iptal edilmiştir.
 kimse, iftira suçuna ilişkin hükümlere göre cezalandırılır.104
 
 Etkin pişmanlık
@@ -4020,6 +4030,9 @@ MADDE 270 — Suç üstlenme
 
 (1) Yetkili makamlara, gerçeğe aykırı olarak, suçu işlediğini veya suça
 katıldığını bildiren kimseye iki yıla kadar hapis cezası verilir. Bu suçun üstsoy, altsoy, eş veya
+
+104 29/6/2005 tarihli ve 5377 sayılı Kanunun 30 uncu maddesiyle bu fıkrada geçen "bu kişiye" ibaresi
+"başkasına" olarak değiştirilmiştir.
 kardeşi cezadan kurtarmak amacıyla işlenmesi halinde; verilecek cezanın dörtte üçü
 indirilebileceği gibi tamamen de kaldırılabilir.
 
@@ -4032,9 +4045,6 @@ biçimde uyduran kimseye üç yıla kadar hapis cezası verilir.
 MADDE 272 — Yalan tanıklık
 
 (1) Hukuka aykırı bir fiil nedeniyle başlatılan bir soruşturma kapsamında
-
-104 29/6/2005 tarihli ve 5377 sayılı Kanunun 30 uncu maddesiyle bu fıkrada geçen "bu kişiye" ibaresi
-"başkasına" olarak değiştirilmiştir.
 tanık dinlemeye yetkili kişi veya kurul önünde gerçeğe aykırı olarak tanıklık yapan kimseye,
 dört aydan bir yıla kadar hapis cezası verilir.
 (2) Mahkeme huzurunda ya da yemin ettirerek tanık dinlemeye kanunen yetkili kişi
@@ -4063,6 +4073,10 @@ cezalandırılır.
 MADDE 273 — Şahsi cezasızlık veya cezanın azaltılmasını gerektiren sebepler
 
 (1) Kişinin;
+
+105 Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E:2014/116, K:2015/4 sayılı Kararı ile bu bentte yer
+alan “…süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis
+cezasına…” ibaresi iptal edilmiştir.
 a) Kendisinin, üstsoy, altsoy, eş veya kardeşinin soruşturma ve kovuşturmaya
 uğramasına neden olabilecek bir hususla ilgili olarak yalan tanıklıkta bulunması,
 b) Tanıklıktan çekinme hakkı olmasına rağmen, bu hakkı kendisine hatırlatılmadan
@@ -4074,10 +4088,6 @@ hallerinde uygulanmaz.
 MADDE 274 — Etkin pişmanlık
 
 (1) Aleyhine tanıklık yapılan kişi hakkında bir hak kısıtlamasını veya
-
-105 Anayasa Mahkemesi’nin 14/1/2015 tarihli ve E:2014/116, K:2015/4 sayılı Kararı ile bu bentte yer
-alan “…süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis
-cezasına…” ibaresi iptal edilmiştir.
 yoksunluğunu sonuçlayacak nitelikte karar verilmeden veya hükümden önce gerçeğin söylenmesi
 halinde, cezaya hükmolunmaz.
 (2) Aleyhine tanıklık yapılan kişi hakkında bir hak kısıtlamasını veya yoksunluğunu
@@ -4108,6 +4118,11 @@ MADDE 277 — Yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye te�
 
 (Değişik: 2/7/2012-6352/90md.)
 (1) Görülmekte olan bir davada (…)108 gerçeğin ortaya çıkmasını engellemek veya bir
+
+106 3/11/2016 tarihli ve 6754 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “bir yıldan üç
+yıla” ibaresi “üç yıldan yedi yıla” şeklinde değiştirilmiştir.
+107 2/7/2012 tarihli ve 6352 sayılı Kanunun 90 ıncı maddesiyle bu madde başlığı “Yargı görevi yapanı
+etkileme” iken metne işlendiği şekilde değiştirilmiştir.
 haksızlık oluşturmak amacıyla, davanın taraflarından birinin, (…)108 sanığın, katılanın veya
 mağdurun lehine veya aleyhine sonuç doğuracak bir karar vermesi veya bir işlem tesis etmesi
 ya da beyanda bulunması için, yargı görevi yapanı, bilirkişiyi veya tanığı hukuka aykırı olarak
@@ -4116,13 +4131,6 @@ cümle: 18/6/2014-6545/69 md.) Teşebbüs iltimas derecesini geçmediği takdird
 ceza altı aydan iki yıla kadardır.
 (2) Birinci fıkradaki suçu oluşturan fiilin başka bir suçu da oluşturması halinde, fikri
 içtima hükümlerine göre verilecek ceza yarısına kadar artırılır.
-
-106 3/11/2016 tarihli ve 6754 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “bir yıldan üç
-yıla” ibaresi “üç yıldan yedi yıla” şeklinde değiştirilmiştir.
-107 2/7/2012 tarihli ve 6352 sayılı Kanunun 90 ıncı maddesiyle bu madde başlığı “Yargı görevi yapanı
-etkileme” iken metne işlendiği şekilde değiştirilmiştir.
-108 18/6/2014 tarihli ve 6545 sayılı Kanunun 69 uncu maddesiyle bu fıkrada yer alan “veya yapılmakta
-olan bir soruşturmada,” ve “şüpheli veya” ibareleri madde metninden çıkarılmıştır.
 
 MADDE 278 — Suçu bildirmeme
 
@@ -4154,6 +4162,11 @@ MADDE 280 — Sağlık mesleği mensuplarının suçu bildirmemesi
 karşılaşmasına rağmen, durumu yetkili makamlara bildirmeyen veya bu hususta gecikme
 gösteren sağlık mesleği mensubu, bir yıla kadar hapis cezası ile cezalandırılır.
 (2) Sağlık mesleği mensubu deyiminden tabip, diş tabibi, eczacı, ebe, hemşire ve
+
+108 18/6/2014 tarihli ve 6545 sayılı Kanunun 69 uncu maddesiyle bu fıkrada yer alan “veya yapılmakta
+olan bir soruşturmada,” ve “şüpheli veya” ibareleri madde metninden çıkarılmıştır.
+109 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “özürlü” ibaresi
+“engelli” olarak değiştirilmiştir.
 sağlık hizmeti veren diğer kişiler anlaşılır.
 
 MADDE 281 — Suç delillerini yok etme, gizleme veya değiştirme
@@ -4164,9 +4177,6 @@ cezası ile cezalandırılır. Kendi işlediği veya işlenişine iştirak etti�
 fıkra hükmüne göre ceza verilmez.
 (2) Bu suçun kamu görevlisi tarafından göreviyle bağlantılı olarak işlenmesi halinde,
 verilecek ceza yarı oranında artırılır.
-
-109 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle bu fıkrada yer alan “özürlü” ibaresi
-“engelli” olarak değiştirilmiştir.
 (3) İlişkin olduğu suç nedeniyle hüküm verilmeden önce gizlenen delilleri mahkemeye
 teslim eden kişi hakkında bu maddede tanımlanan suç nedeniyle verilecek cezanın beşte
 dördü indirilir.
@@ -4196,6 +4206,9 @@ MADDE 283 — Suçluyu kayırma
 
 (1) Suç işleyen bir kişiye araştırma, yakalanma, tutuklanma veya hükmün
 infazından kurtulması için imkan sağlayan kimse, altı aydan beş yıla kadar hapis cezası ile
+
+110 26/6/2009 tarihli ve 5918 sayılı Kanunun 5 inci maddesiyle birinci fıkradan sonra gelmek üzere
+ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 cezalandırılır.
 (2) Bu suçun kamu görevlisi tarafından göreviyle bağlantılı olarak işlenmesi halinde,
 verilecek ceza yarı oranında artırılır.
@@ -4206,9 +4219,6 @@ MADDE 284 — Tutuklu, hükümlü veya suç delillerini bildirmeme
 
 (1) Hakkında tutuklama kararı verilmiş olan veya hükümlü bir kişinin
 bulunduğu yeri bildiği halde yetkili makamlara bildirmeyen kimse, bir yıla kadar hapis cezası
-
-110 26/6/2009 tarihli ve 5918 sayılı Kanunun 5 inci maddesiyle birinci fıkradan sonra gelmek üzere
-ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 ile cezalandırılır.
 (2) İşlenmiş olan bir suça ilişkin delil ve eserlerin başkaları tarafından saklandığı yeri
 bildiği halde yetkili makamlara bildirmeyen kimse, yukarıdaki fıkra hükmüne göre cezalandırılır.
@@ -4283,6 +4293,9 @@ nedeniyle kaybolmasına veya bozulmasına neden olan kişi, adlî para cezası i
 (4) Bir suça ilişkin soruşturma veya kovuşturma kapsamında elkonulan eşyayı amacı
 dışında kullanan kimse, bir yıla kadar hapis cezası ile cezalandırılır.
 
+111 2/7/2018 tarihli ve 700 sayılı KHK’nin 156 ncı maddesiyle, bu fıkrada yer alan “tüzüklerde”
+ibaresi “yönetmeliklerde” şeklinde değiştirilmiştir.
+
 MADDE 290 — Resmen teslim olunan mala elkonulması ve bozulması
 
 (1) Hükmen hak sahiplerine teslim edilen taşınmaz mallara tekrar
@@ -4292,9 +4305,6 @@ herhangi bir nedenle elkonulmuş olan taşınır malın bu kişinin elinden rız
 halinde hırsızlık, cebren alınması halinde yağma, hileyle alınması halinde dolandırıcılık,
 tahrip edilmesi halinde mala zarar verme suçuna ilişkin hükümler uygulanır. Kişinin bu malın
 sahibi olması halinde, verilecek cezanın yarısından dörtte üçüne kadarı indirilir.
-
-111 2/7/2018 tarihli ve 700 sayılı KHK’nin 156 ncı maddesiyle, bu fıkrada yer alan “tüzüklerde”
-ibaresi “yönetmeliklerde” şeklinde değiştirilmiştir.
 
 MADDE 291 — Başkası yerine ceza infaz kurumuna veya tutukevine girme
 
@@ -4324,7 +4334,12 @@ göstererek kendiliğinden teslim olması halinde, kaçtığı günden itibaren 
 güne kadar geçen süre dikkate alınarak, verilecek cezanın altıda beşinden altıda birine kadarı
 indirilir. Ancak, kaçma süresinin altı ayı geçmesi halinde cezada indirim yapılmaz.
 
-MADDE 294 — Kaçmaya imkan sağlama
+Kaçmaya imkan sağlama
+
+112 29/6/2005 tarihli ve 5377 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan "Gözaltına
+alınan," ibaresi madde metninden çıkarılmıştır.
+
+MADDE 294
 
 (1) Gözaltına alınanın veya tutuklunun kaçmasını sağlayan kişi, bir
 yıldan üç yıla kadar hapis cezası ile cezalandırılır.
@@ -4336,9 +4351,6 @@ Kadar hapis cezasına hükmolunur.
 (3) Bu suçların, cebir veya tehdit kullanılarak işlenmesi halinde, verilecek ceza üçte
 biri oranında artırılır.
 (4) Kaçması sağlanan kişi sayısının birden fazla olması halinde, bu sayı göz önünde
-
-112 29/6/2005 tarihli ve 5377 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan "Gözaltına
-alınan," ibaresi madde metninden çıkarılmıştır.
 bulundurularak, verilecek ceza üçte birden bir katına kadar artırılır.
 (5) Bu suçların gözaltına alınan, tutuklu veya hükümlünün muhafaza veya nakli ile
 görevli kişiler tarafından işlenmesi halinde, verilecek ceza, üçte biri oranında artırılır.
@@ -4461,6 +4473,9 @@ Devletin birliğini ve ülke bütünlüğünü bozmak
 MADDE 302
 
 (1) (Değişik: 29/6/2005 – 5377/36 md.) Devlet topraklarının tamamını
+
+113 30/4/2008 tarihli ve 5759 sayılı Kanunun 1 inci maddesiyle bu madde başlığı “Türklüğü,
+Cumhuriyeti, Devletin kurum ve organlarını aşağılama” iken metne işlendiği şekilde değiştirilmiştir.
 veya bir kısmını yabancı bir devletin egemenliği altına koymaya veya Devletin bağımsızlığını
 zayıflatmaya veya birliğini bozmaya veya Devletin egemenliği altında bulunan topraklardan
 bir kısmını Devlet idaresinden ayırmaya yönelik bir fiil işleyen kimse, ağırlaştırılmış müebbet
@@ -4469,9 +4484,6 @@ hapis cezası ile cezalandırılır.
 dolayı ilgili hükümlere göre cezaya hükmolunur.
 (3) Bu maddede tanımlanan suçların işlenmesi dolayısıyla tüzel kişiler hakkında
 bunlara özgü güvenlik tedbirlerine hükmolunur.
-
-113 30/4/2008 tarihli ve 5759 sayılı Kanunun 1 inci maddesiyle bu madde başlığı “Türklüğü,
-Cumhuriyeti, Devletin kurum ve organlarını aşağılama” iken metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 303 — Düşmanla işbirliği yapmak
 
@@ -4504,6 +4516,9 @@ fiillerde bulunmak maksadıyla veya bu nedenle, yabancı kişi veya kuruluşlard
 doğruya veya dolaylı olarak kendisi veya başkası için maddi yarar sağlayan vatandaşa ya da
 Türkiye'de bulunan yabancıya, üç yıldan on yıla kadar hapis ve onbin güne kadar adlî para
 cezası verilir. Yarar sağlayan veya vaat eden kişi hakkında da aynı cezaya hükmolunur.
+
+114 29/6/2005 tarihli ve 5377 sayılı Kanunun 38 inci maddesiyle bu maddenin başlığı “Temel milli
+yararlara karşı hareket” iken, metne işlendiği şekilde değiştirilmiştir.
 (2) (Değişik fıkra: 29/6/2005 – 5377/38 md.) Fiilin savaş sırasında işlenmiş olması
 hâlinde, verilecek ceza yarı oranında artırılır.
 (3) Suç savaş hali dışında işlendiği takdirde, bu nedenle kovuşturma yapılması Adalet
@@ -4514,9 +4529,6 @@ Cumhuriyetin Anayasada belirtilen temel nitelikleri anlaşılır.
 MADDE 306 — Yabancı devlet aleyhine asker toplama
 
 (1) Türkiye Devletini savaş tehlikesi ile karşı karşıya bırakacak şekilde,
-
-114 29/6/2005 tarihli ve 5377 sayılı Kanunun 38 inci maddesiyle bu maddenin başlığı “Temel milli
-yararlara karşı hareket” iken, metne işlendiği şekilde değiştirilmiştir.
 yetkisiz olarak, yabancı bir devlete karşı asker toplayan veya diğer hasmane hareketlerde
 bulunan kimseye beş yıldan oniki yıla kadar hapis cezası verilir.
 (2) Fiil sonucu savaş meydana gelirse faile müebbet hapis cezası verilir.
@@ -4643,9 +4655,6 @@ Tarihli ve E.:2024/81, K.:2024/189 Sayılı Kararı ile)
 (4) Suç işlemek amacıyla örgüt kurma suçuna ilişkin diğer hükümler, bu suç açısından
 aynen uygulanır.
 
-115 2/3/2024 tarihli ve 7499 sayılı Kanunun 11 inci maddesiyle bu maddeye ikinci fıkradan sonra
-gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
-
 MADDE 315 — Silâh sağlama
 
 (1) Yukarıdaki maddede tanımlanan örgütlerin faaliyetlerinde
@@ -4682,6 +4691,9 @@ MADDE 318 — Halkı askerlikten soğutma
 sevk edecek veya askerlik hizmetine katılacak olanları bu hizmeti yapmaktan vazgeçirecek
 şekilde teşvik veya telkinde bulunanlara altı aydan iki yıla kadar hapis cezası verilir.
 (2) Fiil, basın ve yayın yolu ile işlenirse ceza yarısı oranında artırılır.
+
+115 2/3/2024 tarihli ve 7499 sayılı Kanunun 11 inci maddesiyle bu maddeye ikinci fıkradan sonra
+gelmek üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 
 MADDE 319 — Askerleri itaatsizliğe teşvik
 

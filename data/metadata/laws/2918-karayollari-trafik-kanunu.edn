@@ -5,12 +5,12 @@
  :document/slug "2918-karayollari-trafik-kanunu",
  :document/path "data/canonical/laws/2918-karayollari-trafik-kanunu",
  :document/sha256
- "1ed45e5b5f85863caafd724c9cece13dea4aa6a65ecd2668215b5376085c1885",
+ "2d41084bc184daa8cce6a187f23ad12ede75de48159c6942bea0a8811f03955d",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2918.pdf",
- :source/fetched-at #inst "2026-07-01T08:43:50.701-00:00",
- :openmevzuat/baseline-date "2026-07-01",
- :openmevzuat/generated-at #inst "2026-07-01T08:43:21.766-00:00",
+ :source/fetched-at #inst "2026-08-05T07:32:36.336-00:00",
+ :openmevzuat/baseline-date "2026-08-05",
+ :openmevzuat/generated-at #inst "2026-08-05T07:31:50.290-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -1100,21 +1100,21 @@
    :article/title nil,
    :article/path "articles/ek-madde-017.md",
    :article/sha256
-   "7c8c884a6db19f6ca4b03d4f59b8febdc9e6d079bd13c29dd3c4a0e2aac85adc"}
+   "4f1bad9477b57bb9c75cfb16e8cf061d5a8312456e9b6f8075e2bfdf836e28dd"}
   {:article/id "law/2918/article/18",
    :article/type :additional,
    :article/no "18",
    :article/title nil,
    :article/path "articles/ek-madde-018.md",
    :article/sha256
-   "427e3dbfb2670dc6e45a59a3a2ac50a24aa42ccfccdde0ea2071c582738bc621"}
+   "b810d48cf00d5376f9eee051736f98fd9bc20e8d560cef6c8f52a74f368c8ff9"}
   {:article/id "law/2918/article/19",
    :article/type :additional,
    :article/no "19",
    :article/title nil,
    :article/path "articles/ek-madde-019.md",
    :article/sha256
-   "e760b995dffcfcf18faab4646e71192a4331c49a4559475f5475a1e2cf28359a"}
+   "28b094d875a18214fcc52ff3cd3ad057b1df4d0dbf135e135436cba15767e585"}
   {:article/id "law/2918/article/20",
    :article/type :additional,
    :article/no "20",
@@ -1128,7 +1128,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-001.md",
    :article/sha256
-   "2c9232b67e56899fe789c949ad50f97301fc07d96aa1c1e425b318dff1fdd318"}
+   "ff43c0da079bb49ce4df602e181a27851a81af20703972acbc042511f03084b3"}
   {:article/id "law/2918/article/2",
    :article/type :temporary,
    :article/no "2",

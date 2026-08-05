@@ -15,22 +15,22 @@ hükümleri saklı kalmak kaydıyla; yabancı bir ülkede kurulu herhangi bir ku
 o kuruluş adına ve hesabına Türkiye’ye üç ayı geçmemek üzere bir iş için gönderilen ve
 yabancı ülkede sosyal sigortaya tabi olduğunu belgeleyen kişiler ile Türkiye’de kendi adına
 ve hesabına bağımsız çalışanlardan, yurt dışında ikamet eden ve o ülke sosyal güvenlik
-mevzuatına tabi olanlar,
-f) (…)14 yüksek okullarda fiilen normal eğitim süreleri içinde yapılan, tatbikî
-mahiyetteki yapım ve üretim işlerinde çalışan öğrenciler,
-g) Sağlık hizmet sunucuları tarafından işe alıştırılmakta olan veya rehabilite edilen,
-hasta veya malûller,
-h) (Değişik: 17/4/2008-5754/4 md.) 4 üncü maddenin birinci fıkrasının (b) ve (c)
 
+11 4/4/2015 tarihli ve 6645 sayılı Kanunun 44 üncü maddesiyle, bu bentte yer alan “bunlardan
+bakmakla yükümlü olunan kişi durumunda olmayanlar hakkında ayrıca” ibaresi madde metninden
+çıkarılmıştır.
 12 10/9/2014 tarihli ve 6552 sayılı Kanunun 40 ıncı maddesiyle, bu bentte yer alan “(ücretle ve sürekli
 olarak çalışanlar hariç)” ibaresi 1/4/2015 tarihinde yürürlüğe girmek üzere “(Kanunun ek 9 uncu
 maddesinin ikinci fıkrası kapsamında sigortalı olanlar ile ücretle aynı kişi yanında ay içinde 10 gün ve
 daha fazla süreyle çalışanlar hariç)” şeklinde değiştirilmiştir.
 13 25/6/2019 tarihli ve 7179 sayılı Kanunun 62 nci maddesiyle bu bende “yedek subay” ibaresinden
 sonra gelmek üzere “ve yedek astsubay” ibaresi eklenmiştir.
-14 2/12/2016 tarihli ve 6764 sayılı Kanunun 55 inci maddesiyle, bu bentte yer alan alan “Resmî meslek
-ve sanat okulları ile yetkili resmî makamların izniyle kurulan meslek veya sanat okullarında ve”
-ibaresi madde metninden çıkarılmıştır.
+mevzuatına tabi olanlar,
+f) (…)14 yüksek okullarda fiilen normal eğitim süreleri içinde yapılan, tatbikî
+mahiyetteki yapım ve üretim işlerinde çalışan öğrenciler,
+g) Sağlık hizmet sunucuları tarafından işe alıştırılmakta olan veya rehabilite edilen,
+hasta veya malûller,
+h) (Değişik: 17/4/2008-5754/4 md.) 4 üncü maddenin birinci fıkrasının (b) ve (c)
 bentleri gereği sigortalı sayılması gerekenlerden 18 yaşını doldurmamış olanlar,
 ı) Kamu idarelerinde ve Kanunun ek 5 inci maddesi kapsamında sayılanlar hariç
 olmak üzere, tarım işlerinde veya orman işlerinde hizmet akdiyle süreksiz işlerde çalışanlar ile
@@ -58,6 +58,16 @@ n) (Ek fıkra: 29/1/2016-6663/23 md.) 30 uncu maddenin üçüncü fıkrasının 
 kapsamında olanlar hariç olmak üzere, yaşlılık aylığı almaktayken bu aylıkları kesilmeksizin
 4 üncü maddenin birinci fıkrasının (b) bendi kapsamında çalışanlar,
 4 üncü ve 5 inci maddelere göre sigortalı sayılmaz.
+
+14 2/12/2016 tarihli ve 6764 sayılı Kanunun 55 inci maddesiyle, bu bentte yer alan alan “Resmî meslek
+ve sanat okulları ile yetkili resmî makamların izniyle kurulan meslek veya sanat okullarında ve”
+ibaresi madde metninden çıkarılmıştır.
+15 13/2/2011 tarihli ve 6111 sayılı Kanunun 25 inci maddesiyle, bu bentte yer alan “Kamu idareleri”
+ibaresi “Kamu idarelerinde ve Kanunun ek 5 inci maddesi kapsamında sayılanlar” şeklinde ve
+“belgeleyenler,” ibaresi “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” şeklinde
+değiştirilmiştir.
+16 17/4/2008 tarihli ve 5754 sayılı Kanunun 4 üncü maddesiyle bu bentte yer alan “kamu düzeninin”
+ibaresi “ilgili mevzuatının” şeklinde değiştirilmiştir.
 (h) bendinin uygulanmasıyla ilgili olarak, bir meslek veya sanat okulunu bitirenlerden,
 22/11/2001 tarihli ve 4721 sayılı Türk Medenî Kanunu hükümlerine göre mahkemece ergin
 kılınmak suretiyle, öğrenimleriyle ilgili görevlerde çalışanlar hakkında 18 yaşın bitirilmiş
@@ -65,10 +75,3 @@ olması şartı aranmaz.
 Birinci fıkranın (ı) bendinin uygulanmasında, Türkiye Ziraat Odaları Birliğinin görüşü alınır.
 Bu maddenin uygulamasına ilişkin usûl ve esaslar, Kurum tarafından çıkarılacak
 yönetmelikle düzenlenir.
-
-15 13/2/2011 tarihli ve 6111 sayılı Kanunun 25 inci maddesiyle, bu bentte yer alan “Kamu idareleri”
-ibaresi “Kamu idarelerinde ve Kanunun ek 5 inci maddesi kapsamında sayılanlar” şeklinde ve
-“belgeleyenler,” ibaresi “belgeleyenler ile 65 yaşını dolduranlardan talepte bulunanlar,” şeklinde
-değiştirilmiştir.
-16 17/4/2008 tarihli ve 5754 sayılı Kanunun 4 üncü maddesiyle bu bentte yer alan “kamu düzeninin”
-ibaresi “ilgili mevzuatının” şeklinde değiştirilmiştir.

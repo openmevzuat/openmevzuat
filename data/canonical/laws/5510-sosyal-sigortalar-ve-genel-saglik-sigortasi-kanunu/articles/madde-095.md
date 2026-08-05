@@ -1,4 +1,4 @@
-# MADDE 95
+# MADDE 95 — Sağlık raporlarının usûl ve esaslarının belirlenmesi
 
 Bu Kanun gereğince, yurt dışında tedavi için yapılacak sevklere, çalışma
 gücü kaybı, geçici iş göremezlik ödeneklerinin verilmesine ilişkin raporlar ile iş kazası ve
@@ -12,6 +12,6 @@ belgelerin incelenmesiyle; yurt dışında tedavi için yapılacak sevklere, vaz
 derecesini, iş kazası veya meslek hastalığı sonucu tespit edilen meslekte kazanma gücünün
 kaybına veya meslekte kazanma gücünün kaybı derecelerine ilişkin usulüne uygun
 düzenlenmiş sağlık kurulu raporları ve diğer belgelere istinaden Kurumca verilen karara
-ilgililerin itirazı halinde, durum Sosyal Sigorta Yüksek Sağlık Kurulunca karara bağlanır.178
+ilgililerin itirazı halinde, durum Sosyal Sigorta Yüksek Sağlık Kurulunca karara bağlanır.179
 Bu maddenin uygulamasına ilişkin usûl ve esaslar, Sağlık Bakanlığı ile Kurumun
 birlikte çıkaracağı yönetmelikle düzenlenir.

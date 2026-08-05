@@ -2,6 +2,10 @@
 
 (Değişik: 30/5/1974 – KHK-12; değiştirilerek kabul: 15/5/1975 - 1897/1
 md.)
+(Değişik birinci fıkra: 13/2/2011 - 6111/102 md.) Yabancı memleketlerin resmî
+kurumları veya uluslararası kuruluşlarda ya da Cumhurbaşkanınca belirlenen yurtdışındaki
+kuruluşlarda kurumlarının muvafakati ile görev alacak memurlara, ilgili Bakanın onayı ile
+(her üç yılda bir Bakan onayı yenilenmek kaydıyla) memuriyeti süresince yabancı
 
 146 29/11/1984 tarih ve 243 sayılı K.H.K.'nin 55 inci maddesi uyarınca; 13/12/1960 tarih ve 160 sayılı Kanunun
 4 üncü maddesine yapılan atıflar, 8/6/1984 gün ve 217 sayılı K.H.K.'nin ilgili maddesine yapılmış sayılmaktadır.
@@ -13,10 +17,6 @@ uluslararası kuruluşlarda” ibaresi ile “yabancı memleketlerin resmi kurum
 alan “yabancı memleketlerde veya uluslararası kuruluşlarda görevde” ibaresi “birinci fıkra kapsamındaki
 görevlerde” şeklinde ve üçüncü fıkrasında yer alan “yabancı memleketlerde veya uluslararası kuruluşlarda”
 ibaresi “birinci fıkra kapsamındaki görevlerde” şeklinde değiştirilmiştir.
-(Değişik birinci fıkra: 13/2/2011 - 6111/102 md.) Yabancı memleketlerin resmî
-kurumları veya uluslararası kuruluşlarda ya da Cumhurbaşkanınca belirlenen yurtdışındaki
-kuruluşlarda kurumlarının muvafakati ile görev alacak memurlara, ilgili Bakanın onayı ile
-(her üç yılda bir Bakan onayı yenilenmek kaydıyla) memuriyeti süresince yabancı
 memleketlerin resmî kurumlarında ya da Cumhurbaşkanınca belirlenen yurtdışındaki
 kuruluşlarda on yıla, uluslararası kuruluşlarda yirmibir yıla kadar aylıksız izin verilebilir.
 Yukarıdaki fıkraya göre izin alan memurların kadro ile ilişkileri devam eder ve birinci
