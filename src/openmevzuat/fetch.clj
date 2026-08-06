@@ -187,17 +187,25 @@
         (catch Exception _
           nil)))))
 
-(defn- request-options [{:keys [connect-timeout-ms timeout-ms]}]
+(defn http-client-options
+  "Client options shared by every source request. The sources serve incomplete
+  certificate chains, so all of them need the trust context from
+  openmevzuat.tls - a request that builds its own client without it fails the
+  TLS handshake."
+  [{:keys [connect-timeout-ms]}]
+  {:connect-timeout connect-timeout-ms
+   :redirect-policy :normal
+   :version :http-1.1
+   :ssl-context (tls/ssl-context)})
+
+(defn- request-options [{:keys [timeout-ms] :as config}]
   {:as :byte-array
    :headers {"User-Agent" "OpenMevzuat/0.1"
              "Accept" "application/pdf,text/plain,text/html;q=0.8,*/*;q=0.1"}
    :throw-exceptions false
    :timeout timeout-ms
    :version :http-1.1
-   :http-client {:connect-timeout connect-timeout-ms
-                 :redirect-policy :normal
-                 :version :http-1.1
-                 :ssl-context (tls/ssl-context)}})
+   :http-client (http-client-options config)})
 
 (defn- origin-key [url]
   (let [uri (URI/create url)]

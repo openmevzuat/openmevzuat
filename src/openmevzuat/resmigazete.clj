@@ -32,9 +32,7 @@
     :throw-exceptions false
     :timeout (:timeout-ms config)
     :version :http-1.1
-    :http-client {:connect-timeout (:connect-timeout-ms config)
-                  :redirect-policy :normal
-                  :version :http-1.1}}
+    :http-client (fetch/http-client-options config)}
     payload
     (assoc :body (json/generate-string payload)
            :headers {"User-Agent" "OpenMevzuat/0.1"

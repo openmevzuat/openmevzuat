@@ -38,9 +38,7 @@
    :throw-exceptions false
    :timeout (:timeout-ms config)
    :version :http-1.1
-   :http-client {:connect-timeout (:connect-timeout-ms config)
-                 :redirect-policy :normal
-                 :version :http-1.1}})
+   :http-client (fetch/http-client-options config)})
 
 (defn- datatable-columns []
   (vec

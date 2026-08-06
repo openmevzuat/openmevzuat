@@ -1,5 +1,8 @@
 (ns openmevzuat.tls-test
   (:require [clojure.test :refer [deftest is testing]]
+            [openmevzuat.catalog :as catalog]
+            [openmevzuat.fetch :as fetch]
+            [openmevzuat.resmigazete :as rg]
             [openmevzuat.tls :as tls])
   (:import [java.security KeyStore]
            [java.security.cert CertPathValidator CertificateFactory PKIXParameters
@@ -76,3 +79,16 @@
 
 (deftest ssl-context-is-shared
   (is (identical? (tls/ssl-context) (tls/ssl-context))))
+
+(deftest every-source-request-uses-the-trust-context
+  (testing "each namespace that builds its own client still gets the completed chain"
+    (let [config (fetch/fetch-config)
+          expected (tls/ssl-context)]
+      (doseq [[label options] [["fetch" (#'fetch/request-options config)]
+                               ["catalog" (#'catalog/request-options {} config)]
+                               ["resmigazete" (#'rg/request-options nil "*/*" config)]
+                               ["resmigazete post" (#'rg/request-options {:a 1} "*/*" config)]]]
+        (is (identical? expected (get-in options [:http-client :ssl-context]))
+            (str label " builds an HttpClient without the bundled trust context"))
+        (is (= (:connect-timeout-ms config) (get-in options [:http-client :connect-timeout]))
+            (str label " drops the configured connect timeout"))))))
