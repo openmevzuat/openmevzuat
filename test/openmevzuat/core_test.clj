@@ -288,6 +288,31 @@
     (is (= "https://www.resmigazete.gov.tr/eskiler/2026/07/20260711-5.htm"
            (:amendment/url (second (:resmi-gazete/processed-amendments state)))))))
 
+(deftest file-comparison-behavior
+  (let [dir (Files/createTempDirectory "openmevzuat-test"
+                                       (make-array FileAttribute 0))
+        write! (fn [name content]
+                 (let [path (fs/path dir name)]
+                   (spit (str path) content)
+                   path))
+        ;; Larger than the 8 KiB compare buffer, so the multi-read path runs.
+        big (str/join (repeat 5000 "madde "))]
+    (try
+      (is (store/files-equal? (write! "a.txt" big) (write! "b.txt" big)))
+      (is (store/files-equal? (write! "empty-a.txt" "") (write! "empty-b.txt" "")))
+      (testing "same length, differing content"
+        (is (false? (store/files-equal? (write! "c.txt" (str big "x"))
+                                        (write! "d.txt" (str big "y"))))))
+      (testing "differing length"
+        (is (false? (store/files-equal? (write! "e.txt" big)
+                                        (write! "f.txt" (str big "tail"))))))
+      (testing "difference past the first buffer is still detected"
+        (is (false? (store/files-equal? (write! "g.txt" (str big "-suffix-one"))
+                                        (write! "h.txt" (str big "-suffix-two"))))))
+      (is (false? (store/files-equal? (fs/path dir "missing.txt") (write! "i.txt" big))))
+      (finally
+        (fs/delete-tree dir)))))
+
 (deftest write-if-changed-behavior
   (let [dir (Files/createTempDirectory "openmevzuat-test"
                                        (make-array FileAttribute 0))
@@ -378,6 +403,35 @@
       (is (clojure.string/includes? (:content @written) "law/1/article/1"))
       (is (not (clojure.string/includes? (:content @written) "law/2/article/old")))
       (is (clojure.string/includes? (:content @written) "New text")))))
+
+(deftest incremental-search-merge-rewrites-each-document-once
+  (testing "an updated document deep in a large index is replaced, not appended"
+    (let [written (atom nil)
+          index-size 200
+          target-line 150
+          old-lines (vec (for [i (range index-size)]
+                           (if (= i target-line)
+                             "{\"document/id\":\"law/900\",\"article/id\":\"law/900/article/old\"}"
+                             (format "{\"document/id\":\"law/%d\",\"article/id\":\"law/%d/article/1\"}" i i))))
+          prepared [{:document {:document/id "law/900"
+                                :document/type :law
+                                :document/number "900"
+                                :document/title "Law Nine Hundred"
+                                :articles [{:article/id "law/900/article/1"
+                                            :article/type :normal
+                                            :article/no "1"
+                                            :article/title nil
+                                            :article/path "articles/madde-001.md"
+                                            :article/body "New text"}]}}]]
+      (with-redefs [store/read-file (fn [_] (str (str/join "\n" old-lines) "\n"))
+                    store/write-if-changed! (fn [path content]
+                                              (reset! written {:path path :content content})
+                                              {:path path :changed? true})]
+        (core/write-search! prepared {:merge? true})
+        (let [lines (str/split-lines (:content @written))]
+          (is (= index-size (count lines)))
+          (is (= 1 (count (filter #(str/includes? % "law/900/article/1") lines))))
+          (is (= 0 (count (filter #(str/includes? % "law/900/article/old") lines)))))))))
 
 (deftest resmi-gazete-affected-law-extraction
   (let [html "<p>MADDE 16- 13/10/1983 tarihli ve 2918 sayılı Karayolları Trafik Kanununun 20 nci maddesinde yer alan “üç iş günü” ibaresi “on beş iş günü” şeklinde değiştirilmiştir.</p>

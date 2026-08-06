@@ -40,11 +40,13 @@
            (let [left-buffer (byte-array 8192)
                  right-buffer (byte-array 8192)]
              (loop []
-               (let [left-read (.read left-in left-buffer)
-                     right-read (.read right-in right-buffer)]
+               ;; readNBytes, not read: a short read on one stream would
+               ;; otherwise report two identical files as different.
+               (let [left-read (.readNBytes left-in left-buffer 0 8192)
+                     right-read (.readNBytes right-in right-buffer 0 8192)]
                  (cond
                    (not= left-read right-read) false
-                   (= -1 left-read) true
+                   (zero? left-read) true
                    (equal-byte-ranges? left-buffer right-buffer left-read) (recur)
                    :else false))))))))
 

@@ -128,14 +128,24 @@
       url
       (str base-url "/" (str/replace-first (str url) #"^/+" "")))))
 
+(defn- codepoint->string
+  "Decodes one numeric entity. Codepoints outside the basic plane need a
+  surrogate pair, and an out-of-range entity is left as written rather than
+  thrown."
+  [code radix]
+  (try
+    (String. (Character/toChars (Integer/parseInt code radix)))
+    (catch Exception _
+      (str "&#" (when (= 16 radix) "x") code ";"))))
+
 (defn- decode-html-entities [text]
   (-> text
       (str/replace #"&#x([0-9A-Fa-f]+);"
                    (fn [[_ code]]
-                     (str (char (Integer/parseInt code 16)))))
+                     (codepoint->string code 16)))
       (str/replace #"&#([0-9]+);"
                    (fn [[_ code]]
-                     (str (char (Integer/parseInt code)))))
+                     (codepoint->string code 10)))
       (str/replace "&nbsp;" " ")
       (str/replace "&amp;" "&")
       (str/replace "&quot;" "\"")
@@ -187,7 +197,11 @@
      text)))
 
 (defn find-amendment-url! [row]
-  (let [row-url (absolute-url (:url row))]
+  (let [row-url (or (absolute-url (:url row))
+                    (throw (ex-info "Resmi Gazete row has no document URL"
+                                    {:law/no (str (:kanunKararNo row))
+                                     :law/title (:konu row)
+                                     :resmi-gazete/date (:resmiGazeteTarihiFormatted row)})))]
     (if (re-find #"\.(?:htm|html|pdf)$" row-url)
       row-url
       (let [fihrist-html (fetch-url-text! row-url StandardCharsets/UTF_8)

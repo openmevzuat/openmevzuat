@@ -363,15 +363,19 @@
   (let [new-lines-by-document-id (group-by search-line-document-id new-lines)
         updated-document-ids (set (keys new-lines-by-document-id))
         emitted-document-ids (atom #{})
-        merged-lines (mapcat
-                      (fn [line]
-                        (let [document-id (search-line-document-id line)]
-                          (if (contains? updated-document-ids document-id)
-                            (when-not (contains? @emitted-document-ids document-id)
-                              (swap! emitted-document-ids conj document-id)
-                              (get new-lines-by-document-id document-id))
-                            [line])))
-                      existing-lines)
+        ;; Realized eagerly: the appended lines below read the atom, so leaving
+        ;; this lazy would re-append every document whose existing lines sit
+        ;; past the first chunk.
+        merged-lines (vec
+                      (mapcat
+                       (fn [line]
+                         (let [document-id (search-line-document-id line)]
+                           (if (contains? updated-document-ids document-id)
+                             (when-not (contains? @emitted-document-ids document-id)
+                               (swap! emitted-document-ids conj document-id)
+                               (get new-lines-by-document-id document-id))
+                             [line])))
+                       existing-lines))
         appended-lines (mapcat new-lines-by-document-id
                                (remove @emitted-document-ids updated-document-ids))]
     (concat merged-lines appended-lines)))
