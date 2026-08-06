@@ -180,6 +180,28 @@
                    {:status 200
                     :headers {"content-type" "text/html"}
                     :body (.getBytes "<html>not a pdf</html>" "UTF-8")}))))
+  (testing "a rejected certification path fails without retrying"
+    (let [calls (atom 0)
+          error (binding [*err* (java.io.StringWriter.)]
+                  (try
+                    (fetch/request-with-retries!
+                     "https://example.test/source.pdf"
+                     (fn [_]
+                       (swap! calls inc)
+                       (throw (javax.net.ssl.SSLHandshakeException.
+                               "PKIX path building failed"
+                               (java.security.cert.CertPathBuilderException.
+                                "unable to find valid certification path to requested target"))))
+                     {:config {:attempts 5
+                               :request-delay-ms 0
+                               :backoff-ms 0
+                               :jitter-ms 0
+                               :max-backoff-ms 0
+                               :circuit-breaker-failures 3}})
+                    (catch Exception e e)))]
+      (is (= 1 @calls))
+      (is (= "TLS certificate validation failed for source URL" (.getMessage error)))
+      (is (true? (:tls/trust-failure? (ex-data error))))))
   (testing "connection failures can open the source circuit"
     (let [state @#'fetch/source-circuit-state
           url "https://example.test/source.pdf"

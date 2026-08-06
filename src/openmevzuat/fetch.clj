@@ -1,11 +1,13 @@
 (ns openmevzuat.fetch
   (:require [clojure.java.io :as io]
             [clojure.string :as str]
-            [hato.client :as http])
+            [hato.client :as http]
+            [openmevzuat.tls :as tls])
   (:import [java.nio.charset StandardCharsets]
            [java.nio.channels ClosedChannelException UnresolvedAddressException]
            [java.net ConnectException NoRouteToHostException SocketTimeoutException URI UnknownHostException]
            [java.net.http HttpConnectTimeoutException HttpTimeoutException]
+           [java.security.cert CertPathBuilderException CertPathValidatorException CertificateException]
            [java.time Instant ZonedDateTime]
            [java.time.format DateTimeFormatter]
            [java.util Date]
@@ -194,7 +196,8 @@
    :version :http-1.1
    :http-client {:connect-timeout connect-timeout-ms
                  :redirect-policy :normal
-                 :version :http-1.1}})
+                 :version :http-1.1
+                 :ssl-context (tls/ssl-context)}})
 
 (defn- origin-key [url]
   (let [uri (URI/create url)]
@@ -296,6 +299,13 @@
     (pdf-bytes->text body)
     (String. ^bytes body StandardCharsets/UTF_8)))
 
+(defn- certificate-exception? [e]
+  (boolean
+   (some #(or (instance? CertificateException %)
+              (instance? CertPathBuilderException %)
+              (instance? CertPathValidatorException %))
+         (cause-chain e))))
+
 (defn- retriable-exception? [e]
   (or (not (instance? clojure.lang.ExceptionInfo e))
       (:retry? (ex-data e))))
@@ -328,13 +338,18 @@
   (if-let [exception (:exception result)]
     (if (instance? clojure.lang.ExceptionInfo exception)
       exception
-      (ex-info "Failed to fetch source URL after retries"
+      (ex-info (:final-message result "Failed to fetch source URL after retries")
                (maybe-source-unreachable-data
-                {:url url
-                 :attempt attempt
-                 :attempts (:attempts config)
-                 :cause (exception-summary exception)
-                 :connection? (:connection? result)}
+                (cond-> {:url url
+                         :attempt attempt
+                         :attempts (:attempts config)
+                         :cause (exception-summary exception)
+                         :connection? (:connection? result)}
+                  (:tls-trust-failure? result)
+                  (assoc :tls/trust-failure? true
+                         :tls/hint (str "The source did not present a certification path the JDK trusts. "
+                                        "If it rotated to a new issuer, add that intermediate to resources/certs "
+                                        "and list it in openmevzuat.tls/bundled-certificate-resources.")))
                 (:connection? result))
                exception))
     (ex-info (:message result "Failed to fetch source URL after retries")
@@ -365,13 +380,27 @@
                                  :message message
                                  :data (merge (:data action) context))))
                       (catch Exception e
-                        (if (retriable-exception? e)
+                        (cond
+                          ;; A rejected certification path is deterministic, so
+                          ;; retrying it only delays a failure that needs a fix.
+                          (certificate-exception? e)
+                          {:ok? false
+                           :action :fail
+                           :message message
+                           :final-message "TLS certificate validation failed for source URL"
+                           :tls-trust-failure? true
+                           :reason (exception-summary e)
+                           :exception e}
+
+                          (retriable-exception? e)
                           {:ok? false
                            :action :retry
                            :message message
                            :reason (exception-summary e)
                            :connection? (connection-exception? e)
                            :exception e}
+
+                          :else
                           {:ok? false
                            :action :fail
                            :message message
@@ -432,7 +461,8 @@
                    (record-circuit-failure! url (:reason result)))
                  (if-let [e (circuit-open-error url config)]
                    (throw e)
-                   (if (< attempt attempts)
+                   (if (and (< attempt attempts)
+                            (not (certificate-exception? (:exception result))))
                      (let [delay-ms (retry-delay-ms config attempt result)]
                        (log-retry! url attempt attempts
                                    (str "source preflight failed: " (:reason result))
