@@ -65,6 +65,9 @@
 (defn law-document? [document]
   (= :law (:document/type document)))
 
+(defn decree-document? [document]
+  (= :decree (:document/type document)))
+
 (defn numeric-document-number [document]
   (try
     (Long/parseLong (str/trim (str (:document/number document))))
@@ -110,6 +113,16 @@
 
 (defn all-catalog-documents []
   (merged-documents (remove law-document? (configured-documents))
+                    (all-law-catalog-documents)))
+
+(defn resolvable-documents
+  "Documents an amendment law can name as affected. Amendment laws routinely
+  change Kanun Hükmünde Kararnameler alongside kanuns, so configured decrees
+  belong here too. The constitution is deliberately left out: it is already in
+  the Kanunlar catalog as law/2709, and adding it back would make every
+  reference to 2709 ambiguous."
+  []
+  (merged-documents (filter decree-document? (configured-documents))
                     (all-law-catalog-documents)))
 
 (defn selector->document-id [selector]
@@ -174,7 +187,7 @@
                          candidates)})))
 
 (defn resolve-affected-laws [affected-laws]
-  (let [documents (all-law-catalog-documents)
+  (let [documents (resolvable-documents)
         resolutions (mapv #(resolve-affected-law documents %) affected-laws)
         resolved-documents (->> resolutions
                                 (keep :document)
@@ -954,7 +967,11 @@
                    [(str (:law/number affected-law)
                          " - "
                          (or (:law/title affected-law) "Title unavailable"))
-                    (name reason)])))))))
+                    (name reason)]))
+                "\n"
+                "> Processed amendment state was not advanced because unresolved affected\n"
+                "> laws remain. Every later run re-detects and re-renders these amendment\n"
+                "> laws until they resolve or leave the lookback window.\n")))))
 
 (defn write-pr-body-when-configured! [body]
   (when-let [path (pr-body-output-path)]

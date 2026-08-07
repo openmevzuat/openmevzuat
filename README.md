@@ -10,6 +10,8 @@ OpenMevzuat, Türkiye mevzuatını resmi kamu kaynaklarından çekip madde bazl�
 
 Bu proje resmi kaynak değildir ve hukuki tavsiye sunmaz. Nihai kaynaklar mevzuat.gov.tr, Resmî Gazete ve Türkiye Büyük Millet Meclisi gibi resmi kurumlardır.
 
+Ayrıntılı Türkçe belgeler: [README.tr.md](README.tr.md)
+
 ## Status
 
 Experimental. Not an official source.
@@ -167,6 +169,32 @@ OPENMEVZUAT_FIXTURE_MODE=true clojure -M:openmevzuat build
 ```
 
 Fixture mode is not a substitute for official-source canonical data.
+
+## Environment variables
+
+Every variable is optional. Boolean variables accept `true`, `1`, or `yes`.
+
+| Variable | Default | Purpose |
+| --- | --- | --- |
+| `OPENMEVZUAT_UPDATE_WINDOW_DAYS` | `30` | Resmî Gazete lookback window for `update`. |
+| `OPENMEVZUAT_SNAPSHOT_DATE` | today (UTC) | Override the snapshot date recorded in manifests and metadata. |
+| `OPENMEVZUAT_PR_BODY_PATH` | unset | When set, `update` writes the automation PR body report to this path. |
+| `OPENMEVZUAT_FIXTURE_MODE` | unset | Read local fixtures instead of official sources. Development only. |
+| `OPENMEVZUAT_SKIP_UNREACHABLE_SOURCES` | unset | Exit cleanly instead of failing when an official source is unreachable. |
+| `OPENMEVZUAT_FETCH_ATTEMPTS` | `6` | Attempts per source request before giving up. |
+| `OPENMEVZUAT_FETCH_DELAY_MS` | `2500` | Minimum delay between consecutive source requests. |
+| `OPENMEVZUAT_FETCH_BACKOFF_MS` | `5000` | Base backoff after a failed attempt. |
+| `OPENMEVZUAT_FETCH_JITTER_MS` | `250` | Random jitter added to each backoff. |
+| `OPENMEVZUAT_FETCH_MAX_BACKOFF_MS` | `120000` | Upper bound on backoff growth. |
+| `OPENMEVZUAT_FETCH_CONNECT_TIMEOUT_MS` | `60000` | Connect timeout for source requests. |
+| `OPENMEVZUAT_FETCH_TIMEOUT_MS` | `300000` | Whole-request timeout for source requests. |
+| `OPENMEVZUAT_PREFLIGHT_ENABLED` | `true` | Probe source reachability before the main request. |
+| `OPENMEVZUAT_PREFLIGHT_ATTEMPTS` | `2` | Attempts for the preflight probe. |
+| `OPENMEVZUAT_CIRCUIT_BREAKER_FAILURES` | `3` | Consecutive failures before a source circuit opens. |
+| `OPENMEVZUAT_CATALOG_PAGE_SIZE` | `100` | Page size for the mevzuat.gov.tr catalog query. |
+| `OPENMEVZUAT_RESMIGAZETE_PAGE_SIZE` | `100` | Page size for the Resmî Gazete query. |
+
+The daily workflow sets tuned values for most of the fetch variables; the defaults above are what the CLI uses when nothing is set.
 
 ## License and Data
 

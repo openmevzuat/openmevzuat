@@ -559,3 +559,37 @@
                                         :law/title "Emniyet Teşkilat Kanun"}])]
       (is (empty? unresolved))
       (is (= ["law/t3-3201"] (mapv :document/id documents))))))
+
+(deftest affected-laws-resolve-configured-decrees
+  (with-redefs [core/catalog-law-documents
+                (fn []
+                  [{:document/id "law/2709"
+                    :document/type :law
+                    :document/number "2709"
+                    :document/title "TÜRKİYE CUMHURİYETİ ANAYASASI"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf"}])
+                core/configured-documents
+                (fn []
+                  [{:document/id "decree/khk-375"
+                    :document/type :decree
+                    :decree/subtype :khk
+                    :document/number "375"
+                    :document/title "657 Sayılı Devlet Memurları Kanunu ile Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanun Hükmünde Kararname"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.375.pdf"}
+                   {:document/id "constitution/1982"
+                    :document/type :constitution
+                    :document/number "2709"
+                    :document/title "Türkiye Cumhuriyeti Anayasası"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2709.pdf"}])]
+    (testing "an amendment law that changes a decree resolves it"
+      (let [{:keys [documents unresolved]}
+            (core/resolve-affected-laws [{:law/number "375"
+                                          :law/title "375 sayılı Kanun Hükmünde Kararname"}])]
+        (is (empty? unresolved))
+        (is (= ["decree/khk-375"] (mapv :document/id documents)))))
+    (testing "the configured constitution does not shadow its catalog kanun"
+      (let [{:keys [documents unresolved]}
+            (core/resolve-affected-laws [{:law/number "2709"
+                                          :law/title "Türkiye Cumhuriyeti Anayasası"}])]
+        (is (empty? unresolved))
+        (is (= ["law/2709"] (mapv :document/id documents)))))))
