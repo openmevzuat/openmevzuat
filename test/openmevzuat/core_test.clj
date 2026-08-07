@@ -188,10 +188,13 @@
                      "https://example.test/source.pdf"
                      (fn [_]
                        (swap! calls inc)
-                       (throw (javax.net.ssl.SSLHandshakeException.
-                               "PKIX path building failed"
-                               (java.security.cert.CertPathBuilderException.
-                                "unable to find valid certification path to requested target"))))
+                       ;; The (String, Throwable) ctor is missing on older JDKs, so
+                       ;; attach the cause separately to keep this runnable anywhere.
+                       (throw (doto (javax.net.ssl.SSLHandshakeException.
+                                     "PKIX path building failed")
+                                (.initCause
+                                 (java.security.cert.CertPathBuilderException.
+                                  "unable to find valid certification path to requested target")))))
                      {:config {:attempts 5
                                :request-delay-ms 0
                                :backoff-ms 0
