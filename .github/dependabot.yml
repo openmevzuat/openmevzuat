@@ -1,0 +1,13 @@
+version: 2
+
+updates:
+  # Clojure dependencies in deps.edn are not supported by Dependabot, so only
+  # the workflow actions are tracked here. Bump deps.edn manually.
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: weekly
+    commit-message:
+      prefix: "chore"
+    labels:
+      - dependencies

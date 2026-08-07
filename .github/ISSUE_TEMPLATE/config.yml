@@ -1,0 +1,9 @@
+blank_issues_enabled: true
+
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/openmevzuat/openmevzuat/security/advisories/new
+    about: Report privately instead of opening a public issue.
+  - name: Official legislation sources
+    url: https://www.mevzuat.gov.tr/
+    about: OpenMevzuat is not an official source. Verify legal text against mevzuat.gov.tr and Resmî Gazete.
