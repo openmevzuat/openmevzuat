@@ -42,6 +42,9 @@ güvenlik kriterlerini belirler. Bunları sağlayacak veya tedarik edecek gerçe
 yönelik sertifikasyon, yetkilendirme ve belgelendirme süreçlerini yönetir. Siber güvenlik
 yazılım, donanım, ürün ve hizmetlerinin belirlenecek standartlara uygun hale getirilmesini
 talep edebilir, bu talebe uyum sağlamayanların kullanılmasını önleyici tedbirler alabilir.
+i) (Ek:24/7/2026-7590/27 md.) Kanunlarla yetkili kılınan kurumlarca yasal dinleme ve
+müdahalenin yapılmasına teknik olanak sağlamak ve bu konuda gerekli düzenlemeleri
+yapmak.
 (2) Bu Kanun uyarınca yürütülen iş ve işlemler kapsamında kişisel veriler; hukuka ve
 dürüstlük kurallarına uygun şekilde, doğru ve gerektiğinde güncel olmak kaydıyla, belirli,
 açık ve meşru amaçlarla, işlendiği amaçla bağlantılı, sınırlı ve ölçülü olmak kaydıyla ve

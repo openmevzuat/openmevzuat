@@ -10,11 +10,11 @@ maddeye göre verilen yasaklama kararının bitiş tarihini izleyen günden itib
 kurum ve kuruluşlarının ihalelerine katılmaktan mahkeme kararıyla 58 inci maddenin ikinci
 fıkrasında sayılanlarla birlikte yasaklanırlar.
 
-60 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “belediyeler ile
+61 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “belediyeler ile
 bunlara bağlı birlik, müessese ve işletmelerde ise İçişleri” ibaresi “bunlara bağlı birlik, müessese ve
 işletmelerde İçişleri Bakanlığı; belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ise Çevre ve
 Şehircilik” şeklinde değiştirilmiştir.
-61 30/7/2003 tarihli ve 4964 sayılı Kanunun 35 inci maddesiyle bu fıkrada geçen “en geç otuz gün”
+62 30/7/2003 tarihli ve 4964 sayılı Kanunun 35 inci maddesiyle bu fıkrada geçen “en geç otuz gün”
 ibaresi, “en geç kırkbeş gün” olarak değiştirilmiştir.
 Bu Kanun kapsamında yapılan ihalelerden dolayı haklarında birinci fıkra gereğince ceza
 kovuşturması yapılarak kamu davası açılmasına karar verilenler ve 58 inci maddenin ikinci

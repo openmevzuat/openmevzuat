@@ -10,7 +10,7 @@ konsolosluklarına da ihbar veya şikâyette bulunulabilir.
 nedeniyle, ilgili kurum ve kuruluş idaresine yapılan ihbar veya şikâyet, gecikmeksizin ilgili
 Cumhuriyet Başsavcılığına gönderilir.
 (5) İhbar veya şikâyet yazılı veya tutanağa geçirilmek üzere sözlü olarak yapılabilir.
-(6) (Ek: 15/8/2017-KHK-694/145 md.; Aynen kabul: 1/2/2018-7078/140 md.)61 İhbar
+(6) (Ek: 15/8/2017-KHK-694/145 md.; Aynen kabul: 1/2/2018-7078/140 md.)60 İhbar
 ve şikâyet konusu fiilin suç oluşturmadığının herhangi bir araştırma yapılmasını gerektirmeksizin
 açıkça anlaşılması veya ihbar ve şikâyetin soyut ve genel nitelikte olması durumunda soruşturma
 yapılmasına yer olmadığına karar verilir. Bu durumda şikâyet edilen kişiye şüpheli sıfatı

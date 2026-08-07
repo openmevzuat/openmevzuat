@@ -11,4 +11,4 @@ soruşturma ve kovuşturmada ikinci fıkra hükmü uygulanır.
 alınarak çıkarılacak yönetmelikle düzenlenir.
 
 Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik görevinden
-yasaklanma55
+yasaklanma54

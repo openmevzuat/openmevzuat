@@ -25,6 +25,10 @@ kadar yeniden muayene edilmelerini Kurumdan isteyebilir.
 Bu Kanunda aksine bir hüküm bulunmadığı takdirde; iştirakçi iken, bu Kanunun
 yürürlüğe girdiği tarih itibarıyla bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendi
 kapsamına alınanlar, bu Kanunun yürürlüğe girdiği tarihten önce 5434 sayılı Kanun
+
+213 Bu madde başlığı “Önceki mevzuat hükümlerinin uygulanması, Devlet katkısı ve geçici iş göremezlik
+ödeneği” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 68 inci maddesiyle metne işlendiği şekilde
+değiştirilmiştir.
 hükümlerine tabi olarak çalışmış olup bu Kanunun 4 üncü maddesinin birinci fıkrasının (c)
 bendine tabi olarak yeniden çalışmaya başlayanlar ile bunların dul ve yetimleri hakkında bu
 Kanunla yürürlükten kaldırılan hükümleri de dahil 5434 sayılı Kanun hükümlerine göre işlem
@@ -64,7 +68,7 @@ Sağlık Kurulunca çalışma gücündeki kayıp oranının;
 a) %50 ilâ %59 arasında olduğu anlaşılan sigortalılar, en az 5760,
 b) %40 ilâ %49 arasında olduğu anlaşılan sigortalılar, en az 6480,
 gün uzun vadeli sigorta kolları primi bildirilmiş olması kaydıyla, haklarında bu fıkra
-hükümleri uygulanır.212
+hükümleri uygulanır.214
 Bu Kanunun yürürlüğe girdiği tarihte kamu idarelerinde hizmet akdi ile veya sözleşmeli
 olarak çalışanlardan; ilgili kanunları gereği 5434 sayılı Kanun ile ilgilendirilenler aynı statüde
 çalışmaya devam ettikleri sürece, bu Kanunun 4 üncü maddesinin birinci fıkrasının (c) bendine
@@ -75,9 +79,6 @@ kesenek ve karşılıkları, fiili hizmet zammı ve itibari hizmet süresi karş
 farkları hakkında 5434 sayılı Kanunun bu Kanunun yürürlüğe girmeden önceki hükümleri
 uyarınca işlem yapılır. (Değişik ikinci cümle: 31/7/2008-5797/3 md.) Geçici 12 nci maddenin
 ikinci fıkrası uyarınca kamu idarelerinin sağlık hizmetlerinin sağlanmasına ilişkin görevlerinin
-
-212 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibareleri
-“engelli” şeklinde değiştirilmiştir.
 Kurum tarafından devralındığı tarihten itibaren, kamu idarelerince bu kapsamdaki sigortalılar
 için her ay emekli keseneklerine esas aylıklarının %12’si oranında ayrıca genel sağlık sigortası
 primi ödenir. Bunlar için Kanunun 81 inci maddesinin (h) fıkrası uyarınca ödenecek ek
@@ -104,6 +105,9 @@ başarılı öğrenim süreleri de istekleri halinde; borçlanma talep tarihinde
 astsubay çavuşun emekli keseneğine ait unsurlar üzerinden, bu fıkradaki esaslar dâhilinde
 borçlandırılarak tahsil edilmek suretiyle hizmetten sayılır.
 Bu Kanunun yürürlük tarihinden önce, seçimler neticesinde belediye başkanı olarak
+
+214 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibareleri
+“engelli” şeklinde değiştirilmiştir.
 görev yapmış olup, bu Kanunun yürürlük tarihinden önce 5434 sayılı Kanunun bu Kanunla
 yürürlükten kaldırılan ek 68 inci maddesine göre makam tazminatı ve buna bağlı olarak temsil
 veya görev tazminatı ödenenler hariç olmak üzere, sosyal güvenlik kanunlarına göre emeklilik
@@ -173,13 +177,17 @@ derece, kademe ve ek göstergeleri ile emekli keseneğine esas aylığın hesab�
 toplamının müracaat tarihinde yürürlükte olan katsayı ile çarpımı sonucu bulunacak tutarlar esas
 alınarak, yine o tarihteki kesenek ve karşılık oranları borçlandırılmak suretiyle hizmetten sayılır.
 Bundan doğacak borç tutarının tamamı borcun tebliğ edildiği tarihten itibaren 31/12/2014
-tarihine kadar kendileri tarafından eşit taksitlerle veya defaten ödenir.213
+tarihine kadar kendileri tarafından eşit taksitlerle veya defaten ödenir.215
 (Ek fıkra: 4/7/2012-6353/85 md.) İç güvenlik veya istihbarat görevi ifa eden kamu
 kurum ve kuruluşlarınca yerine getirilen uçuş veya dalış hizmetleri sırasında, uçuşun havadaki
 ve yerdeki veya dalgıçlığın çeşitli sebep ve tesiri ile malul olanlar ile hayatını kaybedenler
 hakkında 5434 sayılı Kanunun mülga 64 üncü maddesi hükümleri aynen uygulanır.
 (Ek fıkra:4/12/2025-7566/26 md.) 15 inci maddesinin birinci fıkrasının (e) bendi
 hariç 5434 sayılı Kanun hükümlerine göre yapılan borçlanma tutarları ile 926 sayılı Kanunun
+
+215 13/2/2011 tarihli ve 6111 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “altı ay içerisinde”
+ibaresi “30/6/2011 tarihine kadar” şeklinde ve “iki yıl içinde” ibaresi “31/12/2014 tarihine kadar”
+şeklinde değiştirilmiştir.
 geçici 32 nci maddesi kapsamında Türk Silahlı Kuvvetlerinde geçmiş kabul edilen sürelere ait
 emekli keseneği ve kurum karşılık tutarlarının hesaplanmasında kesenek ve karşılık veya
 borçlanma oranı %45 olarak uygulanır.

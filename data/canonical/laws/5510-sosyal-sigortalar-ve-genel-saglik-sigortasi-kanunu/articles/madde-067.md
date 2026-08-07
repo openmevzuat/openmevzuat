@@ -41,7 +41,6 @@ c) İş kazası, meslek hastalığı, hastalık ve analık sigortalarından geç
 ödeneği alan sigortalının iş göremediği süre,
 d) Sigortalının greve iştirak etmesi veya işverenin lokavt yapması hallerinde geçen süre,
 sağlık hizmeti sunucusuna başvurduğu tarihten önceki son bir yıl içinde toplam 30 gün genel
-sağlık sigortası primi ödeme gün sayısı hesabında dikkate alınmaz.
 
 114 15/8/2017 tarihli ve 694 sayılı KHK’nin 154 üncü maddesiyle, bu fıkrada yer alan “bildirimi
 zorunlu bulaşıcı hastalıklar,” ibaresinden sonra gelmek üzere “madde bağımlılığı tedavisine yönelik
@@ -56,6 +55,7 @@ sonra bu hüküm 1/2/2018 tarihli ve 7073 sayılı Kanunun 78 inci maddesiyle ay
 prim ve prime ilişkin” ibaresi “21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendirilerek tecil ve taksitlendirmeleri devam
 edenler hariç 60 günden fazla prim ve prime ilişkin” olarak değiştirilmiştir.
+sağlık sigortası primi ödeme gün sayısı hesabında dikkate alınmaz.
 Ayrıca genel sağlık sigortalısı ve bakmakla yükümlü olduğu kişilerin sağlık
 hizmetlerinden ve diğer haklardan yararlanabilmeleri için sağlık hizmet sunucularına
 başvurduklarında acil haller hariç olmak üzere (acil hallerde ise acil halin sona ermesinden

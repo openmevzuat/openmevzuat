@@ -5,4 +5,4 @@ Emekliye ayrılma ve ölüm hallerinde o aya ait peşin ödenen aylık ve ödene
 alınmaz.
 
 Hâkim ve savcı yardımcılığından ve açıktan atanmada aylık ve ödeneğe hak
-kazanma:72
+kazanma:74

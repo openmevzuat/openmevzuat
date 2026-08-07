@@ -21,12 +21,12 @@ süre de dikkate alınır. (Değişik cümle:30/11/2022-7423/9 md.) Bu suretle e
 bilgileri kayıtlı olmaktan çıkarılan cihazlar son kullanıcılarına ait bir hat ile kullanıldığında,
 bu cihazların elektronik kimlik bilgileri başka bir işleme gerek kalmaksızın tekrar kayıtlı hâle
 
-13 6/2/2014 tarihli ve 6518 sayılı Kanunun 104 üncü maddesiyle bu maddeye üçüncü fıkrasından sonra
+15 6/2/2014 tarihli ve 6518 sayılı Kanunun 104 üncü maddesiyle bu maddeye üçüncü fıkrasından sonra
 gelmek üzere dördüncü ve beşinci fıkralar eklenmiş ve mevcut dördüncü fıkrası altıncı fıkra olarak
 teselsül ettirilmiştir.
 getirilir. (Ek cümle:30/11/2022-7423/9 md.) Elektronik kimlik bilgileri bu suretle tekrar
 kayıtlı hâle getirilemeyen cihazlar için Kurum düzenlemeleri çerçevesinde başvuru yapılması
-gerekir.14
+gerekir.16
 (4) (Ek:17/7/2019-7186/23 md.) Bu maddenin uygulanmasına ve cihaza ilişkin
 borcun ödenmemesi hâlinde cihazların MCKS üzerinden kullanıma kapatılmasına ilişkin usul
 ve esaslar Kurum tarafından belirlenir.

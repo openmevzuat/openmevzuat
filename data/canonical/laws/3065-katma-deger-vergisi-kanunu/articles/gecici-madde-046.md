@@ -17,5 +17,3 @@ ise 32 nci madde hükümleri uyarınca istisna kapsamında işlem yapan mükelle
 üzerine nakden veya mahsuben iade edilir.
 Hazine ve Maliye Bakanlığı istisna ve iadenin uygulamasına ilişkin usul ve esasları
 belirlemeye yetkilidir.
-
-Yürürlük:

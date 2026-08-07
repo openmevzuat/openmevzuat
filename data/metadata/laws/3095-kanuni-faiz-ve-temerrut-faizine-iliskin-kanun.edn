@@ -6,12 +6,12 @@
  :document/path
  "data/canonical/laws/3095-kanuni-faiz-ve-temerrut-faizine-iliskin-kanun",
  :document/sha256
- "f224ccfa3624652154d8ec888a52d4748af493bf59ed614568d3a1fdd79209ab",
+ "51ca4221e5dc38446eee621e3798b37fa985a015d297ec171d09277c7331fff6",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3095.pdf",
- :source/fetched-at #inst "2026-07-16T02:22:42.399-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-05T07:32:47.895-00:00",
+ :openmevzuat/baseline-date "2026-08-05",
+ :openmevzuat/generated-at #inst "2026-08-05T07:31:50.290-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -22,28 +22,28 @@
    :article/title "Kanuni faiz",
    :article/path "articles/madde-001.md",
    :article/sha256
-   "cb1d4fcc3d9eeb579a04702f8a0ad1230fbf78e9ac1fc10bbcb8495c4dc1c52b"}
+   "47389f9aee52d0aadc1f3e7c85f8f0c91e24ad544d6d38a963672964b4ff7352"}
   {:article/id "law/3095/article/2",
    :article/type :normal,
    :article/no "2",
-   :article/title nil,
+   :article/title "Temerrüt faizi",
    :article/path "articles/madde-002.md",
    :article/sha256
-   "d7c39f6e5aae62e7805a74c532a0cffb86e2e767f5f6a1112ad80fcb8058f847"}
+   "fe968edbdd4f1a43eefeac64028a03a8ff771fefff038f34988adeab034c7c63"}
   {:article/id "law/3095/article/3",
    :article/type :normal,
    :article/no "3",
    :article/title "Mürekkep faiz",
    :article/path "articles/madde-003.md",
    :article/sha256
-   "794b3e9da1dfac36482945ebbab0155999ba20ffab0eccbbdfaf2ba5d1b7e878"}
+   "53d6a43794630cf9c7923eeedd85ce1691f58493c139dc66c51221ae81f5e8dc"}
   {:article/id "law/3095/article/4",
    :article/type :normal,
    :article/no "4",
-   :article/title nil,
+   :article/title "Diğer kanunlardaki faizler",
    :article/path "articles/madde-004.md",
    :article/sha256
-   "77b78386406c5f0fe882a46ddc6d5cc60d3e8dc40c3cb723dc462b05c291f030"}
+   "a87ab45abac9fd36a18138ec9fa4109c5da5a0e2060672b2684d7f3aaea84c6c"}
   {:article/id "law/3095/article/4/a",
    :article/type :normal,
    :article/no "4/a",

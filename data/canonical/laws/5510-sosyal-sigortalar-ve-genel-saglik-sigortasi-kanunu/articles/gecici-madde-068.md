@@ -1,6 +1,6 @@
 # GEÇİCİ MADDE 68
 
-(Ek: 14/1/2016-6661/17 md.)245
+(Ek: 14/1/2016-6661/17 md.)247
 (1) Bu Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi kapsamında haklarında
 uzun vadeli sigorta kolları hükümleri uygulanan sigortalıları çalıştıran işverenlerce;
 a) 2015 yılının aynı ayına ilişkin Kuruma verilen aylık prim ve hizmet belgelerinde
@@ -14,6 +14,12 @@ sigortalılara ilişkin toplam prim ödeme gün sayısının,
 bulunacak tutar, bu işverenlerin Kuruma ödeyecekleri sigorta primlerinden mahsup edilir ve
 bu tutar Hazinece karşılanır.
 (2) Mevcut bir işletmenin kapatılarak değişik bir ad, unvan ya da bir iş birimi olarak
+
+247 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü maddesiyle, bu maddenin birinci fıkrasının (a)
+bendinde yer alan “2016 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde”
+ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamelerinde” ibaresi, aynı
+maddenin üçüncü fıkrasında yer alan “aylık prim ve hizmet belgelerini” ibaresinden sonra gelmek
+üzere “veya muhtasar ve prim hizmet beyannamelerini” ibaresi eklenmiştir.
 açılması veya yönetim ve kontrolü elinde bulunduracak şekilde doğrudan veya dolaylı
 ortaklık ilişkisi bulunan şirketler arasında istihdamın kaydırılması, şahıs işletmelerinde
 işletme sahipliğinin değiştirilmesi gibi Hazine katkısından yararlanmak amacıyla muvazaalı
@@ -30,12 +36,6 @@ bulunması hâllerinde bu maddenin birinci fıkrasının (b) bendine ilişkin h�
 uygulanmaz. Ancak Kuruma olan prim, idari para cezası ve bunlara ilişkin gecikme cezası ve
 gecikme zammı borçlarını 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü
 Hakkında Kanunun 48 inci maddesine göre tecil ve taksitlendiren işverenler bu tecil ve
-
-245 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü maddesiyle, bu maddenin birinci fıkrasının (a)
-bendinde yer alan “2016 yılında cari aya ilişkin verilen aylık prim ve hizmet belgelerinde”
-ibaresinden sonra gelmek üzere “veya muhtasar ve prim hizmet beyannamelerinde” ibaresi, aynı
-maddenin üçüncü fıkrasında yer alan “aylık prim ve hizmet belgelerini” ibaresinden sonra gelmek
-üzere “veya muhtasar ve prim hizmet beyannamelerini” ibaresi eklenmiştir.
 taksitlendirme devam ettiği sürece anılan fıkra hükmünden yararlandırılır.
 (4) Birinci fıkranın (a) bendinin uygulanmasında, bir önceki yılın aynı ayına ilişkin
 olarak aylık prim ve hizmet belgesi verilmemiş olması hâlinde bildirim yapılmış takip eden
@@ -52,11 +52,15 @@ bendinde belirtilen 85 TL günlük kazanç iki kat olarak ve 2015 yılının ayn
 Kuruma verilen aylık prim ve hizmet belgelerinde bildirilen prim ödeme gün sayısının yüzde
 50’sini geçmemek üzere, 2016 yılında cari aya ilişkin verilen aylık prim ve hizmet
 belgelerinde veya muhtasar ve prim hizmet beyannamelerinde bildirilen sigortalılara ilişkin
-toplam prim ödeme gün sayısı dikkate alınır.246
+toplam prim ödeme gün sayısı dikkate alınır.248
 (7) Bu madde hükümleri, 5018 sayılı Kanuna ekli (I) sayılı cetvelde sayılan kamu
 idarelerine ait kadro ve pozisyonlarda 4 üncü maddenin birinci fıkrasının (a) bendi kapsamında
 çalışan sigortalılar için uygulanmaz.
 (8) 4734 sayılı Kanunun 2 nci maddesinin birinci fıkrasının (a), (b), (c) ve (d)
+
+248 15/7/2016 tarihli ve 6728 sayılı Kanunun 54 üncü maddesiyle, bu fıkrada yer alan “2016 yılında
+cari aya ilişkin verilen aylık prim ve hizmet belgelerinde” ibaresinden sonra gelmek üzere “veya
+muhtasar ve prim hizmet beyannamelerinde” ibaresi eklenmiştir.
 bentlerinde sayılan idareler tarafından ilgili mevzuatı uyarınca yapılan ve sözleşmesinde fiyat
 farkı ödeneceği öngörülen hizmet alımlarında, ihale dokümanında personel sayısının
 belirlendiği ve haftalık çalışma saatinin tamamının idarede kullanılmasının öngörüldüğü
@@ -64,7 +68,7 @@ işçilikler için birinci fıkra uyarınca Hazine tarafından karşılanacak tu
 işverenlerin hak edişinden kesilir.
 (9) 2016 yılı Ocak ila Aralık aylarına/dönemlerine ilişkin yasal süresi dışında Kuruma
 verilen aylık prim ve hizmet belgelerinde veya Maliye Bakanlığına verilecek muhtasar ve
-prim hizmet beyannamelerinde kayıtlı sigortalılar için bu madde hükümleri uygulanmaz.247
+prim hizmet beyannamelerinde kayıtlı sigortalılar için bu madde hükümleri uygulanmaz.249
 (10) Bu maddenin uygulanmasına ilişkin usul ve esaslar Çalışma ve Sosyal Güvenlik
 Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığının görüşleri alınmak suretiyle Kurum
 tarafından belirlenir.

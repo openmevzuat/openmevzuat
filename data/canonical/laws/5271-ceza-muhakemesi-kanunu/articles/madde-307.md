@@ -7,7 +7,7 @@ olunamaması veya davetiye tebliğ olunmasına rağmen duruşmaya gelmemeleri ne
 bozmaya karşı beyanları saptanmamış olsa da duruşmaya devam edilerek dava yokluklarında
 bitirilebilir. Ancak, sanık hakkında verilecek ceza, bozmaya konu olan cezadan daha ağır ise,
 her hâlde dinlenmesi gerekir.
-(3) (Ek:20/2/2019-7165/9 md.)140 Yargıtaydan verilen bozma kararına uyulması
+(3) (Ek:20/2/2019-7165/9 md.)138 Yargıtaydan verilen bozma kararına uyulması
 hâlinde ilk derece mahkemesi tarafından verilen karara karşı, istinaf veya temyiz sınırlarına
 bakılmaksızın sadece temyiz yoluna başvurulabilir.
 (4) Yargıtaydan verilen bozma kararına bölge adliye veya ilk derece mahkemesinin
@@ -20,12 +20,12 @@ Genel Kurulunca verilen kararlara karşı direnilemez.
 maddede gösterilen kimselerce temyiz edilmişse, yeniden verilen hüküm, önceki hükümle
 belirlenmiş olan cezadan daha ağır olamaz.
 
-140 20/2/2019 tarihli ve 7165 sayılı Kanunun 9 uncu maddesiyle, ikinci fıkradan sonra gelmek üzere
+138 20/2/2019 tarihli ve 7165 sayılı Kanunun 9 uncu maddesiyle, ikinci fıkradan sonra gelmek üzere
 fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 
 ÜÇÜNCÜ KISIM
 Olağanüstü Kanun Yolları
 
 BİRİNCİ BÖLÜM
-Cumhuriyet Başsavcısının İtiraz Yetkisi141
+Cumhuriyet Başsavcısının İtiraz Yetkisi139
 Yargıtay Cumhuriyet Başsavcısının itiraz yetkisi

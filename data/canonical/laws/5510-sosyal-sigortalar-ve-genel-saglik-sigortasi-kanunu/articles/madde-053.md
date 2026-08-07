@@ -4,15 +4,15 @@
 maddenin birinci fıkrasının (a) ve (b) bentlerinde yer alan sigortalılık statüleri ile (c) bendinde
 yer alan sigortalılık statüsüne aynı anda tabi olacak şekilde Kanun kapsamına girmesi halinde
 öncelikle aynı maddenin birinci fıkrasının (c) bendi kapsamında, (a) ve (b) bentlerinde yer
-
-89 4/12/2025 tarihli ve 7566 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “%32’sidir” ibaresi
-“%33’üdür”, “%20’si” ibaresi “%21’i” şeklinde değiştirilmiştir.
 alan sigortalılık statülerine tabi olacak şekilde Kanun kapsamına girmesi halinde ise aynı
 maddenin birinci fıkrasının (a) bendi kapsamında sigortalı sayılır. Ancak, sigortalılık
 hallerinin çakışması nedeniyle Kanunun 4 üncü maddesinin birinci fıkrasının (a) bendi
 kapsamındaki sigortalılığı esas alınanlar, yazılı talepte bulunmak ve Kanunun 82 nci
 maddesine göre belirlenen prime esas kazanç alt sınırı ve üst sınırına ilişkin hükümler saklı
 olmak kaydıyla, esas alınmayan sigortalılık statüsü kapsamında talep tarihinden itibaren prim
+
+89 4/12/2025 tarihli ve 7566 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “%32’sidir” ibaresi
+“%33’üdür”, “%20’si” ibaresi “%21’i” şeklinde değiştirilmiştir.
 ödeyebilirler. Bu şekilde ödenen primler; iş kazası ve meslek hastalığı sigortasından sağlanan
 haklar yönünden, Kanunun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamında
 sigortalılık statüsünde, kısa vadeli sigorta kollarından sağlanan diğer yardımlar ile uzun vadeli
@@ -41,6 +41,11 @@ durumunda, ödenen primler birinci fıkraya göre esas alınan sigortalılık ha
 esas alınan sigortalılık halinde geçmiş kabul edilir.91
 (Değişik fıkra: 17/4/2008-5754/33 md.) Bu Kanunun yürürlüğe girdiği tarihten
 itibaren ilk defa sigortalı sayılanlardan 4 üncü maddenin birinci fıkrasının (a), (b) ve (c)
+bentlerinden birden fazlasına tabi olarak çalışmış olanların yaşlılık aylığı bağlanma
+taleplerinde, en fazla sigortalılığın geçtiği sigortalılık hali, hizmet sürelerinin eşit olması ile
+malûllük ve ölüm halleri ile yaş haddinden re’sen emekli olma, süresi kanunla belirlenen
+vazifelere atanma veya seçilme ve bağlı oldukları sigortalılık halinin kanunla değiştirilmesi
+durumunda ise son sigortalılık hali esas alınır.
 
 90 17/4/2017 tarihli ve 690 sayılı KHK’nin 40 ıncı maddesiyle, bu maddenin birinci fıkrasında yer alan
 “diğer sigortalılık durumu” ibaresinden sonra gelmek üzere “, 4 üncü maddenin birinci fıkrasının (b)
@@ -50,8 +55,3 @@ ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7077 sayılı Kanun
 aynen kabul edilerek kanunlaşmıştır.
 91 13/2/2011 tarihli ve 6111 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Sigortalının,”
 ibaresi “Birinci fıkra hükmü saklı olmak üzere sigortalının,” olarak değiştirilmiştir.
-bentlerinden birden fazlasına tabi olarak çalışmış olanların yaşlılık aylığı bağlanma
-taleplerinde, en fazla sigortalılığın geçtiği sigortalılık hali, hizmet sürelerinin eşit olması ile
-malûllük ve ölüm halleri ile yaş haddinden re’sen emekli olma, süresi kanunla belirlenen
-vazifelere atanma veya seçilme ve bağlı oldukları sigortalılık halinin kanunla değiştirilmesi
-durumunda ise son sigortalılık hali esas alınır.

@@ -1,34 +1,34 @@
-# MADDE 248 — Zorlama amaçlı elkoyma ve teminat belgesi88
+# MADDE 248 — Zorlama amaçlı elkoyma ve teminat belgesi86
 
 (1) Kaçağın Cumhuriyet savcısına başvurmasını veya duruşmaya
 gelmesini sağlamak amacıyla Türkiye'de bulunan mallarına, hak ve alacaklarına amaçla
 orantılı olarak Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi veya mahkeme
 kararıyla elkonulabilir ve gerektiğinde idaresi için kayyım atanır. Elkoyma ve kayyım atama
-kararı müdafiine bildirilir.89
+kararı müdafiine bildirilir.87
 (2) Birinci fıkra hükmü;
 a) Türk Ceza Kanununda tanımlanan;
+
+ve “ise,” ibarelerinden sonra gelmek üzere “Cumhuriyet savcısı veya” ibaresi ve aynı fıkranın (a) bendine
+“gazete ile” ibaresinden sonra gelmek üzere “şüpheli veya” ibaresi eklenmiştir.
+84 Bu maddeye 25/5/2005 tarihli ve 5353 sayılı Kanunun 31 inci maddesiyle ikinci fıkra eklenmiş ve
+diğer fıkralar buna göre teselsül ettirilmiştir.
+85 2/1/2017 tarihli ve 680 sayılı KHK’nin 12 nci maddesiyle, bu bende “başvurmayan” ibaresinden
+sonra gelmek üzere “şüpheli veya” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072
+sayılı Kanunun 11 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+86 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu maddenin birinci fıkrasına
+“sanığın” ibaresinden sonra gelmek üzere “Cumhuriyet savcısına başvurmasını veya” ibaresi ve
+“orantılı olarak” ibaresinden sonra gelmek üzere “Cumhuriyet savcısının istemi üzerine sulh ceza
+hâkimi veya” ibaresi eklenmiş; ikinci fıkrasının (a) bendine (16) numaralı alt bendinden sonra gelmek
+üzere (17) numaralı alt bent eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
+87 2/1/2017 tarihli ve 680 sayılı KHK’nin 13 üncü maddesiyle, bu fıkrada yer alan “Kaçak sanığın”
+ibaresi “Kaçağın” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
+Kanunun 12 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 1. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
 2. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80),
 3. Hırsızlık (madde 141, 142),
 4. Yağma (madde 148, 149),
 5. Güveni kötüye kullanma (madde 155),
 6. Dolandırıcılık (madde 157, 158),
-
-85 Bu maddeye 25/5/2005 tarihli ve 5353 sayılı Kanunun 31 inci maddesiyle ikinci fıkra eklenmiş ve
-diğer fıkralar buna göre teselsül ettirilmiştir.
-86 2/1/2017 tarihli ve 680 sayılı KHK’nin 12 nci maddesiyle, bu bende “başvurmayan” ibaresinden
-sonra gelmek üzere “şüpheli veya” ibaresi eklenmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072
-sayılı Kanunun 11 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
-87 Anayasa Mahkemesinin 10/7/2025 tarihli ve E.: 2024/98, K.: 2025/149 sayılı Kararı ile bu fıkra iptal
-edilmiştir. Bu Karar yayımlanmasından başlayarak dokuz ay (30/9/2026) sonra yürürlüğe girer.
-88 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu maddenin birinci fıkrasına
-“sanığın” ibaresinden sonra gelmek üzere “Cumhuriyet savcısına başvurmasını veya” ibaresi ve
-“orantılı olarak” ibaresinden sonra gelmek üzere “Cumhuriyet savcısının istemi üzerine sulh ceza
-hâkimi veya” ibaresi eklenmiş; ikinci fıkrasının (a) bendine (16) numaralı alt bendinden sonra gelmek
-üzere (17) numaralı alt bent eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
-89 2/1/2017 tarihli ve 680 sayılı KHK’nin 13 üncü maddesiyle, bu fıkrada yer alan “Kaçak sanığın”
-ibaresi “Kaçağın” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
-Kanunun 12 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 7. Hileli iflas (madde 161),
 8. Uyuşturucu veya uyarıcı madde imal ve ticareti (madde 188),
 9. Parada sahtecilik (madde 197),
@@ -55,21 +55,19 @@ tanımlanan suçlar,
 Hakkında uygulanır.
 (3) Elkonulan mal, hak ve alacakların korunmasında, elkoymaya ilişkin hükümler
 uygulanır. Tedbirlere ilişkin kararların özetinin bir gazetede ilânına sulh ceza hâkimince veya
-mahkemece karar verilebilir.90
+mahkemece karar verilebilir.88
 (4) Kaçak yakalandığında veya kendiliğinden gelerek teslim olduğunda elkoymanın
 kaldırılmasına karar verilir.
 (5) Kaçak hakkında 100 üncü ve sonraki maddeler gereğince, sulh ceza hâkimi veya
 mahkeme tarafından yokluğunda tutuklama kararı verilebilir.
+
+88 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “ilânına”
+ibaresinden sonra gelmek üzere “sulh ceza hâkimince veya” ibaresi eklenmiştir.
 (6) Sulh ceza hâkimi veya mahkeme elkoymaya karar verdiğinde, kaçağın yasal olarak
 bakmakla yükümlü bulunduğu yakınlarının alınan tedbirler nedeniyle yoksulluğa
 düşebileceklerini saptarsa, bunların geçimlerini sağlamak üzere, elkonulan mal varlığından
-sosyal durumları ile orantılı miktarda yardımda bulunulması konusunda kayyıma izin verir.91
+sosyal durumları ile orantılı miktarda yardımda bulunulması konusunda kayyıma izin verir.89
 (7) 246 ncı madde hükmü kaçaklar hakkında da uygulanır.
-
-90 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “ilânına”
-ibaresinden sonra gelmek üzere “sulh ceza hâkimince veya” ibaresi eklenmiştir.
-91 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Mahkeme”
-ibaresi “Sulh ceza hâkimi veya mahkeme” şeklinde değiştirilmiştir.
 (8) Bu kararlara karşı itiraz edilebilir.
 
 ÜÇÜNCÜ BÖLÜM

@@ -12,6 +12,6 @@ Noterlik işleminin başka bir noter aracılığı ile yapıldığı hallerde, a
 Tanıklık ve onaylama şerhlerinden yazı ücreti alınmaz.
 (Değişik: 16/11/1989 - 3588/8 md.) Tarifede gerekli görülecek değişiklikler her
 takvim yılı başından geçerli olmak üzere yapılır. Yeni tarife yürürlüğe girinceye kadar eski
-tarife uygulanır.13
+tarife uygulanır.14
 
 Sayfa hesabı:

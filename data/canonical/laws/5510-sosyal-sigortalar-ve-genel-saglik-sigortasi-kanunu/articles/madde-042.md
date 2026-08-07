@@ -9,4 +9,9 @@ BEŞİNCİ BÖLÜM
 Kamu Görevlilerine İlişkin Hükümler
 Cumhurbaşkanlığı, Türkiye Büyük Millet Meclisi Başkanlığı, Başbakanlık,
 Cumhurbaşkanı yardımcılığı, Bakanlık ve Türkiye Büyük Millet Meclisi üyeliği görevinde
-bulunanların aylıkları697071
+
+67 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “%32’si” ibaresi
+“(a) bendinde bulunanlar için %32’si diğerleri için %45’i”, “%20” ibaresi “%39” şeklinde
+değiştirilmiştir.
+68 Bu madde başlığı “Bildirim ve itiraz” iken, 17/4/2008 tarihli ve 5754 sayılı Kanunun 65 inci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.

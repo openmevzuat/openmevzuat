@@ -3,9 +3,9 @@
  :catalog/source-url "https://www.mevzuat.gov.tr/#kanunlar",
  :catalog/api-url
  "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable",
- :catalog/fetched-at #inst "2026-07-16T00:56:27.065-00:00",
- :catalog/records-total 914,
- :catalog/documents-total 914,
+ :catalog/fetched-at #inst "2026-08-05T07:31:38.858-00:00",
+ :catalog/records-total 915,
+ :catalog/documents-total 915,
  :catalog/duplicate-numbers
  ["7"
   "477"
@@ -12486,4 +12486,18 @@
    :mevzuat/tertip "5",
    :resmi-gazete/date "22.05.2026",
    :resmi-gazete/issue "33261",
-   :law/adoption-date "07.05.2026"}]}
+   :law/adoption-date "07.05.2026"}
+  {:document/id "law/7589",
+   :document/type :law,
+   :document/number "7589",
+   :document/title
+   "YARGININ ETKİN VE VERİMLİ İŞLEMESİNE YÖNELİK BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7589.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7589&MevzuatTur=1&MevzuatTertip=5",
+   :mevzuat/tur 1,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "31.07.2026",
+   :resmi-gazete/issue "33326",
+   :law/adoption-date "16.07.2026"}]}

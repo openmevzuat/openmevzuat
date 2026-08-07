@@ -1,4 +1,4 @@
-# MADDE 204 — Prim borcunu ve noter aidatını ödememenin sonucu:31
+# MADDE 204 — Prim borcunu ve noter aidatını ödememenin sonucu:32
 
 Topluluk sigortası primlerini, topluluk sözleşmesinde gösterilen zamanda
 ödemiyen notere, birikmiş prim borcunu sözleşmedeki şartlar dairesinde ödeyinceye kadar işten el

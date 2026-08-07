@@ -8,10 +8,6 @@ ya da her ikisine birden kayıtları bulunmakla birlikte üye kayıtlarının me
 yapılmadığının tespit edilmesi üzerine, Kuruma kayıt ve tescili yapılmakla birlikte, 4 üncü
 maddenin birinci fıkrasının (b) bendi kapsamındaki sigortalılık süreleri geçersiz sayılarak
 iptal edilen sigortalılardan 22/3/1985 tarihinden sonraki sürelere ait prim, gecikme zammı ve
-
-242 31/3/2015 tarihli ve 29312 sayılı Resmi Gazete’de yayımlanan 23/3/2015 tarihli ve 2015/7470
-sayılı Bakanlar Kurulu Kararı Eki Kararın 1 inci maddesiyle, bu maddede yer alan başvuru süresinin
-maddede belirtilen sürenin bitiminden itibaren altı ay uzatılması kararlaştırılmıştır.
 gecikme cezalarının 31/12/2013 tarihine kadar ödenmiş olması şartıyla 4 üncü maddenin
 birinci fıkrasının (b) bendi kapsamındaki sigortalılıkları başlangıç tarihinden itibaren geçerli
 sayılır.

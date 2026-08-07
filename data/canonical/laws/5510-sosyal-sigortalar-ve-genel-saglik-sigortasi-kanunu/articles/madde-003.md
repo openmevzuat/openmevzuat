@@ -43,7 +43,6 @@ otuz gün olarak değerlendirilen süreyi,
 15) (Değişik: 17/4/2008-5754/1 md.) Yıl: Ücretleri; her ayın 15'inde ödenen 4 üncü
 maddenin birinci fıkrasının (a) ve (c) bentleri kapsamındaki sigortalılar için, 15 Ocak
 tarihinden ertesi yılın 15 Ocak tarihine kadar geçen, diğer sigortalılar için ise 1 Ocak ilâ 31
-Aralık tarihleri arasında geçen ve 360 gün olarak değerlendirilen süreyi,
 
 1 13/2/2011 tarihli ve 6111 sayılı Kanunun 23 üncü maddesiyle, (10) numaralı bentte yer alan “Bu
 Kanunun 60 ıncı maddesinin birinci fıkrasının (c) bendinin (1) ve (2) numaralı alt bentlerinin dışında
@@ -61,6 +60,7 @@ yürürlüğe girmek üzere kanunlaşmıştır.
 numaralı bendinde yer alan “yedinci, sekizinci ve onikinci fıkralarının” ibaresi “yedinci ve sekizinci
 fıkraları ile onikinci fıkrasındaki askeri öğrenci adayları ile Jandarma ve Sahil Güvenlik Akademisi
 öğrenci adayları” şeklinde değiştirilmiştir.
+Aralık tarihleri arasında geçen ve 360 gün olarak değerlendirilen süreyi,
 16) Gelir: İş kazası veya meslek hastalığı halinde sigortalıya veya sigortalının ölümü
 halinde hak sahiplerine, yapılan sürekli ödemeyi,
 17) (Değişik: 17/4/2008-5754/1 md.) Aylık: Malûllük, yaşlılık ve ölüm sigortaları ile

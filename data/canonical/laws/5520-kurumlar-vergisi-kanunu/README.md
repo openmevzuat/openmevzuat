@@ -82,5 +82,6 @@
 - [GEÇİCİ MADDE 17](articles/gecici-madde-017.md)
 - [GEÇİCİ MADDE 18](articles/gecici-madde-018.md)
 - [GEÇİCİ MADDE 19](articles/gecici-madde-019.md)
+- [GEÇİCİ MADDE 20](articles/gecici-madde-020.md)
 - [MADDE 37 — Yürürlük](articles/madde-037.md)
 - [MADDE 38 — Yürütme](articles/madde-038.md)

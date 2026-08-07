@@ -13,6 +13,10 @@ fazla olamaz.
 içinde ödenir. Bu süre içinde ödenmeyen ve kesinleşen idari para cezaları, Kurumun bildirimi
 üzerine 21/7/1953 tarihli ve 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
 hükümlerine göre vergi dairelerince tahsil edilir.
+
+1 24/7/2026 tarihli ve 7590 sayılı Kanunun 27 nci maddesiyle bu fıkraya “(b)” ibaresinden önce
+gelmek üzere “(a),” ibaresi eklenmiştir.
+
 (4) Tahsil edilen idari para cezalarının yüzde ellisi Başkanlık bütçesine, yüzde ellisi
 genel bütçeye gelir kaydedilir. Başkanlığın tahsil ettiği idari para cezalarından ayrılan genel
 bütçe payı; vergi dairesince tahsil edilen idari para cezalarından ayrılan Başkanlık

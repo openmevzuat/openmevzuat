@@ -1,6 +1,6 @@
 # MADDE 52
 
-Olağanüstü hallerde, (…)54 seferberlik ve savaş halinde o bölgelerde
+Olağanüstü hallerde, (…)55 seferberlik ve savaş halinde o bölgelerde
 görevli hakim ve savcılar çekilme istekleri kabul edilmedikçe veya yerlerine atanacaklar gelip
 işe başlamadıkça görevlerini bırakamazlar.
 Yukarıdaki fıkraya aykırı hareket edenler bir daha mesleğe alınmazlar ve kamu kurum

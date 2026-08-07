@@ -8,6 +8,6 @@ tarihten önce başlamış olanların genel sağlık sigortalılıkları söz ko
 girdiği tarihten itibaren başlar ve yabancı uyruklu öğrenciler ilgili üniversitelerce, stajyerler
 Türkiye Barolar Birliğince bu tarihten itibaren bir ay içerisinde genel sağlık sigortası giriş
 
-232 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “esaslarına göre”
+234 4/12/2025 tarihli ve 7566 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “esaslarına göre”
 ibaresi “esaslarına göre %45 oranı üzerinden” şeklinde değiştirilmiştir.
 bildirgesiyle Kuruma bildirilir.

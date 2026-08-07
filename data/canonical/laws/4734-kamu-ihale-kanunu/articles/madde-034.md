@@ -8,7 +8,7 @@ yerine düzenlenen belgeler.
 İlgili mevzuatına göre Türkiye’de faaliyette bulunmasına izin verilen yabancı bankaların
 düzenleyecekleri teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri
 kredi kuruluşlarının kontrgarantisi üzerine Türkiye’de faaliyette bulunan bankaların veya özel
-finans kurumlarının düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.33
+finans kurumlarının düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.34
 (c) bendinde belirtilen senetler ve bu senetler yerine düzenlenen belgelerden nominal
 değere faiz dahil edilerek ihraç edilenler, anaparaya tekabül eden satış değeri üzerinden teminat
 olarak kabul edilir.

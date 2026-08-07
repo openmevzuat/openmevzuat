@@ -1,6 +1,10 @@
 # MADDE 134
 
 (Değişik: 18/2/1965-538/63 md.)
+
+53 24/11/2021 tarihli ve 7343 sayılı Kanunun 22 nci maddesiyle bu fıkrada yer alan “kararı verir” ibaresi
+“kararı verir ve masrafını gider avansından karşılamak suretiyle dosyayı resen yetkili icra mahkemesine
+gönderir” şeklinde değiştirilmiştir.
 İcra dairesi tarafından taşınmaz kendisine ihale edilen alıcı o taşınmazın mülkiyetini
 iktisap etmiş olur. (Ek cümle: 17/7/2003-4949/38 md.) İhale kesinleşinceye kadar taşınmazın
 ne şekilde muhafaza ve idare edileceği icra dairesi tarafından kararlaştırılır. (Ek
@@ -74,6 +78,13 @@ alıcıya teslim edilmedikçe veya teslime hazır hâle getirilmedikçe ihale be
 durumlarda ihale icra müdürü tarafından iptal olunarak ihale bedeli alıcısına ödenir.
 Satış ilanı tebliğ edilmemiş veya satılan malın esaslı vasıflarındaki hataya veya ihalede
 fesada bilahare vakıf olunmuşsa şikayet müddeti ıttıla tarihinden başlar. Şu kadar ki, bu
+
+54 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkrada yer alan “ikinci fıkrada” ibaresi
+“beşinci fıkrada” şeklinde değiştirilmiştir.
+55 24/11/2021 tarihli ve 7343 sayılı Kanunun 27 nci maddesiyle bu fıkraya “kararı verir” ibaresinden sonra
+gelmek üzere “ve masrafını gider avansından karşılamak suretiyle dosyayı resen görevli veya yetkili icra
+mahkemesine gönderir” ibaresi eklenmiştir.
+
 müddet ihalenin yapıldığına ilişkin kararın elektronik satış portalında ilan edildiği tarihten
 itibaren bir seneyi geçemez.56
 İhalenin feshini şikayet yolu ile talep eden ilgili, vakı yolsuzluk neticesinde kendi

@@ -15,7 +15,7 @@
 - [MADDE 4](articles/madde-004.md)
 - [MADDE 5 — Gelir kaynakları:8](articles/madde-005.md)
 - [MADDE 6](articles/madde-006.md)
-- [MADDE 7 — Ayrıcalıklar:11](articles/madde-007.md)
+- [MADDE 7 — Ayrıcalıklar:12](articles/madde-007.md)
 - [MADDE 8](articles/madde-008.md)
 - [MADDE 9](articles/madde-009.md)
 - [MADDE 10](articles/madde-010.md)

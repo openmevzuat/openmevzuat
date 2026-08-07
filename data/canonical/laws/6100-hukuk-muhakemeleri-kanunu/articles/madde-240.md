@@ -7,8 +7,8 @@ listede gösterilmemiş olan kimseler tanık olarak dinlenemez ve ikinci bir lis
 (3) Tanık listesinde adres gösterilmemiş veya gösterilen adreste tanık bulunamamışsa,
 tarafa adres göstermesi için, işin niteliğine uygun kesin süre verilir. Bu süre içinde adres
 gösterilmez veya gösterilen yeni adres de doğru değilse, bu tanığın dinlenilmesinden vazgeçilmiş
-sayılır.
 
 25 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin başlığında yer alan
 “özürlülerin” ibaresi “engellilerin”, birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde
 değiştirilmiştir.
+sayılır.

@@ -5,11 +5,6 @@ Mahkeme, kesin mühlet hakkındaki kararını geçici mühlet içinde verir.
 Kesin mühlet hakkında bir karar verilebilmesi için, mahkeme borçluyu ve varsa
 konkordato talep eden alacaklıyı duruşmaya davet eder. Geçici komiser, duruşmadan önce
 yazılı raporunu sunar ve mahkemece gerekli görülürse, beyanı alınmak üzere duruşmada hazır
-
-88 Bu maddenin “Mühletin ilanı:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 16 ncı maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-89 Bu maddenin “Mühletin alacaklılar bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
-Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 bulunur. Mahkeme yapacağı değerlendirmede, itiraz eden alacaklıların dilekçelerinde ileri
 sürdükleri itiraz sebeplerini de dikkate alır.
 Konkordatonun başarıya ulaşmasının mümkün olduğunun anlaşılması hâlinde
@@ -22,6 +17,11 @@ olmak kaydıyla ayrıca bir alacaklılar kurulu oluşturulabilir. Bu durumda ala
 nitelik itibarıyla birbirinden farklı olan alacaklı sınıfları ve varsa rehinli alacaklılar, alacaklılar
 kurulunda hakkaniyete uygun şekilde temsil edilir. Alacaklılar kurulu oluşturulurken
 komiserin de görüşü alınır. Alacaklılar kurulu her ay en az bir kere toplanır ve hazır
+
+88 Bu maddenin “Mühletin ilanı:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı Kanunun 16 ncı maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
+89 Bu maddenin “Mühletin alacaklılar bakımından sonuçları:” olan başlığı, 28/2/2018 tarihli ve 7101 sayılı
+Kanunun 17 nci maddesiyle metne işlendiği şekilde değiştirilmiştir.
 bulunanların oy çokluğuyla karar alır. Komiser bu toplantıda hazır bulunarak alınan kararları
 toplantıya katılanların imzasını almak suretiyle tutanağa bağlar. Alacaklı sayısı, alacak
 miktarı ve alacakların çeşitliliği dikkate alınarak alacaklılar kurulunun zorunlu olarak

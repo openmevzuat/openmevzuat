@@ -12,9 +12,6 @@ tarihten itibaren karara karşı bir ay içinde mahkemeye başvurarak bu kararı
 hakem veya hakemlerin reddine ilişkin talep hakkında karar verilmesini isteyebilir.
 (4) Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu ortadan
 kaldıracak sayıda hakemin reddi için ancak mahkemeye başvurulabilir. Mahkemenin bu fıkra
-
-68 28/2/2018 tarihli ve 7101 sayılı Kanunun 58 inci maddesi ile bu fıkrada yer alan “temyiz yoluna”
-ibaresi “kanun yoluna” şeklinde değiştirilmiştir.
 uyarınca vereceği kararlara karşı kanun yoluna başvurulamaz.69
 (5) Seçilen hakemin veya hakem kurulunun tümünün ya da karar çoğunluğunu ortadan
 kaldıracak sayıda hakemin ret talebini mahkemenin kabul etmesi hâlinde tahkim sona erer.

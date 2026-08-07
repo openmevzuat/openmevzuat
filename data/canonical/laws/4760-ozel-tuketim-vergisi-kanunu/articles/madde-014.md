@@ -16,10 +16,6 @@ iktisap ile ilgili işlemlerin tamamlanmasından önce bu işlemlerin yapıldı�
 verilir ve vergi aynı günde ödenir.
 3. İthalatta alınan vergi, ilgili gümrük idaresince hesaplanır ve gümrük mevzuatına göre
 kabul edilen beyanname veya diğer belgeler üzerine imza alınmak suretiyle mükellefe, kanunî
-
-37 30/11/2022 tarihli ve 7423 sayılı Kanunun 7 nci maddesiyle bu fıkraya “(yalnız tütün yerine geçen
-maddelerden yapılmış sigaralar)” ibaresinden sonra gelmek üzere “ile 4813.10.00.80.00 (makaron)”
-ibaresi eklenmiştir.
 temsilcisine veya gümrük müşavirine tebliğ edilir. Bu tebliğ üzerine ortaya çıkacak ihtilaflar için
 ithalat vergilerinin tâbi olduğu usul ve esaslar uygulanır. Bu vergi, ithalat vergileri ile aynı
 zamanda ödenir. İthalat vergilerine tâbi olmayan mallara ait vergi, gümrük mevzuatına göre

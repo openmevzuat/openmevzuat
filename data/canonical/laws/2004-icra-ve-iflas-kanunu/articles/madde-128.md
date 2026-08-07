@@ -8,6 +8,9 @@ mühlet verir. 96 ve 97 nci maddeler hükümleri burada da caridir.
 taşınmazın kıymetinin takdirinde, taşınmaz üzerindeki mükellefiyetlerin kıymete olan etkisi
 de nazara alınır. (Ek cümle: 17/7/2003-4949/33 md.) Taşınmazın önceden takdir edilen
 kıymetini etkileyen mükellefiyetlerin ortaya çıkması hâlinde, icra dairesi satışa esas olmak
+
+52 24/11/2021 tarihli ve 7343 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “elektronik ortamda”
+ibaresi “elektronik satış portalında” şeklinde değiştirilmiştir.
 üzere taşınmazın kıymetini yeniden takdir ettirir. Kıymet takdirine ilişkin rapor borçluya,
 haciz koydurmuş alacaklılara ve diğer ipotekli alacaklılara tebligatın yapıldığı icra
 dosyasındaki, ayrıca bildirilmiş bulunması hali müstesna olmak üzere, tapudaki mevcut
@@ -23,9 +26,6 @@ ilgili kurumlardan bu mallar üzerindeki vergi, resim, harç gibi yükümlülük
 isteyen alacaklının talebi üzerine bu mallar satış dışında tutulabileceği gibi, üzerlerindeki
 vergi, resim, harç gibi malın aynından kaynaklanan kamu alacakları dikkate alınarak 129 uncu
 madde hükümlerine göre taşınmazla birlikte ihale de edilebilir.
-
-52 24/11/2021 tarihli ve 7343 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “elektronik ortamda”
-ibaresi “elektronik satış portalında” şeklinde değiştirilmiştir.
 (Ek fıkra: 28/2/2018-7101/1 md.) Ticari ve ekonomik bütünlük arz eden ya da bir
 bütün hâlinde satıldığı takdirde daha yüksek gelir elde edileceği anlaşılan mal ve haklar bir
 bütün olarak paraya çevrilir.

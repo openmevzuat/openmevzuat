@@ -95,7 +95,7 @@ ve desteklediği araştırma-geliştirme projeleri için gerekli olan mal ve hiz
 finansmanının tamamı Kanun kapsamındaki bir idare tarafından karşılanarak elde edilen
 sonuçların bu idare tarafından sadece kendi faaliyetlerinin yürütülmesinde faydalanıldığı haller
 hariç, her türlü araştırma ve geliştirme hizmeti alımları,
-g) 2 nci maddenin birinci fıkrasının (b) ve (d) bentlerinde sayılan kuruluşların, ticarî ve
+g) İdarelerin bütçe içi işletmeleri hariç 2 nci maddenin birinci fıkrasının (b) ve (d)
 
 4 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle; bu bentte yer alan “malzemeler” ibaresi
 “hizmetler” şeklinde değiştirilmiş, aynı bendin sonuna “ile araştırma-geliştirme faaliyetleri kapsamında
@@ -112,10 +112,11 @@ Sermaye İşletmeleri Genel Müdürlüğünden” ibaresi “Tasfiye İşleri D�
 Müdürlüğünden, sağlık alanında faaliyette bulunan idarelerin Türkiye Sağlık Enstitüleri Başkanlığı ile
 sermayesinin yarısından fazlası bu Başkanlığa ait şirketler tarafından sağlık alanında bizzat üretilen mal,
 hizmet ve danışmanlık hizmetleri için bu kuruluşlardan” şeklinde değiştirilmiştir.
-sınaî faaliyetleri çerçevesinde; doğrudan mal ve hizmet üretimine veya ana faaliyetlerine yönelik
-ihtiyaçlarının temini için yapacakları, Hazine garantisi veya doğrudan bütçenin transfer
-tertibinden aktarma yapmak suretiyle finanse edilenler dışındaki yaklaşık maliyeti ve sözleşme
-bedeli ikitrilyon üçyüzmilyar Türk Lirasını aşmayan mal veya hizmet alımları,7
+bentlerinde sayılan kuruluşların, ticarî ve sınaî faaliyetleri çerçevesinde; doğrudan mal ve hizmet
+üretimine veya ana faaliyetlerine yönelik ihtiyaçlarının temini için yapacakları, Hazine garantisi
+veya doğrudan bütçenin transfer tertibinden aktarma yapmak suretiyle finanse edilenler dışındaki
+yaklaşık maliyeti ve sözleşme bedeli ikitrilyon üçyüzmilyar Türk Lirasını aşmayan mal veya
+hizmet alımları,78
 h) Bu Kanun kapsamındaki idarelerin kendi özel mevzuatı uyarınca hak sahiplerine
 sağlayacakları teşhis ve tedaviye yönelik hizmet alımları ve 2/3/1927 tarihli ve 984 sayılı Ecza
 Ticarethaneleriyle Sanat ve Ziraat İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin
@@ -124,12 +125,12 @@ Müstahzarlar Kanunu kapsamında Sosyal Güvenlik Kurumu tarafından yurt dış�
 gerçekleştirilecek beşeri tıbbi ürün alımları ve bunlara ilişkin hizmet alımları ile tedavisi
 kurumlarınca üstlenilen kişilerin ayakta tedavisi sırasında reçeteye bağlanan ilaç ve tıbbî
 malzemelerin kişilerce alımları, sağlık hizmeti sunan bu Kanun kapsamındaki idarelerin teşhis ve
-tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları,89
+tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet alımları,910
 i) (Ek: 14/7/2004-5226/21 md.) 21.7.1983 tarihli ve 2863 sayılı Kültür ve Tabiat
 Varlıklarını Koruma Kanunu kapsamındaki taşınır ve taşınmaz kültür varlıklarının rölöve,
 restorasyon, restitüsyon ve konservasyon projeleri, sokak sağlıklaştırma, çevre düzenleme
 projeleri ve bunların uygulamaları ile değerlendirme, muhafaza, nakil işleri ve kazı çalışmalarına
-ilişkin mal ve hizmet alımları,10
+ilişkin mal ve hizmet alımları,11
 j) (Ek: 3/3/2005-5312/25 md.) Deniz Çevresinin Petrol ve Diğer Zararlı Maddelerle
 Kirlenmesinde Acil Durumlarda Müdahale ve Zararların Tazmini Esaslarına Dair Kanun
 hükümleri kapsamında, acil müdahale plânlarının hazırlanması ve bir olay meydana geldikten
@@ -138,19 +139,21 @@ sonra kirliliğe müdahale ve acil müdahale plânlarının icrası için acil o
 7 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
-8 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle bu bendin sonuna “sağlık hizmeti sunan bu
+8 24/7/2026 tarihli ve 7590 sayılı Kanunun 12 nci maddesiyle bu bende “2 nci maddenin” ibaresinden
+önce gelmek üzere “İdarelerin bütçe içi işletmeleri hariç” ibaresi eklenmiştir.
+9 20/11/2008 tarihli ve 5812 sayılı Kanunun 1 inci maddesiyle bu bendin sonuna “sağlık hizmeti sunan bu
 Kanun kapsamındaki idarelerin teşhis ve tedaviye yönelik olarak birbirlerinden yapacakları mal ve hizmet
 alımları,” ibaresi eklenmiştir.
-9 9/1/2025 tarihli ve 7538 sayılı Kanunun 3 üncü maddesiyle bu bende “tedaviye yönelik hizmet alımları”
+10 9/1/2025 tarihli ve 7538 sayılı Kanunun 3 üncü maddesiyle bu bende “tedaviye yönelik hizmet alımları”
 ibaresinden sonra gelmek üzere “ve 2/3/1927 tarihli ve 984 sayılı Ecza Ticarethaneleriyle Sanat ve Ziraat
 İşlerinde Kullanılan Zehirli ve Müessir Kimyevi Maddelerin Satıldığı Dükkanlara Mahsus Kanun ile
 14/5/1928 tarihli ve 1262 sayılı İspençiyari ve Tıbbi Müstahzarlar Kanunu kapsamında Sosyal Güvenlik
 Kurumu tarafından yurt dışından gerçekleştirilecek beşeri tıbbi ürün alımları ve bunlara ilişkin hizmet
 alımları” ibaresi eklenmiştir.
-10 28/12/2010 tarihli ve 6093 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “kapsamındaki”
+11 28/12/2010 tarihli ve 6093 sayılı Kanunun 14 üncü maddesiyle bu bentte yer alan “kapsamındaki”
 ibaresinden sonra gelmek üzere “taşınır ve taşınmaz” ibaresi ve “restitüsyon” ibaresinden sonra gelmek
 üzere “ ve konservasyon” ibaresi eklenmiştir.
-hizmet alımı ile araç, gereç ve malzeme alımı,11 (İptal ibare: Anayasa Mahkemesi’nin
+hizmet alımı ile araç, gereç ve malzeme alımı,12 (İptal ibare: Anayasa Mahkemesi’nin
 16/2/2023 tarihli ve E: 2021/27, K: 2023/26 sayılı Kararı ile.) (…)
 k) (Ek: 20/2/2008-5737/79 md.) Vakıf kültür varlıklarının onarımları ve restorasyonları
 ile çevre düzenlemesine ilişkin mal veya hizmet alımları,
@@ -165,7 +168,7 @@ program, haber, yapım ve yayınlarla ilgili olarak Anadolu Ajansı Türk Anonim
 yapacağı mal ve hizmet alımları ile uluslararası mükellefiyetlerden doğan veya ulusal amaçlı;
 savunma, güvenlik, insani yardım gibi durumlarda ortaya çıkabilecek acil ihtiyaçların, süratli ve
 etkin bir biçimde temini amacıyla, önceden güvenceler alınmasına olanak sağlayan anlaşmalar
-veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,12
+veya sözleşmeler yapmak suretiyle mal ve hizmet alımları,13
 o) (Ek: 25/6/2009-5917/31 md.; Değişik: 4/6/2016-6719/11 md.) Enerji ve Tabii
 Kaynaklar Bakanlığının bağlı, ilgili veya ilişkili kurum veya kuruluşlarının, faaliyetleri ile ilgili
 olarak birbirlerinden veya diğer kamu kurum ve kuruluşlarından karşılanan enerji, yakıt, mal,
@@ -173,22 +176,22 @@ hizmet, danışmanlık alımları ve büyük onarım işleri, TETAŞ tarafından
 elektrik enerjisi alımları,
 p) (Ek: 22/2/2007-5583/9 md.; Değişik: 3/6/2011-KHK-638/31 md.) Gençlik ve Spor
 Bakanlığının uluslararası gençlik faaliyetleri ile Spor Genel Müdürlüğü ve bağımsız spor
-federasyonlarının ulusal ve uluslararası sportif faaliyetlerine ilişkin mal ve hizmet alımları,13
+federasyonlarının ulusal ve uluslararası sportif faaliyetlerine ilişkin mal ve hizmet alımları,14
 r) (Ek: 13/2/2011-6111/177 md.) Fakir ailelere kömür yardımı yapılmasına ilişkin
 Cumhurbaşkanı kararları kapsamında; işleticisi kim olursa olsun, Türkiye Kömür İşletmeleri
 Kurumu Genel Müdürlüğünün kendisine veya bağlı ortaklık veya iştiraklerine ait olan kömür
-sahalarından yapacağı mal ve hizmet alımları,14
+sahalarından yapacağı mal ve hizmet alımları,15
 
-11 24/12/2020 tarihli ve 7261 sayılı Kanunun 28 inci maddesiyle bu bende “depozito yönetim sisteminin
+12 24/12/2020 tarihli ve 7261 sayılı Kanunun 28 inci maddesiyle bu bende “depozito yönetim sisteminin
 kurulması ve işletilmesi faaliyetlerine ilişkin olarak Türkiye Çevre Ajansının yapacağı mal ve hizmet
 alımları,” ibaresi eklenmiştir.
-12 27/3/2015 tarihli ve 6637 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Türk Hava Yolları
+13 27/3/2015 tarihli ve 6637 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Türk Hava Yolları
 Anonim Ortaklığından yapılacak hizmet alımları” ibaresinden sonra gelmek üzere “, Türkiye Radyo-
 Televizyon Kurumu Genel Müdürlüğünün her türlü program, haber, yapım ve yayınlarla ilgili olarak
 Anadolu Ajansı Türk Anonim Şirketinden yapacağı mal ve hizmet alımları” ibaresi eklenmiştir.
-13 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen “(k)” bendi, 13/2/2011 tarihli ve
+14 22/2/2007 tarihli ve 5583 sayılı Kanunun 9 uncu maddesi ile eklenen “(k)” bendi, 13/2/2011 tarihli ve
 6111 sayılı Kanunun 177 nci maddesi ile “(p)” bendi olarak teselsül ettirilmiştir.
-14 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulu
+15 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulu
 kararnameleri” ibaresi “Cumhurbaşkanı kararları” şeklinde değiştirilmiştir.
 s) (Ek: 31/3/2012-6288/5 md.; Değişik: 24/4/2013-6461/10 md.) Türkiye Cumhuriyeti
 Devlet Demiryolları İşletmesi Genel Müdürlüğü ile Türkiye Cumhuriyeti Devlet Demiryolları
@@ -230,7 +233,7 @@ MADDE 4 — Tanımlar
 Bu Kanunun uygulanmasında;
 Mal : Satın alınan her türlü ihtiyaç maddeleri ile taşınır ve taşınmaz mal ve hakları,
 Hizmet: (Değişik: 30/7/2003-4964/3 md.) Bakım ve onarım, taşıma, haberleşme, sigorta,
-araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, (…)15, tanıtım,
+araştırma ve geliştirme, muhasebe, piyasa araştırması ve anket, danışmanlık, (…)16, tanıtım,
 basım ve yayım, temizlik, yemek hazırlama ve dağıtım, toplantı, organizasyon, sergileme,
 koruma ve güvenlik, meslekî eğitim, fotoğraf, film, fikrî ve güzel sanat, bilgisayar sistemlerine
 yönelik hizmetler ile yazılım hizmetlerini, taşınır ve taşınmaz mal ve hakların kiralanmasını ve
@@ -263,7 +266,7 @@ ihale veya ön yeterlik dokümanı satın almış gerçek veya tüzel kişiyi ya
 ortak girişimi,
 Yerli istekli: (Değişik: 30/7/2003-4964/3 md.) Türkiye Cumhuriyeti vatandaşı gerçek
 
-15 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu tanımda yer alan “mimarlık ve
+16 20/11/2008 tarihli ve 5812 sayılı Kanunun 2 nci maddesiyle; bu tanımda yer alan “mimarlık ve
 mühendislik, etüt ve proje, harita ve kadastro, imar uygulama, her ölçekte imar planı” ibareleri metinden
 çıkarılmıştır.
 kişiler ile Türkiye Cumhuriyeti kanunlarına göre kurulmuş tüzel kişilikleri,
@@ -285,7 +288,7 @@ araştırmaları yapılmış olan, yapı elemanlarının ölçülendirilip boyut
 gereçleri ile teknik özelliklerinin belirtildiği projeyi,
 Uygulama projesi : Belli bir yapının onaylanmış kesin projesine göre yapının her türlü
 ayrıntısının belirtildiği projeyi,
-(…)16
+(…)17
 İhale : Bu Kanunda yazılı usul ve şartlarla mal veya hizmet alımları ile yapım işlerinin
 istekliler arasından seçilecek birisi üzerine bırakıldığını gösteren ve ihale yetkilisinin onayını
 müteakip sözleşmenin imzalanması ile tamamlanan işlemleri,
@@ -303,7 +306,7 @@ Sözleşme: Mal veya hizmet alımları ile yapım işlerinde idare ile yüklenic
 yapılan yazılı anlaşmayı,
 Kurum: Kamu İhale Kurumunu,
 
-16 14/7/2004 tarihli ve 5226 sayılı Kanunun 22 nci maddesiyle bu maddede yer alan “Röleve Projesi”,
+17 14/7/2004 tarihli ve 5226 sayılı Kanunun 22 nci maddesiyle bu maddede yer alan “Röleve Projesi”,
 “Restorasyon projesi” ve “Restitüsyon Projesi” tanımları, madde metninden çıkartılmıştır.
 Kurul : Kamu İhale Kurulunu,
 Ön ilan: (Ek: 20/11/2008-5812/2 md.) Yıl içerisinde ihale edilmesi planlanmış işlere
@@ -353,7 +356,7 @@ MADDE 6 — İhale Komisyonu
 İhale yetkilisi, biri başkan olmak üzere, ikisinin ihale konusu işin uzmanı
 olması şartıyla, ilgili idare personelinden en az dört kişinin ve muhasebe veya malî işlerden
 sorumlu bir personelin katılımıyla kurulacak en az beş ve tek sayıda kişiden oluşan ihale
-komisyonunu, yedek üyeler de dahil olmak üzere görevlendirir.17
+komisyonunu, yedek üyeler de dahil olmak üzere görevlendirir.18
 (Değişik ikinci fıkra: 30/7/2003-4964/5 md.) İhaleyi yapan idarede yeterli sayı veya nitelikte
 personel bulunmaması halinde, bu Kanun kapsamındaki idarelerden komisyona üye alınabilir.
 Gerekli incelemeyi yapmalarını sağlamak amacıyla ihale işlem dosyasının birer örneği,
@@ -380,18 +383,18 @@ MADDE 8
 Bu Kanunun 13 ve 63 üncü maddelerinin uygulanmasında yaklaşık maliyet
 dikkate alınarak kullanılacak eşik değerler aşağıda belirtilmiştir:
 a) (Değişik: 12/6/2002-4761/12 md.) Genel bütçeye dahil daireler ve katma bütçeli
-idarelerin mal ve hizmet alımlarında üçyüzmilyar Türk Lirası.18
+idarelerin mal ve hizmet alımlarında üçyüzmilyar Türk Lirası.19
 b) (Değişik: 12/6/2002-4761/12 md.) Kanun kapsamındaki diğer idarelerin mal ve hizmet
 
-17 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “,genel ve katma bütçeli
+18 22/12/2005 tarihli ve 5436 sayılı Kanunun 13 üncü maddesiyle, bu fıkrada yer alan “,genel ve katma bütçeli
 kuruluşlarda maliye memurunun, diğerlerinde ise” ibaresi, “ve” şeklinde değiştirilmiştir.
-18 Bu bentlerde yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile
+19 Bu bentlerde yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile
 ilgili olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun
 2025/1 No.’lu Kamu İhale Tebliğine bakınız.
 
-alımlarında beşyüzmilyar Türk Lirası.18
+alımlarında beşyüzmilyar Türk Lirası.19
 c) (Değişik: 12/6/2002-4761/12 md.) Kanun kapsamındaki idarelerin yapım işlerinde
-onbirtrilyon Türk Lirası.18
+onbirtrilyon Türk Lirası.19
 (Mülga: 12/6/2002-4761/12 md.)
 
 MADDE 9 — Yaklaşık maliyet
@@ -411,7 +414,7 @@ a) Ekonomik ve malî yeterliğin belirlenmesi için;
 2) (Değişik: 30/7/2003-4964/7 md.) İsteklinin, ilgili mevzuatı uyarınca yayınlanması zorunlu
 olan bilançosu veya bilançosunun gerekli görülen bölümleri, yoksa bunlara eşdeğer belgeleri,
 3) İsteklinin iş hacmini gösteren toplam cirosu veya ihale konusu iş ile ilgili cirosunu
-gösteren belgeler.19
+gösteren belgeler.20
 b ) Mesleki ve teknik yeterliğin belirlenmesi için;
 1) İsteklinin, mevzuatı gereği ilgili odaya kayıtlı olarak faaliyette bulunduğunu ve teklif
 vermeye yasal olarak yetkili olduğunu kanıtlayan belgeler,
@@ -438,7 +441,7 @@ tarafından veya uluslararası fonlarca desteklenen Ar-Ge ve yenilik projelerind
 birliği projelerinde ve teknogirişim sermaye desteklerinden yararlananlara, yararlandıkları
 destekler çerçevesinde yürüttükleri proje sonucu ortaya çıkan mal ve hizmetlerin ve bunlar
 
-19 17/01/2019 tarihli ve 7161 sayılı Kanunun 30 uncu maddesiyle; bu bentte yer alan “veya ihale konusu
+20 17/01/2019 tarihli ve 7161 sayılı Kanunun 30 uncu maddesiyle; bu bentte yer alan “veya ihale konusu
 iş ile ilgili taahhüdü altındaki ve bitirdiği iş miktarını gösteren belgeler” ibaresi “veya ihale konusu iş ile
 ilgili cirosunu gösteren belgeler” şeklinde değiştirilmiştir.
 dışında özkaynaklarla geliştirilmiş ve değerlendirilmesi için gerekli usulleri Bilim, Sanayi ve
@@ -446,7 +449,7 @@ Teknoloji Bakanlığınca belirlenen ve Türkiye Bilimsel ve Teknolojik Araştı
 tarafından Ar-Ge projesi neticesinde ortaya çıktığı belgelendirilen ürünlerin piyasaya arz
 edilmesinden sonra proje sonucu ortaya çıkan hizmetler ile yerli malı belgesine sahip ürünler için
 Bilim, Sanayi ve Teknoloji Bakanlığı tarafından Kurumca belirlenen esaslar çerçevesinde
-düzenlenen ve piyasaya arz tarihinden itibaren beş yıl süreyle kullanılabilecek olan belgeler.20
+düzenlenen ve piyasaya arz tarihinden itibaren beş yıl süreyle kullanılabilecek olan belgeler.21
 3) İsteklinin üretim ve/veya imalat kapasitesine, araştırma-geliştirme faaliyetlerine ve
 kaliteyi sağlamasına yönelik belgeler,
 4) İsteklinin organizasyon yapısına ve ihale konusu işi yerine getirmek için yeterli sayıda
@@ -474,7 +477,7 @@ olacakları tüzel kişilerin ihaleye girebilmesinde en az bir yıldır tüzel k
 hissesine sahip olması ve bu sürede bu Kanuna göre yapılacak ihalelere ilişkin sözleşmelerin
 yürütülmesi konusunda temsile ve yönetime yetkili olması, bu şartların her ihalede aranması ve
 
-20 16/2/2016 tarihli ve 6676 sayılı Kanunun 17 nci maddesiyle, bu paragrafa “Ar-Ge merkezlerinde,”
+21 16/2/2016 tarihli ve 6676 sayılı Kanunun 17 nci maddesiyle, bu paragrafa “Ar-Ge merkezlerinde,”
 ibaresinden sonra gelmek üzere “Teknoloji Geliştirme Bölgelerinde,” ibaresi, “ortaya çıkan mal ve
 hizmetlerin” ibaresinden sonra gelmek üzere “ve bunlar dışında özkaynaklarla geliştirilmiş ve
 değerlendirilmesi için gerekli usulleri Bilim, Sanayi ve Teknoloji Bakanlığınca belirlenen ve Türkiye
@@ -492,7 +495,7 @@ sadece iş bitirme belgeleri, belge sahipleri tarafından ve bunların bünyesin
 topluluğu veya benzeri ortaklık ilişkisi içerisinde kullanılmasına ilişkin usul ve esasları
 belirlemeye Kurum yetkilidir. Ortak girişim olarak ihaleye teklif verilmesi hâlinde yurt dışında
 gerçekleştirilen işlerden alınan iş bitirme belgesini kullanan belge sahibinin ortak girişimdeki
-hissesi oranında geçici ve kesin teminat vermesi zorunludur.21
+hissesi oranında geçici ve kesin teminat vermesi zorunludur.22
 Aşağıda belirtilen durumlardaki istekliler ihale dışı bırakılır:
 a) İflas eden, tasfiye halinde olan, işleri mahkeme tarafından yürütülen, konkordato ilân
 eden, işlerini askıya alan veya kendi ülkesindeki mevzuat hükümlerine göre benzer bir durumda
@@ -515,7 +518,7 @@ belge verdiği tespit edilen.
 i) 11 inci maddeye göre ihaleye katılamayacağı belirtildiği halde ihaleye katılan.
 j) 17 nci maddede belirtilen yasak fiil veya davranışlarda bulundukları tespit edilen.
 
-21 20/11/2008 tarihli ve 5812 sayılı Kanunun 3 üncü maddesiyle; bu fıkrada yer alan “tüzel kişiliğin”
+22 20/11/2008 tarihli ve 5812 sayılı Kanunun 3 üncü maddesiyle; bu fıkrada yer alan “tüzel kişiliğin”
 ibaresinden önce gelmek üzere “en az bir yıldır” ibaresi eklenmiştir.
 (Ek fıkra: 28/3/2007-5615/23 md.) Kurum, dördüncü fıkranın; (c) bendi ile ilgili olarak
 Sosyal Güvenlik Kurumu Başkanlığının uygun görüşünü alarak sosyal güvenlik prim borcunun
@@ -535,7 +538,7 @@ a) (Değişik: 20/11/2008-5812/4 md.) Bu Kanun ve diğer kanunlardaki hükümler
 gereğince geçici veya sürekli olarak idarelerce veya mahkeme kararıyla kamu ihalelerine
 katılmaktan yasaklanmış olanlar ile 12/4/1991 tarihli ve 3713 sayılı Terörle Mücadele Kanunu
 kapsamına giren suçlardan veya örgütlü suçlardan veyahut kendi ülkesinde ya da yabancı bir
-ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.22
+ülkede kamu görevlilerine rüşvet verme suçundan dolayı hükümlü bulunanlar.23
 b) İlgili mercilerce hileli iflas ettiğine karar verilenler.
 c) İhaleyi yapan idarenin ihale yetkilisi kişileri ile bu yetkiye sahip kurullarda görevli
 kişiler.
@@ -553,7 +556,7 @@ katılamazlar. Aynı şekilde, ihale konusu işin yüklenicileri de o işin dan�
 ihalelerine katılamazlar. Bu yasaklar, bunların ortaklık ve yönetim ilişkisi olan şirketleri ile bu
 şirketlerin sermayesinin yarısından fazlasına sahip oldukları şirketleri için de geçerlidir.
 
-22 1/11/2012 tarihli ve 6359 sayılı Kanunun 1 inci maddesiyle; bu bentte yer alan “olarak” ibaresinden
+23 1/11/2012 tarihli ve 6359 sayılı Kanunun 1 inci maddesiyle; bu bentte yer alan “olarak” ibaresinden
 sonra gelmek üzere “idarelerce veya mahkeme kararıyla” ibaresi eklenmiştir.
 (Değişik üçüncü fıkra: 30/7/2003-4964/8 md.) İhaleyi yapan idare bünyesinde bulunan
 veya idare ile ilgili her ne amaçla kurulmuş olursa olsun vakıf, dernek, birlik, sandık gibi
@@ -583,15 +586,15 @@ Ancak, ulusal ve/veya uluslararası teknik standartların bulunmaması veya tekn
 özelliklerin belirlenmesinin mümkün olmaması hallerinde “veya dengi” ifadesine yer verilmek
 şartıyla marka veya model belirtilebilir.
 
-MADDE 13 — İhale ilan süreleri ve kuralları ile ön ilan232425
+MADDE 13 — İhale ilan süreleri ve kuralları ile ön ilan242526
 
 (Değişik: 30/7/2003-4964/9 md.)
 
-23 20/11/2008 tarihli ve 5812 sayılı Kanunun 5 inci maddesiyle bu madde başlığı “İhale ilân süreleri ve
+24 20/11/2008 tarihli ve 5812 sayılı Kanunun 5 inci maddesiyle bu madde başlığı “İhale ilân süreleri ve
 kuralları” iken, metne işlendiği şekilde değiştirilmiştir.
-24 20/11/2008 tarihli ve 5812 sayılı Kanunun 5 inci maddesiyle bu maddede yer alan “Resmi Gazetede”
+25 20/11/2008 tarihli ve 5812 sayılı Kanunun 5 inci maddesiyle bu maddede yer alan “Resmi Gazetede”
 ibareleri “Kamu İhale Bülteninde” olarak değiştirilmiştir.
-25 13/10/2022 tarihli ve 7418 sayılı Kanunun 27 nci maddesiyle; bu maddenin birinci fıkrasının (b)
+26 13/10/2022 tarihli ve 7418 sayılı Kanunun 27 nci maddesiyle; bu maddenin birinci fıkrasının (b)
 bendinin (1) numaralı alt bendinde yer alan “gazetelerin en az ikisinde” ibaresi ile (2) ve (3) numaralı alt
 bentlerinde yer alan “gazetelerin birinde” ibareleri “bir gazete ve bir internet haber sitesinde” şeklinde
 değiştirilmiş, dokuzuncu fıkrasına “aracılığıyla” ibaresinden sonra gelmek üzere “bir internet haber
@@ -610,15 +613,15 @@ gününden en az kırk gün önce davet mektubu gönderilmesi zorunludur.
 b) Yaklaşık maliyeti 8 inci maddede belirtilen eşik değerlerin altında kalan ihalelerden;
 1) Yaklaşık maliyeti otuzmilyar Türk Lirasına kadar olan mal veya hizmet alımları ile
 altmışmilyar Türk Lirasına kadar olan yapım işlerinin ihalesi, ihale tarihinden en az yedi gün
-önce ihalenin ve işin yapılacağı yerde çıkan bir gazete ve bir internet haber sitesinde,26
+önce ihalenin ve işin yapılacağı yerde çıkan bir gazete ve bir internet haber sitesinde,27
 2) Yaklaşık maliyeti otuzmilyar ile altmışmilyar Türk Lirası arasında olan mal veya
 hizmet alımları ile altmışmilyar ile beşyüzmilyar Türk Lirası arasında olan yapım işlerinin
 ihalesi, ihale tarihinden en az ondört gün önce Kamu İhale Bülteninde ve işin yapılacağı yerde
-çıkan bir gazete ve bir internet haber sitesinde,26
+çıkan bir gazete ve bir internet haber sitesinde,27
 3) Yaklaşık maliyeti altmışmilyar Türk Lirasının üzerinde ve eşik değerin altında olan mal
 veya hizmet alımları ile beşyüzmilyar Türk Lirasının üzerinde ve eşik değerin altında olan yapım
 işlerinin ihalesi, ihale tarihinden en az yirmibir gün önce Kamu İhale Bülteninde ve işin
-yapılacağı yerde çıkan bir gazete ve bir internet haber sitesinde,26
+yapılacağı yerde çıkan bir gazete ve bir internet haber sitesinde,27
 En az birer defa yayımlanmak suretiyle ilân edilerek duyurulur.
 Yaklaşık maliyeti 8 inci maddede yer alan eşik değerlerin altında kalan belli istekliler
 arasında yapılacak ihalelerde ön yeterlik ilânlarının son başvuru tarihinden en az yedi gün önce
@@ -631,7 +634,7 @@ gün kısaltılabilir. İlan ile ihale ve ön yeterlik dokümanına Elektronik K
 üzerinden doğrudan erişimin temin edilmesi halinde, birinci fıkranın (a) bendinin (1) numaralı alt
 bendindeki ilan süresi ile belli istekliler arasında ihale usulü ile yapılacak ihalelerde ön yeterliği
 
-26 Bu alt bentlerde yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması
+27 Bu alt bentlerde yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması
 ile ilgili olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun
 2025/1 No.’lu Kamu İhale Tebliğine bakınız.
 
@@ -692,7 +695,7 @@ imzalamadan önce de alt yüklenicilerin listesini idarenin onayına sunmaları 
 durumda, alt yüklenicilerin yaptıkları işlerle ilgili sorumluluğu yüklenicinin sorumluluğunu
 ortadan kaldırmaz.
 
-MADDE 16 — İhale saatinden önce ihalenin iptal edilmesi27
+MADDE 16 — İhale saatinden önce ihalenin iptal edilmesi28
 
 İdarenin gerekli gördüğü veya ihale dokümanında yer alan belgelerde ihalenin
 yapılmasına engel olan ve düzeltilmesi mümkün bulunmayan hususların bulunduğunun tespit
@@ -713,7 +716,7 @@ başka yollarla ihaleye ilişkin işlemlere fesat karıştırmak veya buna teşe
 b) İsteklileri tereddüde düşürmek, katılımı engellemek, isteklilere anlaşma teklifinde
 bulunmak veya teşvik etmek, rekabeti veya ihale kararını etkileyecek davranışlarda bulunmak.
 
-27 30/7/2003 tarihli ve 4964 sayılı Kanunun 11 inci maddesiyle bu maddenin başlığında ve birinci
+28 30/7/2003 tarihli ve 4964 sayılı Kanunun 11 inci maddesiyle bu maddenin başlığında ve birinci
 fıkrasındaki “gününden” ibaresi, “saatinden” olarak değiştirilmiştir.
 c) Sahte belge veya sahte teminat düzenlemek, kullanmak veya bunlara teşebbüs etmek.
 d) Alternatif teklif verebilme halleri dışında, ihalelerde bir istekli tarafından kendisi veya
@@ -762,7 +765,7 @@ edilmeme gerekçeleri yazılı olarak bildirilir. İşin niteliğine göre rekab
 40 ıncı maddeye uygun olarak belirlenen ve ihale dokümanı ile davet mektubunda belirtilen
 değerlendirme kriterlerine göre tekliflerin değerlendirmesi yapılarak ihale sonuçlandırılır. İhaleye
 davet edilebilecek aday sayısının beşten az olması veya teklif veren istekli sayısının üçten az
-olması halinde ihale iptal edilir.28
+olması halinde ihale iptal edilir.29
 Teklif veren istekli sayısının üçten az olması nedeniyle ihalenin iptal edilmesi durumunda,
 ihale dokümanı gözden geçirilerek varsa hatalar ve eksiklikler giderilmek suretiyle, ön yeterliği
 tespit edilen bütün istekliler tekrar davet edilerek ihale sonuçlandırılabilir.
@@ -776,7 +779,7 @@ b) Doğal afetler, salgın hastalıklar, can veya mal kaybı tehlikesi gibi ani 
 veya yapım tekniği açısından özellik arz eden veya yapı veya can ve mal güvenliğinin sağlanması
 açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut idare tarafından
 önceden öngörülemeyen olayların ortaya çıkması üzerine ihalenin ivedi olarak yapılmasının
-zorunlu olması.29
+zorunlu olması.30
 c) Savunma ve güvenlikle ilgili özel durumların ortaya çıkması üzerine ihalenin ivedi
 olarak yapılmasının zorunlu olması.
 d) İhalenin, araştırma ve geliştirme sürecine ihtiyaç gösteren ve seri üretime konu
@@ -784,20 +787,20 @@ olmayan nitelikte olması.
 e) İhale konusu mal veya hizmet alımları ile yapım işlerinin özgün nitelikte ve karmaşık
 olması nedeniyle teknik ve malî özelliklerinin gerekli olan netlikte belirlenememesi.
 f) (Ek: 30/7/2003-4964/14 md.) İdarelerin yaklaşık maliyeti ellimilyar Türk Lirasına
-kadar olan mamul mal, malzeme veya hizmet alımları.30
+kadar olan mamul mal, malzeme veya hizmet alımları.31
 (Değişik ikinci fıkra: 20/11/2008-5812/7 md.) (b), (c) ve (f) bentlerinde belirtilen
 hallerde ilan yapılması zorunlu değildir. İlan yapılmayan hallerde en az üç istekli davet edilerek,
 yeterlik belgelerini ve fiyat tekliflerini birlikte vermeleri istenir.
 (Mülga üçüncü fıkra: 20/11/2008-5812/7 md.)
 (Değişik dördüncü fıkra: 20/11/2008-5812/7 md.) (a), (d) ve (e) bentlerine göre
 
-28 30/7/2003 tarihli ve 4964 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “10 uncu maddeye”
+29 30/7/2003 tarihli ve 4964 sayılı Kanunun 13 üncü maddesiyle bu fıkrada yer alan “10 uncu maddeye”
 ibaresi, “40 ıncı maddeye” olarak değiştirilmiştir.
-29 16/5/2018 tarihli ve 7144 sayılı Kanunun 11 inci maddesiyle bu bentte yer alan “beklenmeyen veya”
+30 16/5/2018 tarihli ve 7144 sayılı Kanunun 11 inci maddesiyle bu bentte yer alan “beklenmeyen veya”
 ibaresinden sonra gelmek üzere “yapım tekniği açısından özellik arz eden veya yapı veya can ve mal
 güvenliğinin sağlanması açısından ivedilikle yapılması gerekliliği idarece belirlenen hallerde veyahut” ibaresi
 eklenmiştir.
-30 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
+31 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
 yapılacak ihalelerde, ihale dokümanında belirtilen değerlendirme kriterlerine göre yeterliği tespit
@@ -829,14 +832,14 @@ sağlanması için zorunlu olan mal ve hizmetlerin, asıl sözleşmeye dayalı o
 toplam süreleri üç yılı geçmeyecek sözleşmelerle ilk alım yapılan gerçek veya tüzel kişiden alınması.
 d) Büyükşehir belediyesi sınırları dahilinde bulunan idarelerin onbeş milyar, diğer
 idarelerin beşmilyar Türk Lirasını aşmayan ihtiyaçları ile temsil ağırlama faaliyetleri kapsamında
-yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar.31
+yapılacak konaklama, seyahat ve iaşeye ilişkin alımlar.32
 e) İdarelerin ihtiyacına uygun taşınmaz mal alımı veya kiralanması.
 f) (Değişik: 20/11/2008-5812/8 md.) Özelliğinden ve belli süre içinde kullanılma
 zorunluluğundan dolayı stoklanması ekonomik olmayan veya acil durumlarda kullanılacak olan
 ilaç, aşı, serum, anti-serum, kan ve kan ürünleri ile ortez, protez gibi uygulama esnasında hastaya
 göre belirlenebilen ve hastaya özgü tıbbî sarf malzemeleri, test ve tetkik sarf malzemeleri alımları.
 
-31 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
+32 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
 g) Milletlerarası tahkim yoluyla çözülmesi öngörülen uyuşmazlıklarla ilgili davalarda,
@@ -972,7 +975,7 @@ MADDE 28 — İhale ve ön yeterlik dokümanının verilmesi
 veya ihaleye katılmak isteyen isteklilerin bu dokümanı satın almaları zorunludur. (Ek cümle:
 4/7/2012-6353/28 md.) İlan yapılmayan ihalelerde, ihale dokümanı sadece idare tarafından davet
 edilenlere satılır. Doküman bedeli, basım maliyetini aşmayacak ve rekabeti engellemeyecek
-şekilde idarelerce tespit edilir.32
+şekilde idarelerce tespit edilir.33
 
 İhale dokümanında değişiklik veya açıklama yapılması
 
@@ -997,7 +1000,7 @@ açıklama talep edebilir. Bu talebin idarece uygun görülmesi halinde yapılac
 kadar ihale dokümanı alan bütün isteklilere son teklif verme gününden on gün öncesinde bilgi
 sahibi olmalarını temin edecek şekilde ve açıklama talebinde bulunan istekli belirtilmeksizin
 
-32 30/7/2003 tarihli ve 4964 sayılı Kanunun 19 uncu maddesiyle bu maddenin son cümlesinde geçen
+33 30/7/2003 tarihli ve 4964 sayılı Kanunun 19 uncu maddesiyle bu maddenin son cümlesinde geçen
 “hazırlanma maliyetini” ibaresi, “basım maliyetini” olarak değiştirilmiştir.
 yazılı olarak gönderilir.
 
@@ -1053,7 +1056,7 @@ yerine düzenlenen belgeler.
 İlgili mevzuatına göre Türkiye’de faaliyette bulunmasına izin verilen yabancı bankaların
 düzenleyecekleri teminat mektupları ile Türkiye dışında faaliyette bulunan banka veya benzeri
 kredi kuruluşlarının kontrgarantisi üzerine Türkiye’de faaliyette bulunan bankaların veya özel
-finans kurumlarının düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.33
+finans kurumlarının düzenleyecekleri teminat mektupları da teminat olarak kabul edilir.34
 (c) bendinde belirtilen senetler ve bu senetler yerine düzenlenen belgelerden nominal
 değere faiz dahil edilerek ihraç edilenler, anaparaya tekabül eden satış değeri üzerinden teminat
 olarak kabul edilir.
@@ -1068,9 +1071,9 @@ Teminatlar, teminat olarak kabul edilen diğer değerlerle değiştirilebilir.
 Her ne suretle olursa olsun, idarece alınan teminatlar haczedilemez ve üzerine ihtiyati
 tedbir konulamaz.
 
-MADDE 35 — Teminat mektupları34
+MADDE 35 — Teminat mektupları35
 
-Bu Kanun kapsamında (...)34 verilecek teminat mektuplarının kapsam ve
+Bu Kanun kapsamında (...)35 verilecek teminat mektuplarının kapsam ve
 şeklini tespite Kamu İhale Kurumu yetkilidir.
 32 nci maddeye göre belirlenen tekliflerin geçerlilik süresinden en az otuz gün fazla süreli
 olmak kaydıyla, geçici teminat mektuplarında süre belirtilir. Teklif geçerlilik süresinin uzatılması
@@ -1078,9 +1081,9 @@ halinde, geçici teminat mektuplarının süresi de aynı süre ile uzatılır. 
 süresi ihale konusu işin bitiş tarihi dikkate alınmak suretiyle idare tarafından belirlenir.
 İlgili mevzuatına aykırı olarak düzenlenmiş teminat mektupları kabul edilmez.
 
-33 30/7/2003 tarihli ve 4964 sayılı Kanunun 21 inci maddesiyle bu fıkraya "Türkiye'de faaliyette bulunan
+34 30/7/2003 tarihli ve 4964 sayılı Kanunun 21 inci maddesiyle bu fıkraya "Türkiye'de faaliyette bulunan
 bankaların" ibaresinden sonra gelmek üzere "veya özel finans kurumlarının" ibaresi eklenmiştir.
-34 30/7/2003 tarihli ve 4964 sayılı Kanunun 22 nci maddesiyle bu maddenin başlığındaki "Banka" ibaresi
+35 30/7/2003 tarihli ve 4964 sayılı Kanunun 22 nci maddesiyle bu maddenin başlığındaki "Banka" ibaresi
 ile birinci fıkrasındaki "bankalarca" ibaresi madde metninden çıkarılmıştır.
 DÖRDÜNCÜ BÖLÜM
 Tekliflerin Değerlendirilmesi
@@ -1100,7 +1103,7 @@ usulüne uygun olmayan istekliler tutanakla tespit edilir. İstekliler ile tekli
 maliyet tutarı açıklanır. Bu işlemlere ilişkin hazırlanan tutanak ihale komisyonunca imzalanır. Bu
 aşamada; hiçbir teklifin reddine veya kabulüne karar verilmez, teklifi oluşturan belgeler
 düzeltilemez ve tamamlanamaz. Teklifler ihale komisyonunca hemen değerlendirilmek üzere
-oturum kapatılır.35
+oturum kapatılır.36
 
 Tekliflerin değerlendirilmesi
 
@@ -1126,12 +1129,12 @@ bulunmadığı incelenir. Uygun olmadığı belirlenen isteklilerin teklifleri i
 cetvellerinde aritmetik hata bulunan teklifler değerlendirme dışı bırakılır.
 (Mülga son fıkra: 20/11/2008-5812/11 md.)
 
-35 20/11/2008 tarihli ve 5812 sayılı Kanunun 10 uncu maddesiyle; bu fıkrada yer alan “teklif fiyatları
+36 20/11/2008 tarihli ve 5812 sayılı Kanunun 10 uncu maddesiyle; bu fıkrada yer alan “teklif fiyatları
 açıklanır” ibaresi “teklif fiyatları ve yaklaşık maliyet tutarı açıklanır” şeklinde değiştirilmiştir.
 
 MADDE 38 — Aşırı düşük teklifler
 
-İhale komisyonu verilen teklifleri (…)36 değerlendirdikten sonra, diğer
+İhale komisyonu verilen teklifleri (…)37 değerlendirdikten sonra, diğer
 tekliflere veya idarenin tespit ettiği yaklaşık maliyete göre teklif fiyatı aşırı düşük olanları tespit
 eder. Bu teklifleri reddetmeden önce, belirlediği süre içinde teklif sahiplerinden teklifte önemli
 olduğunu tespit ettiği bileşenler ile ilgili ayrıntıları yazılı olarak ister.
@@ -1142,7 +1145,7 @@ yerine getirilmesinde kullanacağı avantajlı koşullar,
 c) Teklif edilen mal, hizmet veya yapım işinin özgünlüğü,
 gibi hususlarda yapılan yazılı açıklamaları dikkate alarak, aşırı düşük teklifleri değerlendirir.
 Bu değerlendirme sonucunda, açıklamaları yeterli görülmeyen veya yazılı açıklamada bulunmayan
-isteklilerin teklifleri reddedilir.36
+isteklilerin teklifleri reddedilir.37
 (Ek fıkra: 20/11/2008-5812/12 md.; Değişik üçüncü fıkra: 6/2/2014-6518/47 md.)
 Kurum, ihale konusu işin türü, niteliği ve yaklaşık maliyeti ile ihale edilme usulüne göre aşırı
 düşük tekliflerin tespiti, değerlendirilmesi ve ekonomik açıdan en avantajlı teklifin belirlenmesi
@@ -1155,16 +1158,16 @@ tarafından yapılan düzenlemeleri esas alır.
 
 MADDE 39 — Bütün tekliflerin reddedilmesi ve ihalenin iptali
 
-(…)37 İhale komisyonu kararı üzerine idare, verilmiş olan bütün teklifleri
+(…)38 İhale komisyonu kararı üzerine idare, verilmiş olan bütün teklifleri
 reddederek ihaleyi iptal etmekte serbesttir. İhalenin iptal edilmesi halinde bu durum bütün
 isteklilere derhal bildirilir. İdare bütün tekliflerin reddedilmesi nedeniyle herhangi bir yükümlülük
 altına girmez. (Değişik son cümle: 30/7/2003-4964/24 md.) Ancak, idare isteklilerin talepte
 bulunması halinde, ihalenin iptal edilme gerekçelerini talep eden isteklilere bildirir.
 
-36 6/2/2014 tarihli ve 6518 sayılı Kanunun 47 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “37
+37 6/2/2014 tarihli ve 6518 sayılı Kanunun 47 nci maddesiyle, bu maddenin birinci fıkrasında yer alan “37
 nci maddeye göre” ibaresi metinden çıkarılmış, ikinci fıkrasında yer alan “Hususlarında belgelendirilmek
 suretiyle” ibaresi “gibi hususlarda” şeklinde değiştirilmiştir.
-37 30/7/2003 tarihli ve 4964 sayılı Kanunun 24 üncü maddesiyle, bu maddede yer alan, “İhale
+38 30/7/2003 tarihli ve 4964 sayılı Kanunun 24 üncü maddesiyle, bu maddede yer alan, “İhale
 dokümanında belirtilmiş olması kaydıyla, ihale yetkilisinin onayından önceki herhangi bir aşamada,”
 ibaresi metinden çıkarılmıştır.
 
@@ -1188,7 +1191,7 @@ dikkate alınmak suretiyle ekonomik açıdan en avantajlı teklif belirlenerek i
 Kararlarda isteklilerin adları veya ticaret unvanları, teklif edilen bedeller, ihalenin tarihi ve hangi
 istekli üzerine hangi gerekçelerle yapıldığı, ihale yapılmamış ise nedenleri belirtilir.
 İhale yetkilisi, karar tarihini izleyen en geç beş iş günü içinde ihale kararını onaylar veya
-gerekçesini açıkça belirtmek suretiyle iptal eder.38
+gerekçesini açıkça belirtmek suretiyle iptal eder.39
 İhale; kararın onaylanması halinde geçerli, iptal edilmesi halinde ise hükümsüz sayılır.
 (Değişik son fıkra: 20/11/2008-5812/13 md.) İhale kararları ihale yetkilisince
 onaylanmadan önce idareler, ihale üzerinde kalan istekli ile varsa ekonomik açıdan en avantajlı
@@ -1206,7 +1209,7 @@ de yer verilir.
 İhale kararının ihale yetkilisi tarafından iptal edilmesi durumunda da isteklilere
 gerekçeleri belirtilmek suretiyle bildirim yapılır.
 
-38 30/7/2003 tarihli ve 4964 sayılı Kanunun 25 inci maddesiyle, fıkrada yar alan “yirmi gün” ibaresi,
+39 30/7/2003 tarihli ve 4964 sayılı Kanunun 25 inci maddesiyle, fıkrada yar alan “yirmi gün” ibaresi,
 “beş iş günü” olarak değiştirilmiştir.
 İhale sonucunun bütün isteklilere bildiriminden itibaren; 21 inci maddenin (b) ve (c)
 bentlerine göre yapılan ihalelerde beş gün, diğer hallerde ise on gün geçmedikçe sözleşme
@@ -1272,7 +1275,7 @@ tarafından imzalanır. İhale dokümanında aksi belirtilmedikçe sözleşmeler
 onaylattırılması zorunlu değildir.
 İhale dokümanında belirtilen şartlara aykırı sözleşme düzenlenemez.
 
-MADDE 47 — Sonuç bildirimi39
+MADDE 47 — Sonuç bildirimi40
 
 (Değişik: 20/11/2008-5812/17 md.)
 Bu Kanun kapsamında yer alan idarelerin yapım işleri ile mal ve hizmet alımlarının
@@ -1291,7 +1294,7 @@ MADDE 48
 
 (Değişik: 20/11/2008-5812/18 md.)
 
-39 20/11/2008 tarihli ve 5812 sayılı Kanunun 17 nci maddesiyle bu madde başlığı “İhale sonucunun ilânı”
+40 20/11/2008 tarihli ve 5812 sayılı Kanunun 17 nci maddesiyle bu madde başlığı “İhale sonucunun ilânı”
 iken metne işlendiği şekilde değiştirilmiştir.
 Mimarlık ve mühendislik, etüt ve proje, harita ve kadastro, her ölçekte imar planı, imar
 uygulama, ÇED raporu hazırlanması, plan, yazılım geliştirme, tasarım, teknik şartname
@@ -1322,7 +1325,7 @@ tekliflerini hazırlayabilmeleri için en az 13 üncü maddedeki süreler verile
 birlikte ihaleye davet mektubu gönderilir. Ön yeterlik değerlendirmesi sonucunda yeterli
 bulunmayanlar ile kısa listede yer verilmeyen adaylara yazılı olarak bildirim yapılır. İhaleye
 davet edilebilecek aday sayısının üçten az olması halinde davet mektubu gönderilmez ve ihale
-yapılmaz.40
+yapılmaz.41
 İstekliler tekliflerini hazırlarken ihale dokümanında açıklanmasına ihtiyaç duyulan
 hususlarla ilgili olarak son teklif verme gününden yirmi gün öncesine kadar yazılı olarak
 açıklama talep edebilir. İdarece açıklama yapılması halinde yapılan açıklama, kısa listede yer
@@ -1331,7 +1334,7 @@ temin edecek şekilde yazılı olarak gönderilir.
 Davet mektubu gönderildikten sonra, tekliflerin hazırlanmasını veya işin
 gerçekleştirilmesini etkileyebilecek maddi veya teknik hatalar veya eksikliklerin idarece tespit
 
-40 30/7/2003 tarihli ve 4964 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “kırk gün süre”
+41 30/7/2003 tarihli ve 4964 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “kırk gün süre”
 ibaresi, “13 üncü maddedeki süreler” şeklinde değiştirilmiştir.
 edilmesi veya isteklilerce yazılı olarak bildirilmesi halinde, ihale dokümanında değişiklikler
 yapılabilir. Yapılan bu değişikliklere ilişkin ihale dokümanının bağlayıcı bir parçası olan
@@ -1460,7 +1463,7 @@ Kamu İhale Bültenini yayımlamak.
 8) Yerli isteklilerin, yabancı ülkelerde açılan ihalelere katılmalarına engel olunduğunun
 tespit edilmesi halinde, bu uygulamanın yapıldığı ülkenin isteklilerinin de, bu Kanun kapsamında
 yapılan ihalelere katılmalarının önlenmesine yönelik tedbirlerin alınmasını ve gerekli
-düzenlemelerin yapılmasını sağlamak üzere Cumhurbaşkanına teklifte bulunmak.41
+düzenlemelerin yapılmasını sağlamak üzere Cumhurbaşkanına teklifte bulunmak.42
 9) Kurumun yıllık bütçesi ile kesin hesabını ve yıllık çalışma raporlarını hazırlamak,
 Kurum bütçesinin uygulanmasını, gelirlerin toplanmasını ve giderlerin yapılmasını sağlamak.
 (Mülga paragraf: 20/11/2008-5812/20 md.)
@@ -1481,15 +1484,15 @@ ve halen bir siyasi parti ile aday gösterilme dâhil üyelik ve görev alma ili
 gerekir.
 (Değişik: 12/6/2002-4761/15 md.) (Mülga birinci ve ikinci cümle: 2/7/2018-KHK-
 
-41 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu bentte yer alan “Bakanlar Kuruluna”
+42 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu bentte yer alan “Bakanlar Kuruluna”
 ibaresi “Cumhurbaşkanına” şeklinde değiştirilmiştir.
-703/171 md.)42 Kurul üyelerinin görev süresi dolmadan görevlerine son verilemez. Ancak üyeler,
+703/171 md.)43 Kurul üyelerinin görev süresi dolmadan görevlerine son verilemez. Ancak üyeler,
 ciddi bir hastalık veya engellilik nedeniyle iş görememeleri veya atamaya ilişkin şartları
 kaybetmeleri halinde atandıkları usule göre süresi dolmadan görevden alınır. Üyeler görevi
 kötüye kullanmaktan veya yüz kızartıcı bir suçtan mahkûm olmaları halinde ise Cumhurbaşkanı
 onayıyla görevden alınır. Görevden alma nedeniyle veya süresi dolmadan herhangi bir sebeple
 boşalan Kurul üyeliklerine bir ay içerisinde yukarıda belirtilen esaslara göre yeniden atama
-yapılır.4344 (Mülga son cümle: 20/11/2008-5812/20 md.)
+yapılır.4445 (Mülga son cümle: 20/11/2008-5812/20 md.)
 Kurumun genel yönetim ve temsili ile Kurulca alınan kararların yürütülmesi başkana
 aittir. Başkanın izin, hastalık, yurt içi veya yurt dışı görevlendirme ve görevden alınma hallerinde
 ikinci başkan başkana vekalet eder.
@@ -1516,11 +1519,11 @@ hükme uygun hareket etmeyen üyeler üyelikten çekilmiş sayılır.
 hakemlik ve bilirkişilik yapamazlar.
 Kurul üyeleri ile Kurum personeli görevlerini yerine getirmeleri sırasında ilgililere ve
 
-42 Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile bu cümlelerin
+43 Anayasa Mahkemesinin 7/12/2023 tarihli ve E.:2018/117; K.:2023/212 sayılı Kararı ile bu cümlelerin
 yürürlükten kaldırılması iptal edilmiştir.
-43 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu paragrafta yer alan “Başbakan” ibaresi
+44 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu paragrafta yer alan “Başbakan” ibaresi
 “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-44 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibaresi
+45 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibaresi
 “engellilik” şeklinde değiştirilmiştir.
 üçüncü kişilere ait edindikleri gizli kalması gereken bilgi ve belgeleri, bu konuda kanunen yetkili
 kılınan mercilerden başkasına açıklayamazlar, kendilerinin veya üçüncü şahısların yararına
@@ -1535,7 +1538,7 @@ g) Kurul, başkanın veya başkanın bulunmadığı durumda ikinci başkanın ç
 üye tam sayısı ile toplanır ve çoğunlukla karar alır. Oyların eşit olması halinde Başkanın
 bulunduğu taraf çoğunlukta kabul edilir. Kurul üyeleri çekimser oy kullanamaz. Kurul üyeleri oy
 ve kararlarından sorumludur. İzin, rapor, görevlendirme veya boşalan üyeliğe henüz atama
-yapılmaması hallerinde en az altı üye ile toplanılabilir.45
+yapılmaması hallerinde en az altı üye ile toplanılabilir.46
 Kurul üyeleri, kendilerini ve üçüncü dereceye kadar kan ve ikinci dereceye kadar kayın
 hısımları ile evlatlıklarını ilgilendiren kararlarla ilgili toplantı ve oylamaya katılamaz.
 Bu maddede belirtilen haller dışında bir nedenle bir takvim yılında beş toplantıya
@@ -1546,7 +1549,7 @@ yardımcıları, Kurul üyeliğine atanacaklarda aranan niteliklere sahip olanla
 dört yıllık öğrenim veren hukuk, iktisat, siyasal bilgiler, işletme, iktisadi ve idari bilimler,
 mimarlık ve mühendislik fakülteleri ile bunlara denkliği yetkili makamlarca kabul edilen yurt
 dışındaki yüksek öğretim kurumlarından mezun olduktan sonra aralıksız olarak en az on yıldan
-beri Kurumda meslek personeli olarak çalışmakta bulunanlar arasından atanır.4647
+beri Kurumda meslek personeli olarak çalışmakta bulunanlar arasından atanır.4748
 Kurumun hizmet birimleri, kurumun görev ve yetkilerinin gerektirdiği sayıda daire
 başkanlıkları şeklinde teşkilatlanmış ana hizmet birimleri, danışma birimleri ve yardımcı hizmet
 birimlerinden oluşur. (Ek cümle: 24/10/2011-KHK-661/57 md.) Kurumda; Baş Hukuk Danışmanı
@@ -1557,11 +1560,11 @@ atanacakların en az dört yıllık öğretim veren fakülteler ile bunlara denk
 kabul edilen yurtiçi ve yurtdışındaki yükseköğretim kurumlarından mezun olmaları ve memuriyete
 esas kamu kurum ve kuruluşlarında en az oniki yıl ve üzeri kamu hizmetinde bulunmaları; Daire
 
-45 24/10/2011 tarihli ve 661 sayılı KHK’nın 57 nci maddesiyle bu bentte yer alan “yedi üye” ibaresi “altı
+46 24/10/2011 tarihli ve 661 sayılı KHK’nın 57 nci maddesiyle bu bentte yer alan “yedi üye” ibaresi “altı
 üye” şeklinde değiştirilmiştir.
-46 24/10/2011 tarihli ve 661 sayılı KHK’nın 57 nci maddesiyle bu bentte yer alan “Kurul kararı ile”
+47 24/10/2011 tarihli ve 661 sayılı KHK’nın 57 nci maddesiyle bu bentte yer alan “Kurul kararı ile”
 ibaresi “Bakan tarafından” şeklinde değiştirilmiştir.
-47 4/7/2012 tarihli ve 6353 sayılı Kanunun 29 uncu maddesiyle, bu paragrafta yer alan “üç” ibaresi
+48 4/7/2012 tarihli ve 6353 sayılı Kanunun 29 uncu maddesiyle, bu paragrafta yer alan “üç” ibaresi
 “dört” olarak değiştirilmiştir.
 Başkanı kadrosuna atanacakların en az dört yıllık öğretim veren fakülteler ile bunlara denkliği
 yetkili makamlarca kabul edilen yurtiçi ve yurtdışındaki yükseköğretim kurumlarından mezun
@@ -1583,7 +1586,7 @@ esas ve kriterler dahilinde kamu ihale uzmanlığı görevini başarılı bir ş
 anlaşılanlar kamu ihale uzmanlığı yeterlik sınavına girmeye hak kazanır. Yeterlik sınavında
 başarılı olanlar kamu ihale uzmanı olarak atanırlar, kamu ihale uzmanlığı yeterlik sınavına
 girmeye hak kazanamayanlar ile bu sınavda başarılı olamayanların Kurumda durumlarına uygun
-başka bir göreve atamaları yapılır.4849 (Mülga cümle:16/11/2022-7421/11 md.)
+başka bir göreve atamaları yapılır.4950 (Mülga cümle:16/11/2022-7421/11 md.)
 (Ek paragraf:16/11/2022-7421/11 md.) Kamu ihale uzmanlarının mesleğe giriş ve
 yeterlik sınavlarına, meslek personeli ile diğer kurum personelinin atanma, görev, yetki ve
 sorumluluklarına, çalışma esas ve usullerine ilişkin hususlar ile Kamu Kurum ve Kuruluşlarında
@@ -1592,13 +1595,13 @@ görevde yükselme ve unvan değişikliği sınavına tabi unvanlar ve bu unvanl
 atamalara ilişkin hususlar Kurul kararıyla yürürlüğe konulacak yönetmeliklerle düzenlenir.
 Kurumun hizmet birimleri ile bunların görev ve sorumlulukları ile çalıştırılacak
 sözleşmeli personelin unvanı, sayısı, nitelikleri Cumhurbaşkanı tarafından çıkarılacak
-yönetmelikle düzenlenir.5051
+yönetmelikle düzenlenir.5152
 
-48 12/6/2002 tarihli ve 4761 sayılı Kanunla bu fıkrada geçen “Kurum ile ilişikleri kesilir.” ibaresi, “Kurumda
+49 12/6/2002 tarihli ve 4761 sayılı Kanunla bu fıkrada geçen “Kurum ile ilişikleri kesilir.” ibaresi, “Kurumda
 durumlarına uygun başka bir göreve atamaları yapılır” şeklinde değiştirilmiştir.
-49 16/11/2022 tarihli ve 7421 sayılı Kanunun 11 inci maddesiyle, bu fıkranın dördüncü paragrafında yer
+50 16/11/2022 tarihli ve 7421 sayılı Kanunun 11 inci maddesiyle, bu fıkranın dördüncü paragrafında yer
 alan “ilk gününde otuz yaşını” ibaresi “birinci günü itibarıyla otuz beş yaşını” şeklinde değiştirilmiştir.
-50 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, 53 üncü maddenin (h) fıkrasının beşinci
+51 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, 53 üncü maddenin (h) fıkrasının beşinci
 paragrafında yer alan “Kurulun önerisi ve Maliye Bakanlığının görüşü üzerine Bakanlar Kurulu” ibaresi
 “Cumhurbaşkanı” şeklinde değiştirilmiş; (i) fıkrasının birinci paragrafında yer alan “Maliye Bakanının
 önerisi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve ikinci paragrafında yer alan
@@ -1606,16 +1609,16 @@ paragrafında yer alan “Kurulun önerisi ve Maliye Bakanlığının görüşü
 şeklinde, üçüncü paragrafında yer alan “Bakanlık Müsteşarı” ibaresi “Cumhurbaşkanlığı Strateji ve
 Kurum personeli, bu Kanunda öngörülen hükümler saklı kalmak kaydıyla 657 sayılı
 Devlet Memurları Kanununa tâbidir.
-i) Kurul başkan ve üyelerinin aylık ücretleri Cumhurbaşkanınca belirlenir.50
+i) Kurul başkan ve üyelerinin aylık ücretleri Cumhurbaşkanınca belirlenir.51
 Kurum personelinin ücretleri ile diğer malî ve sosyal hakları, Cumhurbaşkanınca
-belirlenecek miktar, usul ve esaslar çerçevesinde Kurul tarafından belirlenir.50
+belirlenecek miktar, usul ve esaslar çerçevesinde Kurul tarafından belirlenir.51
 Kurul üyeliklerine atananlar ile Kurum personeli 5434 sayılı Türkiye Cumhuriyeti Emekli
 Sandığı Kanunu hükümlerine tâbidir. Emeklilik açısından Kurul Başkanına Cumhurbaşkanlığı
 Strateji ve Bütçe Başkanı, Kurul üyelerine Bakanlık Genel Müdürü, Kurum Başkan
 Yardımcılarına Bakanlık Genel Müdürü, Kurum Daire Başkanlarına Bakanlık Genel Müdür
 Yardımcısı için tespit edilen ek gösterge, makam ve temsil tazminatları ile diğer malî hükümler
 uygulanır. Bu görevlerde geçirilen süreler makam tazminatı ve yüksek hakimlik tazminatı
-ödenmesini gerektiren görevlerde geçmiş sayılır.50
+ödenmesini gerektiren görevlerde geçmiş sayılır.51
 Kurul Başkan ve üyeliklerine atananlardan atama yapılmadan önce kanunla kurulmuş
 diğer sosyal güvenlik kurumlarına bağlı olanların istekleri halinde bu kurumlara bağlılıkları
 devam eder ve bunlar hakkında yukarıdaki hükümler uygulanmaz.
@@ -1640,7 +1643,7 @@ tarafından ödemede bulunulmasına son verilir. Bir kamu kurumunda çalışmaya
 
 Bütçe Başkanı” şeklinde, “Bakanlık Müsteşar Yardımcısı” ibaresi “Bakanlık Genel Müdürü” şeklinde
 değiştirilmiştir.
-51 16/11/2022 tarihli ve 7421 sayılı Kanunun 11 inci maddesiyle, bu paragrafta yer alan “, personelin atanma
+52 16/11/2022 tarihli ve 7421 sayılı Kanunun 11 inci maddesiyle, bu paragrafta yer alan “, personelin atanma
 ve çalışma usul ve esasları” ibaresi madde metninden çıkarılmıştır.
 Başkan ve üyeliğine atanıp süresi dolması sebebiyle görevi sona erenlere herhangi bir göreve
 veya işe başlayıncaya kadar, görevlerinin sona erdiği tarihte almakta oldukları aylık ücret ile
@@ -1656,17 +1659,17 @@ devam ettiği gibi, bu süreler terfi ve emekliliklerinde hesaba katılır, terf
 gerek duyulmadan süresinde yapılır. Üniversite öğretim elemanları uzmanlıklarına uyan işler
 için, 4.11.1981 tarihli ve 2547 sayılı Yüksek Öğretim Kanununun 38 inci maddesine göre
 Kurumda görevlendirilebilir. Bu şekilde görevlendirilecek personel sayısı toplam kadro sayısının
-% 10’unu aşamaz.52
+% 10’unu aşamaz.53
 j) Kurumun gelirleri aşağıda belirtilmiştir:
 1) (Değişik: 30/7/2003-4964/32 md.) Bu Kanun kapsamında yapılan ihalelere ilişkin
 düzenlenecek sözleşmelerden, bedeli yüzmilyar Türk Lirasını aşanlar için yükleniciden tahsil
 edilecek sözleşme bedelinin onbinde beşi. (İdareler ve noterler bu tutarın yüklenici tarafından
-Kurum hesaplarına yatırıldığını sözleşmelerin imzalanması aşamasında aramak zorundadır.)53
+Kurum hesaplarına yatırıldığını sözleşmelerin imzalanması aşamasında aramak zorundadır.)54
 2) (Değişik: 6/2/2014-6518/49 md.) Yaklaşık maliyeti beş yüz bin Türk Lirasına kadar
 olan ihalelerde üç bin Türk Lirası, beş yüz bin Türk Lirasından iki milyon Türk Lirasına kadar
 olanlarda altı bin Türk Lirası, iki milyon Türk Lirasından on beş milyon Türk Lirasına kadar
 olanlarda dokuz bin Türk Lirası, on beş milyon Türk Lirası ve üzerinde olanlarda on iki bin Türk
-Lirası tutarındaki itirazen şikâyet başvuru bedeli.53
+Lirası tutarındaki itirazen şikâyet başvuru bedeli.54
 3) Eğitim, kurs, seminer ve toplantı faaliyetlerinden elde edilecek gelirler.
 4) (Değişik: 20/11/2008-5812/20 md.) Her türlü basılı evrak, form, ilan, doküman ve
 yayınlar ile Elektronik Kamu Alımları Platformunun işletilmesinden elde edilecek gelirler.
@@ -1676,9 +1679,9 @@ Kuruma ait gelirler T.C. Merkez Bankası veya Türk bankalarından birisi nezdin
 açılacak bir hesapta toplanır.
 Kurumun mal ve varlıkları Devlet malı sayılır, haczedilemez, rehnedilemez. Kurumun
 
-52 20/11/2008 tarihli ve 5812 sayılı Kanunun 20 nci maddesiyle; bu paragrafın başına “Kamu ihale
+53 20/11/2008 tarihli ve 5812 sayılı Kanunun 20 nci maddesiyle; bu paragrafın başına “Kamu ihale
 uzmanlığı hariç olmak üzere” ibaresi eklenmiştir.
-53 Bu alt bentlerde yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması
+54 Bu alt bentlerde yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması
 ile ilgili olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun
 2025/1 No.’lu Kamu İhale Tebliğine bakınız.
 tahsil edilemeyen gelirleri 6183 sayılı Amme Alacaklarının Tahsil Usulü Hakkında Kanun
@@ -1711,17 +1714,17 @@ itibaren ödeme tarihine kadar geçen süre için kanuni faiz işletilir.
 k) Kurumun giderleri, Kurul kararıyla yürürlüğe giren yıllık bütçeye göre yapılır. Kurumun
 bütçe yılı takvim yılıdır. Bütçe, bütçe yılının başlamasından önceki otuz gün içinde hazırlanır.
 Kurumun bütçe uygulama sonuçlarına ilişkin yıllık malî raporu ve bütçe kesin hesabı
-Cumhurbaşkanı Kararı ile ibra edilir.54
+Cumhurbaşkanı Kararı ile ibra edilir.55
 Kurumun yıllık hesapları ile gelir ve harcamalarına ilişkin iş ve işlemleri, Sayıştay denetimine
 tâbidir.
 
 İKİNCİ BÖLÜM
 
-54 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, (k) fıkrasında yer alan “Bakanlar Kurulu”
+55 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, (k) fıkrasında yer alan “Bakanlar Kurulu”
 ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-İhalelere Yönelik Başvurular ve İnceleme55
+İhalelere Yönelik Başvurular ve İnceleme56
 
-İhalelere yönelik başvurular56
+İhalelere yönelik başvurular57
 
 MADDE 54
 
@@ -1748,17 +1751,17 @@ belirlemeye Kurum yetkilidir.
 İtirazen şikayette bulunanlardan 53 üncü maddenin (j) bendinin (2) nolu alt bendinde
 belirtilen bedelin dört katı tutarına kadar başvuru teminatı alınmasına Cumhurbaşkanınca karar
 verilebilir. Başvuru teminatları Kurum hesaplarına yatırılır. Bu teminatlar Kurum gelirleri ile
-ilişkilendirilmeksizin ayrı hesaplarda tutulur.57
+ilişkilendirilmeksizin ayrı hesaplarda tutulur.58
 (Mülga yedinci fıkra:28/1/2021-7263/10 md.)
 Aynı kişi tarafından birden fazla ihaleye, birden fazla kişi tarafından ise aynı ihaleye tek
 dilekçe ile başvuruda bulunulamaz.
 (Ek: 6/2/2014-6518/50 md.) Başvuruların ihaleyi yapan idare veya Kurum dışındaki idari
 
-55 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu Bölüm başlığı “İnceleme Talebinde
+56 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu Bölüm başlığı “İnceleme Talebinde
 Bulunulması ve Şikâyetlerin İncelenmesi” iken, metne işlendiği şekilde değiştirilmiştir.
-56 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İnceleme talebinde
+57 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İnceleme talebinde
 bulunulması” iken, metne işlendiği şekilde değiştirilmiştir.
-57 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
+58 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
 ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 mercilere ya da yargı mercilerine yapılması ve başvuru dilekçelerinin bu merciler tarafından
 ilgisine göre idareye veya Kuruma gönderilmesi hâlinde, dilekçelerin idare veya Kurum
@@ -1781,7 +1784,7 @@ verilir.
 Dinamik alım sistemi, elektronik eksiltme ve çerçeve anlaşmalara ilişkin başvuru esas ve
 usulleri Kurum tarafından yürürlüğe konulacak yönetmelikle belirlenir.
 
-MADDE 55 — İdareye şikayet başvurusu58
+MADDE 55 — İdareye şikayet başvurusu59
 
 (Değişik: 20/11/2008-5812/22 md.)
 Şikayet başvurusu, ihale sürecindeki işlem veya eylemlerin hukuka aykırılığı iddiasıyla bu
@@ -1798,7 +1801,7 @@ başvuruların idarelerce ihale veya son başvuru tarihinden önce sonuçlandır
 maddi veya teknik hataların veya eksikliklerin bulunması ve idarece ihale dokümanında düzeltme
 yapılmasına karar verilmesi halinde, gerekli düzeltme yapılarak 29 uncu maddede belirtilen usule
 
-58 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İdare tarafından
+59 20/11/2008 tarihli ve 5812 sayılı Kanunun 21 inci maddesiyle bu madde başlığı “İdare tarafından
 inceleme” iken, metne işlendiği şekilde değiştirilmiştir.
 göre son başvuru veya ihale tarihi bir defaya mahsus olmak üzere ertelenir. Ancak belirlenen maddi
 veya teknik hataların veya eksikliklerin ilanda da bulunması halinde 26 ncı maddeye göre işlem
@@ -1817,7 +1820,7 @@ tarihten itibaren on gün geçmeden ve itirazen şikayet başvurusunda bulunulma
 ilişkin sorgulama yapılmadan veya itirazen şikayet başvurusunda bulunulması halinde ise Kurum
 tarafından nihai karar verilmeden sözleşme imzalanamaz.
 
-MADDE 56 — Kuruma itirazen şikayet başvurusu59
+MADDE 56 — Kuruma itirazen şikayet başvurusu60
 
 (Değişik: 22/11/2008-5812/23 md.)
 İdareye şikayet başvurusunda bulunan veya idarece alınan kararı uygun bulmayan aday,
@@ -1835,7 +1838,7 @@ Kanunda belirtilen sürelere ve usule uyulmadan sözleşme imzalanmış olması 
 şikayet başvurusundan feragat edilmesi itirazen şikayet başvurusunun incelenmesine ve 54 üncü
 maddede sayılan kararlardan birinin alınmasına engel teşkil etmez.
 
-59 20/11/2008 tarihli ve 5812 sayılı Kanunun 23 üncü maddesiyle bu madde başlığı “Kamu İhale Kurulu
+60 20/11/2008 tarihli ve 5812 sayılı Kanunun 23 üncü maddesiyle bu madde başlığı “Kamu İhale Kurulu
 tarafından inceleme” iken, 5/1/2009 tarihinden geçerli olmak üzere metne işlendiği şekilde
 değiştirilmiştir.
 Kurul tarafından gerekli görülen hallerde tarafların ve ilgililerin dinlenmesine karar
@@ -1879,7 +1882,7 @@ katılmaktan yasaklama kararı verilir. Katılma yasakları, ihaleyi yapan bakan
 bulunulan bakanlık, herhangi bir bakanlığın ilgili veya bağlı kuruluşu sayılmayan idarelerde bu
 idarelerin ihale yetkilileri, il özel idareleri ve bunlara bağlı birlik, müessese ve işletmelerde İçişleri
 Bakanlığı; belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ise Çevre ve Şehircilik
-Bakanlığı tarafından verilir.60
+Bakanlığı tarafından verilir.61
 Haklarında yasaklama kararı verilen tüzel kişilerin şahıs şirketi olması halinde şirket
 ortaklarının tamamı hakkında, sermaye şirketi olması halinde ise sermayesinin yarısından
 fazlasına sahip olan gerçek veya tüzel kişi ortaklar hakkında birinci fıkra hükmüne göre
@@ -1893,7 +1896,7 @@ kadar aynı idare tarafından yapılacak sonraki ihalelere de iştirak ettirilme
 Yasaklama kararları, yasaklamayı gerektiren fiil veya davranışın tespit edildiği tarihi
 izleyen en geç kırkbeş gün içinde verilir. Verilen bu karar Resmi Gazetede yayımlanmak üzere en
 geç onbeş gün içinde gönderilir ve yayımı tarihinde yürürlüğe girer. Bu kararlar Kamu İhale
-Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.61
+Kurumunca izlenerek, kamu ihalelerine katılmaktan yasaklı olanlara ilişkin siciller tutulur.62
 İhaleyi yapan idareler, ihalelere katılmaktan yasaklamayı gerektirir bir durumla
 karşılaştıkları takdirde, gereğinin yapılması için bu durumu ilgili veya bağlı bulunulan bakanlığa
 bildirmekle yükümlüdür.
@@ -1910,11 +1913,11 @@ maddeye göre verilen yasaklama kararının bitiş tarihini izleyen günden itib
 kurum ve kuruluşlarının ihalelerine katılmaktan mahkeme kararıyla 58 inci maddenin ikinci
 fıkrasında sayılanlarla birlikte yasaklanırlar.
 
-60 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “belediyeler ile
+61 29/11/2018 tarihli ve 7153 sayılı Kanunun 28 inci maddesiyle bu fıkrada yer alan “belediyeler ile
 bunlara bağlı birlik, müessese ve işletmelerde ise İçişleri” ibaresi “bunlara bağlı birlik, müessese ve
 işletmelerde İçişleri Bakanlığı; belediyeler ve bunlara bağlı birlik, müessese ve işletmelerde ise Çevre ve
 Şehircilik” şeklinde değiştirilmiştir.
-61 30/7/2003 tarihli ve 4964 sayılı Kanunun 35 inci maddesiyle bu fıkrada geçen “en geç otuz gün”
+62 30/7/2003 tarihli ve 4964 sayılı Kanunun 35 inci maddesiyle bu fıkrada geçen “en geç otuz gün”
 ibaresi, “en geç kırkbeş gün” olarak değiştirilmiştir.
 Bu Kanun kapsamında yapılan ihalelerden dolayı haklarında birinci fıkra gereğince ceza
 kovuşturması yapılarak kamu davası açılmasına karar verilenler ve 58 inci maddenin ikinci
@@ -1974,7 +1977,7 @@ yıllar itibariyle ödeneğin bütçelerinde bulunmasını sağlamak üzere prog
 olması zorunludur. İlk yıl için öngörülen ödenek, yılı merkezî yönetim bütçe kanununda
 belirlenen stratejik öneme sahip yatırımlar veya projeler hariç olmak üzere, proje maliyetinin %
 10’undan az olamaz ve başlangıçta daha sonraki yıllar için programlanmış olan ödenek dilimleri
-sonraki yıllarda azaltılamaz.62
+sonraki yıllarda azaltılamaz.63
 b) Öngörülen ödeneklerin kullanılmasına imkan verecek süre dikkate alınarak, idarelerce
 ihalelerin zamanında yapılması, birden fazla yılı kapsayan ve yatırım niteliği olan işlerde (doğal
 afetler nedeniyle yapılması gerekenler hariç) ise yılın ilk dokuz ayında ihalenin sonuçlandırılması
@@ -1991,7 +1994,7 @@ proje üzerinden, her türlü onarım işleri ile işin yapımı sırasında bel
 etütleri gerekmesi veya uygulamada imar ve güzergâh değişikliklerinin muhtemel olması
 nedenleriyle ihaleden önce uygulama projesi yapılamayan, bina işleri hariç, yapım işlerinde ise
 
-62 16/11/2016 tarihli ve 6761 sayılı Kanunun 6 ncı maddesiyle, bu bende 1/1/2017 tarihinden geçerli
+63 16/11/2016 tarihli ve 6761 sayılı Kanunun 6 ncı maddesiyle, bu bende 1/1/2017 tarihinden geçerli
 olmak üzere “İlk yıl için öngörülen ödenek” ibaresinden sonra gelmek üzere “, yılı merkezî yönetim bütçe
 kanununda belirlenen stratejik öneme sahip yatırımlar veya projeler hariç olmak üzere,” ibaresi
 eklenmiştir.
@@ -2004,7 +2007,7 @@ demiryolu, petrol ve doğalgaz boru hattı projelerinde aranmaz.
 d) (Değişik: 30/7/2003-4964/38 md.) İdarelerce bütçesinin programlanmasında, ihalede
 ise isteklilerce verilen tekliflerin karşılaştırılmasında kullanılmak üzere tespit edilen yaklaşık
 maliyet isteklilere duyurulmaz.
-e) (Değişik: 20/11/2017-KHK-696/83 md. Aynen kabul: 1/2/2018-7079/78 md.)63
+e) (Değişik: 20/11/2017-KHK-696/83 md. Aynen kabul: 1/2/2018-7079/78 md.)64
 1) 5018 sayılı Kanuna ekli (I), (II), (III) ve (IV) sayılı cetvellerde yer alan kamu idareleri
 (MİT Müsteşarlığı hariç) ile bunlara bağlı döner sermayeli kuruluşlar, 375 sayılı Kanun Hükmünde
 Kararnameye ekli (I) sayılı listede yer alan idarelerin merkez ve taşra teşkilatları, il özel idareleri,
@@ -2031,7 +2034,7 @@ yönetim sistemi hizmetleri ve çağrı merkezi hizmetlerine ilişkin alımlar p
 dayalı hizmet alımı olarak kabul edilmez.
 3) Kurum, hizmet alımının personel çalıştırılmasına dayalı olup olmadığı ya da niteliği
 
-63 20/11/2017 tarihli ve 696 sayılı KHK’nin 136 ncı maddesiyle, bu değişikliğin 2/1/2018 tarihinde
+64 20/11/2017 tarihli ve 696 sayılı KHK’nin 136 ncı maddesiyle, bu değişikliğin 2/1/2018 tarihinde
 yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun
 124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 itibarıyla bu sonucu doğurup doğurmadığı hususunda (2) numaralı alt bentte sayılan kriterleri ayrı
@@ -2050,7 +2053,7 @@ geçmemek kaydıyla mezuniyetlerinden sonra geçen her yıl, yüzyirmiikibinüç
 Türk Lirası olarak hesaplanmak üzere 10 uncu madde kapsamındaki benzer iş deneyimi olarak
 dikkate alınır. Bu süre iş deneyimi bulunan mimar ve mühendisler için uygulanmaz. Bu bent
 kapsamında elde edilen deneyim mühendis ve mimarın beş yıldır en az % 51 hissesine sahip olduğu
-(…)64 tüzel kişiler tarafından da kullanılabilir.65
+(…)65 tüzel kişiler tarafından da kullanılabilir.66
 ı) (Ek: 30/7/2003-4964/38 md.) Bu Kanunun 21 ve 22 nci maddelerindeki parasal limitler
 dahilinde yapılacak harcamaların yıllık toplamı, idarelerin bütçelerine bu amaçla konulacak
 ödeneklerin %10’unu Kamu İhale Kurulunun uygun görüşü olmadıkça aşamaz.
@@ -2069,9 +2072,9 @@ lehine, %15 oranına kadar fiyat avantajı sağlanabilir. Ancak Bilim, Sanayi ve
 tarafından ilgili kurum ve kuruluşların görüşleri alınarak orta ve yüksek teknolojili sanayi ürünleri
 arasından belirlenen ve Kurum tarafından ilan edilen listede yer alan malların ihalelerinde, yerli malı
 
-64 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/104, K.: 2013/87 sayılı Kararı ile bu bentte yer
+65 Anayasa Mahkemesi’nin 10/7/2013 tarihli ve E.: 2012/104, K.: 2013/87 sayılı Kararı ile bu bentte yer
 alan “…veya her iki ortağın da mühendis olup % 50-% 50 ortak olduğu…” ibaresi iptal edilmiştir.
-65 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
+66 Bu bentte yer alan eşik değerler ve parasal limitlerin 1/2/2025 tarihinden itibaren uygulanması ile ilgili
 olarak, 24/1/2025 tarihli ve 32792 sayılı Resmî Gazete’de yayımlanan Kamu İhale Kurumunun 2025/1
 No.’lu Kamu İhale Tebliğine bakınız.
 teklif eden istekliler lehine %15 oranında fiyat avantajı sağlanması mecburidir. Yerli yazılım ürünü
@@ -2082,7 +2085,7 @@ Ancak, malzemelere ilişkin Çevre ve Şehircilik Bakanlığı tarafından, maki
 ilişkin Bilim, Sanayi ve Teknoloji Bakanlığı tarafından ilgili kurum ve kuruluşların görüşleri
 alınarak orta düşük, orta yüksek ve yüksek teknolojili makine, malzeme ve ekipman arasından
 belirlenen, Kurum tarafından ilan edilen listede yer alan ve ihale konusu işte kullanılacak makine,
-malzeme ve ekipmanın yerli malı olması şarttır.66
+malzeme ve ekipmanın yerli malı olması şarttır.67
 e) Yerli malı belirlenmesine ilişkin usul ve esaslar Bilim, Sanayi ve Teknoloji Bakanlığı
 tarafından ilgili kurum ve kuruluşların görüşleri alınarak belirlenir. İsteklilerce teklif edilen malın
 yerli malı olduğu, bu usul ve esaslara uygun olarak düzenlenen yerli malı belgesi ile belgelendirilir.
@@ -2094,7 +2097,7 @@ MADDE 64 — Sürelerin hesabı
 Bu Kanunda yazılı sürelerin hesaplanmasında hüküm bulunmayan hallerde
 Borçlar Kanunu hükümleri uygulanır.
 
-MADDE 65 — Bildirim ve tebligat esasları67
+MADDE 65 — Bildirim ve tebligat esasları68
 
 (Değişik: 20/11/2008-5812/25 md.)
 Aday, istekliler ve istekli olabileceklere yapılacak her türlü bildirim ve tebligatlarda
@@ -2104,15 +2107,15 @@ a) Tebligatlar idareler veya Kurum tarafından aşağıdaki yöntemler kullanıl
 2) İadeli taahhütlü mektupla.
 3) Elektronik ortamda.
 4) Faksla.
-(…)68 yabancı isteklilerde ise ondokuzuncu gün (…)68. Tebligatın bu tarihten önce
+(…)69 yabancı isteklilerde ise ondokuzuncu gün (…)69. Tebligatın bu tarihten önce
 muhataba ulaşması halinde ise fiili tebliğ tarihi esas alınır.
 b) İdareler veya Kurum tarafından elektronik ortamda veya faks ile yapılan tebligatlar ile
 
-66 18/6/2017 tarihli ve 7033 sayılı Kanunun 74 üncü maddesiyle bu fıkraya (c) bendinden sonra gelmek
+67 18/6/2017 tarihli ve 7033 sayılı Kanunun 74 üncü maddesiyle bu fıkraya (c) bendinden sonra gelmek
 üzere (d) bendi eklenmiş ve mevcut (d) ve (e) bentleri (e) ve (f) bentleri olarak teselsül ettirilmiştir.
-67 20/11/2008 tarihli ve 5812 sayılı Kanunun 25 inci maddesiyle bu madde başlığı “Tebligat” iken, metne
+68 20/11/2008 tarihli ve 5812 sayılı Kanunun 25 inci maddesiyle bu madde başlığı “Tebligat” iken, metne
 işlendiği şekilde değiştirilmiştir.
-68 Anayasa Mahkemesinin 27/9/2012 tarihli ve E:2012/20, K: 2012/132 sayılı kararıyla bu fıkrada yer
+69 Anayasa Mahkemesinin 27/9/2012 tarihli ve E:2012/20, K: 2012/132 sayılı kararıyla bu fıkrada yer
 alan “İadeli taahhütlü mektupla yapılan tebligatlarda mektubun postaya verilmesini takip eden yedinci
 gün”, “… kararın istekliye tebliğ tarihi sayılır” hükmü iptal edilmiştir.
 çerçeve anlaşmaya dahil olan istekliler tarafından elektronik ortamda sunulan fiyat tekliflerinin
@@ -2134,14 +2137,14 @@ MADDE 66 — Değişiklik yapılması
 Bu Kanun hükümlerine ilişkin değişiklikler, ancak bu Kanuna hüküm
 eklenmek veya bu Kanunda değişiklik yapılmak suretiyle düzenlenir.
 
-MADDE 67 — Eşik değerler ve parasal limitlerin güncellenmesi69
+MADDE 67 — Eşik değerler ve parasal limitlerin güncellenmesi70
 
 Bu Kanunda belirtilen eşik değerler ve parasal limitler bir önceki yılın Toptan
 Eşya Fiyat Endeksi esas alınarak Kamu İhale Kurumu tarafından güncellenir ve her yıl 1 Şubat
 tarihinden geçerli olmak üzere aynı tarihe kadar Resmî Gazetede ilân edilir. Ancak güncellemede
 bir milyon Türk Lirasının altındaki tutarlar dikkate alınmaz. Bu Kanunda belirtilen eşik değerler
 ve parasal limitler, olağanüstü hallerde, belirtilen tarihin dışında da Kurumun teklifi üzerine
-Cumhurbaşkanı Kararı ile güncellenebilir.70
+Cumhurbaşkanı Kararı ile güncellenebilir.71
 
 ALTINCI KISIM
 Son Hükümler
@@ -2154,22 +2157,21 @@ sayılı Devlet İhale Kanunu hükümleri uygulanmaz.
 b) Diğer kanunların 8.9.1983 tarihli ve 2886 sayılı Devlet İhale Kanunundan muafiyet
 tanıyan hükümleri ile bu Kanuna uymayan hükümleri uygulanmaz.
 
-69 Bu Kanunda belirtilen eşik değerler ve parasal limitlerin uygulanması ile ilgili olarak Kamu İhale
+70 Bu Kanunda belirtilen eşik değerler ve parasal limitlerin uygulanması ile ilgili olarak Kamu İhale
 Kurumu tarafından çıkarılan Kamu İhale Tebliğleri ile ilgili olarak son sayfada yer alan “4734 sayılı
 Kanunda belirtilen eşik değerler ve parasal limitlerin uygulanması ile ilgili olarak Kamu İhale Kurumu
 Tarafından çıkarılan Kamu İhale Tebliğlerine İlişkin Tablo”ya bakınız.
-70 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
+71 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
 ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 c) (Ek: 30/7/2003-4964/39 md.) 2985 sayılı Toplu Konut Kanunu kapsamındaki projelerde, 5
 inci maddenin beşinci ve altıncı fıkraları, 62 nci maddenin (a) ve (b) bentleri ile (c) bendindeki
 kamulaştırma, mülkiyet, arsa temini, imar işlemleri ve uygulama projesine ilişkin şartlar aranmaksızın
 ihaleye çıkılabilir. Ancak, ÇED raporu zorunluluğu bulunan hallerde sözleşme imzalanmadan önce
-bu raporun alınması zorunludur.71
+bu raporun alınması zorunludur.72
 
-71 13/2/2011 tarihli ve 6111 sayılı Kanunun 179 uncu maddesi ile bu fıkrada yer alan “toplu konut
-projelerinde” ibaresi “projelerde” olarak değiştirilmiştir.
+Elektronik Kamu Alımları Platformu73
 
-EK MADDE 1 — Elektronik Kamu Alımları Platformu72
+EK MADDE 1
 
 (Ek: 30/7/2003-4964/41 md.; Değişik: 20/11/2008-5812/26 md.)
 (Değişik paragraf:16/11/2022-7421/12 md.) Bu Kanunun 13 üncü maddesi saklı kalmak
@@ -2192,12 +2194,19 @@ olarak Elektronik Kamu Alımları Platformu üzerinden sistemler kurulabilir. Bu
 kurulması, kurdurulması, denetlenmesi, yetkilendirilen kuruluşların yetkilerinin iptal edilmesi
 veya tedbir niteliğinde kararlar alınması hususlarında Kurum yetkilidir.
 
-EK MADDE 2 — Çerçeve anlaşmalar73
+EK MADDE 2 — Çerçeve anlaşmalar74
 
 (Ek: 1/6/2007-5680/2 md.; Değişik: 20/11/2008-5812/27 md.)
 İdareler ihtiyaç duydukları mal ve hizmet alımları ile yapım işlerine ilişkin olarak açık
 ihale veya belli istekliler arasında ihale usulünü uygulamak kaydıyla çerçeve anlaşmalar
 yapabilir. Çerçeve anlaşmalar rekabeti engelleyici, sınırlayıcı veya bozucu şekilde kullanılamaz.
+
+72 13/2/2011 tarihli ve 6111 sayılı Kanunun 179 uncu maddesi ile bu fıkrada yer alan “toplu konut
+projelerinde” ibaresi “projelerde” olarak değiştirilmiştir.
+73 20/11/2008 tarihli ve 5812 sayılı Kanunun 26 ncı maddesiyle bu madde başlığı metne işlendiği şekilde
+değiştirilmiştir.
+74 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle bu madde başlığı “Çerçeve sözleşme
+kapsamında mal ve hizmet alımı” iken, metne işlendiği şekilde değiştirilmiştir.
 Çerçeve anlaşma kapsamında temin edilecek mal ve hizmet alımları ile yapım işleri
 Kanunun 13 üncü maddesine göre ilan edilir. Çerçeve anlaşma kapsamında karşılanması
 planlanan tahmini ihtiyaç miktarları ilanda gösterilir.
@@ -2205,11 +2214,6 @@ Teminat alınmasına ilişkin hükümler hariç olmak üzere, ihalelerin sözle�
 hakkında bu Kanunda yer alan hükümler çerçevesinde, süresi kırksekiz ayı geçmemek üzere
 çerçeve anlaşma imzalanır ve sonuçlar Kamu İhale Bülteninde ilan edilir.
 Çerçeve anlaşmalar, koşulların tamamının baştan belirlendiği hallerde, bir istekli ile de
-
-72 20/11/2008 tarihli ve 5812 sayılı Kanunun 26 ncı maddesiyle bu madde başlığı metne işlendiği şekilde
-değiştirilmiştir.
-73 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle bu madde başlığı “Çerçeve sözleşme
-kapsamında mal ve hizmet alımı” iken, metne işlendiği şekilde değiştirilmiştir.
 yapılabilir. Birden fazla istekli ile yapılacak çerçeve anlaşmalarda istenilen şartları karşılayan yeterli
 sayıda teklif sunulması kaydıyla çerçeve anlaşmaya taraf olacak istekli sayısı üçten az olmamak üzere
 ihale dokümanında belirtilir. Çerçeve anlaşmaların bir istekli ile yapıldığı haller hariç, yapılan
@@ -2245,12 +2249,11 @@ aynı kapsamda olup 2886 sayılı Devlet İhale Kanunu dışında, ihalesi ilgil
 göre bu maddenin yürürlüğe girdiği tarihe kadar yapılmış olanlar ile bu tarihten sonra yapılacak
 olan ve bedeli yabancı para cinsinden sabit fiyatlarla sözleşmeye bağlanan yapım ve yapımla
 ilgili hizmet işlerine uygulanmak üzere; fiyat farkı esasları belirlemeye, sözleşmelerin tadil veya
-tasfiye edilmesine imkân veren kararlar çıkarmaya Cumhurbaşkanı yetkilidir.74
+tasfiye edilmesine imkân veren kararlar çıkarmaya Cumhurbaşkanı yetkilidir.75
 
-74 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “kararnameler
-çıkarmaya Bakanlar Kurulu” ibaresi “kararlar çıkarmaya Cumhurbaşkanı” şeklinde değiştirilmiştir.
+Dinamik alım sistemi
 
-EK MADDE 4 — Dinamik alım sistemi
+EK MADDE 4
 
 (Ek: 20/11/2008-5812/28 md.)
 Dinamik alım sistemi, piyasada mamul olarak bulunan malların elektronik ortamda
@@ -2280,6 +2283,9 @@ Dinamik alım sisteminin süresi kırk sekiz aydan fazla olamaz.
 Dinamik alım sisteminde yapılacak ihalelerde Elektronik Kamu Alımları Platformu
 kullanılır. Sisteme kabul edilmeye ve sistemin yürütülmesine ilişkin olarak herhangi bir ücret
 talep edilmez.
+
+75 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “kararnameler
+çıkarmaya Bakanlar Kurulu” ibaresi “kararlar çıkarmaya Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Dinamik alım sistemi dahilinde yapılacak alımlara ilişkin sözleşme düzenlenmesi gerekli
 haller ile bu sözleşmelerin şeklini ve kapsamını belirlemeye Kurum yetkilidir.
 
@@ -2348,13 +2354,17 @@ EK MADDE 8 — Uygun görüş alınması ve görevlilerin sorumlulukları
 
 (10/9/2014-6552/11 md.)
 (Değişik birinci fıkra: 20/11/2017-KHK-696/84 md.; Aynen kabul: 1/2/2018-7079/79
-md.)75 62 nci maddenin birinci fıkrasının (e) bendi kapsamında personel çalıştırılmasına dayalı
+md.)76 62 nci maddenin birinci fıkrasının (e) bendi kapsamında personel çalıştırılmasına dayalı
 hizmetler (danışmanlık hizmet alımları hariç) için ihaleye çıkılmadan önce; 8/6/1984 tarihli ve
 233 sayılı Kamu İktisadi Teşebbüsleri Hakkında Kanun Hükmünde Kararname uyarınca
 yayımlanan Genel Yatırım ve Finansman Programı Kararı çerçevesinde, 233 sayılı Kanun
 Hükmünde Kararnameye tabi kamu iktisadi teşebbüsleri ve bağlı ortaklıklarının Hazine
 Müsteşarlığından, 24/11/1994 tarihli ve 4046 sayılı Özelleştirme Uygulamaları Hakkında Kanun
 çerçevesinde özelleştirme programında bulunanlardan sermayesinin %50’sinden fazlası kamuya
+
+76 20/11/2017 tarihli ve 696 sayılı KHK’nin 136 ncı maddesiyle, bu düzenlemenin 2/1/2018 tarihinde
+yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun
+124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 ait işletmeci kuruluşların ise Özelleştirme İdaresi Başkanlığından uygun görüş alması zorunludur.
 Uygun görüş, bu kapsamda çalıştırılacak personel sayısı ile idareler, hizmet türleri, işin yapıldığı
 yer gibi ücret düzeyini etkileyen unsurlardan biri, birkaçı veya tamamı dikkate alınarak ihale
@@ -2363,10 +2373,6 @@ Uygun görüş alınmadan bu hizmetler için ihaleye çıkılamaz. (Mülga ikinc
 20/11/2017-KHK-696/84 md.; Aynen kabul: 1/2/2018-7079/79 md.)(…)
 62 nci maddenin birinci fıkrasının (e) bendi uyarınca yapılan personel çalıştırılmasına
 dayalı hizmet alımı ihaleleri çerçevesinde çalıştırılan personel, ihale ve sözleşme konusu iş
-
-75 20/11/2017 tarihli ve 696 sayılı KHK’nin 136 ncı maddesiyle, bu düzenlemenin 2/1/2018 tarihinde
-yürürlüğe gireceği hüküm altına alınmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun
-124 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
 dışında başka bir işte çalıştırılamaz ve görevlendirilemez. Bu kapsamda, personel çalıştırılmasına
 dayalı hizmet alımı ihalesine çıkılmaması gerektiği hâlde ihaleye çıkılması, uygun görüş alınması
 gereken hâllerde alınmadan ihaleye çıkılması, ihale kapsamında çalıştırılan personelin sözleşme
@@ -2378,9 +2384,9 @@ hükümleri saklı kalmak üzere, bu kişilere her türlü aylık, ödenek, zam,
 aylık net ödemelerin beş katı tutarında idari para cezası uygulanır. 4857 sayılı Kanunun 3 üncü
 maddesinin ikinci fıkrasında öngörülen itiraz veya diğer kanun yollarına başvurmayan kişilere ise
 her türlü aylık, ödenek, zam, tazminat dâhil yapılan bir aylık net ödemelerin iki katı tutarında
-idari para cezası uygulanır.76
+idari para cezası uygulanır.77
 Bu maddenin uygulanmasına ilişkin usul ve esaslar Cumhurbaşkanı tarafından yürürlüğe
-konulan yönetmelikle düzenlenir.77
+konulan yönetmelikle düzenlenir.78
 
 Kamu alımlarının bölgesel kalkınma ve teknolojik gelişme amaçlı kullanımı
 
@@ -2393,6 +2399,14 @@ yenilikçiliğin teşvik edilmesi amaçlarına yönelik olarak temin edilmesi ha
 hükümleri uygulanır.
 İhtiyaçlar, ilan yapılmak ya da davet edilmek suretiyle bir veya birden fazla alım
 kapsamında, bir veya daha fazla istekliden süre, miktar ya da kısımlar bakımından bölünerek de
+
+77 4/4/2015 tarihli ve 6645 sayılı Kanunun Geçici 1 inci maddesinin birinci fıkrasıyla, bu fıkra
+hükümlerinin 31/12/2015 tarihine kadar uygulanmayacağı hüküm altına alınmış olup, daha sonra
+30/12/2015 tarihli ve 6656 sayılı Kanunun 9 uncu maddesiyle “31/12/2015” ibaresi “30/6/2016” şeklinde
+değiştirilmiştir.
+78 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Çalışma ve Sosyal
+Güvenlik Bakanlığı ve Hazine Müsteşarlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar
+Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 karşılanabilir. İhtiyacın özelliğine göre teknik şartlar, maliyet ile performans kriterleri ve
 sözleşme koşulları müzakere edilebilir ve gerekli hallerde idareler ile istekliler arasında işbirliği
 yapılabilir.
@@ -2401,17 +2415,8 @@ yerine getirileceğine ilişkin hususlara dokümanda yer verilir.
 Bu madde kapsamındaki mal alımları, sadece yurtiçinde üretilen malları teklif eden
 isteklilerin veya bölgesel kalkınma programı uygulanan illerde üretilen malları teklif eden
 isteklilerin katılımına açık gerçekleştirilebilir. Yurtiçinde üretilen malları teklif eden isteklilerin
-
-76 4/4/2015 tarihli ve 6645 sayılı Kanunun Geçici 1 inci maddesinin birinci fıkrasıyla, bu fıkra
-hükümlerinin 31/12/2015 tarihine kadar uygulanmayacağı hüküm altına alınmış olup, daha sonra
-30/12/2015 tarihli ve 6656 sayılı Kanunun 9 uncu maddesiyle “31/12/2015” ibaresi “30/6/2016” şeklinde
-değiştirilmiştir.
-77 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Çalışma ve Sosyal
-Güvenlik Bakanlığı ve Hazine Müsteşarlığının görüşü ve Maliye Bakanlığının teklifi üzerine Bakanlar
-Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 katılımına açık olan mal alımlarında, bölgesel kalkınma programı uygulanan illerde üretilen
 malları teklif eden istekliler lehine %15 oranına kadar fiyat avantajı sağlanabilir.
-
 Mal alımlarında, ihtiyacın belli kısmının yüklenici tarafından, bölgesel kalkınma programı
 uygulanan illerde üretim yapan veya faaliyet gösteren diğer gerçek veya tüzel kişilerden tedarik
 edilmesi veya sağlanması yönünde dokümanda düzenleme yapılabilir.
@@ -2430,13 +2435,16 @@ Bu madde kapsamında yapılacak alımlara ilişkin; alım yapacak idareler, alı
 ürünler, alım garantisi verilecek ürünler ve garanti süreleri, ürünün yerli katkı oranı, uygulanacak
 fiyat avantajı oranı ve süresi, yüklenme süresi, miktar, parasal limitler, alım yöntem ve kuralları,
 fiyat farkı, iş artışı ve eksilişi ile sözleşmeye ilişkin hususları da kapsayan uygulama usul ve
-esasları ile sınırlamalar Cumhurbaşkanı kararı ile belirlenir.78
+esasları ile sınırlamalar Cumhurbaşkanı kararı ile belirlenir.79
 Bu madde kapsamında yapılacak alımlarda, ceza, ihalelerden yasaklama ve sonuç
 bildirimine ilişkin hükümleri hariç olmak üzere bu Kanun ve 4735 sayılı Kanun hükümleri ile
 ilgili mevzuatında yüklenmeyle ilgili süre, konu ve diğer sınırlamalar uygulanmaz.
 Diğer kanunlarda yer alan kamu alım garantisi ile ilgili sınırlamalar ve şartlar, bu madde
 kapsamında kamu alım garantisi yoluyla yapılacak alımlarda uygulanmaz. Aynı şekilde bu
 maddede yer alan kamu alım garantisi ile ilgili hükümler, diğer kanunların kamu alım garantisi
+
+79 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 ile ilgili hükümlerinin uygulanmasına engel teşkil etmez.
 
 EK MADDE 10 — FATİH Projesi kapsamında mal ve hizmet alımları ile yapım işleri
@@ -2445,9 +2453,6 @@ EK MADDE 10 — FATİH Projesi kapsamında mal ve hizmet alımları ile yapım i
 Yurt içi üretimin ve katma değerin artırılması, teknoloji kazanımının sağlanması, daha
 önce yurt içinde üretimi bulunmayan ürünlerin üretilebilmesi, yeni teknoloji ve ürünlere yönelik
 araştırma-geliştirme faaliyetlerinin sürdürülmesi ve bilgi toplumuna geçiş hedefleriyle, Millî
-
-78 2/7/2018 tarihli ve 703 sayılı KHK’nin 171 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Eğitim Bakanlığına bağlı okulöncesi, ilköğretim ve ortaöğretim kademelerindeki okulların
 dersliklerine bilişim teknolojisi donanımı, yazılımı, ağ altyapısı ve internet erişim imkânının
 sağlanması, dersler için çevrim içi ve çevrim dışı ortamlarda e-içerik temin edilmesi ve e-içerik
@@ -2464,7 +2469,7 @@ EK MADDE 11
 
 (Ek: 2/7/2018-KHK-703/171 md.)
 Bu Kanunun 3 üncü maddesinin (b), (d), (e), (f), (h), (i), (j), (k), (l), (n), (u), (y) ve (z)
-bentlerine ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.79
+bentlerine ilişkin usul ve esaslar Cumhurbaşkanınca belirlenir.80
 (Ek fıkra:18/7/2024-7521/7 md.) Bu Kanunun 3 üncü maddesinin birinci fıkrasının (m)
 bendi kapsamında yapılacak alımlara yönelik olarak satın alma yöntemleri dâhil alım sürecinin
 yürütülmesi ve sonuçlandırılmasına ilişkin gerçekleştirilecek iş ve işlemler hakkında usul ve
@@ -2475,26 +2480,35 @@ belirlenir.
 EK MADDE 12 — Devlet Malzeme Ofisi Genel Müdürlüğü tarafından idareler adına yapılacak alımlar
 
 (Ek: 27/12/2023-7491/39 md.)
-Devlet Malzeme Ofisi Genel Müdürlüğü tarafından, idareler adına yapılacak taşıt alımı, taşıt
-kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımları; saydamlığın, rekabetin,
-eşit muamelenin, güvenirliğin, gizliliğin, kamuoyu denetiminin, ihtiyaçların uygun şartlarla ve
-zamanında karşılanmasının ve kaynakların verimli kullanılmasının sağlanması kaydıyla, bütün
-isteklilerin teklif verebildiği açık veya kapalı teklif usulü, isteklilere davet göndermek suretiyle
-açık veya kapalı teklif istenmesi yöntemiyle yapılan belli istekliler arasında ihale usulü veya
-davet edilen istekli ile fiyat müzakeresi yapılan pazarlık usulüne ilişkin satın alma yöntemleri ile
-yapılabilir.
-Bu madde kapsamında yapılacak alımlarda,
-a) Birinci fıkrada belirlenen satın alma yöntemleri uygulanmak kaydıyla çerçeve anlaşmalar
-yapılabilir.
-b) Ceza, ihalelerden yasaklama ve sonuç bildirimine ilişkin hükümler hariç olmak üzere bu
-Kanun hükümleri uygulanmaz.
+Devlet Malzeme Ofisi Genel Müdürlüğü tarafından, idareler adına yapılacak taşıt alımı,
+taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımları; saydamlığın,
+rekabetin, eşit muamelenin, güvenirliğin, gizliliğin, kamuoyu denetiminin, ihtiyaçların uygun
+şartlarla ve zamanında karşılanmasının ve kaynakların verimli kullanılmasının sağlanması
 
-79 17/1/2019 tarihli ve 7161 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “ve (y)” ibaresi “, (y)
+80 17/1/2019 tarihli ve 7161 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “ve (y)” ibaresi “, (y)
 ve (z)” şeklinde değiştirilmiştir.
+kaydıyla, bütün isteklilerin teklif verebildiği açık veya kapalı teklif usulü, isteklilere davet
+göndermek suretiyle açık veya kapalı teklif istenmesi yöntemiyle yapılan belli istekliler arasında
+ihale usulü veya davet edilen istekli ile fiyat müzakeresi yapılan pazarlık usulüne ilişkin satın
+alma yöntemleri ile yapılabilir.
+Bu madde kapsamında yapılacak alımlarda,
+a) Birinci fıkrada belirlenen satın alma yöntemleri uygulanmak kaydıyla çerçeve
+anlaşmalar yapılabilir.
+b) Ceza, ihalelerden yasaklama ve sonuç bildirimine ilişkin hükümler hariç olmak üzere
+bu Kanun hükümleri uygulanmaz.
 c) Uygulanacak satın alma yöntemleri, ilan ve davet süreleri ile kuralları, doküman
 hazırlanması, tekliflerin sunulması, değerlendirilmesi ve alımların sonuçlandırılması dahil ihale
 süreci ve çerçeve anlaşmalara ilişkin iş ve işlemler ile ilgili esas ve usuller Kurumun görüşü
 alınarak Devlet Malzeme Ofisi Genel Müdürlüğü tarafından yönetmelikle belirlenir.
+
+EK MADDE 13 — Kamu Alımlarında Mütekabiliyet
+
+(Ek:24/7/2026-7590/13 md.)
+Bu Kanun ve diğer kanunlar kapsamındaki alımlarda yerli istekliler, yerli malı ve bu malı
+teklif eden istekliler lehine tanınan hak ve avantajların, Avrupa Birliği üyesi devletlerde yerleşik
+isteklilere, Avrupa Birliği menşeli mala ve bu malı teklif eden isteklilere de mütekabiliyet
+esasları çerçevesinde ülke ve/veya ürüne göre kısmen ya da tamamen tanınması hususunda
+Cumhurbaşkanı yetkilidir.
 
 GEÇİCİ MADDE 1 — Standart ihale dokümanları ve yönetmelikler
 
@@ -2527,19 +2541,37 @@ tarafından belirlenir.
 faaliyet gösteren teşebbüs, işletme ve şirketler, özel kanunları yürürlüğe girinceye kadar bu
 Kanunun 3 üncü maddesinin (g) bendi hükmüne, bu bent kapsamında yer almayan mal ve hizmet
 alımları ile yapım işlerinde ise Kanunun diğer hükümlerine tâbi olurlar. (Ek cümle: 22/12/2005-
-5436/13 md.) Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit, (…)80 Türkiye
+5436/13 md.) Bu Kanunun 3 üncü maddesinin (g) bendinde yer alan parasal limit, (…)81 Türkiye
 Petrolleri Anonim Ortaklığının ve BOTAŞ’ın ve bu şirketlerin bağlı ortaklıkları ile yurt dışında
-
-80 20/11/2017 tarihli ve 696 sayılı KHK’nin 85 inci maddesiyle, bu fıkrada yer alan “Posta ve Telgraf
-Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi yürürlükten
-kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 80 inci maddesiyle aynen kabul
-edilerek kanunlaşmıştır.
-kurdukları şirketlerin (…)81 petrol ve doğalgaz arama, sondaj, üretim, taşıma, depolama ve
+kurdukları şirketlerin (…)82 petrol ve doğalgaz arama, sondaj, üretim, taşıma, depolama ve
 gazlaştırma faaliyetleri ile ilgili olarak yapacakları her türlü mal ve hizmet alımları ile yapım
 işlerinde ve Toprak Mahsulleri Ofisi Genel Müdürlüğünün faaliyet ve görev alanı kapsamında
 yer alan tarımsal ürünlerle ilgili olmak üzere, ilgili bakanın onayı ve Toprak Mahsulleri Ofisi
 Yönetim Kurulunun görevlendirmesi ile ithalat yoluyla yapacağı tarımsal ürün alımlarında ve
-buna ilişkin hizmet alımlarında (…)82 uygulanmaz.8183848586
+buna ilişkin hizmet alımlarında (…)83 uygulanmaz.8284858687
+
+81 20/11/2017 tarihli ve 696 sayılı KHK’nin 85 inci maddesiyle, bu fıkrada yer alan “Posta ve Telgraf
+Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi yürürlükten
+kaldırılmış, daha sonra bu hüküm 1/2/2018 tarihli ve 7079 sayılı Kanunun 80 inci maddesiyle aynen kabul
+edilerek kanunlaşmıştır.
+82 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “Türkiye karasuları
+ile uluslararası sular dahilinde” ibaresi madde metninden çıkarılmış ve “üretim ve taşıma” ibaresi
+“üretim, taşıma, depolama ve gazlaştırma” şeklinde değiştirilmiştir.
+83 Anayasa Mahkemesinin 18/5/2023 Tarihli ve E: 2020/11, K: 2023/98 Sayılı Kararı ile bu fıkranın ikinci
+cümlesinde yer alan “…; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği
+taşıt alımı, taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında…” ibaresi
+iptal edilmiştir.
+84 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Bu Kanunun 3 üncü
+maddesinin (g) bendinde yer alan parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
+Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi eklenmiştir.
+85 5/12/2019 tarihli ve 7194 sayılı Kanunun 45 inci maddesiyle, bu fıkraya “yapım işlerinde” ibaresinden
+sonra gelmek üzere “; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği taşıt alımı,
+taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında” ibaresi eklenmiştir.
+86 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkraya “Türkiye Petrolleri Anonim
+Ortaklığının” ibaresinden sonra gelmek üzere “ve Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu
+şirketlerin bağlı ortaklıkları ile yurt dışında kurdukları şirketlerin” ibaresi eklenmiştir.
+87 18/7/2024 tarihli ve 7521 sayılı Kanunun 8 inci maddesi ile bu fıkranın ikinci cümlesinde yer alan “ve
+Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu şirketlerin bağlı ortaklıkları ile” ibaresi “ve
 (Ek fıkra: 14/7/2004-5226/24 md.; Mülga altıncı fıkra: 2/7/2018-KHK-703/171 md.)
 (Ek fıkra: 3/3/2005-5312/26 md.; Mülga yedinci fıkra: 2/7/2018-KHK-703/171 md.)
 (Ek fıkra: 27/12/2007-5726/24 md.; Mülga sekizinci fıkra: 2/7/2018-KHK-703/171 md.)
@@ -2553,30 +2585,6 @@ alımlarda Kanunun 5 inci maddesinin birinci fıkrasında belirlenen temel ilkel
 ihaleler en yüksek katılımı sağlayacak şekilde gerçekleştirilir.
 (Ek fıkra:18/7/2024-7521/8 md.) Beşinci fıkra kapsamında BOTAŞ ve Toprak
 Mahsulleri Ofisi Genel Müdürlüğü tarafından yapılacak alımlarda Kanunun 5 inci maddesinin
-
-81 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “Türkiye karasuları
-ile uluslararası sular dahilinde” ibaresi madde metninden çıkarılmış ve “üretim ve taşıma” ibaresi
-“üretim, taşıma, depolama ve gazlaştırma” şeklinde değiştirilmiştir.
-82 Anayasa Mahkemesinin 18/5/2023 Tarihli ve E: 2020/11, K: 2023/98 Sayılı Kararı ile bu fıkranın ikinci
-cümlesinde yer alan “…; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği
-taşıt alımı, taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında…” ibaresi
-iptal edilmiştir.
-83 9/5/2013 tarihli ve 6475 sayılı Kanunun 31 inci maddesiyle bu fıkrada yer alan “Bu Kanunun 3 üncü
-maddesinin (g) bendinde yer alan parasal limit,” ibaresinden sonra gelmek üzere “Posta ve Telgraf
-Teşkilatı Anonim Şirketinin anılan bent kapsamındaki mal ve hizmet alımları ile” ibaresi eklenmiştir.
-84 5/12/2019 tarihli ve 7194 sayılı Kanunun 45 inci maddesiyle, bu fıkraya “yapım işlerinde” ibaresinden
-sonra gelmek üzere “; Devlet Malzeme Ofisi Genel Müdürlüğünün idareler adına gerçekleştireceği taşıt alımı,
-taşıt kiralama, akaryakıt alımı ile ilaç, tıbbi malzeme ve tıbbi cihaz alımlarında” ibaresi eklenmiştir.
-85 25/11/2020 tarihli ve 7257 sayılı Kanunun 11 inci maddesiyle bu fıkraya “Türkiye Petrolleri Anonim
-Ortaklığının” ibaresinden sonra gelmek üzere “ve Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu
-şirketlerin bağlı ortaklıkları ile yurt dışında kurdukları şirketlerin” ibaresi eklenmiştir.
-86 18/7/2024 tarihli ve 7521 sayılı Kanunun 8 inci maddesi ile bu fıkranın ikinci cümlesinde yer alan “ve
-Boru Hatları ile Petrol Taşıma Anonim Şirketinin ve bu şirketlerin bağlı ortaklıkları ile” ibaresi “ve
-BOTAŞ’ın ve bu şirketlerin bağlı ortaklıkları ile” şeklinde, “yapılacak” ibaresi “yapacakları” şeklinde
-değiştirilmiş, cümleye “yapım işlerinde” ibaresinden sonra gelmek üzere “ve Toprak Mahsulleri Ofisi
-Genel Müdürlüğünün faaliyet ve görev alanı kapsamında yer alan tarımsal ürünlerle ilgili olmak üzere,
-ilgili bakanın onayı ve Toprak Mahsulleri Ofisi Yönetim Kurulunun görevlendirmesi ile ithalat yoluyla
-yapacağı tarımsal ürün alımlarında ve buna ilişkin hizmet alımlarında” ibaresi eklenmiştir.
 birinci fıkrasında belirlenen temel ilkeler doğrultusunda uygulanacak satın alma yöntemleri, ilan
 ve davet süreleri ile kuralları, doküman hazırlanması, tekliflerin sunulması, değerlendirilmesi ve
 alımların sonuçlandırılması dahil ihale süreci ve çerçeve anlaşmalara ilişkin iş ve işlemler ile
@@ -2597,6 +2605,12 @@ Kurumun bu Kanunun yürürlüğe gireceği tarihe kadar yapacağı ihalelerle il
 usuller Kurulun önerisi üzerine Bakanlar Kurulu kararıyla çıkarılacak yönetmelikle düzenlenir.
 Bu Kanunun 53 üncü maddesinde belirtilen yönetmelikler ile üçüncü fıkrada belirtilen
 yönetmelik Kurumun faaliyete geçeceği tarihe kadar çıkarılır.
+
+BOTAŞ’ın ve bu şirketlerin bağlı ortaklıkları ile” şeklinde, “yapılacak” ibaresi “yapacakları” şeklinde
+değiştirilmiş, cümleye “yapım işlerinde” ibaresinden sonra gelmek üzere “ve Toprak Mahsulleri Ofisi
+Genel Müdürlüğünün faaliyet ve görev alanı kapsamında yer alan tarımsal ürünlerle ilgili olmak üzere,
+ilgili bakanın onayı ve Toprak Mahsulleri Ofisi Yönetim Kurulunun görevlendirmesi ile ithalat yoluyla
+yapacağı tarımsal ürün alımlarında ve buna ilişkin hizmet alımlarında” ibaresi eklenmiştir.
 Kurumun her türlü giderleri, gelirleri ile karşılanacak aşamaya gelinceye kadar, genel
 bütçeden sağlanacak yardımlardan finanse edilir.
 
@@ -2664,7 +2678,7 @@ Mevcut Kurul üyeleri, görev sürelerini tamamlayıncaya kadar görevlerine dev
 
 GEÇİCİ MADDE 12 — Başkanlık Müşavirliğine atanmış sayılma
 
-(Ek: 24/10/2011-KHK-661/58 md.)87
+(Ek: 24/10/2011-KHK-661/58 md.)88
 Kurumda; Başkan Yardımcısı, Baş Hukuk Danışmanı ve Daire Başkanı unvanlı görevlerde
 bulunanların görevleri bu Kanun Hükmünde Kararnamenin yürürlüğe girdiği tarihte sona erer.
 Bunlar ekli (3) sayılı liste ile ihdas edilen Başkanlık Müşaviri unvanlarına hiçbir işleme gerek
@@ -2678,6 +2692,9 @@ atanmış sayıldıkları yeni unvana ilişkin olarak ilgili mevzuatı uyarınca
 kesintiye tabi tutulmaksızın fark kapanıncaya kadar ayrıca fark tazminatı olarak ödenir. Atanmış
 sayıldıkları unvanlarında isteklerine bağlı olarak herhangi bir değişiklik olanlarla, kendi
 istekleriyle başka kurumlara atananlara fark tazminatı ödenmesine son verilir.
+
+88 Bu maddede belirtilen kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (mükerrer) sayılı Resmi
+Gazete’ye bakınız.
 Birinci fıkraya göre Başkanlık Müşaviri olarak atanmış sayılanlar, Başkan tarafından
 belirlenen birimlerde, Başkan tarafından belirlenen görevleri yürütür.
 
@@ -2699,9 +2716,6 @@ yasaklama hükümleri hariç, bu Kanun hükümlerine tabi değildir. Bu madde uy
 alımlara ilişkin usul ve esaslar Maliye Bakanlığı ve Kamu İhale Kurumunun görüşü alınarak
 Millî Eğitim Bakanlığı ve Ulaştırma, Denizcilik ve Haberleşme Bakanlığı tarafından müştereken
 hazırlanacak yönetmelikle, rekabete açık olacak şekilde düzenlenir.
-
-87 Bu maddede belirtilen kadrolarla ilgili olarak 2/11/2011 tarihli ve 28103 (mükerrer) sayılı Resmi
-Gazete’ye bakınız.
 
 GEÇİCİ MADDE 14 — Başlanmış olan ihaleler
 

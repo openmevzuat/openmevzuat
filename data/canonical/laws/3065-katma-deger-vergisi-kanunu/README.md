@@ -116,5 +116,6 @@
 - [GEÇİCİ MADDE 44](articles/gecici-madde-044.md)
 - [GEÇİCİ MADDE 45](articles/gecici-madde-045.md)
 - [GEÇİCİ MADDE 46](articles/gecici-madde-046.md)
+- [GEÇİCİ MADDE 47](articles/gecici-madde-047.md)
 - [MADDE 62](articles/madde-062.md)
 - [MADDE 63](articles/madde-063.md)

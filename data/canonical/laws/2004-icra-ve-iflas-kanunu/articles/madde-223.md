@@ -7,9 +7,6 @@ alacak tutarına göre ekseriyeti teşkil edenlerce, iki adedi ise alacaklılar 
 ekseriyeti teşkil edenlerce seçilir ve icra mahkemesine bildirilir. İcra mahkemesi, iflas
 idaresini teşkil edecek üç kişiden ikisini alacak ekseriyetine sahip olanların gösterdiği dört
 aday, birini ise alacaklı ekseriyetinin gösterdiği iki aday arasından seçer.
-
-73 Bu madde başlığı “İlk alacaklılar toplanması mümkün olmazlarsa:” iken, 17/7/2003 tarihli ve 4949 sayılı
-Kanunun 53 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 Tasfiye, iflas dairesince, yukarıdaki fıkraya göre teşkil edilen iflas idaresine havale
 olunur.
 (Değişik üçüncü fıkra: 17/7/2003-4949/54 md.) İflâs idaresi toplantıları, idare
@@ -27,6 +24,9 @@ alacaklılar hakkında iflâs idare memurunun kararlarına karşı kanun yollar�
 tarihinden itibaren işlemeye başlar.
 İflas idaresine, Adalet Bakanlığınca hazırlanan ve iki yılda bir yenilenen ücret
 tarifesine göre ücret ödenir.
+
+73 Bu madde başlığı “İlk alacaklılar toplanması mümkün olmazlarsa:” iken, 17/7/2003 tarihli ve 4949 sayılı
+Kanunun 53 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 İflas idaresi iflas dairesinin murakabesi altındadır. Bu halde iflas dairesi aşağıdaki
 görevleri yerine getirir:
 1. Alacaklılar toplantısının kararlarına, alacaklıların menfaatine uygun görmediği

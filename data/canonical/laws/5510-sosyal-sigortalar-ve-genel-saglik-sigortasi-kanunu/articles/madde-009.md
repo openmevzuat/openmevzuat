@@ -8,6 +8,21 @@ b) 4 üncü maddenin birinci fıkrasının (b) bendi kapsamındaki sigortalılar
 verdikleri tarihten,
 2) (Değişik: 17/4/2008-5754/7 md.) Gelir vergisinden muaf olanlar için, esnaf ve
 sanatkâr sicili kaydının silindiği veya 6 ncı maddenin birinci fıkrasının (k) bendi kapsamına
+
+21 13/2/2011 tarihli ve 6111 sayılı Kanunun 27 nci maddesiyle; bu fıkrada yer alan “4 üncü maddenin
+birinci fıkrasının (b) bendinin (4) numaralı alt bendinde bulunanlar hariç olmak üzere diğer alt
+bentleri kapsamında sigortalı sayılan kişiler için 7 nci maddenin birinci fıkrasının (b) bendinde
+belirtilen sigortalılık başlangıcından;” ibaresi “4 üncü maddenin birinci fıkrasının (b) bendinin (4)
+numaralı alt bendinde bulunanlar hariç olmak üzere diğer alt bentleri kapsamında sigortalı sayılan
+kişilerden köy ve mahalle muhtarları için seçildiklerine ilişkin mazbatalarını ilgili seçim kurulundan
+aldıkları tarihten, sigortalılıkları vergi mükellefiyetlerinin başladığı tarihten başlayan sigortalılar için
+vergi mükellefiyeti işleminin tesis tarihinden itibaren iki ayı geçmemek üzere ilgili vergi dairesince
+vergi mükellefinin işe başlama işlemlerinin tekemmül ettirildiği tarihten ve diğerleri için 7 nci
+maddenin birinci fıkrasının (b) bendinde belirtilen sigortalılık başlangıcından;” şeklinde, “esnaf sicil
+memurluğu” ibaresi “Esnaf ve Sanatkâr Sicil Müdürlüğü” olarak değiştirilmiştir.
+22 13/2/2011 tarihli ve 6111 sayılı Kanunun 28 inci maddesiyle, (7), (8), (9) ve (10) numaralı alt
+bentlerinde yer alan “tarihten” ibarelerinden sonra gelmek üzere “bir gün öncesinden” ibareleri
+eklenmiştir.
 girdiği tarihten,
 3) (Değişik: 17/4/2008-5754/7 md.) 4 üncü maddenin birinci fıkrasının (3) numaralı
 alt bendi kapsamına girenlerden, şahıs şirketlerinden kolektif, adi komandit şirketlerin
@@ -19,10 +34,6 @@ karar verildiği tarihten, anonim şirketlerin yönetim kurulu üyesi olan ortak
 kurulu üyeliklerinin sona erdiği tarihten, iflas veya tasfiye durumu ile münfesih duruma düşen
 şirketler için ortağın talep etmesi halinde, mahkeme kararı ile iflasın, tasfiyenin açılmasına,
 ortaklar kurulu kararı ile tasfiyenin başlamasına veya şirketin münfesih duruma düşmesine
-
-22 13/2/2011 tarihli ve 6111 sayılı Kanunun 28 inci maddesiyle, (7), (8), (9) ve (10) numaralı alt
-bentlerinde yer alan “tarihten” ibarelerinden sonra gelmek üzere “bir gün öncesinden” ibareleri
-eklenmiştir.
 karar verildiği, ortakların talepte bulunmaması halinde, mahkemece iflasın kapatılmasına
 karar verildiği, tasfiyesi sonuçlanan şirketlerin ortaklıklarının ise tasfiye kurulu kararının
 ticaret sicili memurluğunca tescil edildiği tarihten,

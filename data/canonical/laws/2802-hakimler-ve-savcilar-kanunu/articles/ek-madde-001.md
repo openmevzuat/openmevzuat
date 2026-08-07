@@ -5,6 +5,6 @@
 Hâkim ve savcı yardımcılığına atanacaklar ile hâkimlik ve savcılık mesleğine kabul
 edilecekler ve hâkim ve savcı sınıfı dışında kalan adlî ve idarî yargıda çalıştırılacak tüm personel
 hakkında Güvenlik Soruşturması ve Arşiv Araştırması Kanununa göre güvenlik soruşturması ve
-arşiv araştırması yapılır.7980
+arşiv araştırması yapılır.8182
 
 Türkiye Adalet Akademisinde ders ücreti

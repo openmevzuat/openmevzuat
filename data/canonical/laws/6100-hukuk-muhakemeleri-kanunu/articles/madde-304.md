@@ -1,4 +1,4 @@
-# MADDE 304 — Hükmün tashihi
+# MADDE 304
 
 (1) Hükümdeki yazı ve hesap hataları ile diğer benzeri açık hatalar,
 mahkemece resen veya taraflardan birinin talebi üzerine düzeltilebilir. Hüküm tebliğ edilmişse

@@ -14,4 +14,4 @@ karşılıkların eksik olan kısmı Maliye Bakanlığı tarafından Kuruma öde
 esaslar Çalışma ve Sosyal Güvenlik Bakanlığı, Maliye Bakanlığı ve Hazine Müsteşarlığınca
 müştereken tespit edilir.
 Birinci fıkra kapsamına girenlerden depremler sonucunda yaralanan veya engelli hâle
-gelenlere verilecek protez, ortez, araç ve gereç bedelleri için katılım payı alınmaz.235
+gelenlere verilecek protez, ortez, araç ve gereç bedelleri için katılım payı alınmaz.237

@@ -12,3 +12,6 @@ herhangi bir nedenle elkonulmuş olan malın dikkat ve özen yükümlülüğüne
 nedeniyle kaybolmasına veya bozulmasına neden olan kişi, adlî para cezası ile cezalandırılır.
 (4) Bir suça ilişkin soruşturma veya kovuşturma kapsamında elkonulan eşyayı amacı
 dışında kullanan kimse, bir yıla kadar hapis cezası ile cezalandırılır.
+
+111 2/7/2018 tarihli ve 700 sayılı KHK’nin 156 ncı maddesiyle, bu fıkrada yer alan “tüzüklerde”
+ibaresi “yönetmeliklerde” şeklinde değiştirilmiştir.

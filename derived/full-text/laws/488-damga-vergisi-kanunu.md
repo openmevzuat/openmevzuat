@@ -1263,14 +1263,17 @@ düzenlenen kâğıtlar.
 55. (Ek:14/10/2021-7338/54 md.) Genel ve özel bütçeli idarelere, il özel idarelerine,
 yatırım izleme ve koordinasyon başkanlıklarına, belediyelere ve köylere yapılacak bağışlara
 ilişkin olarak ilgili idare ile bağışlayanlar arasında düzenlenen kağıtlar.
+56. (Ek:24/7/2026-7590/1 md.) Nükleer enerji santrallerinde elektrik enerjisi üretimi
+faaliyetinde bulunmak için önlisans ve/veya lisans alan tüzel kişilerin taraf olduğu nükleer
+enerji santrali yatırımlarına ilişkin düzenlenen kağıtlar.
 V – Kurumlarla ilgili kağıtlar:43
+
+43 4/6/2008 tarihli ve 5766 sayılı Kanunun 10 uncu maddesiyle; (1) numaralı fıkrada yer alan “katma bütçeli”
+ibaresi “özel bütçeli” şeklinde değiştirilmiştir.
 1. İktisadi Devlet Teşekkülleriyle Müesseseleri ve İştirakler hakkındaki Kanuna tabi
 kurumlarla genel ve özel bütçeli daireler, il özel idareleri ve belediyelere bağlı tüzel kişiliği.
 Bulunan kurumlara özel kanunları gereğince Hazinece ödenmesi gereken sermaye,
 iştirak hissesi ve yardım ödeneklerinin ödenmesine ait kağıtlar.
-
-43 4/6/2008 tarihli ve 5766 sayılı Kanunun 10 uncu maddesiyle; (1) numaralı fıkrada yer alan “katma bütçeli”
-ibaresi “özel bütçeli” şeklinde değiştirilmiştir.
 2. İktisadi Devlet Teşekkülleriyle müesseseleri ve iştirakler hakkındaki kanuna tabi
 kurum ve ortaklıklara vuku bulacak devir ve kuruluş ile ilgili kararlar.
 3. Makina ve Kimya Endüstrisi Kurumunun Milli Savunma Bakanlığına veya

@@ -1,4 +1,4 @@
-# MADDE 107 — Yönetmelikler
+# MADDE 107
 
 Bu Kanunda bahsi geçen yönetmelikler bu Kanunun yürürlük
 tarihinden itibaren bir yıl içerisinde çıkarılır. Kurum, bu Kanunun diğer maddelerinin

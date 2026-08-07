@@ -4,9 +4,6 @@
 tedarik eden veya barındıran ya da çocuğun fuhşuna aracılık eden kişi, dört yıldan on yıla
 kadar hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu suçun işlenişine
 yönelik hazırlık hareketleri de tamamlanmış suç gibi cezalandırılır.
-
-93 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
-“çocukları, temsili çocuk görüntülerini veya çocuk gibi görünen kişileri” şeklinde değiştirilmiştir.
 (2) Bir kimseyi fuhşa teşvik eden, bunun yolunu kolaylaştıran ya da fuhuş için aracılık
 eden veya yer temin eden kişi, iki yıldan dört yıla kadar hapis ve üçbin güne kadar adlî para
 cezası ile cezalandırılır. Fuhşa sürüklenen kişinin kazancından yararlanılarak kısmen veya

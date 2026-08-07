@@ -3,16 +3,16 @@
 (1) İşletmeci, Kurum düzenlemeleri ve yetkilendirmesinde öngörülen
 şartlara uygun olarak yetkilendirildiği kapsamdaki elektronik haberleşme hizmetini sunma
 hakkına sahiptir.
-(2) Kurum, işletmecilere sektörün ihtiyaçları, uluslararası düzenlemeler, teknolojide
-meydana gelen gelişmeler gibi hususları gözeterek aşağıdaki hususlar başta olmak üzere,
-mevzuat doğrultusunda yükümlülükler getirebilir:
 
-6 28/11/2017 tarihli ve 7061 sayılı Kanunun 97 nci maddesiyle bu fıkraya birinci cümlesinden sonra
+7 28/11/2017 tarihli ve 7061 sayılı Kanunun 97 nci maddesiyle bu fıkraya birinci cümlesinden sonra
 gelmek üzere eklenen cümlelerin; yine 7061 sayılı Kanunun 123 üncü maddesiyle 1/1/2018 tarihinden
 itibaren elde edilecek net satışlara uygulanmak üzere aynı tarihte yürürlüğe girmesi hüküm altına
 alınmıştır.
-7 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
+8 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+(2) Kurum, işletmecilere sektörün ihtiyaçları, uluslararası düzenlemeler, teknolojide
+meydana gelen gelişmeler gibi hususları gözeterek aşağıdaki hususlar başta olmak üzere,
+mevzuat doğrultusunda yükümlülükler getirebilir:
 a) İdari ücretler.
 b) Hizmetlerin birbiriyle uyumlu çalışabilmesi ve şebekelerarası arabağlantının
 sağlanması.
@@ -21,8 +21,7 @@ c) Ulusal numaralandırma planındaki numaralardan son kullanıcılara erişimin
 d) Kişisel veri ve gizliliğin korunması.
 e) Tüketicinin korunması.
 f) Kuruma bilgi ve belge verilmesi.
-g) Kanunlarla yetkili kılınan ulusal kurumlarca yasal dinleme ve müdahalenin
-yapılmasına teknik olanak sağlanması.
+g) (Mülga:24/7/2026-7590/27 md.)
 ğ) Afet durumlarındaki haberleşmenin kesintisiz devam edebilmesi için gerekli
 tedbirlerin alınması.
 h) Elektronik haberleşme şebekelerinden kaynaklanan elektromanyetik alanlara kamu

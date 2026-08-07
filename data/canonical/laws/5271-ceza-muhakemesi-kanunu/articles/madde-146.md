@@ -1,4 +1,4 @@
-# MADDE 146 — Zorla getirme54
+# MADDE 146 — Zorla getirme53
 
 (1) (Değişik: 6/12/2006 – 5560/20 md.) Hakkında tutuklama kararı
 verilmesi veya yakalama emri düzenlenmesi için yeterli nedenler bulunan veya 145 inci maddeye

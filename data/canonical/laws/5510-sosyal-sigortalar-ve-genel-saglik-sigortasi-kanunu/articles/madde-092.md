@@ -14,6 +14,6 @@ halinde sona erer.
 Sigortalılar, isteğe bağlı sigortalılar ile bunların hak sahiplerinin; genel sağlık
 sigortalıları ve bunların bakmakla yükümlü olduğu kişilerin tescil ve diğer tüm işlemlerinde
 sosyal güvenlik sicil numarası olarak Türk vatandaşları için T.C. kimlik numarası, yabancı
-uyruklu kişiler için ise İçişleri Bakanlığınca verilen kimlik numarası kullanılır.174
+uyruklu kişiler için ise İçişleri Bakanlığınca verilen kimlik numarası kullanılır.175
 
-Devir, temlik, haciz ve Kurum alacaklarında zamanaşımı175
+Devir, temlik, haciz ve Kurum alacaklarında zamanaşımı176

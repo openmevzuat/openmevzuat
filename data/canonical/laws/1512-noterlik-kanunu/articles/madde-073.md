@@ -1,4 +1,4 @@
-# MADDE 73 — İlgilinin işitme, konuşma veya görme engelli olması:89
+# MADDE 73 — İlgilinin işitme, konuşma veya görme engelli olması:910
 
 (Değişik: 1/7/2005-5378/23 md.)
 Noter, ilgilinin işitme, konuşma veya görme engelli olduğunu anlarsa, işlemler

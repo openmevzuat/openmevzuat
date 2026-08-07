@@ -3,7 +3,7 @@
 (Ek: 11/5/2018-7143/23 md.)
 Kurumca bu Kanun ve ilgili mevzuat uyarınca gelir ve aylık ödemesi yapılanlara,
 bayramın içinde bulunduğu ayda gelir ve aylık alma şartıyla, Ramazan Bayramı ve Kurban
-Bayramında 4.000’er TL tutarında bayram ikramiyesi ödenir.196197198199200
+Bayramında 4.000’er TL tutarında bayram ikramiyesi ödenir.197198199200201
 Birinci fıkrada belirtilen ödemenin yapılmasında;
 a) İş kazaları ve meslek hastalıkları sigortasından sürekli iş göremezlik geliri almakta
 olanlara, gelir bağlanmasına esas olan sürekli iş göremezlik derecesi oranı,
@@ -27,14 +27,14 @@ Bu madde kapsamında yapılacak ödemeleri karşılamak amacıyla gerekli olan t
 yazılı talebe istinaden ayrıca fatura aranmaksızın Hazinece Kuruma ödenir.
 Bu maddenin uygulanmasına ilişkin usul ve esaslar ile ödeme tarihlerini belirlemeye
 
-196 25/3/2020 tarihli ve 7226 sayılı Kanunun 46 ncı maddesiyle bu fıkrada yer alan “ödemenin yapılacağı
+197 25/3/2020 tarihli ve 7226 sayılı Kanunun 46 ncı maddesiyle bu fıkrada yer alan “ödemenin yapılacağı
 tarihte” ibaresi “bayramın içinde bulunduğu ayda” şeklinde değiştirilmiştir.
-197 29/4/2021 tarihli ve 7318 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “1.000” ibaresi “1.100”
+198 29/4/2021 tarihli ve 7318 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “1.000” ibaresi “1.100”
 şeklinde değiştirilmiştir.
-198 30/3/2023 tarihli ve 7447 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “1.100’er TL” ibaresi
+199 30/3/2023 tarihli ve 7447 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “1.100’er TL” ibaresi
 “2.000’er TL” şeklinde değiştirilmiştir.
-199 2/3/2024 tarihli ve 7499 sayılı Kanunun 39 uncu maddesiyle bu fıkrada yer alan “2.000’er TL” ibaresi
+200 2/3/2024 tarihli ve 7499 sayılı Kanunun 39 uncu maddesiyle bu fıkrada yer alan “2.000’er TL” ibaresi
 “3.000’er TL” şeklinde değiştirilmiştir.
-200 27/3/2025 tarihli ve 7546 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “3.000’er TL” ibaresi
+201 27/3/2025 tarihli ve 7546 sayılı Kanunun 8 inci maddesiyle bu fıkrada yer alan “3.000’er TL” ibaresi
 “4.000’er TL” şeklinde değiştirilmiştir.
 Kurum yetkilidir.

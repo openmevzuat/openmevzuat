@@ -7,7 +7,7 @@ a) Ekonomik ve malî yeterliğin belirlenmesi için;
 2) (Değişik: 30/7/2003-4964/7 md.) İsteklinin, ilgili mevzuatı uyarınca yayınlanması zorunlu
 olan bilançosu veya bilançosunun gerekli görülen bölümleri, yoksa bunlara eşdeğer belgeleri,
 3) İsteklinin iş hacmini gösteren toplam cirosu veya ihale konusu iş ile ilgili cirosunu
-gösteren belgeler.19
+gösteren belgeler.20
 b ) Mesleki ve teknik yeterliğin belirlenmesi için;
 1) İsteklinin, mevzuatı gereği ilgili odaya kayıtlı olarak faaliyette bulunduğunu ve teklif
 vermeye yasal olarak yetkili olduğunu kanıtlayan belgeler,
@@ -34,7 +34,7 @@ tarafından veya uluslararası fonlarca desteklenen Ar-Ge ve yenilik projelerind
 birliği projelerinde ve teknogirişim sermaye desteklerinden yararlananlara, yararlandıkları
 destekler çerçevesinde yürüttükleri proje sonucu ortaya çıkan mal ve hizmetlerin ve bunlar
 
-19 17/01/2019 tarihli ve 7161 sayılı Kanunun 30 uncu maddesiyle; bu bentte yer alan “veya ihale konusu
+20 17/01/2019 tarihli ve 7161 sayılı Kanunun 30 uncu maddesiyle; bu bentte yer alan “veya ihale konusu
 iş ile ilgili taahhüdü altındaki ve bitirdiği iş miktarını gösteren belgeler” ibaresi “veya ihale konusu iş ile
 ilgili cirosunu gösteren belgeler” şeklinde değiştirilmiştir.
 dışında özkaynaklarla geliştirilmiş ve değerlendirilmesi için gerekli usulleri Bilim, Sanayi ve
@@ -42,7 +42,7 @@ Teknoloji Bakanlığınca belirlenen ve Türkiye Bilimsel ve Teknolojik Araştı
 tarafından Ar-Ge projesi neticesinde ortaya çıktığı belgelendirilen ürünlerin piyasaya arz
 edilmesinden sonra proje sonucu ortaya çıkan hizmetler ile yerli malı belgesine sahip ürünler için
 Bilim, Sanayi ve Teknoloji Bakanlığı tarafından Kurumca belirlenen esaslar çerçevesinde
-düzenlenen ve piyasaya arz tarihinden itibaren beş yıl süreyle kullanılabilecek olan belgeler.20
+düzenlenen ve piyasaya arz tarihinden itibaren beş yıl süreyle kullanılabilecek olan belgeler.21
 3) İsteklinin üretim ve/veya imalat kapasitesine, araştırma-geliştirme faaliyetlerine ve
 kaliteyi sağlamasına yönelik belgeler,
 4) İsteklinin organizasyon yapısına ve ihale konusu işi yerine getirmek için yeterli sayıda
@@ -70,7 +70,7 @@ olacakları tüzel kişilerin ihaleye girebilmesinde en az bir yıldır tüzel k
 hissesine sahip olması ve bu sürede bu Kanuna göre yapılacak ihalelere ilişkin sözleşmelerin
 yürütülmesi konusunda temsile ve yönetime yetkili olması, bu şartların her ihalede aranması ve
 
-20 16/2/2016 tarihli ve 6676 sayılı Kanunun 17 nci maddesiyle, bu paragrafa “Ar-Ge merkezlerinde,”
+21 16/2/2016 tarihli ve 6676 sayılı Kanunun 17 nci maddesiyle, bu paragrafa “Ar-Ge merkezlerinde,”
 ibaresinden sonra gelmek üzere “Teknoloji Geliştirme Bölgelerinde,” ibaresi, “ortaya çıkan mal ve
 hizmetlerin” ibaresinden sonra gelmek üzere “ve bunlar dışında özkaynaklarla geliştirilmiş ve
 değerlendirilmesi için gerekli usulleri Bilim, Sanayi ve Teknoloji Bakanlığınca belirlenen ve Türkiye
@@ -88,7 +88,7 @@ sadece iş bitirme belgeleri, belge sahipleri tarafından ve bunların bünyesin
 topluluğu veya benzeri ortaklık ilişkisi içerisinde kullanılmasına ilişkin usul ve esasları
 belirlemeye Kurum yetkilidir. Ortak girişim olarak ihaleye teklif verilmesi hâlinde yurt dışında
 gerçekleştirilen işlerden alınan iş bitirme belgesini kullanan belge sahibinin ortak girişimdeki
-hissesi oranında geçici ve kesin teminat vermesi zorunludur.21
+hissesi oranında geçici ve kesin teminat vermesi zorunludur.22
 Aşağıda belirtilen durumlardaki istekliler ihale dışı bırakılır:
 a) İflas eden, tasfiye halinde olan, işleri mahkeme tarafından yürütülen, konkordato ilân
 eden, işlerini askıya alan veya kendi ülkesindeki mevzuat hükümlerine göre benzer bir durumda
@@ -111,7 +111,7 @@ belge verdiği tespit edilen.
 i) 11 inci maddeye göre ihaleye katılamayacağı belirtildiği halde ihaleye katılan.
 j) 17 nci maddede belirtilen yasak fiil veya davranışlarda bulundukları tespit edilen.
 
-21 20/11/2008 tarihli ve 5812 sayılı Kanunun 3 üncü maddesiyle; bu fıkrada yer alan “tüzel kişiliğin”
+22 20/11/2008 tarihli ve 5812 sayılı Kanunun 3 üncü maddesiyle; bu fıkrada yer alan “tüzel kişiliğin”
 ibaresinden önce gelmek üzere “en az bir yıldır” ibaresi eklenmiştir.
 (Ek fıkra: 28/3/2007-5615/23 md.) Kurum, dördüncü fıkranın; (c) bendi ile ilgili olarak
 Sosyal Güvenlik Kurumu Başkanlığının uygun görüşünü alarak sosyal güvenlik prim borcunun

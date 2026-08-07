@@ -8,7 +8,7 @@ kalemleri ilave etmeye veya çıkarmaya ve eklenen hizmet kalemlerine ilişkin �
 belirlemeye, Cumhurbaşkanı yetkilidir. Ücret tarifesinde belirtilen ücretleri gerektiğinde her bir
 ücret kalemini yüzde ellisine kadar azaltmaya veya her yıl bir önceki yıla ilişkin olarak Maliye
 Bakanlığınca belirlenecek yeniden değerleme oranını geçmemek kaydıyla artırmaya, Kurum
-yetkilidir.8
+yetkilidir.10
 (2) Ancak, 10/12/2003 tarihli ve 5018 sayılı Kamu Mali Yönetimi ve Kontrol
 Kanununa ekli (I), (II) ve (III) sayılı cetvelde yer alan genel bütçe kapsamındaki kamu
 idareleri ve özel bütçeli idareler ile düzenleyici ve denetleyici kurumlar, köy tüzel kişilikleri,
@@ -43,7 +43,7 @@ kullanma izinleri ve telsiz ruhsatnameleri iptal edilir.
 (7) (Ek: 28/11/2017-7061/98 md.) Kurum tarafından sayısı sınırlandırılarak ulusal
 çapta, kamuya açık mobil elektronik haberleşme hizmeti sunmak üzere imtiyaz sözleşmeleri
 
-8 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
+10 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 205 inci maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 ve/veya yetkilendirme belgelerine istinaden yetkilendirilen işletmeciler; bu Kanuna ekli ücret
 tarifesinin “1. TELSİZ RUHSATNAME ÜCRETLERİ” başlığı altında bulunan “b. Karasal

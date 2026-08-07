@@ -16,8 +16,3 @@ hazırlanan ücret tarifesine göre belirlenir.71
 (5) Aksi kararlaştırılmadıkça hakem kararının düzeltilmesi, yorumlanması veya
 tamamlanması hâllerinde ek hakem ücreti ödenmez.72
 (6) Hakem veya hakem kurulu kararında tahkim yargılamasının giderleri gösterilir.
-
-71 Bu fıkrada yer alan tarife ile ilgili olarak 28/10/2025 tarihli ve 33061 sayılı Resmi Gazete’de
-yayımlanan “Hukuk Muhakemeleri Kanunu Hakem Ücret Tarifesi”ne bakınız.
-72 22/7/2020 tarihli ve 7251 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “Hakem
-kararının” ibaresi “Aksi kararlaştırılmadıkça hakem kararının” şeklinde değiştirilmiştir.

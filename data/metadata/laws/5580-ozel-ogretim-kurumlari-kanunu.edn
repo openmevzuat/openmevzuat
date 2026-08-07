@@ -6,12 +6,12 @@
  :document/path
  "data/canonical/laws/5580-ozel-ogretim-kurumlari-kanunu",
  :document/sha256
- "9184cf85433eabd1b432d2874920c3cec7fd085c3505a5116641a24626ae55e0",
+ "018dea2645a2cdd02192a6cf2624ed2cf7975b5d31c5ce35278dbcd79671d32b",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5580.pdf",
- :source/fetched-at #inst "2026-07-16T02:41:04.643-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-05T07:33:29.664-00:00",
+ :openmevzuat/baseline-date "2026-08-05",
+ :openmevzuat/generated-at #inst "2026-08-05T07:31:50.290-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -66,14 +66,14 @@
    "Kurum açma izninin iptali, kurumun kapatılması, devri ve nakli",
    :article/path "articles/madde-007.md",
    :article/sha256
-   "ae6c762b96901e638db9b14664e852f43dfc732b3488a117f97e10bca2535ddd"}
+   "553ef8408f320f51cdf5c603c9b258759cabcd40a4429a9ecd3056b176af2179"}
   {:article/id "law/5580/article/8",
    :article/type :normal,
    :article/no "8",
    :article/title "Kurumlarda çalıştırılacak personel",
    :article/path "articles/madde-008.md",
    :article/sha256
-   "229e81ee2b82f5fb46b85d71b40d3d63c1b35741253755aa70926ba05ee0ae15"}
+   "b1e89821183e3900a8a8ea1fffee8acb63f5acfc1cf09c7b1b0868adc8f437c2"}
   {:article/id "law/5580/article/9",
    :article/type :normal,
    :article/no "9",
@@ -94,14 +94,14 @@
    :article/title nil,
    :article/path "articles/madde-011.md",
    :article/sha256
-   "64b99cb72d5530e6a4c7442e85995f8ee9b3636dabd810f45b89bd69460a8951"}
+   "4bbeff55328db0a3aa563b1688a96c1848f5c86773824a8220dfb9cfeb3590ab"}
   {:article/id "law/5580/article/12",
    :article/type :normal,
    :article/no "12",
-   :article/title "Malî hükümler1516",
+   :article/title nil,
    :article/path "articles/madde-012.md",
    :article/sha256
-   "7c9b3b8eb39f1bbcf7c1026ccd7af5dd303784a4879039e385144611f8d3475c"}
+   "348d14d803d44b7419738520e57b432bd9454fbb693122c7f64cae8361f43946"}
   {:article/id "law/5580/article/13",
    :article/type :normal,
    :article/no "13",
@@ -109,7 +109,7 @@
    "Öğrenim ücreti ve diğer ücretler, ücretsiz öğrenim ve yabancı uyruklu öğrenciler",
    :article/path "articles/madde-013.md",
    :article/sha256
-   "f548ea0e4d10e2c81cd0bad4bd0cc8ecdc9e09e96eeda4284291c1a654dc2786"}
+   "4bdde5327ad2417ef9b11f07240d46694fbc04a0cfe7a47e379b28f3fc9d86f7"}
   {:article/id "law/5580/article/14",
    :article/type :normal,
    :article/no "14",
@@ -123,14 +123,14 @@
    :article/title nil,
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "2842cee8c5e41fa871c5e1ff2f68cc4d7b12d99952f5db7282091bb3b6c422be"}
+   "13c3d7c22558f41d59041eed259d62f5ba9c86af67169c3074d7519de7aee42a"}
   {:article/id "law/5580/article/2",
    :article/type :additional,
    :article/no "2",
    :article/title nil,
    :article/path "articles/ek-madde-002.md",
    :article/sha256
-   "836bf19714353dae375bf42a40f3917a4b5a95c99df489c0b866fb08eedb99d6"}
+   "8de435a12e930e77f59cfc1564e6bef990431c4a98462a75d339ddba18f210e4"}
   {:article/id "law/5580/article/1",
    :article/type :temporary,
    :article/no "1",
@@ -180,6 +180,13 @@
    :article/path "articles/gecici-madde-007.md",
    :article/sha256
    "c31fc2cbd943b68bbe59e8a00fd6e8413807cad5a9203afc27ea045127aa3d29"}
+  {:article/id "law/5580/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "f894223a503cf0393545f6ed7eb643bc471656b1aafb8acb43a405446ee0117e"}
   {:article/id "law/5580/article/15",
    :article/type :normal,
    :article/no "15",

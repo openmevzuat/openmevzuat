@@ -18,7 +18,7 @@ edilmeme gerekçeleri yazılı olarak bildirilir. İşin niteliğine göre rekab
 40 ıncı maddeye uygun olarak belirlenen ve ihale dokümanı ile davet mektubunda belirtilen
 değerlendirme kriterlerine göre tekliflerin değerlendirmesi yapılarak ihale sonuçlandırılır. İhaleye
 davet edilebilecek aday sayısının beşten az olması veya teklif veren istekli sayısının üçten az
-olması halinde ihale iptal edilir.28
+olması halinde ihale iptal edilir.29
 Teklif veren istekli sayısının üçten az olması nedeniyle ihalenin iptal edilmesi durumunda,
 ihale dokümanı gözden geçirilerek varsa hatalar ve eksiklikler giderilmek suretiyle, ön yeterliği
 tespit edilen bütün istekliler tekrar davet edilerek ihale sonuçlandırılabilir.

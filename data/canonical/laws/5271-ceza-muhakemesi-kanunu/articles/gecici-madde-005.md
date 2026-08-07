@@ -10,7 +10,7 @@ kadar mevcut uygulamaya devam olunur.
 c) 250 nci maddede düzenlenen seri muhakeme usulü ile 251 ve 252 nci maddelerde
 düzenlenen basit yargılama usulüne ilişkin hükümler, 1/1/2020 tarihinden itibaren uygulanır.
 d) 1/1/2020 tarihi itibarıyla kovuşturma evresine geçilmiş, hükme bağlanmış veya
-kesinleşmiş dosyalarda seri muhakeme usulü ile basit yargılama usulü uygulanmaz. 150151152
+kesinleşmiş dosyalarda seri muhakeme usulü ile basit yargılama usulü uygulanmaz. 147148149
 e) Bu maddenin yürürlüğe girdiği tarih itibarıyla, kovuşturma evresine geçilmiş
 dosyalarda kamu davasının açılmasının ertelenmesi hükümleri uygulanmaz.
 f) 286 ncı maddenin üçüncü fıkrasında yapılan düzenleme, bu maddenin yayımlandığı

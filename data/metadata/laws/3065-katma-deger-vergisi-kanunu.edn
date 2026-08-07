@@ -5,12 +5,12 @@
  :document/slug "3065-katma-deger-vergisi-kanunu",
  :document/path "data/canonical/laws/3065-katma-deger-vergisi-kanunu",
  :document/sha256
- "217db7f8e7918e38b8f105478bf6c1a7f44b05d0110fd3b5adbdb8a027e94fb2",
+ "dc8b56600f61ad1b902ad14c60dcc1eae479ac48d0bef125f24bf2750e95b18e",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.3065.pdf",
- :source/fetched-at #inst "2026-07-16T00:37:56.858-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T00:37:06.085-00:00",
+ :source/fetched-at #inst "2026-08-05T07:32:44.317-00:00",
+ :openmevzuat/baseline-date "2026-08-05",
+ :openmevzuat/generated-at #inst "2026-08-05T07:31:50.290-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -764,7 +764,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-046.md",
    :article/sha256
-   "e624a7b70b11290c1e5db2240e57f8d4b2dac345e37d7c14f2894e11a95d2088"}
+   "6ab16afed57c84bec2705f3b0737c451f613a75886b98352e8060d41b63b8075"}
+  {:article/id "law/3065/article/47",
+   :article/type :temporary,
+   :article/no "47",
+   :article/title nil,
+   :article/path "articles/gecici-madde-047.md",
+   :article/sha256
+   "e2cf0a9039131183758398fbd85dcaea38e93f3134f687f3173c8b2daff4b408"}
   {:article/id "law/3065/article/62",
    :article/type :normal,
    :article/no "62",

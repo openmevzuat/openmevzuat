@@ -1,9 +1,16 @@
-# EK MADDE 2 — Çerçeve anlaşmalar73
+# EK MADDE 2 — Çerçeve anlaşmalar74
 
 (Ek: 1/6/2007-5680/2 md.; Değişik: 20/11/2008-5812/27 md.)
 İdareler ihtiyaç duydukları mal ve hizmet alımları ile yapım işlerine ilişkin olarak açık
 ihale veya belli istekliler arasında ihale usulünü uygulamak kaydıyla çerçeve anlaşmalar
 yapabilir. Çerçeve anlaşmalar rekabeti engelleyici, sınırlayıcı veya bozucu şekilde kullanılamaz.
+
+72 13/2/2011 tarihli ve 6111 sayılı Kanunun 179 uncu maddesi ile bu fıkrada yer alan “toplu konut
+projelerinde” ibaresi “projelerde” olarak değiştirilmiştir.
+73 20/11/2008 tarihli ve 5812 sayılı Kanunun 26 ncı maddesiyle bu madde başlığı metne işlendiği şekilde
+değiştirilmiştir.
+74 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle bu madde başlığı “Çerçeve sözleşme
+kapsamında mal ve hizmet alımı” iken, metne işlendiği şekilde değiştirilmiştir.
 Çerçeve anlaşma kapsamında temin edilecek mal ve hizmet alımları ile yapım işleri
 Kanunun 13 üncü maddesine göre ilan edilir. Çerçeve anlaşma kapsamında karşılanması
 planlanan tahmini ihtiyaç miktarları ilanda gösterilir.
@@ -11,11 +18,6 @@ Teminat alınmasına ilişkin hükümler hariç olmak üzere, ihalelerin sözle�
 hakkında bu Kanunda yer alan hükümler çerçevesinde, süresi kırksekiz ayı geçmemek üzere
 çerçeve anlaşma imzalanır ve sonuçlar Kamu İhale Bülteninde ilan edilir.
 Çerçeve anlaşmalar, koşulların tamamının baştan belirlendiği hallerde, bir istekli ile de
-
-72 20/11/2008 tarihli ve 5812 sayılı Kanunun 26 ncı maddesiyle bu madde başlığı metne işlendiği şekilde
-değiştirilmiştir.
-73 20/11/2008 tarihli ve 5812 sayılı Kanunun 27 nci maddesiyle bu madde başlığı “Çerçeve sözleşme
-kapsamında mal ve hizmet alımı” iken, metne işlendiği şekilde değiştirilmiştir.
 yapılabilir. Birden fazla istekli ile yapılacak çerçeve anlaşmalarda istenilen şartları karşılayan yeterli
 sayıda teklif sunulması kaydıyla çerçeve anlaşmaya taraf olacak istekli sayısı üçten az olmamak üzere
 ihale dokümanında belirtilir. Çerçeve anlaşmaların bir istekli ile yapıldığı haller hariç, yapılan

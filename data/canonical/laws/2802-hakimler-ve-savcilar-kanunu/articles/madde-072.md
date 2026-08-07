@@ -4,9 +4,6 @@
 Hâkim ve savcılar hakkında ceza soruşturması veya kovuşturmasına başlanmış olması,
 aynı olaydan dolayı disiplin soruşturmasını gerektirmeyeceği gibi, ilgilinin mahkûm olması
 veya olmaması ayrıca disiplin cezası verilmesine engel teşkil etmez.
-
-57 22/12/2005 tarihli ve 5435 sayılı Kanunun 27 nci maddesiyle bu madde başlığı "Ceza kovuşturması ile disiplin
-kovuşturmasının bir arada yürütülmesi:" iken metne işlendiği değiştirilmiştir.
 Meslekten çıkarma ve yer değiştirme cezalarını gerektiren eylemler hariç olmak üzere,
 bu Kanuna göre disiplin soruşturmasını gerektiren eylemlerin işlenmesinden itibaren üç yıl
 geçmiş ise disiplin soruşturması açılamaz. Disiplin cezasını gerektiren eylemin işlendiği

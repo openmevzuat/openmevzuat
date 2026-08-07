@@ -16,6 +16,8 @@ kullanılırken annenin ölümü hâlinde, isteği üzerine memur olan babaya an
 süre kadar izin verilir. (Ek cümleler: 29/1/2016 - 6663/6 md.) Üç yaşını doldurmamış bir
 çocuğu eşiyle birlikte veya münferit olarak evlat edinen memurlar ile memur olmayan eşin
 münferit olarak evlat edinmesi hâlinde memur olan eşlerine, çocuğun teslim edildiği tarihten
+itibaren sekiz hafta süre ile izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen
+teslim edildiği durumlarda da uygulanır. (Ek cümle:22/4/2026-7578/2 md.) Bir veya daha
 
 166 20/2/2014 tarihli ve 6525 sayılı Kanunun 7 nci maddesiyle, bu maddeye (E) fıkrası eklenmiş, mevcut (E)
 fıkrası (F) olarak teselsül ettirilmiştir.
@@ -24,8 +26,6 @@ fıkrası (F) olarak teselsül ettirilmiştir.
 168 Bu maddenin uygulanması ile ilgili olarak 13/4/2016 tarihli ve 29683 sayılı Resmi Gazete’de yayımlanan
 Kamu Personeli Genel Tebliği’ne (Seri No: 6) bakınız.
 
-itibaren sekiz hafta süre ile izin verilir. Bu izin evlatlık kararı verilmeden önce çocuğun fiilen
-teslim edildiği durumlarda da uygulanır. (Ek cümle:22/4/2026-7578/2 md.) Bir veya daha
 fazla çocuğa eşiyle birlikte veya münferit olarak koruyucu aile olan memura çocuğun
 koruyucu aile yanına teslim edildiği tarihten sonra isteği üzerine on gün izin verilir.169
 B) Memura, eşinin doğum yapması hâlinde, isteği üzerine on gün babalık izni;

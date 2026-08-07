@@ -7,5 +7,5 @@ uygulanmaz. Ancak, taşıyıcının işçileri veya temsilcileri gibi yardımcı
 getirdiği sınırsız sorumluluk talebine mevzu olan zarar hakkında Borçlar Kanununun 55 inci
 madde hükümleri saklıdır.
 
-18 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
+19 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.

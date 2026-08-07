@@ -522,10 +522,11 @@ MADDE 42 — Kurtarma ve yardım
 
 Ulaştırma Bakanlığı,uçuş güvenliği ile can ve mal emniyetinin
 sağlanması için ehil personelden oluşan kurtarma yardım teşkilatı kurulmasını ve bunların
-emrine, yeterli sayı ve nitelikte araç ve gereç verilmesini sağlar.
-Kurtarma ve yardım ekibinin görevini yapmasına, kazaya uğramış olan ve tehlike
-içinde bulunan hava aracı personeli ile yerel kolluk kuvvetleri ve diğer yetkililer, yardımcı
-olmakla yükümlüdürler.
+emrine, yeterli sayı ve nitelikte araç ve gereç ile kazaya uğramış, zor durumda kalan veya
+tehlike içinde bulunan hava aracına gerekli hizmetin verilmesini sağlar.12
+(Değişik ikinci fıkra:24/7/2026-7590/6 md.) Kolluk kuvvetleri ve diğer yetkililer;
+kazaya uğramış, zor durumda kalan veya tehlike içinde bulunan hava aracına, uçuş ekibine,
+yolculara, kurtarma ve yardım ekibinin görevini yapmasına yardımcı olmakla yükümlüdürler.
 Kurtarma ve yardım teşkilatının kuruluşu, görev ve yetkileri ve çalışma esasları
 yönetmelikle belirlenir.
 
@@ -552,6 +553,10 @@ düzenli bir biçimde yürütülmesini sağlamak amacı ile çağdaş teknolojiy
 türlü trafik, haberleşme, işaret sistemlerini ve tesislerini doğrudan doğruya veya bağlı veya
 ilgili kuruluşlar vasıtasıyla kurmakla veya kurdurmakla yükümlüdür.
 
+12 24/7/2026 tarihli ve 7590 sayılı Kanunun 6 ncı maddesiyle bu fıkraya “araç ve gereç” ibaresinden
+sonra gelmek üzere “ile kazaya uğramış, zor durumda kalan veya tehlike içinde bulunan hava aracına
+gerekli hizmetin” ibaresi eklenmiştir.
+
 MADDE 46 — Türk hava sahasında gerekli tedbirlerin alınması
 
 Ulaştırma Bakanlığı, Türkiye'nin taraf olduğu uluslararası anlaşmaların
@@ -560,7 +565,7 @@ düzenli bir şekilde yürütülmesi, haberleşmenin ve bilgi akışının sağl
 hizmetlerinin yürütülmesi amacı ile ve çağdaş teknolojiye uygun olarak gereken önlemleri alır
 ve işletilmesini sağlar.
 
-MADDE 47 — Havaalanları ve çevresinde yapılaşma sınırlamaları1213
+MADDE 47 — Havaalanları ve çevresinde yapılaşma sınırlamaları1314
 
 (Değişik fıkra: 4/7/2024-7519/14 md.) Havaalanlarının ve ilgili tesis ve
 teçhizatın dâhilinde ve çevresinde, Sivil Havacılık Genel Müdürlüğünce belirlenen esaslar ve
@@ -587,19 +592,19 @@ alınarak Ulaştırma, Denizcilik ve Haberleşme Bakanlığınca belirlenir.
 kullanımda olan havaalanlarında ise Millî Savunma Bakanlığı, ilgili kuruluşların da görüşünü
 alarak bu havaalanları için yukarıda değinilen hususları kapsayan planları ve kuralları hazırlar
 ve yayımlar. Yeni yapılacak askerî havaalanları hakkında Ulaştırma, Denizcilik ve
-Haberleşme Bakanlığının görüşü alınır.
-(Değişik: 23/1/2008-5728/431 md.) Millî Savunma Bakanlığının veya Sivil Havacılık
-Genel Müdürlüğünün yukarıdaki fıkralar hükümlerine göre verdiği emir ve koyduğu yasaklara
-aykırı hareket eden kişilere, ilgili Mahallin en büyük mülki idare amiri tarafından Kabahatler
 
-12 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu maddenin birinci fıkrasında yer alan
+13 13/7/2013 tarihli ve 6496 sayılı Kanunun 27 nci maddesi ile bu maddenin birinci fıkrasında yer alan
 “Ulaştırma Bakanlığınca” ibaresi “Sivil Havacılık Genel Müdürlüğünce”, ikinci ve üçüncü
 fıkralarında yer alan “Ulaştırma Bakanlığı” ibareleri “Sivil Havacılık Genel Müdürlüğü” ve altıncı
 fıkrasında yer alan “Ulaştırma Bakanlığının” ibaresi “Millî Savunma Bakanlığının veya Sivil
 Havacılık Genel Müdürlüğünün” şeklinde değiştirilmiştir.
-13 4/7/2024 tarihli ve 7519 sayılı Kanunun 14 üncü maddesi ile bu maddenin başlığı “İnşaat
+14 4/7/2024 tarihli ve 7519 sayılı Kanunun 14 üncü maddesi ile bu maddenin başlığı “İnşaat
 sınırlamaları” iken, metne işlendiği şekilde, altıncı fıkrasında yer alan “valilik” ibareleri “Mahallin
 en büyük mülki idare amiri” şeklinde değiştirilmiştir.
+Haberleşme Bakanlığının görüşü alınır.
+(Değişik: 23/1/2008-5728/431 md.) Millî Savunma Bakanlığının veya Sivil Havacılık
+Genel Müdürlüğünün yukarıdaki fıkralar hükümlerine göre verdiği emir ve koyduğu yasaklara
+aykırı hareket eden kişilere, ilgili Mahallin en büyük mülki idare amiri tarafından Kabahatler
 Kanununun 32 nci maddesi hükmüne göre idarî para cezası verilir. Mahallin en büyük mülki
 idare amiri ayrıca ilgili kişiye emir veya yasağın gereğinin yerine getirilmesini sağlamaya
 yönelik azami bir süre verir. Bu süre yazısında, emir ve yasağın gereğinin ilgilisince yerine
@@ -763,7 +768,7 @@ olmadığı mahkemece hükme bağlanır ise kayıt terkin olunur.
 Aksi takdirde ipotekli alacakların haklarının saklı bulunduğuna dair meşruhat verilerek
 sicildeki kayıt terkin olunur.
 
-MADDE 64 — Yönetmelik14
+MADDE 64 — Yönetmelik15
 
 Hava araçlarının sınıflandırılması,tescile tabi olmayanlarının
 belirlenmesi, uçak sicilinin tesisi ve nasıl tutulacağı, personelin nitelikleri, hukuki ilişkilerin
@@ -771,14 +776,14 @@ nasıl belgeleneceği ve tescil olunacakları, kayıtların düzeltilmesi, deği
 silinmesine ilişkin kurallar ile 55 inci maddenin tatbiki halinde uygulanacak kurallar
 yönetmelik ile belirlenir.
 
+15 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu maddenin
+“Uçak sicili tüzüğü” olan başlığı metne işlendiği şekilde ve birinci fıkrasında yer alan “bir tüzük”
+ibaresi “yönetmelik” şeklinde değiştirilmiştir.
+
 MADDE 65 — Hava araçlarının hukuki niteliği
 
 Bu Kanunda aksine bir hüküm bulunmadıkça, hava araçları menkul mal
 hükümlerine tabidir.
-
-14 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu maddenin
-“Uçak sicili tüzüğü” olan başlığı metne işlendiği şekilde ve birinci fıkrasında yer alan “bir tüzük”
-ibaresi “yönetmelik” şeklinde değiştirilmiştir.
 
 MADDE 66 — Mülkiyet ve diğer ayni hakların tesisi
 
@@ -963,12 +968,9 @@ c) Uçuşa elverişlilik belgesini taşımaları,
 d) Mürettebata ait belgeleri bulundurmaları,
 e) Telsiz tesisatı ruhsatnamesini taşımaları,
 f) Sigorta poliçesini bulundurmaları,
-g) Kanun ve yönetmelikler gereğince tayin olunan sair belgelerin bulundurulması,15
+g) Kanun ve yönetmelikler gereğince tayin olunan sair belgelerin bulundurulması,16
 Ve yetkili makamlar tarafından yapılacak kontrollerde gösterilmesi zorunludur.
 Türkiye'nin taraf olduğu anlaşmaların hükümleri saklıdır.
-
-15 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu bentte yer
-alan “tüzükler” ibaresi “yönetmelikler” şeklinde değiştirilmiştir.
 
 Devlet hava araçları:
 
@@ -1008,6 +1010,9 @@ c) Zirai mücadele dışında yere herhangi bir madde atmak, dökmek veya boşal
 yangınla mücadele uçakları hariç yerden herhangi bir madde almak,
 d) Fotoğraf çekme yasağı olan yerlerin fotoğrafını çekmek,
 e) Herhangi bir madde veya nesneyi çekmek veya uçağın nizami kullanılma şeklinin
+
+16 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu bentte yer
+alan “tüzükler” ibaresi “yönetmelikler” şeklinde değiştirilmiştir.
 dışında taşımak,
 f) Her türlü reklam ve propaganda niteliğinde faaliyette bulunmak,
 g) Silah, cephane, her nevi harp malzemeleri, patlayıcı, yanıcı, tahrip edici ve
@@ -1021,13 +1026,21 @@ Ulaştırma Bakanlığı yetkilidir.
 Bu izni vermeden önce, Ulaştırma Bakanlığı gerektiğinde, ilgili bakanlıklar ve
 Genelkurmay Başkanlığının görüşünü alır.
 
-MADDE 94 — İnme mecburiyeti
+MADDE 94 — Önleme talimatlarına uyma ve inme mecburiyeti
 
-Can ve mal güvenliği veya kamu düzeni veya yurt güvenliği gerekçesi
-ile, yetkili makamlardan vaki olacak talimat karşısında hava aracının bildirilecek havaalanına
-inmesi zorunludur.
-Birinci fıkra hükmünün uygulanmasında, Ulaştırma Bakanlığı gerektiğinde;
-Genelkurmay Başkanlığı, İçişleri, Dışişleri ve Gümrük ve Tekel bakanlıkları ile işbirliği yapar.
+(Başlığı ile Birlikte Değişik:24/7/2026-7590/7 md.)
+Türk hava sahasında uçuş gerçekleştiren sivil hava araçlarının, hava trafik kurallarına
+aykırı hareket etmeleri veya hava sahasını ihlal etmeleri hâlinde, ilgili hava trafik kontrol
+ünitesinin talebi üzerine yetkilendirilen hava araçları tarafından gerçekleştirilen önleme
+faaliyetleri kapsamında verilen talimatlara uymaları ve gerekli görüldüğünde iniş yapmaları
+zorunludur.
+Yabancı devletlerin hava sahasında uçuş gerçekleştiren, Türk Sivil Hava Aracı Siciline
+kayıtlı veya Türk işleticiler tarafından işletilen sivil hava araçlarının, Türkiye Cumhuriyeti
+tarafından tanınan devletlerin yetkili makamlarınca verilen önleme talimatlarına uymaları ve
+gerekli görüldüğünde iniş yapmaları zorunludur.
+Birinci fıkra hükmünün uygulanmasında Ulaştırma ve Altyapı Bakanlığı; gerekli
+hâllerde Millî Savunma Bakanlığı, İçişleri Bakanlığı, Dışişleri Bakanlığı ve Ticaret Bakanlığı
+ile iş birliği yapar.
 
 YEDİNCİ BÖLÜM
 Sivil Havacılık Personeli
@@ -1067,7 +1080,7 @@ MADDE 98 — İdari önlem
 Gerek bu Kanunda ve gerekse ilgili mevzuatta yer alan ve can ve mal güvenliğinin
 korunmasına yönelik kurallara aykırı davrandıkları iddiasıyla haklarında soruşturma veya
 kovuşturma başlatılmış bulunan sivil havacılık personelinin yeterlik belgelerini, soruşturma
-veya kovuşturma sonuçlanıncaya kadar geri almaya, Ulaştırma Bakanlığı yetkilidir.16
+veya kovuşturma sonuçlanıncaya kadar geri almaya, Ulaştırma Bakanlığı yetkilidir.17
 (Ek fıkra: 15/8/2016-KHK-671/14 md.; Aynen kabul: 9/11/2016-6757/12 md.)
 27/7/1967 tarihli ve 926 sayılı Türk Silâhlı Kuvvetleri Personel Kanunu uyarınca belirlenen
 yükümlülük süresini tamamlamadan bir mahkeme veya disiplin kurulu kararına dayanılarak
@@ -1086,6 +1099,9 @@ Sivil havacılık sahasında eleman yetiştirmek veya bu sahada öğrencileri
 yüksek öğretime hazırlamak amacıyla; Ulaştırma Bakanlığına bağlı lise veya dengi okullar
 1739 sayılı Milli Eğitim Temel Kanununun 58 inci maddesine uygun olarak açılabilir. Gerçek
 ve tüzelkişiler de aynı amaçla 625 sayılı Özel Eğitim Kurumları Kanunu esaslarına göre özel
+
+17 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
+alan “tüzük ve yönetmeliklerde” ibaresi “mevzuatta” şeklinde değiştirilmiştir.
 okullar açabilirler.
 Sivil havacılık sahasında meslek elemanı yetiştirmek üzere 2547 sayılı Yükseköğretim
 Kanunundaki esaslara uygun olarak yüksekokullar kurulabilir.
@@ -1102,14 +1118,11 @@ Sorumlu kaptan pilot, hava aracında emniyet ve düzenin sağlanması için
 önlem almaya ve bu amaçla, yolculara, personele ve hava aracında bulunan diğer kişilere emir
 ve talimat vermeye ve gerektiğinde bunları hava aracından çıkarmaya yetkilidir.
 Sorumlu kaptan pilot, uçuş sırasında gerçekleşen doğum ve ölüm olaylarını bir
-
-16 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
-alan “tüzük ve yönetmeliklerde” ibaresi “mevzuatta” şeklinde değiştirilmiştir.
 tutanakla saptar ve inilen ilk havaalanında mahalli yetkililere, yurt dışında ise Türk
 konsolosluğuna bildirir veya bildirilmesini sağlar. Yurda dönüşünde ayrıntılı rapor verir.
 Sorumlu kaptan pilot Kanun, ilgili mevzuat uyarınca hava aracında uçuş sırasında
 tutulması veya bulundurulması gereken tüm defter, kayıt ve belgelerin bulundurulmasından
-ve usulü dairesinde tutulmasından sorumludur.17
+ve usulü dairesinde tutulmasından sorumludur.18
 
 Kaptan pilotun cezai yetki ve sorumlulukları
 
@@ -1135,6 +1148,9 @@ kaptan pilotun görev, yetki ve sorumluluklarını belirleyen talimatlar hazırl
 bu gibi talimatlara uyulması, kaptan pilotun kanuni kurallar karşısındaki sorumluluğunu
 etkilemez.
 
+18 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
+alan “tüzük veya yönetmelik” ibaresi “ilgili mevzuat” şeklinde değiştirilmiştir.
+
 MADDE 104 — Yolcuların yükümlülükleri
 
 Yolcular, Türkiye'nin taraf olduğu uluslararası anlaşmalar ile bu Kanun
@@ -1149,9 +1165,6 @@ tarihli Tokyo, 1970 tarihli Lahey ve 1971 tarihli Montreal sözleşmeleri hükü
 
 ÜÇÜNCÜ KISIM
 Havayolu ile Taşımalar
-
-17 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
-alan “tüzük veya yönetmelik” ibaresi “ilgili mevzuat” şeklinde değiştirilmiştir.
 
 BİRİNCİ BÖLÜM
 İç Hat Taşıma Sözleşmesi
@@ -1362,7 +1375,7 @@ Taşıyıcı, birinci fıkrada anılan sözleşme ve protokoller ile öngörülm
 sınırların yükseltilmesine ilişkin özel anlaşmalar yapmak veya bu nitelikteki anlaşmalara
 katılmak yetkisini haizdir.
 Para kıymetinin değişmesi halinde, birinci fıkrada öngörülen sorumluluk sınırlarının
-yeniden belirlenmesine Cumhurbaşkanı yetkilidir.18
+yeniden belirlenmesine Cumhurbaşkanı yetkilidir.19
 
 Geçersiz sayılan hükümler
 
@@ -1384,7 +1397,7 @@ uygulanmaz. Ancak, taşıyıcının işçileri veya temsilcileri gibi yardımcı
 getirdiği sınırsız sorumluluk talebine mevzu olan zarar hakkında Borçlar Kanununun 55 inci
 madde hükümleri saklıdır.
 
-18 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
+19 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu fıkrada yer
 alan “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
 MADDE 127 — Taşıyıcının adamları
@@ -1512,7 +1525,7 @@ bulundurularak Ticaret ve Ulaştırma bakanlıklarınca müştereken tespit edil
 
 BEŞİNCİ KISIM
 Ceza Hükümleri
-Suç oluşturan davranışlar19
+Suç oluşturan davranışlar20
 
 MADDE 141
 
@@ -1524,14 +1537,14 @@ Bu Kanunun 31 ve 32 nci maddeleri ile 9 uncu maddesinin birinci fıkrası ve 93 
 maddesinin (a), (d), (f) ve (h) bentlerine aykırı davranışta bulunanlar, iki aydan iki yıla kadar
 hapis cezası ile cezalandırılır.
 
-19 Bu madde başlığı “Hürriyeti bağlayıcı cezayı ve para cezasını gerektiren davranışlar“ iken,
+20 Bu madde başlığı “Hürriyeti bağlayıcı cezayı ve para cezasını gerektiren davranışlar“ iken,
 23/1/2008 tarihli ve 5728 sayılı Kanunun 434 üncü maddesiyle metne işlendiği şekilde değiştirilmiştir.
 
 MADDE 142
 
 (Mülga: 23/1/2008-5728/578 md.)
 
-MADDE 143 — Kabahat oluşturan davranışlar202122
+MADDE 143 — Kabahat oluşturan davranışlar212223
 
 (Değişik: 23/1/2008-5728/435 md.)
 Bu Kanunun;
@@ -1543,11 +1556,13 @@ bulunanlara onbin Türk Lirasından beşyüzbin Türk Lirasına kadar,
 idarî para cezası verilir.
 Yukarıdaki fıkralarda belirtilenler dışında kalıp da Sivil Havacılık Genel
 Müdürlüğünün sivil havacılığı düzenlemek maksadıyla alacağı önlemlere uymayanlara, onbin
-Türk Lirasından beşyüzbin Türk Lirasına kadar idarî para cezası verilir.23
+Türk Lirasından beşyüzbin Türk Lirasına kadar idarî para cezası verilir.24
+(Ek fıkra:24/7/2026-7590/8 md.) Birinci ve ikinci fıkralarda yer alan idari para
+cezalarının alt ve üst sınırları tüzel kişiler için beş katı olarak uygulanır.
 Bu madde hükümlerine göre idarî para cezasına karar vermeye Ulaştırma Bakanlığı
 Sivil Havacılık Genel Müdürü yetkilidir.
 
-MADDE 144 — İnsansız hava araçları242526
+MADDE 144 — İnsansız hava araçları252627
 
 (Mülga: 23/1/2008-5728/578 md.; Yeniden düzenleme: 15/8/2016-
 KHK-674/33 md.; Aynen kabul: 10/11/2016-6758/29 md.)
@@ -1556,26 +1571,26 @@ sivil İnsansız Hava Aracı (İHA) sistemlerinin ithali, satışı, ruhsatland�
 uçuşa elverişliliğin sertifikalandırılması, sistemleri kullanacak kişilerin sahip olması gereken
 nitelikleri, uçuş izinlerinin verilmesine ve hava trafik hizmetlerine ilişkin usul ve esaslar Sivil
 Havacılık Genel Müdürlüğü tarafından belirlenir.
-İnsansız hava aracı satan şirketlerin sorumlu işleticileri ve yöneticileri, satılan araç
-bilgileri ile satın alanların kimlik bilgilerini usulüne uygun şekilde tutmak ve azami kalkış
 
-20 Bu madde başlığı “Para cezasını gerektiren davranışlar” iken, 23/1/2008 tarihli ve 5728 sayılı
+21 Bu madde başlığı “Para cezasını gerektiren davranışlar” iken, 23/1/2008 tarihli ve 5728 sayılı
 Kanunun 435 inci maddesiyle metne işlendiği şekilde değiştirilmiştir.
-21 Bu maddede yer alan para cezaları için Kanunun sonunda yer alan tabloya bakınız.
-22 4/7/2024 tarihli ve 7519 sayılı Kanunun 15 inci maddesi ile bu maddenin birinci fıkrasının (a)
+22 Bu maddede yer alan para cezaları için Kanunun sonunda yer alan tabloya bakınız.
+23 4/7/2024 tarihli ve 7519 sayılı Kanunun 15 inci maddesi ile bu maddenin birinci fıkrasının (a)
 bendinde yer alan “bin” ibaresi “yirmibin” şeklinde, “onbin” ibaresi “beşyüzbin” şeklinde, (b)
 bendinde yer alan “beşyüz” ibaresi “onbin” şeklinde, “onbin” ibaresi “beşyüzbin” şeklinde, ikinci
 fıkrada yer alan “beşyüz” ibaresi “onbin” şeklinde, “onbin” ibaresi “beşyüzbin” şeklinde
 değiştirilmiştir.
-23 24/10/2011 tarihli ve 661 sayılı KHK’nın 23 üncü maddesi ile bu fıkrada yer alan “Ulaştırma
+24 24/10/2011 tarihli ve 661 sayılı KHK’nın 23 üncü maddesi ile bu fıkrada yer alan “Ulaştırma
 Bakanlığının” ibaresi “Sivil Havacılık Genel Müdürlüğünün” şeklinde değiştirilmiştir.
-24 Bu madde başlığı 15/8/2016 tarihli ve 674 sayılı KHK’nin 33 üncü maddesinin hükmüyle
+25 Bu madde başlığı 15/8/2016 tarihli ve 674 sayılı KHK’nin 33 üncü maddesinin hükmüyle
 düzenlenmiş olup, daha sonra bu hüküm 10/11/2016 tarihli ve 6758 sayılı Kanunun 29 uncu
 maddesiyle aynen kabul edilerek kanunlaşmıştır.
-25 Bu maddede yer alan para cezaları için Kanunun sonunda yer alan tabloya bakınız.
-26 4/7/2024 tarihli ve 7519 sayılı Kanunun 16 ncı maddesi ile bu maddenin mevcut birinci fıkrasında
+26 Bu maddede yer alan para cezaları için Kanunun sonunda yer alan tabloya bakınız.
+27 4/7/2024 tarihli ve 7519 sayılı Kanunun 16 ncı maddesi ile bu maddenin mevcut birinci fıkrasında
 yer alan “beşbin” ibaresi “ellibin” şeklinde, mevcut ikinci fıkrasında yer alan “onbin” ibaresi
 “yüzbin” şeklinde değiştirilmiştir.
+İnsansız hava aracı satan şirketlerin sorumlu işleticileri ve yöneticileri, satılan araç
+bilgileri ile satın alanların kimlik bilgilerini usulüne uygun şekilde tutmak ve azami kalkış
 ağırlığı beşyüz gram (dahil) üzerindeki insansız hava araçları ile ilgili bilgileri, aynı gün
 içinde Sivil Havacılık Genel Müdürlüğü tarafından oluşturulan kayıt sistemine kaydetmek
 zorundadır. Bu kayıtlar, suç işlenmesinin önlenmesi ve suç soruşturmalarında kullanılmak
@@ -1620,12 +1635,7 @@ mecburdurlar.
 Bu istatistiki bilgilerin kapsamı ve veriliş zamanları Ulaştırma Bakanlığınca
 hazırlanacak yönetmelikle düzenlenir.
 
-Yönetmelikler27
-
-27 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu maddenin
-“Tüzük ve yönetmelikler” olan başlığı metne işlendiği şekilde; birinci fıkrasında yer alan “tüzük ve
-
-MADDE 148
+MADDE 148 — Yönetmelikler28
 
 Bu Kanunda belirtilen yönetmelikler Resmi Gazete'de yayımlanarak
 yürürlüğe konulur.
@@ -1665,12 +1675,14 @@ Hurdaya ayrılan hava araçları, Sivil Havacılık Genel Müdürlüğünün ruh
 havaalanı işleticisi tarafından ayrıştırılmaksızın bütün donanımları ile birlikte açık artırma
 usulü ile satılarak, bedelden konma-konaklama bedeli alınmaksızın ilan, terkin ve satışa
 ilişkin masraflar düşüldükten sonra kalan bedel Genel Müdürlüğün emanet hesabına yatırılır.
+
+28 2/7/2018 tarihli ve 703 sayılı Kanun Hükmünde Kararnamenin 189 uncu maddesiyle bu maddenin
+“Tüzük ve yönetmelikler” olan başlığı metne işlendiği şekilde; birinci fıkrasında yer alan “tüzük ve
+yönetmelikler bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde hazırlanır ve” ibaresi
+“yönetmelikler” şeklinde değiştirilmiştir.
 Hava araçları üzerinde bulunan ipotek, haciz ve mevcut takyidatlar bu bedel üzerinden devam
 eder. Alacakların tasfiyesinden sonra kalan miktar satıştan itibaren beş yıl içinde hak
 sahiplerinin müracaatları halinde ilgililerine iade edilir. Beş yıl içinde herhangi bir müracaatın
-
-yönetmelikler bu Kanunun yürürlüğe girdiği tarihten itibaren altı ay içinde hazırlanır ve” ibaresi
-“yönetmelikler” şeklinde değiştirilmiştir.
 olmaması halinde söz konusu bedel Genel Müdürlük bütçesine gelir kaydedilir. Gelir
 kaydedilen bu tutarların harcanacağı yerler Maliye Bakanlığının uygun görüşü üzerine Genel
 Müdürlük tarafından belirlenir.

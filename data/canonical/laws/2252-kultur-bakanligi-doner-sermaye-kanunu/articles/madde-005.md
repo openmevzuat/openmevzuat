@@ -36,7 +36,10 @@ f) (Ek:25/10/2023-7464/10 md.) Kart, belge ve plaket, kokart gelirleri ve benzer
 çeşit gelirler ile atık su arıtma tesisi, katı atık bertaraf tesisi gibi altyapı tesislerinde elde
 edilen her türlü ücret ve bu tesislerin işletme ve kira gelirleri ile döner sermaye faaliyetleri
 kapsamında Bakanlığın görev alanına giren tesislerden elde edilen ücret ve gelirler,
-g) (Ek: 14/7/2004-5225/14 md.) Diğer gelirler,
+g) (Ek:24/7/2026-7590/3 md.)11 2863 sayılı Kanun kapsamında Kültür ve Turizm
+Bakanlığına yapılacak başvurular ve Bakanlıkça sunulacak hizmetler karşılığı alınacak her
+türlü hizmet bedeli,
+ğ) (Ek: 14/7/2004-5225/14 md.) Diğer gelirler,
 Döner sermayenin gelirleridir.
 Yukarıdaki gelirlerle ilgili tarifeler, Kültür Bakanlığınca saptanır.
 

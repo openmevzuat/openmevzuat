@@ -1,4 +1,4 @@
-# MADDE 332
+# MADDE 332 — Yargılama giderlerine hükmedilmesi
 
 (1) Yargılama giderlerine, mahkemece resen hükmedilir.
 (2) Yargılama gideri, tutarı, hangi tarafa ve hangi oranda yükletildiği ve dökümü

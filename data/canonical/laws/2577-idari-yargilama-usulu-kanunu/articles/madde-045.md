@@ -15,20 +15,41 @@ karşı yapılan kanun yolu başvurularında dilekçelerdeki hitap ve istekle ba
 dosyalar bölge idare mahkemesine gönderilir. (Ek cümle:28/7/2024-7524/52 md.) Bölge idare
 mahkemesinin 48 inci maddenin yedinci fıkrası uyarınca verdiği kararlara karşı tebliğ tarihini
 izleyen günden itibaren yedi gün içinde temyiz yoluna başvurulabilir. 32
-3. Bölge idare mahkemesi, yaptığı inceleme sonunda ilk derece mahkemesi kararını
-hukuka uygun bulursa istinaf başvurusunun reddine karar verir. Karardaki maddi yanlışlıkların
-düzeltilmesi mümkün ise gerekli düzeltmeyi yaparak aynı kararı verir.
+3. (Değişik:16/7/2026-7589/5 md.) Bölge idare mahkemesi, ilk derece mahkemesinin
+kararına ilişkin yaptığı inceleme sonunda;
+a) Kararı hukuka uygun bulursa,
+b) Kararın sonucu hukuka uygun olmakla birlikte gösterilen gerekçeyi doğru bulmaz
+veya eksik bulursa kararın gerekçesini değiştirerek,
+c) Karardaki maddi yanlışlıkların düzeltilmesi mümkün ise gerekli düzeltmeyi yaparak,
+istinaf başvurusunun reddine karar verir.
 4. Bölge idare mahkemesi, ilk derece mahkemesi kararını hukuka uygun bulmadığı
 takdirde istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının kaldırılmasına karar
 verir. Bu hâlde bölge idare mahkemesi işin esası hakkında yeniden bir karar verir. İnceleme
 sırasında ihtiyaç duyulması hâlinde kararı veren mahkeme veya başka bir yer idare ya da
 vergi mahkemesi istinabe olunabilir. İstinabe olunan mahkeme gerekli işlemleri öncelikle ve
 ivedilikle yerine getirir.
-5. Bölge idare mahkemesi, ilk inceleme üzerine verilen kararlara karşı yapılan istinaf
-başvurusunu haklı bulduğu, davaya görevsiz veya yetkisiz mahkeme yahut reddedilmiş veya
-yasaklanmış hâkim tarafından bakılmış olması hâllerinde, istinaf başvurusunun kabulü ile ilk
-derece mahkemesi kararının kaldırılmasına karar vererek dosyayı ilgili mahkemeye gönderir.
-Bölge idare mahkemesinin bu fıkra uyarınca verilen kararları kesindir.
+5. (Değişik:16/7/2026-7589/5 md.) Bölge idare mahkemesi;
+a) İlk inceleme üzerine verilen kararlar ile usule ilişkin verilen diğer nihai kararlara
+karşı yapılan istinaf başvurusunu haklı bulması,
+b) Davaya görevsiz veya yetkisiz mahkeme yahut reddedilmiş veya yasaklanmış
+hâkim tarafından bakılmış olması,
+c) Dilekçenin reddine karar verilmesi gerekirken bu karar verilmeksizin dava hakkında
+karar verilmesi,
+d) Dosyanın eksik veya yanlış hasımla tekemmül ettirilerek karar verilmesi,
+e) Talep hakkında karar verilmemesi yahut eksik hükümle karar verilmesi,
+f) Keşif veya bilirkişi incelemesi yaptırılması gerektiği hâlde yaptırılmadan karar
+verilmesi,
+g) Duruşma yapılması gerektiği hâlde duruşma yapılmadan karar verilmesi,
+hallerinde, istinaf başvurusunun kabulü ile ilk derece mahkemesi kararının
+kaldırılmasına ve dosyanın kararı veren mahkemeye gönderilmesine kesin olarak karar verir.
+Ancak bölge idare mahkemesi, (f) ve (g) bentlerindeki eksikliği kendisi gidererek karar
+
+31 20/7/2017 tarihli ve 7035 sayılı Kanunun 6 ncı maddesiyle, bu maddenin birinci fıkrasında yer alan “aksine
+hüküm bulunsa” ibaresi “farklı bir kanun yolu öngörülmüş olsa” şeklinde değiştirilmiştir.
+32 Anayasa Mahkemesinin 20/7/2022 tarihli ve E.: 2022/48, K.: 2022/93 sayılı Kararı ile bu fıkranın birinci
+cümlesi “istinafın kanuni süre geçtikten sonra yapılması hâli” yönünden iptal edilmiştir.
+verebilir. Bu fıkrada sayılan haller dışında kararın kaldırılarak dosyanın kararı veren
+mahkemeye gönderilmesine karar verilemez.
 6. Bölge idare mahkemelerinin 46 ncı maddeye göre temyize açık olmayan kararları
 kesindir. (Ek cümle: 20/7/2017-7035/6 md.) Bu kararlar, dosyayla birlikte kararı veren ilk
 derece mahkemesine gönderilir ve bu mahkemelerce yedi gün içinde tebliğe çıkarılır.33

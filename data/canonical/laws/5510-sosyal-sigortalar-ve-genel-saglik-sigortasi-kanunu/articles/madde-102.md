@@ -9,6 +9,10 @@ veya Kurumca internet, elektronik veya benzeri ortamda göndermekle zorunlu tutu
 hâlde anılan ortamda göndermeyenler hakkında her bir sigortalı için asgari ücret tutarında
 idari para cezası uygulanır.
 2) 8 inci maddenin birinci fıkrasında belirtilen bildirgenin verilmediğinin, mahkeme
+
+184 15/7/2016 tarihli ve 6728 sayılı Kanunun 50 nci maddesiyle, bu fıkranın birinci cümlesinde yer
+alan “gerçek ve tüzel kişileri” ibaresi “gerçek veya tüzel kişiler ile yazılı sözleşme ile yetki verilmiş
+gerçek veya tüzel kişilere izin vermeye, bu kişileri aracı kılmaya veya” şeklinde değiştirilmiştir.
 kararından veya Kurumun denetim ve kontrolle görevli memurlarınca yapılan tespitlerden ya
 da diğer kamu idarelerinin denetim elemanlarının kendi mevzuatları gereğince yapacakları
 soruşturma, denetim ve incelemelerden veya bankalar, döner sermayeli kuruluşlar, kamu
@@ -89,7 +93,7 @@ idari para cezası uygulanır. İbraz süresi geçirildikten sonra incelemeye su
 tümünün veya bir bölümünün geçersiz olduğu tespit edilen defter ve belgeler yönünden,
 ayrıca geçersizlik fiilleri için idari para cezası uygulanmaz, sadece tutulan defter türü dikkate
 alınarak bu bendin (1), (2) ve (3) numaralı alt bentlerine göre idari para cezası uygulanır.
-f) 85 inci maddesinin beşinci fıkrasında (…)184 belirtilen yükümlülükleri belirtilen sürede
+f) 85 inci maddesinin beşinci fıkrasında (…)185 belirtilen yükümlülükleri belirtilen sürede
 yerine getirmeyenlere, aylık asgari ücretin iki katı tutarında idari para cezası uygulanır.
 g) 8 inci maddesinin üçüncü fıkrasında, 9 uncu maddesinin birinci fıkrasının (b)
 bendinde belirtilenler için aynı maddenin üçüncü fıkrasında, 47 nci maddesinin üçüncü
@@ -109,9 +113,6 @@ görevlerini yapmasına engel olamazlar; engel olanlar hakkında eylemleri başk
 oluştursa dahi, asgari ücretin beş katı tutarında idari para cezası uygulanır.
 2) Görevlerini yapmasını engellemek amacıyla cebir ve tehdit kullanan işverenler,
 sigortalılar, işyeri sahipleri ve bu işle ilgili diğer kişiler fiil daha ağır bir cezayı gerektiren ayrı
-
-184 13/2/2011 tarihli ve 6111 sayılı Kanunun 45 inci maddesiyle, bu bentte yer alan “ve 86 ncı maddesinin
-altıncı fıkrasında” ibaresi madde metninden çıkarılmıştır.
 bir suç teşkil etmediği takdirde Türk Ceza Kanununun 265 inci maddesinin ikinci fıkrasına
 göre cezalandırılır. Bu suçu işleyenler hakkında ayrıca asgari ücretin on katı tutarında idari
 para cezası uygulanır.
@@ -127,6 +128,9 @@ yapılmaması halinde sigortalı başına aylık asgari ücretin onda biri, hiç
 ise sigortalı başına aylık asgari ücretin yarısı tutarında idari para cezası uygulanır.
 (Ek paragraf: 4/4/2015-6645/48 md.) 4 üncü maddenin birinci fıkrasının (c) bendi
 kapsamında bulunan sigortalıların hizmet bilgilerinin 100 üncü madde kapsamında Kurumca
+
+185 13/2/2011 tarihli ve 6111 sayılı Kanunun 45 inci maddesiyle, bu bentte yer alan “ve 86 ncı maddesinin
+altıncı fıkrasında” ibaresi madde metninden çıkarılmıştır.
 oluşturulan yazılım programına bilgi girişi yapması gereken işyerlerince, Kurumca belirlenen
 süre içinde elektronik ortamda Kuruma hiç gönderilmemesi hâlinde sigortalı başına aylık brüt
 asgari ücretin beşte biri, geç gönderilmesi hâlinde ise sigortalı başına aylık brüt asgari ücretin
@@ -200,9 +204,12 @@ tutarın Kuruma bildirilmemesi halinde birinci fıkranın ilgili hükümlerine g
 verilir. Eksikliğin işverence tespit edilmesi durumunda bu süre; bildirge, beyanname, belge
 veya defterlerin Kuruma verilmesinden itibaren on beş gündür.
 İdarî para cezası uygulanması 8 inci, 9 uncu, 11 inci ve 86 ncı maddelerde belirtilen
-belgelerin Kuruma verilmesi yükümlülüğünü kaldırmaz.185
+belgelerin Kuruma verilmesi yükümlülüğünü kaldırmaz.186
 İdarî para cezaları ilgiliye tebliğ ile tahakkuk eder. Tebliğ tarihinden itibaren onbeş
 gün içinde Kuruma ya da Kurumun ilgili hesaplarına yatırılır veya aynı süre içinde Kuruma
+
+186 18/2/2009 tarihli ve 5838 sayılı Kanunun 4 üncü maddesiyle; bu fıkrada yer alan“8 inci,”
+ibaresinden sonra gelmek üzere “9 uncu,” ibaresi eklenmiştir.
 itiraz edilebilir. İtiraz takibi durdurur. Kurumca itirazı reddedilenler, kararın kendilerine tebliğ
 tarihinden itibaren otuz gün içinde yetkili idare mahkemesine başvurabilirler. Bu süre içinde
 başvurunun yapılmamış olması halinde, idari para cezası kesinleşir.
