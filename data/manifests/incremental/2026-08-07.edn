@@ -1,5 +1,5 @@
 {:snapshot/date "2026-08-07",
- :snapshot/generated-at #inst "2026-08-07T01:24:36.999-00:00",
+ :snapshot/generated-at #inst "2026-08-07T03:43:14.334-00:00",
  :generator/name "openmevzuat",
  :generator/version "0.1.0",
  :documents
@@ -233,5 +233,23 @@
    :document/path "data/canonical/laws/7545-siber-guvenlik-kanunu",
    :metadata/path "data/metadata/laws/7545-siber-guvenlik-kanunu.edn",
    :document/sha256
-   "56ebeed3a37776b967bacf1533d4ae95bd10d9dbc3d2b27d35821173ccc59cb1"}],
+   "56ebeed3a37776b967bacf1533d4ae95bd10d9dbc3d2b27d35821173ccc59cb1"}
+  {:document/id "decree/khk-375",
+   :document/title
+   "657 Sayılı Devlet Memurları Kanunu, 926 Sayılı Türk Silahlı Kuvvetleri Personel Kanunu, 2802 Sayılı Hakimler ve Savcılar Kanunu, 2914 Sayılı Yükseköğretim Personel Kanunu, 5434 Sayılı T.C. Emekli Sandığı Kanunu ile Diğer Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması, Devlet Memurları ve Diğer Kamu Görevlilerine Memuriyet Taban Aylığı ve Kıdem Aylığı ile Ek Tazminat Ödenmesi Hakkında Kanun Hükmünde Kararname",
+   :document/path
+   "data/canonical/decrees/khk-375-657-sayili-devlet-memurlari-kanunu-926-sayili-turk-silahli-kuvvetleri-personel-kanunu-2802-sayili-hakimler-ve-savcilar-kanunu-2914-sayili-yuksekogretim-persone-4039a2c03ce5",
+   :metadata/path
+   "data/metadata/decrees/khk-375-657-sayili-devlet-memurlari-kanunu-926-sayili-turk-silahli-kuvvetleri-personel-kanunu-2802-sayili-hakimler-ve-savcilar-kanunu-2914-sayili-yuksekogretim-persone-4039a2c03ce5.edn",
+   :document/sha256
+   "021276eadb1cc00ed172451311bdee10ec62b1832a08601ccd2eacbd775e391a"}
+  {:document/id "decree/khk-655",
+   :document/title
+   "Ulaştırma ve Altyapı Alanına İlişkin Bazı Düzenlemeler Hakkında Kanun Hükmünde Kararname",
+   :document/path
+   "data/canonical/decrees/khk-655-ulastirma-ve-altyapi-alanina-iliskin-bazi-duzenlemeler-hakkinda-kanun-hukmunde-kararname",
+   :metadata/path
+   "data/metadata/decrees/khk-655-ulastirma-ve-altyapi-alanina-iliskin-bazi-duzenlemeler-hakkinda-kanun-hukmunde-kararname.edn",
+   :document/sha256
+   "066625212ac479a4abe51cfb7bff47956c0de2cbda1504ae3020afe49be24883"}],
  :snapshot/scope :incremental}

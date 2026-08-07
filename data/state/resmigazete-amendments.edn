@@ -1,4 +1,4 @@
-{:state/updated-at #inst "2026-07-18T03:35:57.000-00:00",
+{:state/updated-at #inst "2026-08-07T03:45:04.289-00:00",
  :resmi-gazete/processed-amendments
  [{:amendment/law-no "7584",
    :amendment/title
@@ -6,17 +6,39 @@
    :resmi-gazete/date "20.06.2026",
    :resmi-gazete/issue "33286",
    :processed/snapshot-date "2026-07-18",
-   :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/06/20260620-2.htm"}
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/06/20260620-2.htm"}
   {:amendment/law-no "7587",
-   :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+   :amendment/title
+   "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
    :resmi-gazete/date "01.07.2026",
    :resmi-gazete/issue "33297",
    :processed/snapshot-date "2026-07-18",
-   :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260701-1.htm"}
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/07/20260701-1.htm"}
   {:amendment/law-no "7588",
    :amendment/title
    "Uzman Erbaş Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
    :resmi-gazete/date "11.07.2026",
    :resmi-gazete/issue "33307",
    :processed/snapshot-date "2026-07-18",
-   :amendment/url "https://www.resmigazete.gov.tr/eskiler/2026/07/20260711-5.htm"}]}
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/07/20260711-5.htm"}
+  {:amendment/law-no "7589",
+   :amendment/title
+   "Yargının Etkin ve Verimli İşlemesine Yönelik Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+   :resmi-gazete/date "31.07.2026",
+   :resmi-gazete/issue "33326",
+   :processed/snapshot-date "2026-08-07",
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/07/20260731-1.htm",
+   :processed/at #inst "2026-08-07T03:45:04.289-00:00"}
+  {:amendment/law-no "7590",
+   :amendment/title
+   "Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılmasına Dair Kanun",
+   :resmi-gazete/date "31.07.2026",
+   :resmi-gazete/issue "33326",
+   :processed/snapshot-date "2026-08-07",
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/07/20260731-2.htm",
+   :processed/at #inst "2026-08-07T03:45:04.289-00:00"}]}
