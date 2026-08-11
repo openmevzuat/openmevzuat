@@ -19,6 +19,29 @@ oluşur.
 
 Uşak Üniversitesi:124
 
+d) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Bucak Sağlık
+Yüksekokulu kurulmuştur.
+e) 12/11/2012 tarihli ve 2012/3961 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
+Fakültesi kurulmuştur.
+f) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Bucak İşletme
+Fakültesi kurulmuştur.
+g) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Sağlık Yüksekokulu kapatılmıştır.
+ğ) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sanat ve
+Tasarım Fakültesi kurulmuştur.
+h) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Bucak Teknoloji
+Fakültesi kurulmuştur.
+ı) 29/5/2017 tarihli ve 2017/10404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Gölhisar
+Uygulamalı Bilimler Yüksekokulu kurulmuştur.
+i) 3/7/2017 tarihli ve 2017/10549 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
+j) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuştur.
+k) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
+l) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
+bağlı olarak Bucak Bilgisayar ve Bilişim Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Bucak Teknoloji
+Fakültesi kapatılmıştır.
 m) 28/6/2024 tarihli ve 32586 sayılı Resmî Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Turizm Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Turizm İşletmeciliği ve Otelcilik
 Yüksekokulu kapatılmıştır.
@@ -27,25 +50,3 @@ Rektörlüğe bağlı olarak Tıp Fakültesi kurulmuştur.
 
 124 a) 19/9/2007 tarihli ve 2007/12631 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
 Fakültesi kurulmuştur.
-b) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İletişim Fakültesi
-kurulmuştur.
-c) 29/3/2012 tarihli ve 2012/3066 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat
-Fakültesi kurulmuş, 25/3/2013 tarihli ve 2013/4496 sayılı Bakanlar Kurulu Kararı ile bu fakültenin adı İslami
-İlimler Fakültesi olarak değiştirilmiştir.
-ç) 16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Uygulamalı
-Bilimler Yüksekokulu kurulmuştur.
-d) 20/9/2012 tarihli ve 2012/3763 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Spor Bilimleri
-Fakültesi ile Ziraat ve Doğa Bilimleri Fakültesi kurulmuştur.
-e) 22/10/2012 tarihli ve 2012/3902 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı
-Diller Yüksekokulu kurulmuştur.
-f) 8/4/2013 tarihli ve 2013/4622 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık ve
-Tasarım Fakültesi kurulmuştur.
-g) 7/10/2013 tarihli ve 2013/5547 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
-Fakültesi kurulmuştur.
-ğ) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
-Enstitüsü kurulmuştur.
-h) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Tıp Fakültesi
-kurulmuştur.
-ı) 28/3/2020 tarihli ve 31082 sayılı Resmî Gazete’ de yayımlanan değişiklikle Rektörlüğe bağlı olarak Lisansüstü
-Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal
-Bilimler Enstitüsü kapatılmıştır.

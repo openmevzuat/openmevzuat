@@ -15,8 +15,28 @@ d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen
 Enstitüsünden,
 oluşur.
 
-Recep Tayyip Erdoğan Üniversitesi:125126127
-
+b) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İletişim Fakültesi
+kurulmuştur.
+c) 29/3/2012 tarihli ve 2012/3066 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat
+Fakültesi kurulmuş, 25/3/2013 tarihli ve 2013/4496 sayılı Bakanlar Kurulu Kararı ile bu fakültenin adı İslami
+İlimler Fakültesi olarak değiştirilmiştir.
+ç) 16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Uygulamalı
+Bilimler Yüksekokulu kurulmuştur.
+d) 20/9/2012 tarihli ve 2012/3763 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Spor Bilimleri
+Fakültesi ile Ziraat ve Doğa Bilimleri Fakültesi kurulmuştur.
+e) 22/10/2012 tarihli ve 2012/3902 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı
+Diller Yüksekokulu kurulmuştur.
+f) 8/4/2013 tarihli ve 2013/4622 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık ve
+Tasarım Fakültesi kurulmuştur.
+g) 7/10/2013 tarihli ve 2013/5547 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
+ğ) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Enstitüsü kurulmuştur.
+h) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Tıp Fakültesi
+kurulmuştur.
+ı) 28/3/2020 tarihli ve 31082 sayılı Resmî Gazete’ de yayımlanan değişiklikle Rektörlüğe bağlı olarak Lisansüstü
+Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal
+Bilimler Enstitüsü kapatılmıştır.
 i) 21/8/2020 tarihli ve 31220 sayılı Resmi Gazete’de yayımlanan 2843 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi ve Sağlık Bilimleri Fakültesi kurulmuş , Rektörlük
 bünyesinde yer alan Uygulamalı Bilimler Yüksekokulu ve Sağlık Yüksekokulu kapatılmıştır.
@@ -29,27 +49,3 @@ l) 4/8/2023 tarihli ve 32669 sayılı Resmî Gazete’de yayımlanan 7477 sayıl
 bağlı olan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
 m) 20/9/2024 tarihli ve 32668 sayılı Resmî Gazete’de yayımlanan 8991 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan İslami İlimler Fakültesinin adı İlahiyat Fakültesi olarak değiştirilmiştir.
-125 30/3/2012 tarihli ve 6287 sayılı Kanunun 19 uncu maddesiyle bu maddenin “Rize Üniversitesi” olan başlığı iken
-metne işlendiği şekilde ve birinci fıkrada yer alan “Rize Üniversitesi” ibaresi “Recep Tayyip Erdoğan Üniversitesi”
-şeklinde değiştirilmiştir.
-126 a) 28/4/2008 tarihli ve 2008/13602 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve
-İdari Bilimler Fakültesi kurulmuştur.
-b) 30/3/2009 tarihli ve 2009/14947 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turgut Kıran
-Denizcilik Yüksekokulu kurulmuştur.
-c) 7/12/2009 tarihli ve 2009/15637 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güneysu Fizik
-Tedavi ve Rehabilitasyon Yüksekokulu kurulmuştur.
-ç) 28/7/2010 tarihli ve 2010/782 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
-Fakültesi kurulmuştur.
-d) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mühendislik
-Fakültesi kurulmuştur.
-e) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı Diller
-Yüksekokulu kurulmuştur.
-f) 16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Ardeşen Turizm
-ve Otelcilik Yüksekokulu, Beden Eğitimi ve Spor Yüksekokulu, Hukuk Fakültesi, Ziraat ve Doğa Bilimleri Fakültesi
-kurulmuştur.
-g) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Güzel
-Sanatlar, Tasarım ve Mimarlık Fakültesi ile Fındıklı Uygulamalı Bilimler Yüksekokulu kurulmuştur.
-ğ) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Ardeşen
-Turizm Fakültesi kurulmuştur.
-h) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde yer alan Ardeşen
-Turizm ve Otelcilik Yüksekokulunun kapatılmıştır.

@@ -8,7 +8,7 @@ tarih itibarıyla ödenmemiş ilaç ve tıbbi malzeme alımlarına ilişkin bor�
 belirtilen şartların birlikte gerçekleşmesi halinde, Maliye Bakanlığı bütçesinden işletmeye
 verilen borç karşılığında ilgili döner sermaye muhasebe birimi tarafından defaten ödenir.
 Gerçek veya tüzel kişi alacaklıların bu maddenin yürürlüğe girdiği tarihten itibaren
-kırk beş gün içerisinde;100
+kırk beş gün içerisinde;107
 a) Kapsama dâhil alacak tutarı yerine, vade tarihi ve alacağın türüne (ilaç, tıbbi malzeme
 türleri itibarıyla) göre Bakanlar Kurulunca belirlenecek olan iskonto oranlarının uygulanması
 sonucu hesaplanacak tutarın ödenmesini kabul ettiğine ve iskonto oranına tekabül eden tutardan
@@ -30,7 +30,7 @@ tarafından hak sahibi gerçek ve tüzel kişilere, yasal olarak yapılması ger
 düşüldükten sonra kalan tutar, aktarım tarihini takip eden beş işgünü içinde ödenir. Ödenecek
 borçlar ile ilgili olarak ayrıca temerrüt faizi, vade farkı benzeri herhangi bir ödeme yapılmaz.
 
-100 11/5/2018 tarihli ve 7143 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “bir ay” ibaresi “kırk beş
+107 11/5/2018 tarihli ve 7143 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “bir ay” ibaresi “kırk beş
 gün” şeklinde değiştirilmiştir.
 Feragat suretiyle kayıtlardan çıkarılacak borç tutarları, üniversite döner sermaye
 işletmeleri tarafından sonuç hesaplarına aktarılır ve bu tutar üzerinden Hazine hissesi ve

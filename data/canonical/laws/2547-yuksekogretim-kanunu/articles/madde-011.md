@@ -33,12 +33,12 @@ faaliyetleri ile ilgili yönetmelikleri hazırlamak veya görüş bildirmek,
 (4) Aynı veya benzer nitelikteki fakültelerin ya da üniversitelere veya fakültelere bağlı
 diğer yükseköğretim kurumlarının eğitim - öğretimine ilişkin ilkeler ve süreler arasında uyum
 sağlamak,
-(5) Doktora ile ilgili esasları tespit etmek ve yurt dışında yapılan doktoraları, doçentlik
-ve profesörlük ünvanlarını değerlendirmek,
-(6) (Değişik: 22/2/2018-7100/3 md.) Doçentlik başvurularında ilgili bilim veya sanat
 
 13 22/2/2018 tarihli ve 7100 sayılı Kanunun 3 üncü maddesiyle, bu paragrafta yer alan “, Genelkurmay
 Başkanlığının Silahlı Kuvvetlerden dört yıl için seçeceği bir profesör” ibaresi madde metninden çıkarılmıştır.
+(5) Doktora ile ilgili esasları tespit etmek ve yurt dışında yapılan doktoraları, doçentlik
+ve profesörlük ünvanlarını değerlendirmek,
+(6) (Değişik: 22/2/2018-7100/3 md.) Doçentlik başvurularında ilgili bilim veya sanat
 alanında jüriler oluşturarak adayların yayın ve çalışmalarını Yükseköğretim Kurulu tarafından
 belirlenen esas ve usuller kapsamında değerlendirip, yeterli yayın ve çalışmaya sahip olan
 adaylara doçentlik unvanı vermek,

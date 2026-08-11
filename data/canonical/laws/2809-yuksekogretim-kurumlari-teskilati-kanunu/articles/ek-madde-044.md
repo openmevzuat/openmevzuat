@@ -1,20 +1,12 @@
 # EK MADDE 44 — Maltepe Üniversitesi:102
 
 (Ek: 9/7/1997-4282/1 md.)
-İstanbul’da Marmara Eğitim Vakfı tarafından 2547 sayılı Kanunun vakıf yükseköğretim
-kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz “Maltepe
-Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
-Bu Üniversite, Rektörlüğe bağlı olarak;
-a) Tıp Fakültesi,
-b) Hukuk Fakültesi,
-c) Fen-Edebiyat Fakültesi,
-d) Mühendislik-Mimarlık Fakültesi,
-e) İletişim Fakültesi,
-f) İktisadi ve İdari Bilimler Fakültesi,
-g) Eğitim Fakültesi,
-h) Hemşirelik Yüksekokulundan,
-Oluşur.
 
+101 a) 25/6/2012 tarihli ve 2012/3348 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Mühendislik-
+Mimarlık Fakültesi kapatılmış, Rektörlüğe bağlı olarak Mühendislik Fakültesi ile Mimarlık Fakültesi kurulmuştur.
+b) 20/9/2024 tarihli ve 32668 sayılı Resmî Gazete’de yayımlanan 8991 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
+bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri Enstitüsü ve
+Sosyal Bilimler Enstitüsü kapatılmıştır.
 102 a) 8/4/1999 tarihli ve 99/12735 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Fen Bilimleri
 Enstitüsü, Sosyal Bilimler Enstitüsü ve Sağlık Bilimleri Enstitüsü kurulmuştur.
 b) 1/8/2003 tarihli ve 2003/6033 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Mühendislik-Mimarlık
@@ -36,3 +28,16 @@ Bilimler Fakültesinin adı İşletme ve Yönetim Bilimleri Fakültesi olarak de
 Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuştur.
 h) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan Sosyal Bilimler Enstitüsü, Fen Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüsü kapatılmıştır.
+İstanbul’da Marmara Eğitim Vakfı tarafından 2547 sayılı Kanunun vakıf yükseköğretim
+kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tüzelkişiliğini haiz “Maltepe
+Üniversitesi” adıyla yeni bir vakıf üniversitesi kurulmuştur.
+Bu Üniversite, Rektörlüğe bağlı olarak;
+a) Tıp Fakültesi,
+b) Hukuk Fakültesi,
+c) Fen-Edebiyat Fakültesi,
+d) Mühendislik-Mimarlık Fakültesi,
+e) İletişim Fakültesi,
+f) İktisadi ve İdari Bilimler Fakültesi,
+g) Eğitim Fakültesi,
+h) Hemşirelik Yüksekokulundan,
+Oluşur.

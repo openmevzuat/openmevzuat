@@ -3,10 +3,7 @@
 (Ek: 16/7/2008-5787/18 md.)
 Tasarruf Mevduatı Sigorta Fonuna 31/12/2007 tarihine kadar verilen özel tertip Devlet İç
 Borçlanma Senetlerinden doğmuş ve/veya doğacak anapara, faiz, masraf ve gecikme zammından
-
-69 Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu fıkranın
-“… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal edilmiştir.
-oluşan Hazine alacaklarının (…)70 terkini Bakanın teklifi üzerine Maliye Bakanı tarafından yerine
+oluşan Hazine alacaklarının (…)71 terkini Bakanın teklifi üzerine Maliye Bakanı tarafından yerine
 getirilir. Bu işlem, Tasarruf Mevduatı Sigorta Fonunun, faaliyet izni kaldırılan veya yönetimi ve
 denetimi kendisine devredilen bankalardan kaynaklanan alacaklarının takip ve tahsiline ilişkin
 hak ve yetkilerini ortadan kaldırmaz.

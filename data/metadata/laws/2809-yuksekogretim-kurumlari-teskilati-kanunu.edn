@@ -6,12 +6,12 @@
  :document/path
  "data/canonical/laws/2809-yuksekogretim-kurumlari-teskilati-kanunu",
  :document/sha256
- "1a6d3fbfd53c2821faf717caf4e1442fdd2524317378d34df1e9c56035a141c1",
+ "36c2410d6de38960a79eb8f52eb851dcf6b576bd6d6191f828f963df289494f0",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.2809.pdf",
- :source/fetched-at #inst "2026-07-16T02:19:51.895-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-11T05:46:00.726-00:00",
+ :openmevzuat/baseline-date "2026-08-11",
+ :openmevzuat/generated-at #inst "2026-08-11T05:45:47.178-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -442,21 +442,21 @@
    :article/title "Kahramanmaraş Sütçü İmam Üniversitesi:84",
    :article/path "articles/ek-madde-026.md",
    :article/sha256
-   "59b4b99754fdcc5e802ed5afa9621311450552cb8be26d1e6b0d23be6ff552e5"}
+   "b1d4b7ee1a1eb7b5d6a9b3e96c406e60b55ce61fd1f2eade4e0ac513c189fb64"}
   {:article/id "law/2809/article/27",
    :article/type :additional,
    :article/no "27",
    :article/title "İzmir Yüksek Teknoloji Enstitüsü:85",
    :article/path "articles/ek-madde-027.md",
    :article/sha256
-   "1d90bee8ca94a2c5f59879ca8ba15bb5643e97876e35c9cee0871160cef1818c"}
+   "64dd202051690e6d235cc5c05788ec51d13b09036ad0a68b5883b9879211cf61"}
   {:article/id "law/2809/article/28",
    :article/type :additional,
    :article/no "28",
-   :article/title "Kırıkkale Üniversitesi:86",
+   :article/title nil,
    :article/path "articles/ek-madde-028.md",
    :article/sha256
-   "06223f29b220f99b389f504c2ab7e098495138fa9b7520f13997f08eb4a056de"}
+   "0b0a57adb61bf899c8e8ede1abc3776a772757add6a55b5e89f8446bee767565"}
   {:article/id "law/2809/article/29",
    :article/type :additional,
    :article/no "29",
@@ -470,7 +470,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-030.md",
    :article/sha256
-   "3cf72a78db621e74fb8d9d26a702a2739f1ed8062a660fe964fe8c597bad5c91"}
+   "ff9fccd569ae91cf465ee6e8cf8724bf9e49ae1e7ad09f30ab251beaab09e23a"}
   {:article/id "law/2809/article/31",
    :article/type :additional,
    :article/no "31",
@@ -484,301 +484,301 @@
    :article/title nil,
    :article/path "articles/ek-madde-032.md",
    :article/sha256
-   "fd2badf17677726b9e0ab30c37d944a32790e5da1a4dffed76aedc6fa1d22270"}
+   "3c39f9490a4be33bcbc94c48335f1e739c1ad2cc55537c599a47e2a87f09bd06"}
   {:article/id "law/2809/article/33",
    :article/type :additional,
    :article/no "33",
-   :article/title nil,
+   :article/title "Başkent Üniversitesi:91",
    :article/path "articles/ek-madde-033.md",
    :article/sha256
-   "40253522d7f7bf618ae5a33cb4dab4f31f1993602795e7ca8f4e56ffe8fb1388"}
+   "42734d278effe4197298606908f5adf1c395b1ced7cf0e74ee2c46cf9f9a514e"}
   {:article/id "law/2809/article/34",
    :article/type :additional,
    :article/no "34",
    :article/title "Galatasaray Üniversitesi:92",
    :article/path "articles/ek-madde-034.md",
    :article/sha256
-   "45b686ae4aeb8e6fbd1b29cb79688efc3d96867cf4159d00d5442019b3a10cab"}
+   "8fb0df557b7a93bf917972de83a5206e39634a0e6e36b61d5cf6495161e650d6"}
   {:article/id "law/2809/article/35",
    :article/type :additional,
    :article/no "35",
    :article/title "Işık Üniversitesi:93",
    :article/path "articles/ek-madde-035.md",
    :article/sha256
-   "2b49f73a5d4491c39fea09bebbe86503135d915b1c345798739cf556ae982acb"}
+   "3828c92aa68bc4e48e805d53a16283c86d348508c41d348078da67984971e8f7"}
   {:article/id "law/2809/article/36",
    :article/type :additional,
    :article/no "36",
-   :article/title nil,
+   :article/title " Fatih Üniversitesi:94",
    :article/path "articles/ek-madde-036.md",
    :article/sha256
-   "1c48f56dad13e658d310db516e38afc6b428d53f9c370dae81c7b078e5974858"}
+   "44c5a3d9541775019d46d6db2641412581e2a81308959afc433ba17210140577"}
   {:article/id "law/2809/article/37",
    :article/type :additional,
    :article/no "37",
-   :article/title "Sabancı Üniversitesi:95",
+   :article/title nil,
    :article/path "articles/ek-madde-037.md",
    :article/sha256
-   "571f25d28e6b6a3d492d9e7f3d6d0a0fd356bded6dc807a01e0c81a179b3b928"}
+   "71fb16c71be808af4d8be1129c742087e8d94336a0af82d5f963b308f28d6ef4"}
   {:article/id "law/2809/article/38",
    :article/type :additional,
    :article/no "38",
-   :article/title "İstanbul Bilgi Üniversitesi:96",
+   :article/title nil,
    :article/path "articles/ek-madde-038.md",
    :article/sha256
-   "04af58e5399bae7e58e96a46cd7018ca1a976b14c0e9cda5d5f7dbec77c057ed"}
+   "ccd718b34e1ca0c05740d179260f722bda731d8e8ceaab377f1b94d148ae6146"}
   {:article/id "law/2809/article/39",
    :article/type :additional,
    :article/no "39",
-   :article/title nil,
+   :article/title "Yeditepe Üniversitesi:97",
    :article/path "articles/ek-madde-039.md",
    :article/sha256
-   "9c8b46d50fab5f768e830346fc504b6fe0e22e6f66be969bbe7e82d43510d5cb"}
+   "ce27129e7e20009d28a11357d2c7a7a7c7236b9cfe5bd827c77ba104e73d2be9"}
   {:article/id "law/2809/article/40",
    :article/type :additional,
    :article/no "40",
    :article/title "Atılım Üniversitesi:98",
    :article/path "articles/ek-madde-040.md",
    :article/sha256
-   "6caea3673a8d73cad1e1af6e852200167d19cb2a0cb598c7c593629c4e7ed44f"}
+   "69f8ca26bb107a691a5f94c8cfcff52115c874b21721fee9a13037e1dcea41ec"}
   {:article/id "law/2809/article/41",
    :article/type :additional,
    :article/no "41",
-   :article/title "İstanbul Kültür Üniversitesi:99",
+   :article/title nil,
    :article/path "articles/ek-madde-041.md",
    :article/sha256
-   "69cb3a7878d0da906e79ed674a7957c4131fa8c10e067a6f59706b45e38f9c5f"}
+   "91124dbf10f8ae13176743fb8f3af3fb362e99f72208a1efee814d0f8230d227"}
   {:article/id "law/2809/article/42",
    :article/type :additional,
    :article/no "42",
    :article/title "Doğuş Üniversitesi:100",
    :article/path "articles/ek-madde-042.md",
    :article/sha256
-   "5efe857c186019516ad1f32aa28cfc1ac228bc57bf9122a86ae4deeb23f7a313"}
+   "4e18fe1ac5b3b239517ab4077139e0891f651611850b7cc77203e410572ca8bd"}
   {:article/id "law/2809/article/43",
    :article/type :additional,
    :article/no "43",
    :article/title "Çankaya Üniversitesi:101",
    :article/path "articles/ek-madde-043.md",
    :article/sha256
-   "8627fc00d58bf2e9de51d3eebf41779c176babbbcded88b1bc41bec00b665716"}
+   "aaee10fa91e569ff0ed4f3b2c9daf9eb5a3174be1ad75c3acee85f74963efe56"}
   {:article/id "law/2809/article/44",
    :article/type :additional,
    :article/no "44",
    :article/title "Maltepe Üniversitesi:102",
    :article/path "articles/ek-madde-044.md",
    :article/sha256
-   "ad94cb2795b533792d380a53993d515265034a2bbd00e8b73e0d62fc817d133b"}
+   "0f85905a81f9ba53761a09489b7663253d23edcee288fc10265513370e5b220b"}
   {:article/id "law/2809/article/45",
    :article/type :additional,
    :article/no "45",
    :article/title "İstanbul Beykent Üniversitesi:103104",
    :article/path "articles/ek-madde-045.md",
    :article/sha256
-   "cdb8e134e7375cd2ee6137d7b9ae1f5aeaa8e25a768c27e8a6cd99679da8276c"}
+   "8c9a49a8b8fbef7a5cb1c785afd56e4de9708610fe4e2bb14d4eaaf78eb24a23"}
   {:article/id "law/2809/article/46",
    :article/type :additional,
    :article/no "46",
    :article/title "Çağ Üniversitesi:105",
    :article/path "articles/ek-madde-046.md",
    :article/sha256
-   "510a96e97693f2aedf7d323192431953c05c3d950273c57c32ac4b0d22743524"}
+   "acec4edf796a0a1e3bf03ad6f68344b521bdcaf91f728e9c638a8d4e1d4cb079"}
   {:article/id "law/2809/article/47",
    :article/type :additional,
    :article/no "47",
-   :article/title "Bahçeşehir Üniversitesi:106107",
+   :article/title nil,
    :article/path "articles/ek-madde-047.md",
    :article/sha256
-   "cb611126a4f8c9e52fe41ecd68e846e844de0bd946705b74663e6167ed585b04"}
+   "615d5a07c17f51564a0d35f62cffb1fbe9a9a20ad1dd2e22fb577c4221848cc1"}
   {:article/id "law/2809/article/48",
    :article/type :additional,
    :article/no "48",
    :article/title "Haliç Üniversitesi:108",
    :article/path "articles/ek-madde-048.md",
    :article/sha256
-   "e9a99c0076c1d897fc7bc8c1c9ed1f3441fc0a0b4d2568779f2a4e2126b4c638"}
+   "0bac9b6f7005cc1f467b3b39bcbe6f300d8b46aca35e75c78d0a8c7790c40280"}
   {:article/id "law/2809/article/49",
    :article/type :additional,
    :article/no "49",
-   :article/title nil,
+   :article/title "İstanbul Okan Üniversitesi:109110",
    :article/path "articles/ek-madde-049.md",
    :article/sha256
-   "47e664e4a1a3f2c99e3a101c173478a1fdacabf21008a92f8ab2b1d5e5dc4753"}
+   "a703e4d942b3a8c90b1653e394da0f5c2773064564f328a6b6f158a3fefeba4c"}
   {:article/id "law/2809/article/50",
    :article/type :additional,
    :article/no "50",
    :article/title "Ufuk Üniversitesi:111",
    :article/path "articles/ek-madde-050.md",
    :article/sha256
-   "6a4ca73c91c2a39bf0f768317f32f811b4d570d99e0e2409285ed678899c5477"}
+   "e185a0355f0c5477139952556dcd91db41c983a4e1fa05b65836663d48fa1b47"}
   {:article/id "law/2809/article/51",
    :article/type :additional,
    :article/no "51",
    :article/title nil,
    :article/path "articles/ek-madde-051.md",
    :article/sha256
-   "b2edf4408d12aaa4f5cdf3f97466b7151f581da659cacbf49b3bb2336f817f2b"}
+   "15a9e1bac753061b63bdbf8333bdcc35b8e40a732610b977cab644259242a717"}
   {:article/id "law/2809/article/52",
    :article/type :additional,
    :article/no "52",
    :article/title "Yaşar Üniversitesi:113",
    :article/path "articles/ek-madde-052.md",
    :article/sha256
-   "fa3de6c24f66d18aa4ab3570adec215d657b1810a165d7798abf619fb1ab78b5"}
+   "dacd8e17294695b83fa3ff120b2094a1580d83de9e90a8b3cd411c5d4c9fc117"}
   {:article/id "law/2809/article/53",
    :article/type :additional,
    :article/no "53",
-   :article/title "İstanbul Ticaret Üniversitesi:114",
+   :article/title nil,
    :article/path "articles/ek-madde-053.md",
    :article/sha256
-   "70774dcfe77d453d5783d29ca70e19fa6b8f174e5c9233f64c8ee52bc6f1c6fe"}
+   "dada2c48c912be8ab078dbf99c44f378d66d3d15ca37e622b3f9a90fe926452b"}
   {:article/id "law/2809/article/54",
    :article/type :additional,
    :article/no "54",
    :article/title "İzmir Ekonomi Üniversitesi:115",
    :article/path "articles/ek-madde-054.md",
    :article/sha256
-   "fd5be20c13a9d65424857b269bea0a673f24c8897a4dfcb3de2ba2ac0f32c73e"}
+   "0bfb1aed584a03b9d57599c9e1a6bbf1bb57855e0a67e1b604096a522ac34bbc"}
   {:article/id "law/2809/article/55",
    :article/type :additional,
    :article/no "55",
    :article/title "TOBB Ekonomi ve Teknoloji Üniversitesi:116",
    :article/path "articles/ek-madde-055.md",
    :article/sha256
-   "dca1dd27f23345a046858577c4bfc8a4a177a73857335aa7cc06a9390512d606"}
+   "342d7181e47c9e2030d408a25fb4c8527e5ed5ef5a4f483e406f0192a7fdb412"}
   {:article/id "law/2809/article/56",
    :article/type :additional,
    :article/no "56",
-   :article/title "Kırşehir Ahi Evran Üniversitesi:117118119",
+   :article/title nil,
    :article/path "articles/ek-madde-056.md",
    :article/sha256
-   "1ab8b04e1b08b6d07e67173010a6668e267449d2c64758c1f9478ef478afdadf"}
+   "f83581ad2e59e73b8eda0f3696652ee7f4df991594a2aa1858ea579f70cac77c"}
   {:article/id "law/2809/article/57",
    :article/type :additional,
    :article/no "57",
-   :article/title "Kastamonu Üniversitesi:120",
+   :article/title nil,
    :article/path "articles/ek-madde-057.md",
    :article/sha256
-   "22a5b8e0972afc1581393e8ce71542166a94bcd4d76fe29301754780b94780ad"}
+   "0c933c26e65b9ba5d1996331e6366018af1351c7c669549b849510472d970553"}
   {:article/id "law/2809/article/58",
    :article/type :additional,
    :article/no "58",
    :article/title nil,
    :article/path "articles/ek-madde-058.md",
    :article/sha256
-   "777f5706775635288dd8f904f54f5571e6dce180cbf8a4babeeef0abc1e9de7d"}
+   "18a131fbf548bee6cf0a0dde5a7b319920e22c11b52ba7cdc5cc0ce83ec9b70e"}
   {:article/id "law/2809/article/59",
    :article/type :additional,
    :article/no "59",
    :article/title nil,
    :article/path "articles/ek-madde-059.md",
    :article/sha256
-   "1456f8685c12987bddbfa75e1c5046a5588e52e821ea311042e401d81988f539"}
+   "a3c200da39dbccca6b7eea1717315036268e8050966729afca68388ac9e95fa7"}
   {:article/id "law/2809/article/60",
    :article/type :additional,
    :article/no "60",
    :article/title nil,
    :article/path "articles/ek-madde-060.md",
    :article/sha256
-   "aab5d96840b3888d9296b50281ae6c38b70a0bec9b1e63807417104e14a6c1be"}
+   "cb726279822357731b505fcfc9fcb9663067377855f4071c8cd3c25c54056c07"}
   {:article/id "law/2809/article/61",
    :article/type :additional,
    :article/no "61",
-   :article/title nil,
+   :article/title "Recep Tayyip Erdoğan Üniversitesi:125126127",
    :article/path "articles/ek-madde-061.md",
    :article/sha256
-   "5da76bb9e27f9e52082dfbe1bbbb6022a437bcc6fb79d974f99084e4819e0fd0"}
+   "0413bf05f24fc26fc5e3f972ea938c61b13ee3b93f69dbfca9f352118c9e7351"}
   {:article/id "law/2809/article/62",
    :article/type :additional,
    :article/no "62",
-   :article/title nil,
+   :article/title "Tekirdağ Namık Kemal Üniversitesi:128129",
    :article/path "articles/ek-madde-062.md",
    :article/sha256
-   "f67fdb31fd25eb7bd916c704b4e182ea3b973b18005b0e78dbac82040952ce0f"}
+   "1142e2212fc8602b8ca49993c8e090b467c9d99fea2b1aae800c1c850684c4f2"}
   {:article/id "law/2809/article/63",
    :article/type :additional,
    :article/no "63",
    :article/title nil,
    :article/path "articles/ek-madde-063.md",
    :article/sha256
-   "70968e84c5f1d401187fa97001ca24e37fd9de55871e3a21c6f814c17009b16d"}
+   "b760389214606a931e893d9f8f2971fa7b28bfe8836e040ee3aba518cf2f0b8d"}
   {:article/id "law/2809/article/64",
    :article/type :additional,
    :article/no "64",
-   :article/title nil,
+   :article/title "Aksaray Üniversitesi:133",
    :article/path "articles/ek-madde-064.md",
    :article/sha256
-   "e875cbbb7adbb9cd5a5d25271ab9c0758bda95a450be9eef71187ed9c07d4966"}
+   "fcb0023c23f6dbfc9808de07dccd12edadfc83b2136b061f9454efb425cdbbd6"}
   {:article/id "law/2809/article/65",
    :article/type :additional,
    :article/no "65",
-   :article/title nil,
+   :article/title "Giresun Üniversitesi:134135",
    :article/path "articles/ek-madde-065.md",
    :article/sha256
-   "597261848874348e03622b69fabf1ddd35c1dad6b2626d17c54825d44aa409eb"}
+   "109c7757a52b33af1cfb564f26865479f4c645f7111b47a74710020589597638"}
   {:article/id "law/2809/article/66",
    :article/type :additional,
    :article/no "66",
-   :article/title "Hitit Üniversitesi:136",
+   :article/title nil,
    :article/path "articles/ek-madde-066.md",
    :article/sha256
-   "b81a2a17332a2d980215734681aeea01f0dbd0fdf32551ba45aa34512c797cb4"}
+   "c9ea0b557d0d6948982c8bfaf5a7ba5d38d7167124f2f7a296e23129c637b59a"}
   {:article/id "law/2809/article/67",
    :article/type :additional,
    :article/no "67",
-   :article/title "Yozgat Bozok Üniversitesi:137138139",
+   :article/title nil,
    :article/path "articles/ek-madde-067.md",
    :article/sha256
-   "315a0d867916a22b57009d88e0d7260385f9c82d1eaa0834d84226450d2cddd0"}
+   "872d139228bc57b483045b6b2f95e5851864845b4c88839790bb395834ee5fed"}
   {:article/id "law/2809/article/68",
    :article/type :additional,
    :article/no "68",
-   :article/title "Adıyaman Üniversitesi:140",
+   :article/title nil,
    :article/path "articles/ek-madde-068.md",
    :article/sha256
-   "93bc710f4f22587844985225aa29559b0e79acc868fed66fb2477a952185f3e3"}
+   "9e8317763ea55a50248405982c5d19fbbcf4bbc772ecc3b92e0b41423955ede5"}
   {:article/id "law/2809/article/69",
    :article/type :additional,
    :article/no "69",
-   :article/title "Ordu Üniversitesi:141",
+   :article/title nil,
    :article/path "articles/ek-madde-069.md",
    :article/sha256
-   "b832f41bc2ccc20ca345ff5ffac97b971fdd44d0690a350b0b25785e68f8bc77"}
+   "00a36b87251ef91ef82f75979a8141a923c52a9c996ef41bb008268a7d64a36b"}
   {:article/id "law/2809/article/70",
    :article/type :additional,
    :article/no "70",
    :article/title "Amasya Üniversitesi:142",
    :article/path "articles/ek-madde-070.md",
    :article/sha256
-   "e5ec54eaf3ada05ddc630a0e61ec5228b7eccfac2f36fa3400b4adde35464093"}
+   "756442de80047db9a52e22e77a5030171620963e6198b66c66850b14be2e413a"}
   {:article/id "law/2809/article/71",
    :article/type :additional,
    :article/no "71",
-   :article/title nil,
+   :article/title "Demiroğlu Bilim Üniversitesi:143144",
    :article/path "articles/ek-madde-071.md",
    :article/sha256
-   "9b2f3623ce745adf350184f7405b2c3b35ff040c8aacf1268663c15916c607fe"}
+   "313717b597bc87e6b8fdb6299e95cd3aa5de06b351485992bd5b45ded89f82ad"}
   {:article/id "law/2809/article/72",
    :article/type :additional,
    :article/no "72",
-   :article/title "Özyeğin Üniversitesi:145",
+   :article/title nil,
    :article/path "articles/ek-madde-072.md",
    :article/sha256
-   "cc591d9d6233911449754d2ec272048a717993a430fdcf1566f628c508ad928e"}
+   "93698c5c59d8c3c76516bbc45e432de6146b1bcdf4044a3a0046ddaecd95a210"}
   {:article/id "law/2809/article/73",
    :article/type :additional,
    :article/no "73",
-   :article/title "İstanbul Aydın Üniversitesi:146",
+   :article/title nil,
    :article/path "articles/ek-madde-073.md",
    :article/sha256
-   "ef7380571ed6d0aa3888d177c2c5defe1efc5a4b114fed4fe2f38108f30888da"}
+   "f2120ae7fe801493f758c15cd9607be7c4797402a17b5187124b7ba1fb460344"}
   {:article/id "law/2809/article/74",
    :article/type :additional,
    :article/no "74",
    :article/title "Acıbadem Mehmet Ali Aydınlar Üniversitesi:147148",
    :article/path "articles/ek-madde-074.md",
    :article/sha256
-   "5e452a1a754046d79959914efcc922a4944c91ac8a90ba4bb748f80cc155150c"}
+   "e89d1aeccdc12ff45e3e08f53752b055bd76d96adf6626721e5e5d2854cc7876"}
   {:article/id "law/2809/article/75",
    :article/type :additional,
    :article/no "75",
@@ -1499,57 +1499,57 @@
    :article/title nil,
    :article/path "articles/ek-madde-177.md",
    :article/sha256
-   "e4e14ee497bd8a15e9b148f1eebd21dfcb1490283478907722609b1dd6bb355f"}
+   "7e02349773a632c209eb66f79190ad10428ed35543731179469e891b934b9ac6"}
   {:article/id "law/2809/article/178",
    :article/type :additional,
    :article/no "178",
    :article/title
-   "Gaziantep İslam Bilim ve Teknoloji Üniversitesi:269270",
+   "Gaziantep İslam Bilim ve Teknoloji Üniversitesi:270271",
    :article/path "articles/ek-madde-178.md",
    :article/sha256
-   "8408b3dc9566252e95f38827c1f054588c6dd0b52a261efbb33f420c6ecfecb5"}
+   "2eb1412dbde7efdc49b27db7e657938d74f86ea8e20bd4be69be7d6512c82544"}
   {:article/id "law/2809/article/179",
    :article/type :additional,
    :article/no "179",
-   :article/title "Konya Teknik Üniversitesi:271",
+   :article/title "Konya Teknik Üniversitesi:272",
    :article/path "articles/ek-madde-179.md",
    :article/sha256
-   "ca7b8ce94762131a1904442178c0f68c40f8572f18cfc531b2eec57b647ca7f7"}
+   "89a09b758d7906822d6e89668649732c944255355fd9c78ec5026c264efb4ad4"}
   {:article/id "law/2809/article/180",
    :article/type :additional,
    :article/no "180",
    :article/title nil,
    :article/path "articles/ek-madde-180.md",
    :article/sha256
-   "82705d95ab302412157074847207ba2a62a7dd6b4b78ba26c6f9169e0baffa3a"}
+   "2cdbbef81bc6417ccc27f5ae763629daa5710a83d91967e8ff653d26aee8c0a1"}
   {:article/id "law/2809/article/181",
    :article/type :additional,
    :article/no "181",
-   :article/title "Malatya Turgut Özal Üniversitesi:272",
+   :article/title "Malatya Turgut Özal Üniversitesi:273",
    :article/path "articles/ek-madde-181.md",
    :article/sha256
-   "f60f5012021d24f17a7012a6cec0feb8c6ba902e2d64e8f10be556d6c84d1173"}
+   "80703c2f1a0bb0b07dcbf36ce24140d7cdf0dbb2b98be42893c0d1cc520db1b5"}
   {:article/id "law/2809/article/182",
    :article/type :additional,
    :article/no "182",
-   :article/title "İstanbul Üniversitesi-Cerrahpaşa:273",
+   :article/title "İstanbul Üniversitesi-Cerrahpaşa:274",
    :article/path "articles/ek-madde-182.md",
    :article/sha256
-   "d6883fbe704607e717d4af07a8f8457de7f50b7713b1fff5482379ea8c765bdd"}
+   "fb44b803f73d2b3d6f87832aab2be12d692b76fbae3ba61d418e4f48641ce266"}
   {:article/id "law/2809/article/183",
    :article/type :additional,
    :article/no "183",
-   :article/title "Ankara Hacı Bayram Veli Üniversitesi:274",
+   :article/title "Ankara Hacı Bayram Veli Üniversitesi:275",
    :article/path "articles/ek-madde-183.md",
    :article/sha256
-   "b9f7db36db0040297b9a5bc5b60b0ea16f480e57134414cb45c5d0a10230048a"}
+   "4b1de037c13c1fa23893073c3cec4f3a8e73caaa4edc95cdd0216961ec50c9a0"}
   {:article/id "law/2809/article/184",
    :article/type :additional,
    :article/no "184",
-   :article/title "Sakarya Uygulamalı Bilimler Üniversitesi:275",
+   :article/title "Sakarya Uygulamalı Bilimler Üniversitesi:276",
    :article/path "articles/ek-madde-184.md",
    :article/sha256
-   "0ef5c4ab7b7ed69067e260949392a98bc503cb709c21a147c20aae65f4a3109e"}
+   "896c7d75de645eb6b5f2ed6577777df9a8a60a3ec198bd30a3358f2fa34aa9c2"}
   {:article/id "law/2809/article/185",
    :article/type :additional,
    :article/no "185",
@@ -1563,7 +1563,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-186.md",
    :article/sha256
-   "a3b576644d7dd6956613e54072a915ca3320e50920480b8de5d7a6cb7234ac70"}
+   "3e6e4424bfe910aa7a42e2052c52283f06bfba622bfe5aeeaa96e14cb2d63dcb"}
   {:article/id "law/2809/article/187",
    :article/type :additional,
    :article/no "187",
@@ -1574,66 +1574,66 @@
   {:article/id "law/2809/article/188",
    :article/type :additional,
    :article/no "188",
-   :article/title "Trabzon Üniversitesi:278",
+   :article/title "Trabzon Üniversitesi:279",
    :article/path "articles/ek-madde-188.md",
    :article/sha256
-   "4aa41495d0640c76631ff500f7404d9cf146c88aa822cf20085edac6c5c6bca4"}
+   "b93be27cb6342c37086403e0bd1f61b514b74d4b48578e6c729c0cf5f6222e7a"}
   {:article/id "law/2809/article/189",
    :article/type :additional,
    :article/no "189",
-   :article/title "Kayseri Üniversitesi: 279",
+   :article/title "Kayseri Üniversitesi: 280",
    :article/path "articles/ek-madde-189.md",
    :article/sha256
-   "3b29a63b5273f4e46bd6893e898430beb5a996dd9691e7ab9fb8c7a8a216f866"}
+   "218f8f28e0868f317363b19cce42a639c5e489eaf0d611fa8fb3d00f884ef96a"}
   {:article/id "law/2809/article/190",
    :article/type :additional,
    :article/no "190",
-   :article/title "Kahramanmaraş İstiklal Üniversitesi:280",
+   :article/title "İstiklal Bilim ve Teknoloji Üniversitesi:281282",
    :article/path "articles/ek-madde-190.md",
    :article/sha256
-   "6f4014d6edeed0aa137da46495927f4ea56a8e05cfa85ea3fa5e895c57fbddff"}
+   "902bc74af6c1f37ca0cf9d6f38492994f5775cb7926e2290cc8b43dabe952809"}
   {:article/id "law/2809/article/191",
    :article/type :additional,
    :article/no "191",
-   :article/title "İstanbul Atlas Üniversitesi:281",
+   :article/title "İstanbul Atlas Üniversitesi:283",
    :article/path "articles/ek-madde-191.md",
    :article/sha256
-   "d5d00c25caba1831eb5505ab73d6e86acbfafb388cdefc611fa5709450cb9df3"}
+   "03f571b722fbda0f9edd79e87848d1f8eaeabad3d57d528ee6be0b6433d8a453"}
   {:article/id "law/2809/article/192",
    :article/type :additional,
    :article/no "192",
-   :article/title "İzmir Tınaztepe Üniversitesi:282",
+   :article/title "İzmir Tınaztepe Üniversitesi:284",
    :article/path "articles/ek-madde-192.md",
    :article/sha256
-   "e86b0dbfa3caa424720b7f609b71775fb99cf67ed706e76f0520ba27eb47cb64"}
+   "b53e683ed3b7a711ecadd90bf80f6bf7714d4714ce3e5e3a28f3fc0a6d836bde"}
   {:article/id "law/2809/article/193",
    :article/type :additional,
    :article/no "193",
-   :article/title "Eskişehir Teknik Üniversitesi:283",
+   :article/title "Eskişehir Teknik Üniversitesi:285",
    :article/path "articles/ek-madde-193.md",
    :article/sha256
-   "84f43b0ff7123a64e0d881e79fb5309747f060e67ebca332da222ab2c6434074"}
+   "7b6c655c86056bfd282dee4a013f3e3d1420d225a473139296163449aeaf8faf"}
   {:article/id "law/2809/article/194",
    :article/type :additional,
    :article/no "194",
-   :article/title "Isparta Uygulamalı Bilimler Üniversitesi:284",
+   :article/title "Isparta Uygulamalı Bilimler Üniversitesi:286",
    :article/path "articles/ek-madde-194.md",
    :article/sha256
-   "b02926948ee34019e07da52424e3539e61052f250cf06c09c00d9e9c2b2b0079"}
+   "034b9f29bf099e623984cde76ca74442a724027032d3bb8fab4cc119a4cf5c5b"}
   {:article/id "law/2809/article/195",
    :article/type :additional,
    :article/no "195",
    :article/title nil,
    :article/path "articles/ek-madde-195.md",
    :article/sha256
-   "b902236d829963e1df7c8af7469410eeee349697a65d34f01cff332ff438a523"}
+   "adaba14f8aadd3907d69f98a0366b50f0449bd32c4867e2dbc1cba03a87468ce"}
   {:article/id "law/2809/article/196",
    :article/type :additional,
    :article/no "196",
    :article/title nil,
    :article/path "articles/ek-madde-196.md",
    :article/sha256
-   "a098e6cff3b15dd8bff1a70382f8e15b87bd1fd68bff64fe4158ffa500bb8414"}
+   "10246c14be46d3416332a6af3f4129862e5bec7c8562f5e24f7380421c60f1f1"}
   {:article/id "law/2809/article/197",
    :article/type :additional,
    :article/no "197",
@@ -1665,10 +1665,10 @@
   {:article/id "law/2809/article/201",
    :article/type :additional,
    :article/no "201",
-   :article/title "İstanbul Galata Üniversitesi:286",
+   :article/title "İstanbul Galata Üniversitesi:288",
    :article/path "articles/ek-madde-201.md",
    :article/sha256
-   "016248642c75284c3db676b8979a9bd5d9ebadc2c94d64e18c5a015c6e4c1a24"}
+   "ebc3f3294c8a08a75f6eb6468668c5870669f5d512be5b9fb08700d9733d9582"}
   {:article/id "law/2809/article/202",
    :article/type :additional,
    :article/no "202",
@@ -1679,17 +1679,17 @@
   {:article/id "law/2809/article/203",
    :article/type :additional,
    :article/no "203",
-   :article/title "Ankara Bilim Üniversitesi:287",
+   :article/title "Ankara Bilim Üniversitesi:289",
    :article/path "articles/ek-madde-203.md",
    :article/sha256
-   "79e7cd6b4de935f72e7c3be0a87caca94ba83f061b2de4c14ce9feea91b9ad2b"}
+   "cf4aca7a0bd1fd710465b99296b17c0786db089d358d616c54717741c4aa7646"}
   {:article/id "law/2809/article/204",
    :article/type :additional,
    :article/no "204",
-   :article/title "Kocaeli Sağlık ve Teknoloji Üniversitesi:288",
+   :article/title "Kocaeli Sağlık ve Teknoloji Üniversitesi:290",
    :article/path "articles/ek-madde-204.md",
    :article/sha256
-   "ed1d35795689df669cddc2b1c7f2ac95954ae644b2988fd6c8911d45427b6829"}
+   "eca1aaa1df12e03f078ae68f3a305bb28bdabcbbab1ce3832d8e90579206481d"}
   {:article/id "law/2809/article/205",
    :article/type :additional,
    :article/no "205",
@@ -1710,21 +1710,35 @@
    :article/title nil,
    :article/path "articles/ek-madde-207.md",
    :article/sha256
-   "823dc00b3841f00e4d891cf072ba48b97330c2671bf8496d8861b0fe502af0e1"}
+   "39d715d2db4e4f7fbc0bce7e5f61603b526b819b167dd4cd24709a8c4208e9ac"}
   {:article/id "law/2809/article/208",
    :article/type :additional,
    :article/no "208",
    :article/title nil,
    :article/path "articles/ek-madde-208.md",
    :article/sha256
-   "e41d2f90af0e505d9af6845479b6a29ad69a99681e82a9197eb3510c75e54ab6"}
+   "2dc763fc127daed8bd216ca8f095a0613254b7154c108ad92dc11a9974d055ca"}
+  {:article/id "law/2809/article/209",
+   :article/type :additional,
+   :article/no "209",
+   :article/title nil,
+   :article/path "articles/ek-madde-209.md",
+   :article/sha256
+   "4a7538230a291f647713f86686544f8103c83858a7b8ed71c1eb5d93966e961d"}
+  {:article/id "law/2809/article/210",
+   :article/type :additional,
+   :article/no "210",
+   :article/title nil,
+   :article/path "articles/ek-madde-210.md",
+   :article/sha256
+   "716ed109ba24f2065aa3381be5d5081f92c00d8f79439768edf180a84f7bbdfc"}
   {:article/id "law/2809/article/1",
    :article/type :temporary,
    :article/no "1",
    :article/title nil,
    :article/path "articles/gecici-madde-001.md",
    :article/sha256
-   "2b45229a0222fb337b9c110655bc329d1ef9339c75f3b157e11516f2afa45e35"}
+   "db451a38156bd2b9a7338f141d2f16c44704d8bbac5d167e48c8b1b6b12ef6e5"}
   {:article/id "law/2809/article/2",
    :article/type :temporary,
    :article/no "2",
@@ -2088,7 +2102,14 @@
    :article/title nil,
    :article/path "articles/gecici-madde-053.md",
    :article/sha256
-   "f9d20af39ffa30c77ccd1d90af6880dacb385dc772e8e55371d78cf926627839"}
+   "315517bd4182cfa4e227157892cacd2ba5ba65ceccc4c5c084bba86eb906ee7d"}
+  {:article/id "law/2809/article/54",
+   :article/type :temporary,
+   :article/no "54",
+   :article/title nil,
+   :article/path "articles/gecici-madde-054.md",
+   :article/sha256
+   "7b20e9d745b3a1d1c9021b201e271421e331007c1b9d8bbdb9e903f5f3b76161"}
   {:article/id "law/2809/article/36",
    :article/type :normal,
    :article/no "36",

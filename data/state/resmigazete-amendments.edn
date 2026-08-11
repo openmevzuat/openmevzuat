@@ -1,4 +1,4 @@
-{:state/updated-at #inst "2026-08-07T03:45:04.289-00:00",
+{:state/updated-at #inst "2026-08-11T05:46:11.318-00:00",
  :resmi-gazete/processed-amendments
  [{:amendment/law-no "7584",
    :amendment/title
@@ -41,4 +41,13 @@
    :processed/snapshot-date "2026-08-07",
    :amendment/url
    "https://www.resmigazete.gov.tr/eskiler/2026/07/20260731-2.htm",
-   :processed/at #inst "2026-08-07T03:45:04.289-00:00"}]}
+   :processed/at #inst "2026-08-07T03:45:04.289-00:00"}
+  {:amendment/law-no "7592 ",
+   :amendment/title
+   "Yükseköğretim Kanunu ve Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+   :resmi-gazete/date "09.08.2026",
+   :resmi-gazete/issue "33335",
+   :processed/snapshot-date "2026-08-11",
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/08/20260809-2.htm",
+   :processed/at #inst "2026-08-11T05:46:11.318-00:00"}]}

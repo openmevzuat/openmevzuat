@@ -1,4 +1,4 @@
-# MADDE 40 — Kurumlararası yardımlaşma:33
+# MADDE 40
 
 a. Yükseköğretim kurumlarında görevli öğretim üyeleri ile öğretim görevlileri bağlı
 bulundukları fakülte veya yüksekokulda haftalık ders yükünü dolduramadıkları takdirde, kendi
@@ -14,6 +14,16 @@ istekte bulunan üniversitenin birimlerinde en az bir eğitim-öğretim yılı i
 görevlendirilebilirler. Bu şekilde görevlendirilenlerin kadroları beş yıl süre ile saklı tutulur.
 Açık bulunan bir öğretim üyeliği kadrosuna yapılacak atamada adayların niteliklerinde eşitlik
 olduğu durumlarda gelişmekte olan bölgelerdeki yükseköğretim kurumlarında toplam en az
+
+33 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
+teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+34 30/7/2026 tarihli ve 7592 sayılı Kanunun 3 üncü maddesiyle bu fıkranın ikinci cümlesine
+“Uluslararası andlaşmalarla kurulan üniversitelerde” ibaresinden sonra gelmek üzere “ve Yükseköğretim
+Kurulunun taraf olduğu protokoller gereği ikili andlaşmalarla yurt dışındaki yükseköğretim kurumları
+bünyesinde açılan programlarda” ibaresi eklenmiştir.
+35 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu maddenin (a) fıkrasında yer alan “ders vermekle
+görevli öğretim yardımcıları” ibaresi “öğretim görevlileri”, (c) fıkrasında yer alan “Türk Silahlı Kuvvetleri ve”
+ibaresi “Millî Savunma Üniversitesi, Jandarma ve Sahil Güvenlik Akademisi ile”şeklinde değiştirilmiştir.
 beş yıl bu şekilde veya kadrolu olarak hizmet yapan öğretim üyelerine öncelik verilir. (Ek
 cümle: 19/11/2014-6569/27 md.) Vakıf yükseköğretim kurumlarına yapılacak
 görevlendirmeler toplam iki yılı geçemez ve bu şekilde görevlendirilen öğretim üyelerine

@@ -2,19 +2,22 @@
 
 (Ek: 26/12/2006-5568/3 md.)
 Sel ve Deprem Felaketi Acil Yardım Projesi, Marmara Depremi Acil Yeniden
+
+66 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu fıkrada yer alan “Hazine
+Müsteşarlığının bağlı bulunduğu Bakanın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
+şeklinde değiştirilmiştir.
+67 16/7/2008 tarihli ve 5787 sayılı kanunun 15 inci maddesiyle, bu maddede geçen "ilgili anlaşmaların"
+ibaresinden sonra gelmek üzere "veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların"
+ibaresi, "ve benzeri yükümlülükler hakkında da" ibaresinden sonra gelmek üzere "ilgili anlaşmaların veya
+daha önce imzalanmış anlaşmaları tadil eden anlaşmaların imzalanması veya yürürlüğe girmesinden
+bağımsız olarak" ibaresi eklenmiştir.
+68 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
+üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Yapılandırma Projesi, Türkiye Altyapı ve Kentsel Yeniden Yapılandırma Projesi, Kalıcı Konutların
 Karayolu Bağlantıları Projesi, Çınarcık-Teşvikiye–Kocadere-Esenköy-Armutlu Kanalizasyon
 Projesi, Kaynarca-Gölkent-Ferizli-Sinanoğlu-Söğütlü İçmesuyu Projeleri ve Akyazı-Hendek
 Kanalizasyon Projesi, Sosyal Riskin Azaltılması Projesi ve Özelleştirme Sosyal Destek Projesi,
 Endüstriyel Teknoloji Projesi ve TÜBİTAK-Bilten Araştırma Uydusu Projesinin finansmanı için
-
-66 16/7/2008 tarihli ve 5787 sayılı kanunun 15 inci maddesiyle, bu maddede geçen "ilgili anlaşmaların"
-ibaresinden sonra gelmek üzere "veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların"
-ibaresi, "ve benzeri yükümlülükler hakkında da" ibaresinden sonra gelmek üzere "ilgili anlaşmaların veya
-daha önce imzalanmış anlaşmaları tadil eden anlaşmaların imzalanması veya yürürlüğe girmesinden
-bağımsız olarak" ibaresi eklenmiştir.
-67 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
-üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Dünya Bankası, Avrupa Yatırım Bankası, Körfez İşbirliği Konseyi ülkelerinin ilgili finans
 kuruluşları ve National Westminster Banktan sağlanmış olan kredilerden bu maddenin yürürlüğe
 girdiği tarihe kadar yapılan kullanımlar sonucunda doğan ve ikraz anlaşmasına bağlanmamış, ilgili

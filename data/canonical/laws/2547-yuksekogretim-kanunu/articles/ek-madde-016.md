@@ -15,5 +15,9 @@ yönetim kurulunun kararı ile gerçekleştirilir.
 Merkezi açıköğretim yapan fakültelere bağlı olarak örgün öğretim yapan bölüm varsa,
 zaman içinde bu bölümün müstakil örgün eğitim yapan yüksekokul haline dönüştürülmesi
 yada örgün öğretim yapan fakülte, yüksekokul ve meslek yüksekokullarında örgün öğretim
+
+94 Bu maddenin 3589 sayılı Kanun ile değişik hükmü; Anayasa Mahkemesinin 30/5/1990 tarih ve E: 1990/2,
+K: 1990/10 sayılı Kararıyla 9/1/1992 tarihinden geçerli olmak üzere iptal edilmiş ise de iptal hükmü
+yürürlüğe girmeden önce 3/4/1991 tarih ve 3708 sayılı Kanun ile yürürlükten kaldırılmıştır.
 yapan bölümlerin yanı sıra, açıköğretim yapan bölümler kurulması, üniversite senatosunun
 teklifi ve Yükseköğretim Kurulunun onayı ile olur.

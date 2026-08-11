@@ -8,15 +8,6 @@ Bu Üniversite, Rektörlüğe bağlı olarak;
 a) Fen-Edebiyat Fakültesi,
 b) Tıp Fakültesi,
 c) Mühendislik Fakültesi,
-d) İşletme Fakültesi,
-e) Hemşirelik Yüksekokulu,
-f) Su Ürünleri Yüksekokulu,
-g) Beden Eğitimi ve Spor Yüksekokulu,
-h) Sağlık Bilimleri Enstitüsü,
-ı) Konservatuar’dan,
-Oluşur.
-
-İstanbul Okan Üniversitesi:109110
 
 108 a) 30/5/2002 tarihli ve 2002/4306 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Fen Bilimleri
 Enstitüsü ve Sosyal Bilimler Enstitüsü kurulmuştur.
@@ -40,10 +31,10 @@ kapatılmıştır.
 ğ) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Spor Bilimleri Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu
 kapatılmıştır.
-109 9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
-alan “Okan Üniversitesi” ibareleri “İstanbul Okan Üniversitesi” şeklinde değiştirilmiştir.
-110 a) 10/5/2005 tarihli ve 2005/8833 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
-Fakültesi kurulmuştur.
-b) 22/1/2007 tarihli ve 2007/11624 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Bilgisayar ve
-Turizm Yüksekokulunun adı Uygulamalı Bilimler Yüksekokulu olarak değiştirilmiştir.
-c) 6/5/2008 tarihli ve 2008/13663 Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Hukuk Fakültesi kurulmuştur.
+d) İşletme Fakültesi,
+e) Hemşirelik Yüksekokulu,
+f) Su Ürünleri Yüksekokulu,
+g) Beden Eğitimi ve Spor Yüksekokulu,
+h) Sağlık Bilimleri Enstitüsü,
+ı) Konservatuar’dan,
+Oluşur.

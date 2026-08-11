@@ -12,20 +12,6 @@ d) Sosyal Bilimler Enstitüsü,
 e) Fen Bilimleri Enstitüsünden,
 f) (Ek: 19/2/2009-5839/1 md.) Ankara ve kalkınmada öncelikli yöreler öncelikli
 olmak üzere, Milli Eğitim Bakanlığı ile TOBB Ekonomi ve Teknoloji Üniversitesi tarafından
-birlikte tespit edilecek illerdeki eğitim bilimleri enstitülerinden,
-Oluşur.
-(Ek fıkra: 19/2/2009-5839/1 md.) İkinci fıkranın (f) bendinde belirtilen eğitim bilimleri
-enstitüleri, kampüslerinde uluslararası yüksek kalite ve standartlara sahip eğitim merkezi olmak
-amacıyla kurulabilecek 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununa tâbi
-ilk ve ortaöğretim okullarını laboratuvar okulları olarak kullanır. Kampüslerde açılacak
-ortaöğretim kurumları fen lisesi statüsünde eğitim verirler. Ankara’daki laboratuvar okulu ile
-TOBB Ekonomi ve Teknoloji Üniversitesinin fakülteleri, enstitüleri ve diğer birimlerinin
-öğrencileri ve öğretmenleri müşterek akademik ve sosyal çalışmalarda bulunur.
-(Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullardaki öğretmenler, kampüslerindeki
-eğitim bilimleri enstitüsünde yükseklisans veya doktora öğrencisi olabileceği gibi, eğitim bilimleri
-enstitüsü öğretim elemanları da laboratuvar okullarında öğretmenlik yapabilir.
-(Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullarında onuncu sınıftan onbirinci sınıfa
-geçişte, TOBB Ekonomi ve Teknoloji Üniversitesi Senatosu tarafından belirlenecek ve Milli
 
 116 a) 5/5/2005 tarihli ve 2005/8832 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
 Fakültesi kurulmuştur.
@@ -42,6 +28,20 @@ Sanatlar, Tasarım ve Mimarlık Fakültesinin adı Mimarlık ve Tasarım Fakült
 f) 7/12/2018 tarihli ve 30618 sayılı Resmi Gazete’de yayımlanan 413 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan Güzel Sanatlar, Tasarım ve Mimarlık Fakültesinin adı Mimarlık ve Tasarım Fakültesi
 olarak değiştirilmiştir.
+birlikte tespit edilecek illerdeki eğitim bilimleri enstitülerinden,
+Oluşur.
+(Ek fıkra: 19/2/2009-5839/1 md.) İkinci fıkranın (f) bendinde belirtilen eğitim bilimleri
+enstitüleri, kampüslerinde uluslararası yüksek kalite ve standartlara sahip eğitim merkezi olmak
+amacıyla kurulabilecek 8/2/2007 tarihli ve 5580 sayılı Özel Öğretim Kurumları Kanununa tâbi
+ilk ve ortaöğretim okullarını laboratuvar okulları olarak kullanır. Kampüslerde açılacak
+ortaöğretim kurumları fen lisesi statüsünde eğitim verirler. Ankara’daki laboratuvar okulu ile
+TOBB Ekonomi ve Teknoloji Üniversitesinin fakülteleri, enstitüleri ve diğer birimlerinin
+öğrencileri ve öğretmenleri müşterek akademik ve sosyal çalışmalarda bulunur.
+(Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullardaki öğretmenler, kampüslerindeki
+eğitim bilimleri enstitüsünde yükseklisans veya doktora öğrencisi olabileceği gibi, eğitim bilimleri
+enstitüsü öğretim elemanları da laboratuvar okullarında öğretmenlik yapabilir.
+(Ek fıkra: 19/2/2009-5839/1 md.) Laboratuvar okullarında onuncu sınıftan onbirinci sınıfa
+geçişte, TOBB Ekonomi ve Teknoloji Üniversitesi Senatosu tarafından belirlenecek ve Milli
 Eğitim Bakanlığınca kabul edilerek onaylanacak uluslararası sınavlarda başarılı olma şartı aranır.
 Bu liselerden mezun olabilmek için uluslararası bakalorya diploması alınması da gereklidir.
 (Ek fıkra: 19/2/2009-5839/1 md.) TOBB Ekonomi ve Teknoloji Üniversitesinin
@@ -60,3 +60,12 @@ kaynakları ile bağışlardan,
 karşılanır. (a) bendinde belirtilen özel hesabın oluşturulması, kullanımı ve denetimine
 ilişkin usul ve esaslar, Maliye ve Milli Eğitim bakanlıkları ile TOBB Ekonomi ve Teknoloji
 Üniversitesince birlikte hazırlanacak yönetmelikle düzenlenir.
+
+Kırşehir Ahi Evran Üniversitesi:117118119
+
+117 17/5/2007 tarihli ve 5662 sayılı Kanunun 3 üncü maddesiyle; (a) bendinin başına "Rektörlüğe bağlı olarak
+yeni kurulan Tıp Fakültesi ile" ibaresi eklenmiştir.
+118 9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
+alan “Ahi Evran Üniversitesi” ibareleri “Kırşehir Ahi Evran Üniversitesi” şeklinde değiştirilmiştir.
+119 a) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı Diller
+Yüksekokulu ve Mühendislik-Mimarlık Fakültesi kurulmuştur.

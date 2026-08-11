@@ -25,7 +25,7 @@ yapılacak ödemenin miktarı Devlet memurlarına yapılacak ödemeyi geçmemek 
 yönetim kurulunca daha düşük olarak tespit edilebilir. Öğretim elemanlarından kendilerine yurt
 dışı kuruluşlarınca burs veya ücret sağlananlar, görev yapacakları sürece Yükseköğretim
 Kurulunun belirleyeceği esaslara göre üniversite yönetim kurulunun kararı ile aylıklı veya aylıksız
-izinli de sayılabilirler.32
+izinli de sayılabilirler.33
 Gerek birinci fıkraya göre geçici görev yolluğu verilmek suretiyle yurt içinde ve yurt
 dışında bir yere gönderilenler olsun,gerekse ikinci fıkraya göre gidiş-dönüş yol yevmiyesi ile
 gideri ödenmek suretiyle yurt dışına gönderilenler olsun, bunlara verilecek yolluk, emsali
@@ -35,8 +35,9 @@ Geçici görev yolluğu Yükseköğretim Kurumu hesabına gönderilenlere kurum 
 (Ek: 14/5/1997- 4249/2 md.) Türk Cumhuriyetleri ve Akraba Topluluklarındaki
 Yüksek Öğretim Kurumlarından resmi davet alan öğretim elemanlarına 3 yılı aşmamak
 ve bütün özlük hakları saklı kalmak üzere üniversite yönetim kurulunun kararı ve Milli
-
-32 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
-teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Eğitim Bakanlığının onayı ile aylıklı izin verilebilir. (Ek cümle: 24/5/2013- 6487/17 md.)
-Uluslararası andlaşmalarla kurulan üniversitelerde bu süre beş yıla kadar uzatılabilir.
+Uluslararası andlaşmalarla kurulan üniversitelerde ve Yükseköğretim Kurulunun taraf olduğu
+protokoller gereği ikili andlaşmalarla yurt dışındaki yükseköğretim kurumları bünyesinde
+açılan programlarda bu süre beş yıla kadar uzatılabilir.34
+
+Kurumlararası yardımlaşma:35

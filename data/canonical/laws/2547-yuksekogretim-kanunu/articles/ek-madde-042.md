@@ -10,13 +10,6 @@ gerekli eğitim ücretine ulaştığında aktarım durdurulur. (Ek cümle: 2/2/2
 Teminat hesabına aktarılacak tutar karşılığı için süresiz ve şartsız olmak kaydıyla bir bankadan
 alınacak kesin teminat mektubu da kabul edilebilir. Bu hesap, Hazine ve Maliye Bakanlığı ile
 Yükseköğretim Kurulu tarafından izlenir ve ilgili vakıf yükseköğretim kurumunun faaliyet izninin
-
-94 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkranın ikinci cümlesinde yer alan
-“yüz soru” ibaresi “yüz yirmi soru” şeklinde değiştirilmiştir.
-95 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Sınavların”
-ibaresi “Sınavlara yeni alanların eklenmesi ve sınavların” şeklinde değiştirilmiş ve fıkraya
-“Yükseköğretim Kurulu,” ibaresinden sonra gelmek üzere “Ölçme, Seçme ve Yerleştirme Merkezi
-Başkanlığı,” ibaresi eklenmiştir.
 geçici olarak durdurulması veya kaldırılması halinde hesapta biriken tutar, öğrencilerin
 eğitimlerinin tamamlatılması dışındaki başkaca amaçlar için kullanılamaz. Faaliyet izni geçici
 olarak durdurulan veya kaldırılan vakıf yükseköğretim kurumları ve alacaklılar, söz konusu

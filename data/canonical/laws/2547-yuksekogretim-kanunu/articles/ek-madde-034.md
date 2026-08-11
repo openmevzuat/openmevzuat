@@ -17,7 +17,7 @@ süresinin uzatılması ve sona erdirilmesine ilişkin hususlar ile 60.000 göst
 memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek üzere ücretleri
 Yükseköğretim Kurulu tarafından belirlenir. Bunlara, diğer mevzuatta aksine hüküm bulunsa
 dahi, bu maddede öngörülen ücret dışında herhangi bir ad altında ödeme yapılamaz ve
-sözleşmelere bu hususta hüküm konulamaz.87
+sözleşmelere bu hususta hüküm konulamaz.95
 Mali ve sosyal haklar dışında kalan istihdama ilişkin diğer hususlarda 657 sayılı
 Kanunun 4 üncü maddesinin (B) fıkrası kapsamında Ar-Ge proje hizmetlerine ilişkin
 pozisyonlarda istihdam edilen personelin tabi olduğu hükümler uygulanır.

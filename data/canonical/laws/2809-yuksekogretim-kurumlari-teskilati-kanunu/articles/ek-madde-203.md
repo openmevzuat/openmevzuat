@@ -1,4 +1,4 @@
-# EK MADDE 203 — Ankara Bilim Üniversitesi:287
+# EK MADDE 203 — Ankara Bilim Üniversitesi:289
 
 (Ek:15/4/2020-7243/25 md.)
 Ankara’da Türkiye Verimlilik Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun

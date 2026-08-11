@@ -10,7 +10,7 @@ değiştirilmesi ile oluşturularak Rektörlüğe bağlanan Sağlık Bilimleri F
 bağlı olarak yeni kurulan Mühendislik ve Doğa Bilimleri Fakültesinden,
 b) Kütahya Dumlupınar Üniversitesine bağlı iken bağlantısı değiştirilerek Rektörlüğe
 
-271 a) 28/6/2024 tarihli ve 32586 sayılı Resmî Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile
+272 a) 28/6/2024 tarihli ve 32586 sayılı Resmî Gazete’de yayımlanan 8653 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 b) 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de yayımlanan 8785 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi kurulmuştur.

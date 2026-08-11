@@ -3,6 +3,13 @@
 (Ek: 15/4/2020-7243/18 md.)
 Yükseköğretim Kurulunca, Devlet yükseköğretim kurumlarında kalkınma planları
 hedefleri doğrultusunda bilimsel ve teknolojik gelişmeye katkı sağlayacak nitelikte Ar-Ge
+
+101 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkranın ikinci cümlesinde yer alan
+“yüz soru” ibaresi “yüz yirmi soru” şeklinde değiştirilmiştir.
+102 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Sınavların”
+ibaresi “Sınavlara yeni alanların eklenmesi ve sınavların” şeklinde değiştirilmiş ve fıkraya
+“Yükseköğretim Kurulu,” ibaresinden sonra gelmek üzere “Ölçme, Seçme ve Yerleştirme Merkezi
+Başkanlığı,” ibaresi eklenmiştir.
 faaliyetleri için bir koordinatör yükseköğretim kurumunun bünyesinde birden fazla
 yükseköğretim kurumunun işbirliği ile ortak uygulama ve araştırma merkezi kurulabilir. Aynı
 ad, görev ve misyonla kurulacak ortak uygulama ve araştırma merkezi sayısı ikiden fazla

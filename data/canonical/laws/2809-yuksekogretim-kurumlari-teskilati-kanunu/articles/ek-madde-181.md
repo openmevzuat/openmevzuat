@@ -1,4 +1,4 @@
-# EK MADDE 181 — Malatya Turgut Özal Üniversitesi:272
+# EK MADDE 181 — Malatya Turgut Özal Üniversitesi:273
 
 (Ek: 9/5/2018-7141/7 md.)
 Malatya’da Malatya Turgut Özal Üniversitesi adıyla yeni bir üniversite kurulmuştur.

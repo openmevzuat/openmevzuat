@@ -21,7 +21,7 @@ esasları ve mezuniyet şartları dahil, işleyişine ilişkin usûl ve esaslar 
 çıkaracağı yönetmelikle düzenlenir.
 Bu eğitim ve öğretim programlarına kayıtlı öğrencilerden alınacak öğrenim ücretleri,
 gelir ve giderleri ile harcama usûl ve esasları Maliye Bakanlığının olumlu görüşü üzerine
-Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.34
+Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.36
 
 Diploma alma, ders kredilerinin hesaplanması, öğrencilik haklarından yararlanma
-ve sınavlar:35
+ve sınavlar:37

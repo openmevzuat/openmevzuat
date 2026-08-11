@@ -1,4 +1,4 @@
-# EK MADDE 201 — İstanbul Galata Üniversitesi:286
+# EK MADDE 201 — İstanbul Galata Üniversitesi:288
 
 (Ek:30/5/2019-7176/2 md.)
 İstanbul’da Bulut Eğitim Vakfı tarafından 2547 sayılı Yükseköğretim Kanununun vakıf
@@ -7,7 +7,7 @@ yükseköğretim kurumlarına ilişkin hükümlerine tabi olmak üzere, kamu tü
 Bu Üniversite, Rektörlüğe bağlı olarak;
 a) Diş Hekimliği Fakültesinden,
 
-286 a) 1/5/2021 tarihli ve 31471 sayılı Resmî Gazete’de yayımlanan 3940 sayılı Cumhurbaşkanı Kararı ile
+288 a) 1/5/2021 tarihli ve 31471 sayılı Resmî Gazete’de yayımlanan 3940 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Sağlık Bilimleri Fakültesi kurulmuştur.
 b) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Mühendislik Fakültesi kurulmuştur.

@@ -14,12 +14,12 @@ nedeniyle ilişiği kesilenler, bu Kanunun yürürlüğe girdiği tarihten itiba
 ilişiklerinin kesildiği kuruma başvuruda bulunmaları şartıyla bu maddede belirtilen haklardan
 yararlanırlar. Başvuruda bulunanlar, ilgili yükseköğretim kurumları tarafından, iki aylık başvuru
 
-96 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu fıkranın son cümlesinde yer alan “31 Aralık
+103 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu fıkranın son cümlesinde yer alan “31 Aralık
 2015”ibaresi “31 Aralık 2016” şeklinde değiştirilmiştir.
-97 25/8/2016 tarihli ve 671 sayılı KHK’nin 27 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan “yetmişiki”
-ibaresi “yetmişbeş” şeklinde ve “2016” ibaresi “2020” şeklinde değiştirilmiş olup, daha sonra bu hüküm
-9/11/2016 tarihli ve 6757 sayılı Kanunun 24 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
-98 15/4/2020 tarihli ve 7243 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “Devlet üniversitelerinde”
+104 25/8/2016 tarihli ve 671 sayılı KHK’nin 27 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan
+“yetmişiki” ibaresi “yetmişbeş” şeklinde ve “2016” ibaresi “2020” şeklinde değiştirilmiş olup, daha sonra bu
+hüküm 9/11/2016 tarihli ve 6757 sayılı Kanunun 24 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
+105 15/4/2020 tarihli ve 7243 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “Devlet üniversitelerinde”
 ibaresi “Devlet üniversiteleri ile Kafkas Üniversitesi ve Kütahya Sağlık Bilimleri Üniversitesinde” şeklinde,
 “2020” ibaresi “2025” şeklinde değiştirilmiştir.
 süresinin dolması beklenmeden de bu haklardan yararlandırılabilir. Bu Kanunun yürürlüğe

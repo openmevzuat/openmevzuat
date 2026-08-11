@@ -9,7 +9,7 @@ tabidirler.
 atanmaları veya görevlendirilmeleri, 657 sayılı Devlet Memurları Kanununun Cumhurbaşkanı
 kararını gerektiren hükümlerine tabi olmadan, Yükseköğretim Kurulunca verilecek ön izni
 müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni neticesinde ilgili
-üniversitesi ile sözleşmesi yapılır.2728
+üniversitesi ile sözleşmesi yapılır.2829
 (Ek fıkra: 2/7/2018-KHK-703/43 md.) (İptal üçüncü fıkra: Anayasa Mahkemesinin
 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.) (Yeniden Düzenlenen
 fıkra:18/6/2025-7551/7 md.) Bu madde ve 2914 sayılı Kanunun 16 ncı maddesine göre

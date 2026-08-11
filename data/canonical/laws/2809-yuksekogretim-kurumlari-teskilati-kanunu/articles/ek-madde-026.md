@@ -8,8 +8,8 @@ Kahramanmaraş Ziraat Fakültesinin adı ve bağlantısı değiştirilerek rekt�
 Fakültesinden;
 b) Gaziantep Üniversitesine bağlı Kahramanmaraş Meslek Yüksekokulunun adı ve
 bağlantısı değiştirilerek rektörlüğe bağlanan Kahramanmaraş Meslek Yüksekokulundan;
-c) (Değişik: 15/12/1999-4488/1 md.) Rektörlüğe bağlı Sosyal Bilimler Enstitüsü, Fen
-Bilimleri Enstitüsü ve Sağlık Bilimleri Enstitüsünden;
+c) (Mülga:30/7/2026-7592/16 md.)
+ç) (Ek:30/7/2026-7592/16 md.) Kahramanmaraş İstiklal Üniversitesine bağlı iken
 
 84 a) 4/7/1995 tarihli ve 95/7044 sayalı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Teknik Eğitim
 Fakültesi, Mühendislik ve Mimarlık Fakültesi, İlahiyat Fakültesi kurulmuş; 9/5/1996 tarihli ve 96/8176 sayılı
@@ -36,4 +36,19 @@ Rektörlüğe bağlı olarak İnsan ve Toplum Bilimleri Fakültesi ve Fen Fakül
 yer alan Fen- Edebiyat Fakültesi kapatılmıştır.
 ı) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İletişim Fakültesi ve Turizm Fakültesi kurulmuştur.
+bağlantısı değiştirilerek Rektörlüğe bağlanan İslami İlimler Fakültesi, Sağlık Bilimleri
+Fakültesi ve İnsan ve Toplum Bilimleri Fakültesi ile Rektörlüğe bağlı İlahiyat Fakültesi,
+Sağlık Bilimleri Fakültesi ve İnsan ve Toplum Bilimleri Fakültesinin birleştirilmesiyle
+oluşturulan İlahiyat Fakültesi, Sağlık Bilimleri Fakültesi ve İnsan ve Toplum Bilimleri
+Fakültesi ile Kahramanmaraş İstiklal Üniversitesine bağlı iken bağlantıları değiştirilerek
+Rektörlüğe bağlanan Turizm Fakültesi ile İletişim Fakültesinden;
+d) (Ek:30/7/2026-7592/16 md.) Kahramanmaraş İstiklal Üniversitesine bağlı Elbistan
+Sağlık Hizmetleri Meslek Yüksekokulu ile Elbistan Meslek Yüksekokulunun adı ve bağlantısı
+değiştirilerek ve birleştirilerek oluşturulan ve Rektörlüğe bağlanan Elbistan Meslek
+Yüksekokulu ile Kahramanmaraş İstiklal Üniversitesine bağlı iken bağlantısı değiştirilerek
+Rektörlüğe bağlanan Türkoğlu Meslek Yüksekokulu ile Rektörlüğe bağlı Sağlık Hizmetleri
+Meslek Yüksekokulu, Sosyal Bilimler Meslek Yüksekokulu ile Teknik Bilimler Meslek
+Yüksekokulunun birleştirilmesiyle oluşturulan Onikişubat Meslek Yüksekokulundan;
+e) (Ek:30/7/2026-7592/16 md.) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü
+Eğitim Enstitüsünden;
 Oluşur.

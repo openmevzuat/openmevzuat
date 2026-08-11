@@ -1,4 +1,4 @@
-# EK MADDE 188 — Trabzon Üniversitesi:278
+# EK MADDE 188 — Trabzon Üniversitesi:279
 
 (Ek: 9/5/2018-7141/7 md.)
 Trabzon Akçaabat’da, Trabzon Üniversitesi adıyla yeni bir üniversite kurulmuştur.
@@ -13,7 +13,7 @@ b) Karadeniz Teknik Üniversitesine bağlı iken bağlantısı değiştirilerek 
 bağlanan Uygulamalı Bilimler Yüksekokulu ile Devlet Konservatuvarından,
 c) Karadeniz Teknik Üniversitesine bağlı iken bağlantısı değiştirilerek Rektörlüğe
 
-278 a) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile
+279 a) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 b) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan Güzel Sanatlar Fakültesinin adı Güzel Sanatlar ve Tasarım Fakültesi olarak değiştirilmiştir.

@@ -1,6 +1,6 @@
 # GEÇİCİ MADDE 9
 
-(Ek: 21/4/2005-5335/19 md.)66
+(Ek: 21/4/2005-5335/19 md.)67
 Bu maddenin yürürlüğe girmesinden önce, Müsteşarlıkça bu Kanun uyarınca borçlu veya
 garantör sıfatıyla herhangi bir dış finansman veya türev ürüne ilişkin olarak başlatılan işlemler
 kapsamında, ilgili anlaşmaların veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların

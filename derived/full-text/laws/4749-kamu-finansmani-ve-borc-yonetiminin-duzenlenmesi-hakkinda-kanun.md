@@ -1336,8 +1336,8 @@ Cumhuriyeti’nde Türk-Japon Bilim ve Teknoloji Üniversitesinin Kurulmasına D
 sayılı Türk-Japon Bilim ve Teknoloji Üniversitesinin Kuruluşu Hakkında Kanunla kurulan Türk-
 Japon Bilim ve Teknoloji Üniversitesinin Japonya Hükümeti ve/veya Japonya ülke
 kuruluşlarından kendi adına yılı yatırım programında yer almaksızın sağlayacağı dış finansmana
-bu Kanunda öngörülen usul ve esaslar çerçevesinde Hazine geri ödeme garantisi vermeye Bakan
-yetkilidir.
+bu Kanunda öngörülen usul ve esaslar çerçevesinde Hazine geri ödeme garantisi vermeye ve hibe
+almaya Bakan yetkilidir.63
 Bu madde uyarınca verilen Hazine geri ödeme garantileri kapsamında doğacak Hazine
 alacakları hakkında 6183 sayılı Kanun hükümleri uygulanır.
 
@@ -1372,6 +1372,9 @@ uzlaşma görüşmesinin yapılacağı gün bildirilir. Bu süre iki ayı geçem
 üst seviyeden yetkili mercii vasıtasıyla ve yazı ile Müsteşarlığa başvurması şarttır.
 Uzlaşma komisyonu Bakan tarafından Hazine alacaklarının idaresi, takibi, tahsili ve
 denetimiyle ilgili görevli personel arasından tayin edilen bir başkan ve üç üye ile Maliye
+
+63 30/7/2026 tarihli ve 7592 sayılı Kanunun 22 nci maddesiyle bu fıkraya “Hazine geri ödeme garantisi
+vermeye” ibaresinden sonra gelmek üzere “ve hibe almaya” ibaresi eklenmiştir.
 Bakanlığı, Devlet Plânlama Teşkilâtı Müsteşarlığı ve Sayıştay Başkanlığının birer temsilcisinden
 oluşur. Komisyon oy çokluğuyla karar verir. Komisyonun uzlaşabileceği miktarın alt sınırı ve
 vade yapısının genel esasları Bakan tarafından belirlenir ve uzlaşma görüşmesinden önce
@@ -1400,24 +1403,24 @@ yardım ve yeniden yapılandırma, rehabilitasyon projelerinin finansmanı amac�
 Bankası, Avrupa Yatırım Bankası, Avrupa Konseyi Kalkınma Bankası, İslam Kalkınma Bankası,
 Körfez İşbirliği Konseyi ülkelerinin ilgili finans kuruluşlarından ve aynı amaçla yabancı ülke
 hükümetleri ile, yabancı ülkelerin kredi kuruluşları ve uluslararası kurumlardan, Türkiye
-Cumhuriyeti'nin borçlu sıfatıyla sağladığı ve bu amaç için sağlanacak kredileri genel bütçe
+Cumhuriyeti’nin borçlu sıfatıyla sağladığı ve bu amaç için sağlanacak kredileri genel bütçe
 kapsamındaki kamu idareleri dışında kalan kamu kurum ve kuruluşlarına karşılıksız tahsis
-etmeye Hazine Müsteşarlığı'nın bağlı bulunduğu Bakan yetkilidir.63
+etmeye Hazine Müsteşarlığı’nın bağlı bulunduğu Bakan yetkilidir.64
 
 GEÇİCİ MADDE 5
 
-Bu Kanunun yürürlük tarihinden önce "Devir Anlaşması", "İkraz
-Anlaşması" veya benzer nitelikte anlaşmalar düzenlenerek ikraz edilmek suretiyle kullandırılan
+Bu Kanunun yürürlük tarihinden önce “Devir Anlaşması”, “İkraz
+Anlaşması” veya benzer nitelikte anlaşmalar düzenlenerek ikraz edilmek suretiyle kullandırılan
 krediler nedeniyle doğmuş ve doğacak olan Hazine alacakları hakkında bu Kanunun 11 inci
 Maddesi hükümleri uygulanır.
+
+64 16/7/2008 tarihli ve 5787 sayılı Kanunun 17 nci maddesiyle, bu maddede geçen "genel ve katma bütçeli
+kuruluşlar" ibaresi "genel bütçe kapsamındaki kamu idareleri" şeklinde değiştirilmiştir.
 
 GEÇİCİ MADDE 6
 
 (Ek: 31/7/2003-4969/11 md.)
 Bakü-Tiflis-Ceyhan boru hattı projesi kapsamında;
-
-63 16/7/2008 tarihli ve 5787 sayılı Kanunun 17 nci maddesiyle, bu maddede geçen "genel ve katma bütçeli
-kuruluşlar" ibaresi "genel bütçe kapsamındaki kamu idareleri" şeklinde değiştirilmiştir.
 a) Akdedilmiş olan ev sahibi ülke anlaşması, anahtar teslimi yapım sözleşmesi, hükümet
 garantisi anlaşması ve bu proje tahtındaki akdedilecek diğer anlaşmalarla ilgili belge ve sair
 dokümanların imzalanmasına,
@@ -1430,7 +1433,7 @@ anlaşmalarda öngörülen taraflara garanti verilmesine, bahse konu taahhütler
 c) (a) ve (b) bentlerinde belirtilen anlaşmalar ile diğer ilgili belge ve anlaşmalarla sair
 dokümanları imzalayan ve imzalayacak ilgili kamu kurum ve kuruluşlarının tespitine ve
 yetkilendirilmesine,
-Cumhurbaşkanı yetkilidir.64
+Cumhurbaşkanı yetkilidir.65
 
 GEÇİCİ MADDE 7
 
@@ -1451,20 +1454,17 @@ ve Bakanlar Kurulu Kararı ile İstanbul İl Özel İdaresine karşılıksız ta
 olarak yılı yatırım programında yer almaksızın kullandırılmaya devam edilir.
 Birinci fıkrada belirtilen projelerin finansmanı için herhangi bir dış finansman kaynağından
 Türkiye Cumhuriyetinin borçlu sıfatıyla yılı yatırım programında yer almaksızın sağlayacağı yeni
-kredileri, İstanbul Valiliğine tahsis etmeye Cumhurbaşkanı yetkilidir.65
+
+65 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
+ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+kredileri, İstanbul Valiliğine tahsis etmeye Cumhurbaşkanı yetkilidir.66
 Bu Kanunun 14 üncü maddesinin beşinci ve altıncı fıkralarının genel bütçe kapsamındaki
 kamu idareleri ile Yükseköğretim Kurulu, üniversiteler ve yüksek teknoloji enstitülerine ilişkin
-
-64 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-65 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu fıkrada yer alan “Hazine
-Müsteşarlığının bağlı bulunduğu Bakanın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
-şeklinde değiştirilmiştir.
 hükümleri bu madde kapsamındaki krediler için uygulanmaz.
 
 GEÇİCİ MADDE 9
 
-(Ek: 21/4/2005-5335/19 md.)66
+(Ek: 21/4/2005-5335/19 md.)67
 Bu maddenin yürürlüğe girmesinden önce, Müsteşarlıkça bu Kanun uyarınca borçlu veya
 garantör sıfatıyla herhangi bir dış finansman veya türev ürüne ilişkin olarak başlatılan işlemler
 kapsamında, ilgili anlaşmaların veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların
@@ -1486,25 +1486,28 @@ Türkiye Cumhuriyetinin borçlu sıfatıyla sağlayacağı kredileri, anılan Ge
 gelir ve gider kalemleri ile ilişkilendirilmeksizin karşılıksız tahsis etmeye Cumhurbaşkanı
 yetkilidir. Bu maddeye istinaden sağlanacak krediler hakkında, 14 üncü maddenin beşinci ve
 altıncı fıkralarının 10/12/2003 tarihli ve 5018 sayılı Kanunun eki (I) sayılı cetvelde yer alan kamu
-idarelerine ilişkin hükümleri uygulanmaz.67
+idarelerine ilişkin hükümleri uygulanmaz.68
 
 GEÇİCİ MADDE 11
 
 (Ek: 26/12/2006-5568/3 md.)
 Sel ve Deprem Felaketi Acil Yardım Projesi, Marmara Depremi Acil Yeniden
+
+66 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu fıkrada yer alan “Hazine
+Müsteşarlığının bağlı bulunduğu Bakanın teklifi üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı”
+şeklinde değiştirilmiştir.
+67 16/7/2008 tarihli ve 5787 sayılı kanunun 15 inci maddesiyle, bu maddede geçen "ilgili anlaşmaların"
+ibaresinden sonra gelmek üzere "veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların"
+ibaresi, "ve benzeri yükümlülükler hakkında da" ibaresinden sonra gelmek üzere "ilgili anlaşmaların veya
+daha önce imzalanmış anlaşmaları tadil eden anlaşmaların imzalanması veya yürürlüğe girmesinden
+bağımsız olarak" ibaresi eklenmiştir.
+68 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
+üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Yapılandırma Projesi, Türkiye Altyapı ve Kentsel Yeniden Yapılandırma Projesi, Kalıcı Konutların
 Karayolu Bağlantıları Projesi, Çınarcık-Teşvikiye–Kocadere-Esenköy-Armutlu Kanalizasyon
 Projesi, Kaynarca-Gölkent-Ferizli-Sinanoğlu-Söğütlü İçmesuyu Projeleri ve Akyazı-Hendek
 Kanalizasyon Projesi, Sosyal Riskin Azaltılması Projesi ve Özelleştirme Sosyal Destek Projesi,
 Endüstriyel Teknoloji Projesi ve TÜBİTAK-Bilten Araştırma Uydusu Projesinin finansmanı için
-
-66 16/7/2008 tarihli ve 5787 sayılı kanunun 15 inci maddesiyle, bu maddede geçen "ilgili anlaşmaların"
-ibaresinden sonra gelmek üzere "veya daha önce imzalanmış anlaşmaları tadil eden anlaşmaların"
-ibaresi, "ve benzeri yükümlülükler hakkında da" ibaresinden sonra gelmek üzere "ilgili anlaşmaların veya
-daha önce imzalanmış anlaşmaları tadil eden anlaşmaların imzalanması veya yürürlüğe girmesinden
-bağımsız olarak" ibaresi eklenmiştir.
-67 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
-üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 Dünya Bankası, Avrupa Yatırım Bankası, Körfez İşbirliği Konseyi ülkelerinin ilgili finans
 kuruluşları ve National Westminster Banktan sağlanmış olan kredilerden bu maddenin yürürlüğe
 girdiği tarihe kadar yapılan kullanımlar sonucunda doğan ve ikraz anlaşmasına bağlanmamış, ilgili
@@ -1534,7 +1537,11 @@ kuruluşlara tahsisli olarak kullandırılır. Üniversitelerin 1/1/2006 tarihin
 garantili kredilerine ilişkin olarak Müsteşarlıkça yapılan üstlenimler ile ikrazen kullandırılan
 kredilerinden doğan Hazine alacaklarının ve anılan kuruluşların uzlaşma kapsamındaki Hazine
 alacaklarının, bu maddenin yürürlük tarihi itibarıyla ödenmeyen bakiye tutarını, Bakanın teklifi
-üzerine (…)68 terkinine Maliye Bakanı yetkilidir.
+üzerine (…)69 terkinine Maliye Bakanı yetkilidir.
+
+69 Anayasa Mahkemesinin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu fıkranın
+ikinci cümlesinin “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal
+edilmiştir.
 
 GEÇİCİ MADDE 13
 
@@ -1543,10 +1550,6 @@ Sosyal Yardımlaşma ve Dayanışmayı Teşvik Fonu kapsamında oluşturulacak p
 ve/veya projelerin finansmanı için herhangi bir dış finansman kaynağından Türkiye
 Cumhuriyetinin borçlu sıfatıyla sağlayacağı kredileri, anılan Fona bütçenin gelir ve gider
 kalemleri ile ilişkilendirilmeksizin tahsis etmeye Bakanın teklifi üzerine Bakanlar Kurulu
-
-68 Anayasa Mahkemesinin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu fıkranın
-ikinci cümlesinin “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal
-edilmiştir.
 yetkilidir. Bu maddeye istinaden sağlanacak krediler ile ilgili olarak krediyi tahsis eden kuruluş
 hakkında, 14 üncü maddenin beşinci ve altıncı fıkralarının 5018 sayılı Kanunun eki (I) sayılı
 cetvelde yer alan kuruluşlara ilişkin hükümleri uygulanmaz.
@@ -1578,20 +1581,20 @@ GEÇİCİ MADDE 16
 Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünün bu maddenin
 yürürlük tarihi itibarıyla vadesi geçmiş Hazine garantili kredilerinden Müsteşarlıkça yapılan
 üstlenimlerden ve ikrazen kullandırılan kredilerinden doğan anapara, faiz, masraf ve gecikme
-zammından oluşan Hazine alacaklarını, (…)69 Türkiye Cumhuriyeti Devlet Demiryollarının
+zammından oluşan Hazine alacaklarını, (…)70 Türkiye Cumhuriyeti Devlet Demiryollarının
 Ulaştırma Bakanlığından olan yol bakım ve onarım giderleri karşılığı alacaklarından mahsup suretiyle
 terkin etmeye, sözkonusu işlemden sonra Kuruluşun bakiye borcunun kalması halinde bu tutarı
 Kuruluşun ödenmemiş sermayesine mahsuba Bakanın teklifi üzerine Maliye Bakanı yetkilidir.
+
+70 Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu fıkranın
+“… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal edilmiştir.
 
 GEÇİCİ MADDE 17
 
 (Ek: 16/7/2008-5787/18 md.)
 Tasarruf Mevduatı Sigorta Fonuna 31/12/2007 tarihine kadar verilen özel tertip Devlet İç
 Borçlanma Senetlerinden doğmuş ve/veya doğacak anapara, faiz, masraf ve gecikme zammından
-
-69 Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu fıkranın
-“… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal edilmiştir.
-oluşan Hazine alacaklarının (…)70 terkini Bakanın teklifi üzerine Maliye Bakanı tarafından yerine
+oluşan Hazine alacaklarının (…)71 terkini Bakanın teklifi üzerine Maliye Bakanı tarafından yerine
 getirilir. Bu işlem, Tasarruf Mevduatı Sigorta Fonunun, faaliyet izni kaldırılan veya yönetimi ve
 denetimi kendisine devredilen bankalardan kaynaklanan alacaklarının takip ve tahsiline ilişkin
 hak ve yetkilerini ortadan kaldırmaz.
@@ -1628,20 +1631,18 @@ Borçlanma Senedi ihraç edilebilir. Bu kapsamda ihraç edilecek Özel Tertip De
 senetleri için, Müsteşarlık Bütçesinin ilgili tertiplerine 1 milyar Türk Lirasına kadar ödenek
 eklemeye Maliye Bakanı yetkilidir.
 
+71 Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu maddenin
+birinci fıkrasının “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal edilmiştir.
+
 GEÇİCİ MADDE 20
 
-(Ek: 17/6/2009-5909/1 md.)71
-
-70 Anayasa Mahkemesi’nin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu maddenin
-birinci fıkrasının “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal edilmiştir.
-71 27/3/2015 tarihli ve 6637 sayılı Kanunun 9 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan
-“1 milyar Türk Lirasına” ibareleri “2 milyar Türk Lirasına” şeklinde, aynı maddenin üçüncü fıkrasında
+(Ek: 17/6/2009-5909/1 md.)72
 Finansman imkanlarını geliştirmek ve kredi sisteminin etkin işlemesine katkı sağlamak
 amacıyla gerçek ve tüzel kişiler ile ticari işletmelere kredi garantisi veren kredi garanti kurumlarına
 100 milyar Türk lirasına kadar nakit kaynak aktarmaya ve/veya özel tertip Devlet iç borçlanma
 senedi ihraç etmeye Bakan; nakit aktarımı ve/veya ihraç edilecek özel tertip Devlet iç borçlanma
 senetleri için Müsteşarlık bütçesinin mevcut ya da yeni açılacak tertiplerine 100 milyar Türk
-lirasına kadar ödenek eklemeye Maliye Bakanı yetkilidir. 727374
+lirasına kadar ödenek eklemeye Maliye Bakanı yetkilidir. 737475
 Nakit kaynak aktarılarak ve/veya özel tertip Devlet iç borçlanma senedi ihraç edilerek
 Müsteşarlığın destek sağladığı kredi garantisi veren kredi garanti kurumlarında bankaların sahip
 oldukları paylarla ilgili olarak, 19/10/2005 tarihli ve 5411 sayılı Bankacılık Kanununun 25 inci,
@@ -1655,7 +1656,7 @@ Bakanlar Kurulunca belirlenir.
 GEÇİCİ MADDE 21
 
 (Ek: 17/6/2009-5909/1 md.)
-Toprak Mahsulleri Ofisi Genel Müdürlüğü'nün 2009 yılı kampanya dönemi finansman
+Toprak Mahsulleri Ofisi Genel Müdürlüğü’nün 2009 yılı kampanya dönemi finansman
 açığının karşılanmasını teminen Hazine Müsteşarlığınca ikrazen özel tertip Devlet iç borçlanma
 senedi ihraç edilebilir.
 
@@ -1666,23 +1667,25 @@ GEÇİCİ MADDE 22
 geçerli olmak üzere Bakan ve Bakanlar Kurulu tarafından artırılan net borç kullanım tutarının beş
 katı olarak uygulanır.
 
+72 27/3/2015 tarihli ve 6637 sayılı Kanunun 9 uncu maddesiyle, bu maddenin birinci fıkrasında yer alan
+“1 milyar Türk Lirasına” ibareleri “2 milyar Türk Lirasına” şeklinde, aynı maddenin üçüncü fıkrasında
+yer alan “kredi garanti kurumları ile aktarılacak kaynağın kullandırılmasına” ibaresi “kredi garanti
+kurumlarının belirlenmesine, aktarılacak kaynağın kullandırılmasına ve bu maddenin birinci fıkrasında
+belirlenen tutar dayanak gösterilerek söz konusu tutarın 10 katını aşmamak üzere bu kurumlarca
+verilebilecek kefaletin bakiye tutarına” şeklinde değiştirilmiştir.
+73 18/1/2017 tarihli ve 6770 sayılı Kanunun 24 üncü maddesiyle bu maddenin birinci fıkrasında yer alan
+“2 milyar Türk Lirasına” ibareleri “25 milyar Türk lirasına” şeklinde değiştirilmiştir.
+74 25/3/2020 tarihli ve 7226 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “firmalara” ibaresi
+“gerçek ve tüzel kişiler ile ticari işletmelere” şeklinde ve “25” ibareleri “50” şeklinde değiştirilmiştir.
+75 1/7/2022 tarihli ve 7417 sayılı Kanunun 43 üncü maddesiyle bu fıkrada yer alan “50” ibareleri “100”
+şeklinde değiştirilmiştir.
+
 GEÇİCİ MADDE 23
 
 (Ek: 25/6/2009-5917/32 md.)
 Devlet Yatırım Bankası (21/8/1987 tarihinden itibaren Türkiye İhracat Kredi Bankası A.Ş.)
 tarafından bütçe dışı avans ve kredi olarak Hazine Müsteşarlığından alınıp Türkiye Kömür
 İşletmeleri (TKİ) Genel Müdürlüğüne kredi olarak kullandırılan ve TKİ tarafından 1977-1996
-
-yer alan “kredi garanti kurumları ile aktarılacak kaynağın kullandırılmasına” ibaresi “kredi garanti
-kurumlarının belirlenmesine, aktarılacak kaynağın kullandırılmasına ve bu maddenin birinci fıkrasında
-belirlenen tutar dayanak gösterilerek söz konusu tutarın 10 katını aşmamak üzere bu kurumlarca
-verilebilecek kefaletin bakiye tutarına” şeklinde değiştirilmiştir.
-72 18/1/2017 tarihli ve 6770 sayılı Kanunun 24 üncü maddesiyle bu maddenin birinci fıkrasında yer alan
-“2 milyar Türk Lirasına” ibareleri “25 milyar Türk lirasına” şeklinde değiştirilmiştir.
-73 25/3/2020 tarihli ve 7226 sayılı Kanunun 20 nci maddesiyle bu fıkrada yer alan “firmalara” ibaresi
-“gerçek ve tüzel kişiler ile ticari işletmelere” şeklinde ve “25” ibareleri “50” şeklinde değiştirilmiştir.
-74 1/7/2022 tarihli ve 7417 sayılı Kanunun 43 üncü maddesiyle bu fıkrada yer alan “50” ibareleri “100”
-şeklinde değiştirilmiştir.
 döneminde Devlet Yatırım Bankasına ödenmek suretiyle kapatılan; ancak Devlet Yatırım Bankası
 ya da Türkiye İhracat Kredi Bankası A.Ş. tarafından Hazineye aktarılmayan ve halihazırda Diğer
 Hazine Alacağı olarak 140-Kişilerden Alacaklar hesabında takip edilen 755,50 TL (1977 yılındaki
@@ -1707,7 +1710,7 @@ Kanunun eki (I) sayılı cetvelde yer alan kuruluşlara ilişkin hükümleri uyg
 
 GEÇİCİ MADDE 26
 
-(Ek: 10/9/2014-6552/115 md.)75
+(Ek: 10/9/2014-6552/115 md.)76
 Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünün 2014-2018
 Yılları Yatırım Programlarında yer alan projelerinin finansmanı için herhangi bir dış finansman
 kaynağından Türkiye Cumhuriyetinin borçlu sıfatıyla sağlayacağı kredileri, anılan Genel
@@ -1722,14 +1725,14 @@ Türk Standartları Enstitüsünün 7/8/1991 tarihli ikraz anlaşmasından doğa
 alacaklarının bu maddenin yürürlüğe girdiği tarih itibarıyla ödenmeyen bakiye tutarını terkine
 Bakanın teklifi üzerine Maliye Bakanı yetkilidir.
 
+76 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
+üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+
 GEÇİCİ MADDE 28
 
 (Ek: 18/1/2017-6770/25 md.)
 Toplu Konut İdaresi Başkanlığının 28/3/2001 tarihli ve 2001/2202 sayılı Bakanlar Kurulu
 Kararı uyarınca Yüksek Planlama Kurulu Kararı kapsamında ihraç ettiği borçlanma senetlerinden
-
-75 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
-üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 kaynaklı Tasfiye Halinde Türkiye Emlak Bankası A.Ş.’ye olan borçları bu maddenin yürürlüğe
 girdiği tarih esas alınarak belirlenen tutar üzerinden Müsteşarlığa nakledilir.
 Müsteşarlık, Tasfiye Halinde Türkiye Emlak Bankası A.Ş.’nin 15/11/2000 tarihli ve 4603
@@ -1764,11 +1767,11 @@ maddesinin birinci fıkrasında belirlenen net borç kullanımı hesabına borç
 edilmez. Devir bedeli karşılığı ihraç edilen kira sertifikaları için bu Kanunda belirtilen ödenek
 şartı aranmaz.
 Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Memur ve Hizmetlileri Emekli ve
-Sağlık Yardım Sandığı Vakfına ait (C) grubu hisselerin Hazineye devredilmesi karşılığında devir
+Sağlık Yardım Sandığı Vakfına ait © grubu hisselerin Hazineye devredilmesi karşılığında devir
 bedeli olarak ihraç edilen özel tertip Devlet iç borçlanma senetleri bu Kanunun 5 inci maddesinin
 birinci fıkrasında belirlenen net borç kullanımı hesabına borçlanma olarak dahil edilmez. Ayrıca,
 Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Memur ve Hizmetlileri Emekli ve Sağlık
-Yardım Sandığı Vakfına ait (C) grubu hisselerin Hazineye devredilmesi karşılığında ihraç edilen
+Yardım Sandığı Vakfına ait © grubu hisselerin Hazineye devredilmesi karşılığında ihraç edilen
 özel tertip Devlet iç borçlanma senetleri için bu Kanunun 6 ncı maddesinin ikinci fıkrası
 hükümleri uygulanmaz.
 
@@ -1812,11 +1815,7 @@ GEÇİCİ MADDE 35
 Finansal istikrara katkı sağlamak ve gerçek kişilerin mevduat ve katılma hesaplarının
 getirilerini kur artışlarına karşı desteklemek amacıyla bankalar nezdinde 21/12/2021 ve 31/12/2022
 tarihleri arasında açılan Türk lirası vadeli mevduat ve katılma hesaplarına aktarılmak üzere Türkiye
-Cumhuriyet Merkez Bankasına nakit kaynak aktarmaya (…)76 Hazine ve Maliye Bakanı yetkilidir.
-
-76 Anayasa Mahkemesinin 6/3/2025 tarihli ve E.: 2022/32, K.: 2025/67 sayılı Kararı ile bu fıkranın “…ve
-nakit kaynak aktarımı için Bakanlık bütçesinde mevcut ya da yeni açılacak tertiplere ödenek eklemeye…”
-bölümü iptal edilmiştir.
+Cumhuriyet Merkez Bankasına nakit kaynak aktarmaya (…)77 Hazine ve Maliye Bakanı yetkilidir.
 (İptal ikinci fıkra: Anayasa Mahkemesinin 6/3/2025 tarihli ve E.: 2022/32, K.: 2025/67
 sayılı Kararı ile)
 Birinci fıkrada yer alan nihai hesap açma tarihini öne çekmeye veya 31/12/2023 tarihine
@@ -1824,7 +1823,7 @@ kadar uzatmaya Cumhurbaşkanı yetkilidir.
 Hazine ve Maliye Bakanlığı, bu maddenin uygulanması kapsamında Türkiye Cumhuriyet
 Merkez Bankası ve bankalardan gerekli veri ve bilgiyi talep edebilir. Türkiye Cumhuriyet Merkez
 Bankası veya bankalar talep edilen veri ve bilgiyi Hazine ve Maliye Bakanlığının belirleyeceği şekil ve
-süreler içerisinde vermekle yükümlü olup, (…)77
+süreler içerisinde vermekle yükümlü olup, (…)78
 Bu madde kapsamında Türkiye Cumhuriyet Merkez Bankası tarafından aktarılacak desteğin
 hak sahipliğinin tespiti ile desteğin doğru ve tam hesaplanmasından, Türk lirası vadeli mevduat ve
 katılma hesaplarının açıldığı banka sorumludur. Haksız olarak verildiği tespit edilen destek tutarı,
@@ -1849,14 +1848,17 @@ aktarımı için Hazine ve Maliye Bakanlığı bütçesinde mevcut ya da yeni a�
 eklemeye Hazine ve Maliye Bakanı yetkilidir. Bu madde kapsamında bir takvim yılı içerisinde
 bankalarca sağlanacak konut finansmanının toplam anapara tutarı 220 milyar TL’yi aşamaz.
 (2) Bu madde kapsamında, daha önce satılmamış ve yüklenicilerin mülkiyetinde olan
-konutlar ile yapımına henüz başlanmamış veya yapımı devam eden konut projelerinden konut
-edineceklere sağlanacak konut finansmanlarına katkı sağlanabilir. Yapımına henüz başlanmamış veya
-yapımı devam eden konut projeleri açısından mülkiyeti yüklenicilere geçecek konutlara ilişkin
 
-77 Anayasa Mahkemesinin 6/3/2025 Tarihli ve E: 2022/32, K: 2025/67 Sayılı Kararı ile bu fıkranın ikinci
+77 Anayasa Mahkemesinin 6/3/2025 tarihli ve E.: 2022/32, K.: 2025/67 sayılı Kararı ile bu fıkranın “…ve
+nakit kaynak aktarımı için Bakanlık bütçesinde mevcut ya da yeni açılacak tertiplere ödenek eklemeye…”
+bölümü iptal edilmiştir.
+78 Anayasa Mahkemesinin 6/3/2025 Tarihli ve E: 2022/32, K: 2025/67 Sayılı Kararı ile bu fıkranın ikinci
 cümlesinde yer alan “veri ve bilginin birinci fıkrada belirtilen amaç çerçevesinde Hazine ve Maliye
 Bakanlığına verilmesinde diğer kanunlardaki yasaklayıcı ve sınırlayıcı hükümler uygulanmaz.” bölümü
 iptal edilmiştir.
+konutlar ile yapımına henüz başlanmamış veya yapımı devam eden konut projelerinden konut
+edineceklere sağlanacak konut finansmanlarına katkı sağlanabilir. Yapımına henüz başlanmamış veya
+yapımı devam eden konut projeleri açısından mülkiyeti yüklenicilere geçecek konutlara ilişkin
 sağlanacak finansmanlar da bu kapsamda değerlendirilir. Bu madde kapsamında, gayrimenkul
 geliştiricileri ve arsa payı karşılığında inşaat sözleşmesi çerçevesinde arsa payı sahipleri de yüklenici
 olarak kabul edilir.
@@ -1994,7 +1996,7 @@ Türkiye Cumhuriyeti Devlet Demiryolları İşletmesi Genel Müdürlüğünün, 
 yürürlük tarihi itibarıyla Hazine garantili kredilerinden Hazine ve Maliye Bakanlığınca yapılan
 üstlenimlerden ve ikrazen kullandırılan kredilerinden doğan vadesi geçmiş anapara, faiz, masraf
 ve gecikme zammından oluşan Hazine alacaklarını, Türkiye Cumhuriyeti Devlet Demiryolları
-İşletmesi Genel Müdürlüğünün ödenmemiş sermayesine mahsuba ve mahsup edilen tutarları
+İşletmesi Genel Müdürlüğünün ödenmemiş sermayesine mahsuba ve ashup edilen tutarları
 geçmemek üzere Hazine ve Maliye Bakanlığı bütçesine ödenek eklemeye Hazine ve Maliye
 Bakanı yetkilidir.
 

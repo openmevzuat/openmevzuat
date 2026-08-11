@@ -1,4 +1,4 @@
-# EK MADDE 68 — Adıyaman Üniversitesi:140
+# EK MADDE 68
 
 (Ek: 1/3/2006-5467/1 md.)
 Adıyaman'da Adıyaman Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu üniversite;
@@ -6,22 +6,19 @@ a) Gaziantep Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı d
 oluşturulan ve rektörlüğe bağlanan Adıyaman Meslekî ve Teknik Eğitim Fakültesi, Eğitim
 Fakültesi ile İnönü Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Fen-Edebiyat Fakültesinden,
+b) İnönü Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
+ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
+c) Gaziantep Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
+oluşturulan ve rektörlüğe bağlanan Besni Meslek Yüksekokulu ve Gölbaşı Meslek Yüksekokulu
+ile İnönü Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve
+rektörlüğe bağlanan Meslek Yüksekokulu ile Harran Üniversitesi Rektörlüğüne bağlı iken adı ve
+bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Kâhta Meslek Yüksekokulundan,
+d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri
+Enstitüsünden,
+oluşur.
 
-140 a) 9/7/2007 tarihli ve 2007/12386 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Tıp Fakültesi
-kurulmuştur.
-b) 7/4/2008 tarihli ve 2008/13497 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve İdari
-Bilimler Fakültesi ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
-c) 24/8/2009 tarihli ve 2009/15399 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar
-Fakültesi kurulmuştur.
-ç) 2/11/2009 tarihli ve 2009/15546 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Mesleki
-ve Teknik Eğitim Fakültesi kapatılarak yerine Teknoloji Fakültesi kurulmuştur.
-d) 7/5/2010 tarihli ve 2010/430 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mimarlık
-Fakültesi kurulmuştur.
-e) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mühendislik
-Fakültesi, Sağlık Bilimleri Enstitüsü, Eczacılık Fakültesi, Diş Hekimliği Fakültesi ve Yabancı Diller Yüksekokulu
-kurulmuştur.
-f) 15/6/2011 tarihli ve 2011/2018 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi ve
-Spor Yüksekokulu kurulmuştur.
+Ordu Üniversitesi:141
+
 g) 14/11/2011 tarihli ve 2011/2471 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İslami İlimler
 Fakültesi kurulmuştur.
 ğ) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm
@@ -41,13 +38,19 @@ k) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayıl
 bünyesinde yer alan Tarım Bilimleri ve Teknolojileri Fakültesinin adı Ziraat Fakültesi olarak değiştirilmiştir.
 l) 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de yayımlanan 8785 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak İlahiyat Fakültesi kurulmuş, Rektörlük bünyesinde yer alan İslami İlimler Fakültesi kapatılmıştır.
-b) İnönü Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan
-ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
-c) Gaziantep Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Besni Meslek Yüksekokulu ve Gölbaşı Meslek Yüksekokulu
-ile İnönü Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek oluşturulan ve
-rektörlüğe bağlanan Meslek Yüksekokulu ile Harran Üniversitesi Rektörlüğüne bağlı iken adı ve
-bağlantısı değiştirilerek oluşturulan ve rektörlüğe bağlanan Kâhta Meslek Yüksekokulundan,
-d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Fen Bilimleri
-Enstitüsünden,
-oluşur.
+141 a) 25/3/2009 tarihli ve 2009/14849 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
+Fakültesi ile Güzel Sanatlar Fakültesi kurulmuştur.
+b) 1/2/2010 tarihli ve 2010/103 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi ve
+Spor Yüksekokulu kurulmuştur.
+c) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Fakültesi
+ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
+ç) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
+Fakültesi kurulmuştur.
+d) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Müzik ve Sahne
+Sanatları Fakültesi kurulmuştur.
+e) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
+Fakültesi, Turizm Fakültesi ile Yabancı Diller Yüksekokulu kurulmuş ve Rektörlük bünyesinde yer alan Sağlık
+Yüksekokulu ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kapatılmıştır.
+f) 8/3/2022 tarihli ve 31772 sayılı Resmî Gazete’de yayımlanan 5259 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Beden Eğitimi ve
+Spor Yüksekokulu kapatılmıştır.

@@ -11,8 +11,8 @@ Cumhuriyeti’nde Türk-Japon Bilim ve Teknoloji Üniversitesinin Kurulmasına D
 sayılı Türk-Japon Bilim ve Teknoloji Üniversitesinin Kuruluşu Hakkında Kanunla kurulan Türk-
 Japon Bilim ve Teknoloji Üniversitesinin Japonya Hükümeti ve/veya Japonya ülke
 kuruluşlarından kendi adına yılı yatırım programında yer almaksızın sağlayacağı dış finansmana
-bu Kanunda öngörülen usul ve esaslar çerçevesinde Hazine geri ödeme garantisi vermeye Bakan
-yetkilidir.
+bu Kanunda öngörülen usul ve esaslar çerçevesinde Hazine geri ödeme garantisi vermeye ve hibe
+almaya Bakan yetkilidir.63
 Bu madde uyarınca verilen Hazine geri ödeme garantileri kapsamında doğacak Hazine
 alacakları hakkında 6183 sayılı Kanun hükümleri uygulanır.
 

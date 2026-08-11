@@ -16,10 +16,6 @@ b. Yükseköğretim kurumlarında, öğretim faaliyetlerinin üç dönemi aşmam
 içinde kaç döneme ayrılarak sürdürüleceği; her bir dönemde alınması gereken asgari ve azami
 kredi miktarları; her bir diploma programının diplomayı almayı hak eden kişiye kazandıracağı
 bilgi, beceri ve yetkinliklerin neler olacağı ve bunların ölçme ve değerlendirmelerinin nasıl
-
-34 Bu paragraf, 21/4/2005 tarihli ve 5335 sayılı Kanunun 10 uncu maddesiyle eklenen (d) bendinin hükmüdür.
-35 Bu madde başlığı “Öğretim süresi:”iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 171 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
 yapılacağı; hazırlık sınıfı veya başka yollarla yabancı dil yeterliliğinin nasıl kazandırılacağı ve
 yabancı dil bilgi düzeyinin nasıl ölçüleceği; kayıt, devam, uygulama, tez ve teorik ders
 içerikleri, ön şartlı dersler, sınav çeşitleri ve bunların ders başarı notuna katkısı; öğrencilerin
@@ -29,9 +25,20 @@ yurt içi ve yurt dışı yükseköğretim kurumlarından alınan derslerin kred
 sağlanması; ilgili programın tamamlanmasına yönelik önceden kazanılmış yeterliliklerin
 tanınması; farklı diploma programlarından bazı derslerin alınmasıyla yandal veya çift anadal
 yapılması; diploma alınabilmesi için, uygulama, teorik, uzaktan veya açıköğretim özellikleri ile
-(…)36 (…)37 eğitim-öğretimin devamına ilişkin diğer hususlar, Yükseköğretim Kurulunun bu
+(…)38 (…)39 eğitim-öğretimin devamına ilişkin diğer hususlar, Yükseköğretim Kurulunun bu
 konularda belirlediği temel ilkelere uygun olarak yükseköğretim kurumları senatoları tarafından
 belirlenir.
+
+36 Bu paragraf, 21/4/2005 tarihli ve 5335 sayılı Kanunun 10 uncu maddesiyle eklenen (d) bendinin hükmüdür.
+37 Bu madde başlığı “Öğretim süresi:”iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 171 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
+38 19/11/2014 tarihli ve 6569 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “bu maddenin (c)
+fıkrasında belirlenen sürelerde diploma alamayan öğrenciler bakımından, müfredat değişikliği veya isimleri
+değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin
+geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği;” ibaresi madde
+metninden çıkarılmıştır.
+39 18/6/2017 tarihli ve 7033 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “eğitim-öğretim süreçlerinin
+sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve” ibaresi madde metninden çıkarılmıştır.
 c. (Değişik: 19/11/2014-6569/28 md.) Öğrenciler, bir yıl süreli yabancı dil hazırlık
 sınıfı hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her
 dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan önlisans
@@ -54,39 +61,34 @@ hazırlık sınıfını iki yıl içinde başarı ile tamamlayamayan öğrencile
 kesilir. Öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfından
 ilişiği kesilen öğrenciler kendi yükseköğretim kurumlarında öğretim dili Türkçe olan eşdeğer
 bir programa kayıt yaptırabilirler. Ayrıca bu öğrenciler, kayıtlı olduğu yükseköğretim
-
-36 19/11/2014 tarihli ve 6569 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “bu maddenin (c)
-fıkrasında belirlenen sürelerde diploma alamayan öğrenciler bakımından, müfredat değişikliği veya isimleri
-değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin
-geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği;” ibaresi madde
-metninden çıkarılmıştır.
-37 18/6/2017 tarihli ve 7033 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “eğitim-öğretim süreçlerinin
-sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve” ibaresi madde metninden çıkarılmıştır.
 kurumunda eşdeğer program bulunmaması hâlinde talep etmeleri durumunda Ölçme, Seçme
 ve Yerleştirme Merkezi Başkanlığı tarafından bir defaya mahsus olmak üzere kayıt yaptırdığı
 yıl itibarıyla, öğrencinin üniversiteye giriş puanının, yerleştirileceği programa kayıt yaptırmak
 için aranan taban puanından düşük olmaması şartıyla öğretim dili Türkçe olan programlardan
 birine merkezî olarak yerleştirilebilirler.
-Ancak bu süreler sonunda kayıtlı olduğu öğretim kurumundan mezun olabilmek için son
-sınıf öğrencilerine, başarısız oldukları bütün dersler için iki ek sınav hakkı verilir. Bu sınavlar
-sonunda başarısız ders sayısını beş derse indirenlere bu beş ders için üç yarıyıl, ek sınavları
-almadan beş derse kadar başarısız olan öğrencilere dört yarıyıl (sınıf geçme esasına göre
-öğretim yapılan kurumlarda iki öğretim yılı); bir dersten başarısız olanlara ise öğrencilik
-hakkından yararlanmaksızın sınırsız, başarısız oldukları dersin sınavlarına girme hakkı tanınır.
-İzledikleri programdan mezun olmak için gerekli bütün derslerden geçer not aldıkları hâlde
-yönetmeliklerinde başarılı sayılabilmeleri için öngörülen not ortalamalarını sağlayamamaları
-sebebiyle ilişikleri kesilme durumuna gelen son dönem (sınıf geçme esasına göre öğretim
-yapılan kurumlarda son sınıf) öğrencilerine not ortalamalarını yükseltmek üzere diledikleri
-derslerden sınırsız sınav hakkı tanınır. Bunlardan uygulamalı, uygulaması olan ve daha önce
-alınmamış dersler dışındaki derslere devam şartı aranmaz. Açılacak sınavlara, üst üste veya
-aralıklı olarak toplam üç eğitim-öğretim yılı hiç girmeyen öğrenci, sınırsız sınav hakkından
-vazgeçmiş sayılır ve bu haktan yararlanamaz. Sınırsız hak kullanma durumunda olan öğrenciler
-sınava girdiği ders başına öğrenci katkı payını/öğrenim ücretini ödemeye devam ederler. Ancak
-bu öğrenciler, sınav hakkı dışındaki diğer öğrencilik haklarından yararlanamazlar. (Değişik
-cümle: 15/4/2020-7243/6 md.) Açık öğretim öğrencileri, katkı payı veya öğrenim ücretini
-ödemeleri ve her dönem başında kayıtlarını yenilemeleri koşuluyla bu sürelerle kısıtlı değildir.
-(Ek cümle: 15/4/2020-7243/6 md.) Açık öğretim sisteminde üst üste dört dönem bu koşulları
-yerine getirmeyen öğrencinin ilgili programdan ilişiği kesilir.
+(Değişik cümle:30/7/2026-7592/4 md.) Ancak azami öğrenim süresi sonunda kayıtlı
+olduğu öğretim kurumundan mezun olabilmek için intörn eğitimi dönemi hariç son sınıf
+öğrencilerine, başarısız oldukları veya alamadıkları teorik/uygulamalı bütün dersler için iki ek
+sınav/tekrar hakkı verilir. Bu sınavlar sonunda başarısız ders sayısını beş derse indirenlere bu
+beş ders için üç yarıyıl, ek sınavları almadan beş derse kadar başarısız olan öğrencilere dört
+yarıyıl (sınıf geçme esasına göre öğretim yapılan kurumlarda iki öğretim yılı); bir dersten
+başarısız olanlara ise öğrencilik hakkından yararlanmaksızın sınırsız, başarısız oldukları dersin
+sınavlarına girme hakkı tanınır. İzledikleri programdan mezun olmak için gerekli bütün
+derslerden geçer not aldıkları hâlde yönetmeliklerinde başarılı sayılabilmeleri için öngörülen not
+ortalamalarını sağlayamamaları sebebiyle ilişikleri kesilme durumuna gelen son dönem (sınıf
+geçme esasına göre öğretim yapılan kurumlarda son sınıf) öğrencilerine not ortalamalarını
+yükseltmek üzere diledikleri derslerden sınırsız sınav hakkı tanınır. Bunlardan uygulamalı,
+uygulaması olan ve daha önce alınmamış dersler dışındaki derslere devam şartı aranmaz.
+Açılacak sınavlara, üst üste veya aralıklı olarak toplam üç eğitim-öğretim yılı hiç girmeyen
+öğrenci, sınırsız sınav hakkından vazgeçmiş sayılır ve bu haktan yararlanamaz. Sınırsız hak
+kullanma durumunda olan öğrenciler sınava girdiği ders başına öğrenci katkı payını/öğrenim
+ücretini ödemeye devam ederler. Ancak bu öğrenciler, sınav hakkı dışındaki diğer öğrencilik
+haklarından yararlanamazlar. (Değişik sekizinci ve dokuzuncu cümleler:30/7/2026-7592/4
+md.) Bu öğrencilerden teorik/uygulamalı derslerden başarılı olmuş ancak uygulamalı
+eğitime/ intörn eğitimine başlamamış veya eğitimini tamamlamamış ya da başarısız olanlara,
+uygulamalı/intörn eğitimlerini tamamlama imkânı tanınır. Azami öğrenim süresini dolduran ara
+sınıf öğrencilerine ek sınav hakkı verilmez. (Ek cümle:30/7/2026-7592/4 md.) Bu fıkranın
+uygulanmasına ilişkin usul ve esasları belirlemeye Yükseköğretim Kurulu yetkilidir.
 Derslere devam yükümlülüklerini yerine getirdikleri hâlde, yıl içi ve yıl sonu sınav
 yükümlülüklerini bu maddede belirtilen hükümlere uygun olarak yerine getiremedikleri için
 öğretim kurumları ile ilişiği kesilen hazırlık sınıfı ve birinci sınıfta en fazla bir dersten, ara

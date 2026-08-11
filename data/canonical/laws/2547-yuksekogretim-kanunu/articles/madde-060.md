@@ -1,18 +1,18 @@
-# MADDE 60 — Kurumlara dönüş:77
+# MADDE 60 — Kurumlara dönüş:84
 
 a. (Değişik: 1/11/1990 - 3676/1 md.) Bir süre öğretim üyesi olarak çalıştıktan sonra
 Cumhurbaşkanı yardımcılığına, bakanlığa veya Yasama Organı Üyeliğine seçilenler, bu
 görevlerde geçirdikleri süreler hesaba katılmak ve buna göre aylık dereceleri yükseltilmek,
 meslek unvan ve sıfatlarını kazanma ile ilgili hükümler saklı kalmak şartıyla başvurmaları
 halinde bu Kanun hükümlerine göre ayrıldıkları yükseköğretim kurumuna kadro koşulu
-aranmaksızın dönerler.78
+aranmaksızın dönerler.85
 (Ek bent: 17/9/2004-5234/2 md.) Bunlardan emekli iken yüksek öğretim kurumlarına
 dönenlerin veya yüksek öğretim kurumlarına döndükten sonra emekliliğe hak kazanıp emekli
 olanların emekli aylıkları kesilmez. (Mülga ikinci cümle: 18/6/2017-7033/17 md.) (…)
 
-76 Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.
-77 Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü maddesiyle değiştirilmiştir.
-78 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi
+83 Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.
+84 Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü maddesiyle değiştirilmiştir.
+85 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi
 “Cumhurbaşkanı yardımcılığına, bakanlığa” şeklinde değiştirilmiştir.
 b. (Değişik: 1/11/1990 - 3676/1 md.) Yükseköğretim kurumlarından, mahkeme veya
 disiplin kararları ile çıkarılanlar hariç olmak üzere herhangi bir nedenle kendi isteği ile ayrılan

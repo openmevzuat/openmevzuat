@@ -8,4 +8,4 @@ birimlerden birini veya birden fazlasını ya da bir üniversite veya yüksek te
 bağlı olmaksızın, ekonominin ihtiyaç duyduğu alanlarda yüksek nitelikli işgücü yetiştirmek
 amacıyla, bu Kanun hükümleri çerçevesinde kalmak şartıyla meslek yüksekokulu kurabilir. Bu
 meslek yüksekokulu, kamu tüzel kişiliğini haiz olup, Cumhurbaşkanı kararı ile kurulur. Kurulacak
-meslek yüksekokullarına, meslek ve teknik eğitim bölgesinde gereksinim duyulması esastır.81
+meslek yüksekokullarına, meslek ve teknik eğitim bölgesinde gereksinim duyulması esastır.88
