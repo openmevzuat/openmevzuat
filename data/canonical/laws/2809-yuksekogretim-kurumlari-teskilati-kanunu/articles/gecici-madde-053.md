@@ -5,5 +5,3 @@ Bu maddeyi ihdas eden Kanunla tüzel kişiliği sona erdirilerek Kocaeli Sağlı
 Teknoloji Üniversitesi Rektörlüğüne bağlanan Avrupa Meslek Yüksekokulunda halen
 öğrenimlerini sürdüren öğrenciler ve öğretim elemanları ile Avrupa Meslek Yüksekokulunun
 mal varlığı adı geçen Üniversiteye devredilir.
-
-Yürürlük :

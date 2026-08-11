@@ -27,6 +27,6 @@ devredileceğine dair belgeler; açılmış olan tıp programına öğrenci alab
 şartları haiz hastanesinin varlığını gösteren belgeler.
 (Değişik: 7/6/1989 - KHK-369/4 md.; Aynen Kabul: 23/11/1989 - 3589/4 md.;
 İptal: Anayasa Mahkemesinin 30/5/1990 tarihli ve E. : 1990/2, K. : 1990/10 sayılı
-Kararıyla)82
+Kararıyla)89
 (Ek: 3/4/1991-3708/5 md.; İptal: Anayasa Mahkemesinin 29/6/1992 tarihli ve E.
 1991/21, K. 1992/42 Sayılı Kararıyla.)

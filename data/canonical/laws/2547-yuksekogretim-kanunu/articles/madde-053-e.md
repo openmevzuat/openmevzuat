@@ -17,13 +17,13 @@ Genel Sekreter Yardımcısı ve Hukuk Müşavirinden teşekkül eder.
 Yüksek Disiplin Kurulu hariç, disiplin kurullarında profesörlerle ilgili hususların
 görüşülmesinde doçent ve doktor öğretim üyeleri, doçentlerle ilgili hususların görüşülmesinde
 doktor öğretim üyeleri ve kendileri ile ilgili hususların görüşülmesinde ilgili üyeler görüşmelere
-katılamazlar.58
+katılamazlar.62
 Soruşturmada görev alanlar disiplin kurullarındaki oylamalara, disiplin kurulunda
 görev alanlar ile disiplin cezası verenler bu cezalara itirazların görüşüldüğü kurullardaki
 oylamalara katılamazlar.
 Herhangi bir sebeple disiplin kurullarının teşekkül edememesi halinde eksik üyelikler
-
-58 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentler”
-ibareleri “doktor öğretim üyeleri” şeklinde değiştirilmiştir.
 eşdeğer unvana sahip öğretim üyeleri arasından senato tarafından belirlenen üyelerce tamamlanır.
+
+62 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentler”
+ibareleri “doktor öğretim üyeleri” şeklinde değiştirilmiştir.
 İtiraz:

@@ -8,6 +8,25 @@ kaydıyla, yükseköğretim kurumu yönetim kurulunun kararıyla sermaye şirket
 teknoloji transfer ofisi kurabilirler.
 Ofisin kuruluş sermayesi, bilimsel araştırma projesi kaynaklarından veya döner sermaye
 gelirlerinden karşılanabilir.
+(Ek fıkra:30/7/2026-7592/9 md.) Yükseköğretim kurumları yönetim kurulları,
+masrafları ofis sermayesinden karşılanmak şartıyla 22/12/2016 tarihli ve 6769 sayılı Sınai
+Mülkiyet Kanunu kapsamındaki hizmet buluşlarının hak sahipliğinin ofise devrine karar
+verebilir. Bu durumda yükseköğretim kurumunun ilgili mevzuattan doğan hak ve
+yükümlülükleri ofise ait olur. Ofis, kendi adına tescil edilen haklardan elde edilen gelirin üçte
+birini söz konusu hakları devreden yükseköğretim kurumu döner sermayesine, üçte birinden az
+olmayacak tutarı ise buluşu yapana ödemekle yükümlü olup kalan tutar ofise aittir. Döner
+sermayeye aktarılan bu tutarlardan Hazine payı hariç herhangi bir kesinti yapılmaz ve bu
+tutarlar 58 inci maddenin (b) fıkrasında belirtilen giderler için kullanılır. Bu fıkranın yürürlüğe
+girdiği tarihten önce hak sahipliği yükseköğretim kurumları bünyesinde olan buluş ve
+başvurular hakkında da bu madde hükümleri uygulanır.
+(Ek fıkra:30/7/2026-7592/9 md.) Birden fazla yükseköğretim kurumu ortak bir ofis
+kurmak için başvurabilir. Bu durumda yerleşkesinde veya ortağı olduğu teknoloji geliştirme
+bölgesinde ofis kurulan yükseköğretim kurumu, başvuruda muhatap kurum olarak belirtilir.
+Ofis faaliyetlerine katkı sağlayacağı değerlendirilen diğer tüzel kişiler ofise sermaye koymak
+koşulu ile ortak olabilir.
+(Ek fıkra:30/7/2026-7592/9 md.) Ofis, öz sermayesini veya gelirlerini kullanarak
+üretilen bilgi ve yapılan buluşların ticarileşmesi için yatırım yapabilir veya kamu ve özel sektör
+şirketleri ile ortaklıklar kurabilir.
 Ofiste 4857 sayılı Kanuna tabi olarak işçi statüsünde personel istihdam edilir ve
 28/7/2016 tarihli ve 6735 sayılı Uluslararası İşgücü Kanunu ve ilgili mevzuat hükümleri
 çerçevesinde yabancı uyruklu personel çalıştırılabilir. Ofis faaliyetlerinde hizmetine ihtiyaç

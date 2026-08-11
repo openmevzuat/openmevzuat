@@ -1,4 +1,4 @@
-# EK MADDE 183 — Ankara Hacı Bayram Veli Üniversitesi:274
+# EK MADDE 183 — Ankara Hacı Bayram Veli Üniversitesi:275
 
 (Ek: 9/5/2018-7141/7 md.)
 Ankara’da Ankara Hacı Bayram Veli Üniversitesi adıyla yeni bir üniversite kurulmuştur.
@@ -16,7 +16,7 @@ Meslek Yüksekokulundan,
 ç) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü Eğitim Enstitüsünden,
 oluşur.
 
-274 a) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile
+275 a) 8/1/2020 tarihli ve 31002 sayılı Resmî Gazete’ de yayımlanan 2036 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı Polatlı İlahiyat Fakültesinin adı İslami İlimler Fakültesi olarak değiştirilmiştir.
 b) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Finansal Bilimler Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Bankacılık ve

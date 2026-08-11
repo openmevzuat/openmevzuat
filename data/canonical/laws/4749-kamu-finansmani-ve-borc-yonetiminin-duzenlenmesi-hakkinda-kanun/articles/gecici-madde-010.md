@@ -9,4 +9,4 @@ Türkiye Cumhuriyetinin borçlu sıfatıyla sağlayacağı kredileri, anılan Ge
 gelir ve gider kalemleri ile ilişkilendirilmeksizin karşılıksız tahsis etmeye Cumhurbaşkanı
 yetkilidir. Bu maddeye istinaden sağlanacak krediler hakkında, 14 üncü maddenin beşinci ve
 altıncı fıkralarının 10/12/2003 tarihli ve 5018 sayılı Kanunun eki (I) sayılı cetvelde yer alan kamu
-idarelerine ilişkin hükümleri uygulanmaz.67
+idarelerine ilişkin hükümleri uygulanmaz.68

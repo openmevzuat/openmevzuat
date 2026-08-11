@@ -1,7 +1,10 @@
-# MADDE 45 — Yükseköğretime giriş ve yerleştirme:38
+# MADDE 45 — Yükseköğretime giriş ve yerleştirme:40
 
 (Değişik: 30/3/2012 - 6287/14 md.)
 Yükseköğretime giriş ve yerleştirme aşağıdaki şekilde yapılır:
+
+40 Bu maddenin başlığı “Yükseköğretime giriş” iken 30/3/2012 tarihli ve 6287 sayılı Kanunun 14 üncü maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 a. Yükseköğretim kurumlarına giriş ve yerleştirme işlemleri imkân ve fırsat eşitliğini
 sağlayacak tedbirleri almak kaydıyla, Yükseköğretim Kurulu tarafından belirlenen usul ve
 esaslara göre yapılır.
@@ -28,9 +31,6 @@ tarafından yapılır.
 g. Yükseköğretim Kurulunca belirlenecek usul ve esaslara göre, belli sanat ve spor
 dallarında üstün kabiliyetli olduğu tespit edilen öğrenciler ile Türkiye Bilimsel ve Teknolojik
 Araştırma Kurumunca tespit edilen uluslararası bilimsel yarışmalarda ödül kazanan
-
-38 Bu maddenin başlığı “Yükseköğretime giriş” iken 30/3/2012 tarihli ve 6287 sayılı Kanunun 14 üncü maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
 öğrenciler, ilgili dallarda eğitim yapmak kaydıyla yükseköğretim kurumlarına yerleştirilebilir.
 (Ek cümle: 16/2/2016-6676/4 md.) Türkiye Bilimsel ve Teknolojik Araştırma Kurumunca
 tespit edilen ve Yükseköğretim Kurulu tarafından kabul edilen ulusal ve uluslararası düzeyde

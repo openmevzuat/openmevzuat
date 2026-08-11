@@ -9,14 +9,17 @@ aktarımı için Hazine ve Maliye Bakanlığı bütçesinde mevcut ya da yeni a�
 eklemeye Hazine ve Maliye Bakanı yetkilidir. Bu madde kapsamında bir takvim yılı içerisinde
 bankalarca sağlanacak konut finansmanının toplam anapara tutarı 220 milyar TL’yi aşamaz.
 (2) Bu madde kapsamında, daha önce satılmamış ve yüklenicilerin mülkiyetinde olan
-konutlar ile yapımına henüz başlanmamış veya yapımı devam eden konut projelerinden konut
-edineceklere sağlanacak konut finansmanlarına katkı sağlanabilir. Yapımına henüz başlanmamış veya
-yapımı devam eden konut projeleri açısından mülkiyeti yüklenicilere geçecek konutlara ilişkin
 
-77 Anayasa Mahkemesinin 6/3/2025 Tarihli ve E: 2022/32, K: 2025/67 Sayılı Kararı ile bu fıkranın ikinci
+77 Anayasa Mahkemesinin 6/3/2025 tarihli ve E.: 2022/32, K.: 2025/67 sayılı Kararı ile bu fıkranın “…ve
+nakit kaynak aktarımı için Bakanlık bütçesinde mevcut ya da yeni açılacak tertiplere ödenek eklemeye…”
+bölümü iptal edilmiştir.
+78 Anayasa Mahkemesinin 6/3/2025 Tarihli ve E: 2022/32, K: 2025/67 Sayılı Kararı ile bu fıkranın ikinci
 cümlesinde yer alan “veri ve bilginin birinci fıkrada belirtilen amaç çerçevesinde Hazine ve Maliye
 Bakanlığına verilmesinde diğer kanunlardaki yasaklayıcı ve sınırlayıcı hükümler uygulanmaz.” bölümü
 iptal edilmiştir.
+konutlar ile yapımına henüz başlanmamış veya yapımı devam eden konut projelerinden konut
+edineceklere sağlanacak konut finansmanlarına katkı sağlanabilir. Yapımına henüz başlanmamış veya
+yapımı devam eden konut projeleri açısından mülkiyeti yüklenicilere geçecek konutlara ilişkin
 sağlanacak finansmanlar da bu kapsamda değerlendirilir. Bu madde kapsamında, gayrimenkul
 geliştiricileri ve arsa payı karşılığında inşaat sözleşmesi çerçevesinde arsa payı sahipleri de yüklenici
 olarak kabul edilir.

@@ -9,6 +9,9 @@ uzlaşma görüşmesinin yapılacağı gün bildirilir. Bu süre iki ayı geçem
 üst seviyeden yetkili mercii vasıtasıyla ve yazı ile Müsteşarlığa başvurması şarttır.
 Uzlaşma komisyonu Bakan tarafından Hazine alacaklarının idaresi, takibi, tahsili ve
 denetimiyle ilgili görevli personel arasından tayin edilen bir başkan ve üç üye ile Maliye
+
+63 30/7/2026 tarihli ve 7592 sayılı Kanunun 22 nci maddesiyle bu fıkraya “Hazine geri ödeme garantisi
+vermeye” ibaresinden sonra gelmek üzere “ve hibe almaya” ibaresi eklenmiştir.
 Bakanlığı, Devlet Plânlama Teşkilâtı Müsteşarlığı ve Sayıştay Başkanlığının birer temsilcisinden
 oluşur. Komisyon oy çokluğuyla karar verir. Komisyonun uzlaşabileceği miktarın alt sınırı ve
 vade yapısının genel esasları Bakan tarafından belirlenir ve uzlaşma görüşmesinden önce

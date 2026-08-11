@@ -1,7 +1,7 @@
 # MADDE 52
 
 Atama esasları:
-a. (Değişik: 17/8/1983 - 2880/29 md.) (…)47 Genel Sekreter ile daire başkanları,
+a. (Değişik: 17/8/1983 - 2880/29 md.) (…)49 Genel Sekreter ile daire başkanları,
 müdürler, hukuk müşavirleri ve uzmanlar, yükseköğretim üst kuruluşlarında ilgili kuruluşların
 görüşü alınarak Yükseköğretim Üst Kuruluşunun Başkanı; üniversitelerde ise yönetim
 kurulunun görüşü alınarak rektör tarafından atanır. Fakülte, enstitü ve yüksekokul sekreterinin
@@ -16,9 +16,6 @@ d. Yardımcı hizmetler sınıfı personeli, yükseköğretim üst kuruluşları
 ve rektörlüğe bağlı kuruluşlarda genel sekreterin önerisi üzerine başkan veya rektör,
 fakültelerde ve fakültelere bağlı kuruluşlarda fakülte sekreterinin önerisi üzerine dekanlar,
 enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür tarafından atanırlar.
-
-47 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer
-alan “Öğrenci Seçme ve Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.
 e. Yükseköğretim üst kuruluşlarının ve üniversitelerin, yönetim personeli için aylıklı
 veya sözleşmeli kadroları, yükseköğretim üst kuruluşlarında başkan, üniversitelerde ise rektör
 tarafından tespit edilir ve ilgili makamlara önerilir.

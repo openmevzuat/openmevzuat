@@ -8,10 +8,10 @@ maddesinin birinci fıkrasında belirlenen net borç kullanımı hesabına borç
 edilmez. Devir bedeli karşılığı ihraç edilen kira sertifikaları için bu Kanunda belirtilen ödenek
 şartı aranmaz.
 Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Memur ve Hizmetlileri Emekli ve
-Sağlık Yardım Sandığı Vakfına ait (C) grubu hisselerin Hazineye devredilmesi karşılığında devir
+Sağlık Yardım Sandığı Vakfına ait © grubu hisselerin Hazineye devredilmesi karşılığında devir
 bedeli olarak ihraç edilen özel tertip Devlet iç borçlanma senetleri bu Kanunun 5 inci maddesinin
 birinci fıkrasında belirlenen net borç kullanımı hesabına borçlanma olarak dahil edilmez. Ayrıca,
 Türkiye Vakıflar Bankası Türk Anonim Ortaklığı Memur ve Hizmetlileri Emekli ve Sağlık
-Yardım Sandığı Vakfına ait (C) grubu hisselerin Hazineye devredilmesi karşılığında ihraç edilen
+Yardım Sandığı Vakfına ait © grubu hisselerin Hazineye devredilmesi karşılığında ihraç edilen
 özel tertip Devlet iç borçlanma senetleri için bu Kanunun 6 ncı maddesinin ikinci fıkrası
 hükümleri uygulanmaz.

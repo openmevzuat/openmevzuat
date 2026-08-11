@@ -3,9 +3,6 @@
 (Ek: 18/1/2017-6770/25 md.)
 Toplu Konut İdaresi Başkanlığının 28/3/2001 tarihli ve 2001/2202 sayılı Bakanlar Kurulu
 Kararı uyarınca Yüksek Planlama Kurulu Kararı kapsamında ihraç ettiği borçlanma senetlerinden
-
-75 2/7/2018 tarihli ve 700 sayılı KHK’nin 141 inci maddesiyle, bu maddede yer alan “Bakanın teklifi
-üzerine Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 kaynaklı Tasfiye Halinde Türkiye Emlak Bankası A.Ş.’ye olan borçları bu maddenin yürürlüğe
 girdiği tarih esas alınarak belirlenen tutar üzerinden Müsteşarlığa nakledilir.
 Müsteşarlık, Tasfiye Halinde Türkiye Emlak Bankası A.Ş.’nin 15/11/2000 tarihli ve 4603

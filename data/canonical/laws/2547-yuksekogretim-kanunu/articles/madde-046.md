@@ -1,8 +1,11 @@
-# MADDE 46 — Cari hizmet maliyetinin hesaplanması, öğrenci katkı payları ve öğrenim ücretleri:39
+# MADDE 46 — Cari hizmet maliyetinin hesaplanması, öğrenci katkı payları ve öğrenim ücretleri:41
 
 (Değişik: 13/2/2011-6111/172 md.)
 a. Yükseköğretim kurumlarında, öğrenci başına düşen cari hizmet maliyetleri,
 yükseköğretim programlarının özellikleri göz önüne alınarak Yükseköğretim Kurulunca
+
+41 Bu madde başlığı “Cari Hizmet Maliyeti” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 172 nci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 hesaplanır. Öğrencilerden her bir dönem için birinci öğretimde öğrenci katkı payı, ikinci
 öğretim ve uzaktan öğretimde ise öğrenim ücreti alınır. Yabancı uyruklu öğrencilerden,
 birinci veya ikinci öğretim ayırımı yapılmaksızın, her bir dönem için öğrenim ücreti alınır.
@@ -16,24 +19,14 @@ tarafından hesaplanan cari hizmet maliyetlerinin Devlet tarafından karşılana
 öğrenciler tarafından karşılanacak katkı payları ve öğrenim ücretleri ile uygulamaya ilişkin
 usul ve esaslar, her yıl haziran ayı sonuna kadar Cumhurbaşkanınca belirlenir. Öğrenci katkı
 payı veya öğrenim ücretinden muaf tutulacaklar ile yabancı uyruklu öğrencilerden alınacak
-asgari öğrenim ücretlerinin tutarı Cumhurbaşkanı kararıyla belirlenir.40
-c. (…)41 bir ders için kredi başına ödenecek katkı payı veya öğrenim ücreti tutarları,
+asgari öğrenim ücretlerinin tutarı Cumhurbaşkanı kararıyla belirlenir.42
+c. (…)43 bir ders için kredi başına ödenecek katkı payı veya öğrenim ücreti tutarları,
 her bir dersin kredisinin ilgili dönemde alınması gereken toplam ders kredisine oranlanması
 sonucu bulunacak katsayının ilgili dönem için belirlenen öğrenci katkı payı veya öğrenim
-ücreti ile çarpılarak, ilgili yükseköğretim kurumunca dönem başlarında hesaplanır.42
+ücreti ile çarpılarak, ilgili yükseköğretim kurumunca dönem başlarında hesaplanır.44
 ç. (Değişik: 27/3/2015-6637/20 md.) Diploma programlarının hazırlık sınıfı eğitimi
 hariç olmak üzere, iki yıllık ön lisans ve dört, beş ve altı yıllık lisans programlarından bu süreler
 sonunda mezun olamayan öğrencilerden, ilgili dönem için öngörülen katkı payı ve öğrenim
-
-39 Bu madde başlığı “Cari Hizmet Maliyeti” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 172 nci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-40 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı ile
-Yükseköğretim Kurulunun görüşü ve Milli Eğitim Bakanlığının önerisi üzerine Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-41 27/3/2015 tarihli ve 6637 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “Bu maddenin (ç) fıkrasında
-belirtilen durumlarda her” ibaresi yürürlükten kaldırılmıştır.
-42 19/11/2014 tarihli ve 6569 sayılı Kanunun 29 uncu maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e) fıkralarında”
-ibaresi “(ç) fıkrasında” şeklinde değiştirilmiştir.
 ücreti alınır. Çift ana dal programında kayıtlı olan öğrencilerden ise diploma programının
 öğrenim süresi ve ilave bir yıl sonunda bu madde hükümlerine göre katkı payı alınır.
 Yükseköğretim Kurulu tarafından belirlenen öğrenim sürelerinde lisansüstü programlardan
@@ -47,9 +40,17 @@ kurumunun yönetim kurulunca kabul edilmeyenler, o dönem için kayıt yaptıram
 öğrencilik haklarından yararlanamaz. Ödeme güçlüğü bulunan birinci öğretim öğrencilerinin
 ödemesi gereken katkı payının tamamı, talepleri halinde Yüksek Öğrenim Kredi ve Yurtlar
 Kurumunca katkı kredisi olarak verilebilir.
+
+42 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı ile
+Yükseköğretim Kurulunun görüşü ve Milli Eğitim Bakanlığının önerisi üzerine Bakanlar Kurulunca” ibaresi
+“Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+43 27/3/2015 tarihli ve 6637 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “Bu maddenin (ç) fıkrasında
+belirtilen durumlarda her” ibaresi yürürlükten kaldırılmıştır.
+44 19/11/2014 tarihli ve 6569 sayılı Kanunun 29 uncu maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e) fıkralarında”
+ibaresi “(ç) fıkrasında” şeklinde değiştirilmiştir.
 ğ. İkinci öğretimde alınacak öğrenim ücreti, öğrenci cari hizmet maliyetinin yarısından az
 olamaz. İkinci öğretimde alınacak ücretlerin Cumhurbaşkanınca belirlenecek miktarı öğrencilerin
-başta beslenme olmak üzere barınma, sağlık, spor, kültür ve diğer sosyal hizmetlerinde kullanılır.43
+başta beslenme olmak üzere barınma, sağlık, spor, kültür ve diğer sosyal hizmetlerinde kullanılır.45
 h. Hazırlık sınıfı hariç, bulundukları bölümde her bir dönem için belirlenen asgari
 derslerden başarılı olan ve bu dersleri alan öğrencilerin başarı ortalamasına göre dönem sonu
 itibariyle yapılacak sıralamada ilk yüzde ona giren ikinci öğretim öğrencileri, bir sonraki dönemde
@@ -71,9 +72,6 @@ kurumunun cari, sermaye, transfer giderleri ile öğrencilerin kısmi zamanlı o
 çalıştırılmasına ilişkin giderlerinde kullanılır.
 j. Bu maddeye göre elde edilen gelirlerin en fazla yüzde onu, yükseköğretim kurumu
 yönetim kurulunun tespit edeceği başarılı ve gelir düzeyi düşük öğrencilerin kitap, kırtasiye
-
-43 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 ile beslenme ve barınma yardımı ödemelerinde kullanılır.
 k. Yüksek Öğrenim Kredi ve Yurtlar Kurumu tarafından burs verilenler veya burs
 alma şartlarını taşıyanlara öncelik verilmek suretiyle hizmetlerine ihtiyaç duyulan öğrenciler,
@@ -87,6 +85,9 @@ ve Yurtlar Kurumu tarafından verilmekte olan burs veya öğrenim kredisinin kes
 aynı Kuruma ait yurtlardan yararlanma hakkının kaldırılması sonucunu doğurmaz. Kısmi
 zamanlı olarak öğrenci çalıştırılmasına ilişkin haftalık çalışma süreleri ile diğer usul ve esaslar
 Maliye Bakanlığının görüşü üzerine Yükseköğretim Kurulu tarafından belirlenir.
+
+45 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
+ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 l. (Ek: 18/6/2017-7033/15 md.) Organize sanayi bölgelerinde kurulan meslek
 yüksekokulları için öğrenci başına ilgili yükseköğretim kurumlarına, Yükseköğretim Kurulu
 bütçesine bu amaçla tahsis edilen ödenekten eğitim desteği yapılabilir. Eğitim desteğinin

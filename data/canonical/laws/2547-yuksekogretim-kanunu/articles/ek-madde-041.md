@@ -3,18 +3,7 @@
 (Ek:17/10/2019-7188/5 md.)
 İlgili kanunlarda belirtilen şartlara ilave olarak, hâkim ve savcı yardımcılığı sınavına
 girmek ve avukatlık veya noterlik stajına başlamak için Hukuk Mesleklerine Giriş Sınavında
-veya İdari Yargı Ön Sınavında başarılı olmak şarttır.93
-
-90 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçent” ibaresi “doktor
-öğretim üyesi” şeklinde değiştirilmiştir.
-91 1/7/2022 tarihli ve 7417 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “%20’si” ibaresi “%30’u
-şeklinde değiştirilmiştir.
-92 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Türkiye Maarif Vakfının
-önerisi, Yükseköğretim Kurulunun olumlu görüşü ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde,
-“Dışişleri Bakanlığı, Maliye Bakanlığı ve Türkiye Maarif Vakfının görüşleri alınarak Yükseköğretim Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-93 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “hâkim adaylığı” ibaresi
-“hâkim ve savcı yardımcılığı” şeklinde değiştirilmiştir.
+veya İdari Yargı Ön Sınavında başarılı olmak şarttır.100
 Hukuk Mesleklerine Giriş Sınavına, hukuk fakültesinden mezun olanlar ile yabancı bir
 hukuk fakültesini bitirip de Türkiye’deki hukuk fakülteleri programlarına göre eksik kalan
 derslerden sınava girip başarılı olmak suretiyle denklik belgesi almış bulunanlar; İdari Yargı
@@ -26,6 +15,9 @@ a) Anayasa Hukuku,
 b) Anayasa Yargısı,
 c) İdare Hukuku,
 d) İdari Yargılama Usulü,
+
+100 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “hâkim adaylığı” ibaresi
+“hâkim ve savcı yardımcılığı” şeklinde değiştirilmiştir.
 e) Medeni Hukuk,
 f) Borçlar Hukuku,
 g) Ticaret Hukuku,
@@ -71,10 +63,10 @@ Hukuk Mesleklerine Giriş Sınavı yılda en az bir defa, İdari Yargı Ön Sın
 yılda en az bir defa olacak şekilde Adalet Bakanlığı ile imzalanacak protokole göre Ölçme,
 Seçme ve Yerleştirme Merkezi Başkanlığı tarafından yapılır.
 Sınavlar test şeklinde yapılır. Sınavlarda çoktan seçmeli en az yüz yirmi soru sorulur
-ve yüz puan üzerinden en az yetmiş puan alanlar başarılı sayılır.94
+ve yüz puan üzerinden en az yetmiş puan alanlar başarılı sayılır.101
 Sınavlara yeni alanların eklenmesi ve sınavların yapılma şekli ile sınavlara ilişkin
 diğer hususlar Hâkimler ve Savcılar Kurulu, Yükseköğretim Kurulu, Ölçme, Seçme ve
 Yerleştirme Merkezi Başkanlığı, Türkiye Barolar Birliği ve Türkiye Noterler Birliğinin
-görüşü alınarak Adalet Bakanlığı tarafından çıkarılan yönetmelikle düzenlenir.95
+görüşü alınarak Adalet Bakanlığı tarafından çıkarılan yönetmelikle düzenlenir.102
 Bu maddenin uygulanmasında hâkimlik, savcılık, avukatlık ve noterlik meslekleri
 hukuk mesleği olarak kabul edilir.

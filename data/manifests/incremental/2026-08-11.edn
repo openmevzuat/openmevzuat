@@ -1,0 +1,37 @@
+{:snapshot/date "2026-08-11",
+ :snapshot/generated-at #inst "2026-08-11T05:45:47.178-00:00",
+ :generator/name "openmevzuat",
+ :generator/version "0.1.0",
+ :documents
+ [{:document/id "law/2547",
+   :document/title "YÜKSEKÖĞRETİM KANUNU",
+   :document/path "data/canonical/laws/2547-yuksekogretim-kanunu",
+   :metadata/path "data/metadata/laws/2547-yuksekogretim-kanunu.edn",
+   :document/sha256
+   "3b9faeb016ca34a63d5add6e7026203e9cb5493ebe8f2efb518fff501e6a5cfa"}
+  {:document/id "law/2809",
+   :document/title "YÜKSEKÖĞRETİM KURUMLARI TEŞKİLATI KANUNU",
+   :document/path
+   "data/canonical/laws/2809-yuksekogretim-kurumlari-teskilati-kanunu",
+   :metadata/path
+   "data/metadata/laws/2809-yuksekogretim-kurumlari-teskilati-kanunu.edn",
+   :document/sha256
+   "36c2410d6de38960a79eb8f52eb851dcf6b576bd6d6191f828f963df289494f0"}
+  {:document/id "law/4749",
+   :document/title
+   "Kamu Finansmanı ve Borç Yönetiminin Düzenlenmesi Hakkında Kanun",
+   :document/path
+   "data/canonical/laws/4749-kamu-finansmani-ve-borc-yonetiminin-duzenlenmesi-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/4749-kamu-finansmani-ve-borc-yonetiminin-duzenlenmesi-hakkinda-kanun.edn",
+   :document/sha256
+   "46e2de04a5614e94c695330dd00e99324a2c4bfebeb0d1763472b2e1ecee4b1e"}
+  {:document/id "law/5018",
+   :document/title "KAMU MALİ YÖNETİMİ VE KONTROL KANUNU",
+   :document/path
+   "data/canonical/laws/5018-kamu-mali-yonetimi-ve-kontrol-kanunu",
+   :metadata/path
+   "data/metadata/laws/5018-kamu-mali-yonetimi-ve-kontrol-kanunu.edn",
+   :document/sha256
+   "3be59d4f6628c21019ce25f2c29a8f3c7d7a120c869f7c89673c964af705c053"}],
+ :snapshot/scope :incremental}

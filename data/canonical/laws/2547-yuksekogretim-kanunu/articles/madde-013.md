@@ -31,12 +31,12 @@ elemanlarının ve diğer personelin görev yerlerini değiştirmek veya bunlara
 görevini yapmak,
 (6) Bu kanun ile kendisine verilen diğer görevleri yapmaktır.
 Üniversitenin ve bağlı birimlerinin öğretim kapasitesinin rasyonel bir şekilde
-kullanılmasında ve geliştirilmesinde, öğrencilere gerekli sosyal hizmetlerin sağlanmasında,
-gerektiği zaman güvenlik önlemlerinin alınmasında, eğitim - öğretim, bilimsel araştırma ve
-yayım faaliyetlerinin devlet kalkınma plan, ilke ve hedefleri doğrultusunda planlanıp
 
 15 20/8/2016 tarihli ve 6745 sayılı Kanunun 14 üncü maddesiyle, bu paragrafta yer alan “beş yıl için” ibaresi
 madde metninden çıkarılmıştır.
+kullanılmasında ve geliştirilmesinde, öğrencilere gerekli sosyal hizmetlerin sağlanmasında,
+gerektiği zaman güvenlik önlemlerinin alınmasında, eğitim - öğretim, bilimsel araştırma ve
+yayım faaliyetlerinin devlet kalkınma plan, ilke ve hedefleri doğrultusunda planlanıp
 yürütülmesinde, bilimsel ve idari gözetim ve denetimin yapılmasında ve bu görevlerin alt
 birimlere aktarılmasında, takip ve kontrol edilmesinde ve sonuçlarının alınmasında birinci
 derecede yetkili ve sorumludur.

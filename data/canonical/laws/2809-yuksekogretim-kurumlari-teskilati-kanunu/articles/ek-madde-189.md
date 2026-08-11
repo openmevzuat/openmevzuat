@@ -1,4 +1,4 @@
-# EK MADDE 189 — Kayseri Üniversitesi: 279
+# EK MADDE 189 — Kayseri Üniversitesi: 280
 
 (Ek: 9/5/2018-7141/7 md.)
 Kayseri’de Kayseri Üniversitesi adıyla yeni bir üniversite kurulmuştur.

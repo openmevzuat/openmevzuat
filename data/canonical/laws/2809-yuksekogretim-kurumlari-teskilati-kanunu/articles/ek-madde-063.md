@@ -12,13 +12,32 @@ c) Atatürk Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı de
 oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, İlahiyat Meslek Yüksekokulu,
 Refahiye Meslek Yüksekokulu, Kelkit Aydın Doğan Meslek Yüksekokulu ve Tercan Meslek
 Yüksekokulu ile Fırat Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
-oluşturulan ve rektörlüğe bağlanan Kemaliye Hacı Ali Akın Meslek Yüksekokulundan,
-d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Sağlık Bilimleri
-Enstitüsü, Fen Bilimleri Enstitüsünden,
-oluşur.
 
-Aksaray Üniversitesi:133
-
+130 17/5/2007 tarihli ve 5662 sayılı Kanunun 4 üncü maddesiyle; bu maddenin (a) bendinin sonuna “ile yeni
+kurulan Tıp Fakültesinden,” ibaresi, (d) bendine “Sağlık Bilimleri Enstitüsü” ibaresi eklenmiştir.
+131 9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
+alan “Erzincan Üniversitesi” ibareleri “Erzincan Binali Yıldırım Üniversitesi” şeklinde değiştirilmiştir.
+132 a) 17/7/2008 tarihli ve 2008/13958 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve
+İdari Bilimler Fakültesi kurulmuştur.
+b) 30/3/2009 tarihli ve 2009/14846 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sivil Havacılık
+Yüksekokulu kurulmuştur.
+c) 1/3/2010 tarihli ve 2010/187 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Hacı Ali Akın
+Turizm ve Otelcilik Yüksekokulu kurulmuştur.
+ç) 1/3/2010 tarihli ve 2010/188 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Mühendislik
+Fakültesi kurulmuştur.
+d) 1/6/2010 tarihli ve 2010/503 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İlahiyat Fakültesi
+kurulmuştur.
+e) 16/1/2012 tarihli ve 2012/2731 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Beden Eğitimi
+ve Spor Yüksekokulu kurulmuştur.
+f) 5/3/2012 tarihli ve 2012/2908 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
+Yüksekokulu kurulmuştur.
+g) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eczacılık
+Fakültesi kurulmuştur.
+ğ) 7/10/2013 tarihli ve 2013/5529 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
+h) 16/2/2015 tarihli ve 2015/7329 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Kemaliye
+Hacı Ali Akın Turizm ve Otelcilik Yüksekokulunun adı Kemaliye Hacı Ali Akın Uygulamalı Bilimler Yüksekokulu
+olarak değiştirilmiştir.
 ı) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
 Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Sağlık Yüksekokulu kapatılmıştır.
 i) 4/7/2016 tarihli ve 2016/9007 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Sivil
@@ -35,19 +54,7 @@ m) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5867 sayı
 Rektörlüğe bağlı olarak Deprem Teknolojileri Enstitüsü kurulmuştur.
 n) 16/5/2025 tarihli ve 32902 sayılı Resmî Gazete’ de yayımlanan 9818 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Yabancı Diller ve Turizm Fakültesi kurulmuştur.
-133 a) 27/9/2010 tarihli ve 2010/934 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde Şereflikoçhisar
-Uygulamalı Teknoloji ve İşletmecilik Yüksekokulu kurulmuştur.
-b) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı Diller
-Yüksekokulu kurulmuştur.
-c) 14/11/2011 tarihli ve 2011/2471 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turizm İşletmeciliği
-ve Otelcilik Yüksekokulu kurulmuştur.
-ç) 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mimarlık ve
-Tasarım Fakültesi ile İletişim Fakültesi kurulmuştur.
-d) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İslami İlimler
-Fakültesi kurulmuştur.
-e) 25/7/2012 tarihli ve 2012/3527 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Veteriner
-Fakültesi kurulmuştur.
-f) 22/4/2013 tarihli ve 2013/4711 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde bulunan Turizm
-İşletmeciliği ve Otelcilik Yüksekokulunun kapatılmış ve Rektörlüğe bağlı olarak Turizm Fakültesi kurulmuştur.
-g) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Tıp Fakültesi
-kurulmuştur.
+oluşturulan ve rektörlüğe bağlanan Kemaliye Hacı Ali Akın Meslek Yüksekokulundan,
+d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü ile Sağlık Bilimleri
+Enstitüsü, Fen Bilimleri Enstitüsünden,
+oluşur.

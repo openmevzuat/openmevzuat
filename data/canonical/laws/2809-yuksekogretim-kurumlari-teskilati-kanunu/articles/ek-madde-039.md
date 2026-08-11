@@ -1,4 +1,4 @@
-# EK MADDE 39
+# EK MADDE 39 — Yeditepe Üniversitesi:97
 
 (Ek: 5/6/1996-4142/2 md.)
 İstanbul'da İstanbul Eğitim ve Kültür Vakfı tarafından, 2547 sayılı Yükseköğretim
@@ -7,18 +7,6 @@ tüzelkişiliğine sahip Yeditepe Üniversitesi adıyla yeni bir vakıf ünivers
 Bu Üniversite, Rektörlüğe bağlı olarak;
 a) Mimarlık-Mühendislik Fakültesi,
 b) Tıp Fakültesi,
-c) Fen-Edebiyat Fakültesi,
-d) İktisadi ve İdari Bilimler Fakültesi,
-e) Diş Hekimliği Fakültesi,
-f) Güzel Sanatlar Fakültesi,
-g) Hukuk Fakültesi,
-h) İletişim Fakültesi,
-ı) Yabancı Diller Yüksek Okulu,
-i) Spor Yüksek Okulu,
-j) Fen Bilimleri Enstitüsü,
-k) Sosyal Bilimler Enstitüsü
-l) Sağlık Bilimleri Enstitüsü‘nden,
-Oluşur.
 
 97 a) 18/4/2001 tarihli ve 2001/2351 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Eğitim Bilimleri
 Enstitüsü kurulmuştur.
@@ -49,3 +37,15 @@ Doğa Bilimleri Fakültesi olarak değiştirilmiştir.
 ı) 19/3/2026 tarihli ve 33201 sayılı Resmi Gazete’de yayımlanan 11097 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan Güzel Sanatlar Fakültesinin adı Sanat ve Tasarım Fakültesi, İktisadi ve İdari
 Bilimler Fakültesinin adı İşletme Fakültesi olarak değiştirilmiştir.
+c) Fen-Edebiyat Fakültesi,
+d) İktisadi ve İdari Bilimler Fakültesi,
+e) Diş Hekimliği Fakültesi,
+f) Güzel Sanatlar Fakültesi,
+g) Hukuk Fakültesi,
+h) İletişim Fakültesi,
+ı) Yabancı Diller Yüksek Okulu,
+i) Spor Yüksek Okulu,
+j) Fen Bilimleri Enstitüsü,
+k) Sosyal Bilimler Enstitüsü
+l) Sağlık Bilimleri Enstitüsü‘nden,
+Oluşur.

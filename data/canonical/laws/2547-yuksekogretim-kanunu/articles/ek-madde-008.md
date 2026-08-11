@@ -4,7 +4,7 @@
 Vakıfca kurulacak yüksekögretim kurumlarındaki akademik organlar, Devlet
 yükseköğretim kurumlarındaki akademik organlar gibi düzenlenir ve onların görevlerini
 
-83 2/4/2026 tarihli ve 7577 sayılı Kanunun 2 nci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
+90 2/4/2026 tarihli ve 7577 sayılı Kanunun 2 nci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
 üzere bu fıkraya “kurumları” ibaresinden sonra gelmek üzere “(13/6/2006 tarihli ve 5520 sayılı
 Kurumlar Vergisi Kanununun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki muafiyet
 hükmü hariç)” ibaresi eklenmiştir. Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi

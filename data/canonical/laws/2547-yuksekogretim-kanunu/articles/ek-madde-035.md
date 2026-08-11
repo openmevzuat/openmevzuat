@@ -7,6 +7,9 @@ bağımsız dış değerlendirme kurumlarının yetkilendirilmesi süreçlerine 
 Yükseköğretim kurumlarının eğitim-öğretim ve araştırma faaliyetleri ile idari hizmetlerinin
 kalite düzeylerine ilişkin ulusal ve uluslararası kalite standartlarına göre değerlendirmeler yapmak,
 iç ve dış kalite güvencesi, akreditasyon süreçleri ve bağımsız dış değerlendirme kurumlarının
+
+95 15/4/2020 tarihli ve 7243 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “40.000” ibaresi “60.000”
+şeklinde değiştirilmiştir.
 yetkilendirilmesi süreçlerini yürütmek üzere idari ve mali özerkliğe sahip, kamu tüzel kişiliğini
 haiz ve özel bütçeli Yükseköğretim Kalite Kurulu kurulmuştur.
 Yükseköğretim Kalite Kurulu;
@@ -27,9 +30,6 @@ içindeki veya yurt dışındaki yükseköğretim kurumlarında en az on yıl g�
 alanlardaki öğretim üyeleri arasından seçilir. Millî Eğitim Bakanlığı tarafından seçilen üyenin
 yükseköğretim kurumunda görev yapmakta olan, yükseköğretimin yapısı, işleyişi ve yönetimi
 ile kalite değerlendirme ve geliştirme uygulamaları konusunda deneyimli, yurt içindeki veya
-
-87 15/4/2020 tarihli ve 7243 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “40.000” ibaresi “60.000”
-şeklinde değiştirilmiştir.
 yurt dışındaki yükseköğretim kurumlarında en az on yıl görev yapmış öğretim üyesi şartlarını
 taşıması gerekir. Öğrenci temsilcisi, Yükseköğretim Kalite Kurulu tarafından belirlenecek
 ilke ve esaslar dâhilinde belirlenir. Yükseköğretim Kalite Kurulu üyelerinin 657 sayılı
@@ -47,7 +47,10 @@ geri dönerler. Görev sürelerinin bitimini müteakip asli görevlerine başlad
 ay başından itibaren asli kadrolarına ilişkin aylıklarını almaya başlarlar. Yükseköğretim Kalite
 Kurulu Başkanı ve Başkan Yardımcısı, görevleri süresince, Cumhurbaşkanınca verilecek geçici
 görevler dışında herhangi bir kamu kuruluşunda ve özel kuruluşlarda ücretli veya ücretsiz
-çalışamazlar, görev alamazlar.88
+çalışamazlar, görev alamazlar.96
+
+96 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
+ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Yükseköğretim Kalite Kurulunun teşkilatı, Kalite Kurulu ile Genel Sekreterlikten
 oluşur. Genel Sekreterlik; kurumsal dış değerlendirme ve dış değerlendirme kuruluşları tescil
 birimi, tanıtım ve paydaş ilişkileri birimi ve yönetim hizmetleri biriminden oluşur.
@@ -68,9 +71,6 @@ Başkan Yardımcısı hariç Yükseköğretim Kalite Kurulu üyelerine, Yüksek�
 Yükseköğretim Kurulu Üst Kuruluşları ile yükseköğretim kurumları kadrolarında bulunan
 memurlar, kurumlarının muvafakati ile Yükseköğretim Kalite Kurulu Başkanı tarafından her
 defasında iki yılı geçmemek üzere Yükseköğretim Kalite Kurulunda görevlendirilebilir.
-
-88 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Yükseköğretim Kalite Kurulunun çalışma usul ve esasları ile yükseköğretim
 kurumlarında kalite güvence sistemlerinin kurulması, iç ve dış değerlendirme süreçleri,
 yükseköğretim kurumlarında kurulacak kalite komisyonları, kalite değerlendirme tescil

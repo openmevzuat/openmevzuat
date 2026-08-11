@@ -9,14 +9,6 @@ Bu Üniversite, Rektörlüğe bağlı olarak;
 a) Fen-Edebiyat Fakültesinden,
 b) Mühendislik Fakültesinden,
 c) İktisadi ve İdari Bilimler Fakültesinden,
-ç) Tıp Fakültesinden,
-d) İletişim Fakültesinden,
-e) Sağlık Bilimleri Fakültesinden,
-f) Sağlık Hizmetleri Meslek Yüksekokulundan,
-g) Fen Bilimleri Enstitüsünden,
-ğ) Sosyal Bilimler Enstitüsünden,
-h) Sağlık Bilimleri Enstitüsünden,
-oluşur.
 
 147 18/6/2017 tarihli ve 7033 sayılı Kanunun 24 üncü maddesiyle, bu maddenin başlığında ve birinci fıkrasında yer
 alan “Acıbadem Üniversitesi” ibareleri “Acıbadem Mehmet Ali Aydınlar Üniversitesi” şeklinde değiştirilmiştir.
@@ -35,3 +27,11 @@ değiştirilmiştir.
 e) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5868 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan Mühendislik Fakültesinin adı Mühendislik ve Doğa Bilimleri Fakültesi olarak
 değiştirilmiştir.
+ç) Tıp Fakültesinden,
+d) İletişim Fakültesinden,
+e) Sağlık Bilimleri Fakültesinden,
+f) Sağlık Hizmetleri Meslek Yüksekokulundan,
+g) Fen Bilimleri Enstitüsünden,
+ğ) Sosyal Bilimler Enstitüsünden,
+h) Sağlık Bilimleri Enstitüsünden,
+oluşur.

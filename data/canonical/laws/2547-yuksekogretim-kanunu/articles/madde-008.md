@@ -4,7 +4,6 @@ a. Yükseköğretim Denetleme Kurulu, Yükseköğretim Kurulu adına üniversite
 bağlı birimlerini, öğretim elemanlarını ve bunların faaliyetlerini gözetim ve denetim altında
 bulunduran, Yükseköğretim Kuruluna bağlı bir kuruluştur.
 b. Kuruluş ve İşleyişi:
-
 Yükseköğretim Denetleme Kurulu:
 (1) (Değişik: 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-7070/68 md.)
 Yükseköğretim Kurulu tarafından profesörler ve bakanlık merkez teşkilatlarında en az on yıl
@@ -19,15 +18,19 @@ Yükseköğretim Denetleme Kurul Başkanı, bu kurul üyeleri arasından Yüksek
 Kurulu Başkanı tarafından atanır.
 (Değişik dördüncü fıkra : 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-
 7070/68 md.) Üyelerin görev süresi üç yıldır. Görev süreleri boyunca üyelerin kurumlarıyla
-ilişikleri kesilir. Üyelerin yaş haddi, öğretim üyelerinde olduğu gibidir.
+ilişikleri kesilir. (Değişik cümle:30/7/2026-7592/1 md.) Üyelerin Kurulda geçirdikleri
+süreler, tabi oldukları özel kanun hükümlerine göre fiilen mesleklerinde geçirilmiş sayılır ve
+terfi, birinci sınıfa ayrılma ve birinci sınıf olma sürelerinin hesabında dikkate alınır. (Ek
+cümle:30/7/2026-7592/1 md.) Üyelerin yaş haddinde, üye seçilmeden önceki kadronun yaş
+haddi esas alınır.
 (Mülga birinci cümle : 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-
-7070/68 md.) (…) Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir
-nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin kalan süresini
-tamamlamak üzere aynı statüde yenisi seçilir.
 
 9 3/10/2016 tarihli ve 676 sayılı KHK’nin 84 üncü maddesiyle bu bentte yer alan “Genelkurmay Başkanlığı”
 ibaresi “Milli Savunma Bakanlığı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı
 Kanunun 68 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+7070/68 md.) (…) Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir
+nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin kalan süresini
+tamamlamak üzere aynı statüde yenisi seçilir.
 Kurul üyelerinin ücretleri, Yükseköğretim Kurulu üyelerine ödenen ücreti geçmeyecek
 şekilde Cumhurbaşkanınca tespit edilir. Emekli olarak seçilenlerin emekli maaşlarının ödenmesine
 devam edilir.10

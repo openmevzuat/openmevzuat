@@ -1,8 +1,8 @@
-# EK MADDE 182 — İstanbul Üniversitesi-Cerrahpaşa:273
+# EK MADDE 182 — İstanbul Üniversitesi-Cerrahpaşa:274
 
 (Ek: 9/5/2018-7141/7 md.)
 
-272 a) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Ka
+273 a) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Ka
 rarı ile Rektörlüğe bağlı olarak Sanat, Tasarım ve Mimarlık Fakültesi kurulmuştur.
 b) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı Mimarlık ve Tasarım Fakültesi kapatılmıştır.
@@ -15,7 +15,7 @@ maddesiyle, Rektörlük bünyesinde bulunan Su Ürünleri Fakültesi kapatılmı
 e) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3518 sayılı Cumhurbaşkanı Kararı ile Rektörlük
 bünyesinde yer alan İşletme ve Yönetim Bilimleri Fakültesinin adı Sosyal ve Beşeri Bilimler Fakültesi olarak
 değiştirilmiştir.
-273 a) 2/8/2019 tarihli ve 30850 sayılı Resmî Gazete’ de yayımlanan 1385 sayılı Cumhurbaşkanı Kararı ile
+274 a) 2/8/2019 tarihli ve 30850 sayılı Resmî Gazete’ de yayımlanan 1385 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Nanoteknoloji ve Biyoteknoloji Enstitüsü kurulmuştur.
 b) 25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’ de yayımlanan 1157 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olan Adli Tıp Enstitüsünün adı Adli Tıp ve Adli Bilimler Enstitüsü olarak değiştirilmiştir.

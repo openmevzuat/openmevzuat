@@ -8,9 +8,6 @@ eserleri ile tanınmış kişiler, süreli veya ders saati ücreti ile görevlen
 15/4/2020-7243/3 md.) Meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen
 uzmanlık alanlarına başvuracak olanlar hariç olmak üzere öğretim görevlisi kadrosuna başvuracak
 adaylarda en az tezli yüksek lisans derecesine sahip olmak şartı aranır. Öğretim görevlileri, ilgili
-
-23 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentlik” ibaresi
-“doktor öğretim üyesi” şeklinde değiştirilmiştir.
 yönetim kurullarının görüşleri alınarak fakültelerde dekanların, rektörlüğe bağlı bölümlerde bölüm
 başkanlarının önerileri üzerine ve rektörün onayı ile öğretim üyesi, araştırma görevlisi ve öğretim
 görevlisi kadrolarına atanabilirler veya kadro şartı aranmaksızın ders saati ücreti veya sözleşmeli
@@ -19,6 +16,6 @@ atanabilirler; bu süre sonunda işgal ettikleri kadroya başvuran öğretim üy
 görevlerine devamda yarar görüldüğü takdirde aynı usulle yeniden atanabilirler. Atanma süresi
 sonunda görevleri kendiliğinden sona erer. Bunların yeniden atanmaları mümkündür. Bu takdirde
 ilk atama usulü uygulanır. Konservatuvarlar ile meslek yüksekokullarına gerektiğinde sürekli
-olarak öğretim görevlisi atanabilir.24
+olarak öğretim görevlisi atanabilir.25
 
 Okutmanlar:

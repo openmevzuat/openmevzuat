@@ -11,5 +11,3 @@ Kanununun 3 üncü maddesindeki şartları taşımaları kaydıyla, kadroların�
 üniversite tarafından 33 üncü maddenin (a) fıkrası kapsamında atamaları yapılır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Yükseköğretim
 Kurulu yetkilidir.
-
-Yürürlük:

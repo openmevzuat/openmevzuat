@@ -16,6 +16,29 @@ oluşur.
 
 Burdur Mehmet Akif Ersoy Üniversitesi:122123
 
+g) 29/4/2013 tarihli ve 2013/4716 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
+Fakültesi kurulmuştur.
+ğ) 14/8/2014 tarihli ve 2014/6728 sayılı Bakanlar Kurulu Kararı ile Rektörlük bünyesinde yer alan Sanat ve
+Tasarım Fakültesinin adı Sanat, Tasarım ve Mimarlık Fakültesi şeklinde değiştirilmiştir.
+h) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Spor Bilimleri
+Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
+ı) 26/9/2016 tarihli ve 2016/9270 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Güzel Sanatlar
+Enstitüsü kurulmuştur.
+i) 14/11/2016 tarihli ve 2016/9539 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Akçakoca Bey
+Siyasal Bilgiler Fakültesi kurulmuştur.
+j) 12/12/2016 tarihli ve 2016/9648 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Sağlık
+Bilimleri Fakültesi kurulmuştur.
+k) 12/12/2016 tarihli ve 2016/9648 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde yer alan Sağlık
+Yüksekokulu kapatılmıştır.
+l) 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayılı Cumhurbaşkanı Kararının 1
+inci maddesiyle, Rektörlük bünyesinde yer alan Teknoloji Fakültesi kapatılmıştır.
+m) 2/6/2021 tarihli ve 31499 sayılı Resmî Gazete’de yayımlanan 4055 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Eczacılık Fakültesi kurulmuştur.
+n) 29/6/2021 tarihli ve 31526 sayılı Resmî Gazete’de yayımlanan 4180 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuş, Rektörlük bünyesinde yer alan Fen Bilimleri
+Enstitüsü, Güzel Sanatlar Enstitüsü, Sağlık Bilimleri Enstitüsü ve Sosyal Bilimler Enstitüsü kapatılmıştır.
+o) 28/3/2020 tarihli ve 31082 sayılı Resmî Gazete’ de yayımlanan 2319 sayılı Cumhurbaşkanı Kararı ile
+Rektörlüğe bağlı olan Ziraat ve Doğa Bilimleri Fakültesinin adı Ziraat Fakültesi olarak değiştirilmiştir.
 ö) 1/7/2025 tarihli ve 32943 sayılı Resmî Gazete’de yayımlanan 10025 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Turizm Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Akçakoca Turizm İşletmeciliği ve
 Otelcilik Yüksekokulu kapatılmıştır.
@@ -29,26 +52,3 @@ c) 7/6/2011 tarihli ve 2011/1932 sayılı Bakanlar Kurulu Kararı ile Rektörlü
 Mimarlık Fakültesi kurulmuştur.
 ç) 27/2/2012 tarihli ve 2012/2879 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Yabancı Diller
 Yüksekokulu ile Turizm İşletmeciliği ve Otelcilik Yüksekokulu kurulmuştur.
-d) 5/7/2012 tarihli ve 2012/3449 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Bucak Sağlık
-Yüksekokulu kurulmuştur.
-e) 12/11/2012 tarihli ve 2012/3961 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
-Fakültesi kurulmuştur.
-f) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Bucak İşletme
-Fakültesi kurulmuştur.
-g) 25/1/2016 tarihli ve 2016/8562 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sağlık Bilimleri
-Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Sağlık Yüksekokulu kapatılmıştır.
-ğ) 14/3/2016 tarihli ve 2016/8700 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Sanat ve
-Tasarım Fakültesi kurulmuştur.
-h) 13/6/2016 tarihli ve 2016/8969 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Bucak Teknoloji
-Fakültesi kurulmuştur.
-ı) 29/5/2017 tarihli ve 2017/10404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Gölhisar
-Uygulamalı Bilimler Yüksekokulu kurulmuştur.
-i) 3/7/2017 tarihli ve 2017/10549 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
-Fakültesi kurulmuştur.
-j) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı olarak Spor Bilimleri Fakültesi kurulmuştur.
-k) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
-Rektörlüğe bağlı Beden Eğitimi ve Spor Yüksekokulu kapatılmıştır.
-l) 4/8/2023 tarihli ve 32269 sayılı Resmî Gazete’de yayımlanan 7477 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
-bağlı olarak Bucak Bilgisayar ve Bilişim Fakültesi kurulmuş, Rektörlük bünyesinde yer alan Bucak Teknoloji
-Fakültesi kapatılmıştır.

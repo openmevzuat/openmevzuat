@@ -1,4 +1,4 @@
-# EK MADDE 191 — İstanbul Atlas Üniversitesi:281
+# EK MADDE 191 — İstanbul Atlas Üniversitesi:283
 
 (Ek: 9/5/2018-7141/7 md.)
 İstanbul’da Türk Balkan Eğitim Kültür ve Sağlık Vakfı tarafından 2547 sayılı

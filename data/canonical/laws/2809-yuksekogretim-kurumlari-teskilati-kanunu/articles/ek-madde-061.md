@@ -1,4 +1,4 @@
-# EK MADDE 61
+# EK MADDE 61 — Recep Tayyip Erdoğan Üniversitesi:125126127
 
 (Ek: 1/3/2006-5467/1 md.)
 Rize'de Recep Tayyip Erdoğan Üniversitesi adıyla yeni bir üniversite kurulmuştur. Bu
@@ -10,13 +10,31 @@ b) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlant
 oluşturulan ve rektörlüğe bağlanan Sağlık Yüksekokulundan,
 c) Karadeniz Teknik Üniversitesi Rektörlüğüne bağlı iken adı ve bağlantısı değiştirilerek
 oluşturulan ve rektörlüğe bağlanan Meslek Yüksekokulu, Ardeşen Meslek Yüksekokulu ile Fındıklı
-Meslek Yüksekokulundan,
-d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri
-Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
-oluşur.
 
-Tekirdağ Namık Kemal Üniversitesi:128129
-
+125 30/3/2012 tarihli ve 6287 sayılı Kanunun 19 uncu maddesiyle bu maddenin “Rize Üniversitesi” olan başlığı iken
+metne işlendiği şekilde ve birinci fıkrada yer alan “Rize Üniversitesi” ibaresi “Recep Tayyip Erdoğan Üniversitesi”
+şeklinde değiştirilmiştir.
+126 a) 28/4/2008 tarihli ve 2008/13602 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve
+İdari Bilimler Fakültesi kurulmuştur.
+b) 30/3/2009 tarihli ve 2009/14947 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Turgut Kıran
+Denizcilik Yüksekokulu kurulmuştur.
+c) 7/12/2009 tarihli ve 2009/15637 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güneysu Fizik
+Tedavi ve Rehabilitasyon Yüksekokulu kurulmuştur.
+ç) 28/7/2010 tarihli ve 2010/782 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Diş Hekimliği
+Fakültesi kurulmuştur.
+d) 4/4/2011 tarihli ve 2011/1595 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Mühendislik
+Fakültesi kurulmuştur.
+e) 26/9/2011 tarihli ve 2011/2276 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Yabancı Diller
+Yüksekokulu kurulmuştur.
+f) 16/4/2012 tarihli ve 2012/3079 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Ardeşen Turizm
+ve Otelcilik Yüksekokulu, Beden Eğitimi ve Spor Yüksekokulu, Hukuk Fakültesi, Ziraat ve Doğa Bilimleri Fakültesi
+kurulmuştur.
+g) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Güzel
+Sanatlar, Tasarım ve Mimarlık Fakültesi ile Fındıklı Uygulamalı Bilimler Yüksekokulu kurulmuştur.
+ğ) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Ardeşen
+Turizm Fakültesi kurulmuştur.
+h) 25/5/2015 tarihli ve 2015/7723 sayılı Bakanlar Kurulu Kararı ile Üniversite bünyesinde yer alan Ardeşen
+Turizm ve Otelcilik Yüksekokulunun kapatılmıştır.
 ı) 16/2/2016 tarihli ve 2016/8555 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Denizcilik
 Fakültesi kurulmuş ve Rektörlük bünyesinde yer alan Turgut Kıran Denizcilik Yüksekokulu kapatılmıştır.
 i) 29/5/2017 tarihli ve 2017/10404 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olan Denizcilik
@@ -37,19 +55,7 @@ Fakültesi kapatılmıştır.
 127 30/6/2020 tarihli ve 31171 sayılı Resmî Gazete’de yayımlanan 2704 sayılı Cumhurbaşkanı Kararının 2 nci
 maddesi ile, Rektörlüğe bağlı olan Mühendislik Fakültesi ile Güzel Sanatlar, Tasarım ve Mimarlık Fakültesi;
 Mühendislik ve Mimarlık Fakültesi adı altında birleştirilmiştir.
-128 9/5/2018 tarihli ve 7141 sayılı Kanunun 6 ncı maddesiyle bu maddenin başlığında ve birinci fıkrasında yer
-alan “Namık Kemal Üniversitesi” ibareleri “Tekirdağ Namık Kemal Üniversitesi” şeklinde değiştirilmiştir.
-129 a) 2/2/2009 tarihli ve 2009/14670 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak İktisadi ve İdari
-Bilimler Fakültesi ile Yabancı Diller Yüksekokulu kurulmuştur.
-b) 7/6/2010 tarihli ve 2010/559 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Güzel Sanatlar,
-Tasarım ve Mimarlık Fakültesi kurulmuştur.
-c) 14/5/2012 tarihli ve 2012/3209 sayılı Bakanlar Kurulu Kararı ile Rektörlüğe bağlı olarak Veteriner Fakültesi
-kurulmuştur.
-ç) 24/5/2012 tarihli ve 2012/3243 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Beden Eğitimi
-ve Spor Yüksekokulu kurulmuştur.
-d) 25/6/2012 tarihli ve 2012/3363 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak İlahiyat
-Fakültesi kurulmuştur.
-e) 20/8/2015 tarihli ve 2015/8052 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Hukuk
-Fakültesi kurulmuştur.
-f) 6/2/2017 tarihli ve 2017/9889 sayılı Bakanlar Kurulu Kararı ile Üniversiteye bağlı olarak Diş Hekimliği
-Fakültesi kurulmuştur.
+Meslek Yüksekokulundan,
+d) Rektörlüğe bağlı olarak yeni kurulan Sosyal Bilimler Enstitüsü, Fen Bilimleri
+Enstitüsü ile Sağlık Bilimleri Enstitüsünden,
+oluşur.

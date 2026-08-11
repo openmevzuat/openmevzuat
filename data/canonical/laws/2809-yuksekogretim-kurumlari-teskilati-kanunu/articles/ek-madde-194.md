@@ -1,4 +1,4 @@
-# EK MADDE 194 — Isparta Uygulamalı Bilimler Üniversitesi:284
+# EK MADDE 194 — Isparta Uygulamalı Bilimler Üniversitesi:286
 
 (Ek: 9/5/2018-7141/7 md.)
 Isparta’da Isparta Uygulamalı Bilimler Üniversitesi adıyla yeni bir üniversite kurulmuştur.
@@ -7,7 +7,7 @@ a) Süleyman Demirel Üniversitesine bağlı Ziraat Fakültesinin adı ve bağla
 değiştirilerek Rektörlüğe bağlanan Ziraat Fakültesinden, Süleyman Demirel Üniversitesine bağlı
 iken bağlantısı değiştirilerek Rektörlüğe bağlanan Orman Fakültesi, Teknoloji Fakültesi, Eğirdir
 
-283 a) 18/4/2019 tarihli ve 30749 sayılı Resmi Gazete’de yayımlanan 967 sayılı Cumhurbaşkanı Kararı ile
+285 a) 18/4/2019 tarihli ve 30749 sayılı Resmi Gazete’de yayımlanan 967 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Lisansüstü Eğitim Enstitüsü kurulmuştur.
 b) 18/4/2019 tarihli ve 30749 sayılı Resmi Gazete’de yayımlanan 967 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı Fen Bilimleri Enstitüsü kapatılmıştır.
@@ -15,7 +15,7 @@ c) 26/7/2022 tarihli ve 31904 sayılı Resmî Gazete’de yayımlanan 5867 sayı
 bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 ç) 2/8/2024 tarihli ve 32620 sayılı Resmî Gazete’de yayımlanan 8785 sayılı Cumhurbaşkanı Kararı ile Rektörlüğe
 bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi kurulmuştur.
-284 a) 9/1/2019 tarihli ve 576 sayılı Cumhurbaşkanı Kararı ile Üniversiteye bağlı olarak Turizm Fakültesi kurulmuştur.
+286 a) 9/1/2019 tarihli ve 576 sayılı Cumhurbaşkanı Kararı ile Üniversiteye bağlı olarak Turizm Fakültesi kurulmuştur.
 b) 9/1/2019 tarihli ve 576 sayılı Cumhurbaşkanı Kararı ile Üniversiteye bağlı olan Eğirdir Turizm ve
 Otelcilik Yüksekokulu kapatılmıştır.
 c) 30/6/2020 tarihli ve 31171 sayılı Resmî Gazete’de yayımlanan 2704 sayılı Cumhurbaşkanı Kararının 1 inci

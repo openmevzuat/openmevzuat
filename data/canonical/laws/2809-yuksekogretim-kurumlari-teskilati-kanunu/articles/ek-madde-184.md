@@ -1,4 +1,4 @@
-# EK MADDE 184 — Sakarya Uygulamalı Bilimler Üniversitesi:275
+# EK MADDE 184 — Sakarya Uygulamalı Bilimler Üniversitesi:276
 
 (Ek: 9/5/2018-7141/7 md.)
 Sakarya’da Sakarya Uygulamalı Bilimler Üniversitesi adıyla yeni bir üniversite
@@ -28,16 +28,16 @@ Yüksekokulu ve Taraklı Meslek Yüksekokulundan,
 ç) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü Eğitim Enstitüsünden,
 oluşur.
 
-Samsun Üniversitesi:276
+Samsun Üniversitesi:277
 
-275 a) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
+276 a) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi kurulmuştur.
 b) 4/10/2019 tarihli ve 30908 sayılı Resmi Gazete’de yayımlanan 1613 sayılı Cumhurbaşkanı Kararı ile
 Rektörlük bünyesinde yer alan Uygulamalı Bilimler Yüksekokulu kapatılmıştır.
 c) 16/6/2020 tarihli ve 31157 sayılı Resmî Gazete’de yayımlanan 2654 sayılı Cumhurbaşkanı Kararının 4
 üncü maddesiyle, Rektörlüğe bağlı olan Ali Fuat Paşa Tarım Bilimleri ve Teknolojileri Fakültesinin adı Ziraat
 Fakültesi olarak değiştirilmiştir.
-276 a) 31/8/2020 tarihli ve 31230 sayılı Resmî Gazete’de yayımlanan 2916 sayılı Cumhurbaşkanı Kararı ile
+277 a) 31/8/2020 tarihli ve 31230 sayılı Resmî Gazete’de yayımlanan 2916 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Tıp Fakültesi kurulmuştur.
 b) 6/2/2021 tarihli ve 31387 sayılı Resmî Gazete’de yayımlanan 3519 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak İslami İlimler Fakültesi kurulmuştur.

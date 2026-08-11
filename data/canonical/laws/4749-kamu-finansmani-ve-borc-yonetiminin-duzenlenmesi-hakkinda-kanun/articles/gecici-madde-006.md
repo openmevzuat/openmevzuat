@@ -2,9 +2,6 @@
 
 (Ek: 31/7/2003-4969/11 md.)
 Bakü-Tiflis-Ceyhan boru hattı projesi kapsamında;
-
-63 16/7/2008 tarihli ve 5787 sayılı Kanunun 17 nci maddesiyle, bu maddede geçen "genel ve katma bütçeli
-kuruluşlar" ibaresi "genel bütçe kapsamındaki kamu idareleri" şeklinde değiştirilmiştir.
 a) Akdedilmiş olan ev sahibi ülke anlaşması, anahtar teslimi yapım sözleşmesi, hükümet
 garantisi anlaşması ve bu proje tahtındaki akdedilecek diğer anlaşmalarla ilgili belge ve sair
 dokümanların imzalanmasına,
@@ -17,4 +14,4 @@ anlaşmalarda öngörülen taraflara garanti verilmesine, bahse konu taahhütler
 c) (a) ve (b) bentlerinde belirtilen anlaşmalar ile diğer ilgili belge ve anlaşmalarla sair
 dokümanları imzalayan ve imzalayacak ilgili kamu kurum ve kuruluşlarının tespitine ve
 yetkilendirilmesine,
-Cumhurbaşkanı yetkilidir.64
+Cumhurbaşkanı yetkilidir.65

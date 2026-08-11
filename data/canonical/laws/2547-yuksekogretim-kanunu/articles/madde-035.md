@@ -1,12 +1,6 @@
 # MADDE 35
 
 Yükseköğretim kurumları; kendilerinin ve yeni kurulmuş ve kurulacak
-
-27 28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunca İçişleri
-Bakanlığına bildirilir ve iki ay içinde alınacak olumlu görüş neticesinde” ibaresi “Yükseköğretim Kurulunca verilecek
-ön izni müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni neticesinde” şeklinde değiştirilmiştir.
-28 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
 diğer yükseköğretim kurumlarının ihtiyacı için yurt içinde ve dışında, kalkınma planı ilke ve
 hedeflerine ve Yükseköğretim Kurulunun belirteceği ihtiyaca ve esaslara göre öğretim
 elemanı yetiştirirler.

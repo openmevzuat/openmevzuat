@@ -359,7 +359,6 @@ a. Yükseköğretim Denetleme Kurulu, Yükseköğretim Kurulu adına üniversite
 bağlı birimlerini, öğretim elemanlarını ve bunların faaliyetlerini gözetim ve denetim altında
 bulunduran, Yükseköğretim Kuruluna bağlı bir kuruluştur.
 b. Kuruluş ve İşleyişi:
-
 Yükseköğretim Denetleme Kurulu:
 (1) (Değişik: 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-7070/68 md.)
 Yükseköğretim Kurulu tarafından profesörler ve bakanlık merkez teşkilatlarında en az on yıl
@@ -374,15 +373,19 @@ Yükseköğretim Denetleme Kurul Başkanı, bu kurul üyeleri arasından Yüksek
 Kurulu Başkanı tarafından atanır.
 (Değişik dördüncü fıkra : 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-
 7070/68 md.) Üyelerin görev süresi üç yıldır. Görev süreleri boyunca üyelerin kurumlarıyla
-ilişikleri kesilir. Üyelerin yaş haddi, öğretim üyelerinde olduğu gibidir.
+ilişikleri kesilir. (Değişik cümle:30/7/2026-7592/1 md.) Üyelerin Kurulda geçirdikleri
+süreler, tabi oldukları özel kanun hükümlerine göre fiilen mesleklerinde geçirilmiş sayılır ve
+terfi, birinci sınıfa ayrılma ve birinci sınıf olma sürelerinin hesabında dikkate alınır. (Ek
+cümle:30/7/2026-7592/1 md.) Üyelerin yaş haddinde, üye seçilmeden önceki kadronun yaş
+haddi esas alınır.
 (Mülga birinci cümle : 3/10/2016-KHK-676/84 md.; Aynen kabul: 1/2/2018-
-7070/68 md.) (…) Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir
-nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin kalan süresini
-tamamlamak üzere aynı statüde yenisi seçilir.
 
 9 3/10/2016 tarihli ve 676 sayılı KHK’nin 84 üncü maddesiyle bu bentte yer alan “Genelkurmay Başkanlığı”
 ibaresi “Milli Savunma Bakanlığı” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı
 Kanunun 68 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+7070/68 md.) (…) Süreleri sona eren üyelerin yeniden seçilmeleri mümkündür. Herhangi bir
+nedenle üyeliğin normal süreden önce sona ermesi halinde, eski üyenin kalan süresini
+tamamlamak üzere aynı statüde yenisi seçilir.
 Kurul üyelerinin ücretleri, Yükseköğretim Kurulu üyelerine ödenen ücreti geçmeyecek
 şekilde Cumhurbaşkanınca tespit edilir. Emekli olarak seçilenlerin emekli maaşlarının ödenmesine
 devam edilir.10
@@ -418,9 +421,6 @@ MADDE 10 — Kaynak aktarımı:11
 (Değişik: 17/8/1983 - 2880/6 md.)
 (…)11
 (Mülga bir ilâ yedinci fıkra: 17/2/2011-6114/11 md.)
-(Ek fıkra: 18/6/2008-5772/1 md.) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının
-bir önceki yıla ait bütçe geliri ile bütçe gideri farkının % 25’i her yıl şubat ayı sonuna kadar
-Yükseköğretim Kurulu hesabına aktarılır. Aktarılan bu tutarı, bir yandan Yükseköğretim Kurulu
 
 10 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, 8 inci maddenin altıncı fıkrasında yer alan
 “Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde ve yedinci fıkrasında yer alan “Bakanlar
@@ -428,6 +428,9 @@ Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 11 Bu madde başlığı “Öğrenci Seçme ve Yerleştirme Merkezi:” iken, 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci
 maddesiyle metne işlendiği şekilde değiştirilmiş, maddede yer alan “Kuruluş, işleyiş ve görevleri:” ibaresi madde
 metninden çıkarılmıştır.
+(Ek fıkra: 18/6/2008-5772/1 md.) Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığının
+bir önceki yıla ait bütçe geliri ile bütçe gideri farkının % 25’i her yıl şubat ayı sonuna kadar
+Yükseköğretim Kurulu hesabına aktarılır. Aktarılan bu tutarı, bir yandan Yükseköğretim Kurulu
 bütçesinin (B) işaretli cetveline öz gelir, diğer yandan (A) işaretli cetvelin mevcut veya yeni
 açılacak tertiplerine ödenek olarak eklemeye Yükseköğretim Kurulu yetkilidir. Sermaye
 ödenekleri, yılı yatırım programı ile ilişkilendirilir.12
@@ -462,13 +465,13 @@ kapsamında yapılan her türlü harcamalar özel hesaptan karşılanır.
 aktarılan tutarların kullanımı, bu kapsamda yapılacak ödemeler ile diğer hususlara ilişkin usul
 ve esaslar Maliye Bakanlığı ile Yükseköğretim Kurulunca müştereken belirlenir. Bu
 kapsamda yapılan harcamalar 5018 sayılı Kamu Malî Yönetimi ve Kontrol Kanununa göre
-denetlenir.
-
-Üniversitelerarası Kurul:
 
 12 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “Öğrenci Seçme ve Yerleştirme
 Merkezinin önceki yıldan devreden finansman fazlasının” ibaresi “Ölçme, Seçme ve Yerleştirme Merkezi
 Başkanlığının bir önceki yıla ait bütçe geliri ile bütçe gideri farkının” olarak değiştirilmiştir.
+denetlenir.
+
+Üniversitelerarası Kurul:
 
 MADDE 11
 
@@ -505,12 +508,12 @@ faaliyetleri ile ilgili yönetmelikleri hazırlamak veya görüş bildirmek,
 (4) Aynı veya benzer nitelikteki fakültelerin ya da üniversitelere veya fakültelere bağlı
 diğer yükseköğretim kurumlarının eğitim - öğretimine ilişkin ilkeler ve süreler arasında uyum
 sağlamak,
-(5) Doktora ile ilgili esasları tespit etmek ve yurt dışında yapılan doktoraları, doçentlik
-ve profesörlük ünvanlarını değerlendirmek,
-(6) (Değişik: 22/2/2018-7100/3 md.) Doçentlik başvurularında ilgili bilim veya sanat
 
 13 22/2/2018 tarihli ve 7100 sayılı Kanunun 3 üncü maddesiyle, bu paragrafta yer alan “, Genelkurmay
 Başkanlığının Silahlı Kuvvetlerden dört yıl için seçeceği bir profesör” ibaresi madde metninden çıkarılmıştır.
+(5) Doktora ile ilgili esasları tespit etmek ve yurt dışında yapılan doktoraları, doçentlik
+ve profesörlük ünvanlarını değerlendirmek,
+(6) (Değişik: 22/2/2018-7100/3 md.) Doçentlik başvurularında ilgili bilim veya sanat
 alanında jüriler oluşturarak adayların yayın ve çalışmalarını Yükseköğretim Kurulu tarafından
 belirlenen esas ve usuller kapsamında değerlendirip, yeterli yayın ve çalışmaya sahip olan
 adaylara doçentlik unvanı vermek,
@@ -549,11 +552,12 @@ programlar yapmak, uygulamak ve yapılanlara katılmak, bununla ilgili kurumlarl
 yapmak ve çevre sorunlarına çözüm getirici önerilerde bulunmak,
 h. Eğitim teknolojisini üretmek, geliştirmek, kullanmak, yaygınlaştırmak,
 ı. Yükseköğretimin uygulamalı yapılmasına ait eğitim - öğretim esaslarını geliştirmek,
-döner sermaye işletmelerini kurmak, verimli çalıştırmak ve bu faaliyetlerin geliştirilmesine
-ilişkin gerekli düzenlemeleri yapmaktır.
 
 14 Vakıfların yükseköğretim kurumları kurabilmelerine, bu kurumların işleyişine, görev, yetki ve sorumluluklarına dair
 esaslarla ilgili olarak ek 2 - 15 inci maddelere bakınız.
+döner sermaye işletmelerini kurmak, verimli çalıştırmak ve bu faaliyetlerin geliştirilmesine
+ilişkin gerekli düzenlemeleri yapmaktır.
+
 Üniversite Organları
 Rektör:
 
@@ -590,12 +594,12 @@ elemanlarının ve diğer personelin görev yerlerini değiştirmek veya bunlara
 görevini yapmak,
 (6) Bu kanun ile kendisine verilen diğer görevleri yapmaktır.
 Üniversitenin ve bağlı birimlerinin öğretim kapasitesinin rasyonel bir şekilde
-kullanılmasında ve geliştirilmesinde, öğrencilere gerekli sosyal hizmetlerin sağlanmasında,
-gerektiği zaman güvenlik önlemlerinin alınmasında, eğitim - öğretim, bilimsel araştırma ve
-yayım faaliyetlerinin devlet kalkınma plan, ilke ve hedefleri doğrultusunda planlanıp
 
 15 20/8/2016 tarihli ve 6745 sayılı Kanunun 14 üncü maddesiyle, bu paragrafta yer alan “beş yıl için” ibaresi
 madde metninden çıkarılmıştır.
+kullanılmasında ve geliştirilmesinde, öğrencilere gerekli sosyal hizmetlerin sağlanmasında,
+gerektiği zaman güvenlik önlemlerinin alınmasında, eğitim - öğretim, bilimsel araştırma ve
+yayım faaliyetlerinin devlet kalkınma plan, ilke ve hedefleri doğrultusunda planlanıp
 yürütülmesinde, bilimsel ve idari gözetim ve denetimin yapılmasında ve bu görevlerin alt
 birimlere aktarılmasında, takip ve kontrol edilmesinde ve sonuçlarının alınmasında birinci
 derecede yetkili ve sorumludur.
@@ -956,22 +960,36 @@ MADDE 30
 
 Öğretim üyelerinin görevleri ile ilişkilerinin kesilmesini gerektiren yaş
 haddi 67 yaşını doldurdukları tarihtir.
-(Ek fıkra: 18/6/2017-7033/14 md.) Geçici 55 inci maddenin ikinci fıkrası hükmü saklı
-kalmak kaydıyla, yaş haddini dolduracakları tarihten önce başvurmuş olup sözleşme tarihi
-itibarıyla öğretim üyesi kadrolarında bulunanlardan yükseköğretim kurumlarınca belirlenen
-bölüm ve programlarda görevlerinde kalmalarında fayda görülenler, yükseköğretim kurumunun
-teklifi ve Yükseköğretim Kurulunun onayı ile emeklilik yaş hadlerini doldurdukları tarihten
-itibaren, yetmiş beş yaşını geçmemek üzere emeklilik veya yaşlılık aylığı bağlanıncaya kadar
-birer yıllık sürelerle sözleşmeli olarak çalıştırılabilirler. Bunlarla, net tutarı, en son bulundukları
-kadroları için öngörülmüş olan gösterge, ek gösterge, taban ve kıdem aylıkları, üniversite ödeneği,
-yükseköğretim tazminatı, eğitim öğretim ödeneği, geliştirme ödeneği, makam ve görev
-tazminatları ve 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesinde belirlenmiş
-olan ek ödemenin toplamından ilgili mevzuatı uyarınca vergi ve diğer kesintiler yapıldıktan sonra
-kalan net tutarı geçmemek üzere belirlenecek ücret üzerinden sözleşme yapılır. Bunların
-sigortalılık veya iştirakçilik ilişkisi önceki kadro unvanları esas alınmak suretiyle devam ettirilir.
-Öğretim üyelerinin tabi olduğu yasak, ödev ve sorumluluklar ile disipline ilişkin hükümler bu
-şekilde çalıştırılanlar hakkında da uygulanır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar
-Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulu tarafından belirlenir.
+(Ek fıkra: 18/6/2017-7033/14 md.) Öğretim üyelerinden, yaş haddini dolduracakları
+tarihten önce başvurmuş olup sözleşme tarihi itibarıyla öğretim üyesi kadrolarında bulunanlardan
+yükseköğretim kurumlarınca belirlenen bölüm ve programlarda görevlerinde kalmalarında fayda
+görülenler, yükseköğretim kurumunun görüşü ve Yükseköğretim Kurulunun kararı ile emeklilik
+yaş hadlerini doldurdukları tarihten itibaren, yetmiş beş yaşını geçmemek üzere emeklilik veya
+yaşlılık aylığı bağlanıncaya kadar ikişer yıllık sürelerle sözleşmeli olarak çalıştırılabilirler. (Ek
+cümle:30/7/2026-7592/2 md.) Bu fıkra kapsamında çalıştırılacak sözleşmeli öğretim üyesi
+sayısını bölüm, program veya yükseköğretim kurumları itibarıyla sınırlandırmaya ve uygulamanın
+hizmet gerekleri ve akademik kriterlere uygun yürütülmesi amacıyla gerekli belirlemeleri
+yapmaya Yükseköğretim Kurulu yetkilidir. Bu fıkraya göre çalıştırılacaklarla, net tutarı, en son
+bulundukları kadroları için öngörülmüş olan gösterge, ek gösterge, taban ve kıdem aylıkları,
+üniversite ödeneği, yükseköğretim tazminatı, eğitim öğretim ödeneği, geliştirme ödeneği, makam
+ve görev tazminatları ve 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesinde
+belirlenmiş olan ek ödemenin (58 inci maddenin (c) fıkrasından yararlananların ücretlerinde
+anılan ek 9 uncu madde uyarınca yapılan ek ödeme dikkate alınmaz) toplamından ilgili mevzuatı
+uyarınca vergi ve diğer kesintiler yapıldıktan sonra kalan net tutarı geçmemek üzere belirlenecek
+ücret üzerinden sözleşme yapılır. (Ek cümle:30/7/2026-7592/2 md.) Bunlar ayrıca, en son
+bulundukları kadro esas alınarak; 58 inci maddeye göre ek ödeme ile 2914 sayılı Kanunun 11 inci
+maddesine göre ek ders ücreti, 14 üncü maddesine göre geliştirme ödeneği ve ek 4 üncü
+maddesine göre de akademik teşvik ödeneğinden yararlanabilir. Bunların sigortalılık veya
+iştirakçilik ilişkisi önceki kadro unvanları esas alınmak suretiyle devam ettirilir. Öğretim
+üyelerinin tabi olduğu yasak, ödev ve sorumluluklar ile disipline ilişkin hükümler bu şekilde
+çalıştırılanlar hakkında da uygulanır. Bu fıkranın uygulanmasına ilişkin usul ve esaslar Maliye
+Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulu tarafından belirlenir.24
+
+23 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentlik” ibaresi
+“doktor öğretim üyesi” şeklinde değiştirilmiştir.
+24 30/7/2026 tarihli ve 7592 sayılı Kanunun 2 nci maddesiyle bu fıkranın birinci cümlesinde yer alan “Geçici 55
+inci maddenin ikinci fıkrası hükmü saklı kalmak kaydıyla,” ibaresi “Öğretim üyelerinden,” şeklinde,
+“yükseköğretim kurumunun teklifi” ibaresi “yükseköğretim kurumunun görüşü” şeklinde, “Yükseköğretim
 
 Öğretim görevlileri:
 
@@ -985,9 +1003,6 @@ eserleri ile tanınmış kişiler, süreli veya ders saati ücreti ile görevlen
 15/4/2020-7243/3 md.) Meslek yüksekokullarının Yükseköğretim Kurulu tarafından belirlenen
 uzmanlık alanlarına başvuracak olanlar hariç olmak üzere öğretim görevlisi kadrosuna başvuracak
 adaylarda en az tezli yüksek lisans derecesine sahip olmak şartı aranır. Öğretim görevlileri, ilgili
-
-23 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentlik” ibaresi
-“doktor öğretim üyesi” şeklinde değiştirilmiştir.
 yönetim kurullarının görüşleri alınarak fakültelerde dekanların, rektörlüğe bağlı bölümlerde bölüm
 başkanlarının önerileri üzerine ve rektörün onayı ile öğretim üyesi, araştırma görevlisi ve öğretim
 görevlisi kadrolarına atanabilirler veya kadro şartı aranmaksızın ders saati ücreti veya sözleşmeli
@@ -996,7 +1011,7 @@ atanabilirler; bu süre sonunda işgal ettikleri kadroya başvuran öğretim üy
 görevlerine devamda yarar görüldüğü takdirde aynı usulle yeniden atanabilirler. Atanma süresi
 sonunda görevleri kendiliğinden sona erer. Bunların yeniden atanmaları mümkündür. Bu takdirde
 ilk atama usulü uygulanır. Konservatuvarlar ile meslek yüksekokullarına gerektiğinde sürekli
-olarak öğretim görevlisi atanabilir.24
+olarak öğretim görevlisi atanabilir.25
 
 Okutmanlar:
 
@@ -1004,9 +1019,9 @@ MADDE 32
 
 (Mülga: 22/2/2018-7100/6 md.)
 
-(…)25
+(…)26
 
-Araştırma görevlileri:26
+Araştırma görevlileri:27
 
 MADDE 33
 
@@ -1015,6 +1030,19 @@ a) (Değişik: 12/8/1986 - KHK 260/3 md.) Araştırma görevlileri, yükseköğr
 kurumlarında yapılan araştırma, inceleme ve deneylerde yardımcı olan ve yetkili organlarca
 verilen ilgili diğer görevleri yapan öğretim elemanıdır. (Ek cümle: 15/4/2020-7243/4 md.)
 Araştırma görevlisi kadrosuna başvurabilmek için sınavın yapıldığı yılın ocak ayının birinci
+
+Kurulunun onayı” ibaresi “Yükseköğretim Kurulunun kararı” şeklinde, “birer yıllık sürelerle” ibaresi “ikişer
+yıllık sürelerle” şeklinde değiştirilmiş, fıkranın mevcut ikinci cümlesinde yer alan “Bunlarla,” ibaresi “Bu
+fıkraya göre çalıştırılacaklarla,” şeklinde değiştirilmiş ve cümleye “belirlenmiş olan ek ödemenin” ibaresinden
+sonra gelmek üzere “(58 inci maddenin (c) fıkrasından yararlananların ücretlerinde anılan ek 9 uncu madde
+uyarınca yapılan ek ödeme dikkate alınmaz)” parantez içi hüküm eklenmiştir.
+25 15/4/2020 tarihli ve 7243 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “öğretim üye yardımcısı”
+ibaresi “araştırma görevlisi” şeklinde değiştirilmiştir.
+26 17/8/1983 tarihli ve 2880 sayılı Kanunun 16 ncı maddesi ile “Öğretim Yardımcıları” olarak eklenen bu orta
+başlık, daha sonra 22/2/2018 tarihli ve 7100 sayılı Kanunun 7 nci maddesiyle yürürlükten kaldırılmıştır.
+27 Bu madde başlığı “Araştırma görevlileri, uzman, çevirici ve eğitim - öğretim planlamacıları:” iken, 22/2/2018
+tarihli ve 7100 sayılı Kanunun 7 nci maddesiyle metne işlendiği şekilde, aynı maddenin (a) fıkrasında yer alan
+“öğretim yardımcılarıdır” ibaresi “öğretim elemanıdır” şeklinde değiştirilmiştir.
 günü itibarıyla otuz beş yaşını doldurmamış olmak gerekir. Bunlar ilgili anabilim veya anasanat
 dalı başkanlarının önerisi, Bölüm Başkanı, Dekan, enstitü, yüksekokul veya konservatuvar
 müdürünün olumlu görüşü üzerine rektörün onayı ile araştırma görevlisi kadrolarına en çok üç
@@ -1029,14 +1057,6 @@ tarihli ve E. 1990/22, K. 1992/6 sayılı Kararı ile; Yeniden düzenleme: 18/5/
 hakkında yukarıdaki atama süresi ile ilgili hüküm uygulanmaz. Bu gibilerin öğrenim ücretleri ve
 yollukları dahil her çeşit sosyal ve diğer giderleri bağlı bulundukları üniversitelerin personel
 giderleri içerisinde açılacak özel tertipden ödenir. Lisansüstü eğitim - öğretim için yurt dışına
-
-24 15/4/2020 tarihli ve 7243 sayılı Kanunun 3 üncü maddesiyle, bu fıkrada yer alan “öğretim üye yardımcısı”
-ibaresi “araştırma görevlisi” şeklinde değiştirilmiştir.
-25 17/8/1983 tarihli ve 2880 sayılı Kanunun 16 ncı maddesi ile “Öğretim Yardımcıları” olarak eklenen bu orta
-başlık, daha sonra 22/2/2018 tarihli ve 7100 sayılı Kanunun 7 nci maddesiyle yürürlükten kaldırılmıştır.
-26 Bu madde başlığı “Araştırma görevlileri, uzman, çevirici ve eğitim - öğretim planlamacıları:” iken, 22/2/2018
-tarihli ve 7100 sayılı Kanunun 7 nci maddesiyle metne işlendiği şekilde, aynı maddenin (a) fıkrasında yer alan
-“öğretim yardımcılarıdır” ibaresi “öğretim elemanıdır” şeklinde değiştirilmiştir.
 gönderilen araştırma görevlileri kadrolarında bırakılırlar ve (Burslu gidenlerin biryılı aşan süreleri
 ile şahsen özel burs sağlayan ve bu burstan istifade etmesi için kurumlarınca kendilerine aylıksız
 izin verilmesi uygun görülenler hariç) aylık ve diğer her türlü ödemelerin kanuni kesintilerin
@@ -1066,7 +1086,7 @@ tabidirler.
 atanmaları veya görevlendirilmeleri, 657 sayılı Devlet Memurları Kanununun Cumhurbaşkanı
 kararını gerektiren hükümlerine tabi olmadan, Yükseköğretim Kurulunca verilecek ön izni
 müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni neticesinde ilgili
-üniversitesi ile sözleşmesi yapılır.2728
+üniversitesi ile sözleşmesi yapılır.2829
 (Ek fıkra: 2/7/2018-KHK-703/43 md.) (İptal üçüncü fıkra: Anayasa Mahkemesinin
 7/12/2023 Tarihli ve E: 2018/117, K: 2023/212 Sayılı Kararı ile.) (Yeniden Düzenlenen
 fıkra:18/6/2025-7551/7 md.) Bu madde ve 2914 sayılı Kanunun 16 ncı maddesine göre
@@ -1080,12 +1100,6 @@ vizesi, sözleşme süresinin uzatılması ve sona erdirilmesi Yükseköğretim 
 MADDE 35
 
 Yükseköğretim kurumları; kendilerinin ve yeni kurulmuş ve kurulacak
-
-27 28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunca İçişleri
-Bakanlığına bildirilir ve iki ay içinde alınacak olumlu görüş neticesinde” ibaresi “Yükseköğretim Kurulunca verilecek
-ön izni müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni neticesinde” şeklinde değiştirilmiştir.
-28 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
-“Cumhurbaşkanı” şeklinde değiştirilmiştir.
 diğer yükseköğretim kurumlarının ihtiyacı için yurt içinde ve dışında, kalkınma planı ilke ve
 hedeflerine ve Yükseköğretim Kurulunun belirteceği ihtiyaca ve esaslara göre öğretim
 elemanı yetiştirirler.
@@ -1115,6 +1129,12 @@ MADDE 36
 karşılığında telif ücreti adıyla bir bedel tahsil etmesi halinde 58 inci madde hükümleri uygulanır.
 (Değişik üçüncü fıkra: 22/2/2018-7100/8 md.) Öğretim üyesi, kadrosunun bulunduğu
 yükseköğretim birimi ile sınırlı olmaksızın ve ihtiyaç bulunması halinde görevli olduğu
+
+28 28/7/2016 tarihli ve 6735 sayılı Kanunun 27 nci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunca İçişleri
+Bakanlığına bildirilir ve iki ay içinde alınacak olumlu görüş neticesinde” ibaresi “Yükseköğretim Kurulunca verilecek
+ön izni müteakip Çalışma ve Sosyal Güvenlik Bakanlığından alınacak çalışma izni neticesinde” şeklinde değiştirilmiştir.
+29 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu” ibaresi
+“Cumhurbaşkanı” şeklinde değiştirilmiştir.
 yükseköğretim kurumunda haftada asgari on saat ders vermekle yükümlüdür. Öğretim görevlisi ise
 haftada asgari on iki saat ders vermekle yükümlüdür. Ancak yükseköğretim kurumlarının
 uygulamalı birimlerinde görev yapacak olan öğretim görevlileri için ders yükü aranmaz ve bunlara
@@ -1128,10 +1148,7 @@ araştırma görevlilerine talepleri üzerine ve üniversite yönetim kurulunun 
 ders görevi verilebilir. Bu şekilde ders görevi verilen uygulamalı birimlerde görev yapan öğretim
 görevlileri ile araştırma görevlilerine haftada on iki saati aşan ders görevleri için haftada on saate
 kadar 2914 sayılı Kanunun 11 inci maddesinde yer alan esaslar çerçevesinde öğretim görevlileri için
-belirlenmiş olan ek ders ücreti, gösterge rakamı üzerinden ek ders ücreti ile sınav ücreti ödenir.29
-
-29 15/4/2020 tarihli ve 7243 sayılı Kanunun 5 nci maddesiyle, bu fıkranın dördüncü cümlesine “yeterlik
-kazanmış olan” ibaresinden sonra gelmek üzere “22/2/2018 tarihli ve 7100 sayılı Yükseköğretim Kanunu ile
+belirlenmiş olan ek ders ücreti, gösterge rakamı üzerinden ek ders ücreti ile sınav ücreti ödenir.30
 Öğretim elemanlarının, ders dışındaki uygulama, seminer, proje, bitirme ödevi ve tez
 danışmanlıklarının kaç ders saatine karşılık geldiği; kendi üniversitesi dışındaki devlet veya
 vakıf üniversitelerine bağlı yükseköğretim kurumlarında haftada verebileceği azami ders
@@ -1153,6 +1170,13 @@ devamlı statüde çalışan profesör ve doçentler için 2914 sayılı Kanunun
 dördüncü fıkrası ile unvanlar itibarıyla belirlenen ek ders ücretlerinin on katına kadar saatlik
 sözleşme ücreti ödenebilir. Özellik arz eden faaliyetler için, Maliye Bakanlığının uygun
 görüşü üzerine Yükseköğretim Kurulu kararıyla 2914 sayılı Kanunun 11 inci maddesinin
+
+30 15/4/2020 tarihli ve 7243 sayılı Kanunun 5 nci maddesiyle, bu fıkranın dördüncü cümlesine “yeterlik
+kazanmış olan” ibaresinden sonra gelmek üzere “22/2/2018 tarihli ve 7100 sayılı Yükseköğretim Kanunu ile
+Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 34 üncü maddesinin
+ikinci fıkrası kapsamındakiler de dahil olmak üzere uygulamalı birimlerde görev yapan öğretim görevlileri ile”
+ibaresi ve beşinci cümlesine “ders görevi verilen” ibaresinden sonra gelmek üzere “uygulamalı birimlerde
+görev yapan öğretim görevlileri ile” ibaresi eklenmiştir.
 dördüncü fıkrası ile unvanlar itibarıyla belirlenen ek ders ücretlerinin on beş katına kadar
 saatlik sözleşme ücreti ödenebilir. Bu fıkra kapsamında sözleşmeli profesör ve doçentlere
 ödenecek sözleşme ücretinin yıllık toplam tutarı, üniversitenin özel bütçesinde ilgili yılda
@@ -1167,11 +1191,6 @@ istihdam edebilir. Sözleşmeler, aylık çalışma süresi seksen saati geçmem
 kadar yapılabilir. Süresi iki ayı geçmeyen sözleşmeler üniversite yönetim kurulunun kararıyla
 yapılır ve yapılan sözleşmelerin içeriği ve gerekçesi hakkında yedi gün içinde Yükseköğretim
 Kuruluna bilgi verilir. İki aydan daha uzun süreli sözleşmeler, üniversite yönetim kurulunun
-
-Bazı Kanun ve Kanun Hükmünde Kararnamelerde Değişiklik Yapılması Hakkında Kanunun 34 üncü maddesinin
-ikinci fıkrası kapsamındakiler de dahil olmak üzere uygulamalı birimlerde görev yapan öğretim görevlileri ile”
-ibaresi ve beşinci cümlesine “ders görevi verilen” ibaresinden sonra gelmek üzere “uygulamalı birimlerde
-görev yapan öğretim görevlileri ile” ibaresi eklenmiştir.
 kararı ve Yükseköğretim Kurulunun izniyle yapılır. Aynı hizmet için iki aydan sonra
 yapılacak müteakip sözleşmeler de Yükseköğretim Kurulunun iznine tabidir. Sözleşmeli
 öğretim üyelerine, bu fıkra uyarınca yapılacak ödeme dışında 58 inci maddede öngörülen ek
@@ -1179,7 +1198,7 @@ yapılacak müteakip sözleşmeler de Yükseköğretim Kurulunun iznine tabidir.
 enstitü, yüksekokul, uygulama ve araştırma merkezi müdürü, senato, yönetim kurulu ve kurul
 üyesi, bölüm başkanı, anabilim ve bilim dalı başkanı ve başhekim olamaz; bunların
 yardımcılıklarında bulunamaz ve benzeri idari görev alamaz; akademik birim yöneticiliği
-(…)30 seçimlerinde oy kullanamaz. Sözleşmeli öğretim üyesi çalıştırılmasına ilişkin usul ve
+(…)31 seçimlerinde oy kullanamaz. Sözleşmeli öğretim üyesi çalıştırılmasına ilişkin usul ve
 esaslar, bunlara yaptıkları görevlere bağlı olarak ödenecek saatlik sözleşme ücretlerinin tutarı
 ile bu fıkranın uygulanmasına ilişkin diğer hususlar Maliye Bakanlığı ile Yükseköğretim
 Kurulu tarafından müştereken belirlenir.
@@ -1194,6 +1213,9 @@ dikkate alınmaz ve çalıştırılacak öğretim üyeleri, Sağlık Bakanlığ�
 belirlenecek yüzde 50’si uygulama, yüzde 50’si de akademik faaliyetlerinden oluşacak önceki
 yılın performans kriterlerine göre belirlenir. Bu fıkra kapsamında çalıştırılan öğretim üyeleri;
 a) Aynı anda birden fazla sözleşme ile çalıştırılamaz.
+
+31 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan ‘’ve rektörlük’’ ibaresi madde
+metninden çıkarılmıştır.
 b) Aylık sözleşme ücretleri, mesai dışı toplam tavan ek ödeme brüt tutarından az olamaz.
 c) Altıncı fıkrada sayılan idari görevlerde bulunamaz.
 ç) 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve Genel Sağlık Sigortası Kanununun
@@ -1208,9 +1230,6 @@ ile iş birliği yapan özel hastanelerde yüzde 20 oranının hesabında, üniv
 ve diş tabibi dikkate alınmaz. Bunlardan ilgili mevzuata ve sözleşme hükümlerine aykırı
 davrananların, bu kapsamdaki ilgili sözleşmesi sona erdirilir ve bunlar bir yıl süreyle yeni
 sözleşme yapamaz. Aykırı davranışın üç yıl içinde tekerrüründe ise beş yıl süreyle yeni sözleşme
-
-30 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan ‘’ve rektörlük’’ ibaresi madde
-metninden çıkarılmıştır.
 yapma yasağı uygulanır.
 (Ek fıkra: 2/1/2014-6514/11 md.) Yedinci fıkranın uygulanmasına ilişkin usul ve
 esaslar, Yükseköğretim Kurulunun onayı ile üniversite yönetim kurulları tarafından belirlenir.
@@ -1226,7 +1245,7 @@ hasta muayene ve tedavisi ve bunlarla ilgili tahliller ve araştırmalar üniver
 kurulunca kabul edilecek esaslara bağlı olmak üzere yapılabilir. Bu hususta alınacak ücretler
 ilgili yükseköğretim kurumunun veya buna bağlı birimin döner sermayesine gelir kaydedilir.
 
-MADDE 38 — Kamu kuruluşları ve vakıflarda görevlendirme:31
+MADDE 38 — Kamu kuruluşları ve vakıflarda görevlendirme:32
 
 (Değişik: 29/11/1983 - KHK - 243/46 md.)
 (Değişik birinci fıkra: 21/1/2010-5947/4 md.) Öğretim elemanları; ilgili kurumların
@@ -1238,6 +1257,8 @@ kurumlarındaki aylık ve diğer ödemeler ile öteki hakları devam eder. Yüks
 bağlı birimleri ve Üniversitelerarası Kurul ile Adli Tıp Kurumunda görevlendirilenler hariç
 olmak üzere bu fıkra uyarınca görevlendirilenler döner sermayeden yararlanamaz.
 (Ek fıkra: 21/1/2010-5947/4 md.) Kamu kurumu niteliğindeki meslek kuruluşları ile
+
+32 Bu madde başlığı 17/8/1983 tarihli ve 2880 sayılı Kanunun 20 nci maddesiyle değiştirilmiştir.
 dernek ve vakıfların yönetim ve denetim organlarında görev yapanlar bakımından ayrıca bir
 görevlendirme kararı aranmaz. Ancak bu görevler, öğretim elemanının bu Kanundan kaynaklanan
 mesaisini aksatmayacak şekilde yürütülür.
@@ -1253,7 +1274,6 @@ miktarı net olarak ikinci görev aylığı şeklinde ayrıca alırlar. Bunlar g
 kurumlarca kendilerine bu suretle yapılan ödemeleri döner sermayelere yatırmak zorunda
 değildirler. Bunlara görev yapacakları kurumca bu ödeme dışında başkaca bir ödeme yapılmaz.
 
-31 Bu madde başlığı 17/8/1983 tarihli ve 2880 sayılı Kanunun 20 nci maddesiyle değiştirilmiştir.
 Yurt içinde ve yurt dışında görevlendirme:
 
 MADDE 39
@@ -1283,7 +1303,7 @@ yapılacak ödemenin miktarı Devlet memurlarına yapılacak ödemeyi geçmemek 
 yönetim kurulunca daha düşük olarak tespit edilebilir. Öğretim elemanlarından kendilerine yurt
 dışı kuruluşlarınca burs veya ücret sağlananlar, görev yapacakları sürece Yükseköğretim
 Kurulunun belirleyeceği esaslara göre üniversite yönetim kurulunun kararı ile aylıklı veya aylıksız
-izinli de sayılabilirler.32
+izinli de sayılabilirler.33
 Gerek birinci fıkraya göre geçici görev yolluğu verilmek suretiyle yurt içinde ve yurt
 dışında bir yere gönderilenler olsun,gerekse ikinci fıkraya göre gidiş-dönüş yol yevmiyesi ile
 gideri ödenmek suretiyle yurt dışına gönderilenler olsun, bunlara verilecek yolluk, emsali
@@ -1293,13 +1313,14 @@ Geçici görev yolluğu Yükseköğretim Kurumu hesabına gönderilenlere kurum 
 (Ek: 14/5/1997- 4249/2 md.) Türk Cumhuriyetleri ve Akraba Topluluklarındaki
 Yüksek Öğretim Kurumlarından resmi davet alan öğretim elemanlarına 3 yılı aşmamak
 ve bütün özlük hakları saklı kalmak üzere üniversite yönetim kurulunun kararı ve Milli
-
-32 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
-teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Eğitim Bakanlığının onayı ile aylıklı izin verilebilir. (Ek cümle: 24/5/2013- 6487/17 md.)
-Uluslararası andlaşmalarla kurulan üniversitelerde bu süre beş yıla kadar uzatılabilir.
+Uluslararası andlaşmalarla kurulan üniversitelerde ve Yükseköğretim Kurulunun taraf olduğu
+protokoller gereği ikili andlaşmalarla yurt dışındaki yükseköğretim kurumları bünyesinde
+açılan programlarda bu süre beş yıla kadar uzatılabilir.34
 
-MADDE 40 — Kurumlararası yardımlaşma:33
+Kurumlararası yardımlaşma:35
+
+MADDE 40
 
 a. Yükseköğretim kurumlarında görevli öğretim üyeleri ile öğretim görevlileri bağlı
 bulundukları fakülte veya yüksekokulda haftalık ders yükünü dolduramadıkları takdirde, kendi
@@ -1315,6 +1336,16 @@ istekte bulunan üniversitenin birimlerinde en az bir eğitim-öğretim yılı i
 görevlendirilebilirler. Bu şekilde görevlendirilenlerin kadroları beş yıl süre ile saklı tutulur.
 Açık bulunan bir öğretim üyeliği kadrosuna yapılacak atamada adayların niteliklerinde eşitlik
 olduğu durumlarda gelişmekte olan bölgelerdeki yükseköğretim kurumlarında toplam en az
+
+33 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
+teklifi üzerine Bakanlar Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
+34 30/7/2026 tarihli ve 7592 sayılı Kanunun 3 üncü maddesiyle bu fıkranın ikinci cümlesine
+“Uluslararası andlaşmalarla kurulan üniversitelerde” ibaresinden sonra gelmek üzere “ve Yükseköğretim
+Kurulunun taraf olduğu protokoller gereği ikili andlaşmalarla yurt dışındaki yükseköğretim kurumları
+bünyesinde açılan programlarda” ibaresi eklenmiştir.
+35 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu maddenin (a) fıkrasında yer alan “ders vermekle
+görevli öğretim yardımcıları” ibaresi “öğretim görevlileri”, (c) fıkrasında yer alan “Türk Silahlı Kuvvetleri ve”
+ibaresi “Millî Savunma Üniversitesi, Jandarma ve Sahil Güvenlik Akademisi ile”şeklinde değiştirilmiştir.
 beş yıl bu şekilde veya kadrolu olarak hizmet yapan öğretim üyelerine öncelik verilir. (Ek
 cümle: 19/11/2014-6569/27 md.) Vakıf yükseköğretim kurumlarına yapılacak
 görevlendirmeler toplam iki yılı geçemez ve bu şekilde görevlendirilen öğretim üyelerine
@@ -1341,10 +1372,6 @@ ihtiyaçlarının hangi yükseköğretim kurumlarından karşılanacağı, öğr
 dikkate alınarak tespit edilir ve ihtiyaçlar karşılanmak üzere ilgili üniversitelere bildirilir.
 (İptal ikinci cümle: Anayasa Mahkemesi’nin 28/4/2011 tarihli ve E.: 2009/56, K.:
 2011/71 sayılı Kararı ile.) Bu görevlendirmeler bir yarı yıldan az, dört yarı yıldan fazla
-
-33 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu maddenin (a) fıkrasında yer alan “ders vermekle
-görevli öğretim yardımcıları” ibaresi “öğretim görevlileri”, (c) fıkrasında yer alan “Türk Silahlı Kuvvetleri ve”
-ibaresi “Millî Savunma Üniversitesi, Jandarma ve Sahil Güvenlik Akademisi ile”şeklinde değiştirilmiştir.
 olmamak üzere kadroları kendi üniversitelerinde kalmak kaydıyla yapılır.
 Bu madde hükümlerine göre veya 40 ıncı maddenin (b) fıkrası hükmüne göre yapılan
 görevlendirmelerde tebligat, işten ayrılma, mehil müddeti ve işe başlama konularında Devlet
@@ -1407,10 +1434,10 @@ esasları ve mezuniyet şartları dahil, işleyişine ilişkin usûl ve esaslar 
 çıkaracağı yönetmelikle düzenlenir.
 Bu eğitim ve öğretim programlarına kayıtlı öğrencilerden alınacak öğrenim ücretleri,
 gelir ve giderleri ile harcama usûl ve esasları Maliye Bakanlığının olumlu görüşü üzerine
-Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.34
+Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle düzenlenir.36
 
 Diploma alma, ders kredilerinin hesaplanması, öğrencilik haklarından yararlanma
-ve sınavlar:35
+ve sınavlar:37
 
 MADDE 44
 
@@ -1430,10 +1457,6 @@ b. Yükseköğretim kurumlarında, öğretim faaliyetlerinin üç dönemi aşmam
 içinde kaç döneme ayrılarak sürdürüleceği; her bir dönemde alınması gereken asgari ve azami
 kredi miktarları; her bir diploma programının diplomayı almayı hak eden kişiye kazandıracağı
 bilgi, beceri ve yetkinliklerin neler olacağı ve bunların ölçme ve değerlendirmelerinin nasıl
-
-34 Bu paragraf, 21/4/2005 tarihli ve 5335 sayılı Kanunun 10 uncu maddesiyle eklenen (d) bendinin hükmüdür.
-35 Bu madde başlığı “Öğretim süresi:”iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 171 inci maddesiyle metne
-işlendiği şekilde değiştirilmiştir.
 yapılacağı; hazırlık sınıfı veya başka yollarla yabancı dil yeterliliğinin nasıl kazandırılacağı ve
 yabancı dil bilgi düzeyinin nasıl ölçüleceği; kayıt, devam, uygulama, tez ve teorik ders
 içerikleri, ön şartlı dersler, sınav çeşitleri ve bunların ders başarı notuna katkısı; öğrencilerin
@@ -1443,9 +1466,20 @@ yurt içi ve yurt dışı yükseköğretim kurumlarından alınan derslerin kred
 sağlanması; ilgili programın tamamlanmasına yönelik önceden kazanılmış yeterliliklerin
 tanınması; farklı diploma programlarından bazı derslerin alınmasıyla yandal veya çift anadal
 yapılması; diploma alınabilmesi için, uygulama, teorik, uzaktan veya açıköğretim özellikleri ile
-(…)36 (…)37 eğitim-öğretimin devamına ilişkin diğer hususlar, Yükseköğretim Kurulunun bu
+(…)38 (…)39 eğitim-öğretimin devamına ilişkin diğer hususlar, Yükseköğretim Kurulunun bu
 konularda belirlediği temel ilkelere uygun olarak yükseköğretim kurumları senatoları tarafından
 belirlenir.
+
+36 Bu paragraf, 21/4/2005 tarihli ve 5335 sayılı Kanunun 10 uncu maddesiyle eklenen (d) bendinin hükmüdür.
+37 Bu madde başlığı “Öğretim süresi:”iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 171 inci maddesiyle metne
+işlendiği şekilde değiştirilmiştir.
+38 19/11/2014 tarihli ve 6569 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “bu maddenin (c)
+fıkrasında belirlenen sürelerde diploma alamayan öğrenciler bakımından, müfredat değişikliği veya isimleri
+değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin
+geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği;” ibaresi madde
+metninden çıkarılmıştır.
+39 18/6/2017 tarihli ve 7033 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “eğitim-öğretim süreçlerinin
+sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve” ibaresi madde metninden çıkarılmıştır.
 c. (Değişik: 19/11/2014-6569/28 md.) Öğrenciler, bir yıl süreli yabancı dil hazırlık
 sınıfı hariç, kayıt olduğu programa ilişkin derslerin verildiği dönemden başlamak üzere, her
 dönem için kayıt yaptırıp yaptırmadığına bakılmaksızın öğrenim süresi iki yıl olan önlisans
@@ -1468,39 +1502,34 @@ hazırlık sınıfını iki yıl içinde başarı ile tamamlayamayan öğrencile
 kesilir. Öğretim dili tamamen veya kısmen yabancı dil olan programların hazırlık sınıfından
 ilişiği kesilen öğrenciler kendi yükseköğretim kurumlarında öğretim dili Türkçe olan eşdeğer
 bir programa kayıt yaptırabilirler. Ayrıca bu öğrenciler, kayıtlı olduğu yükseköğretim
-
-36 19/11/2014 tarihli ve 6569 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “bu maddenin (c)
-fıkrasında belirlenen sürelerde diploma alamayan öğrenciler bakımından, müfredat değişikliği veya isimleri
-değişmemekle birlikte ders içeriğinin değişmesi ya da ders içeriği değişmemekle birlikte aradan uzun bir sürenin
-geçmesi nedeniyle, daha önce başarılı olunan derslerden hangilerini yeniden almaları gerektiği;” ibaresi madde
-metninden çıkarılmıştır.
-37 18/6/2017 tarihli ve 7033 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “eğitim-öğretim süreçlerinin
-sürekli iyileştirilmesine yönelik iç ve dış kalite güvencesi uygulamaları ve” ibaresi madde metninden çıkarılmıştır.
 kurumunda eşdeğer program bulunmaması hâlinde talep etmeleri durumunda Ölçme, Seçme
 ve Yerleştirme Merkezi Başkanlığı tarafından bir defaya mahsus olmak üzere kayıt yaptırdığı
 yıl itibarıyla, öğrencinin üniversiteye giriş puanının, yerleştirileceği programa kayıt yaptırmak
 için aranan taban puanından düşük olmaması şartıyla öğretim dili Türkçe olan programlardan
 birine merkezî olarak yerleştirilebilirler.
-Ancak bu süreler sonunda kayıtlı olduğu öğretim kurumundan mezun olabilmek için son
-sınıf öğrencilerine, başarısız oldukları bütün dersler için iki ek sınav hakkı verilir. Bu sınavlar
-sonunda başarısız ders sayısını beş derse indirenlere bu beş ders için üç yarıyıl, ek sınavları
-almadan beş derse kadar başarısız olan öğrencilere dört yarıyıl (sınıf geçme esasına göre
-öğretim yapılan kurumlarda iki öğretim yılı); bir dersten başarısız olanlara ise öğrencilik
-hakkından yararlanmaksızın sınırsız, başarısız oldukları dersin sınavlarına girme hakkı tanınır.
-İzledikleri programdan mezun olmak için gerekli bütün derslerden geçer not aldıkları hâlde
-yönetmeliklerinde başarılı sayılabilmeleri için öngörülen not ortalamalarını sağlayamamaları
-sebebiyle ilişikleri kesilme durumuna gelen son dönem (sınıf geçme esasına göre öğretim
-yapılan kurumlarda son sınıf) öğrencilerine not ortalamalarını yükseltmek üzere diledikleri
-derslerden sınırsız sınav hakkı tanınır. Bunlardan uygulamalı, uygulaması olan ve daha önce
-alınmamış dersler dışındaki derslere devam şartı aranmaz. Açılacak sınavlara, üst üste veya
-aralıklı olarak toplam üç eğitim-öğretim yılı hiç girmeyen öğrenci, sınırsız sınav hakkından
-vazgeçmiş sayılır ve bu haktan yararlanamaz. Sınırsız hak kullanma durumunda olan öğrenciler
-sınava girdiği ders başına öğrenci katkı payını/öğrenim ücretini ödemeye devam ederler. Ancak
-bu öğrenciler, sınav hakkı dışındaki diğer öğrencilik haklarından yararlanamazlar. (Değişik
-cümle: 15/4/2020-7243/6 md.) Açık öğretim öğrencileri, katkı payı veya öğrenim ücretini
-ödemeleri ve her dönem başında kayıtlarını yenilemeleri koşuluyla bu sürelerle kısıtlı değildir.
-(Ek cümle: 15/4/2020-7243/6 md.) Açık öğretim sisteminde üst üste dört dönem bu koşulları
-yerine getirmeyen öğrencinin ilgili programdan ilişiği kesilir.
+(Değişik cümle:30/7/2026-7592/4 md.) Ancak azami öğrenim süresi sonunda kayıtlı
+olduğu öğretim kurumundan mezun olabilmek için intörn eğitimi dönemi hariç son sınıf
+öğrencilerine, başarısız oldukları veya alamadıkları teorik/uygulamalı bütün dersler için iki ek
+sınav/tekrar hakkı verilir. Bu sınavlar sonunda başarısız ders sayısını beş derse indirenlere bu
+beş ders için üç yarıyıl, ek sınavları almadan beş derse kadar başarısız olan öğrencilere dört
+yarıyıl (sınıf geçme esasına göre öğretim yapılan kurumlarda iki öğretim yılı); bir dersten
+başarısız olanlara ise öğrencilik hakkından yararlanmaksızın sınırsız, başarısız oldukları dersin
+sınavlarına girme hakkı tanınır. İzledikleri programdan mezun olmak için gerekli bütün
+derslerden geçer not aldıkları hâlde yönetmeliklerinde başarılı sayılabilmeleri için öngörülen not
+ortalamalarını sağlayamamaları sebebiyle ilişikleri kesilme durumuna gelen son dönem (sınıf
+geçme esasına göre öğretim yapılan kurumlarda son sınıf) öğrencilerine not ortalamalarını
+yükseltmek üzere diledikleri derslerden sınırsız sınav hakkı tanınır. Bunlardan uygulamalı,
+uygulaması olan ve daha önce alınmamış dersler dışındaki derslere devam şartı aranmaz.
+Açılacak sınavlara, üst üste veya aralıklı olarak toplam üç eğitim-öğretim yılı hiç girmeyen
+öğrenci, sınırsız sınav hakkından vazgeçmiş sayılır ve bu haktan yararlanamaz. Sınırsız hak
+kullanma durumunda olan öğrenciler sınava girdiği ders başına öğrenci katkı payını/öğrenim
+ücretini ödemeye devam ederler. Ancak bu öğrenciler, sınav hakkı dışındaki diğer öğrencilik
+haklarından yararlanamazlar. (Değişik sekizinci ve dokuzuncu cümleler:30/7/2026-7592/4
+md.) Bu öğrencilerden teorik/uygulamalı derslerden başarılı olmuş ancak uygulamalı
+eğitime/ intörn eğitimine başlamamış veya eğitimini tamamlamamış ya da başarısız olanlara,
+uygulamalı/intörn eğitimlerini tamamlama imkânı tanınır. Azami öğrenim süresini dolduran ara
+sınıf öğrencilerine ek sınav hakkı verilmez. (Ek cümle:30/7/2026-7592/4 md.) Bu fıkranın
+uygulanmasına ilişkin usul ve esasları belirlemeye Yükseköğretim Kurulu yetkilidir.
 Derslere devam yükümlülüklerini yerine getirdikleri hâlde, yıl içi ve yıl sonu sınav
 yükümlülüklerini bu maddede belirtilen hükümlere uygun olarak yerine getiremedikleri için
 öğretim kurumları ile ilişiği kesilen hazırlık sınıfı ve birinci sınıfta en fazla bir dersten, ara
@@ -1564,10 +1593,13 @@ f. Yükseköğretim kurumları ile iş dünyası ve diğer paydaşlar arasındak
 geliştirmek amacıyla danışma kurulları oluşturulabilir. Danışma kurullarının oluşumu ve
 görevleri Yükseköğretim Kurulu tarafından çıkarılacak bir yönetmelikle düzenlenir.
 
-MADDE 45 — Yükseköğretime giriş ve yerleştirme:38
+MADDE 45 — Yükseköğretime giriş ve yerleştirme:40
 
 (Değişik: 30/3/2012 - 6287/14 md.)
 Yükseköğretime giriş ve yerleştirme aşağıdaki şekilde yapılır:
+
+40 Bu maddenin başlığı “Yükseköğretime giriş” iken 30/3/2012 tarihli ve 6287 sayılı Kanunun 14 üncü maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 a. Yükseköğretim kurumlarına giriş ve yerleştirme işlemleri imkân ve fırsat eşitliğini
 sağlayacak tedbirleri almak kaydıyla, Yükseköğretim Kurulu tarafından belirlenen usul ve
 esaslara göre yapılır.
@@ -1594,9 +1626,6 @@ tarafından yapılır.
 g. Yükseköğretim Kurulunca belirlenecek usul ve esaslara göre, belli sanat ve spor
 dallarında üstün kabiliyetli olduğu tespit edilen öğrenciler ile Türkiye Bilimsel ve Teknolojik
 Araştırma Kurumunca tespit edilen uluslararası bilimsel yarışmalarda ödül kazanan
-
-38 Bu maddenin başlığı “Yükseköğretime giriş” iken 30/3/2012 tarihli ve 6287 sayılı Kanunun 14 üncü maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
 öğrenciler, ilgili dallarda eğitim yapmak kaydıyla yükseköğretim kurumlarına yerleştirilebilir.
 (Ek cümle: 16/2/2016-6676/4 md.) Türkiye Bilimsel ve Teknolojik Araştırma Kurumunca
 tespit edilen ve Yükseköğretim Kurulu tarafından kabul edilen ulusal ve uluslararası düzeyde
@@ -1605,11 +1634,14 @@ programlarına yerleştirilmelerinde, merkezi sınavlardan almış oldukları pu
 maddenin (b) bendine göre hesaplanan ortaöğretim başarı puanı ve bu puanın Yükseköğretim
 Kurulu tarafından tespit edilecek katsayı ile çarpımı sonucu bulunacak puan eklenir.
 
-MADDE 46 — Cari hizmet maliyetinin hesaplanması, öğrenci katkı payları ve öğrenim ücretleri:39
+MADDE 46 — Cari hizmet maliyetinin hesaplanması, öğrenci katkı payları ve öğrenim ücretleri:41
 
 (Değişik: 13/2/2011-6111/172 md.)
 a. Yükseköğretim kurumlarında, öğrenci başına düşen cari hizmet maliyetleri,
 yükseköğretim programlarının özellikleri göz önüne alınarak Yükseköğretim Kurulunca
+
+41 Bu madde başlığı “Cari Hizmet Maliyeti” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 172 nci maddesiyle
+metne işlendiği şekilde değiştirilmiştir.
 hesaplanır. Öğrencilerden her bir dönem için birinci öğretimde öğrenci katkı payı, ikinci
 öğretim ve uzaktan öğretimde ise öğrenim ücreti alınır. Yabancı uyruklu öğrencilerden,
 birinci veya ikinci öğretim ayırımı yapılmaksızın, her bir dönem için öğrenim ücreti alınır.
@@ -1623,24 +1655,14 @@ tarafından hesaplanan cari hizmet maliyetlerinin Devlet tarafından karşılana
 öğrenciler tarafından karşılanacak katkı payları ve öğrenim ücretleri ile uygulamaya ilişkin
 usul ve esaslar, her yıl haziran ayı sonuna kadar Cumhurbaşkanınca belirlenir. Öğrenci katkı
 payı veya öğrenim ücretinden muaf tutulacaklar ile yabancı uyruklu öğrencilerden alınacak
-asgari öğrenim ücretlerinin tutarı Cumhurbaşkanı kararıyla belirlenir.40
-c. (…)41 bir ders için kredi başına ödenecek katkı payı veya öğrenim ücreti tutarları,
+asgari öğrenim ücretlerinin tutarı Cumhurbaşkanı kararıyla belirlenir.42
+c. (…)43 bir ders için kredi başına ödenecek katkı payı veya öğrenim ücreti tutarları,
 her bir dersin kredisinin ilgili dönemde alınması gereken toplam ders kredisine oranlanması
 sonucu bulunacak katsayının ilgili dönem için belirlenen öğrenci katkı payı veya öğrenim
-ücreti ile çarpılarak, ilgili yükseköğretim kurumunca dönem başlarında hesaplanır.42
+ücreti ile çarpılarak, ilgili yükseköğretim kurumunca dönem başlarında hesaplanır.44
 ç. (Değişik: 27/3/2015-6637/20 md.) Diploma programlarının hazırlık sınıfı eğitimi
 hariç olmak üzere, iki yıllık ön lisans ve dört, beş ve altı yıllık lisans programlarından bu süreler
 sonunda mezun olamayan öğrencilerden, ilgili dönem için öngörülen katkı payı ve öğrenim
-
-39 Bu madde başlığı “Cari Hizmet Maliyeti” iken, 13/2/2011 tarihli ve 6111 sayılı Kanunun 172 nci maddesiyle
-metne işlendiği şekilde değiştirilmiştir.
-40 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı ile
-Yükseköğretim Kurulunun görüşü ve Milli Eğitim Bakanlığının önerisi üzerine Bakanlar Kurulunca” ibaresi
-“Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-41 27/3/2015 tarihli ve 6637 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “Bu maddenin (ç) fıkrasında
-belirtilen durumlarda her” ibaresi yürürlükten kaldırılmıştır.
-42 19/11/2014 tarihli ve 6569 sayılı Kanunun 29 uncu maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e) fıkralarında”
-ibaresi “(ç) fıkrasında” şeklinde değiştirilmiştir.
 ücreti alınır. Çift ana dal programında kayıtlı olan öğrencilerden ise diploma programının
 öğrenim süresi ve ilave bir yıl sonunda bu madde hükümlerine göre katkı payı alınır.
 Yükseköğretim Kurulu tarafından belirlenen öğrenim sürelerinde lisansüstü programlardan
@@ -1654,9 +1676,17 @@ kurumunun yönetim kurulunca kabul edilmeyenler, o dönem için kayıt yaptıram
 öğrencilik haklarından yararlanamaz. Ödeme güçlüğü bulunan birinci öğretim öğrencilerinin
 ödemesi gereken katkı payının tamamı, talepleri halinde Yüksek Öğrenim Kredi ve Yurtlar
 Kurumunca katkı kredisi olarak verilebilir.
+
+42 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Maliye Bakanlığı ile
+Yükseköğretim Kurulunun görüşü ve Milli Eğitim Bakanlığının önerisi üzerine Bakanlar Kurulunca” ibaresi
+“Cumhurbaşkanınca” şeklinde, “Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+43 27/3/2015 tarihli ve 6637 sayılı Kanunun 23 üncü maddesiyle bu fıkrada yer alan “Bu maddenin (ç) fıkrasında
+belirtilen durumlarda her” ibaresi yürürlükten kaldırılmıştır.
+44 19/11/2014 tarihli ve 6569 sayılı Kanunun 29 uncu maddesiyle, bu fıkrada yer alan “(ç), (d) ve (e) fıkralarında”
+ibaresi “(ç) fıkrasında” şeklinde değiştirilmiştir.
 ğ. İkinci öğretimde alınacak öğrenim ücreti, öğrenci cari hizmet maliyetinin yarısından az
 olamaz. İkinci öğretimde alınacak ücretlerin Cumhurbaşkanınca belirlenecek miktarı öğrencilerin
-başta beslenme olmak üzere barınma, sağlık, spor, kültür ve diğer sosyal hizmetlerinde kullanılır.43
+başta beslenme olmak üzere barınma, sağlık, spor, kültür ve diğer sosyal hizmetlerinde kullanılır.45
 h. Hazırlık sınıfı hariç, bulundukları bölümde her bir dönem için belirlenen asgari
 derslerden başarılı olan ve bu dersleri alan öğrencilerin başarı ortalamasına göre dönem sonu
 itibariyle yapılacak sıralamada ilk yüzde ona giren ikinci öğretim öğrencileri, bir sonraki dönemde
@@ -1678,9 +1708,6 @@ kurumunun cari, sermaye, transfer giderleri ile öğrencilerin kısmi zamanlı o
 çalıştırılmasına ilişkin giderlerinde kullanılır.
 j. Bu maddeye göre elde edilen gelirlerin en fazla yüzde onu, yükseköğretim kurumu
 yönetim kurulunun tespit edeceği başarılı ve gelir düzeyi düşük öğrencilerin kitap, kırtasiye
-
-43 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 ile beslenme ve barınma yardımı ödemelerinde kullanılır.
 k. Yüksek Öğrenim Kredi ve Yurtlar Kurumu tarafından burs verilenler veya burs
 alma şartlarını taşıyanlara öncelik verilmek suretiyle hizmetlerine ihtiyaç duyulan öğrenciler,
@@ -1694,6 +1721,9 @@ ve Yurtlar Kurumu tarafından verilmekte olan burs veya öğrenim kredisinin kes
 aynı Kuruma ait yurtlardan yararlanma hakkının kaldırılması sonucunu doğurmaz. Kısmi
 zamanlı olarak öğrenci çalıştırılmasına ilişkin haftalık çalışma süreleri ile diğer usul ve esaslar
 Maliye Bakanlığının görüşü üzerine Yükseköğretim Kurulu tarafından belirlenir.
+
+45 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
+ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 l. (Ek: 18/6/2017-7033/15 md.) Organize sanayi bölgelerinde kurulan meslek
 yüksekokulları için öğrenci başına ilgili yükseköğretim kurumlarına, Yükseköğretim Kurulu
 bütçesine bu amaçla tahsis edilen ödenekten eğitim desteği yapılabilir. Eğitim desteğinin
@@ -1722,7 +1752,7 @@ yetiştirilmesi bakımından, devlet kalkınma planları ilke ve hedeflerine gö
 Kurulu tarafından belirtilir. Burslu öğrencilerin harçları ile laboratuvar, sınav ve diploma
 masrafları burs kapsamına girer.
 
-MADDE 48 — Ders kitapları ve eğitim-öğretim araçlarının basılıp çoğaltılması:44
+MADDE 48 — Ders kitapları ve eğitim-öğretim araçlarının basılıp çoğaltılması:46
 
 (Değişik: 26/6/2001 - 4689/1 md.)
 Üniversitelerde ders kitapları, bilgisayar ve elektronik ortamlarda hazırlanan eğitim-
@@ -1735,6 +1765,9 @@ yönetim kurulunca yazılı olarak bildirilen kitapları kendilerinin bastırma 
 Ders kitapları, bilgisayar ve elektronik ortamlarda hazırlanan eğitim-öğretim ve uzaktan
 öğretim ilkelerine göre oluşturulan her türlü materyalle ilgili olarak uygulanacak esaslar ve
 ödenecek telif hakları Maliye Bakanlığının uygun görüşü üzerine Yükseköğretim Kurulunca
+
+46 Bu maddenin başlığı, “Ders kitapları ve teksirlerin basılması” iken, 26/6/2001 tarih ve 4689 sayılı Kanunun 1 inci
+maddesiyle metne işlendiği şekilde değiştirilmiştir.
 belirlenir.
 
 Yabancı dil hazırlık eğitim - öğretimi:
@@ -1757,20 +1790,13 @@ Usul ve şartları;
 a. Lisans düzeyinde öğrenim gördükten sonra, yükseköğretim kurumlarında yüksek
 lisans, veteriner hekimlikte uzmanlık, doktora ya da tıpta uzmanlık öğrenimi yapmak
 isteyenler, yükseköğretim kurumlarınca usulüne göre açılacak sınavla ve Üniversitelerarası
-Kurulca tespit edilecek esaslara göre seçilirler.45
+Kurulca tespit edilecek esaslara göre seçilirler.47
 b. Yükseköğretim kurumları, lisans üstü öğretim konusundaki istekleri karşılamak
 üzere gerekli planlamayı yapar ve önlemleri alır.
 c. (Mülga: 1/8/1996-4160/5 md.)
 d) Lisans üstü öğretim yapan öğrenciler, kendilerine tahsis edilebilecek burslardan
 yararlanabilecekleri gibi, her defasında bir yıl için olmak üzere araştırma görevlisi kadrosuna
-da atanabilirler.46
-
-44 Bu maddenin başlığı, “Ders kitapları ve teksirlerin basılması” iken, 26/6/2001 tarih ve 4689 sayılı Kanunun 1 inci
-maddesiyle metne işlendiği şekilde değiştirilmiştir.
-45 19/11/2014 tarihli ve 6569 sayılı Kanunun 30 uncu maddesiyle, bu bende “yüksek lisans” ibaresinden sonra
-gelmek üzere “, veteriner hekimlikte uzmanlık” ibaresi eklenmiştir.
-46 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu bentte yer alan “öğretim yardımcılığı
-kadrolarından birine de” ibaresi “araştırma görevlisi kadrosuna da”şeklinde değiştirilmiştir.
+da atanabilirler.48
 e. Tıpta uzmanlık öğrenimi yapanlara verilecek aylık veya ödeneklerin tespitinde, aynı
 durumda bulunan Sağlık ve Sosyal Yardım Bakanlığındaki personelin aylık ve ödenekleri
 gözönünde tutulur.
@@ -1787,6 +1813,11 @@ müdürler, danışmanlar, hukuk müşavirleri, uzmanlar ile büro ve iç hizmet
 üzere, 657 sayılı Devlet Memurları Kanununa tabi memurlar ve diğer görevliler bulunur.
 Daire başkanlıkları ve müdürlükler üst kuruluşlarda kurulların, üniversitelerde yönetim
 kurulunun kararı ile genel hükümlere göre kurulur.
+
+47 19/11/2014 tarihli ve 6569 sayılı Kanunun 30 uncu maddesiyle, bu bende “yüksek lisans” ibaresinden sonra
+gelmek üzere “, veteriner hekimlikte uzmanlık” ibaresi eklenmiştir.
+48 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu bentte yer alan “öğretim yardımcılığı
+kadrolarından birine de” ibaresi “araştırma görevlisi kadrosuna da”şeklinde değiştirilmiştir.
 b. Her fakültede, dekana bağlı ve fakülte yönetim örgütünün başında bir fakülte
 sekreteri, enstitü ve yüksekokullarda ise enstitü veya yüksekokul müdürüne bağlı enstitü veya
 yüksekokul sekreteri bulunur. Sekretere bağlı büro ve iç hizmet görevlerini yapmak üzere
@@ -1800,7 +1831,7 @@ Atamalar:
 MADDE 52
 
 Atama esasları:
-a. (Değişik: 17/8/1983 - 2880/29 md.) (…)47 Genel Sekreter ile daire başkanları,
+a. (Değişik: 17/8/1983 - 2880/29 md.) (…)49 Genel Sekreter ile daire başkanları,
 müdürler, hukuk müşavirleri ve uzmanlar, yükseköğretim üst kuruluşlarında ilgili kuruluşların
 görüşü alınarak Yükseköğretim Üst Kuruluşunun Başkanı; üniversitelerde ise yönetim
 kurulunun görüşü alınarak rektör tarafından atanır. Fakülte, enstitü ve yüksekokul sekreterinin
@@ -1815,9 +1846,6 @@ d. Yardımcı hizmetler sınıfı personeli, yükseköğretim üst kuruluşları
 ve rektörlüğe bağlı kuruluşlarda genel sekreterin önerisi üzerine başkan veya rektör,
 fakültelerde ve fakültelere bağlı kuruluşlarda fakülte sekreterinin önerisi üzerine dekanlar,
 enstitü ve yüksekokullarda sekreterin önerisi üzerine müdür tarafından atanırlar.
-
-47 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer
-alan “Öğrenci Seçme ve Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.
 e. Yükseköğretim üst kuruluşlarının ve üniversitelerin, yönetim personeli için aylıklı
 veya sözleşmeli kadroları, yükseköğretim üst kuruluşlarında başkan, üniversitelerde ise rektör
 tarafından tespit edilir ve ilgili makamlara önerilir.
@@ -1833,7 +1861,10 @@ Genel esaslar:
 MADDE 53
 
 a. (Değişik: 2/12/2016 - 6764/26 md.) Yükseköğretim Kurulu Başkanı üst kuruluşlar,
-rektörler ve bağımsız vakıf meslek yüksekokulu müdürlerinin (…)48; rektör, üniversitenin;
+
+49 17/2/2011 tarihli ve 6114 sayılı Kanunun 11 inci maddesiyle, bu maddenin birinci fıkrasının (a) bendinde yer
+alan “Öğrenci Seçme ve Yerleştirme Merkezi Başkanı,” ibaresi madde metninden çıkarılmıştır.
+rektörler ve bağımsız vakıf meslek yüksekokulu müdürlerinin (…)50; rektör, üniversitenin;
 bağımsız vakıf meslek yüksekokulu müdürü, bağımsız vakıf meslek yüksekokulunun; dekan,
 fakültenin; enstitü ve yüksekokul müdürleri, enstitü ve yüksekokulların; kadrosu bulunan
 uygulama araştırma merkezi ile bağımsız enstitü müdürleri, uygulama araştırma merkezi ile
@@ -1845,7 +1876,7 @@ kesme, kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme, ün
 mesleğinden çıkarma ve kamu görevinden çıkarma cezalarıdır. (Ek cümleler: 15/4/2020-
 7243/7 md.) Öğretim elemanları dışında iş sözleşmesiyle çalışan personel 22/5/2003 tarihli ve
 4857 sayılı İş Kanunu ve iş sözleşmesi veya toplu iş sözleşmesine tabidir. Memurlar hakkında
-ise 657 sayılı Devlet Memurları Kanununun 125 inci maddesi uygulanır.48
+ise 657 sayılı Devlet Memurları Kanununun 125 inci maddesi uygulanır.50
 (1) (Değişik: 15/4/2020-7243/7 md.) Uyarma: Öğretim elemanına, görevinde ve
 davranışlarında daha dikkatli olması gerektiğinin yazı ile bildirilmesidir. Uyarma cezasını
 gerektiren fiiller şunlardır:
@@ -1855,14 +1886,9 @@ kurum veya kuruluşlar ile bunların katkılarını belirtmemek.
 c) Görevin tam ve zamanında yapılmasında, görev mahallinde kurumlarca belirlenen
 usul ve esasların yerine getirilmesinde, kayıtsızlık göstermek veya düzensiz davranmak.
 d) Usulsüz müracaat veya şikayette bulunmak.
-
-48 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, (a) fıkrasında yer alan “ve 53/Ç maddesinin
-birinci fıkrasının (e) bendinde yer alan fiillerle ilgili olarak öğretim elemanlarının” ibaresi madde metninden
-çıkarılmış, (b) fıkrasının birinci paragrafında yer alan “elemanları, memur ve diğer personeline” ibaresi
-“elemanlarına” şeklinde değiştirilmiştir.
 (2) (Ek cümle: 15/4/2020-7243/7 md.) Kınama: Öğretim elemanına, görevinde ve
 davranışlarında kusurlu olduğunun yazı ile bildirilmesidir. Kınama cezasını gerektiren fiiller
-şunlardır:49
+şunlardır:51
 a) (Mülga: 15/4/2020-7243/7 md.)
 b) Resmi olarak ders vermekle yükümlü bulunulan öğrencilere özel ders vermek.
 c) (Mülga: 15/4/2020-7243/7 md.)
@@ -1872,6 +1898,13 @@ e) Yayınlarında hasta haklarına riayet etmemek.
 f) İnsanlarla ilgili biyomedikal araştırmalarda veya diğer klinik araştırmalarda ilgili
 mevzuat hükümlerine aykırı davranmak.
 g) İncelemek üzere görevlendirildiği bir eserde yer alan bilgileri eser sahibinin açık
+
+50 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, (a) fıkrasında yer alan “ve 53/Ç maddesinin
+birinci fıkrasının (e) bendinde yer alan fiillerle ilgili olarak öğretim elemanlarının” ibaresi madde metninden
+çıkarılmış, (b) fıkrasının birinci paragrafında yer alan “elemanları, memur ve diğer personeline” ibaresi
+“elemanlarına” şeklinde değiştirilmiştir.
+51 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “657 sayılı Kanundaki fiillere
+ilave olarak bu Kanun kapsamındaki kamu görevlileri için kınama” ibaresi “Kınama” şeklinde değiştirilmiştir.
 izni olmaksızın yayımlanmadan önce başkalarıyla paylaşmak.
 h) Bilimsel bir çalışma kapsamında yapılan anket ve tutum araştırmalarında katılımcıların
 açık rızasını almadan ya da araştırma bir kurumda yapılacaksa ayrıca kurumun iznini almadan
@@ -1885,7 +1918,7 @@ zararlı uygulamalar konusunda ilgilileri bilgilendirme ve uyarma yükümlülü�
 l) (Mülga: 15/4/2020-7243/7 md.)
 m) İçeriği itibarıyla şiddet veya nefret amaçlı bildiri, afiş, pankart, bant ve benzerlerini
 basmak, çoğaltmak, dağıtmak veya bunları teşhir etmek yahut kurumların herhangi bir yerine
-asmak.50
+asmak.52
 n) Yükseköğretim kurumları içinde siyasi parti faaliyetinde bulunmak veya siyasi parti
 propagandası yapmak.
 o) (Ek: 15/4/2020-7243/7 md.) Görevin tam ve zamanında yapılmasında, görev
@@ -1895,23 +1928,25 @@ getirmemek.
 r) (Ek: 15/4/2020-7243/7 md.) Görevi sırasında amirine sözle saygısızlık etmek.
 s) (Ek:15/4/2020-7243/7 md.) Görevle ilgili resmi araç, gereç ve benzeri eşyayı özel
 işlerinde kullanmak, kaybetmek veya kusurlu davranışlarıyla bunlara zarar vermek.
-
-49 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “657 sayılı Kanundaki fiillere
-ilave olarak bu Kanun kapsamındaki kamu görevlileri için kınama” ibaresi “Kınama” şeklinde değiştirilmiştir.
-50 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “, terör ve” ibaresi “veya”
-şeklinde, “veya bunları kurumların herhangi bir yerine asmak veya teşhir etmek” ibaresi “veya bunları teşhir
-etmek yahut kurumların herhangi bir yerine asmak” şeklinde değiştirilmiştir.
 t) (Ek: 15/4/2020-7243/7 md.) (İptal alt bent: Anayasa Mahkemesinin 28/12/2023
 Tarihli ve E: 2020/55, K: 2023/228 Sayılı Kararı ile.)
 u) (Ek: 15/4/2020-7243/7 md.) Görevi gereği katılmakla yükümlü olduğu kurul ve
 toplantılara izinsiz veya özürsüz olarak bir yıl içinde birden fazla katılmamak.
 (3) Aylıktan veya ücretten kesme: Brüt aylıktan; veya ücretten bir defaya mahsus
 olmak üzere 1/30 ila 1/8 arasında kesinti yapılmasıdır. Aylıktan veya ücretten kesme cezasını
-gerektiren fiiller şunlardır:51
+gerektiren fiiller şunlardır:53
 a) Yükseköğretim üst kuruluşları ile yükseköğretim kurumlarının organlarında yapılan
 konuşma ve alınan kararları, yetkili olmadığı halde organ veya üyelerinin aleyhinde davranışlara
 yol açmak maksadıyla dışarı yaymak.
 b) Kuruma ait araç, gereç, belge ve benzeri eşyayı görevin sona ermesine ve kurumca
+
+52 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “, terör ve” ibaresi “veya”
+şeklinde, “veya bunları kurumların herhangi bir yerine asmak veya teşhir etmek” ibaresi “veya bunları teşhir
+etmek yahut kurumların herhangi bir yerine asmak” şeklinde değiştirilmiştir.
+53 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Devlet yükseköğretim
+kurumlarında brüt” ibaresi “Brüt” şeklinde, “; vakıf yükseköğretim kurumlarında brüt” ibaresi “veya” şeklinde,
+“657 sayılı Kanundaki fiillere ilave olarak bu Kanun kapsamındaki kamu görevlileri için aylıktan” ibaresi
+“Aylıktan” şeklinde değiştirilmiştir.
 yazı ile istenmesine rağmen belirlenen süre içinde geri vermemek.
 c) Araştırma ve deneylerde, hayvanlara ve ekolojik dengeye zarar vermek.
 d) Bilimsel çalışmalarda, diğer kişi ve kurumlardan temin edilen veri ve bilgileri, izin
@@ -1938,11 +1973,6 @@ m) (Ek: 15/4/2020-7243/7 md.) Özürsüz ve kesintisiz 3 - 9 gün göreve gelmem
 n) (Ek: 15/4/2020-7243/7 md.) Görev yeri sınırları içerisinde herhangi bir yerin
 toplantı, tören ve benzeri amaçlarla izinsiz olarak kullanılmasına yardımcı olmak, bu yeri
 kullanmak veya kullandırmak.
-
-51 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “Devlet yükseköğretim
-kurumlarında brüt” ibaresi “Brüt” şeklinde, “; vakıf yükseköğretim kurumlarında brüt” ibaresi “veya” şeklinde,
-“657 sayılı Kanundaki fiillere ilave olarak bu Kanun kapsamındaki kamu görevlileri için aylıktan” ibaresi
-“Aylıktan” şeklinde değiştirilmiştir.
 o) (Ek: 15/4/2020-7243/7 md.) Yasaklanmış her türlü yayını basmak, çoğaltmak,
 dağıtmak veya teşhir etmek.
 (4) Kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme: Devlet
@@ -1950,7 +1980,16 @@ yükseköğretim kurumlarında görev yapan aylıklı öğretim elemanlarının 
 kademedeki ilerlemelerinin fiilin ağırlık derecesine göre bir ila üç yıl arasında durdurulması;
 vakıf yükseköğretim kurumları öğretim elemanlarının ise fiilin ağırlık derecesine göre üç ila altı
 ay süreyle brüt ücretinden 1/30 ila 1/8 arasında kesintiye gidilmesidir. Kademe ilerlemesinin
-durdurulması veya birden fazla ücretten kesme cezasını gerektiren fiiller şunlardır:52
+durdurulması veya birden fazla ücretten kesme cezasını gerektiren fiiller şunlardır:54
+
+54 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “bulunulan kademedeki
+ilerlemenin,” ibaresi “görev yapan aylıklı öğretim elemanlarının bulundukları kademedeki ilerlemelerinin”
+şeklinde, “vakıf yükseköğretim kurumlarında” ibaresi “vakıf yükseköğretim kurumları öğretim elemanlarının”
+şeklinde, “brüt ücretten 1/4 ila 1/2” ibaresi “brüt ücretinden 1/30 ila 1/8” şeklinde ve “657 sayılı Kanundaki
+fiillere ilave olarak bu Kanun kapsamındaki kamu görevlileri için kademe ilerlemesinin durdurulması” ibaresi
+“Kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme” şeklinde değiştirilmiş, bendin (h) alt
+bendine “ayrımı yapmak,” ibaresinden sonra gelmek üzere “görevin gereklerine aykırı davranmak suretiyle”
+ibaresi eklenmiştir.
 a) Hizmet içinde resmi bir belgeyi tahrif etmek, yok etmek, gizlemek veya sahte
 olarak düzenlemek, sahte belgeyi bilerek kullanmak, kullandırmak.
 b) Görevi sebebiyle veya görevi sırasında doğrudan veya dolaylı olarak her ne ad
@@ -1972,20 +2011,11 @@ materyalleri kullanılmış gibi göstermek, destek alınan kişi ve kuruluşlar
 araştırma sonuçlarını tahrif etmek veya şekillendirmek.
 h) Görevin yerine getirilmesinde dil, ırk, renk, cinsiyet, siyasi düşünce, felsefi inanç,
 din ve mezhep ayrımı yapmak, görevin gereklerine aykırı davranmak suretiyle kişilerin yarar
-veya zararını hedef tutan davranışlarda bulunmak.52
+veya zararını hedef tutan davranışlarda bulunmak.54
 ı) (Mülga: 15/4/2020-7243/7 md.)
 j) (Ek: 15/4/2020-7243/7 md.) Mükerrer yayınlarını akademik atama ve yükselmelerde
 ayrı yayınlar olarak sunmak.
 k) (Ek: 15/4/2020-7243/7 md.) Göreve sarhoş gelmek, görev yerinde alkollü içki içmek.
-
-52 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “bulunulan kademedeki
-ilerlemenin,” ibaresi “görev yapan aylıklı öğretim elemanlarının bulundukları kademedeki ilerlemelerinin”
-şeklinde, “vakıf yükseköğretim kurumlarında” ibaresi “vakıf yükseköğretim kurumları öğretim elemanlarının”
-şeklinde, “brüt ücretten 1/4 ila 1/2” ibaresi “brüt ücretinden 1/30 ila 1/8” şeklinde ve “657 sayılı Kanundaki
-fiillere ilave olarak bu Kanun kapsamındaki kamu görevlileri için kademe ilerlemesinin durdurulması” ibaresi
-“Kademe ilerlemesinin durdurulması veya birden fazla ücretten kesme” şeklinde değiştirilmiş, bendin (h) alt
-bendine “ayrımı yapmak,” ibaresinden sonra gelmek üzere “görevin gereklerine aykırı davranmak suretiyle”
-ibaresi eklenmiştir.
 l) (Ek: 15/4/2020-7243/7 md.) Gerçeğe aykırı rapor ve belge düzenlemek.
 m) (Ek: 15/4/2020-7243/7 md.) İlgili kanunların tanıdığı istisnalar dışında ticaret yapmak,
 yasaklanan diğer kazanç getirici faaliyetlerde bulunmak.
@@ -2002,12 +2032,14 @@ göstermek.
 b) (Ek: 15/4/2020-7243/7 md.) Atama ve yükselmelerde, unvan veya derece
 kazanılmasında; anket uygulama, veri toplama gibi akademik değerlendirme içermeyen katkılar
 dışında kişisel emek ve birikimine dayanmayan, başkaları tarafından ücret karşılığında veya
-ücretsiz olarak üretilmiş yayın ve çalışmalar kullanmak.
+ücretsiz olarak üretilmiş yayın ve çalışmalar kullanmak, bu kapsamdaki yayın veya çalışmaları
+ücretli ya da ücretsiz olarak, kısmen yahut tamamen başkaları adına yapmak veya bunlara
+aracılık etmek.55
 c) (Ek: 15/4/2020-7243/7 md.) Özürsüz veya izinsiz olarak bir yılda toplam 20 gün
 göreve gelmemek.
 (6) Kamu görevinden çıkarma: Kamu kurum ve kuruluşları ile vakıf yükseköğretim
 kurumlarında öğretim elemanı ve memur olarak bir daha atanmamak üzere kamu görevinden
-çıkarmadır. Kamu görevinden çıkarma cezasını gerektiren fiiller şunlardır:53
+çıkarmadır. Kamu görevinden çıkarma cezasını gerektiren fiiller şunlardır:56
 a) (Değişik: 15/4/2020-7243/7 md.) Terör niteliğinde eylemlerde bulunmak veya bu
 eylemleri desteklemek, kamu imkân ve kaynaklarını bu örgütler için kullanmak ya da kullandırmak.
 b) Amire, iş arkadaşlarına, personeline, hizmetten yararlananlara veya öğrencilerine
@@ -2023,16 +2055,23 @@ c. (Değişik: 14/4/1982 - 2653/3 md.) Ceza soruşturması usulü:
 Yükseköğretim üst kuruluşları başkan ve üyeleri ile yükseköğretim kurumları
 yöneticilerinin, kadrolu ve sözleşmeli öğretim elemanlarının ve bu kuruluş ve kurumların 657
 sayılı Devlet Memurları Kanununa tabi memurlarının görevleri dolayısıyla ya da görevlerini
-
-53 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “657 sayılı Kanundaki fiillere
-ilave olarak bu Kanun kapsamındaki kamu görevlileri için kamu” ibaresi “Kamu” şeklinde değiştirilmiştir.
 yaptıkları sırada işledikleri ileri sürülen suçlar hakkında yetkili makamlarca inceleme
 başlatılabilir, inceleme sonucunda soruşturma açılmasına karar verilmesi ya da doğrudan
-soruşturma başlatılması hâlinde aşağıdaki hükümler uygulanır:54
+soruşturma başlatılması hâlinde aşağıdaki hükümler uygulanır:57
 (1) İlk soruşturma:
 Yükseköğretim Kurulu Başkanı için, kendisinin katılmadığı, Milli Eğitim Bakanının
 başkanlığındaki bir toplantıda, Yükseköğretim Kurulu üyelerinden teşkil edilecek en az üç
 kişilik bir kurulca, diğerleri için, Yükseköğretim Kurulu Başkanınca veya diğer disiplin
+
+55 30/7/2026 tarihli ve 7592 sayılı Kanunun 5 inci maddesiyle bu alt bende “kullanmak” ibaresinden sonra
+gelmek üzere “, bu kapsamdaki yayın veya çalışmaları ücretli ya da ücretsiz olarak, kısmen yahut tamamen
+başkaları adına yapmak veya bunlara aracılık etmek” ibaresi eklenmiştir.
+56 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “657 sayılı Kanundaki fiillere
+ilave olarak bu Kanun kapsamındaki kamu görevlileri için kamu” ibaresi “Kamu” şeklinde değiştirilmiştir.
+57 2/12/2016 tarihli ve 6764 sayılı Kanunun 26 ncı maddesiyle bu fıkranın birinci paragrafında yer alan “ileri
+sürülen suçlar hakkında” ibaresi “ileri sürülen suçlar hakkında yetkili makamlarca inceleme başlatılabilir,
+inceleme sonucunda soruşturma açılmasına karar verilmesi ya da doğrudan soruşturma başlatılması hâlinde”
+şeklinde değiştirilmiştir.
 amirlerince doğrudan veya görevlendirecekleri uygun sayıda soruşturmacı tarafından yapılır.
 Öğretim elemanlarından soruşturmacı tayin edilmesi halinde, bunların, hakkında
 soruşturma yapılacak öğretim elemanının akademik unvanına veya daha üst akademik unvana
@@ -2041,7 +2080,7 @@ sahip olmaları şarttır.
 a) Yükseköğretim Kurulu Başkan ve üyeleri ile Yükseköğretim Denetleme Kurulu
 Başkan ve üyeleri hakkında Danıştayın 2 nci Dairesi,
 b) Devlet ve vakıf yükseköğretim kurumu rektörleri, rektör yardımcıları ile üst kuruluş
-genel sekreterleri hakkında, Yükseköğretim Kurulu üyelerinden teşkil edilecek üç kişilik kurul,55
+genel sekreterleri hakkında, Yükseköğretim Kurulu üyelerinden teşkil edilecek üç kişilik kurul,58
 c) Üniversite, fakülte, enstitü ve yüksekokul yönetim kurulu üyeleri, fakülte dekanları
 ve dekan yardımcıları, enstitü ve yüksekokul müdürleri ve yardımcıları ile üniversite genel
 sekreterleri hakkında, rektörün başkanlığında rektörce görevlendirilen rektör yardımcılarından
@@ -2062,13 +2101,6 @@ maddesi hükümleri uygulanır.
 hakkında Danıştayın 2 nci Dairesinde verilen lüzum-u muhakeme kararına itiraz ile men-i
 muhakeme kararlarının kendiliğinden incelenmesi Danıştayın İdari İşler Kuruluna aittir. Diğer
 kurullarca verilen lüzum-u muhakeme kararına ilgililerce yapılacak itiraz ile men-i muhakeme
-
-54 2/12/2016 tarihli ve 6764 sayılı Kanunun 26 ncı maddesiyle bu fıkranın birinci paragrafında yer alan “ileri
-sürülen suçlar hakkında” ibaresi “ileri sürülen suçlar hakkında yetkili makamlarca inceleme başlatılabilir,
-inceleme sonucunda soruşturma açılmasına karar verilmesi ya da doğrudan soruşturma başlatılması hâlinde”
-şeklinde değiştirilmiştir.
-55 2/12/2016 tarihli ve 6764 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan “üniversite” ibaresi “Devlet ve
-vakıf yükseköğretim kurumu” şeklinde değiştirilmiştir.
 kararları kendiliğinden Danıştay 2 nci Dairesince incelenerek karara bağlanır. Lüzum-u
 muhakemesi kesinleşen Yükseköğretim Kurulu ve Yükseköğretim Denetleme Kurulu Başkan
 ve üyelerinin yargılanması Yargıtay ilgili ceza dairesine, temyiz incelemesi Ceza Genel
@@ -2078,12 +2110,15 @@ yargılama mercii görev itibariyle üst dereceliye göre tayin olunur.
 (6) Yükseköğretim Kurulu Başkanı ve rektörler hakkında 19/4/1990 tarihli ve 3628 sayılı
 Mal Bildiriminde Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu kapsamına giren
 suçlarından dolayı yapılacak ceza soruşturmasında yukarıda belirtilen ceza kovuşturması usulü
-tatbik edilir. (Mülga cümle:15/4/2020-7243/7 md.) (...)56
+
+58 2/12/2016 tarihli ve 6764 sayılı Kanunun 26 ncı maddesiyle bu bentte yer alan “üniversite” ibaresi “Devlet ve
+vakıf yükseköğretim kurumu” şeklinde değiştirilmiştir.
+tatbik edilir. (Mülga cümle:15/4/2020-7243/7 md.) (...)59
 3628 sayılı Kanun kapsamına giren suçlarından dolayı kanuni kovuşturma için gereken
 izin, Yükseköğretim Kurulu üyeleri ile Yükseköğretim Denetleme Kurulu Başkan ve üyeleri ve
 bu kuruluşların memurları (Üniversitelerarası Kurul memurları dahil) hakkında Yükseköğretim
 Kurulu Başkanından, üniversite yöneticileri ve öğretim elemanları ile memurlar hakkında
-üniversite rektörlerinden alınır.56
+üniversite rektörlerinden alınır.59
 (7) İdeolojik amaçlarla Anayasada yer alan temel hak ve hürriyetleri, devletin ülkesi
 ve milletiyle bölünmez bütünlüğünü veya dil, ırk, sınıf, din ve mezhep ayrılığına dayanılarak
 nitelikleri Anayasada belirtilen Cumhuriyeti ortadan kaldırmak maksadıyla işlenen suçlarla
@@ -2093,9 +2128,9 @@ bunları teşvik ve tahrik, anarşik ve ideolojik olaylara ilişkin suçlar ile 
 suçüstü hallerinde, yukarıda yazılı usuller uygulanmaz; bu hallerde kovuşturmayı Cumhuriyet
 Savcısı doğrudan yapar.
 (8) Bu Kanunda yer almamış hususlarda 2/12/1999 tarihli ve 4483 sayılı Memurlar ve
-Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır.57
+Diğer Kamu Görevlilerinin Yargılanması Hakkında Kanun hükümleri uygulanır.60
 
-Disiplin soruşturması ve savunma hakkı:
+Disiplin soruşturması, ifade alma ve savunma hakkı:61
 
 MADDE 53/A
 
@@ -2105,16 +2140,6 @@ a) Disiplin cezası verilmesini gerektiren bir fiilin işlendiğini öğrenen di
 olarak disiplin soruşturması başlatır. Üst disiplin amirinin soruşturma açtığı veya açtırdığı
 disiplin olayında alt disiplin amiri ayrıca soruşturma yapamaz veya yaptıramaz. Daha önce
 açılmış soruşturma varsa bunlar üst amirin açtığı veya açtırdığı soruşturma ile birleştirilir.
-
-56 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bendin birinci paragrafının birinci cümlesinde yer
-alan “rektörlerin 1609 sayılı Bazı Cürümlerden Dolayı Memurlar ve Şerikleri Hakkında Takip ve Muhakeme
-Usulüne Dair Kanun” ibaresi “rektörler hakkında 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde
-Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu” şeklinde değiştirilmiş ve ikinci paragrafında yer alan
-“1609 sayılı Bazı Cürümlerden Dolayı Memurlar ve Şerikleri Hakkında Takip ve Muhakeme Usulüne Dair
-Kanun” ibaresi “3628 sayılı Kanun” şeklinde değiştirilmiştir.
-57 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “4 Şubat 1329 tarihli Memurin
-Muhakematı Hakkında Kanun” ibaresi “2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin
-Yargılanması Hakkında Kanun” şeklinde değiştirilmiştir.
 b) Bilimsel araştırma ve yayın etiğine ilişkin disiplin cezası verilmesini gerektiren
 fiiller açısından soruşturma başlatılmadan önce bilimsel araştırma ve yayın etiği kurullarınca
 inceleme yapılması zorunludur.
@@ -2123,6 +2148,18 @@ birim içerisinden soruşturmacı veya komisyon görevlendirebilir. Ancak zorunl
 rektörlük aracılığıyla diğer birimlerden soruşturmacı talep edilebilir.
 d) Soruşturmacının görev ve unvanı, soruşturulanın görev ve unvanının üstünde veya
 onunla aynı düzeyde olmalıdır.
+
+59 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bendin birinci paragrafının birinci cümlesinde yer
+alan “rektörlerin 1609 sayılı Bazı Cürümlerden Dolayı Memurlar ve Şerikleri Hakkında Takip ve Muhakeme
+Usulüne Dair Kanun” ibaresi “rektörler hakkında 19/4/1990 tarihli ve 3628 sayılı Mal Bildiriminde
+Bulunulması, Rüşvet ve Yolsuzluklarla Mücadele Kanunu” şeklinde değiştirilmiş ve ikinci paragrafında yer alan
+“1609 sayılı Bazı Cürümlerden Dolayı Memurlar ve Şerikleri Hakkında Takip ve Muhakeme Usulüne Dair
+Kanun” ibaresi “3628 sayılı Kanun” şeklinde değiştirilmiştir.
+60 15/4/2020 tarihli ve 7243 sayılı Kanunun 7 nci maddesiyle, bu bentte yer alan “4 Şubat 1329 tarihli Memurin
+Muhakematı Hakkında Kanun” ibaresi “2/12/1999 tarihli ve 4483 sayılı Memurlar ve Diğer Kamu Görevlilerinin
+Yargılanması Hakkında Kanun” şeklinde değiştirilmiştir.
+61 30/7/2026 tarihli ve 7592 sayılı Kanunun 6 ncı maddesiyle bu madde başlığı “Disiplin soruşturması ve
+savunma hakkı:” iken metne işlendiği şekilde değiştirilmiştir.
 e) Fiilin ast ile üst tarafından birlikte işlenmesi hâlinde soruşturma usulü ve disiplin
 cezası verme yetkisi üste göre belirlenir.
 f) Soruşturulanın disiplin cezası verilmesini gerektiren fiili işlediği ve disiplin
@@ -2154,14 +2191,21 @@ getirilmesine engel değildir. Gerektiğinde ceza kovuşturması bekletici mesel
 durumda disiplin soruşturmasına ilişkin zamanaşımı süreleri durur.
 o) Bir fiilin diğer kanunlar uyarınca idari yaptırıma bağlanmış olması, aynı fiile bu
 Kanun kapsamında disiplin cezası verilmesine engel teşkil etmez.
-Savunma hakkı kapsamında gözetilecek hususlar şunlardır:
-a) Soruşturulana, iddialar hakkında savunma imkânı tanınmadan disiplin cezası verilemez.
-(İptal ikinci cümle:Anayasa Mahkemesinin 13/10/2022 tarihli ve E.: 2022/87; K.: 2022/121
-sayılı Kararı ile)
-b) (İptal bent:Anayasa Mahkemesinin 13/10/2022 tarihli ve E.: 2022/87; K.: 2022/121
-sayılı Kararı ile)
-c) (İptal bent:Anayasa Mahkemesinin 13/10/2022 tarihli ve E.: 2022/87; K.: 2022/121
-sayılı Kararı ile)
+(Değişik ikinci fıkra:30/7/2026-7592/6 md.) Disiplin soruşturmasında ifade ve
+savunmaya ilişkin esaslar şunlardır:
+a) Soruşturmacı tarafından soruşturulana gönderilecek ifadeye davet yazısında
+hakkındaki iddiaların neler olduğu açıkça belirtilerek yedi günden az olmamak üzere
+verilecek süre içerisinde ifadesinin alınacağı ve bu süre içerisinde sözlü veya yazılı ifade
+verilmediği takdirde dosyadaki mevcut deliller kapsamında işlem tesis edileceği bildirilir.
+Soruşturmacı toplanan deliller kapsamında teklifte bulunur.
+b) Disiplin cezası vermeye yetkili makam tarafından soruşturulana gönderilen
+savunmaya davet yazısında teklife esas alınan eylemin neden ibaret olduğu ve bu eyleme
+karşılık gelen disiplin cezasının ne olduğu ile yedi günden az olmamak üzere verilecek sürede
+savunmasını yapması gerektiği bildirilir. Davet yazısında ayrıca soruşturulana, savunmasını
+verilen sürede yapmadığı takdirde savunma hakkından vazgeçmiş sayılacağı ve mevcut
+delillere göre hakkında karar verileceği bildirilir.
+c) Savunmaya davet yazısında soruşturulana savunma hakkını kullanmadan önce
+soruşturma evrakını inceleyebileceği bildirilir.
 Hakkında üniversite öğretim mesleğinden çıkarma ve kamu görevinden çıkarma cezası
 istenenler soruşturma evrakını inceleme, tanık dinletme, disiplin kurulunda sözlü veya yazılı
 olarak kendisi veya vekili vasıtasıyla savunma yapma hakkına sahiptir.
@@ -2319,15 +2363,15 @@ Genel Sekreter Yardımcısı ve Hukuk Müşavirinden teşekkül eder.
 Yüksek Disiplin Kurulu hariç, disiplin kurullarında profesörlerle ilgili hususların
 görüşülmesinde doçent ve doktor öğretim üyeleri, doçentlerle ilgili hususların görüşülmesinde
 doktor öğretim üyeleri ve kendileri ile ilgili hususların görüşülmesinde ilgili üyeler görüşmelere
-katılamazlar.58
+katılamazlar.62
 Soruşturmada görev alanlar disiplin kurullarındaki oylamalara, disiplin kurulunda
 görev alanlar ile disiplin cezası verenler bu cezalara itirazların görüşüldüğü kurullardaki
 oylamalara katılamazlar.
 Herhangi bir sebeple disiplin kurullarının teşekkül edememesi halinde eksik üyelikler
-
-58 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentler”
-ibareleri “doktor öğretim üyeleri” şeklinde değiştirilmiştir.
 eşdeğer unvana sahip öğretim üyeleri arasından senato tarafından belirlenen üyelerce tamamlanır.
+
+62 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçentler”
+ibareleri “doktor öğretim üyeleri” şeklinde değiştirilmiştir.
 İtiraz:
 
 MADDE 53/F
@@ -2641,12 +2685,12 @@ kolaylıklardan aynen yararlanırlar.
 ve fiilen bu çerçevede faaliyette bulunan vakıflardan Cumhurbaşkanınca vergi muafiyeti
 tanınanlara makbuz karşılığında yapılan bağışlar, Gelir ve Kurumlar Vergisi Kanunları
 hükümlerine göre yıllık beyanname ile bildirilecek gelirden ve kurum kazancından indirilebilir.
-Bu hükmün uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.59
+Bu hükmün uygulanmasına ilişkin usul ve esasları belirlemeye Maliye Bakanlığı yetkilidir.63
 c) Yükseköğretim üst kuruluşları, yükseköğretim kurumları ve bunlara bağlı kuruluşlar
 ve birimler tarafından eğitim - öğretim ve araştırma amacı ile yurt içinde bulunmamak veya
 üretimi yapılmamak kaydıyla ithal edilen makine, alet, cihaz, ecza, malzeme ve yayınlar ile
 bağış yoluyla yurt dışından gelen aynı cins malzemeler, gümrük vergisi ile buna bağlı vergi,
-resim ve harçlar dahil olmak üzere her türlü vergi, resim ve harçlardan muaftır.60
+resim ve harçlar dahil olmak üzere her türlü vergi, resim ve harçlardan muaftır.64
 d) Birmilyon liraya kadar (birmilyon lira dahil) bir hakkın veya menfaatin terkinini
 gerektiren, maddi veya hukuki nedenlerle kovuşturulmasında yüksek mahkeme ve mercilerde
 incelenmesini istemekte yarar bulunmayan, açılacak veya açılmış olan dava, icra ve benzeri
@@ -2663,9 +2707,9 @@ ilgili işlerle bunların bakım ve onarımlarında 1050 sayılı Muhasebei Umum
 g) Bir üniversite bütçesindeki ödenekleri, diğer bir üniversite bütçesine aktarmaya,
 ilgili rektörün görüşü ve Yükseköğretim Kurulunun önerisi üzerine Maliye Bakanı yetkilidir.
 
-59 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi
+63 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu bentte yer alan “Bakanlar Kurulunca” ibaresi
 “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-606/5/1986 tarih ve 3283 sayılı Kanunun 1 nci maddesi ile İthalde alınan her türlü vergi, resim ve harç muafiyeti
+646/5/1986 tarih ve 3283 sayılı Kanunun 1 nci maddesi ile İthalde alınan her türlü vergi, resim ve harç muafiyeti
 hükümleri, yürürlükten kaldırılmıştır.
 İta amirliği, mali denetim:
 
@@ -2673,13 +2717,13 @@ MADDE 57
 
 Yükseköğretim üst kuruluşları ile yükseköğretim kurumlarının bütçeleri,
 genel ve katma bütçelerin bağlı bulunduğu esaslara uygun olarak hazırlanır, yürürlüğe konur
-ve denetlenir.61
+ve denetlenir.65
 İta amiri, üst kuruluşlarda başkan, üniversitelerde rektördür. Bu yetki uygun görülen
 ölçüde gerektiğinde yardımcılara, dekanlara, enstitü ve yüksekokul müdürlerine, üst kuruluşlara
 bağlı birim başkanlarına ve üst kuruluş ve üniversite genel sekreterlerine devredilebilir. (Ek
 cümle: 1/3/2006-5467/4 md.) Vakıf üniversitelerinde itâ amiri mütevellî heyet başkanıdır.
 
-MADDE 58 — Döner sermaye:6263
+MADDE 58 — Döner sermaye:6667
 
 (Değişik: 21/1/2010-5947/5 md.)
 a) Yükseköğretim kurumlarında üniversite yönetim kurulunun önerisi ve Yükseköğretim
@@ -2707,19 +2751,19 @@ yükseköğretim kurumunun ihtiyacı olan mal ve hizmet alımları, her türlü 
 kiralama, devam etmekte olan projelerin tamamlanmasına yönelik inşaat işleri ve diğer
 ihtiyaçlar ile yönetici payları için kullanılır. Bu oranları yüzde 75'ine kadar artırmaya üniversite
 
-61 Bu maddede geçen “katma bütçelerin” ibaresi ile ilgili olarak, 10/12/2003 tarihli ve 5018 sayılı Kanunun, 12
+65 Bu maddede geçen “katma bütçelerin” ibaresi ile ilgili olarak, 10/12/2003 tarihli ve 5018 sayılı Kanunun, 12
 ve 81 inci maddeleri ile Kanuna bağlı (II) sayılı cetvele bakınız.
-62 Bu başlıkta bulunan; “ve araştırma fonu” ibaresi, 20/6/2001 tarihli ve 4684 sayılı Kanunla metinden çıkarılmıştır.
-63 Bu maddeye, 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle (g) fıkrasından sonra gelmek üzere
+66 Bu başlıkta bulunan; “ve araştırma fonu” ibaresi, 20/6/2001 tarihli ve 4684 sayılı Kanunla metinden çıkarılmıştır.
+67 Bu maddeye, 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle (g) fıkrasından sonra gelmek üzere
 “h” ve “ı” fıkraları eklenmiş ve mevcut fıkralar buna göre teselsül ettirilmiştir.
-yönetim kurulu yetkilidir.64
+yönetim kurulu yetkilidir.68
 Döner sermaye gelirlerinden tahsil edilen kısmın en az yüzde 5'i, üniversite
 bünyesinde yürütülen bilimsel araştırma projelerinin finansmanı için kullanılır. Bu tutar döner
 sermaye muhasebe birimince, tahsilatı takip eden ayın yirmisine kadar ilgili yükseköğretim
 kurumu hesabına yatırılır. Yatırılan bu tutarlar, yükseköğretim kurumu bütçesine öz gelir
 olarak kaydedilir. Kaydedilen bu tutarlar karşılığı olarak ilgili yükseköğretim kurumu
 bütçesine konulan ödenekler, gelir gerçekleşmelerine göre kullandırılır. Süresi içinde
-yatırılmayan tutarların tahsilinde 6183 sayılı Kanun hükümleri uygulanır.64
+yatırılmayan tutarların tahsilinde 6183 sayılı Kanun hükümleri uygulanır.68
 Bilimsel araştırma projelerine ilişkin ödenekler, üniversite yönetim kurulunca gerekli
 görüldüğü takdirde, her bir proje için avans verilmek suretiyle de kullandırılabilir.
 Bilimsel araştırma projelerinin seçilmesi, uygulanması ve izlenmesi, ulusal veya
@@ -2729,7 +2773,7 @@ gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak t
 ödenecek ücretin belirlenmesi ile ödeneklerin kullandırılması, genel hükümlerin ön ödemelere
 ilişkin sınırlamalarına bağlı kalınmaksızın avans verilmesi ve bu avansın mahsubuna dair usul
 ve esaslar Hazine ve Maliye Bakanlığı ile Strateji ve Bütçe Başkanlığının uygun görüşü alınarak
-Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle belirlenir.65
+Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle belirlenir.69
 (Ek paragraf: 18/6/2017-7033/16 md.) Bilimsel araştırma projelerine ilişkin ödeneklerin
 kullandırılmasında, proje kapsamında görevlendirilecek tezli yüksek lisans ve doktora
 programlarındaki öğrencilere 3/3/2004 tarihli ve 5102 sayılı Yüksek Öğrenim Öğrencilerine Burs,
@@ -2742,7 +2786,7 @@ hesabında toplanan döner sermaye gelirleri bakiyesinden, bu yerlerde;
 gösterge dahil), yan ödeme, ödenek (geliştirme ödeneği hariç) ve her türlü tazminat
 (28/3/1983 tarihli ve 2809 sayılı Kanunun geçici 3 üncü maddesinin beşinci fıkrası uyarınca
 
-64 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (b) fıkrasında yer alan “ile sağlık uygulama ve
+68 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (b) fıkrasında yer alan “ile sağlık uygulama ve
 araştırma merkezleri için asgari yüzde 35'i, ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu ile
 bünyesinde atölye veya laboratuar bulunan yükseköğretim kurumları için asgari yüzde 25'i, diğer yükseköğretim
 kurumları için ise asgari yüzde 15'i,” ibaresi “sağlık uygulama ve araştırma merkezleri ile açık öğretim hizmeti
@@ -2751,7 +2795,7 @@ sürekli eğitim merkezleri ile bünyesinde atölye veya laboratuar bulunan yük
 30’u, diğer yükseköğretim kurumları için ise asgari yüzde 15'i,” şeklinde; “yüzde 50'sine kadar” ibaresi “yüzde
 75’ine kadar” şeklinde, aynı fıkranın ikinci paragrafında yer alan “yüzde 5’i” ibaresi “en az yüzde 5’i” şeklinde
 değiştirilmiştir.
-65 15/4/2020 tarihli ve 7243 sayılı Kanunun 10 uncu maddesiyle, bu paragrafa “uygulanması ve izlenmesi”
+69 15/4/2020 tarihli ve 7243 sayılı Kanunun 10 uncu maddesiyle, bu paragrafa “uygulanması ve izlenmesi”
 ibaresinden sonra gelmek üzere “, ulusal veya uluslararası kuruluşlar tarafından desteklenen projelere, toplam
 proje bedelinin yüzde otuzunu aşmamak kaydıyla kaynak aktarımı, proje değerlendirmesini yapacak uzmanlara
 10.000 gösterge rakamının memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek üzere ödenecek
@@ -2759,26 +2803,52 @@ proje bedelinin yüzde otuzunu aşmamak kaydıyla kaynak aktarımı, proje değe
 Bakanlığı ile Strateji ve Bütçe Başkanlığının” şeklinde değiştirilmiştir.
 ödenen tazminat dahil, makam, temsil ve görev tazminatı ile yabancı dil tazminatı hariç)
 toplamından oluşan ek ödeme matrahının yüzde 950’sini, araştırma görevlilerine ise yüzde
-650’sini; bu yerlerde görevli olmakla birlikte gelire katkısı olmayan öğretim üyesi ve öğretim
-görevlilerine yüzde 750’sini, araştırma görevlilerine ise yüzde 375’ini,6667
+650’sini; tıpta uzmanlık mevzuatına göre yan dal uzmanlıkları bulunan öğretim üyelerine
+yüzde 1150’sini, yan dal uzmanlık eğitimi yapan araştırma görevlilerine yüzde 750’sini; bu
+yerlerde görevli olmakla birlikte gelire katkısı olmayan öğretim üyesi ve öğretim görevlilerine
+yüzde 750’sini, araştırma görevlilerine ise yüzde 375’ini,707172
 2) Diğer öğretim elemanlarına ve 657 sayılı Devlet Memurları Kanununa tabi personel
-(…)68 ile aynı Kanunun 4 üncü maddesinin (B) bendine göre sözleşmeli olarak çalışan
-personele ek ödeme matrahının; uzman tabipler için yüzde 750’sini, hastaneler başmüdürü ve
-eczacılar için yüzde 305’ini, başhemşireler için yüzde 255’ini, diğer öğretim elemanları ile
-diğer personel için yüzde 225’ini, işin ve hizmetin özelliği dikkate alınarak yoğun bakım,
-doğumhane, yeni doğan, süt çocuğu, yanık, diyaliz, ameliyathane, enfeksiyon, özel bakım
-gerektiren ruh sağlığı, organ ve doku nakli, acil servis ve benzeri sağlık hizmetlerinde çalışan
-personel için yüzde 260’ını geçmeyecek şekilde aylık ek ödeme yapılır. Sözleşmeli personele
-yapılacak ek ödeme matrahı, sözleşmeli personelin çalıştığı birim ve bulunduğu pozisyon
-unvanı itibarıyla aynı veya benzer unvanlı memur kadrosunda çalışan, hizmet yılı ve öğrenim
-durumu aynı olan emsali personel dikkate alınarak belirlenir. Emsali bulunmayan sözleşmeli
-personelin ek ödeme matrahı ise brüt sözleşme ücretlerinin yüzde 25'ini geçemez. (Ek cümle:
-11/10/2011-KHK-666/5 md.) Bu fıkra uyarınca yapılacak ödeme sigorta prim kesintisine tabi
-tutulmaz.666970
+(…)73 ile aynı Kanunun 4 üncü maddesinin (B) bendine göre sözleşmeli olarak çalışan
+personele ek ödeme matrahının; uzman tabipler için yüzde 750’sini, tıpta uzmanlık
+mevzuatına göre yan dal uzmanlıkları bulunan uzman tabipler için yüzde 950’sini, hastaneler
+başmüdürü ve eczacılar için yüzde 305’ini, başhemşireler için yüzde 255’ini, diğer öğretim
+elemanları ile diğer personel için yüzde 225’ini, işin ve hizmetin özelliği dikkate alınarak
+yoğun bakım, doğumhane, yeni doğan, süt çocuğu, yanık, diyaliz, ameliyathane, enfeksiyon,
+özel bakım gerektiren ruh sağlığı, organ ve doku nakli, acil servis ve benzeri sağlık
+hizmetlerinde çalışan personel için yüzde 260’ını geçmeyecek şekilde aylık ek ödeme yapılır.
+Sözleşmeli personele yapılacak ek ödeme matrahı, sözleşmeli personelin çalıştığı birim ve
+bulunduğu pozisyon unvanı itibarıyla aynı veya benzer unvanlı memur kadrosunda çalışan,
+hizmet yılı ve öğrenim durumu aynı olan emsali personel dikkate alınarak belirlenir. Emsali
+bulunmayan sözleşmeli personelin ek ödeme matrahı ise brüt sözleşme ücretlerinin yüzde
+25'ini geçemez. (Ek cümle: 11/10/2011-KHK-666/5 md.) Bu fıkra uyarınca yapılacak ödeme
+sigorta prim kesintisine tabi tutulmaz.70747576
 Nöbet hizmetleri hariç olmak üzere mesai saatleri dışında gelir getirici çalışmalarından
 doğan katkılarına karşılık olarak (1) numaralı bentte belirtilen personel için yüzde 50’sini, (2)
 numaralı bentte belirtilen personel için yüzde 20’sini geçmeyecek şekilde ayrıca aylık ek
 ödeme yapılır.
+
+70 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (c) fıkrasının (1) numaralı bendinde yer alan
+“makam” ibaresinden önce gelmek üzere “28/3/1983 tarihli ve 2809 sayılı Kanunun geçici 3 üncü maddesinin
+beşinci fıkrası uyarınca ödenen tazminat dahil,” ibaresi, (2) numaralı bendinde yer alan “657 sayılı Devlet
+Memurları Kanununa” ibaresinden önce gelmek üzere “Diğer öğretim elemanlarına ve” ibaresi eklenmiş;
+“diğerleri” ibaresi “diğer öğretim elemanları ile diğer personel” şeklinde değiştirilmiştir.
+71 16/6/2022 tarihli ve 7411 sayılı Kanunun 6 ncı maddesiyle bu bentte yer alan “800’ünü”, “500’ünü”, “600’ünü”
+ve “300’ünü” ibareleri sırasıyla “950’sini”, “650’sini”, “750’sini” ve “375’ini” şeklinde değiştirilmiştir.
+72 30/7/2026 tarihli ve 7592 sayılı Kanunun 7 nci maddesiyle bu bende “yüzde 650’sini;” ibaresinden sonra
+gelmek üzere “tıpta uzmanlık mevzuatına göre yan dal uzmanlıkları bulunan öğretim üyelerine yüzde 1150’sini,
+yan dal uzmanlık eğitimi yapan araştırma görevlilerine yüzde 750’sini;” ibaresi eklenmiştir.
+73 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle bu bentte yer alan “(döner sermaye işletme
+müdürlüğü ve döner sermaye saymanlık personeli dahil)” ibaresi yürürlükten kaldırılmış olup, daha sonra 666
+sayılı KHK ile bu bentte yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan
+Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
+74 4/7/2012 tarihli ve 6354 sayılı Kanunun 4 üncü maddesi ile bu bende “ek ödeme matrahının;” ibaresinden
+sonra gelmek üzere “uzman tabipler için yüzde 600’ünü,” ibaresi eklenmiştir.
+75 16/6/2022 tarihli ve 7411 sayılı Kanunun 6 ncı maddesiyle bu bentte yer alan “600’ünü”, “250’sini”, “200’ünü,”,
+“150’sini” ve “200’ünü” ibareleri sırasıyla “750’sini”, “305’ini”, “255’ini,”, “225’ini” ve “260’ını” şeklinde
+değiştirilmiştir.
+76 30/7/2026 tarihli ve 7592 sayılı Kanunun 7 nci maddesiyle bu bende “yüzde 750’sini,” ibaresinden sonra
+gelmek üzere “tıpta uzmanlık mevzuatına göre yan dal uzmanlıkları bulunan uzman tabipler için yüzde
+950’sini,” ibaresi eklenmiştir.
 (Ek paragraf: 26/7/2018-7146/8 md.) Yükseköğretim Kurulu tarafından, Hazine ve
 Maliye Bakanlığının onayı ile belirlenen özellikli tıbbi işlemler karşılığı yapılacak ek ödemelerde,
 (1) numaralı bentte belirtilen yüzde 800 oranı beş kata kadar artırılarak uygulanabilir. Ancak bu
@@ -2786,23 +2856,6 @@ oran mesai dışı çalışmalarda uygulanacak artırımlı oranın hesaplanmas�
 Yükseköğretim kurumlarının tıp ve diş hekimliği fakülteleri ile sağlık uygulama ve
 araştırma merkezlerinde ihtiyaç duyulması halinde ilgilinin isteği ve kurumlarının
 muvafakatiyle diğer kamu kurum ve kuruluşlarında görevli sağlık personeli haftanın belirli
-
-66 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (c) fıkrasının (1) numaralı bendinde yer alan
-“makam” ibaresinden önce gelmek üzere “28/3/1983 tarihli ve 2809 sayılı Kanunun geçici 3 üncü maddesinin
-beşinci fıkrası uyarınca ödenen tazminat dahil,” ibaresi, (2) numaralı bendinde yer alan “657 sayılı Devlet
-Memurları Kanununa” ibaresinden önce gelmek üzere “Diğer öğretim elemanlarına ve” ibaresi eklenmiş;
-“diğerleri” ibaresi “diğer öğretim elemanları ile diğer personel” şeklinde değiştirilmiştir.
-67 16/6/2022 tarihli ve 7411 sayılı Kanunun 6 ncı maddesiyle bu bentte yer alan “800’ünü”, “500’ünü”, “600’ünü”
-ve “300’ünü” ibareleri sırasıyla “950’sini”, “650’sini”, “750’sini” ve “375’ini” şeklinde değiştirilmiştir.
-68 11/10/2011 tarihli ve 666 sayılı KHK’nin 1 inci maddesiyle bu bentte yer alan “(döner sermaye işletme
-müdürlüğü ve döner sermaye saymanlık personeli dahil)” ibaresi yürürlükten kaldırılmış olup, daha sonra 666
-sayılı KHK ile bu bentte yapılan düzenleme; 10/10/2013 tarihli ve 28791 sayılı Resmi Gazete’de yayımlanan
-Anayasa Mahkemesi’nin 27/12/2012 tarihli ve E.: 2011/139, K.: 2012/205 sayılı Kararı ile iptal edilmiştir.
-69 4/7/2012 tarihli ve 6354 sayılı Kanunun 4 üncü maddesi ile bu bende “ek ödeme matrahının;” ibaresinden
-sonra gelmek üzere “uzman tabipler için yüzde 600’ünü,” ibaresi eklenmiştir.
-70 16/6/2022 tarihli ve 7411 sayılı Kanunun 6 ncı maddesiyle bu bentte yer alan “600’ünü”, “250’sini”, “200’ünü,”,
-“150’sini” ve “200’ünü” ibareleri sırasıyla “750’sini”, “305’ini”, “255’ini,”, “225’ini” ve “260’ını” şeklinde
-değiştirilmiştir.
 gün veya saatlerinde veyahut belirli vakalar ve işler için görevlendirilebilir. Belirli bir vaka ve
 iş için görevlendirilenlere, kadrosunun bulunduğu kurumdaki döner sermaye işletmesinden
 yapılan ödemenin yanı sıra, katkı sağladıkları vaka ve iş dolayısıyla görevlendirildiği sağlık
@@ -2826,26 +2879,26 @@ d) Ziraat ve veteriner fakülteleri, sivil havacılık yüksekokulu ve bünyesin
 laboratuvar bulunan yükseköğretim kurumları ile sürekli eğitim merkezleri, açık öğretim
 hizmeti veren yükseköğretim kurumları ile düzenli döner sermaye geliri olan yükseköğretim
 kurumlarında üretilen mal ve hizmetlerden elde edilen döner sermaye gelirlerine katkısı bulunan
-öğretim elemanlarına yapılacak ek ödemeler hakkında da (c) fıkrası hükümleri uygulanır.7172
+öğretim elemanlarına yapılacak ek ödemeler hakkında da (c) fıkrası hükümleri uygulanır.7778
 e) Yükseköğretim kurumlarının (c) ve (d) fıkraları kapsamına girenler haricindeki diğer
 birimlerinde döner sermaye işletmesi hesabına yapılan iş veya hizmetler karşılığında tahsil
-edilen gelirlerden kanuni kesintiler ile varsa yapılan iş veya hizmetle bağlantılı giderler
-düşüldükten sonra geri kalan tutar, hizmet karşılığı olarak gelir tahsilatının yapıldığı tarihi
-izleyen bir ay içinde, veya hizmet bedelinin peşin tahsil edilmesi halinde hizmetin gerçekleşme
-oranına bağlı olarak aylara bölünerek hizmeti veren öğretim elemanlarına ödenir.7172
-Tıp ve diş hekimliği fakültelerindeki öğretim elemanlarının sağlık hizmeti dışında
-verdikleri hizmetler karşılığında döner sermaye hesabına tahsil edilen paradan pay alma
-hususunda bu fıkra hükümleri uygulanır. (Ek cümle: 17/2/2011-6114/17 md.) Bu kapsamda
 
-71 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (d) fıkrasında yer alan “kurumlarında üretilen”
+77 17/2/2011 tarihli ve 6114 sayılı Kanunun 17 nci maddesiyle, (d) fıkrasında yer alan “kurumlarında üretilen”
 ibaresi “kurumları ile sürekli eğitim merkezleri, açık öğretim hizmeti veren yükseköğretim kurumları ile düzenli
 döner sermaye geliri olan yükseköğretim kurumlarında üretilen” şeklinde değiştirilmiş; (e) fıkrasının birinci
 paragrafında yer alan “hizmeti veren” ibaresinden önce gelmek üzere “veya hizmet bedelinin peşin tahsil
 edilmesi halinde hizmetin gerçekleşme oranına bağlı olarak aylara bölünerek” ibaresi eklenmiş, (f) fıkrasının
 üçüncü paragrafında yer alan “(c), (d) ve (e)” ibaresi “(c) ve (d)” şeklinde değiştirilmiştir.
-72 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, d) fıkrasında yer alan “personele” ibaresi
+78 11/10/2011 tarihli ve 666 sayılı KHK’nin 5 inci maddesiyle, d) fıkrasında yer alan “personele” ibaresi
 “öğretim elemanlarına” şeklinde, (e) fıkrasında yer alan “, memurlara ve sözleşmeli personele ödenir.” ibaresi
 “ödenir.” şeklinde değiştirilmiştir.
+edilen gelirlerden kanuni kesintiler ile varsa yapılan iş veya hizmetle bağlantılı giderler
+düşüldükten sonra geri kalan tutar, hizmet karşılığı olarak gelir tahsilatının yapıldığı tarihi
+izleyen bir ay içinde, veya hizmet bedelinin peşin tahsil edilmesi halinde hizmetin gerçekleşme
+oranına bağlı olarak aylara bölünerek hizmeti veren öğretim elemanlarına ödenir.7778
+Tıp ve diş hekimliği fakültelerindeki öğretim elemanlarının sağlık hizmeti dışında
+verdikleri hizmetler karşılığında döner sermaye hesabına tahsil edilen paradan pay alma
+hususunda bu fıkra hükümleri uygulanır. (Ek cümle: 17/2/2011-6114/17 md.) Bu kapsamda
 bulunan hizmetler ile öğretim elemanlarının yükseköğretim kurumlarının imkanlarını
 kullanmaksızın verdikleri hizmetler karşılığında elde edilen gelirlerden (b) fıkrasının birinci
 bendi uyarınca yapılacak kesintilerin uygulanmasında asgari yüzde 15 oranı uygulanır.
@@ -2868,7 +2921,7 @@ Bu fıkra kapsamında bulunan yöneticilere, mesai saatleri içerisinde verdikle
 hizmetlerinden dolayı ayrıca ek ödeme yapılmaz. Mesai saatleri dışında döner sermaye
 gelirlerine katkıları bulunması hâlinde alabilecekleri toplam ek ödeme tutarı, hiçbir şekilde
 yönetici payı dahil ilgisine göre (c) ve (d) fıkralarında belirtilen esaslara göre hesaplanacak
-tutarı geçemez.71
+tutarı geçemez.77
 g) Bu madde uyarınca 11/10/1983 tarihli ve 2914 sayılı Yüksek Öğretim Personel
 Kanununa tabi personele yapılan ödemeler, 27/1/2000 tarihli ve 4505 sayılı Sosyal Güvenlikle
 İlgili Bazı Kanunlarda Değişiklik Yapılması ve Temsil Tazminatı Ödenmesi Hakkında
@@ -2882,27 +2935,46 @@ Memurları Kanununa tabi memurlar ile aynı Kanunun 4 üncü maddesinin (B) fık
 sözleşmeli olarak çalışan personele 375 sayılı Kanun Hükmünde Kararnamenin ek 9 uncu
 maddesi kapsamında ödeme yapılır ve bunlara bu madde uyarınca ayrıca ek ödeme yapılmaz.
 h) (Ek: 2/1/2014-6514/12 md.) Öğretim üyelerinin mesai saatleri dışında üniversitede
-sundukları sağlık hizmetlerinden dolayı 31/5/2006 tarihli ve 5510 sayılı Sosyal Sigortalar ve
-Genel Sağlık Sigortası Kanununun 73 üncü maddesinin üçüncü fıkrası uyarınca alınan ilave
-ücretler döner sermaye işletmesinin ayrı bir hesabında toplanır. Bu tutardan ayrıca Hazine
-payı kesintisi ve (b) fıkrası uyarınca kesinti yapılmaz. Bu şekilde elde edilen gelirin yüzde
-50’sinden az ve yüzde 60’ından fazla olmamak üzere üniversite yönetim kurulunca tespit
-edilecek oranı, mesai saatleri dışında sağlık hizmeti sunan öğretim üyesine, mesai içinde
-gerçekleştirilen iş miktarı ve çeşidi dikkate alınarak belirlenen toplam performansı aşmamak
-kaydıyla, ek ödeme matrahının yüzde 950’sini geçmemek üzere her ay ayrıca ödenir. Mesai
-saatleri dışında ilave ücret alınmayacak sağlık hizmetlerini veren öğretim üyeleri için de
-yüzde 950 oranı uygulanır. Ancak bu fıkra kapsamında öğretim üyelerine yapılacak ek ödeme
-ile (c) ve (f) fıkraları uyarınca yapılacak ek ödeme toplamı, özellikli tıbbi işlemler ve
-uluslararası sağlık hizmetleri kapsamında yapılacak ek ödeme hariç olmak üzere, ek ödeme
-matrahının yüzde 1900’ünü geçemez. Bu fıkra uyarınca dağıtılan gelirlerden kalan tutarlar (b)
-fıkrasında belirtilen işler ile (c) fıkrasının ikinci paragrafı uyarınca fiilen mesai dışında çalışan
-diğer personele yapılacak ek ödemede kullanılır.737475
+bizzat sundukları sağlık hizmetlerinden dolayı 31/5/2006 tarihli ve 5510 sayılı Sosyal
+Sigortalar ve Genel Sağlık Sigortası Kanununun 73 üncü maddesinin üçüncü fıkrası uyarınca
+alınan ilave ücretler döner sermaye işletmesinin ayrı bir hesabında toplanır. Bu tutardan ayrıca
+Hazine payı kesintisi ve (b) fıkrası uyarınca kesinti yapılmaz. Bu şekilde elde edilen gelirin
+yüzde 50’sinden az ve yüzde 60’ından fazla olmamak üzere üniversite yönetim kurulunca
+tespit edilecek oranı, bizzat mesai saatleri dışında sağlık hizmeti sunan öğretim üyesine, mesai
+içinde gerçekleştirilen iş miktarı ve çeşidi dikkate alınarak belirlenen toplam performansı
+aşmamak kaydıyla, ek ödeme matrahının yüzde 950’sini, tıpta uzmanlık mevzuatına göre yan
+dal uzmanlıkları bulunan öğretim üyelerine yüzde 1150’sini geçmemek üzere her ay ayrıca
+ödenir. Mesai saatleri dışında ilave ücret alınmayacak sağlık hizmetlerini veren öğretim
+üyeleri için de yüzde 950, tıpta uzmanlık mevzuatına göre yan dal uzmanlıkları bulunan
+öğretim üyelerine yüzde 1150 oranı uygulanır. Ancak bu fıkra kapsamında öğretim üyelerine
+yapılacak ek ödeme ile (c) ve (f) fıkraları uyarınca yapılacak ek ödeme toplamı, özellikli tıbbi
+işlemler ve uluslararası sağlık hizmetleri kapsamında yapılacak ek ödeme hariç olmak üzere,
+ek ödeme matrahının yüzde 1900’ünü, tıpta uzmanlık mevzuatına göre yan dal uzmanlıkları
+bulunan öğretim üyeleri için yüzde 2300’ünü geçemez. Bu fıkra uyarınca dağıtılan gelirlerden
+kalan tutarlar (b) fıkrasında belirtilen işler ile (c) fıkrasının ikinci paragrafı uyarınca fiilen
+mesai dışında çalışan diğer personele yapılacak ek ödemede kullanılır.79808182
 ı) (Ek: 2/1/2014-6514/12 md.) Öğretim üyelerinin 36 ncı maddenin yedinci fıkrası
 uyarınca çalışmaları karşılığı elde edilen gelirler döner sermaye işletmesinin ayrı bir
 hesabında toplanır. Bu tutardan (b) fıkrası uyarınca kesinti yapılmaz. Bu gelirin yüzde 50’si,
 herhangi bir limite bağlı olmaksızın hizmeti sunan öğretim üyesine ödenir ve kalan tutar (b)
-fıkrasında belirtilen işler için kullanılır.73
+fıkrasında belirtilen işler için kullanılır.79
 i) (Değişik: 17/2/2011-6114/17 md.) Döner sermaye işletmesi faaliyetlerinin
+
+79 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle, bu maddeye (g) fıkrasından sonra gelmek üzere
+“h” ve “ı” fıkraları eklenmiş ve mevcut fıkralar buna göre teselsül ettirilmiştir.
+80 26/7/2018 tarihli ve 7146 sayılı Kanunun 8 inci maddesiyle, (h) fıkrasının beşinci cümlesinde yer alan “ek
+ödeme toplamı” ibaresinden sonra gelmek üzere “, özellikli tıbbi işlemler ve uluslararası sağlık hizmetleri
+kapsamında yapılacak ek ödeme hariç olmak üzere,” ibaresi eklenmiştir.
+81 16/6/2022 tarihli ve 7411 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “800’ünü”, “800” ve
+“1600’ünü” ibareleri sırasıyla “950’sini”, “950” ve “1900’ünü” şeklinde değiştirilmiştir.
+82 30/7/2026 tarihli ve 7592 sayılı Kanunun 7 nci maddesiyle bu fıkranın birinci cümlesine “üniversitede”
+ibaresinden sonra gelmek üzere “bizzat” ibaresi, üçüncü cümlesine “tespit edilecek oranı,” ibaresinden sonra
+gelmek üzere “bizzat” ibaresi, “ek ödeme matrahının yüzde 950’sini” ibaresinden sonra gelmek üzere “, tıpta
+uzmanlık mevzuatına göre yan dal uzmanlıkları bulunan öğretim üyelerine yüzde 1150’sini” ibaresi, dördüncü
+cümlesine “sağlık hizmetlerini veren öğretim üyeleri için de yüzde 950” ibaresinden sonra gelmek üzere “, tıpta
+uzmanlık mevzuatına göre yan dal uzmanlıkları bulunan öğretim üyelerine yüzde 1150” ibaresi ve beşinci
+cümlesine “yüzde 1900’ünü” ibaresinden sonra gelmek üzere “, tıpta uzmanlık mevzuatına göre yan dal
+uzmanlıkları bulunan öğretim üyeleri için yüzde 2300’ünü” ibaresi eklenmiştir.
 gerçekleştirilmesinde, kaynakların ekonomik, verimli ve tasarruflu kullanılması esastır.
 Yapılacak olan ödemelerde gelir-gider dengesinin gözetilmesi zorunludur.
 Yapılacak ek ödemenin oranları ile bu ödemelerin esas ve usulleri; yükseköğretim
@@ -2918,14 +2990,6 @@ sayılı Kanun Hükmünde Kararnamenin ek 9 uncu maddesi uyarınca kadro ve gör
 veya pozisyon unvanı itibarıyla belirlenmiş olan ek ödemenin net tutarından az olamaz ve bu
 kapsamda söz konusu ek 9 uncu maddeye göre belirlenen ek ödeme tutarı bu fıkralar uyarınca
 döner sermaye gelirlerinden yapılacak ek ödemeden mahsup edilmek üzere merkezî yönetim
-
-73 2/1/2014 tarihli ve 6514 sayılı Kanunun 12 nci maddesiyle, bu maddeye (g) fıkrasından sonra gelmek üzere
-“h” ve “ı” fıkraları eklenmiş ve mevcut fıkralar buna göre teselsül ettirilmiştir.
-74 26/7/2018 tarihli ve 7146 sayılı Kanunun 8 inci maddesiyle, (h) fıkrasının beşinci cümlesinde yer alan “ek
-ödeme toplamı” ibaresinden sonra gelmek üzere “, özellikli tıbbi işlemler ve uluslararası sağlık hizmetleri
-kapsamında yapılacak ek ödeme hariç olmak üzere,” ibaresi eklenmiştir.
-75 16/6/2022 tarihli ve 7411 sayılı Kanunun 6 ncı maddesiyle bu fıkrada yer alan “800’ünü”, “800” ve
-“1600’ünü” ibareleri sırasıyla “950’sini”, “950” ve “1900’ünü” şeklinde değiştirilmiştir.
 bütçesinden karşılanır.
 j) Döner sermaye işletmelerinin faaliyet alanları, gelir ve giderleri, sermaye limitleri
 ile işletmelerin yönetimine ilişkin esas ve usuller Maliye Bakanlığının uygun görüşü üzerine
@@ -2938,10 +3002,35 @@ elemanına ödenecek gelirin yüzde 85’i, herhangi bir vergi kesintisi yapılm
 elemanına ödenir. Kalan tutar, (b) fıkrasında belirtilen işler için kullanılır. Bu kapsamda
 değerlendirilecek proje ve faaliyetlere, öğretim elemanının müracaatı doğrultusunda, üniversite
 yönetim kurulunun izni ile karar verilir.
+1) (Ek:30/7/2026-7592/7 md.) Ek 43 üncü madde gereğince Ar-Ge faaliyetleri için bir
+koordinatör yükseköğretim kurumunun bünyesinde birden fazla yükseköğretim kurumunun iş
+birliği ile kurulan ortak uygulama ve araştırma merkezinde yürütülen projeler sonucunda elde
+edilen gelirler, koordinatör üniversitenin döner sermaye işletmesinin ayrı bir hesabında toplanır.
+Bu kapsamda elde edilen gelirin en fazla yüzde 50’si, gelire katkıları oranında ilgili öğretim
+elemanlarına ödenir. Kalan tutar, (b) fıkrasında belirtilen işler için kullanılır. Bu maddenin (c)
+ve (d) fıkrası kapsamına giren öğretim elemanlarına ortak uygulama ve araştırma merkezindeki
+görevleri süresince kadrolarının bulunduğu yükseköğretim kurumlarından ilgili mevzuatı
+kapsamında döner sermaye ek ödemesi yapılmaya devam edilir. Yürütülen proje gelirlerinden
+alınan dayanıklı taşınırlar koordinatör üniversitenin envanterine kaydedilerek proje kapsamında
+ortak uygulama ve araştırma merkezi üniversitelerine tahsis edilebilir. Proje tamamlandığında
+dayanıklı taşınırların kurumlar arası bedelsiz devirle hangi yükseköğretim kurumuna
+verileceğine ortak uygulama ve araştırma merkezi yönetim kurulunca karar verilir. Koordinatör
+üniversite değişikliğinde ortak uygulama ve araştırma merkezinin borç, alacak ve nakit
+bakiyeleri yeni koordinatör üniversiteye devredilir.
+m) (Ek:30/7/2026-7592/7 md.) 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel
+Kanununun ek 9 uncu maddesi kapsamında birlikte kullanımdaki sağlık tesislerinin bir önceki
+yıl gayrisafi hasılatının yüzde 2,5 oranı dikkate alınarak ilgili üniversitelerin bünyesinde
+yürütülen bilimsel araştırma projelerinin desteklenmesi amacıyla yılı merkezi yönetim
+bütçesinde gerekli ödenek ilgili üniversite bütçesine tahsis edilir. Birlikte kullanımdaki bir
+sağlık tesisinin birden fazla üniversite ile protokol akdetmiş olması hâlinde ise yüzde 2,5 oranı;
+üniversitelerin birlikte kullanımdaki sağlık tesisinde görevlendirdiği öğretim elemanı sayısıyla
+orantılı şekilde bölünerek hesaplanır. Bu kapsamda yürütülecek işlemlere ilişkin usul ve esaslar
+Hazine ve Maliye Bakanlığı ile Sağlık Bakanlığının uygun görüşü alınarak Yükseköğretim
+Kurulu tarafından çıkarılacak yönetmelikle belirlenir.
 
 ONBİRİNCİ BÖLÜM
 Çeşitli Hükümler
-Siyasi partilere üyelik ve görev alma:76
+Siyasi partilere üyelik ve görev alma:83
 
 MADDE 59
 
@@ -2955,21 +3044,21 @@ Yükseköğretim kurumlarının öğrencileri, siyasi partilere üye olabilirler
 Siyasi partilere üye olan öğretim elemanları ve öğrenciler, yükseköğretim kurumları
 içinde parti faaliyetinde bulunamaz ve parti propagandası yapamazlar.
 
-MADDE 60 — Kurumlara dönüş:77
+MADDE 60 — Kurumlara dönüş:84
 
 a. (Değişik: 1/11/1990 - 3676/1 md.) Bir süre öğretim üyesi olarak çalıştıktan sonra
 Cumhurbaşkanı yardımcılığına, bakanlığa veya Yasama Organı Üyeliğine seçilenler, bu
 görevlerde geçirdikleri süreler hesaba katılmak ve buna göre aylık dereceleri yükseltilmek,
 meslek unvan ve sıfatlarını kazanma ile ilgili hükümler saklı kalmak şartıyla başvurmaları
 halinde bu Kanun hükümlerine göre ayrıldıkları yükseköğretim kurumuna kadro koşulu
-aranmaksızın dönerler.78
+aranmaksızın dönerler.85
 (Ek bent: 17/9/2004-5234/2 md.) Bunlardan emekli iken yüksek öğretim kurumlarına
 dönenlerin veya yüksek öğretim kurumlarına döndükten sonra emekliliğe hak kazanıp emekli
 olanların emekli aylıkları kesilmez. (Mülga ikinci cümle: 18/6/2017-7033/17 md.) (…)
 
-76 Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.
-77 Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü maddesiyle değiştirilmiştir.
-78 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi
+83 Madde başlığı 2/7/1997 tarih ve 4278 sayılı Kanunun 1 inci maddesiyle değiştirilmiştir.
+84 Madde başlığı 14/4/1982 tarih ve 2653 sayılı Kanunun 4 üncü maddesiyle değiştirilmiştir.
+85 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kuruluna” ibaresi
 “Cumhurbaşkanı yardımcılığına, bakanlığa” şeklinde değiştirilmiştir.
 b. (Değişik: 1/11/1990 - 3676/1 md.) Yükseköğretim kurumlarından, mahkeme veya
 disiplin kararları ile çıkarılanlar hariç olmak üzere herhangi bir nedenle kendi isteği ile ayrılan
@@ -3039,14 +3128,14 @@ yetkisinde olan seçim ve atamalarla ilgili hususlar,
 ile ilgili hususlar,
 (3) (Mülga: 17/2/2011-6114/11 md.)
 (4) Bu kanun kapsamındaki yükseköğretim kurumlarında doktor öğretim üyeliğine,
-doçentlik ve profesörlüğe yükseltilme ve atanma işlemleri,79
+doçentlik ve profesörlüğe yükseltilme ve atanma işlemleri,86
 (5) Öğretim elemanlarının yetiştirilme esasları,
 (6) Haftalık ders yükü çalışma esasları,
 (7) Yabancı uyruklu öğrencilerin harçları ile harçlar konusuna ilişkin uygulama esasları,
 (8) Ders kitaplarının ve teksirlerinin bastırılmasında uygulanacak esaslar ve ödenecek
 telif hakları ile ilgili hususlar,
 (9) Öğretim elemanları, memur ve diğer personel ile öğrencilerin disiplin işlemleri,
-disiplin amirlerinin yetkileri ve disiplin kurullarının teşkili ve çalışması ile ilgili hususlar,80
+disiplin amirlerinin yetkileri ve disiplin kurullarının teşkili ve çalışması ile ilgili hususlar,87
 (10) Yükseköğretim kurumları ve bunlara bağlı kuruluş ve birimler tarafından yapılacak
 bilimsel, teknik inceleme ve araştırma ile yayımların gerektireceği her türlü giderlere ve
 üniversitelerin inşaat, makine ve teçhizatı ile ilgili işlerle bunların bakım ve onarımlarına
@@ -3064,9 +3153,9 @@ b. Aşağıdaki hususlar Üniversitelerarası Kurul tarafından çıkarılacak y
 düzenlenir:
 (1) Lisansüstü öğretim esasları,
 
-79 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu bentte yer alan “yardımcı doçentlik” ibaresi
+86 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu bentte yer alan “yardımcı doçentlik” ibaresi
 “doktor öğretim üyeliğine” şeklinde değiştirilmiştir.
-80 Anayasa Mahkemesi’nin 8/9/2022 tarihli ve E.: 2022/54, K.: 2022/99 sayılı Kararı ile bu alt bentte yer alan
+87 Anayasa Mahkemesi’nin 8/9/2022 tarihli ve E.: 2022/54, K.: 2022/99 sayılı Kararı ile bu alt bentte yer alan
 “ile öğrencilerin” ibaresi “disiplin işlemleri” ve “ile ilgili hususlar” ibareleri yönünden iptal edilmiştir.
 (2) Bu Kanunun uygulanması ile ilgili diğer akademik hususlar.
 
@@ -3115,7 +3204,7 @@ birimlerden birini veya birden fazlasını ya da bir üniversite veya yüksek te
 bağlı olmaksızın, ekonominin ihtiyaç duyduğu alanlarda yüksek nitelikli işgücü yetiştirmek
 amacıyla, bu Kanun hükümleri çerçevesinde kalmak şartıyla meslek yüksekokulu kurabilir. Bu
 meslek yüksekokulu, kamu tüzel kişiliğini haiz olup, Cumhurbaşkanı kararı ile kurulur. Kurulacak
-meslek yüksekokullarına, meslek ve teknik eğitim bölgesinde gereksinim duyulması esastır.81
+meslek yüksekokullarına, meslek ve teknik eğitim bölgesinde gereksinim duyulması esastır.88
 
 EK MADDE 3
 
@@ -3146,7 +3235,7 @@ devredileceğine dair belgeler; açılmış olan tıp programına öğrenci alab
 şartları haiz hastanesinin varlığını gösteren belgeler.
 (Değişik: 7/6/1989 - KHK-369/4 md.; Aynen Kabul: 23/11/1989 - 3589/4 md.;
 İptal: Anayasa Mahkemesinin 30/5/1990 tarihli ve E. : 1990/2, K. : 1990/10 sayılı
-Kararıyla)82
+Kararıyla)89
 (Ek: 3/4/1991-3708/5 md.; İptal: Anayasa Mahkemesinin 29/6/1992 tarihli ve E.
 1991/21, K. 1992/42 Sayılı Kararıyla.)
 
@@ -3155,9 +3244,9 @@ EK MADDE 4
 (Ek: 17/8/1883-2880/32 md.)
 Askeri ve emniyetle ilgili eğitim kurum veya birimleri vakıflar tarafından açılamaz.
 
-81 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
+88 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
 görüşü alınarak Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-82 Söz konusu Anayasa Mahkemesi Kararı, Resmi Gazete’de yayımlandığı 9/2/1991 tarihinden başlayarak bir yıl
+89 Söz konusu Anayasa Mahkemesi Kararı, Resmi Gazete’de yayımlandığı 9/2/1991 tarihinden başlayarak bir yıl
 sonra yürürlüğe girmiştir.
 
 EK MADDE 5
@@ -3192,7 +3281,7 @@ EK MADDE 7
 (Ek:17/8/1983 - 2880/32 md.; Değişik:3/4/1991 - 3708/6 md.) Vakıflarca
 kurulacak yükseköğretim kurumları, bu Kanunun 56 ncı maddesinde yer alan mali kolaylıklardan,
 muafiyetlerden ve istisnalardan aynen istifade ederler ve bunlar emlak vergisinden muaf
-tutulurlar.83
+tutulurlar.90
 (Ek fıkra: 3/4/2013-6456/24 md.) Vakıflar tarafından kurulan yükseköğretim kurumları
 kamulaştırma yoluyla taşınmaz edinemez.
 
@@ -3202,7 +3291,7 @@ EK MADDE 8
 Vakıfca kurulacak yüksekögretim kurumlarındaki akademik organlar, Devlet
 yükseköğretim kurumlarındaki akademik organlar gibi düzenlenir ve onların görevlerini
 
-83 2/4/2026 tarihli ve 7577 sayılı Kanunun 2 nci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
+90 2/4/2026 tarihli ve 7577 sayılı Kanunun 2 nci maddesiyle 1/1/2027 tarihinde yürürlüğe girmek
 üzere bu fıkraya “kurumları” ibaresinden sonra gelmek üzere “(13/6/2006 tarihli ve 5520 sayılı
 Kurumlar Vergisi Kanununun 4 üncü maddesinin birinci fıkrasının (b) bendi kapsamındaki muafiyet
 hükmü hariç)” ibaresi eklenmiştir. Söz konusu düzenleme, yürürlüğe girdiği tarihte Mevzuat Bilgi
@@ -3262,38 +3351,205 @@ talep edilebilir.
 EK MADDE 11
 
 (Ek: 17/8/1983 - 2880/32 md.)
-Vakıflarca kurulacak yükseköğretim kurumlarında, beklenen eğitim - öğretimdüzeyinin
-yetersizliğinin Yükseköğretim Kurulunca tespit edilmesi ve durumun düzeltilmesi için gerekli
-uyarı ve önerilerin sonuçsuz kalması halinde bu kurumun faaliyeti Yükseköğretim Kurulunca
-durdurulur.
-(Ek fıkra: 19/11/2014-6569/31 md.) Eğitim-öğretim faaliyetlerini yürütmekle birlikte
-kurucu vakfa veya üçüncü şahıslara doğrudan ya da dolaylı kaynak aktardığı Maliye Bakanlığının
-görüşü alınarak Yükseköğretim Kurulu tarafından belirlenen nesnel ve ölçülebilir kriterlere göre
-tespit edilen vakıf yükseköğretim kurumları hakkında, verilen süre içerisinde aktarılan kaynağın
-vakıf yükseköğretim kurumuna iade edilmemesi hâlinde, Yükseköğretim Kurulu gerektiğinde
-düzeltici, kısıtlayıcı veya faaliyet iznini kaldırma şeklinde tedbir niteliğinde kararlar alır.
-(Ek fıkra: 20/8/2016-6745/15 md.) Yapılan denetimler sonucu faaliyet izninin
-kaldırılmasını gerektiren durumlar tespit edilen vakıf yükseköğretim kurumları ile kurucu
-vakıflarına kayyım atanan vakıf yükseköğretim kurumlarının faaliyet izni, Cumhurbaşkanı
-kararı ile kaldırılır. Bu durum, ilgili vakıf yükseköğretim kurumunun kuruluş kanununun
-yürürlükten kaldırılmasının sağlanması için Yükseköğretim Kurulu tarafından Millî Eğitim
-Bakanlığına bildirilir. (Ek cümle: 15/4/2020-7243/13 md.) Vakıf yükseköğretim kurumunun
-faaliyet izninin kaldırılması, kurucu vakfın tüzel kişiliğini etkilemez. Faaliyet izni kaldırılan
-vakıf yükseköğretim kurumlarında kayıtlı öğrenciler Yükseköğretim Kurulu tarafından
-garantör üniversiteye veya belirlenecek bir Devlet üniversitesine intikal ettirilir. (Ek cümle:
-15/4/2020-7243/13 md.) Öğrenciler, bursluluk durumları gözetilmek şartıyla eğitim-öğretim
-ücretlerini garantör üniversiteye ödemeye devam eder.8485
+(Değişik birinci fıkra:30/7/2026-7592/8 md.) Vakıf yükseköğretim kurumlarının
+mevzuata aykırı fiil ve işlemlerinin ağırlık derecesine göre; uyarma veya uyarma ve düzeltme
+isteme, yeni akademik birim kurma ve/veya program açma taleplerinin askıya alınması, öğrenci
+kontenjanının kısıtlanması veya öğrenci alımının durdurulması, faaliyet izninin geçici olarak
+durdurulması ve faaliyet izninin kaldırılması önlem ve yaptırımları uygulanır. Yükseköğretim
+Kurulu teklif edilen bu önlem ve yaptırımları vakıf yükseköğretim kurumlarının vermiş olduğu
+cevabı ve ilgili denetim döneminde; söz konusu önlem ve yaptırımı gerektiren eksiklikleri veya
+aykırılıkları gidermeye elverişli/uygun nitelikteki somut çalışmalarını dikkate alarak alt önlem
+ve yaptırımlara indirebilir. Bu maddede sayılan önlem ve yaptırım uygulanmasını gerektiren
+fiillere, nitelik ve ağırlıkları itibarıyla benzer fiillerin işlenmesi halinde de aynı türden önlem ve
+yaptırım uygulanır.
+(Ek fıkra: 19/11/2014-6569/31 md.) (Değişik ikinci fıkra:30/7/2026-7592/8 md.)
+Uyarma veya uyarma ve düzeltme isteme: Vakıf yükseköğretim kurumuna, fiil ve işlemlerinde
+daha dikkatli olmasının ve tespit edilen eksikliklerin ve aykırılıkların, istenen bilgi ve belgelerin
+niteliğine bağlı olarak on beş günden az olmamak üzere verilen süre içerisinde fiilin durumuna
+göre tamamlanması veya düzeltilmesinin yazılı şekilde bildirilmesidir. Uyarma veya uyarma ve
+düzeltme isteme önlemini gerektiren işlem ve fiiller şunlardır:
+a) Yükseköğretim Kurulu tarafından istenen bilgi ve belgelerin haklı bir sebep olmaksızın
+belirlenen süre içerisinde verilmemesi,
+b) Denetleme raporlarında yer alan ve düzeltilmesi için vakıf yükseköğretim kurumuna
+bildirilen hususların belirlenen süre içerisinde yerine getirilmemesi,
+c) Vakıf yükseköğretim kurumlarının mütevelli heyetinin mevzuata uygun olarak
+oluşturulmaması ve/veya değişikliklerin bir ay içinde bildirilmemesi,
+ç) Vakıf yükseköğretim kurumu yöneticilerinin mevzuata aykırı olarak atanması,
+d) Akademik ve idari birim yöneticiliklerinin bir yıldan uzun süre veya yaygın olarak
+vekâleten yürütülmesi,
+e) Vakıf yükseköğretim kurumları bünyesindeki kurulların mevzuata uygun olarak
+oluşturulmaması veya çalıştırılmaması,
+f) Vakıf yükseköğretim kurumunun işlem ve faaliyetine ilişkin kayıtlarının usulüne uygun
+tutulmaması,
+g) Öğretim elemanı atama ve yükseltme işlemlerinin mevzuata uygun olarak yapılmaması,
+ğ) Öğretim elemanlarına, uzmanlık alanı dışında veya haftalık teorik ve uygulamalı
+derslerde tez danışmanlığı ve uzmanlık alan ders yükü hariç toplam otuz saatin üzerinde ders
+yükü verilmesi,
+h) Öğretim üyelerine Yükseköğretim Kurulu tarafından belirlenen tez danışmanlığı
+sınırının üzerinde ve/veya uzmanlık alanı dışında danışmanlık verilmesi,
+ı) Akademik ve idari personel ile öğrencilere ilişkin disiplin işlemlerinin mevzuata uygun
+yürütülmemesi,
+i) Öğrenciler için gerekli açık ve kapalı alanların; uygulama, araştırma, eğitim ve öğretim
+faaliyetlerinin yürütüldüğü mekanların yeterlilik, lisanslama ya da ruhsatlandırma işlemleri gibi
+konularda Yükseköğretim Kurulu ile diğer kurum ve kuruluşların belirlediği standartlara uygun
+olmaması,
+j) Bu Kanunun 47 nci maddesinde düzenlenen öğrencilerin barınma, beslenme, çalışma,
+dinlenme ve boş zamanlarının değerlendirilmesine yönelik hizmetler ile engelli öğrencilere
+yönelik hizmetlerin yetersiz olması,
+k) Araştırma ve geliştirme bütçesinin Yükseköğretim Kurulu tarafından belirlenen asgari
+orandan düşük olması veya harcamaların Yükseköğretim Kurulu tarafından belirlenen harcama
+kalemlerine aykırı olması,
+l) Reklam ve tanıtım giderlerinin Yükseköğretim Kurulu tarafından belirlenen azami
+orandan yüksek olması,
+m) Vakıf yükseköğretim kurumu yönetici ve temsilcilerinin vakıf yükseköğretim
+kurumundan doğrudan veya dolaylı olarak mevzuata aykırı menfaat sağlaması veya vakıf
+yükseköğretim kurumuna ait her türlü varlık, hak ve yetkileri amacı dışında ya da özel işlerinde
+kullanması,
+n) Kurucu vakfın ve/veya vakıfların yönetim organındaki her türlü değişikliğin bir ay
+içinde bildirilmemesi,
+o) Vergi dairelerine olan borçlar ile sosyal güvenlik prim borçlarının zamanında
+ödenmemesi,
+ö) Vakıf yükseköğretim kurumunun kuruluş taahhütlerinin yerine getirilmemesi,
+p) Öğrenci ücret artış oranının bu Kanunun ek 9 uncu maddesine aykırı şekilde
+belirlenmesi,
+r) Her bir programda ücretsiz okutulması gereken öğrenci sayısının, bu Kanunun ek 9
+uncu maddesinde belirlenen oranın altında kalması,
+s) Öğrenci kabul ve kayıt işlemlerinde, bulunması ve teyidi zorunlu olan belgelerin
+süresinde ve eksiksiz olarak tamamlatılmaması.
+(Ek fıkra:30/7/2026-7592/8 md.) Yeni akademik birim kurma ve/veya program açma
+taleplerinin askıya alınması: Vakıf yükseköğretim kurumunun akademik birim ve/veya
+program açılması ya da daha önce açılmasına izin verilmiş ve ilk defa öğrenci alınacak
+programlara ilişkin taleplerinin bir yıl süre ile askıya alınmasıdır. Yeni akademik birim kurma
+ve/veya program açma taleplerinin askıya alınması yaptırımını gerektiren fiil ve işlemler
+şunlardır:
+a) Uyarma veya uyarma ve düzeltme isteme önlemine konu olan hususların belirlenen
+süre içerisinde düzeltilmemesi,
+b) Vakıf yükseköğretim kurumu tarafından çıkarılan mevzuatın, bu Kanun ve ilgili
+ikincil mevzuat hükümlerine aykırı hükümler içermesi,
+c) Vakıf yükseköğretim kurumunun kuruluş taahhütlerinde yer alan mal varlığı
+unsurlarının Yükseköğretim Kurulundan izin alınmaksızın değiştirilmesi veya elden
+çıkarılması,
+ç) Denetim faaliyetlerinin yürütülmesi sırasında gerçeğe aykırı beyanda bulunulması,
+d) Alım, satım ve ihalelerde vakıf yükseköğretim kurumunu zarara uğratıcı nitelikte
+usulsüzlük yapılması,
+e) Vakıf yükseköğretim kurumunun mali tablolarında gelir-gider ve mallarının eksik
+gösterilmesi,
+f) Vakıf yükseköğretim kurumunun eğitim ve öğretim, yayın, danışmanlık, ticari ve
+diğer faaliyetleri ile bağışlardan elde ettiği diğer gelirler de dahil olmak üzere gelirlerini,
+yükseköğretim kurumunun akademik faaliyetleri ile yatırım ve cari giderlerini finanse
+etmekte kullanmadığının tespit edilmesi,
+g) Vakıf yükseköğretim kurumu kurucu vakfı veya vakıfları tarafından kuruluşta
+taahhüt edilen harcamaların yükseköğretim kurumu gelirlerinden karşılanması,
+ğ) Vakıf yükseköğretim kurumu mütevelli heyetine üye seçilmesi, yenilenmesi ve
+üyeliklerinin sona erdirilmesinde hileli işlemlerin yapılması, mütevelli heyet üyelerinin
+toplantılara katılımlarının engellenmesi ve bu Kanunun ek 5 inci maddesinde zikredilen
+mütevelli heyet üyesi olma niteliklerini kaybettiği tespit edilen vakıf yükseköğretim kurumu
+organı üyelerinin görevlerine, bu durumun öğrenilmesinden itibaren bir ay içinde son
+verilmemesi,
+h) Eğitim ve öğretim faaliyetlerinin Yükseköğretim Kurulunun izin verdiği, yer ve
+alanlar dışında yapılması.
+(Ek fıkra:30/7/2026-7592/8 md.) Öğrenci kontenjanının kısıtlanması veya öğrenci
+alımının durdurulması: Vakıf yükseköğretim kurumunun önlisans, lisans veya lisansüstü
+programlarındaki mevcut öğrenci kontenjanının bir yıl süre ile azaltılması veya bu
+programlara öğrenci alımının tamamen durdurulmasıdır. Öğrenci kontenjanının kısıtlanması
+veya öğrenci alımının durdurulması yaptırımını gerektiren fiil ve işlemler şunlardır:
+a) Vakıf yükseköğretim kurumunca yeni akademik birim kurma ve/veya program
+açma taleplerinin askıya alınması yaptırımına konu olan hususlarda belirlenen süre içerisinde
+gerekli düzeltmelerin yapılmaması,
+b) Öğrenci kayıt kabulü, sınavlar, yurt içi ve yurt dışı yatay geçiş, mezuniyet
+işlemlerinde veya bunlarla ilgili belgelerde usulsüzlük yapıldığının tespit edilmesi,
+c) Yükseköğretim Kurulundan gerekli izinler alınmadan eğitim programlarının
+açılması veya çift diploma programları düzenlenmesi ve bu programlara öğrenci kabul
+edilmesi,
+ç) Yükseköğretim Kurulu tarafından kabul edilen kontenjanların üzerinde öğrenci
+kaydedilmesi,
+d) Eğitim ve öğretime başlanması ve sürdürülmesi için Yükseköğretim Kurulu
+tarafından belirlenen öğretim elemanı sayılarının sağlanmadığının tespit edilmesi veya bu
+sayıların sağlanmış gösterilmesine yönelik yanıltıcı beyanda bulunulması,
+e) Bir diploma programı için gerekli asgari öğretim elemanı dışında ilgili programda
+eğitim ve öğretim faaliyetlerine katkısı bulunmayan kişilerin; söz konusu programın
+akademik kadrosunda gösterilmesi,
+f) Eğitim ve öğretimin bu Kanunun 44 üncü maddesi kapsamında Yükseköğretim
+Kurulunca belirlenmiş kredi yükü, programlara göre uygulamalı eğitim esasları başta olmak
+üzere her bir diploma programının gerektirdiği bilgi, beceri ve yetkinliklere uygun olarak
+yürütülmemesi.
+(Ek fıkra:30/7/2026-7592/8 md.) Öğrenci kontenjanının kısıtlanması veya öğrenci
+alımının durdurulması yaptırımı, öncelikle ihlalin gerçekleştiği programda, mümkün
+olmaması durumunda ise kontenjan ve öğrenim ücreti miktarı bakımından emsal olacak diğer
+bir programda mevcut öğrenci kontenjanının yüzde kırkını geçmemek üzere bir yıl süre ile
+uygulanır. Aynı ihlalin bir sonraki denetim döneminde tespit edilmesi halinde bu programlara
+öğrenci alımı bir yıl süre ile tamamen durdurulur.
+(Ek fıkra:30/7/2026-7592/8 md.) Faaliyet izninin geçici olarak durdurulması: Vakıf
+yükseköğretim kurumunun faaliyet izninin toplamda üç yılı geçmemek üzere birer yıl süreyle
+geçici olarak durdurulması ve yönetiminin garantöre ya da Yükseköğretim Kurulu tarafından
+belirlenecek bir devlet üniversitesine devredilmesidir. Faaliyet izninin geçici olarak
+durdurulması yaptırımını gerektiren fiil ve işlemler şunlardır:
+a) Öğrenci kontenjanının kısıtlanması veya öğrenci alımının durdurulması yaptırımını
+gerektiren aynı fiile veya işleme en fazla yedi yıl içerisindeki dört genel denetim döneminde
+Yükseköğretim Kurulunca yaptırım uygulandığının tespit edilmiş olması,
+b) Vakıf yükseköğretim kurumlarının eğitim ve öğretim ile idari, mali ve ekonomik
+faaliyetlerinin gözetim ve denetimine ilişkin inceleme ve soruşturma faaliyetlerine kasten
+engel olunması,
+c) Üniversitenin mali yönetim ve kontrol sisteminin kasıtlı olarak zaafa uğratılması,
+ç) Tutulması gereken defter ve muhasebe kayıtlarının tahrif veya yok edilmesi ya da
+gizlenmesi,
+d) Vakıf yükseköğretim kurumunun muaccel ve kısa vadeli borçlarını, toplam yıllık
+eğitim ve öğretim gelirleriyle veya eğitim alanı hariç mevcut mal varlığıyla ödeme imkânının
+bulunmadığının Hazine ve Maliye Bakanlığının görüşü ve Yükseköğretim Kurulunun
+kararıyla tespit edilmesi halinde; vakıf yükseköğretim kurumunun kurucu vakfının,
+Yükseköğretim Kurulunun altı ayı geçmemek üzere vereceği süre içinde vakıf yükseköğretim
+kurumunu acz halinden kurtaracak varlığı karşılayamaması veya kesin teminat mektubunu
+ibraz edememesi.
+(Ek fıkra:30/7/2026-7592/8 md.) Faaliyet izninin geçici olarak durdurulması
+durumunda yükseköğretim kurumunun yönetimi, garantöre ya da Yükseköğretim Kurulu
+tarafından kapasitesi dikkate alınarak belirlenecek aynı ildeki bir devlet üniversitesine
+devredilir. Kasıtlı fiil ve işlemleriyle faaliyet izninin geçici olarak durdurulmasına sebep
+olanlara, vakıf yükseköğretim kurumu organlarında görev verilmez.
+(Ek fıkra:30/7/2026-7592/8 md.) Faaliyet izninin kaldırılması: Vakıf yükseköğretim
+kurumunun kuruluş kanununun yürürlükten kaldırılmasıdır. Faaliyet izninin kaldırılması
+yaptırımını gerektiren fiil ve işlemler şunlardır:
+a) Vakıf yükseköğretim kurumunun, kuruluş tarihinden itibaren üç yıl içinde eğitim ve
+öğretime başlamaması veya bu süre içinde kurucu vakfın kuruluş taahhüdü olarak devir,
+temlik ya da taahhüt ettiği mal varlığı unsurlarının vakıf yükseköğretim kurumunun
+faaliyetini sürdürmeye imkân vermeyecek ölçüde kaybedildiğinin Yükseköğretim Kurulu
+tarafından tespit edilmesi ve durumun nihai süre içinde aynen yahut nakden eski haline
+getirilmemesi,
+b) Faaliyet izninin geçici olarak durdurulması süresinin kesintisiz olarak üç yıl devam
+etmesi ve üçüncü yılın sonunda yapılan denetimde yaptırımı gerektiren durumların ortadan
+kalkmadığının Yükseköğretim Kurulu tarafından tespit edilmesi,
+c) Faaliyet izninin geçici olarak durdurulması yaptırımının Yükseköğretim Kurulu
+tarafından kaldırılmasından sonra kurucu vakfa devredilen vakıf yükseköğretim kurumunun
+mütevelli heyetinin devirden itibaren altı ay içerisinde oluşturulamaması,
+ç) Kurucu vakfa veya üçüncü şahıslara doğrudan ya da dolaylı olarak kaynak aktarımı
+olarak kabul edilen tutarın, altı ayı geçmemek üzere verilen süre içerisinde vakıf
+yükseköğretim kurumuna iade edilmemesi,
+d) Faaliyet izni geçici olarak durdurulan vakıf yükseköğretim kurumunun, eğitim ve
+öğretim faaliyetlerini sürdürebileceği yeterli taşınmazı bulunmadığının veya mevcut
+malvarlığıyla eğitim ve öğretim faaliyetlerini sürdüremeyeceğinin Yükseköğretim Kurulu
+tarafından tespit edilmesi.
+(Ek fıkra:30/7/2026-7592/8 md.) Hazine ve Maliye Bakanlığının görüşü alınarak
+Yükseköğretim Kurulu tarafından çıkarılacak yönetmelikle, kurucu vakfa veya üçüncü
+şahıslara doğrudan ya da dolaylı kaynak aktarımı olarak kabul edilecek haller, nesnel ve
+ölçülebilir kriterlere göre belirlenir. Yükseköğretim Kurulu, kaynak aktarımının niteliği ve
+miktarına göre bu madde kapsamındaki yaptırımları uygular ve önlemleri alır.
+(Ek fıkra: 20/8/2016-6745/15 md.) (Değişik cümle:30/7/2026-7592/8 md.) Yapılan
+denetimler sonucunda faaliyet izninin kaldırılması gerektiği tespit edilen vakıf yükseköğretim
+kurumunun kuruluş kanununun yürürlükten kaldırılmasının sağlanması için Yükseköğretim
+Kurulu tarafından derhal Cumhurbaşkanlığına ve Türkiye Büyük Millet Meclisi Başkanlığına
+bildirim yapılır. (Mülga cümle:30/7/2026-7592/8 md.) (Ek cümle: 15/4/2020-7243/13 md.)
+Vakıf yükseköğretim kurumunun faaliyet izninin kaldırılması, kurucu vakfın tüzel kişiliğini
+etkilemez. Faaliyet izni kaldırılan vakıf yükseköğretim kurumlarında kayıtlı öğrenciler
+Yükseköğretim Kurulu tarafından garantör üniversiteye veya belirlenecek bir Devlet
+üniversitesine intikal ettirilir. (Ek cümle: 15/4/2020-7243/13 md.) Öğrenciler, bursluluk
+durumları gözetilmek şartıyla eğitim-öğretim ücretlerini garantör üniversiteye ödemeye
+devam eder.9192
 (Ek fıkra: 20/8/2016-6745/15 md.) Faaliyet izni kaldırılan vakıf yükseköğretim
-kurumlarının malvarlığı, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun resmî tasfiye
-hükümlerine göre tasfiye edilir. Resmî tasfiye süreci Yükseköğretim Kurulu tarafından başlatılır.
-Yetkili ve görevli mahkemece Maliye Bakanlığı ve Yükseköğretim Kurulunun birer temsilcisi
-tasfiye memuru olarak atanır. Tasfiye giderleri, tasfiye olunan vakıf yükseköğretim kurumunun
-malvarlığından karşılanır. Tasfiye işlemleri her türlü vergi, resim ve harçtan muaftır.
-
-84 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
-teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-85 15/4/2020 tarihli ve 7243 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya ikinci cümlesinden sonra gelmek üzere
-cümle eklenmiş, mevcut üçüncü cümlesinde yer alan “Bu şekilde faaliyet” ibaresi “Faaliyet” şeklinde değiştirilmiştir.
+kurumlarının malvarlığı, 22/11/2001 tarihli ve 4721 sayılı Türk Medeni Kanununun terekenin
+resmî tasfiyesine ilişkin hükümlerine göre tasfiye edilir, tüzel kişiliği ise tasfiye amacıyla sınırlı
+olmak üzere tasfiye süresince devam eder. Resmî tasfiye süreci Yükseköğretim Kurulu tarafından
+başlatılır. Yetkili ve görevli mahkemece Maliye Bakanlığı ve Yükseköğretim Kurulunun birer
+temsilcisi tasfiye memuru olarak atanır. Tasfiye giderleri, tasfiye olunan vakıf yükseköğretim
+kurumunun malvarlığından karşılanır. Tasfiye işlemleri her türlü vergi, resim ve harçtan muaftır.93
 (Ek fıkra:27/3/2025-7546/11 md.) Mülkiyeti Hazineye ait olup faaliyet izni kaldırılan
 vakıf yükseköğretim kurumlarına bedelsiz olarak devredilmiş olan taşınır ve taşınmaz mallar
 ile haklar tasfiye sürecine dâhil edilmez ve bunların Hazineye intikali sağlanır.
@@ -3315,6 +3571,15 @@ tesis edilen irtifak hakları ile verilen kullanma izinleri iptal edilir ve bu t
 kullanılan taşınmazlar aynı amaçla kullanılmak üzere garantör üniversiteye tahsis edilir.
 (Ek fıkra: 20/8/2016-6745/15 md.) Kurucu vakıflarına kayyım tayin edilen veya faaliyet
 izni kaldırılan vakıf yükseköğretim kurumu mütevelli heyet başkanı ve üyeleri ile tüm
+
+91 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Yükseköğretim Kurulunun
+teklifi ve Bakanlar Kurulunun” ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
+92 15/4/2020 tarihli ve 7243 sayılı Kanunun 13 üncü maddesiyle, bu fıkraya ikinci cümlesinden sonra gelmek üzere
+cümle eklenmiş, mevcut üçüncü cümlesinde yer alan “Bu şekilde faaliyet” ibaresi “Faaliyet” şeklinde değiştirilmiştir.
+93 30/7/2026 tarihli ve 7592 sayılı Kanunun 8 inci maddesiyle bu fıkranın birinci cümlesinde yer alan “resmî
+tasfiye” ibaresi “terekenin resmî tasfiyesine ilişkin” şeklinde değiştirilmiş ve “tasfiye edilir” ibaresinden sonra
+gelmek üzere “, tüzel kişiliği ise tasfiye amacıyla sınırlı olmak üzere tasfiye süresince devam eder” ibaresi
+eklenmiştir.
 yöneticilerinin görevleri kendiliğinden sona erer. Bu vakıf yükseköğretim kurumunda çalışmakta
 olan akademik ve diğer personelin hizmet sözleşmeleri hakkında 22/5/2003 tarihli ve 4857 sayılı
 İş Kanunu hükümleri uygulanır.
@@ -3361,7 +3626,7 @@ yetkisini kullanır ve görevlerini yapar.
 
 EK MADDE 13
 
-(Ek: 17/8/1983 - 2880/32 md.; Mülga: 3/4/1991 - 3708/8 md.)86
+(Ek: 17/8/1983 - 2880/32 md.; Mülga: 3/4/1991 - 3708/8 md.)94
 
 EK MADDE 14
 
@@ -3379,10 +3644,6 @@ EK MADDE 15
 Vakıf tüzelkişiliğinin herhangi bir şekilde nihayete ermesi halinde, vakıf yükseköğretim
 kurumu tüzelkişiliği devam eder ve vakıf tarafından yükseköğretim kurumu tüzelkişiliğine tahsis
 edilen her türlü taşınır ve taşınmaz mal, araç-gereç, malzeme, para ve ekonomik değeri olan
-
-86 Bu maddenin 3589 sayılı Kanun ile değişik hükmü; Anayasa Mahkemesinin 30/5/1990 tarih ve E: 1990/2,
-K: 1990/10 sayılı Kararıyla 9/1/1992 tarihinden geçerli olmak üzere iptal edilmiş ise de iptal hükmü
-yürürlüğe girmeden önce 3/4/1991 tarih ve 3708 sayılı Kanun ile yürürlükten kaldırılmıştır.
 haklar yükseköğretim kurumunun mülkiyetine geçer.
 Bu durumda vakıf yüksekögretim kurumu mütevelli heyeti üyeleri ile yükseköğretim
 kurumu yöneticilerinin seçilmesi yetkisi, Yükseköğretim Kurulunun olumlu görüşü üzerine
@@ -3406,6 +3667,10 @@ yönetim kurulunun kararı ile gerçekleştirilir.
 Merkezi açıköğretim yapan fakültelere bağlı olarak örgün öğretim yapan bölüm varsa,
 zaman içinde bu bölümün müstakil örgün eğitim yapan yüksekokul haline dönüştürülmesi
 yada örgün öğretim yapan fakülte, yüksekokul ve meslek yüksekokullarında örgün öğretim
+
+94 Bu maddenin 3589 sayılı Kanun ile değişik hükmü; Anayasa Mahkemesinin 30/5/1990 tarih ve E: 1990/2,
+K: 1990/10 sayılı Kararıyla 9/1/1992 tarihinden geçerli olmak üzere iptal edilmiş ise de iptal hükmü
+yürürlüğe girmeden önce 3/4/1991 tarih ve 3708 sayılı Kanun ile yürürlükten kaldırılmıştır.
 yapan bölümlerin yanı sıra, açıköğretim yapan bölümler kurulması, üniversite senatosunun
 teklifi ve Yükseköğretim Kurulunun onayı ile olur.
 
@@ -3638,6 +3903,25 @@ kaydıyla, yükseköğretim kurumu yönetim kurulunun kararıyla sermaye şirket
 teknoloji transfer ofisi kurabilirler.
 Ofisin kuruluş sermayesi, bilimsel araştırma projesi kaynaklarından veya döner sermaye
 gelirlerinden karşılanabilir.
+(Ek fıkra:30/7/2026-7592/9 md.) Yükseköğretim kurumları yönetim kurulları,
+masrafları ofis sermayesinden karşılanmak şartıyla 22/12/2016 tarihli ve 6769 sayılı Sınai
+Mülkiyet Kanunu kapsamındaki hizmet buluşlarının hak sahipliğinin ofise devrine karar
+verebilir. Bu durumda yükseköğretim kurumunun ilgili mevzuattan doğan hak ve
+yükümlülükleri ofise ait olur. Ofis, kendi adına tescil edilen haklardan elde edilen gelirin üçte
+birini söz konusu hakları devreden yükseköğretim kurumu döner sermayesine, üçte birinden az
+olmayacak tutarı ise buluşu yapana ödemekle yükümlü olup kalan tutar ofise aittir. Döner
+sermayeye aktarılan bu tutarlardan Hazine payı hariç herhangi bir kesinti yapılmaz ve bu
+tutarlar 58 inci maddenin (b) fıkrasında belirtilen giderler için kullanılır. Bu fıkranın yürürlüğe
+girdiği tarihten önce hak sahipliği yükseköğretim kurumları bünyesinde olan buluş ve
+başvurular hakkında da bu madde hükümleri uygulanır.
+(Ek fıkra:30/7/2026-7592/9 md.) Birden fazla yükseköğretim kurumu ortak bir ofis
+kurmak için başvurabilir. Bu durumda yerleşkesinde veya ortağı olduğu teknoloji geliştirme
+bölgesinde ofis kurulan yükseköğretim kurumu, başvuruda muhatap kurum olarak belirtilir.
+Ofis faaliyetlerine katkı sağlayacağı değerlendirilen diğer tüzel kişiler ofise sermaye koymak
+koşulu ile ortak olabilir.
+(Ek fıkra:30/7/2026-7592/9 md.) Ofis, öz sermayesini veya gelirlerini kullanarak
+üretilen bilgi ve yapılan buluşların ticarileşmesi için yatırım yapabilir veya kamu ve özel sektör
+şirketleri ile ortaklıklar kurabilir.
 Ofiste 4857 sayılı Kanuna tabi olarak işçi statüsünde personel istihdam edilir ve
 28/7/2016 tarihli ve 6735 sayılı Uluslararası İşgücü Kanunu ve ilgili mevzuat hükümleri
 çerçevesinde yabancı uyruklu personel çalıştırılabilir. Ofis faaliyetlerinde hizmetine ihtiyaç
@@ -3708,7 +3992,7 @@ süresinin uzatılması ve sona erdirilmesine ilişkin hususlar ile 60.000 göst
 memur aylık katsayısı ile çarpımı sonucu bulunacak tutarı geçmemek üzere ücretleri
 Yükseköğretim Kurulu tarafından belirlenir. Bunlara, diğer mevzuatta aksine hüküm bulunsa
 dahi, bu maddede öngörülen ücret dışında herhangi bir ad altında ödeme yapılamaz ve
-sözleşmelere bu hususta hüküm konulamaz.87
+sözleşmelere bu hususta hüküm konulamaz.95
 Mali ve sosyal haklar dışında kalan istihdama ilişkin diğer hususlarda 657 sayılı
 Kanunun 4 üncü maddesinin (B) fıkrası kapsamında Ar-Ge proje hizmetlerine ilişkin
 pozisyonlarda istihdam edilen personelin tabi olduğu hükümler uygulanır.
@@ -3724,6 +4008,9 @@ bağımsız dış değerlendirme kurumlarının yetkilendirilmesi süreçlerine 
 Yükseköğretim kurumlarının eğitim-öğretim ve araştırma faaliyetleri ile idari hizmetlerinin
 kalite düzeylerine ilişkin ulusal ve uluslararası kalite standartlarına göre değerlendirmeler yapmak,
 iç ve dış kalite güvencesi, akreditasyon süreçleri ve bağımsız dış değerlendirme kurumlarının
+
+95 15/4/2020 tarihli ve 7243 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “40.000” ibaresi “60.000”
+şeklinde değiştirilmiştir.
 yetkilendirilmesi süreçlerini yürütmek üzere idari ve mali özerkliğe sahip, kamu tüzel kişiliğini
 haiz ve özel bütçeli Yükseköğretim Kalite Kurulu kurulmuştur.
 Yükseköğretim Kalite Kurulu;
@@ -3744,9 +4031,6 @@ içindeki veya yurt dışındaki yükseköğretim kurumlarında en az on yıl g�
 alanlardaki öğretim üyeleri arasından seçilir. Millî Eğitim Bakanlığı tarafından seçilen üyenin
 yükseköğretim kurumunda görev yapmakta olan, yükseköğretimin yapısı, işleyişi ve yönetimi
 ile kalite değerlendirme ve geliştirme uygulamaları konusunda deneyimli, yurt içindeki veya
-
-87 15/4/2020 tarihli ve 7243 sayılı Kanunun 15 inci maddesiyle, bu fıkrada yer alan “40.000” ibaresi “60.000”
-şeklinde değiştirilmiştir.
 yurt dışındaki yükseköğretim kurumlarında en az on yıl görev yapmış öğretim üyesi şartlarını
 taşıması gerekir. Öğrenci temsilcisi, Yükseköğretim Kalite Kurulu tarafından belirlenecek
 ilke ve esaslar dâhilinde belirlenir. Yükseköğretim Kalite Kurulu üyelerinin 657 sayılı
@@ -3764,7 +4048,10 @@ geri dönerler. Görev sürelerinin bitimini müteakip asli görevlerine başlad
 ay başından itibaren asli kadrolarına ilişkin aylıklarını almaya başlarlar. Yükseköğretim Kalite
 Kurulu Başkanı ve Başkan Yardımcısı, görevleri süresince, Cumhurbaşkanınca verilecek geçici
 görevler dışında herhangi bir kamu kuruluşunda ve özel kuruluşlarda ücretli veya ücretsiz
-çalışamazlar, görev alamazlar.88
+çalışamazlar, görev alamazlar.96
+
+96 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
+ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Yükseköğretim Kalite Kurulunun teşkilatı, Kalite Kurulu ile Genel Sekreterlikten
 oluşur. Genel Sekreterlik; kurumsal dış değerlendirme ve dış değerlendirme kuruluşları tescil
 birimi, tanıtım ve paydaş ilişkileri birimi ve yönetim hizmetleri biriminden oluşur.
@@ -3785,9 +4072,6 @@ Başkan Yardımcısı hariç Yükseköğretim Kalite Kurulu üyelerine, Yüksek�
 Yükseköğretim Kurulu Üst Kuruluşları ile yükseköğretim kurumları kadrolarında bulunan
 memurlar, kurumlarının muvafakati ile Yükseköğretim Kalite Kurulu Başkanı tarafından her
 defasında iki yılı geçmemek üzere Yükseköğretim Kalite Kurulunda görevlendirilebilir.
-
-88 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Bakanlar Kurulunca”
-ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 Yükseköğretim Kalite Kurulunun çalışma usul ve esasları ile yükseköğretim
 kurumlarında kalite güvence sistemlerinin kurulması, iç ve dış değerlendirme süreçleri,
 yükseköğretim kurumlarında kurulacak kalite komisyonları, kalite değerlendirme tescil
@@ -3826,23 +4110,20 @@ mezunların istihdamı ile lisans tamamlama süreçlerine ilişkin görüş ve �
 Meslek Yüksekokulları Koordinasyon Kurulunun çalışma usul ve esasları ile üyelerde
 aranacak şartlar, Yükseköğretim Kurulu tarafından çıkarılan yönetmelikle belirlenir.
 
-EK MADDE 38 — Araştırma görevlisi istihdamı:89
+EK MADDE 38 — Araştırma görevlisi istihdamı:97
 
 (Ek: 18/6/2017-7033/18 md.)
 Yükseköğretim kurumları araştırma görevlisi kadrolarına atamalar, 33 üncü maddede
 belirtilen usule uygun olarak 50 nci maddenin birinci fıkrasının (d) bendi kapsamında yapılır.
 Bu kapsamda atananlardan doktora veya sanatta yeterlik eğitimlerini tamamlayanların en
 fazla %30’u doktora veya sanatta yeterlik eğitimini tamamladıkları kurumların senatolarınca
-
-89 18/6/2017 tarihli ve 7033 sayılı Kanunun 18 inci maddesiyle, bu maddenin 1/1/2018 tarihinde yürürlüğe
-gireceği hüküm altına alınmıştır.
 belirlenen ve Yükseköğretim Kurulunca onaylanan performansa dayalı kriterler çerçevesinde
 doktor öğretim üyesi kadrolarına atanabilir. Bu kapsamda atanamayanların, doktora veya
 sanatta yeterlik eğitimini tamamladıkları kurumların öğretim üyesi kadrolarına atanabilmeleri
 için en az bir eğitim-öğretim yılı yurt içinde veya yurt dışında farklı bir yükseköğretim
 kurumunda çalışması gerekir. Bu madde kapsamında atananlara 35 inci maddeye göre yurt
 içinde başka bir yükseköğretim kurumlarındaki doktora veya sanatta yeterlik eğitim süreleri
-için mecburi hizmet yüklenemez.9091
+için mecburi hizmet yüklenemez.9899
 (Ek fıkra: 15/4/2020-7243/16 md.) (Değişik: 1/7/2022-7417/32 md.) 50 nci maddenin
 birinci fıkrasının (d) bendi hükümlerine göre araştırma görevlisi kadrolarına atanıp, doktora veya
 diş hekimliğinde, eczacılıkta ve veteriner hekimlikte uzmanlık ya da sanatta yeterlik eğitimini
@@ -3855,12 +4136,31 @@ en fazla altı ay süreyle daha devam eder. Altı aylık süre içerisinde devle
 kurumlarında alanıyla ilgili doktora veya sanatta yeterlik eğitimine başlamayanların araştırma
 görevlisi kadrolarıyla ilişikleri kendiliğinden kesilir.
 
+97 18/6/2017 tarihli ve 7033 sayılı Kanunun 18 inci maddesiyle, bu maddenin 1/1/2018 tarihinde yürürlüğe
+gireceği hüküm altına alınmıştır.
+98 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçent” ibaresi “doktor
+öğretim üyesi” şeklinde değiştirilmiştir.
+99 1/7/2022 tarihli ve 7417 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “%20’si” ibaresi “%30’u
+şeklinde değiştirilmiştir.
+
 EK MADDE 39
 
 (Ek: 15/8/2017-KHK-694/45 md.; Aynen kabul: 1/2/2018-7078/42 md.)
-Türkiye’deki Devlet üniversiteleri, Cumhurbaşkanı kararıyla yurtdışında akademik
-birimler ve bu kapsamda ihtiyaç duyulan sosyal tesisler kurabilir. Bu maddenin uygulanmasıyla
-ilgili usul ve esaslar Cumhurbaşkanı tarafından çıkarılan yönetmelikle belirlenir.92
+(Değişik:30/7/2026-7592/10 md.)
+Türkiye’deki devlet yükseköğretim kurumları, Cumhurbaşkanı kararıyla yurt dışında
+yerleşke, akademik birim, program ve bu kapsamda ihtiyaç duyulan diğer tesisleri kurabilir.
+Bu madde uyarınca kurulan yurt dışı birimlerinin ihtiyacı olan akademik ve idari
+personel, kendi üniversitesinden veya Türkiye’deki yükseköğretim kurumlarından
+görevlendirme suretiyle veya mahallinden sözleşmeli ya da saat başı ücret karşılığında 2809
+sayılı Kanunun ek 158 inci maddesinin dördüncü fıkrası hükümleri uygulanarak çalıştırılabilir.
+Türkiye’deki yükseköğretim kurumlarından görevlendirme suretiyle çalıştırılacak olanlar
+dışındaki personelin nitelikleri, ücretleri, seçim esas ve usulleri, görev yerleri ve süreleri, azami
+sözleşme süresi, izinleri, yurt dışındaki görevlerinin sona erdirilmesi ile bu maddenin
+uygulanmasına ilişkin diğer usul ve esaslar Cumhurbaşkanı kararıyla belirlenir.
+Üniversitenin yurt dışındaki faaliyetlerinden elde edilen gelirlerin tutulacağı hesaba,
+yapılacak harcamalara, üniversite bütçesinden aktarılacak kaynağa, hesabın
+muhasebeleştirilmesi ve denetimine ilişkin usul ve esaslar Hazine ve Maliye Bakanlığı ile
+Strateji ve Bütçe Başkanlığının uygun görüşü alınarak ilgili üniversite tarafından belirlenir.
 
 EK MADDE 40
 
@@ -3876,18 +4176,7 @@ EK MADDE 41
 (Ek:17/10/2019-7188/5 md.)
 İlgili kanunlarda belirtilen şartlara ilave olarak, hâkim ve savcı yardımcılığı sınavına
 girmek ve avukatlık veya noterlik stajına başlamak için Hukuk Mesleklerine Giriş Sınavında
-veya İdari Yargı Ön Sınavında başarılı olmak şarttır.93
-
-90 22/2/2018 tarihli ve 7100 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “yardımcı doçent” ibaresi “doktor
-öğretim üyesi” şeklinde değiştirilmiştir.
-91 1/7/2022 tarihli ve 7417 sayılı Kanunun 32 nci maddesiyle bu fıkrada yer alan “%20’si” ibaresi “%30’u
-şeklinde değiştirilmiştir.
-92 2/7/2018 tarihli ve 703 sayılı KHK’nin 135 inci maddesiyle, bu fıkrada yer alan “Türkiye Maarif Vakfının
-önerisi, Yükseköğretim Kurulunun olumlu görüşü ve Bakanlar Kurulu” ibaresi “Cumhurbaşkanı” şeklinde,
-“Dışişleri Bakanlığı, Maliye Bakanlığı ve Türkiye Maarif Vakfının görüşleri alınarak Yükseköğretim Kurulu”
-ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
-93 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “hâkim adaylığı” ibaresi
-“hâkim ve savcı yardımcılığı” şeklinde değiştirilmiştir.
+veya İdari Yargı Ön Sınavında başarılı olmak şarttır.100
 Hukuk Mesleklerine Giriş Sınavına, hukuk fakültesinden mezun olanlar ile yabancı bir
 hukuk fakültesini bitirip de Türkiye’deki hukuk fakülteleri programlarına göre eksik kalan
 derslerden sınava girip başarılı olmak suretiyle denklik belgesi almış bulunanlar; İdari Yargı
@@ -3899,6 +4188,9 @@ a) Anayasa Hukuku,
 b) Anayasa Yargısı,
 c) İdare Hukuku,
 d) İdari Yargılama Usulü,
+
+100 23/6/2022 tarihli ve 7413 sayılı Kanunun 21 inci maddesiyle bu fıkrada yer alan “hâkim adaylığı” ibaresi
+“hâkim ve savcı yardımcılığı” şeklinde değiştirilmiştir.
 e) Medeni Hukuk,
 f) Borçlar Hukuku,
 g) Ticaret Hukuku,
@@ -3944,11 +4236,11 @@ Hukuk Mesleklerine Giriş Sınavı yılda en az bir defa, İdari Yargı Ön Sın
 yılda en az bir defa olacak şekilde Adalet Bakanlığı ile imzalanacak protokole göre Ölçme,
 Seçme ve Yerleştirme Merkezi Başkanlığı tarafından yapılır.
 Sınavlar test şeklinde yapılır. Sınavlarda çoktan seçmeli en az yüz yirmi soru sorulur
-ve yüz puan üzerinden en az yetmiş puan alanlar başarılı sayılır.94
+ve yüz puan üzerinden en az yetmiş puan alanlar başarılı sayılır.101
 Sınavlara yeni alanların eklenmesi ve sınavların yapılma şekli ile sınavlara ilişkin
 diğer hususlar Hâkimler ve Savcılar Kurulu, Yükseköğretim Kurulu, Ölçme, Seçme ve
 Yerleştirme Merkezi Başkanlığı, Türkiye Barolar Birliği ve Türkiye Noterler Birliğinin
-görüşü alınarak Adalet Bakanlığı tarafından çıkarılan yönetmelikle düzenlenir.95
+görüşü alınarak Adalet Bakanlığı tarafından çıkarılan yönetmelikle düzenlenir.102
 Bu maddenin uygulanmasında hâkimlik, savcılık, avukatlık ve noterlik meslekleri
 hukuk mesleği olarak kabul edilir.
 
@@ -3964,13 +4256,6 @@ gerekli eğitim ücretine ulaştığında aktarım durdurulur. (Ek cümle: 2/2/2
 Teminat hesabına aktarılacak tutar karşılığı için süresiz ve şartsız olmak kaydıyla bir bankadan
 alınacak kesin teminat mektubu da kabul edilebilir. Bu hesap, Hazine ve Maliye Bakanlığı ile
 Yükseköğretim Kurulu tarafından izlenir ve ilgili vakıf yükseköğretim kurumunun faaliyet izninin
-
-94 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkranın ikinci cümlesinde yer alan
-“yüz soru” ibaresi “yüz yirmi soru” şeklinde değiştirilmiştir.
-95 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Sınavların”
-ibaresi “Sınavlara yeni alanların eklenmesi ve sınavların” şeklinde değiştirilmiş ve fıkraya
-“Yükseköğretim Kurulu,” ibaresinden sonra gelmek üzere “Ölçme, Seçme ve Yerleştirme Merkezi
-Başkanlığı,” ibaresi eklenmiştir.
 geçici olarak durdurulması veya kaldırılması halinde hesapta biriken tutar, öğrencilerin
 eğitimlerinin tamamlatılması dışındaki başkaca amaçlar için kullanılamaz. Faaliyet izni geçici
 olarak durdurulan veya kaldırılan vakıf yükseköğretim kurumları ve alacaklılar, söz konusu
@@ -3984,6 +4269,13 @@ EK MADDE 43
 (Ek: 15/4/2020-7243/18 md.)
 Yükseköğretim Kurulunca, Devlet yükseköğretim kurumlarında kalkınma planları
 hedefleri doğrultusunda bilimsel ve teknolojik gelişmeye katkı sağlayacak nitelikte Ar-Ge
+
+101 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkranın ikinci cümlesinde yer alan
+“yüz soru” ibaresi “yüz yirmi soru” şeklinde değiştirilmiştir.
+102 7/11/2024 tarihli ve 7531 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan “Sınavların”
+ibaresi “Sınavlara yeni alanların eklenmesi ve sınavların” şeklinde değiştirilmiş ve fıkraya
+“Yükseköğretim Kurulu,” ibaresinden sonra gelmek üzere “Ölçme, Seçme ve Yerleştirme Merkezi
+Başkanlığı,” ibaresi eklenmiştir.
 faaliyetleri için bir koordinatör yükseköğretim kurumunun bünyesinde birden fazla
 yükseköğretim kurumunun işbirliği ile ortak uygulama ve araştırma merkezi kurulabilir. Aynı
 ad, görev ve misyonla kurulacak ortak uygulama ve araştırma merkezi sayısı ikiden fazla
@@ -4044,6 +4336,39 @@ usulle uzatılabilir. Bunlar görevlendirildikleri yükseköğretim kurumunda li
 yapmakla yükümlüdür. Bu maddenin uygulanmasına ilişkin usul ve esaslar Yükseköğretim
 Kurulu tarafından belirlenir. Bu kapsamda görevlendirilebilecek personel sayısı ilgili
 yükseköğretim kurumunun dolu öğretim elemanı kadrosu sayısının %2’si ile sınırlıdır.
+
+EK MADDE 47
+
+(Ek:30/7/2026-7592/11 md.)
+Anket uygulaması, veri toplama gibi akademik değerlendirme içermeyen katkılar hariç
+olmak üzere, kişisel emeği ve akademik birikimi dışında ücretli veya ücretsiz olarak, kısmen
+yahut tamamen başkalarına yazdırdığı tez, makale, kitap veya yaptırdığı proje gibi
+çalışmalarla önlisans, lisans veya lisansüstü diploma derecesi ya da akademik ünvan alan
+kişiler, üniversite öğretim mesleğinden çıkarılır, bu yolla kazanılan akademik derece
+ve ünvanlar geri alınır.
+Birinci fıkra kapsamındaki yayın veya çalışmaları ücretli ya da ücretsiz olarak, kısmen
+yahut tamamen başkaları adına yapan, üreten veya bunlara aracılık eden kişilere beş bin
+günden on bin güne kadar adli para cezası verilir. Fiilin, meslek edinen kişilerce işlenmesi
+halinde verilecek adli para cezası on bin günden az yirmi bin günden fazla olamaz. Bu yayın
+ve çalışmaları kullanmak suretiyle diploma derecesi veya akademik ünvan alan kişilere beş
+bin günden on bin güne kadar adli para cezası verilir.
+Bu suçtan dolayı tüzel kişiler hakkında 26/9/2004 tarihli ve 5237 sayılı Türk Ceza
+Kanununun 60 ıncı maddesi hükümleri uygulanır.
+
+EK MADDE 48
+
+(Ek:30/7/2026-7592/12 md.)
+Yurt dışında bulunan bir eğitim kurumu adına hareket ederek mevzuata aykırı bir
+şekilde Türkiye’de önlisans, lisans ya da lisansüstü program açanlar veya bu programları
+yürütenler iki yıldan dört yıla kadar hapis ve yüz günden bin güne kadar adli para cezasıyla
+cezalandırılır.
+Mevzuata aykırı olarak Türkiye’de yükseköğretim kurumu açanlar veya işletenler iki
+yıldan dört yıla kadar hapis ve yüz günden bin güne kadar adli para cezasıyla cezalandırılır.
+Yukarıdaki fıkralarda yasaklanan kurum ve fiillerin tanıtımını yapanlar, bir yıldan üç
+yıla kadar hapis ve elli günden beş yüz güne kadar adli para cezasıyla cezalandırılır.
+Türk veya yabancı yükseköğretim kurumlarına ait diploma, mezuniyet belgesi veya
+sertifika belgesini sahte olarak düzenleyen ve düzenletenler 5237 sayılı Kanunun 204 üncü
+maddesine göre cezalandırılır.
 
 ONİKİNCİ BÖLÜM
 Geçici Maddeler
@@ -4851,7 +5176,7 @@ ile ilgili olarak uygulanmaya devam olunur.
 sayılı, 17/5/2007 tarihli ve 5662 sayılı, 22/5/2008 tarihli ve 5765 sayılı kanunlarla kurulan
 Devlet üniversiteleri ile Kafkas Üniversitesi ve Kütahya Sağlık Bilimleri Üniversitesinde görev
 almaları şartıyla yetmişbeş yaşın doldurulduğu tarihtir. Bu uygulama, 31 Aralık 2025 tarihine
-kadar devam eder.969798
+kadar devam eder.103104105
 Bu Kanunun 10 uncu maddesine eklenen hükümler çerçevesinde kullanılmak üzere,
 Öğrenci Seçme ve Yerleştirme Merkezinin 2007 yılından devreden finansman fazlasının %
 25’i bu maddede değişiklik yapan Kanunun yürürlüğe girdiği tarihten itibaren bir ay içinde
@@ -4873,12 +5198,12 @@ nedeniyle ilişiği kesilenler, bu Kanunun yürürlüğe girdiği tarihten itiba
 ilişiklerinin kesildiği kuruma başvuruda bulunmaları şartıyla bu maddede belirtilen haklardan
 yararlanırlar. Başvuruda bulunanlar, ilgili yükseköğretim kurumları tarafından, iki aylık başvuru
 
-96 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu fıkranın son cümlesinde yer alan “31 Aralık
+103 30/12/2015 tarihli ve 6656 sayılı Kanunun 5 inci maddesiyle, bu fıkranın son cümlesinde yer alan “31 Aralık
 2015”ibaresi “31 Aralık 2016” şeklinde değiştirilmiştir.
-97 25/8/2016 tarihli ve 671 sayılı KHK’nin 27 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan “yetmişiki”
-ibaresi “yetmişbeş” şeklinde ve “2016” ibaresi “2020” şeklinde değiştirilmiş olup, daha sonra bu hüküm
-9/11/2016 tarihli ve 6757 sayılı Kanunun 24 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
-98 15/4/2020 tarihli ve 7243 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “Devlet üniversitelerinde”
+104 25/8/2016 tarihli ve 671 sayılı KHK’nin 27 nci maddesiyle, bu maddenin ikinci fıkrasında yer alan
+“yetmişiki” ibaresi “yetmişbeş” şeklinde ve “2016” ibaresi “2020” şeklinde değiştirilmiş olup, daha sonra bu
+hüküm 9/11/2016 tarihli ve 6757 sayılı Kanunun 24 üncü maddesiyle aynen kabul edilerek kanunlaşmıştır.
+105 15/4/2020 tarihli ve 7243 sayılı Kanunun 20 nci maddesiyle, bu fıkrada yer alan “Devlet üniversitelerinde”
 ibaresi “Devlet üniversiteleri ile Kafkas Üniversitesi ve Kütahya Sağlık Bilimleri Üniversitesinde” şeklinde,
 “2020” ibaresi “2025” şeklinde değiştirilmiştir.
 süresinin dolması beklenmeden de bu haklardan yararlandırılabilir. Bu Kanunun yürürlüğe
@@ -5030,7 +5355,7 @@ Kurulu yetkilidir.
 GEÇİCİ MADDE 59
 
 (Ek: 8/8/2011-KHK-650/40 md.; İptal:Anayasa Mahkemesi’nin
-18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)99
+18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile.)106
 
 GEÇİCİ MADDE 60
 
@@ -5047,8 +5372,8 @@ itibariyle 2011-2012 eğitim-öğretim yılı için öğrencilerden alınmış �
 öğrenim ücretlerinin artırımlı kısmı, talep edilip edilmediğine bakılmaksızın ilgililere red ve
 iadeler gelir kaleminden iade edilir.
 
-99 Sözkonusu İptal Kararı Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra yürürlüğe
-girmiştir.
+106 Sözkonusu İptal Kararı Resmî Gazete’de yayımlandığı 1/1/2013 tarihinden başlayarak altı ay sonra
+yürürlüğe girmiştir.
 
 GEÇİCİ MADDE 61
 
@@ -5213,7 +5538,7 @@ tarih itibarıyla ödenmemiş ilaç ve tıbbi malzeme alımlarına ilişkin bor�
 belirtilen şartların birlikte gerçekleşmesi halinde, Maliye Bakanlığı bütçesinden işletmeye
 verilen borç karşılığında ilgili döner sermaye muhasebe birimi tarafından defaten ödenir.
 Gerçek veya tüzel kişi alacaklıların bu maddenin yürürlüğe girdiği tarihten itibaren
-kırk beş gün içerisinde;100
+kırk beş gün içerisinde;107
 a) Kapsama dâhil alacak tutarı yerine, vade tarihi ve alacağın türüne (ilaç, tıbbi malzeme
 türleri itibarıyla) göre Bakanlar Kurulunca belirlenecek olan iskonto oranlarının uygulanması
 sonucu hesaplanacak tutarın ödenmesini kabul ettiğine ve iskonto oranına tekabül eden tutardan
@@ -5235,7 +5560,7 @@ tarafından hak sahibi gerçek ve tüzel kişilere, yasal olarak yapılması ger
 düşüldükten sonra kalan tutar, aktarım tarihini takip eden beş işgünü içinde ödenir. Ödenecek
 borçlar ile ilgili olarak ayrıca temerrüt faizi, vade farkı benzeri herhangi bir ödeme yapılmaz.
 
-100 11/5/2018 tarihli ve 7143 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “bir ay” ibaresi “kırk beş
+107 11/5/2018 tarihli ve 7143 sayılı Kanunun 14 üncü maddesiyle, bu fıkrada yer alan “bir ay” ibaresi “kırk beş
 gün” şeklinde değiştirilmiştir.
 Feragat suretiyle kayıtlardan çıkarılacak borç tutarları, üniversite döner sermaye
 işletmeleri tarafından sonuç hesaplarına aktarılır ve bu tutar üzerinden Hazine hissesi ve
@@ -5408,7 +5733,16 @@ kendisine ait veyaHazineye ait olup bu maddenin yürürlüğe girdiği tarihten 
 yükseköğretimkurumuna irtifak hakkı tesis edilmiş olan taşınmazlar üzerinde bulunan, işletme
 hakkı ve ruhsatı kendisine ait olan ve ek 3 üncü maddede belirtilen şartları taşıyan hastaneye
 ilişkin belgeleri Yükseköğretim Kuruluna teslimetmeyen vakıf yükseköğretim kurumlarının
-tıp fakülteleri kapatılır. Mevcutöğrenciler hakkında ek 11 inci madde hükümleri uygulanır.
+tıp fakülteleri kapatılır. (Değişik cümle:30/7/2026-7592/13 md.) Ancak iki yıllık süreye ilave
+olarak bu madde kapsamında mülkiyeti veya süresi otuz yıldan az olmamak üzere irtifak
+hakkına sahip olduğu uygun taşınmaz üzerinde yapacağı hastane inşaatına imar iptali veya
+yargı süreci gibi zorunlu sebeplerle henüz başlayamayan ya da başladığı inşaatı henüz
+bitiremeyenler ile bu madde kapsamındaki uygun hastanenin mülkiyetinin veya süresi otuz
+yıldan az olmamak üzere irtifak hakkı, işletme hakkı ve ruhsatının devralınması süreçlerine
+başlamış ancak devir süreçlerini tamamlayamamış olanlara bu süreçleri tamamlamaları için
+otuz ay ek süre verilir.
+(Ek fıkra:30/7/2026-7592/13 md.) Bu sürelerin sonunda gerekli şartları sağlamayan
+tıp fakültelerinin öğrencileri hakkında, bu Kanunun ek 11 inci maddesi hükümleri uygulanır.
 Bu maddenin uygulanmasına ilişkin tereddüt vesorunları gidermeye, usul ve esasları
 belirlemeye Yükseköğretim Kurulu yetkilidir.
 
@@ -5462,6 +5796,59 @@ Kanununun 3 üncü maddesindeki şartları taşımaları kaydıyla, kadroların�
 üniversite tarafından 33 üncü maddenin (a) fıkrası kapsamında atamaları yapılır.
 Bu maddenin uygulanmasına ilişkin usul ve esasları belirlemeye Yükseköğretim
 Kurulu yetkilidir.
+
+GEÇİCİ MADDE 85
+
+(Ek:30/7/2026-7592/14 md.)
+Yükseköğretim kurumlarında hazırlık dâhil bütün sınıflarda intibak, önlisans, lisans
+tamamlama, lisans, lisansüstü öğrenimi gören öğrencilerden; kendi isteğiyle ilişikleri
+kesilenler dâhil, terör suçu ile kasten öldürme suçlarından (madde 81, 82 ve 83), işkence
+suçundan (madde 94 ve 95), eziyet suçundan (madde 96), cinsel saldırı (madde 102),
+çocukların cinsel istismarı (madde 103), uyuşturucu veya uyarıcı madde imal ve ticareti
+suçundan (madde 188) mahkum olanlar ile sahte belge sebebiyle kaydı iptal edilenler ile kayıt
+sırasında sahte belge verenler ile 5846 sayılı Kanunun 71 inci maddesinde yazılı suçlar ile
+terör örgütlerine veya Milli Güvenlik Kurulunca Devletin milli güvenliğine karşı faaliyette
+bulunduğuna karar verilen yapı, oluşum veya gruplara üyeliği, mensubiyeti veya iltisakı yahut
+bunlarla irtibatı nedeniyle ilişiği kesilenler hariç, her ne sebeple olursa olsun ilişiği kesilenler
+ile bir programı kazanarak kayıt yapma hakkı elde ettikleri halde kayıt yaptırmayanlar bu
+maddenin yürürlüğe girdiği tarihten itibaren dört ay içinde ilişiklerinin kesildiği veya kayıt
+hakkı kazandıkları yükseköğretim kurumuna başvuruda bulunmaları şartıyla bu Kanunun 44
+üncü maddesinde belirtilen esaslara göre 2026-2027 eğitim öğretim yılında öğrenimlerine
+başlayabilirler.
+Birinci fıkra kapsamında yeniden öğrenime başlayanların askerlik ertelemeleri 7179
+sayılı Kanunun 20 nci maddesindeki usul ve esaslara göre yapılır. Bu maddenin yürürlüğe
+girdiği tarihte askerlik görevini yapmakta olanlar terhislerini takip eden iki ay içinde ilgili
+yükseköğretim kurumuna başvurmaları halinde bu maddede belirtilen haklardan
+yararlandırılır.
+Bu maddede yer alan hükümlerden yararlanarak ayrıldığı yükseköğretim kurumuna
+kayıt yaptıranlardan ÖSYS/YKS puanı giriş yılı itibarıyla aynı veya farklı bir diploma
+programının aynı türden taban puanına sahip olanlar, bu programlardan birine yatay geçiş
+talebinde bulunabilirler. Bu kapsamda farklı bir diploma programından yatay geçişle kabul
+edilecek öğrenci sayıları, ilgili programa kayıtlı öğrenci sayısı ve üniversitenin fiziki koşulları
+dikkate alınmak suretiyle belirlenir. Buna ilişkin usul ve esaslar yükseköğretim kurumları
+senatolarınca belirlenir.
+Bu madde hükümlerinden yararlanıp bir yükseköğretim kurumunda öğrenci statüsü
+kazananlar başvurmaları halinde Anadolu Üniversitesi, Ankara Üniversitesi, Atatürk
+Üniversitesi ve İstanbul Üniversitesi bünyesindeki açık öğretim önlisans veya lisans
+düzeyindeki eşdeğer programlara yatay geçiş yapabilirler. Bu maddenin uygulanmasına
+ilişkin usul ve esasları belirlemeye Yükseköğretim Kurulu yetkilidir.
+Anayasanın 132 nci maddesi uyarınca özel kanun hükümlerine tabi olan, Polis
+Akademisi ile buna bağlı eğitim öğretim kurumları, Jandarma ve Sahil Güvenlik Akademisi
+ile buna bağlı eğitim öğretim kurumları, Millî Savunma Üniversitesine bağlı Harp Okulları,
+Astsubay Meslek Yüksekokulları ve enstitüler ile Millî Savunma Bakanlığı, Polis Akademisi,
+Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığı nam ve hesabına başka
+yükseköğretim kurumlarında öğrenim görmekte iken kendi isteğiyle veya başka sebeplerle
+ilişiği kesilen öğrenciler hakkında bu madde hükümleri uygulanmaz.
+
+GEÇİCİ MADDE 86
+
+(Ek:30/7/2026-7592/15 md.)
+Bu Kanunun 60 ıncı maddesinin (b) fıkrasında belirtilen şartları sağlayan ve 67 yaşını
+dolduran tıpta ve diş hekimliğinde uzmanlık mevzuatına göre uzman olup devlet
+yükseköğretim kurumlarında çalışmış öğretim üyeleri bu maddenin yürürlüğe girdiği tarihten
+itibaren üç yıl içinde, ihtiyacı olan bir yükseköğretim kurumuna başvurmaları halinde, bu
+Kanunun 30 uncu maddesinin ikinci fıkrasında belirtilen usul ve esaslar kapsamında
+sözleşmeli olarak çalıştırılabilirler.
 
 Yürürlük:
 

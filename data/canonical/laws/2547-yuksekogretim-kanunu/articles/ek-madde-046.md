@@ -19,6 +19,3 @@ usulle uzatılabilir. Bunlar görevlendirildikleri yükseköğretim kurumunda li
 yapmakla yükümlüdür. Bu maddenin uygulanmasına ilişkin usul ve esaslar Yükseköğretim
 Kurulu tarafından belirlenir. Bu kapsamda görevlendirilebilecek personel sayısı ilgili
 yükseköğretim kurumunun dolu öğretim elemanı kadrosu sayısının %2’si ile sınırlıdır.
-
-ONİKİNCİ BÖLÜM
-Geçici Maddeler

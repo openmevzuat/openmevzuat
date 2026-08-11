@@ -11,7 +11,7 @@ d) Sivas Meslek Yüksekokulundan,
 e) Lisansüstü Eğitim Enstitüsünden,
 oluşur.
 
-Tarsus Üniversitesi:277
+Tarsus Üniversitesi:278
 
 ç) 2/11/2023 tarihli ve 32357 sayılı Resmî Gazete’de yayımlanan 7759 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Siyasal Bilgiler Fakültesi ve İnsan ve Toplum Bilimleri Fakültesi kurulmuş, Rektörlük
@@ -25,7 +25,7 @@ f) 1/7/2025 tarihli ve 32943 sayılı Resmî Gazete’de yayımlanan 10025 sayı
 Rektörlüğe bağlı olarak Yabancı Diller Yüksekokulu kurulmuştur.
 g) 18/9/2025 tarihli ve 33021 sayılı Resmî Gazete’de yayımlanan 10414 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Bilgisayar ve Bilişim Bilimleri Fakültesi kurulmuştur.
-277 a) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
+278 a) 18/4/2019 tarihli ve 30749 sayılı Resmî Gazete’de yayımlanan 968 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Mühendislik Fakültesi kurulmuştur.
 b) 25/6/2019 tarihli ve 30812 sayılı Resmî Gazete’ de yayımlanan 1157 sayılı Cumhurbaşkanı Kararı ile
 Rektörlüğe bağlı olarak Uygulamalı Bilimler Fakültesi kurulmuş ve Uygulamalı Teknoloji ve İşletmecilik

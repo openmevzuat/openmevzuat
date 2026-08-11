@@ -27,10 +27,11 @@ programlar yapmak, uygulamak ve yapılanlara katılmak, bununla ilgili kurumlarl
 yapmak ve çevre sorunlarına çözüm getirici önerilerde bulunmak,
 h. Eğitim teknolojisini üretmek, geliştirmek, kullanmak, yaygınlaştırmak,
 ı. Yükseköğretimin uygulamalı yapılmasına ait eğitim - öğretim esaslarını geliştirmek,
-döner sermaye işletmelerini kurmak, verimli çalıştırmak ve bu faaliyetlerin geliştirilmesine
-ilişkin gerekli düzenlemeleri yapmaktır.
 
 14 Vakıfların yükseköğretim kurumları kurabilmelerine, bu kurumların işleyişine, görev, yetki ve sorumluluklarına dair
 esaslarla ilgili olarak ek 2 - 15 inci maddelere bakınız.
+döner sermaye işletmelerini kurmak, verimli çalıştırmak ve bu faaliyetlerin geliştirilmesine
+ilişkin gerekli düzenlemeleri yapmaktır.
+
 Üniversite Organları
 Rektör:

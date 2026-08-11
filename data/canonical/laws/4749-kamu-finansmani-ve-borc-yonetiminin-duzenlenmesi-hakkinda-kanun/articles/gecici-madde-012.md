@@ -15,4 +15,8 @@ kuruluşlara tahsisli olarak kullandırılır. Üniversitelerin 1/1/2006 tarihin
 garantili kredilerine ilişkin olarak Müsteşarlıkça yapılan üstlenimler ile ikrazen kullandırılan
 kredilerinden doğan Hazine alacaklarının ve anılan kuruluşların uzlaşma kapsamındaki Hazine
 alacaklarının, bu maddenin yürürlük tarihi itibarıyla ödenmeyen bakiye tutarını, Bakanın teklifi
-üzerine (…)68 terkinine Maliye Bakanı yetkilidir.
+üzerine (…)69 terkinine Maliye Bakanı yetkilidir.
+
+69 Anayasa Mahkemesinin 30/12/2010 tarihli ve E.: 2008/84, K.: 2010/121 sayılı Kararı ile bu fıkranın
+ikinci cümlesinin “… bütçenin gelir ve gider hesapları ile ilişkilendirilmeksizin …” bölümü, iptal
+edilmiştir.

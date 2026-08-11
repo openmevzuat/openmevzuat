@@ -14,9 +14,9 @@ Yüksekokulu ile Şuhut Sağlık Hizmetleri Meslek Yüksekokulundan,
 c) Rektörlüğe bağlı olarak yeni kurulan Lisansüstü Eğitim Enstitüsünden,
 oluşur.
 
-İstanbul Sağlık ve Teknoloji Üniversitesi:285
+İstanbul Sağlık ve Teknoloji Üniversitesi:287
 
-285 a) 25/3/2020 tarihli ve 7226 sayılı Kanunun 13 üncü maddesiyle bu madde başlığında ve birinci fıkrada yer
+287 a) 25/3/2020 tarihli ve 7226 sayılı Kanunun 13 üncü maddesiyle bu madde başlığında ve birinci fıkrada yer
 alan “Semerkand Bilim ve Medeniyet Üniversitesi” ibareleri “İstanbul Sağlık ve Teknoloji Üniversitesi”
 şeklinde değiştirilmiştir.
 b) 9/5/2020 tarihli ve 31122 sayılı Resmî Gazete’de yayımlanan 2504 sayılı Cumhurbaşkanı Kararı ile

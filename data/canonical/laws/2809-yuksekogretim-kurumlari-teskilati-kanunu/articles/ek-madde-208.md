@@ -6,6 +6,3 @@ Alanya Hamdullah Emin Paşa Üniversitesine yapılan atıflar Alanya Üniversite
 Üniversitesine yapılan atıflar İstanbul Nişantaşı Üniversitesine; Nişantaşı Meslek Yüksekokuluna
 yapılan atıflar İstanbul Nişantaşı Üniversitesi Meslek Yüksekokuluna; Antalya AKEV
 Üniversitesine yapılan atıflar Antalya Belek Üniversitesine yapılmış sayılır.
-
-DÖRDÜNCÜ BÖLÜM
-Geçici Hükümler

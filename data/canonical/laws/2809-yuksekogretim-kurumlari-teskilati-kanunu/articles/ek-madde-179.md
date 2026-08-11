@@ -1,4 +1,4 @@
-# EK MADDE 179 — Konya Teknik Üniversitesi:271
+# EK MADDE 179 — Konya Teknik Üniversitesi:272
 
 (Ek: 9/5/2018-7141/7 md.)
 Konya’da Konya Teknik Üniversitesi adıyla yeni bir üniversite kurulmuştur.
