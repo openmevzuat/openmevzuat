@@ -5,17 +5,17 @@ infaz süresini iyi hâlli olarak geçirmesi gerekir.
 (2) Ağırlaştırılmış müebbet hapis cezasına mahkûm edilmiş olanlar otuz yılını, müebbet
 hapis cezasına mahkûm edilmiş olanlar yirmidört yılını, diğer süreli hapis cezalarına mahkûm
 edilmiş olanlar cezalarının yarısını infaz kurumunda çektikleri takdirde, koşullu salıverilmeden
-yararlanabilirler. (Ek cümleler:14/4/2020-7242/48 md.) Ancak, Türk Ceza Kanununun;51
+yararlanabilirler. (Ek cümleler:14/4/2020-7242/48 md.) Ancak, Türk Ceza Kanununun;52
 a) Kasten öldürme suçlarından (madde 81, 82 ve 83) süreli hapis cezasına mahkûm
 olanlar,
 
-48 14/4/2020 tarihli ve 7242 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “Adlî” ibaresi “16 ncı
+49 14/4/2020 tarihli ve 7242 sayılı Kanunun 47 nci maddesiyle, bu fıkrada yer alan “Adlî” ibaresi “16 ncı
 madde hükümleri saklı kalmak üzere, adlî” şeklinde değiştirilmiştir.
-49 18/6/2014 tarihli ve 6545 sayılı Kanunun 81 inci maddesiyle, bu fıkrada yer alan “İnfaz edilen
+50 18/6/2014 tarihli ve 6545 sayılı Kanunun 81 inci maddesiyle, bu fıkrada yer alan “İnfaz edilen
 hapsin” ibaresinden sonra gelmek üzere “veya kamuya yararlı işte çalışmanın” ibaresi eklenmiştir.
-50 Bu maddenin uygulanması ile ilgili olarak, bu Kanuna 15/8/2016 tarihli ve 671 sayılı KHK ile
+51 Bu maddenin uygulanması ile ilgili olarak, bu Kanuna 15/8/2016 tarihli ve 671 sayılı KHK ile
 eklenen Geçici Madde 6’nın hükümlerine bakınız.
-51 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “üçte ikisini”
+52 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “üçte ikisini”
 ibaresi “yarısını” şeklinde değiştirilmiştir.
 b) Neticesi sebebiyle ağırlaşmış yaralama suçundan (madde 87, fıkra iki, bent d) süreli
 hapis cezasına mahkûm olanlar,
@@ -53,9 +53,9 @@ edilmiş olanlar otuzaltı yılını, müebbet hapis cezasına mahkûm edilmiş 
 hapis cezasına mahkûm edilmiş olanlar cezalarının üçte ikisini infaz kurumunda çektikleri
 takdirde, koşullu salıverilmeden yararlanabilirler. (Ek cümle:14/4/2020-7242/48 md.) Koşullu
 salıverilme oranı üçte ikiden fazla olan suçlar bakımından ise tabi oldukları koşullu salıverilme
-oranı uygulanır. Ancak, bu süreler;52
+oranı uygulanır. Ancak, bu süreler;53
 
-52 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “dörtte üçünü” ibaresi “üçte
+53 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “dörtte üçünü” ibaresi “üçte
 ikisini” şeklinde değiştirilmiştir.
 a) Birden fazla ağırlaştırılmış müebbet hapis cezasına veya ağırlaştırılmış müebbet
 hapis cezası ile müebbet hapis cezasına mahkûmiyet hâlinde kırk,
@@ -67,8 +67,12 @@ otuzdört,
 e) Birden fazla süreli hapis cezasına mahkûmiyet hâlinde en fazla otuziki,
 Yıldır. (Ek cümle:22/7/2010 - 6008/9 md.) Bu fıkra hükümleri çocuklar hakkında
 uygulanmaz.
-(5) Koşullu salıverilme süresinin hesaplanmasında, hükümlünün onbeş yaşını
-dolduruncaya kadar infaz kurumunda geçirdiği bir gün, iki gün olarak dikkate alınır.53
+(5) (Değişik:8/8/2026-7593/7 md.) Türk Ceza Kanununun kasten öldürme suçları
+(madde 81, 82 ve 83), cinsel dokunulmazlığa karşı işlenen suçlar (madde 102 ve 103),
+uyuşturucu veya uyarıcı madde imal ve ticareti suçu (madde 188) ve suç işlemek amacıyla
+örgüt kurma suçu (madde 220) hariç olmak üzere, koşullu salıverilme süresinin
+hesaplanmasında, hükümlünün onbeş yaşını dolduruncaya kadar infaz kurumunda geçirdiği
+bir gün, iki gün olarak dikkate alınır.
 (6) Koşullu salıverilen hükümlünün tâbi tutulacağı denetim süresi, yukarıdaki fıkralara
 göre infaz kurumunda geçirilmesi gereken süre kadardır. Ancak süreli hapislerde hakederek
 tahliye tarihini geçemez.54
@@ -89,16 +93,14 @@ tabi tutulmasına karar verebilir. Bu karar gereğince denetimli serbestlik müd
 ihtiyaçlarını dikkate alarak hükümlüyü;55
 a) Belirli bir bölgede denetim ve gözetim altında bulundurma,
 b) Belirlenen yer veya bölgelere gitmeme,
-c) Belirlenen programlara katılma,
-yükümlülüklerinden bir veya birden fazlasına tabi tutar. Denetimli serbestlik
-müdürlüğü hükümlünün risk ve ihtiyaçlarını dikkate alarak yükümlülükleri değiştirebilir.
 
-53 6/12/2006 tarihli ve 5560 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan "onsekiz" ibaresi,
-"onbeş" olarak değiştirilmiştir.
 54 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “sürenin yarısı”
 ibaresi “süre” şeklinde değiştirilmiştir.
 55 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “Hâkim,” ibaresi
 “İnfaz hâkimi,” ve “hâkime” ibaresi “infaz hâkimine” şeklinde değiştirilmiştir.
+c) Belirlenen programlara katılma,
+yükümlülüklerinden bir veya birden fazlasına tabi tutar. Denetimli serbestlik
+müdürlüğü hükümlünün risk ve ihtiyaçlarını dikkate alarak yükümlülükleri değiştirebilir.
 (10) İnfaz hâkimi, koşullu salıverilen hükümlünün kişiliğini ve topluma uyumdaki
 başarısını göz önünde bulundurarak; denetim süresinin, denetimli serbestlik tedbiri
 uygulanmadan veya herhangi bir yükümlülük belirlemeden geçirilmesine karar verebileceği
@@ -127,8 +129,6 @@ kasıtlı bir suçtan dolayı hapis cezasına mahkûm edilirse ya da bağlı tut
 yerine getirmezse hükmü veren ilk derece mahkemesinin bulunduğu yer infaz hâkimliği,
 cezaların toplandığı hâller ile hükmün bölge adliye mahkemesi veya Yargıtay tarafından
 verilmiş olması hâlinde ise 101 inci maddenin ikinci fıkrasına göre belirlenen infaz hâkimliği
-tarafından koşullu salıverilme kararının geri alınmasına dosya üzerinden karar verilir. Bu
-kararlara karşı itiraz yolu açıktır.59
 
 56 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “Hâkim,” ibaresi
 “İnfaz hâkimi,” şeklinde değiştirilmiştir.
@@ -139,9 +139,8 @@ cezasının aynen,” ibaresi “başlamak ve hak ederek tahliye tarihini geçme
 her bir suç için verilen hapis cezasının iki katı sürenin,” şeklinde değiştirilmiş ve fıkranın (b) bendine
 “koşuluyla” ibaresinden sonra gelmek üzere “ihlalin niteliğine göre” ibaresi eklenmiş ve aynı fıkraya
 “Ceza infaz kurumunda” ibaresinden sonra gelmek üzere “aynen” ibaresi eklenmiştir.
-59 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “mahkemesi,”
-ibaresi “mahkemesinin bulunduğu yer infaz hâkimliği,” ve “belirlenen ilk derece mahkemesi” ibaresi
-“belirlenen infaz hâkimliği” şeklinde değiştirilmiştir.
+tarafından koşullu salıverilme kararının geri alınmasına dosya üzerinden karar verilir. Bu
+kararlara karşı itiraz yolu açıktır.59
 (16) 5237 sayılı Türk Ceza Kanununun İkinci Kitap, Dördüncü Kısım, "Devletin
 Güvenliğine Karşı Suçlar" başlıklı Dördüncü Bölüm, "Anayasal Düzene ve Bu Düzenin İşleyişine
 Karşı Suçlar" başlıklı Beşinci Bölüm, "Milli Savunmaya Karşı Suçlar" başlıklı Altıncı

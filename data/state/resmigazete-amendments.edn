@@ -1,4 +1,4 @@
-{:state/updated-at #inst "2026-08-11T05:46:11.318-00:00",
+{:state/updated-at #inst "2026-08-19T05:20:12.782-00:00",
  :resmi-gazete/processed-amendments
  [{:amendment/law-no "7584",
    :amendment/title
@@ -50,4 +50,22 @@
    :processed/snapshot-date "2026-08-11",
    :amendment/url
    "https://www.resmigazete.gov.tr/eskiler/2026/08/20260809-2.htm",
-   :processed/at #inst "2026-08-11T05:46:11.318-00:00"}]}
+   :processed/at #inst "2026-08-11T05:46:11.318-00:00"}
+  {:amendment/law-no "7593",
+   :amendment/title
+   "Çocuk Koruma Kanunu ile Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+   :resmi-gazete/date "18.08.2026",
+   :resmi-gazete/issue "33344",
+   :processed/snapshot-date "2026-08-19",
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818-1.htm",
+   :processed/at #inst "2026-08-19T05:20:12.782-00:00"}
+  {:amendment/law-no "7594",
+   :amendment/title
+   "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun",
+   :resmi-gazete/date "18.08.2026",
+   :resmi-gazete/issue "33344",
+   :processed/snapshot-date "2026-08-19",
+   :amendment/url
+   "https://www.resmigazete.gov.tr/eskiler/2026/08/20260818-1.htm",
+   :processed/at #inst "2026-08-19T05:20:12.782-00:00"}]}

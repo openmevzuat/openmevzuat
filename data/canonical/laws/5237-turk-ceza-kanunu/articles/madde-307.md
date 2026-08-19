@@ -4,6 +4,9 @@
 kara, deniz ve hava ulaşım araçlarını, yolları, müesseseleri, depoları ve diğer askerî tesisleri,
 bunlar henüz tamamlanmamış bulunsalar bile, kısmen veya tamamen tahrip eden veya geçici
 bir süre için olsa bile kullanılmayacak hale getiren kişiye, altı yıldan oniki yıla kadar hapis
+
+117 29/6/2005 tarihli ve 5377 sayılı Kanunun 38 inci maddesiyle bu maddenin başlığı “Temel milli
+yararlara karşı hareket” iken, metne işlendiği şekilde değiştirilmiştir.
 cezası verilir.
 (2) Suçun;
 a) Türkiye ile savaş halinde bulunan bir devletin çıkarı için işlenmiş olması,

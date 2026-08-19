@@ -11,7 +11,7 @@ sonraki her bakıma ihtiyacı olan engelli iki kişi sayılır. (Ek cümle:21/2/
 fıkranın uygulanmasında, 5510 sayılı Kanunun ek 18 inci maddesi uyarınca Ramazan ve
 Kurban bayramlarında ödenen bayram ikramiyeleri hane içinde kişi başına düşen ortalama
 
-35 Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de
+36 Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de
 teselsülü sağlamak için bu sefer 14/3/1991 tarih ve 3703 sayılı Kanunla madde numarası "Ek madde
 2" olarak değiştirilmiştir.
 aylık gelir tutarının hesaplanmasına dâhil edilmez.

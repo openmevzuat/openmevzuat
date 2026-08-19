@@ -3,9 +3,9 @@
 (1) Hükümlü ölmüşse mahkeme yeniden duruşma yapmaksızın gerekli
 delilleri topladıktan sonra hükümlünün beraatine veya yargılamanın yenilenmesi isteminin
 
-145 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi
+146 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi gün” ibaresi
 “iki hafta” şeklinde değiştirilmiştir.
-146 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi günlük” ibaresi “iki
+147 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “yedi günlük” ibaresi “iki
 haftalık” şeklinde değiştirilmiştir.
 reddine karar verir.
 (2) Diğer hâllerde de mahkeme, bu hususta yeterli delil varsa Cumhuriyet savcısının

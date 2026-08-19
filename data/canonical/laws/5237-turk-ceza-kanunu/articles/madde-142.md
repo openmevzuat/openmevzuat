@@ -1,4 +1,4 @@
-# MADDE 142 — Nitelikli hırsızlık64
+# MADDE 142 — Nitelikli hırsızlık66
 
 (1) Hırsızlık suçunun;
 a) Kime ait olursa olsun kamu kurum ve kuruluşlarında veya ibadete ayrılmış yerlerde
@@ -20,25 +20,25 @@ d) Haksız yere elde bulundurulan veya taklit anahtarla ya da diğer bir aletle 
 açmak veya kilitlenmesini engellemek suretiyle,
 e) Bilişim sistemlerinin kullanılması suretiyle,
 f) Tanınmamak için tedbir alarak veya yetkisi olmadığı halde resmi sıfat takınarak,
-g) (…)64 büyük veya küçük baş hayvan hakkında,
+g) (…)66 büyük veya küçük baş hayvan hakkında,
 h) (Ek: 18/6/2014-6545/62 md.) Herkesin girebileceği bir yerde bırakılmakla birlikte
 kilitlenmek suretiyle ya da bina veya eklentileri içinde muhafaza altına alınmış olan eşya
 hakkında,
 İşlenmesi hâlinde, beş yıldan on yıla kadar hapis cezasına hükmolunur. Suçun, bu
 fıkranın (b) bendinde belirtilen surette, beden veya ruh bakımından kendisini savunamayacak
-durumda olan kimseye karşı işlenmesi halinde, verilecek ceza üçte biri oranına kadar artırılır.65
+durumda olan kimseye karşı işlenmesi halinde, verilecek ceza üçte biri oranına kadar artırılır.67
 (3) Suçun, sıvı veya gaz hâlindeki enerji hakkında ve bunların nakline, işlenmesine
 
-64 18/6/2014 tarihli ve 6545 sayılı Kanunun 62 nci maddesiyle bu maddenin birinci fıkrasında yer alan
+66 18/6/2014 tarihli ve 6545 sayılı Kanunun 62 nci maddesiyle bu maddenin birinci fıkrasında yer alan
 “iki yıldan beş” ibaresi “üç yıldan yedi” şeklinde değiştirilmiş, ikinci fıkrasının (d) bendine “kilit
 açmak” ibaresinden sonra gelmek üzere “veya kilitlenmesini engellemek” ibaresi eklenmiş, (g)
 bendinde yer alan “Barınak yerlerinde, sürüde veya açık yerlerde bulunan” ibaresi madde metninden
 çıkarılmıştır.
-65 18/6/2014 tarihli ve 6545 sayılı Kanunun 62 nci maddesiyle bu fıkrada yer alan “üç yıldan yedi”
+67 18/6/2014 tarihli ve 6545 sayılı Kanunun 62 nci maddesiyle bu fıkrada yer alan “üç yıldan yedi”
 ibaresi “beş yıldan on” şeklinde değiştirilmiştir.
 veya depolanmasına ait tesislerde işlenmesi halinde, beş yıldan oniki yıla kadar hapis cezasına
 hükmolunur. Bu fiilin bir örgütün faaliyeti çerçevesinde işlenmesi halinde, ceza yarı oranında
-artırılır ve onbin güne kadar adlî para cezasına hükmolunur.66
+artırılır ve onbin güne kadar adlî para cezasına hükmolunur.68
 (4) (Ek: 6/12/2006 – 5560/6 md.) Hırsızlık suçunun işlenmesi amacıyla konut
 dokunulmazlığının ihlâli veya mala zarar verme suçunun işlenmesi halinde, bu suçlardan
 dolayı soruşturma ve kovuşturma yapılabilmesi için şikâyet aranmaz.

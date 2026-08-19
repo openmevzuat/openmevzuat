@@ -5,6 +5,6 @@ gönderen veya bu muayeneyi yapan fail hakkında üç aydan bir yıla kadar hapi
 hükmolunur.
 (2) Bulaşıcı hastalıklar dolayısıyla kamu sağlığını korumak amacıyla kanun ve
 yönetmeliklerde öngörülen hükümlere uygun olarak yapılan muayeneler açısından yukarıdaki
-fıkra hükmü uygulanmaz.111
+fıkra hükmü uygulanmaz.114
 
 Adil yargılamayı etkilemeye teşebbüs

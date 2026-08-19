@@ -1,4 +1,4 @@
-# MADDE 243
+# MADDE 243 — Katılmanın hükümsüz kalması
 
 (1) Katılan, vazgeçerse veya ölürse katılma hükümsüz kalır. Mirasçılar,
 katılanın haklarını takip etmek üzere davaya katılabilirler.

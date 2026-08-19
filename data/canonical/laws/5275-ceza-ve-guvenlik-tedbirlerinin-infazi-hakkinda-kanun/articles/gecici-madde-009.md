@@ -30,13 +30,13 @@ madde hükümleri uygulanır.76
 Yedinci Bölümünde tanımlanan suçlar, Terörle Mücadele Kanunu kapsamına giren suçlar ve
 örgüt faaliyeti kapsamında işlenen suçlar hariç olmak üzere, toplam hapis cezası on yıldan az
 olanlar bir ayını, on yıl ve daha fazla olanlar ise üç ayını kapalı ceza infaz kurumunda
+
+76 26/5/2022 tarihli ve 7407 sayılı Kanunun 11 inci maddesiyle beşinci fıkrada yer alan “oniki kez” ibaresi
+“ondokuz kez” şeklinde ve altıncı fıkrada yer alan “31/5/2022” ibaresi “31/7/2023” şeklinde değiştirilmiştir.
 geçirmiş olan iyi hâlli hükümlülerden ilgili mevzuat uyarınca açık ceza infaz kurumlarına
 ayrılmalarına bir yıl veya daha az süre kalanlar, talepleri hâlinde açık ceza infaz kurumlarına
 gönderilebilirler. Bu hükümlüler, açık ceza infaz kurumlarında barındırılır. İlgili mevzuat
 uyarınca açık ceza infaz kurumlarına ayrılmaya, beşinci fıkrada belirtilen süreler içinde hak
-
-76 26/5/2022 tarihli ve 7407 sayılı Kanunun 11 inci maddesiyle beşinci fıkrada yer alan “oniki kez” ibaresi
-“ondokuz kez” şeklinde ve altıncı fıkrada yer alan “31/5/2022” ibaresi “31/7/2023” şeklinde değiştirilmiştir.
 kazandıkları takdirde beşinci fıkra uyarınca izinli sayılırlar. Beşinci fıkrada belirtilen sürenin
 tamamlanmasından sonra ise açık ceza infaz kurumlarına ayrılmaya hak kazanıp
 kazanmadıklarına bakılmaksızın, 95 inci maddede düzenlenen izin hakkından yararlanırlar.

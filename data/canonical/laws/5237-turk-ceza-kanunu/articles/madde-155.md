@@ -4,7 +4,7 @@
 kullanmak üzere zilyedliği kendisine devredilmiş olan mal üzerinde, kendisinin veya
 başkasının yararına olarak, zilyedliğin devri amacı dışında tasarrufta bulunan veya bu devir
 olgusunu inkar eden kişi, şikayet üzerine, altı aydan iki yıla kadar hapis ve adlî para cezası ile
-cezalandırılır.70
+cezalandırılır.72
 (2) Suçun, meslek ve sanat, ticaret veya hizmet ilişkisinin ya da hangi nedenden
 doğmuş olursa olsun, başkasının mallarını idare etmek yetkisinin gereği olarak tevdi ve teslim
 edilmiş eşya hakkında işlenmesi halinde, bir yıldan yedi yıla kadar hapis ve üçbin güne kadar

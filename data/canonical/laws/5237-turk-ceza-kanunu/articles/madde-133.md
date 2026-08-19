@@ -1,4 +1,4 @@
-# MADDE 133 — Kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması58
+# MADDE 133 — Kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması60
 
 (1) Kişiler arasındaki aleni olmayan konuşmaları, taraflardan herhangi
 birinin rızası olmaksızın bir aletle dinleyen veya bunları bir ses alma cihazı ile kaydeden kişi,

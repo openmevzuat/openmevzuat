@@ -23,13 +23,13 @@ olmak üzere;
 a) Sıfır-altı yaş grubu çocuğu bulunan kadın hükümlüler ile yetmiş yaşını bitirmiş
 hükümlüler hakkında 105/A maddesinin üçüncü fıkrasında yer alan “iki yıl”lık süre, “dört yıl”
 olarak uygulanır.
+
+74 25/12/2015 tarihli ve 6655 sayılı Kanunun 5 inci maddesiyle bu maddenin birinci fıkrasında yer
+alan “31/12/2015” ibaresi “31/12/2020” şeklinde değiştirilmiştir.
 b) Maruz kaldığı ağır bir hastalık, engellilik veya kocama nedeniyle hayatını yalnız
 idame ettiremeyen altmışbeş yaşını bitirmiş hükümlülerin koşullu salıverilmeleri için ceza
 infaz kurumlarında geçirmeleri gereken süreler, azami süre sınırına bakılmaksızın 105/A
 maddesinde düzenlenen denetimli serbestlik tedbiri uygulanmak suretiyle infaz edilebilir.
-
-74 25/12/2015 tarihli ve 6655 sayılı Kanunun 5 inci maddesiyle bu maddenin birinci fıkrasında yer
-alan “31/12/2015” ibaresi “31/12/2020” şeklinde değiştirilmiştir.
 Ağır hastalık, engellilik veya kocama hâli, Adalet Bakanlığınca belirlenen tam teşekküllü
 hastanelerin sağlık kurullarınca veya Adlî Tıp Kurumunca düzenlenen bir raporla
 belgelendirilir.

@@ -5,7 +5,7 @@ inanç, düşünce ve kanaatlerini açıklamaya veya değiştirmeye zorlayan ya 
 açıklamaktan, yaymaktan meneden kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
 (2) (Değişik: 2/3/2014-6529/14 md.) Dini inancın gereğinin yerine getirilmesinin veya
 
-54 2/3/2014 tarihli ve 6529 sayılı Kanunun 13 üncü maddesiyle bu madde başlığı “Kamu kurumu veya
+56 2/3/2014 tarihli ve 6529 sayılı Kanunun 13 üncü maddesiyle bu madde başlığı “Kamu kurumu veya
 kamu kurumu niteliğindeki meslek kuruluşlarının faaliyetlerinin engellenmesi” iken, metne işlendiği
 şekilde değiştirilmiştir.
 dini ibadet veya ayinlerin bireysel ya da toplu olarak yapılmasının, cebir veya tehdit

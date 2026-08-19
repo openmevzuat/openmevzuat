@@ -9,7 +9,7 @@ ayrıca cezaya hükmolunur.
 (3) Bu suçun işlenmesi sırasında kasten yaralama suçunun neticesi sebebiyle ağırlaşmış
 hallerinin gerçekleşmesi durumunda, ayrıca kasten yaralama suçuna ilişkin hükümler uygulanır.
 
-92 29/6/2005 tarihli ve 5377 sayılı Kanunun 26 ncı maddesiyle bu fıkrada geçen "örgüte üye olan"
+94 29/6/2005 tarihli ve 5377 sayılı Kanunun 26 ncı maddesiyle bu fıkrada geçen "örgüte üye olan"
 ibaresinden sonra gelmek üzere, "ya da üye olmamakla birlikte örgüt adına suç işleyen veya örgüte
 bilerek ve isteyerek yardım eden" ibaresi eklenmiştir.
 

@@ -5,12 +5,12 @@
  :document/slug "5326-kabahatler-kanunu",
  :document/path "data/canonical/laws/5326-kabahatler-kanunu",
  :document/sha256
- "53e927f60946f4d2d324561ef018a9a8657c0598c24ea84c933ae189bcfa6638",
+ "73b5c71c200999f837c70f20749c2f822d3ea82599cc0c474319baf80cae9f89",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5326.pdf",
- :source/fetched-at #inst "2026-07-16T02:38:21.395-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:09:52.122-00:00",
+ :source/fetched-at #inst "2026-08-19T05:20:04.138-00:00",
+ :openmevzuat/baseline-date "2026-08-19",
+ :openmevzuat/generated-at #inst "2026-08-19T05:19:39.785-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -339,13 +339,20 @@
    :article/path "articles/madde-043-b.md",
    :article/sha256
    "31f4c92b3e2f0246719b0f7d6deb8cb8d91e40a21a562c36201fc6d3df877a10"}
+  {:article/id "law/5326/article/43/C",
+   :article/type :normal,
+   :article/no "43/C",
+   :article/title "Amaç dışı bıçak taşıma",
+   :article/path "articles/madde-043-c.md",
+   :article/sha256
+   "be6122b31f85cd4b8515de53a5e185a85baef6253ff13aa98e279fa0530068f2"}
   {:article/id "law/5326/article/1",
    :article/type :additional,
    :article/no "1",
    :article/title nil,
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "74944aca809b0f964830be8d086dee7fe625d07881cf6635cd56731a806815cf"}
+   "21c67c875b7f9f53effcd5b033350f9784a93feaeaae05ecce87e31fc442d23c"}
   {:article/id "law/5326/article/1",
    :article/type :temporary,
    :article/no "1",
@@ -359,7 +366,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-002.md",
    :article/sha256
-   "5e04788501ced343a586a648bfa303d4ed80d54cfc98433f3e21fa63ae62ac25"}
+   "c44217c9aa548d6878cd1f041995bfddf3b417f3b56163c89030f7af21db89ea"}
   {:article/id "law/5326/article/3",
    :article/type :temporary,
    :article/no "3",

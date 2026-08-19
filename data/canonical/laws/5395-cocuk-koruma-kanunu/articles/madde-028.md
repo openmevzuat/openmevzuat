@@ -10,6 +10,7 @@ tanınır.
 başlayıncaya veya Hâkimler ve Savcılar Yüksek Kurulunca yetkilendirme yapılıncaya kadar o
 yerdeki hâkimlerden hangisinin bakacağı, birinci fıkrada aranan nitelikler de gözetilerek adlî
 yargı adalet komisyonu başkanınca belirlenir.
+
 İKİNCİ BÖLÜM
 Cumhuriyet Savcılığı ve Kolluk
 Cumhuriyet savcılığı çocuk bürosu

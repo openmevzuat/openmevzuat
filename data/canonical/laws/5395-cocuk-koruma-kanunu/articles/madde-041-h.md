@@ -16,13 +16,13 @@ rakamının, görevlendirilen diğer kişilere ise (5000) gösterge rakamının 
 uygulanan katsayıyla çarpımı sonucu bulunacak tutarı geçemez. Bu ödemeden damga vergisi
 hariç herhangi bir vergi ve kesinti yapılmaz. Bu fıkra uyarınca yapılacak ödemelerden kadrolu
 veya sözleşmeli olup olmadığına bakılmaksızın görevlendirilen tüm personel yararlanır. Bu
-fıkranın uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığınca belirlenir.6
+fıkranın uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığınca belirlenir.21
 
 Yönetmelik
 MADDE 41/İ- (Ek:24/11/2021-7343/47 md.)
 (1) Bu Kısmın uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından
 çıkarılacak yönetmelikle belirlenir.
 
-BEŞİNCİ KISIM7
+BEŞİNCİ KISIM22
 Çeşitli Hükümler
 Uygulanacak hükümler

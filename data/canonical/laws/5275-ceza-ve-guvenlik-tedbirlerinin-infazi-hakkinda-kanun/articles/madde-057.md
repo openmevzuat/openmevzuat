@@ -8,10 +8,6 @@ olmak üzere iki uzman hekim tarafından verilip, başhekim tarafından onaylana
 sebebi, tedavinin hangi sebeple bulunduğu hastanede gerçekleştirilemediği, hastaya nerede ve
 ne tür bir tedavi gerektiğini açıkça belirten bir raporla mümkündür. Bu durumda da en yakın
 ve hükümlü koğuşu bulunan Devlet veya üniversite hastaneleri tercih edilir.
-
-20 17/6/2021 tarihli ve 7328 sayılı Kanunun 6 ncı maddesiyle, bu fıkraya “Çocuk hükümlüler”
-ibaresinden sonra gelmek üzere “ile maddi durumunun yetersiz olduğunu belgelendiren hükümlüler”
-ibaresi eklenmiştir.
 (3) Hükümlünün bu hastanelerde kontrol ve tedavisinin devam edip etmeyeceğinin sağlık
 kurulu raporuyla belgelendirilmesi gerekir; aksi hâlde hükümlü ait olduğu kuruma iade edilir.
 (4) Hükümlü, acil hâller dışında özel sağlık kuruluşlarında tedavi edilemez. Acil

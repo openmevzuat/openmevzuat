@@ -11,9 +11,6 @@ işkence veya eziyet suçlarında ve alt sınırı beş yıldan fazla hapis ceza
 baro tarafından kendisine avukat görevlendirilmesini isteme,
 4. 153 üncü maddeye uygun olmak koşuluyla vekili aracılığı ile soruşturma belgelerini
 ve elkonulan ve muhafazaya alınan eşyayı inceletme,
-5. Cumhuriyet savcısının, kovuşturmaya yer olmadığı yönündeki kararına kanunda
-yazılı usule göre itiraz hakkını kullanma.
-b) Kovuşturma evresinde;
 
 79 8/7/2021 tarihli ve 7331 sayılı Kanunun 21 inci maddesiyle bu fıkraya “yapılacak çağrı”
 ibaresinden sonra gelmek üzere “ve zorla getirme” ibaresi eklenmiştir.
@@ -21,6 +18,9 @@ ibaresinden sonra gelmek üzere “ve zorla getirme” ibaresi eklenmiştir.
 numaralı alt bendi ile (b) bendinin (5) numaralı alt bendinde yer alan “cinsel saldırı suçu ile”
 ibareleri “cinsel saldırı, çocukların cinsel istismarı veya ısrarlı takip suçları ile kadına karşı işlenen
 kasten yaralama, işkence veya eziyet suçlarında ve” şeklinde değiştirilmiştir.
+5. Cumhuriyet savcısının, kovuşturmaya yer olmadığı yönündeki kararına kanunda
+yazılı usule göre itiraz hakkını kullanma.
+b) Kovuşturma evresinde;
 1. Duruşmadan haberdar edilme,
 2. Kamu davasına katılma,
 3. Tutanak ve belgelerden örnek isteme,81

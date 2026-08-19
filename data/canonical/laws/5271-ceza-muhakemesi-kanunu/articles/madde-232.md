@@ -16,12 +16,12 @@ açıklanmasından itibaren en geç onbeş gün içinde dava dosyasına konulur.
 gerekçeli karar imzalanmadan hâkim ölür veya herhangi bir sebeple kararı imzalayamayacak
 hâle düşerse, yeni hâkim, tefhim edilen hükme uygun olarak gerekçeli kararı bizzat yazarak
 imzalar. Toplu mahkemelerde böyle bir durumun gerçekleşmesi hâlinde, hüküm diğer
-hâkimler tarafından imzalanır ve başkan veya en kıdemli hâkim tarafından, hükmün altına
-diğer hâkimin imza edememesinin sebebi yazılarak imza olunur.
-(6) Hüküm fıkrasında, 223 üncü maddeye göre verilen kararın ne olduğunun,
 
 78 24/11/2016 tarihli ve 6763 sayılı Kanunun 31 inci maddesiyle, bu fıkrada yer alan “Hükmün
 gerekçesi” ibaresinden sonra gelmek üzere “ve varsa karşı oy gerekçesi” ibaresi eklenmiştir.
+hâkimler tarafından imzalanır ve başkan veya en kıdemli hâkim tarafından, hükmün altına
+diğer hâkimin imza edememesinin sebebi yazılarak imza olunur.
+(6) Hüküm fıkrasında, 223 üncü maddeye göre verilen kararın ne olduğunun,
 uygulanan kanun maddelerinin, verilen ceza miktarının, kanun yollarına başvurma ve
 tazminat isteme olanağının bulunup bulunmadığının, başvuru olanağı varsa süresi ve
 merciinin tereddüde yer vermeyecek şekilde açıkça gösterilmesi gerekir.

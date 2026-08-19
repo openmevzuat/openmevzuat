@@ -22,6 +22,7 @@
 - [MADDE 11](articles/madde-011.md)
 - [MADDE 12](articles/madde-012.md)
 - [MADDE 13](articles/madde-013.md)
+- [MADDE 13/A](articles/madde-013-a.md)
 - [MADDE 14](articles/madde-014.md)
 - [MADDE 15](articles/madde-015.md)
 - [MADDE 16](articles/madde-016.md)

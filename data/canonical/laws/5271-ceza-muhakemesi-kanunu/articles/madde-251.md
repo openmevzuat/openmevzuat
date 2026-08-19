@@ -25,4 +25,12 @@ her aşamada duruşma açmak suretiyle genel hükümler uyarınca yargılamaya d
 (7) Basit yargılama usulü, yaş küçüklüğü, akıl hastalığı, (…)97 hâlleri ile soruşturma
 veya kovuşturma yapılması izne ya da talebe bağlı olan suçlar hakkında uygulanmaz.
 (8) Basit yargılama usulü, bu kapsama giren bir suçun, kapsama girmeyen başka bir
+
+95 Anayasa Mahkemesinin 10/9/2025 Tarihli ve E: 2025/51, K: 2025/184 Sayılı Kararı ile bu fıkrada
+yer alan “ya da başka bir nedenle şüpheliye ulaşılamaması” ibaresi iptal edilmiştir. Bu Karar Resmî
+Gazete’de yayımlanmasından başlayarak dokuz ay sonra (3/9/2026) yürürlüğe girer.
+96 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu fıkrada yer alan “on beş gün” ibaresi
+“iki hafta” şeklinde değiştirilmiştir.
+97 Anayasa Mahkemesinin 5/11/2024 Tarihli ve E: 2024/66, K: 2024/188 Sayılı Kararı ile bu fıkrada yer alan
+"…sağır ve dilsizlik..." ibaresi iptal edilmiştir.
 suçla birlikte işlenmiş olması hâlinde uygulanmaz.

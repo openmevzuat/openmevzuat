@@ -15,9 +15,9 @@ Bunlardan korunma kararı kalkmış; ancak tek başına yaşamını sürdüremey
 bulunan kız çocukları, Kurumca himaye olunur. Bu çocukların emek karşılığı iaşe, ibate ve
 harçlıkları Kurumca karşılanmak kaydıyla Kurum hizmetlerinde çalışmaları da sağlanabilir.
 c) Bedensel, zihinsel ve ruhsal engellilikleri nedeniyle sürekli bakıma ihtiyacı olan ve
-çalışmaktan aciz olan Çocukların korunma kararı uzatılır.29
+çalışmaktan aciz olan Çocukların korunma kararı uzatılır.30
 Korunma kararı kalkan çocukların Kurumla ilişkilerinin devamı sağlanır. Bu çocuklara
 gerektiğinde imkanlar ölçüsünde Kurumca yardımcı olunur.
 
 Korunmaya ihtiyacı olan çocukların eğitim ve öğretimlerinin sağlanması veya
-meslek sahibi yapılmaları:30
+meslek sahibi yapılmaları:31

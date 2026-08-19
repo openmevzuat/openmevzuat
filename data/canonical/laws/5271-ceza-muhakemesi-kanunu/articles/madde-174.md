@@ -12,6 +12,8 @@ muhakeme usulüne tâbi olduğu soruşturma dosyasından açıkça anlaşılan i
 veya uzlaştırma ya da seri muhakeme usulü uygulanmaksızın düzenlenen,
 d) (Ek:17/10/2019-7188/20 md.) Soruşturma veya kovuşturma yapılması izne veya
 talebe bağlı olan suçlarda izin alınmaksızın veya talep olmaksızın düzenlenen,
+e) (Ek:8/8/2026-7593/4 md.) Onbeş yaşını doldurmamış çocuklar hakkında sosyal
+inceleme yaptırılmaksızın düzenlenen,
 İddianamenin Cumhuriyet Başsavcılığına iadesine karar verilir.
 (2) Suçun hukukî nitelendirilmesi sebebiyle iddianame iade edilemez.
 (3) En geç birinci fıkrada belirtilen süre sonunda iade edilmeyen iddianame kabul

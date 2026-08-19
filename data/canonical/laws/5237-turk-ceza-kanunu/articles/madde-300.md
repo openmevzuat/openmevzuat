@@ -10,4 +10,4 @@ cezalandırılır.
 işlenmesi halinde, verilecek ceza üçte bir oranında artırılır.
 
 Türk Milletini, Türkiye Cumhuriyeti Devletini, Devletin kurum ve organlarını
-aşağılama113
+aşağılama116

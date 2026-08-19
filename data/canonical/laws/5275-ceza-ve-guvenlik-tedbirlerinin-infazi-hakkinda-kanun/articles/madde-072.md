@@ -1,4 +1,4 @@
-# MADDE 72
+# MADDE 72 — Hükümlünün beslenmesi
 
 (1) Hükümlüye Adalet ve Sağlık bakanlıklarınca birlikte belirlenecek
 kalori esasına göre, sağlıklı ve güçlü kalması için nitelik ve nicelik olarak besleyici, sağlık

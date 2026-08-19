@@ -1,4 +1,4 @@
-# MADDE 113 — Kamu hizmetlerinden yararlanma hakkının engellenmesi54
+# MADDE 113 — Kamu hizmetlerinden yararlanma hakkının engellenmesi56
 
 (Değişik: 2/3/2014-6529/13 md.)
 (1) Cebir veya tehdit kullanılarak ya da hukuka aykırı başka bir davranışla;

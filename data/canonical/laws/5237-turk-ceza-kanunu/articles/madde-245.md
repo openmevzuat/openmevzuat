@@ -15,6 +15,9 @@ güne kadar adlî para cezası ile cezalandırılır.
 (4) Birinci fıkrada yer alan suçun;
 a) Haklarında ayrılık kararı verilmemiş eşlerden birinin,
 b) Üstsoy veya altsoyunun veya bu derecede kayın hısımlarından birinin veya evlat
+
+103 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “ve” ibaresi
+“veya” şeklinde değiştirilmiştir.
 edinen veya evlâtlığın,
 c) Aynı konutta beraber yaşayan kardeşlerden birinin,
 zararına olarak işlenmesi hâlinde, ilgili akraba hakkında cezaya hükmolunmaz.

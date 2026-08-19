@@ -14,7 +14,7 @@ yürütülebilmesinin veya tarım topraklarının işlenebilmesinin imkânsız h
 hükümlünün eş veya çocuklarının sürekli hastalık veya malullükleri nedeniyle bakıma muhtaç
 olmaları ya da hükümlünün hastalığının sürekli bir tedaviyi gerektirmesi gibi zorunlu ve çok
 ivedi hâllerde, Cumhuriyet Başsavcılığınca bir yılı geçmeyen sürelerle hapis cezasının
-infazına ara verilebilir. Ancak bu ara verme iki defadan fazla olamaz.6
+infazına ara verilebilir. Ancak bu ara verme iki defadan fazla olamaz.7
 (5) Erteleme isteminin kabulü, güvence gösterilmesine veya diğer bir şarta bağlanabilir.
 (6) Bu madde hükümleri;
 a) Terör suçları, örgüt faaliyetleri çerçevesinde işlenen suçlar ve cinsel dokunulmazlığa
@@ -22,8 +22,3 @@ karşı işlenen suçlardan mahkûm olanlar,
 b) Mükerrirlere özgü infaz rejimi uygulanmasına karar verilenler,
 c) Disiplin veya tazyik hapsine mahkûm olanlar,
 hakkında uygulanmaz.
-
-6 14/4/2020 tarihli ve 7242 sayılı Kanunun 20 nci maddesiyle, bu fıkraya “gelmesi veya” ibaresinden
-sonra gelmek üzere “hükümlünün eş veya çocuklarının sürekli hastalık veya malullükleri nedeniyle
-bakıma muhtaç olmaları ya da” ibaresi eklenmiş ve fıkrada yer alan “altı ayı” ibaresi “bir yılı”
-şeklinde değiştirilmiştir.

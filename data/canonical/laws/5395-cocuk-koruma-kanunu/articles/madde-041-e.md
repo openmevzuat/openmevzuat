@@ -14,7 +14,7 @@ birinci daireye, o yerde aile mahkemesinin tek dairesi bulunması hâlinde asliy
 mahkemesine, aile mahkemesi hâkimi ile asliye hukuk mahkemesi hâkiminin aynı hâkim
 olması hâlinde ise en yakın aile mahkemesine veya asliye hukuk mahkemesine ivedilikle
 gönderir. İtiraz mercii, bir hafta içinde kararını verir. Merci, itirazı yerinde görürse işin esası
-hakkında karar verir. İtiraz üzerine verilen karar kesindir.5
+hakkında karar verir. İtiraz üzerine verilen karar kesindir.20
 
 Çocuk teslimi ve çocukla kişisel ilişki kurulmasına dair ilam veya tedbir
 kararlarının yerine getirilmesine muhalefet

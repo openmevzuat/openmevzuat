@@ -1,4 +1,4 @@
-# MADDE 12 — Gençlik kapalı ceza infaz kurumları
+# MADDE 12
 
 (1) Gençlik kapalı ceza infaz kurumları, cezanın infazına başlandığı tarihte
 onsekiz yaşını bitirmiş olup da yirmibir yaşını doldurmamış genç hükümlülerin cezalarını

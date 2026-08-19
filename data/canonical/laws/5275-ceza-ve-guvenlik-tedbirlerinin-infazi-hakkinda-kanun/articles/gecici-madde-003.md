@@ -15,8 +15,8 @@ hükmüne göre mahkûmiyet sürelerinin geriye kalan yarısı kamuya yararlı b
 suretiyle infaz edilmekte olan hükümlüler hakkında aşağıdaki şekilde işlem yapılır:
 a) Koşullu salıverilme süresini tamamlamayanların cezalarının infazına 105/A
 maddesi hükümleri uyarınca devam olunur.
-b) Koşullu salıverilme süresini tamamlayanların infaz dosyası 107 nci ve 108 inci
-maddeler uyarınca işlem yapılmak üzere ilgili mahkemeye gönderilir.
 
 73 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “yüz” ibaresi
 “beşyüz” şeklinde değiştirilmiştir.
+b) Koşullu salıverilme süresini tamamlayanların infaz dosyası 107 nci ve 108 inci
+maddeler uyarınca işlem yapılmak üzere ilgili mahkemeye gönderilir.

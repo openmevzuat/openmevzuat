@@ -11,3 +11,6 @@ ilgili olarak ceza infaz kurumlarında düzenlenen tutanaklara, ilgili görevlin
 sadece sicil numarası yazılır. Bu kapsamdaki kurum görevlilerinin ifadesine başvurulması hâlinde
 çıkarılan davetiye veya çağrı kâğıdı görevlinin iş yeri adresine tebliğ edilir. Bu kişilere ait ifade ve
 duruşma tutanaklarında adres olarak sadece iş yeri adresi gösterilir.
+
+10 2/7/2018 tarihli ve 700 sayılı KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi
+“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.

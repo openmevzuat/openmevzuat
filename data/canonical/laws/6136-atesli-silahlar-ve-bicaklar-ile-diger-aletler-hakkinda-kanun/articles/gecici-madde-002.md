@@ -10,3 +10,6 @@ alınır.
 Yukarki fıkra hükmü mahfuz kalmak üzere ellerinde bu kanunla menedilen bıçak ve
 benzerlerini bulunduranlar bu kanunun meriyete girdiği tarihten itibaren altı ay içinde mahalli
 zabıta makamlarına teslime mecburdurlar.
+
+16 28/3/2023 tarihli ve 7445 sayılı Kanunun 9 uncu maddesiyle bu fıkrasına “suçlar ile” ibaresinden
+sonra gelmek üzere “göçmen kaçakçılığı ve” ibaresi eklenmiştir.

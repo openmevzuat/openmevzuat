@@ -6,7 +6,7 @@ güvenliği, kamu düzeni ve genel sağlığı ile ilgili gerçeğe aykırı bir
 bozmaya elverişli şekilde alenen yayan kimse, bir yıldan üç yıla kadar hapis cezasıyla
 cezalandırılır.
 
-88 11/4/2013 tarihli ve 6459 sayılı Kanunun 10 uncu maddesiyle, bu maddede yer alan “kimse,”
+90 11/4/2013 tarihli ve 6459 sayılı Kanunun 10 uncu maddesiyle, bu maddede yer alan “kimse,”
 ibaresinden sonra gelmek üzere “bu nedenle kamu düzeni açısından açık ve yakın bir tehlikenin
 ortaya çıkması hâlinde,” ibaresi eklenmiştir.
 (2) Fail, suçu gerçek kimliğini gizleyerek veya bir örgütün faaliyeti çerçevesinde

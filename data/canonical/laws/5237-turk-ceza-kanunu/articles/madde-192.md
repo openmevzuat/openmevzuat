@@ -17,6 +17,6 @@ veya uyarıcı madde satın almak, kabul etmek veya bulundurmaktan dolayı soru�
 başlatılmadan önce resmi makamlara veya sağlık kuruluşlarına başvurarak tedavi ettirilmesini
 isterse, cezaya hükmolunmaz. (Ek cümle: 24/11/2016-6763/16 md.) Bu durumda kamu
 görevlileri ile sağlık mesleği mensuplarının 279 uncu ve 280 inci maddeler uyarınca suçu
-bildirme yükümlülüğü doğmaz.87
+bildirme yükümlülüğü doğmaz.89
 
 Zehirli madde imal ve ticareti

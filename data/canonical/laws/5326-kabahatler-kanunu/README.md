@@ -55,6 +55,7 @@
 - [MADDE 43 — Silah taşıma](articles/madde-043.md)
 - [MADDE 43/A — Tüzel kişilerin sorumluluğu9](articles/madde-043-a.md)
 - [MADDE 43/B — Tüzel kişilerin bildirim yükümlülüğü](articles/madde-043-b.md)
+- [MADDE 43/C — Amaç dışı bıçak taşıma](articles/madde-043-c.md)
 - [EK MADDE 1](articles/ek-madde-001.md)
 - [GEÇİCİ MADDE 1](articles/gecici-madde-001.md)
 - [GEÇİCİ MADDE 2](articles/gecici-madde-002.md)

@@ -8,6 +8,9 @@ b) Çocuğa eğitim, iş, destek alabileceği kurumlar, hakları ve haklarını 
 konularında rehberlik etmek.
 c) İhtiyaç duyacağı hizmetlerden yararlanmasında çocuğa yardımcı olmak.
 d) Kaldığı yerleri ve ilişki kurduğu kişileri ziyaret ederek çocuğun içinde yaşadığı
+
+16 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“adli süreçteki” şeklinde değiştirilmiştir.
 şartları, ailesi ve çevresiyle ilişkilerini, eğitim ve iş durumunu, boş zamanlarını değerlendirme
 faaliyetlerini yerinde incelemek.
 e) Alınan kararın uygulanmasını, bu uygulamanın sonuçlarını ve çocuk üzerindeki

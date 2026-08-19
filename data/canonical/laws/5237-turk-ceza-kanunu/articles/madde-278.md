@@ -9,6 +9,6 @@ mümkün bulunan bir suçu yetkili makamlara bildirmeyen kişi, yukarıdaki fık
 cezalandırılır.
 (3) Mağdurun onbeşyaşını bitirmemiş bir çocuk, bedensel veya ruhsal bakımdan
 engelli olan ya da hamileliği nedeniyle kendisini savunamayacak durumda bulunan kimse
-olması halinde, yukarıdaki fıkralara göre verilecek ceza, yarı oranında artırılır.109
+olması halinde, yukarıdaki fıkralara göre verilecek ceza, yarı oranında artırılır.112
 (4) Tanıklıktan çekinebilecek olan kişiler bakımından cezaya hükmolunmaz. Ancak,
 suçu önleme yükümlülüğünün varlığı dolayısıyla ceza sorumluluğuna ilişkin hükümler saklıdır.

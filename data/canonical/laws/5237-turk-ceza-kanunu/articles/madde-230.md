@@ -13,6 +13,6 @@ sayılı Kararı ile.)
 (6) (İptal: Anayasa Mahkemesi’nin 27/5/2015 tarihli ve E.: 2014/36, K.: 2015/51
 sayılı Kararı ile.)
 
-96 24/11/2016 tarihli ve 6763 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “bir yıla kadar
+98 24/11/2016 tarihli ve 6763 sayılı Kanunun 19 uncu maddesiyle, bu fıkrada yer alan “bir yıla kadar
 hapis ve” ibaresi “bir yıldan üç yıla kadar hapis ve iki yüz günden aşağı olmamak üzere” şeklinde
 değiştirilmiştir.

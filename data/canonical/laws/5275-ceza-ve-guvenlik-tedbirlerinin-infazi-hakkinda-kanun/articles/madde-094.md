@@ -1,7 +1,7 @@
 # MADDE 94
 
 (1) Hükümlülük süresinin onda birini iyi hâlle geçirmiş olanlara
-hükümlünün isteği ile;34
+hükümlünün isteği ile;35
 a) Ana, baba, eş, kardeş veya çocuğunun ölümü nedeniyle ceza infaz kurumu en üst
 amirinin önerisi ve Cumhuriyet Başsavcılığının onayı ile,
 b) Yukarıdaki bentte sayılan yakınlarından birisinin yaşamsal tehlike oluşturacak
@@ -15,10 +15,16 @@ bakımından sakınca oluşturmaması koşuluyla tehlikeli olmayan hükümlünü
 görevlisinin refakatinde bulunmak şartıyla, talebi ve Cumhuriyet Başsavcısının onayıyla;
 a) İkinci derece dahil kan veya kayın hısımlarından birinin ya da eşinin ölümü
 nedeniyle cenazesine katılması için yol süresi dışında iki güne kadar,
+
+34 14/4/2020 tarihli ve 7242 sayılı Kanunun 37 nci maddesiyle, bu fıkranın birinci cümlesinde yer alan
+“5271 sayılı Kanunun 250 nci maddesinin birinci fıkrasında yer alan” ibaresi “Terör ve örgüt
+faaliyeti çerçevesinde işlenen” ve “hâkim” ibaresi “sulh ceza hâkimi” şeklinde değiştirilmiştir.
+35 14/4/2020 tarihli ve 7242 sayılı Kanunun 38 inci maddesiyle, bu fıkrada yer alan “beşte birini”
+ibaresi “onda birini” şeklinde değiştirilmiştir.
 b) Sağlık Kurulu raporu ile belgelendirilmesi şartıyla ana, baba, eş, kardeş, çocuk ile
 eşin anne veya babasından birinin yaşamsal tehlike oluşturacak önemli ve ağır hastalık
-hâllerinin bulunması nedeniyle bunlardan her biri için (…)35 toplam iki defaya mahsus olmak
-üzere hasta ziyareti amacıyla yol süresi dışında bir güne kadar,36
+hâllerinin bulunması nedeniyle bunlardan her biri için (…)36 toplam iki defaya mahsus olmak
+üzere hasta ziyareti amacıyla yol süresi dışında bir güne kadar,37
 izin verilebilir. (Değişik ikinci cümle: 24/1/2013-6411/ 10 md.) Hükümlünün, izin
 süresi içinde gece konaklaması gerektiği takdirde, kendi evi veya (a) bendinde belirtilen bir
 yakınının evinde, güvenli görülen başka bir yerde ya da gidilen yerde bulunan kapalı ceza

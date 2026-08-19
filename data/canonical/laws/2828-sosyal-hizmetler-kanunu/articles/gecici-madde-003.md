@@ -12,4 +12,4 @@ Kadro dağıtımı sonunda; işgal etmekte oldukları kadro derece ve unvanları
 değişmeyenler ile kadro derecesi değiştirilenlerden 657 sayılı Devlet Memurları Kanunu
 hükümlerine göre yeni derecelerine atanma şartlarını taşıyanlar bu Kanunun yürürlüğe girdiği
 tarihten itibaren başkaca bir işleme gerek kalmaksızın bu kadrolara atanmış sayılırlar. Bunun
-dışında kalan personel ise yürürlükteki mevzuata göre yeni kadrolara atanır.37
+dışında kalan personel ise yürürlükteki mevzuata göre yeni kadrolara atanır.38

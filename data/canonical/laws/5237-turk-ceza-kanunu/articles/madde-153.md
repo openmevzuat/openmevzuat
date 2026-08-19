@@ -2,7 +2,7 @@
 
 (1) İbadethanelere, bunların eklentilerine, buralardaki eşyaya, mezarlara,
 
-69 18/6/2014 tarihli ve 6545 sayılı Kanunun 65 inci maddesiyle, bu maddenin birinci fıkrasında yer
+71 18/6/2014 tarihli ve 6545 sayılı Kanunun 65 inci maddesiyle, bu maddenin birinci fıkrasında yer
 alan “altı” ibaresi “dört”, ikinci fıkrasında yer alan “iki” ibaresi “bir” şeklinde değiştirilmiştir.
 bunların üzerindeki yapılara, mezarlıklardaki tesislere, mezarlıkların korunmasına yönelik
 olarak yapılan yapılara yıkmak, bozmak veya kırmak suretiyle zarar veren kişi, bir yıldan dört

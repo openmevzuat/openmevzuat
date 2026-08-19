@@ -141,9 +141,9 @@ hizmet kuruluşlarını,12
 harcamaların yapılması, takibi, denetlenmesi ve çocuk evleri arasındaki koordinasyonun
 sağlanması amacıyla oluşturulan merkezleri,
 17. (Ek:22/4/2026-7578/4 md.) “Çocuk Koruma İlk Müdahale ve Değerlendirme
-Merkezi”; Korunma ihtiyacı olan veya suça sürüklenen çocuklar hakkında uygun hizmet
-modeli belirleninceye veya mahkeme kararı alınıncaya kadar geçici bir süre barınma ve temel
-gereksinimleri karşılamak üzere açılan güvenlikli yatılı sosyal hizmet kuruluşlarını,
+Merkezi”; Korunma ihtiyacı olan veya adli süreçteki çocuklar hakkında uygun hizmet modeli
+belirleninceye veya mahkeme kararı alınıncaya kadar geçici bir süre barınma ve temel
+gereksinimleri karşılamak üzere açılan güvenlikli yatılı sosyal hizmet kuruluşlarını,13
 g) "Kurum"; bu Kanunla kurulan Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel
 Müdürlüğünü,
 h) (Ek:22/4/2026-7578/4 md.) “İhtisaslaşma”; Çocuk bakım kuruluşlarının,
@@ -164,12 +164,14 @@ destekli kamera sistemlerince yapılan yerel kayıtların eş zamanlı olarak ak
 
 Genel esaslar:
 
+12 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürlü” ibaresi
+“engelli” şeklinde değiştirilmiştir.
+13 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu alt bentte yer alan “suça
+sürüklenen” ibaresi “adli süreçteki” şeklinde değiştirilmiştir.
+
 MADDE 4
 
 Sosyal hizmetlere ilişkin genel esaslar şunlardır:
-
-12 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürlü” ibaresi
-“engelli” şeklinde değiştirilmiştir.
 a) (Değişik: 1/7/2005-5378/27 md.) Bu Kanun kapsamına giren sosyal hizmetlere
 ilişkin faaliyetler, Devletin denetim ve gözetiminde, sivil toplum kuruluşları ile halkın
 gönüllü katkı ve katılımı da sağlanarak bir bütünlük içinde yürütülür. Sunulacak bakım ve
@@ -180,10 +182,10 @@ b) Sosyal hizmetler alanında faaliyet gösteren kamu kurum ve kuruluşları ile
 kuruluşlar arasında koordinasyon ve işbirliği tesis edilerek güç birliği sağlanır ve mevcut
 kaynaklara en verimli şekilde işlerlik kazandırılır.
 c) Sosyal hizmet programlarının uygulanmasında korunmaya ihtiyacı olan çocuk,
-ihtiyacı olan engelli ve ihtiyacı olan yaşlıya öncelik tanınır.1314
+ihtiyacı olan engelli ve ihtiyacı olan yaşlıya öncelik tanınır.1415
 d) Sosyal hizmetlerin yürütülmesi ve sunulmasında sınıf, ırk, dil, din, mezhep veya
 bölge farklılığı gözetilemez, hizmet talebinin hizmet arzından fazla olması halinde öncelikler,
-ihtiyacı olan olma derecesi ve başvuru veya tespit sırası esas alınarak belirlenir.14
+ihtiyacı olan olma derecesi ve başvuru veya tespit sırası esas alınarak belirlenir.15
 e) (Mülga: 1/7/2005-5378/27 md.)
 f) Bu Kanunla kurulan Kuruma bağlı kuruluşların dışındaki sosyal hizmet kuruluşlarının
 kurulması izne tabi olup, alınacak tertip ve tedbirlerle bunların hizmet, işleyiş ve personele
@@ -194,46 +196,46 @@ h) (Değişik: 30/5/1997 - KHK - 572/6 md.) Çocuk yuvaları ile yetiştirme yur
 korunmaya ihtiyacı olan çocukların yaş, cinsiyet, sosyal ve psikolojik özellikleri ile engel
 dereceleri dikkate alınarak, kaynaştırma anlayışına göre gruplandırılması ve özellikle çocuk
 yuvalarının, huzurevleri ile aynı mahallerde tesis edilerek dede-torun, nine-torun ilişkilerinin
-sağlanması esas alınır.1314
+sağlanması esas alınır.1415
 ı) Korunmaya, bakıma ve yardıma ihtiyacı olan kişilere hizmet sunumu insan haysiyet
-ve vakarına yaraşır şekilde yerine getirilir.14
+ve vakarına yaraşır şekilde yerine getirilir.15
 j) Sosyal hizmet kurum ve kuruluşlarında çalıştırılacak personelin seçim ve
 niteliklerinin tespitinde ve bunların hizmetiçi eğitim programlarının düzenlenmesinde bu
 kurum ve kuruluşların hizmet özellikleri dikkate alınır.
 k) Korunmaya ihtiyacı olan çocukların Türk örf, adet, inanç ve milli ahlakına sahip,
 kendisine güvenen, insan sevgi ve saygısıyla dolu, Atatürkçü düşünce ve Atatürk ilke ve
 inkılaplarına uygun olarak yetiştirilmeleri, bir iş veya meslek sahibi yapılmaları, koruma kararı
-kalktıktan sonra da toplum içinde izlenmeleri ve imkanlar ölçüsünde desteklenmeleri esastır.14
 
-13 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (c)
+14 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (c)
 bendinde yer alan “özürlü” ibaresi “engelli”, (h) bendinde yer alan “özür” ibaresi “engel”, (1) bendinde
 yer alan “özürlü” ve “özürlülerin” ibareleri sırasıyla “engelli” ve “engellilerin”, ikinci fıkrasında yer
 alan “Özürlülere” ibaresi “Engellilere”, aynı fıkranın (a) bendinde yer alan “özürlülerin” ibaresi
 “engellilerin” şeklinde değiştirilmiştir.
-14 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentlerde yer alan “muhtaç”
+15 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu bentlerde yer alan “muhtaç”
 ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
+kalktıktan sonra da toplum içinde izlenmeleri ve imkanlar ölçüsünde desteklenmeleri esastır.15
 l) İhtiyacı olan, engelli ve yaşlıların hayatlarını sağlık, huzur ve güven içinde sürdürmesi,
 ihtiyacı olan engellilerin toplum içinde kendi kendilerini idare edebilecek ve üretken hale
 gelebilecek şekilde bakım ve rehabilitasyonlarının yapılması, bunlardan tedavisi mümkün
-olmayanların sürekli bakım altına alınması amacıyla gerekli her türlü tertip ve tedbir alınır.1314
+olmayanların sürekli bakım altına alınması amacıyla gerekli her türlü tertip ve tedbir alınır.1415
 m) (Ek: 21/1/2000 - KHK - 594/2 md.) Doğal afetlerde ulusal ve uluslararası sosyal
 hizmet kurum ve kuruluşlarıyla birlikte hareket edilmesi ve acil kurtarma ve yardım
 çalışmalarının etkili şekilde yürütülmesi amacıyla gerekli her türlü tertip ve tedbir alınır.
 (Ek fıkra: 3/6/2011-KHK-633/35 md.) Engellilere yönelik hizmetlerin yürütülmesine
-ilişkin genel esaslar şunlardır:13
+ilişkin genel esaslar şunlardır:14
 a) Eşit katılım için, engellilerin sahip oldukları hak ve yükümlülükler konusunda
 birey, aile ve toplumun bilinçlendirilmesi, tıbbî bakım ve rehabilitasyonlarının sağlanması,
-günlük yaşamlarında kendi başlarına yaşayabilme kapasitelerinin artırılması.13
-b) Bilgi, hizmet ve fiziksel çevre koşullarının engelliler için ulaşılabilir hâle getirilmesi.15
+günlük yaşamlarında kendi başlarına yaşayabilme kapasitelerinin artırılması.14
+b) Bilgi, hizmet ve fiziksel çevre koşullarının engelliler için ulaşılabilir hâle getirilmesi.16
 c) Doğumdan başlayarak okul öncesi, okul çağı ve yetişkinleri kapsayacak biçimde
-tüm engellilere eğitimde fırsat eşitliği sağlanması.15
+tüm engellilere eğitimde fırsat eşitliği sağlanması.16
 d) İstihdamın, mesleki eğitim ve rehabilitasyonla birlikte gerçekleştirilmesi, istihdam
 alanlarının engellilerin kullanımına uygunluğunun sağlanması ve teknolojiye uygun alet ve
-cihazların engellilerce elde edilmesini kolaylaştırıcı önlemlerin alınması.15
+cihazların engellilerce elde edilmesini kolaylaştırıcı önlemlerin alınması.16
 e) Engellilerin sosyal güvenlikleri ile gelirlerinin korunması, aile hayatı ve kişisel
-bütünlükleri ile kültür, eğlence, spor ve din alanlarına tam katılımlarının sağlanması.15
+bütünlükleri ile kültür, eğlence, spor ve din alanlarına tam katılımlarının sağlanması.16
 f) Engellilere ilişkin plan ve programlar ile ekonomik ve sosyal statülerini etkileyen
-tüm kararların alınması sırasında engellilerin katılımlarının sağlanması.15
+tüm kararların alınması sırasında engellilerin katılımlarının sağlanması.16
 
 İKİNCİ BÖLÜM
 Kuruluş ve Görevler
@@ -255,13 +257,12 @@ MADDE 7
 
 (Mülga: 3/6/2011-KHK-633/35 md.)
 
-Kurumun kuruluşu:
-
-15 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (b)
+16 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, 4 üncü maddenin birinci fıkrasının (b)
 bendinde yer alan “özürlüler” ibaresi “engelliler”, (c) bendinde yer alan “özürlülere” ibaresi
 “engellilere”, (d) bendinde yer alan “özürlülerin” ve “özürlülerce” ibareleri sırasıyla “engellilerin” ve
 “engellilerce”, (e) bendinde yer alan “Özürlülerin” ibaresi “Engellilerin”, (f) bendinde yer alan
 “Özürlülere” ve “özürlülerin” ibareleri sırasıyla “Engellilere” ve “engellilerin” şeklinde değiştirilmiştir.
+Kurumun kuruluşu:
 
 MADDE 8
 
@@ -327,7 +328,7 @@ hükümlerine tabi olmaksızın ve Borçlar Kanunu hükümlerine göre sözleşm
 Bu kadroların % 30'u engellilikleri nedeniyle koruma kararı uzatılanlara tahsis edilir. Saat ücreti
 asgari ücretin aylık çalışma saati toplamına bölünmesi ile tespit edilir. Bir kadro karşılığında
 çalışma saati ile sınırlı olmak üzere birden fazla kişi çalıştırılabilir. Ancak kişi başına ayda 60
-saatin dışında ücret ödenemez.16
+saatin dışında ücret ödenemez.17
 (Ek: 14/3/1991 - 3703/4 md.; Mülga dördüncü fıkra: 3/6/2011-KHK-633/35 md.)
 (Ek: 14/3/1991 - 3703/4 md.; Mülga beşinci fıkra: 3/6/2011-KHK-633/35 md.)
 (Ek: 14/3/1991 - 3703/4 md.; Mülga altıncı fıkra: 3/6/2011-KHK-633/35 md.)
@@ -361,19 +362,19 @@ f) Türk Hava Kurumunca toplanacak kurban derisi, fitre, zekat gelirlerinden Kur
 ayrılan paylar,
 g) Belediye sınırları ile mücavir alanlar içinde düzenlenen fuar, festival, sergi ve benzeri
 yerlere giriş biletlerine, Cumhurbaşkanınca tespit edilen miktarda yapıştırılacak sosyal yardım
-pulu gelirleri,17
+pulu gelirleri,18
 h) (Mülga: 14/3/2007-5602/11 md.)
 ı) (Mülga: 7/12/2004-5272/87 md.)
 j) (Mülga: 7/12/2004-5272/87 md.)
 k) Kanunla kurulan döner sermaye işletmelerinin (Vakıflar Genel Müdürlüğüne ve
 Orman Genel Müdürlüğü'ne ait olanlar hariç), yıllık brüt hasılatlarının % 1'inin Kuruma
-aktarılmasıyla elde edilecek gelirler.18
+aktarılmasıyla elde edilecek gelirler.19
 
-16 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi
+17 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi
 “engellilikleri” şeklinde değiştirilmiştir.
-17 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca”
+18 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca”
 ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-18 Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122
+19 Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122
 sayılı Kanunun 15/b maddesi ile "ve Orman Genel Müdürlüğü'ne" ibaresi eklenmiştir.
 (Değişik ikinci fıkra: 14/3/2007-5602/10 md.) Yukarıda sayılan gelirlerden (k)
 bendinde belirtilenler, hasılatın elde edilmesini takip eden ayın son gününe kadar Kuruma
@@ -391,7 +392,7 @@ Aile ve Sosyal Politikalar Bakanlığına, bu Kanunda öngörülen temel ve sür
 görevlere bağlı olarak ortaya çıkan üretim ve hizmet faaliyetlerini sürdürebilmek için gerekli
 yerde ve sayıda döner sermaye işletmesi kurmak amacıyla kendi kaynaklarından karşılanmak
 üzere beş milyon (5.000.000,00) Türk Lirası sermaye tahsis edilmiştir.
-Tahsis edilen döner sermaye tutarını artırmaya Cumhurbaşkanı yetkilidir.19
+Tahsis edilen döner sermaye tutarını artırmaya Cumhurbaşkanı yetkilidir.20
 Döner sermaye, ayni yardımlar, döner sermaye faaliyetlerinden elde edilecek kârlar,
 bağış ve yardımlardan oluşur. Bağış ve yardımlar tahsis olunan sermaye ile sınırlı olmaksızın
 tahsis olunan sermaye tutarına eklenir.
@@ -417,7 +418,7 @@ usul ve esaslar, Maliye Bakanlığının görüşü alınarak çıkarılacak yö
 
 Mali kolaylıklar:
 
-19 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
+20 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu fıkrada yer alan “Bakanlar Kurulu”
 ibaresi “Cumhurbaşkanı” şeklinde değiştirilmiştir.
 
 MADDE 20
@@ -429,11 +430,11 @@ uyulur.
 b) Gelir veya Kurumlar Vergisi mükellefleri tarafından Kurum ve kuruluşlarına
 makbuz karşılığında yapılacak nakdî ve aynî bağışlar Gelir ve Kurumlar Vergisi kanunları
 hükümlerine göre yıllık beyanname ile bildirilecek gelirlerden ve Kurum kazancından
-indirilir.20
+indirilir.21
 c) Kurum ve kuruluşlarınca hizmetin gereği olarak ithal edilen makine, teçhizat,
 malzeme ve yayınlar gümrük vergisi ve buna bağlı vergi, resim ve harçtan muaftır. Bu
 muafiyet hükümleri bağış ve yardım yoluyla gelen aynı cins malzemeler için şartsız olarak
-uygulanır.21
+uygulanır.22
 d) Türkiye Çocuk Esirgeme Kurumuna kanunlarla verilmiş olan imtiyazlar, Kurum
 için de aynen uygulanır.
 
@@ -444,7 +445,7 @@ Tespit ve inceleme:
 MADDE 21
 
 Kurum, korunmaya, bakıma, yardıma ihtiyacı olan aile, çocuk, engelli ve
-yaşlılar ile sosyal hizmetlere ihtiyacı olan diğer kişileri tespit ve incelemekle görevlidir.2223
+yaşlılar ile sosyal hizmetlere ihtiyacı olan diğer kişileri tespit ve incelemekle görevlidir.2324
 Bu kişilerin Kuruma duyurulmasında ve incelemeye ilişkin olarak Kurum ile
 işbirliğinde bulunulmasında mahalli mülki amirler, sağlık kuruluşları ve köy muhtarları ile
 genel kolluk kuvvetleri ve belediye zabıta memurları yükümlüdürler.
@@ -457,17 +458,17 @@ Korunmaya ihtiyacı olan çocukların reşit oluncaya kadar bu Kanun
 hükümlerine göre Kurumca kurulan sosyal hizmet kuruluşlarında bakılıp yetiştirilmeleri ve
 bir meslek sahibi edilmeleri hususundaki gerekli tedbir kararı 3/7/2005 tarihli ve 5395 sayılı
 Çocuk Koruma Kanununa göre yetkili ve görevli mahkemece alınır. Bu karar için gerekli
-belgeler Kurumca düzenlenir ve ilgili mahkemeye gönderilir.2425
+belgeler Kurumca düzenlenir ve ilgili mahkemeye gönderilir.2526
 
-20 Bu fıkrada yer alan“ nakdî bağışlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu
+21 Bu fıkrada yer alan“ nakdî bağışlar“ ibaresi, 16/7/2004 tarihli ve 5228 sayılı Kanunun 59 uncu
 maddesiyle,“ nakdî ve aynî bağışlar“ olarak 31/7/2004 tarihinden geçerli olmak üzere değiştirilmiştir.
-21 İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarihli ve 3283 sayılı
+22 İthalde alınan her türlü vergi, resim ve harç muafiyeti hükümleri, 6/5/1986 tarihli ve 3283 sayılı
 Kanunun 1 inci maddesi ile yürürlükten kaldırılmıştır.
-22 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
+23 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
 “engelli” şeklinde değiştirilmiştir.
-23 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkranın birinci cümlesinde yer
+24 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkranın birinci cümlesinde yer
 alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
-24 6/2/2014 tarihli ve 6518 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “yetkili ve görevli
+25 6/2/2014 tarihli ve 6518 sayılı Kanunun 17 nci maddesiyle, bu fıkrada yer alan “yetkili ve görevli
 mahkemece” ibaresi “3/7/2005 tarihli ve 5395 sayılı Çocuk Koruma Kanununa göre yetkili ve görevli
 mahkemece” şeklinde değiştirilmiştir.
 Haklarında derhal korunma tedbiri alınmasında zorunluluk görülen çocuklar mahkeme
@@ -488,7 +489,7 @@ bakımı ve yetiştirilmesi bu Kanuna göre kurulmuş kuruluşlarda olduğu kada
 denetim ve gözetiminde bir "Koruyucu Aile" tarafından da yerine getirilebilir. (Değişik ikinci
 cümle: 6/2/2014-6518/18 md.) Koruyucu aileye, korunmaya ihtiyacı olan çocuğun bakımı ve
 yetiştirilmesine karşılık olarak üçüncü fıkra kapsamında ödeme yapılabileceği gibi koruyucu
-aile bu işi gönüllü olarak da üstlenebilir.2526
+aile bu işi gönüllü olarak da üstlenebilir.2627
 (Ek fıkra:22/4/2026-7578/5 md.) Koruyucu aile sözleşmesi devam eden koruyucu
 ailelerde eşlerden birinin, sigortalı olarak ay içerisinde otuz günden az çalışması ya da tam
 gün çalışmaması sebebiyle isteğe bağlı sigortalı olanlar hariç olmak üzere, sosyal güvenlik
@@ -506,16 +507,16 @@ tutarlarına, yapılacak ödemelerin usul ve esası ile ikinci fıkra kapsamınd
 ödemelerine, koruyucu ailelerin seçimine, çocukla ilgili sorumluluklarına ve hizmetin
 işleyişine ilişkin usul ve esaslar, Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve
 Sosyal Hizmetler Bakanlığı tarafından çıkarılan yönetmelikle belirlenir ve bu kapsamda
-verilecek ödemelerden hiçbir kesinti yapılmaz.27
+verilecek ödemelerden hiçbir kesinti yapılmaz.28
 
-25 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri
+26 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri
 “ihtiyacı olan” şeklinde değiştirilmiştir.
-26 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan
+27 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan
 “ikinci” ibaresi “üçüncü” şeklinde değiştirilmiştir.
-27 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile”
+28 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile”
 ibaresinden sonra gelmek üzere “ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine,” ibaresi
 
-Korunma kararının süresi ve kaldırılması:28
+Korunma kararının süresi ve kaldırılması:29
 
 MADDE 24
 
@@ -534,12 +535,12 @@ Bunlardan korunma kararı kalkmış; ancak tek başına yaşamını sürdüremey
 bulunan kız çocukları, Kurumca himaye olunur. Bu çocukların emek karşılığı iaşe, ibate ve
 harçlıkları Kurumca karşılanmak kaydıyla Kurum hizmetlerinde çalışmaları da sağlanabilir.
 c) Bedensel, zihinsel ve ruhsal engellilikleri nedeniyle sürekli bakıma ihtiyacı olan ve
-çalışmaktan aciz olan Çocukların korunma kararı uzatılır.29
+çalışmaktan aciz olan Çocukların korunma kararı uzatılır.30
 Korunma kararı kalkan çocukların Kurumla ilişkilerinin devamı sağlanır. Bu çocuklara
 gerektiğinde imkanlar ölçüsünde Kurumca yardımcı olunur.
 
 Korunmaya ihtiyacı olan çocukların eğitim ve öğretimlerinin sağlanması veya
-meslek sahibi yapılmaları:30
+meslek sahibi yapılmaları:31
 
 MADDE 25
 
@@ -555,18 +556,18 @@ mahalli örf ve rayice göre tespit olunur. Bu konuya ilişkin hususlar bir yön
 eklenmiş ve “Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Politikalar Bakanlığı” ibaresi
 “Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve Sosyal Hizmetler Bakanlığı” şeklinde
 değiştirilmiştir.
-28 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
+29 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasının birinci
 fıkrasının (a) bendinde yer alan “muhtaç” ibaresi ile (c) bendinde yer alan “muhtaç durumda
 bulunan” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.
-29 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürleri” ibaresi
+30 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu bentte yer alan “özürleri” ibaresi
 “engellilikleri” şeklinde değiştirilmiştir.
-30 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan
+31 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan
 “muhtaç” ibaresi ile birinci ve üçüncü fıkralarında yer alan “muhtaç” ibareleri “ihtiyacı olan”
 şeklinde değiştirilmiştir.
 (Değişik: 30/5/1997 - KHK - 572/10 md.) Özel eğitim gerektiren korunmaya ihtiyacı
 olan çocukların eğitim ve öğretimleri Milli Eğitim Bakanlığına bağlı resmi ve özel eğitim-
 öğretim kurumlarında sürdürülür. Korunmaya ihtiyacı olan engelli çocukların eğitimleri Milli
-Eğitim Bakanlığı ile birlikte planlanır.31
+Eğitim Bakanlığı ile birlikte planlanır.32
 
 Sosyal ve ekonomik destek
 
@@ -599,11 +600,11 @@ eylemiyle bundan haksız bir şekilde yararlandığının Aile ve Sosyal Hizmetl
 tespit edilmesi hâlinde, Devletçe ödenen meblağın tahsili için ilgililere rücu edilir.
 
 Korunmaya, bakıma, yardıma ihtiyacı olan engelli, yaşlı ve diğer kişilere ilişkin
-hususlar:3233
+hususlar:3334
 
-31 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
+32 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
 “engelli” şeklinde değiştirilmiştir.
-32 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin
+33 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin
 başlığında ve birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde … değiştirilmiştir.” hükmü
 yer almakla birlikte Meclis tutanakları, kanun gerekçesinin incelenmesiyle, madde başlığında yer alan
 “sakat” ibaresinin değiştirilmek istendiği tespit edilmiş ve düzenleme bu şekilde yapılmıştır.
@@ -633,14 +634,14 @@ Kuruma bağlı kuruluşlarda bakılmakta iken mirasçı bırakmaksızın ölen
 kimselerin mirası Kuruma geçer. Kurum terekenin borcundan ancak, kendisine geçen mallar
 ölçüsünde sorumlu olur.
 
-MADDE 29 — Haciz, devir ve temlik ayrıcalığı:34
+MADDE 29 — Haciz, devir ve temlik ayrıcalığı:35
 
 Bu Kanun gereğince korunmaya ve yardıma ihtiyacı olan aile ve kişilere
 yapılacak ödemeler ve sağlanacak yardımlar başkasına devir, temlik ve haciz edilemez.
 
-33 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç”
+34 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin başlığında yer alan “muhtaç”
 ibaresi ile birinci fıkrasında yer alan “muhtaç” ibareleri “ihtiyacı olan” şeklinde değiştirilmiştir.
-34 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasında yer
+35 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu maddenin birinci fıkrasında yer
 alan “muhtaç” ibaresi “ihtiyacı olan” şeklinde değiştirilmiştir.
 Dava açma hakkı:
 
@@ -879,7 +880,7 @@ belirlemeye Aile ve Sosyal Hizmetler Bakanlığı yetkilidir.
 EK MADDE 2
 
 (Ek: 24/1/1989-KHK-356/4 md.; Aynen kabul: 14/3/1991-3703/5 md.;
-Mülga: 3/6/2011-KHK-633/35 md.)35
+Mülga: 3/6/2011-KHK-633/35 md.)36
 
 Anlaşmazlıkların Hali:
 
@@ -922,7 +923,7 @@ sonraki her bakıma ihtiyacı olan engelli iki kişi sayılır. (Ek cümle:21/2/
 fıkranın uygulanmasında, 5510 sayılı Kanunun ek 18 inci maddesi uyarınca Ramazan ve
 Kurban bayramlarında ödenen bayram ikramiyeleri hane içinde kişi başına düşen ortalama
 
-35 Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de
+36 Bu madde; evvelce 356 sayılı KHK'nin 4 üncü maddesi ile "Ek madde 1" olarak getirilmişse de
 teselsülü sağlamak için bu sefer 14/3/1991 tarih ve 3703 sayılı Kanunla madde numarası "Ek madde
 2" olarak değiştirilmiştir.
 aylık gelir tutarının hesaplanmasına dâhil edilmez.
@@ -960,11 +961,11 @@ tarihten itibaren yasal faizi ile birlikte genel hükümlere göre takip ve tahs
 
 EK MADDE 8
 
-(Ek: 1/7/2005-5378/30 md.)36
+(Ek: 1/7/2005-5378/30 md.)37
 İşitme ve konuşma engellilerine gerek görüldüğü hâllerde tercümanlık yapmak üzere
 illerde işaret dili bilen personel görevlendirilir. Personelin işaret lisanı öğrenmeleri için gerekli
 
-36 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
+37 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
 “özürlülerine” ve “Özürlüler İdaresi Başkanlığı ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumu
 Genel Müdürlüğünün müştereken hazırlayacakları” ibareleri sırasıyla “engellilere” ve “Aile ve
 Sosyal Politikalar Bakanlığınca hazırlanacak” şeklinde değiştirilmiştir.
@@ -1108,7 +1109,7 @@ Kadro dağıtımı sonunda; işgal etmekte oldukları kadro derece ve unvanları
 değişmeyenler ile kadro derecesi değiştirilenlerden 657 sayılı Devlet Memurları Kanunu
 hükümlerine göre yeni derecelerine atanma şartlarını taşıyanlar bu Kanunun yürürlüğe girdiği
 tarihten itibaren başkaca bir işleme gerek kalmaksızın bu kadrolara atanmış sayılırlar. Bunun
-dışında kalan personel ise yürürlükteki mevzuata göre yeni kadrolara atanır.37
+dışında kalan personel ise yürürlükteki mevzuata göre yeni kadrolara atanır.38
 
 GEÇİCİ MADDE 4
 
@@ -1151,7 +1152,7 @@ bedelini kabul ederek Kurumla kira sözleşmesi yapanlar veya Kurumun belirledi�
 kabul etmeyerek kira sözleşmesi yapmayanlardan taşınmaz malı henüz tahliye etmemiş
 bulunanlar, bu Kanunun yürürlüğe girdiği tarihten itibaren otuz gün içinde Kurum tarafından
 
-37 Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü
+38 Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü
 maddesi ile yürürlükten kaldırılmıştır.
 belirlenen kira bedellerine karşı sulh hukuk mahkemesine itiraz edebilirler. İtirazın yapılması
 halinde kiracılar, dava sonuna kadar Kurum tarafından belirlenen kirayı aylık olarak öderler ve
@@ -1188,9 +1189,9 @@ olarak ödenen tutarlar birinci fıkrada belirtilen gelir ölçütünün geçild
 birlikte takip ve tahsil edilir. Söz konusu gelir ölçütünün bir kat veya daha fazla aşılması
 halinde yapılan yersiz ödemenin tamamı yasal faizi ile birlikte tahsil edilir. Bu maddenin
 yürürlüğe girdiği tarihten önce bu kapsamda tahsil edilmiş olan tutarlar bakımından ilgili
-kişiler lehine hiçbir şekilde alacak hakkı doğmaz.38
+kişiler lehine hiçbir şekilde alacak hakkı doğmaz.39
 
-38 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
+39 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
 “özürlüye” ibaresi “engelliye” şeklinde değiştirilmiştir.
 
 GEÇİCİ MADDE 10

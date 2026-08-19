@@ -6,5 +6,8 @@ kullanma suçuna ilişkin hükümler uygulanır.
 (2) Muhafaza veya nakli ile görevli olan kimse, görevinin gereklerine aykırı olarak
 gözaltına alınan, tutuklu veya hükümlünün bulunduğu yerden geçici bir süreyle uzaklaşmasına
 izin verirse; altı aydan iki yıla kadar hapis cezası ile cezalandırılır.
+
+115 29/6/2005 tarihli ve 5377 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan "Gözaltına
+alınan," ibaresi madde metninden çıkarılmıştır.
 (3) Gözaltına alınan, tutuklu veya hükümlünün bu fırsattan yararlanarak kaçması
 halinde, kaçmaya kasten imkan sağlama suçuna ilişkin hükümler uygulanır.

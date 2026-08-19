@@ -4,7 +4,7 @@
 katılmaktan alıkoyma cezaları kurumun en üst amiri tarafından verilir ve uygulanır.
 (2) Hükümlülerin diğer disiplin cezalarını gerektiren eylemlerinin öğrenilmesinden
 itibaren derhâl ve en geç beş gün içinde kurum en üst amirince atanan bir görevli tarafından
-soruşturmaya başlanır.15
+soruşturmaya başlanır.16
 (3) (Değişik:14/4/2020-7242/27 md.) Soruşturma en geç onbeş gün içinde tamamlanır.
 Firar hâlinde bu süre hükümlünün yakalandığının öğrenildiği tarihte başlar. Düzenlenen rapor
 ve ekleri disiplin kuruluna sunulur. Soruşturma süresi eylemin ve soruşturmanın niteliğine göre
@@ -16,9 +16,6 @@ olarak sunulabileceği gibi sözlü olarak da yapılabilir. Sözlü savunma tuta
 Türkçe bilmeyenlerle, sağır ve dilsizlerin savunmaları tercüman aracılığıyla alınır.
 (5) Disiplin cezaları disiplin kurulunca evrak üzerinden görüşülerek en geç üç gün
 içinde karara bağlanır. Disiplin kurulu, yasada yazılı disiplin cezası uygulanmasına veya
-
-15 14/4/2020 tarihli ve 7242 sayılı Kanunun 27 nci maddesiyle, bu fıkrada yer alan “iki gün” ibaresi
-“beş gün” şeklinde değiştirilmiştir.
 disiplin cezası verilmesine yer olmadığına karar verebilir. Disiplin kurulu kararları gerekçeli
 olarak yazılır ve kararda şikâyet mercii ve süresi açıkça gösterilir.
 (6) Disiplin kurulu kararı, haklarında soruşturma yapılanlara yönetim tarafından derhâl
@@ -34,3 +31,6 @@ son barındırıldığı ceza infaz kurumu disiplin kurulu tarafından yapılır
 
 Disiplin cezasını gerektiren eylemlerin tekrarı, disiplin cezalarının infazı ve
 kaldırılması
+
+16 14/4/2020 tarihli ve 7242 sayılı Kanunun 27 nci maddesiyle, bu fıkrada yer alan “iki gün” ibaresi
+“beş gün” şeklinde değiştirilmiştir.

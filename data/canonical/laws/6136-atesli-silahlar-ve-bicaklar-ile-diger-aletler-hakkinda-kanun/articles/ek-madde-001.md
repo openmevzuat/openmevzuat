@@ -20,14 +20,14 @@ hakkında ilgili kanunlarda belli edilen cezaların iki katı hükmolunur.13
 (A) ve (B) bentlerinde sayılan yerlerde 7 nci maddenin 1, 2, 3 ve 4 numaralı
 bentlerinde belirtilen, kişiler ile bu yerlerin güvenliği için görevli bulunan polis ve jandarma
 personeli, (C) bendinde sayılan yerlerde ise yalnız bu yerlerin güvenliği ile görevli bulunan
+
+13 23/1/2008 tarihli ve 5728 sayılı Kanunun 159 uncu maddesiyle bu fıkrada bulunan “264” ibaresi
+“174” şeklinde değiştirilmiştir.
 polis, jandarma ve Türkiye Büyük Millet Meclisi Mumafız Taburu personeli silahlarını
 taşıyabilirler.
 (Değişik dördüncü fıkra: 23/1/2008-5728/159 md.) (A), (B) ve (C) bentlerinde
 sayılan yerlere silahla giren veya buralarda silah taşıyan kişiler, fiilleri daha ağır cezayı
 gerektiren başka bir suç oluşturmadığı takdirde, elli günden az olmamak üzere adlî para cezası
-
-13 23/1/2008 tarihli ve 5728 sayılı Kanunun 159 uncu maddesiyle bu fıkrada bulunan “264” ibaresi
-“174” şeklinde değiştirilmiştir.
 ile cezalandırılır. Ayrıca, bu kişilerin silah ruhsatları bulundurmaya çevrilir. Önödeme veya
 mahkûmiyet kararındaki adlî para cezasının infaz edildiği veya düştüğü tarihten itibaren beş
 yıllık süre geçmediği takdirde, bu kişilere taşıma ruhsatı verilmez.

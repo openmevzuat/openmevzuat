@@ -38,7 +38,7 @@
 - [MADDE 26](articles/madde-026.md)
 - [MADDE 27](articles/madde-027.md)
 - [MADDE 28](articles/madde-028.md)
-- [MADDE 29 — Haciz, devir ve temlik ayrıcalığı:34](articles/madde-029.md)
+- [MADDE 29 — Haciz, devir ve temlik ayrıcalığı:35](articles/madde-029.md)
 - [MADDE 30](articles/madde-030.md)
 - [MADDE 31](articles/madde-031.md)
 - [MADDE 32](articles/madde-032.md)

@@ -8,9 +8,6 @@ getirmek üzere denetimli serbestlik ve yardım merkezleri kurulur.
 (2) Salıverilme sonrasında hükümlülere iş sağlanması için koruma kurulları kurulur.
 (3) Denetimli serbestlik ve yardım merkezleri ile koruma kurullarının kuruluşu,
 çalışma yöntem ve esasları, ilgili kanununda düzenlenir.
-
-42 2/7/2018 tarihli ve 700 sayılı KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “tüzükte” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
 İKİNCİ KİTAP
 Diğer Cezalar, Tedbirler, Koşullu Salıverilme ve Tutukluluk
 

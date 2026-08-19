@@ -4,8 +4,8 @@
 hapis cezası ile cezalandırılır.
 (2) Fiil, birden fazla insanın ölümüne ya da bir veya birden fazla kişinin ölümü ile
 birlikte bir veya birden fazla kişinin yaralanmasına neden olmuş ise, kişi iki yıldan onbeş yıla
-kadar hapis cezası ile cezalandırılır.35
+kadar hapis cezası ile cezalandırılır.37
 
 İKİNCİ BÖLÜM
 Vücut Dokunulmazlığına Karşı Suçlar
-Kasten yaralama3637
+Kasten yaralama3839

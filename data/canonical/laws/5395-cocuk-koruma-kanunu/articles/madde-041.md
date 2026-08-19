@@ -8,6 +8,6 @@ sosyal inceleme raporu ile denetim plânı ve raporu hakkında bilgi sahibi olma
 yararına aykırı olduğuna kanaat getirilirse, bunların incelenmesi kısmen veya tamamen
 yasaklanabilir.
 
-DÖRDÜNCÜ KISIM4
+DÖRDÜNCÜ KISIM19
 Çocuk Teslimi ve Çocukla Kişisel İlişki Kurulması
 Görevli ve yetkili birim

@@ -18,7 +18,7 @@ cezasından mahsup edilerek kalan kısmın tamamı açık ceza infaz kurumunda y
 cezasının ödenmemesi hâlinde, bu ceza hapse çevrilemez. Bu takdirde onbirinci fıkra hükmü
 uygulanır.
 
-47 14/4/2020 tarihli ve 7242 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “kapalı” ibaresi
+48 14/4/2020 tarihli ve 7242 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “kapalı” ibaresi
 madde metninden çıkarılmıştır.
 (5) Adlî para cezasının hapse çevrileceği mahkeme ilâmında yazılı olmasa bile üçüncü
 fıkra hükmü Cumhuriyet Başsavcılığınca uygulanır.
@@ -34,14 +34,14 @@ kamuya yararlı işte çalıştırılma sona erer.
 (9) (Değişik: 26/2/2008-5739/5 md.) 16 ncı madde hükümleri saklı kalmak üzere, adlî
 para cezasından çevrilen hapsin infazı ertelenemez ve bunun infazında koşullu salıverilme
 hükümleri uygulanmaz. Hapse çevrilmiş olmasına rağmen hak yoksunlukları bakımından esas
-alınacak olan adlî para cezasıdır.48
+alınacak olan adlî para cezasıdır.49
 (10) (Mülga: 26/2/2008-5739/5 md.)
 (11) İnfaz edilen hapsin veya kamuya yararlı işte çalışmanın süresi, adlî para cezasını
 tamamıyla karşılamamış olursa, geri kalan adlî para cezasının tahsili için ilâm, Cumhuriyet
 Başsavcılığınca mahallin en büyük mal memuruna verilir. Bu makamlarca 6183 sayılı Amme
-Alacaklarının Tahsil Usulü Hakkında Kanuna göre kalan adlî para cezası tahsil edilir.49
+Alacaklarının Tahsil Usulü Hakkında Kanuna göre kalan adlî para cezası tahsil edilir.50
 
 İKİNCİ BÖLÜM
 Koşullu Salıverilme, Mükerrirlere Özgü İnfaz Rejimi ve
 Denetimli Serbestlik Tedbiri
-Koşullu salıverilme50
+Koşullu salıverilme51

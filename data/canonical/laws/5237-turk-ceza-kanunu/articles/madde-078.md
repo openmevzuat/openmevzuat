@@ -8,4 +8,4 @@ olanlara beş yıldan on yıla kadar hapis cezası verilir.
 
 İKİNCİ BÖLÜM
 Göçmen Kaçakçılığı ve İnsan Ticareti
-Göçmen kaçakçılığı28
+Göçmen kaçakçılığı30

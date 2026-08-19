@@ -13,14 +13,15 @@ Yürürlükten kaldırılan ek 3 üncü maddeye göre tabanca taşıma yetkisini
 bulunanların bu Kanunun yürürlüğe girdiği tarihten itibaren 30 gün içinde yetkili mercilere
 başvurmaları halinde 6136 sayılı Kanunun 7 nci maddesinin 3 numaralı bendi hükümlerine
 göre kendilerine taşıma veya bulundurma izin belgesi verilebilir.
+
+17 Anayasa Mahkemesinin 6/1/1999 tarih ve E.: 1996/68, K.: 1999/1 sayılı kararı ile bu fıkrada yer
+alan “Bakanlar Kurulunun tespit edeceği illerde” ibaresi iptal edilmiş olup metinden çıkarılmıştır.
+18 14/1/1998 tarih ve 4321 sayılı Kanun ile "45" gün ibaresi "90" gün olarak değiştirilmiştir.
 Taşıma veya bulundurma vesikasına bağlanamayan tabancalar sıkıyönetim
 komutanlıklarıyla mahalli mülki veya askeri makamlara teslim edilir.
 Bu şekilde teslim alınan silahların Makine ve Kimya Endüstrisi Kurumunca tespit
 olunacak bedelleri Devletçe sahiplerine ödenir.
 
-17 Anayasa Mahkemesinin 6/1/1999 tarih ve E.: 1996/68, K.: 1999/1 sayılı kararı ile bu fıkrada yer
-alan “Bakanlar Kurulunun tespit edeceği illerde” ibaresi iptal edilmiş olup metinden çıkarılmıştır.
-18 14/1/1998 tarih ve 4321 sayılı Kanun ile "45" gün ibaresi "90" gün olarak değiştirilmiştir.
 Ek Geçici Madde 2 – (Ek: 23/6/1981 - 2478/10 md.)
 6136 sayılı Kanun kapsamına alınan ve özellikleri İçişleri ve Gençlik ve Spor
 Bakanlıklarınca müştereken çıkarılacak yönetmelikte belirlenecek sporda kullanılan evvelce

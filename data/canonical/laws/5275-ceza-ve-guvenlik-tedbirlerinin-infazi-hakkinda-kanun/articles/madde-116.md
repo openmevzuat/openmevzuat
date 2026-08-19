@@ -43,7 +43,6 @@ mahsus olmak üzere hasta ziyareti amacıyla bir güne kadar izin verilebilir.68
 İkinci ve üçüncü fıkraya göre izin verilen tutuklunun, izin süresi içinde gece konaklaması
 gerektiği takdirde, kendi evi veya ikinci fıkrada belirtilen bir yakınının evinde, güvenli
 görülen başka bir yerde ya da gidilen yerde bulunan kapalı ceza infaz kurumunda kalmasına,
-güvenlik hususu değerlendirilmek ve gerekli güvenlik tedbirleri alınmak suretiyle, gidilen
 
 66 8/8/2011 tarihli ve 650 sayılı KHK’nin 30 uncu maddesiyle, bu fıkrada yer alan “78 ilâ 84 ve 86 ilâ
 88” ibaresi “78 ilâ 88” şeklinde değiştirilmiştir.
@@ -59,6 +58,7 @@ başsavcılığının onayı ile” şeklinde değiştirilmiş, daha sonra bu h�
 Kanunun 96 ncı maddesiyle aynen kabul edilerek kanunlaşmıştır.
 70 17/6/2021 tarihli ve 7328 sayılı Kanunun 10 uncu maddesiyle, bu bentte yer alan “asgari bir ay
 arayla” ibaresi madde metninden çıkarılmıştır.
+güvenlik hususu değerlendirilmek ve gerekli güvenlik tedbirleri alınmak suretiyle, gidilen
 yerin valisi tarafından karar verilir. Yurt dışına çıkmasını gerektirmesi durumunda tutukluya,
 bu madde gereğince izin verilemez.
 (5) (Ek: 24/1/2013-6411/12 md.) Dördüncü fıkra ile 94 üncü maddenin ikinci

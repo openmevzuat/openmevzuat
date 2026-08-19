@@ -1,4 +1,4 @@
-# MADDE 84 — İntihara yönlendirme34
+# MADDE 84 — İntihara yönlendirme36
 
 (1) Başkasını intihara azmettiren, teşvik eden, başkasının intihar kararını
 kuvvetlendiren ya da başkasının intiharına herhangi bir şekilde yardım eden kişi, iki yıldan

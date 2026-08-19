@@ -20,7 +20,7 @@ Avrupa İnsan Hakları Mahkemesinin kesinleşmiş kararıyla tespit edilmiş olm
 hükmü aleyhine Avrupa İnsan Hakları Mahkemesine yapılan başvuru hakkında dostane
 çözüm ya da tek taraflı deklarasyon sonucunda düşme kararı verilmesi. Bu hâlde
 yargılamanın yenilenmesi, Avrupa İnsan Hakları Mahkemesi kararının kesinleştiği tarihten
-itibaren bir yıl içinde istenebilir.144
+itibaren bir yıl içinde istenebilir.145
 (2) Birinci fıkranın (f) bendi hükümleri, 4.2.2003 tarihinde Avrupa İnsan Hakları
 Mahkemesinin kesinleşmiş kararları ile, 4.2.2003 tarihinden sonra Avrupa İnsan Hakları
 Mahkemesine yapılan başvurular üzerine verilecek kararlar hakkında uygulanır.

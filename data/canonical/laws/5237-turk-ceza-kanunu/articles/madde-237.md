@@ -1,4 +1,4 @@
-# MADDE 237 — Fiyatları etkileme97
+# MADDE 237 — Fiyatları etkileme100
 
 (1) İşçi ücretlerinin veya besin veya malların değerlerinin artıp eksilmesi
 sonucunu doğurabilecek bir şekilde ve bu maksatla yalan haber veya havadis yayan veya sair

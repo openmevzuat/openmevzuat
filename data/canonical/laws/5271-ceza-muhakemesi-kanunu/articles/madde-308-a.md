@@ -19,9 +19,9 @@ adliye mahkemelerinde Hâkimler ve Savcılar Kurulu tarafından daire başkanlar
 belirlenen ve dört üyeden oluşan başkanlar kurulu bu incelemeyi yapar. Başkanlar kurulunun
 bu maddeye ilişkin çalışma usul ve esasları, Hâkimler ve Savcılar Kurulu tarafından
 
-139 20/7/2017 tarihli ve 7035 sayılı Kanunun 23 üncü maddesiyle, bu bölüm başlığında yer alan
+140 20/7/2017 tarihli ve 7035 sayılı Kanunun 23 üncü maddesiyle, bu bölüm başlığında yer alan
 “Yargıtay” ibaresi metinden çıkarılmıştır.
-belirlenir.140 141
+belirlenir.141 142
 
 İKİNCİ BÖLÜM
 Kanun Yararına Bozma

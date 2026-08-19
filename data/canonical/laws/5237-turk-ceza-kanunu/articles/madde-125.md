@@ -1,7 +1,7 @@
 # MADDE 125
 
 (1) Bir kimseye onur, şeref ve saygınlığını rencide edebilecek nitelikte
-somut bir fiil veya olgu isnat eden (...)56 veya sövmek suretiyle bir kimsenin onur, şeref ve
+somut bir fiil veya olgu isnat eden (...)58 veya sövmek suretiyle bir kimsenin onur, şeref ve
 saygınlığına saldıran kişi, üç aydan iki yıla kadar hapis veya adlî para cezası ile cezalandırılır.
 Mağdurun gıyabında hakaretin cezalandırılabilmesi için fiilin en az üç kişiyle ihtilat ederek
 işlenmesi gerekir.

@@ -13,19 +13,19 @@ f) Türk Hava Kurumunca toplanacak kurban derisi, fitre, zekat gelirlerinden Kur
 ayrılan paylar,
 g) Belediye sınırları ile mücavir alanlar içinde düzenlenen fuar, festival, sergi ve benzeri
 yerlere giriş biletlerine, Cumhurbaşkanınca tespit edilen miktarda yapıştırılacak sosyal yardım
-pulu gelirleri,17
+pulu gelirleri,18
 h) (Mülga: 14/3/2007-5602/11 md.)
 ı) (Mülga: 7/12/2004-5272/87 md.)
 j) (Mülga: 7/12/2004-5272/87 md.)
 k) Kanunla kurulan döner sermaye işletmelerinin (Vakıflar Genel Müdürlüğüne ve
 Orman Genel Müdürlüğü'ne ait olanlar hariç), yıllık brüt hasılatlarının % 1'inin Kuruma
-aktarılmasıyla elde edilecek gelirler.18
+aktarılmasıyla elde edilecek gelirler.19
 
-16 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi
+17 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürleri” ibaresi
 “engellilikleri” şeklinde değiştirilmiştir.
-17 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca”
+18 2/7/2018 tarihli ve 700 sayılı KHK’nin 74 üncü maddesiyle, bu bentte yer alan “Bakanlar Kurulunca”
 ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
-18 Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122
+19 Bu bende "Vakıflar Genel Müdürlüğüne" ibaresinden sonra gelmek üzere 23/7/1995 tarih ve 4122
 sayılı Kanunun 15/b maddesi ile "ve Orman Genel Müdürlüğü'ne" ibaresi eklenmiştir.
 (Değişik ikinci fıkra: 14/3/2007-5602/10 md.) Yukarıda sayılan gelirlerden (k)
 bendinde belirtilenler, hasılatın elde edilmesini takip eden ayın son gününe kadar Kuruma

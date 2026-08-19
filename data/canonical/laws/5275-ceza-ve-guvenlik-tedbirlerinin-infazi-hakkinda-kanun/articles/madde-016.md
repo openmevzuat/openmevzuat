@@ -22,10 +22,10 @@ bırakmanın devam edip etmeyeceğine karar verilir. Geri bırakma kararını ve
 Başsavcılığının istemi üzerine, mahkûmun izlenmesine yönelik tedbirler, bildirimin yapıldığı
 yerde bulunan kolluk makam ve memurlarınca yerine getirilir. Bu fıkrada yazılı
 yükümlülüklere aykırı hareket edilmesi hâlinde geri bırakma kararı, kararı veren Cumhuriyet
-Başsavcılığınca kaldırılır. Bu karara karşı infaz hâkimliğine başvurulabilir.2
+Başsavcılığınca kaldırılır. Bu karara karşı infaz hâkimliğine başvurulabilir.3
 (4) Hapis cezasının infazı, gebe olan veya doğurduğu tarihten itibaren bir yıl altı ay
 geçmemiş bulunan kadınlar hakkında geri bırakılır. Çocuk ölmüş veya anasından başka birine
-verilmiş olursa, doğumdan itibaren iki ay geçince ceza infaz olunur.3
+verilmiş olursa, doğumdan itibaren iki ay geçince ceza infaz olunur.4
 (5) (Ek: 24/1/2013-6411/3 md.) Kapalı ceza infaz kurumuna girdikten sonra gebe
 kalanlardan koşullu salıverilmesine altı yıldan fazla süre kalanlar ile eylem ve tutumları
 nedeniyle tehlikeli sayılanlar hakkında dördüncü fıkra hükümleri uygulanmaz. Bu kişilerin
@@ -34,6 +34,6 @@ düzenlenen uygun yerlerde infaz olunur.
 (6) (Ek: 24/1/2013-6411/3 md.) Maruz kaldığı ağır bir hastalık veya engellilik
 nedeniyle ceza infaz kurumu koşullarında hayatını yalnız idame ettiremeyen ve toplum
 güvenliği bakımından ağır ve somut tehlike oluşturmayacağı değerlendirilen mahkûmun
-cezasının infazı üçüncü fıkrada belirlenen usule göre iyileşinceye kadar geri bırakılabilir.45
+cezasının infazı üçüncü fıkrada belirlenen usule göre iyileşinceye kadar geri bırakılabilir.56
 
 Çocuğunun hastalığı nedeniyle kadın hükümlünün cezasının infazının ertelenmesi

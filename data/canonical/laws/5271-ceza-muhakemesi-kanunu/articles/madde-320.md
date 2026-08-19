@@ -6,6 +6,6 @@ gibi; kendisi de bu hususları yerine getirebilir.
 (2) Delillerin mahkemece veya naip hâkim tarafından veya istinabe suretiyle
 toplanması sırasında, soruşturmaya ilişkin hükümler uygulanır.
 (3) Delillerin toplanması bittikten sonra Cumhuriyet savcısı ve hakkında hüküm
-kurulmuş olan kişiden iki haftalık süre içinde görüş ve düşüncelerini bildirmeleri istenir.146
+kurulmuş olan kişiden iki haftalık süre içinde görüş ve düşüncelerini bildirmeleri istenir.147
 
 Yenileme isteminin esassız olmasından dolayı reddi, aksi takdirde kabulü

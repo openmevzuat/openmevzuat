@@ -6,17 +6,21 @@
 
 MADDE 1 — Amaç
 
-(1) Bu Kanunun amacı, korunma ihtiyacı olan veya suça sürüklenen
+(1) Bu Kanunun amacı, korunma ihtiyacı olan veya adli süreçteki
 çocukların korunmasına, haklarının ve esenliklerinin güvence altına alınmasına ilişkin usûl ve
-esasları düzenlemektir.
+esasları düzenlemektir.1
 
-MADDE 2 — Kapsam
+Kapsam
+
+MADDE 2
 
 (1) Bu Kanun, korunma ihtiyacı olan çocuklar hakkında alınacak tedbirler
-ile suça sürüklenen çocuklar hakkında uygulanacak güvenlik tedbirlerinin usûl ve esaslarına,
-çocuk mahkemelerinin kuruluş, görev ve yetkilerine ilişkin hükümleri kapsar.
+ile adli süreçteki çocuklar hakkında uygulanacak güvenlik tedbirlerinin usûl ve esaslarına,
+çocuk mahkemelerinin kuruluş, görev ve yetkilerine ilişkin hükümleri kapsar.2
 
-MADDE 3 — Tanımlar
+Tanımlar
+
+MADDE 3
 
 (1) Bu Kanunun uygulanmasında;
 a) Çocuk: Daha erken yaşta ergin olsa bile, onsekiz yaşını doldurmamış kişiyi; bu
@@ -24,13 +28,21 @@ kapsamda,
 1. Korunma ihtiyacı olan çocuk: Bedensel, zihinsel, ahlaki, sosyal ve duygusal
 gelişimi ile kişisel güvenliği tehlikede olan, ihmal veya istismar edilen ya da suç mağduru
 çocuğu,
-2. Suça sürüklenen çocuk: Kanunlarda suç olarak tanımlanan bir fiili işlediği iddiası
-ile hakkında soruşturma veya kovuşturma yapılan ya da işlediği fiilden dolayı hakkında
-güvenlik tedbirine karar verilen çocuğu,
+2. Adli süreçteki çocuk: Kanunlarda suç olarak tanımlanan bir fiili işlediği iddiası ile
+hakkında soruşturma veya kovuşturma yapılan ya da işlediği fiilden dolayı hakkında güvenlik
+tedbirine karar verilen çocuğu,3
+
+1 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“adli süreçteki” şeklinde değiştirilmiştir.
+2 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“adli süreçteki” şeklinde değiştirilmiştir.
+3 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkranın (a) bendinin (2) numaralı alt bendinde
+yer alan “Suça sürüklenen” ibaresi “Adli süreçteki”, (c) bendinde yer alan “suça sürüklenen” ibaresi “adli
+süreçteki” şeklinde değiştirilmiştir.
 b) Mahkeme: Çocuk mahkemeleri ile çocuk ağır ceza mahkemelerini,
-c) Çocuk hâkimi: Hakkında kovuşturma başlatılmış olanlar hariç, suça sürüklenen
+c) Çocuk hâkimi: Hakkında kovuşturma başlatılmış olanlar hariç, adli süreçteki
 çocuklarla korunma ihtiyacı olan çocuklar hakkında uygulanacak tedbir kararlarını veren
-çocuk mahkemesi hâkimini,
+çocuk mahkemesi hâkimini,3
 d) Kurum: Bu Kanun kapsamındaki çocuğun bakılıp gözetildiği, hakkında verilen
 tedbir kararlarının yerine getirildiği resmî veya özel kurumları,
 e) (Değişik: 13/6/2012-6327/38 md.) Sosyal çalışma görevlisi: Psikolojik danışmanlık
@@ -94,6 +106,43 @@ tehlikenin bertaraf edileceğinin anlaşılması hâlinde; çocuk, bu kişilere 
 fıkranın uygulanmasında, çocuk hakkında birinci fıkrada belirtilen tedbirlerden birisine de
 karar verilebilir.
 
+MADDE 5/A — Yönlendirme tedbirleri
+
+(Ek:8/8/2026-7593/9 md.)
+(1) 5 inci maddede düzenlenen koruyucu ve destekleyici tedbirlerin yanında bu
+maddede düzenlenen yönlendirme tedbirleri, ceza sorumluluğu olmayan adli süreçteki
+çocuklar bakımından, çocuklara özgü güvenlik tedbiri olarak anlaşılır.
+(2) Yönlendirme tedbirleri olarak;
+a) Sosyal ve toplumsal hizmetler tedbiri: Spor kulüpleri, gençlik merkezleri, spor
+tesisleri ile ilgili kamu kurum ve kuruluşlarında; Gençlik ve Spor Bakanlığı, Kültür ve Turizm
+Bakanlığı ile yerel yönetimler tarafından yerine getirilmek üzere çocukların 20 saatten 300
+saate kadar psikososyal gelişimine katkı sağlayacak görev almalarına,
+b) Dijital risklerden korunma tedbiri: Kullandığı telefon cihazı, telefon hattı veya her
+türlü bilgisayar, tablet ve benzeri dijital cihazın bildirilerek cihazın tedbir kararından sonraki
+hareketlerini Bilgi Teknolojileri ve İletişim Kurumu ile Siber Güvenlik Başkanlığı tarafından
+3 aydan az 2 yıldan fazla olmamak üzere çeşitli takip yazılımlarıyla ilgili kurum denetimine
+açmaya, riskli olarak tanımlı bazı dijital mecralar, uygulamalar ve dijital platformlara erişimin
+engellenmesine,
+c) Kitap ve kütüphane tedbiri: Kütüphane ve okuma salonu gibi yerlerde Kültür ve
+Turizm Bakanlığı, Milli Eğitim Bakanlığı, üniversiteler ile yerel yönetimler tarafından yerine
+getirilmek üzere 20 saatten 300 saate kadar psikososyal gelişimine katkı sağlayacak görev
+almaya veya bu kuruluşların yetkililerince belirlenen eserleri okumaya,
+d) Çevreye saygı ve çevre temizliği tedbiri: Tarım ve Orman Bakanlığı, Çevre,
+Şehircilik ve İklim Değişikliği Bakanlığı, üniversiteler ile yerel yönetimler tarafından yerine
+getirilmek üzere 20 saatten 300 saate kadar park, bahçe, sahil gibi belirlenecek bir bölgede
+çevre
+temizliği yapmaya, belirlenecek bitkilerin bakımı, ağaçlandırma ve çiçeklendirme
+faaliyetlerine katılmaya,
+e) Tütün, nikotin, alkol, kumar, uyuşturucu ve uyarıcı madde ile davranışsal bağımlılık
+tedbiri: Sağlık Bakanlığı, Aile ve Sosyal Hizmetler Bakanlığı ve Yeşilay tarafından yerine
+getirilmek üzere çocukların sağlıkları için tehlike oluşturan bağımlılıklarının tedavi ve
+rehabilitasyonu için belirlenecek programları tamamlamaya,
+hükmedilir.
+(3) Bu tedbirlerin yerine getirilmesinde 45 inci maddenin üçüncü ve dördüncü fıkraları
+uygulanır.
+(4) Bu maddenin uygulanmasına ilişkin usul ve esaslar Aile ve Sosyal Hizmetler
+Bakanlığı tarafından çıkarılacak yönetmelikle belirlenir.
+
 MADDE 6 — Kuruma başvuru
 
 (1) Adlî ve idarî merciler, kolluk görevlileri, sağlık ve eğitim kuruluşları,
@@ -153,6 +202,27 @@ sağlayacağı hizmetleri hâkime bildirir. Çocuğun, ailesine teslim edilip ed
 uygun görülen başkaca bir tedbire hâkim tarafından karar verilir.
 (3) Kurum, çocuk hakkında tedbir kararı alınması gerektiği sonucuna varırsa
 hâkimden koruyucu ve destekleyici tedbir kararı verilmesini talep eder.
+(4) (Ek:8/8/2026-7593/10 md.) Akıl hastalığı, akıl zayıflığı, alkol, uyuşturucu veya
+uyarıcı madde bağımlılığı, davranışsal bağımlılık ya da ağır tehlike arz eden bulaşıcı hastalık
+nedeniyle kendisi veya başkaları açısından ciddi tehlike oluşturduğu değerlendirilen ve
+herhangi bir suretle Sağlık Bakanlığına veya üniversitelere bağlı yataklı sağlık kurumlarına
+gelen veya getirilen çocuk hakkında, tedaviye ihtiyaç bulunduğunun ilgili uzman hekim
+tarafından tespit edilmesi hâlinde, acil korunma kararı alınması amacıyla yirmi dört saat
+içinde rapor düzenlenir. Sağlık kurumu, uzman hekim raporunun düzenlendiği tarihten
+itibaren en geç yirmi dört saat içinde çocuk hâkimine başvurur. Başvurudan itibaren en geç
+kırk sekiz saat içinde ilgili dal uzman hekiminin yer aldığı üç uzman hekimden oluşan resmî
+sağlık kurulu tarafından düzenlenen rapor mahkemeye sunulur.
+(5) (Ek:8/8/2026-7593/10 md.) Hâkim, başvuru ve sağlık kurulu raporunu
+değerlendirerek talep hakkında en geç kırk sekiz saat içinde karar verir. Çocuğun sağlık
+kuruluşuna gelmesi veya getirilmesinden hâkim kararının sağlık kuruluşuna tebliğine kadar
+geçen sürede, çocuğa gerekli görülen tıbbî müdahale ve tedavi uygulanır. Bu süreçte ihtiyaç
+duyulması hâlinde kolluktan yardım istenebilir. Kolluk, bu kapsamda yapılan talepleri,
+kanunla kendisine tanınan yetkiler çerçevesinde yerine getirir.
+(6) (Ek:8/8/2026-7593/10 md.) Hâkim, çocuğun üstün yararını gözeterek çocuğun
+bulunduğu yerin gizli tutulmasına ve gerekli görmesi hâlinde kişisel ilişkinin kurulmasına
+veya sınırlandırılmasına karar verebilir. Hâkim, sağlık kurulu raporunu dikkate alarak acil
+korunma kararının kaldırılmasına, devamına veya çocuğun durumuna uygun başka bir
+koruyucu ve destekleyici tedbire karar verir.
 
 MADDE 10 — Bakım ve barınma kararlarının yerine getirilmesi
 
@@ -162,22 +232,29 @@ yerleştirilir.
 
 MADDE 11 — Çocuklara özgü güvenlik tedbiri
 
-(1) Bu Kanunda düzenlenen koruyucu ve destekleyici tedbirler, suça
-sürüklenen ve ceza sorumluluğu olmayan çocuklar bakımından, çocuklara özgü güvenlik
-tedbiri olarak anlaşılır.
+(1) Bu Kanunda düzenlenen koruyucu ve destekleyici tedbirler, hakkında
+adli süreç yürütülen ve ceza sorumluluğu olmayan çocuklar bakımından, çocuklara özgü
+güvenlik tedbiri olarak anlaşılır.4
 
-MADDE 12 — Akıl hastalığı
+Akıl hastalığı
 
-(1) Suça sürüklenen çocuğun aynı zamanda akıl hastası olması hâlinde,
+MADDE 12
+
+(1) Adli süreçteki çocuğun aynı zamanda akıl hastası olması hâlinde,
 26.9.2004 tarihli ve 5237 sayılı Türk Ceza Kanununun 31 inci maddesinin birinci ve ikinci
-fıkraları kapsamına giren çocuklar hakkında, çocuklara özgü güvenlik tedbirleri uygulanır.
+fıkraları kapsamına giren çocuklar hakkında, çocuklara özgü güvenlik tedbirleri uygulanır.5
+
+4 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“hakkında adli süreç yürütülen” şeklinde değiştirilmiştir.
+5 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “Suça sürüklenen” ibaresi
+“Adli süreçteki” şeklinde değiştirilmiştir.
 
 MADDE 13 — Tedbir kararlarında usûl
 
 (1) Bu Kanunun 7 nci maddesinin yedinci fıkrasında öngörülen durumlar
-hariç olmak üzere, suça sürüklenen ve ceza sorumluluğu olmayan çocuklarla korunma ihtiyacı
-olan çocuklar hakkında duruşma yapılmaksızın tedbir kararı verilir. Ancak, hâkim zaruret
-gördüğü hâllerde duruşma yapabilir.
+hariç olmak üzere, hakkında adli süreç yürütülen ve ceza sorumluluğu olmayan çocuklarla
+korunma ihtiyacı olan çocuklar hakkında duruşma yapılmaksızın tedbir kararı verilir. Ancak,
+hâkim zaruret gördüğü hâllerde duruşma yapabilir.6
 (2) Tedbir kararının verilmesinden önce yeterli idrak gücüne sahip olan çocuğun
 görüşü alınır, ilgililer dinlenebilir, çocuk hakkında sosyal inceleme raporu düzenlenmesi
 istenebilir.
@@ -197,18 +274,26 @@ Soruşturma
 
 MADDE 15
 
-(1) Suça sürüklenen çocuk hakkındaki soruşturma çocuk bürosunda
-görevli Cumhuriyet savcısı tarafından bizzat yapılır.
+(1) Adli süreçteki çocuk hakkındaki soruşturma çocuk bürosunda görevli
+Cumhuriyet savcısı tarafından bizzat yapılır.7
 (2) Çocuğun ifadesinin alınması veya çocuk hakkındaki diğer işlemler sırasında,
 çocuğun yanında sosyal çalışma görevlisi bulundurulabilir.
 (3) Cumhuriyet savcısı soruşturma sırasında gerekli görüldüğünde çocuk hakkında
 koruyucu ve destekleyici tedbirlerin uygulanmasını çocuk hâkiminden isteyebilir.
+(4) (Ek:8/8/2026-7593/11 md.) Çocuk hakkında kamu davası açılması hâlinde durum,
+gerekli idari tedbirlerin alınması amacıyla Aile ve Sosyal Hizmetler Bakanlığı ve Milli Eğitim
+Bakanlığı il veya ilçe müdürlüklerine bildirilir.
 
 MADDE 16 — Çocuğun gözaltında tutulması
 
 (1) Gözaltına alınan çocuklar, kolluğun çocuk biriminde tutulur.
 (2) Kolluğun çocuk biriminin bulunmadığı yerlerde çocuklar, gözaltına alınan
 yetişkinlerden ayrı bir yerde tutulur.
+
+6 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen”
+ibaresi “hakkında adli süreç yürütülen” şeklinde değiştirilmiştir.
+7 8/8/2026 tarihli ve 7593 sayılı Kanunun 11 inci maddesiyle bu fıkrada yer alan “Suça sürüklenen”
+ibaresi “Adli süreçteki” şeklinde değiştirilmiştir.
 
 MADDE 17 — İştirak hâlinde işlenen suçlar
 
@@ -239,9 +324,9 @@ bakımından beş yıl olarak uygulanır.
 
 MADDE 20 — Adlî kontrol
 
-(1) Suça sürüklenen çocuklar hakkında soruşturma veya kovuşturma
+(1) Adli süreçteki çocuklar hakkında soruşturma veya kovuşturma
 evrelerinde adlî kontrol tedbiri olarak Ceza Muhakemesi Kanununun 109 uncu maddesinde
-sayılanlar ile aşağıdaki tedbirlerden bir ya da birkaçına karar verilebilir:
+sayılanlar ile aşağıdaki tedbirlerden bir ya da birkaçına karar verilebilir:8
 a) Belirlenen çevre sınırları dışına çıkmamak.
 b) Belirlenen bazı yerlere gidememek veya ancak bazı yerlere gidebilmek.
 c) Belirlenen kişi ve kuruluşlarla ilişki kurmamak.
@@ -250,6 +335,9 @@ veya tedbirlere uyulmaması durumunda tutuklama kararı verilebilir.
 (3) (Ek:14/4/2020-7242/54 md.) Denetimli serbestlik müdürlüğü tarafından takip
 edilen çocuk için adli kontrol süresince rehberlik edecek bir uzman görevlendirilir ve çocuk
 hakkında yapılacak ihtiyaç değerlendirmesine göre iyileştirme çalışmaları yürütülür.
+
+8 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “Suça sürüklenen”
+ibaresi “Adli süreçteki” şeklinde değiştirilmiştir.
 
 MADDE 21 — Tutuklama yasağı
 
@@ -277,16 +365,26 @@ MADDE 23 — Hükmün açıklanmasının geri bırakılması
 (1) Çocuğa yüklenen suçtan dolayı yapılan yargılama sonunda, Ceza Muhakemesi
 Kanunundaki koşulların varlığı halinde, mahkemece hükmün açıklanmasının geri bırakılmasına
 karar verilebilir. Ancak, bu kişiler açısından denetim süresi üç yıldır.
+(2) (Ek:8/8/2026-7593/12 md.) Adli süreçteki çocuklar hakkında yapılan yargılama
+sonunda hükmün açıklanmasının geri bırakılması kararı verilmesi hâlinde 5/A maddesinde
+düzenlenen yönlendirme tedbirlerinden uygun görülen biri veya birkaçı da denetimli serbestlik
+tedbiri olarak uygulanır. Bu fıkra uyarınca hükmedilecek yükümlülükler 5/A maddesinde
+belirtilen kurumlar tarafından yerine getirilir.
+(3) (Ek:8/8/2026-7593/12 md.) Suçun işlenmesi nedeniyle mağdurun veya kamunun
+uğradığı zararın az olması hâlinde adli süreçteki çocuklar hakkında hükmün açıklanmasının geri
+bırakılması kararı verilebilmesi için zararın giderilmesi şartı aranmayabilir.
 
 MADDE 24 — Uzlaşma
 
 (Değişik: 6/12/2006-5560/41 md.)
-(1) Ceza Muhakemesi Kanununun uzlaşmaya ilişkin hükümleri suça sürüklenen
-çocuklar bakımından da uygulanır.
+(1) Ceza Muhakemesi Kanununun uzlaşmaya ilişkin hükümleri adli süreçteki çocuklar
+bakımından da uygulanır.9
 
 ÜÇÜNCÜ KISIM
 Mahkemeler ve Cumhuriyet Savcılığı
 
+9 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“adli süreçteki” şeklinde değiştirilmiştir.
 BİRİNCİ BÖLÜM
 Mahkemelerin Kuruluş, Görev ve Yetkisi
 Mahkemelerin kuruluşu
@@ -309,8 +407,8 @@ mahkemelerinin birden fazla dairesi oluşturulabilir. Bu daireler numaralandır�
 MADDE 26 — Mahkemelerin görevi
 
 (1) Çocuk mahkemesi, asliye ceza mahkemesi ile sulh ceza mahkemesinin
-görev alanına giren suçlar bakımından, suça sürüklenen çocuklar hakkında açılacak davalara
-bakar.
+görev alanına giren suçlar bakımından, adli süreçteki çocuklar hakkında açılacak davalara
+bakar.10
 (2) Çocuk ağır ceza mahkemesi, çocuklar tarafından işlenen ve ağır ceza mahkemesinin
 görev alanına giren suçlarla ilgili davalara bakar.
 (3) Mahkemeler ve çocuk hâkimi, bu Kanunda ve diğer kanunlarda yer alan tedbirleri
@@ -328,6 +426,9 @@ ile bunlara adlî yönden bağlanan ilçelerin idarî sınırlarıdır.
 ağır ceza mahkemelerinin yargı çevresinin belirlenmesine veya değiştirilmesine Adalet
 Bakanlığının önerisi üzerine Hâkimler ve Savcılar Yüksek Kurulunca karar verilir.
 
+10 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“adli süreçteki” şeklinde değiştirilmiştir.
+
 MADDE 28 — Hâkimlerin atanmaları
 
 (1) Mahkemelere, atanacakları bölgeye veya bir alt bölgeye hak kazanmış,
@@ -340,6 +441,7 @@ tanınır.
 başlayıncaya veya Hâkimler ve Savcılar Yüksek Kurulunca yetkilendirme yapılıncaya kadar o
 yerdeki hâkimlerden hangisinin bakacağı, birinci fıkrada aranan nitelikler de gözetilerek adlî
 yargı adalet komisyonu başkanınca belirlenir.
+
 İKİNCİ BÖLÜM
 Cumhuriyet Savcılığı ve Kolluk
 Cumhuriyet savcılığı çocuk bürosu
@@ -353,14 +455,14 @@ yeterli sayıda Cumhuriyet savcısı, bu büroda görevlendirilir.
 MADDE 30 — Çocuk bürosunun görevleri
 
 (1) Çocuk bürosunun görevleri;
-a) Suça sürüklenen çocuklar hakkındaki soruşturma işlemlerini yürütmek,
+a) Adli süreçteki çocuklar hakkındaki soruşturma işlemlerini yürütmek,11
 b) Çocuklar hakkında tedbir alınması gereken durumlarda, gecikmeksizin tedbir
 alınmasını sağlamak,
-c) Korunma ihtiyacı olan, suç mağduru veya suça sürüklenen çocuklardan yardıma,
+c) Korunma ihtiyacı olan, suç mağduru veya adli süreçteki çocuklardan yardıma,
 eğitime, işe, barınmaya ihtiyacı olan veya uyum güçlüğü çekenlere ihtiyaç duydukları destek
 hizmetlerini sağlamak üzere, ilgili kamu kurum ve kuruluşları ve sivil toplum kuruluşlarıyla
 işbirliği içinde çalışmak, bu gibi durumları çocukları korumakla görevli kurum ve kuruluşlara
-bildirmek,
+bildirmek,11
 d) Bu Kanunla ve diğer kanunlarla verilen görevleri yerine getirmektir.
 (2) Gecikmesinde sakınca bulunan hâllerde, bu görevler çocuk bürosunda görevli
 olmayan Cumhuriyet savcıları tarafından da yerine getirilebilir.
@@ -369,11 +471,15 @@ MADDE 31 — Kolluğun çocuk birimi
 
 (1) Çocuklarla ilgili kolluk görevi, öncelikle kolluğun çocuk birimleri
 tarafından yerine getirilir.
-(2) Kolluğun çocuk birimi, korunma ihtiyacı olan veya suça sürüklenen çocuklar
-hakkında işleme başlandığında durumu, çocuğun veli veya vasisine veya çocuğun bakımını
-üstlenen kimseye, baroya ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumuna, çocuk resmî bir
-kurumda kalıyorsa ayrıca kurum temsilcisine bildirir. Ancak, çocuğu suça azmettirdiğinden
-veya istismar ettiğinden şüphelenilen yakınlarına bilgi verilmez.
+
+11 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkranın (a) bendinde yer alan “Suça
+sürüklenen” ibaresi “Adli süreçteki”, (c) bendinde yer alan “suça sürüklenen” ibaresi “adli süreçteki” şeklinde
+değiştirilmiştir.
+(2) Kolluğun çocuk birimi, korunma ihtiyacı olan veya adli süreçteki çocuklar hakkında
+işleme başlandığında durumu, çocuğun veli veya vasisine veya çocuğun bakımını üstlenen
+kimseye, baroya ve Sosyal Hizmetler ve Çocuk Esirgeme Kurumuna, çocuk resmî bir kurumda
+kalıyorsa ayrıca kurum temsilcisine bildirir. Ancak, çocuğu suça azmettirdiğinden veya istismar
+ettiğinden şüphelenilen yakınlarına bilgi verilmez.12
 (3) Çocuk, kollukta bulunduğu sırada yanında yakınlarından birinin bulunmasına
 imkân sağlanır.
 (4) Kolluğun çocuk birimlerindeki personeline, kendi kurumları tarafından çocuk
@@ -393,7 +499,7 @@ görevli denetim görevlilerine, adaylık dönemlerinde Adalet Bakanlığınca b
 uygun çocuk hukuku, sosyal hizmet, çocuk gelişimi ve psikolojisi gibi konularda eğitim
 verilir.
 (2) Mahkemelere görevlendirilenlerin, görevleri süresince, alanlarında uzmanlaşmalarını
-sağlama ve kendilerini geliştirmelerine yönelik hizmet içi eğitim almaları sağlanır.1
+sağlama ve kendilerini geliştirmelerine yönelik hizmet içi eğitim almaları sağlanır.13
 (3) Hizmet öncesi ve hizmet içi eğitimin usûl ve esasları yönetmelikle belirlenir.
 
 ÜÇÜNCÜ BÖLÜM
@@ -406,7 +512,12 @@ MADDE 33
 lisans öğrenimi görmüş olanlar arasından yeterli sayıda sosyal çalışma görevlisi mahkemelere
 görevlendirilmek üzere adli destek ve mağdur hizmetleri müdürlüğüne atanır. Atamada; çocuk
 ve aile sorunları ile çocuk hukuku ve çocuk suçluluğunun önlenmesi alanlarında lisansüstü
-eğitim yapmış olanlar tercih edilir.2
+
+12 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen”
+ibaresi “adli süreçteki” şeklinde değiştirilmiştir.
+13 17/10/2019 tarihli ve 7188 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan “atananların,”
+ibaresi “görevlendirilenlerin,” şeklinde değiştirilmiştir.
+eğitim yapmış olanlar tercih edilir.14
 (2) (Değişik:7/11/2024-7531/19 md.) Bu Kanun kapsamındaki tedbirleri uygulayan
 sosyal çalışma görevlileri ile adli destek ve mağdur hizmetleri müdürlüğü bünyesinde görev
 yapmakta olup da mahkemelere görevlendirilen sosyal çalışma görevlilerine almakta oldukları
@@ -420,15 +531,8 @@ bunlar tarafından yapılmasında fiilî veya hukukî bir engel bulunması ya da
 dalına ihtiyaç duyulması gibi durumlarda, diğer kamu kurum ve kuruluşlarında çalışanlar ile
 serbest meslek icra eden birinci fıkrada öngörülen nitelikleri haiz kimseler de sosyal çalışma
 görevlisi olarak görevlendirilebilirler. (Ek cümle:7/11/2024-7531/19 md.) Bu şekilde
-görevlendirilenlere ayrıca ikinci fıkra kapsamında ödeme yapılmaz.2
+görevlendirilenlere ayrıca ikinci fıkra kapsamında ödeme yapılmaz.14
 (4) Hakkında sosyal inceleme yapılacak çocuğun, incelemeye tâbi tutulacak çevresi
-
-1 17/10/2019 tarihli ve 7188 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan “atananların,”
-ibaresi “görevlendirilenlerin,” şeklinde değiştirilmiştir.
-2 7/11/2024 tarihli ve 7531 sayılı Kanunun 19 uncu maddesiyle birinci fıkrada yer alan “adliyelere”
-ibaresi “adli destek ve mağdur hizmetleri müdürlüğüne” şeklinde ve üçüncü fıkrada yer alan “Bu
-görevlilerin” ibaresi “Birinci fıkra kapsamındaki sosyal çalışma görevlilerinin” şeklinde
-değiştirilmiştir.
 mahkemenin yetki alanı dışında ise, davayı gören mahkemenin talimatına bağlı olarak
 çocuğun bulunduğu yerdeki mahkemece inceleme yaptırılır. Büyükşehir belediye sınırları
 içinde kalan yerlerde bu inceleme, davayı gören mahkemeye bağlı olarak çalışan sosyal
@@ -439,14 +543,21 @@ MADDE 34 — Sosyal çalışma görevlilerinin görevleri
 (1) Sosyal çalışma görevlilerinin görevi;
 a) Görevlendirildikleri çocuk hakkında derhâl sosyal inceleme yapmak, hazırladıkları
 raporları kendilerini görevlendiren mercie sunmak,
-b) Suça sürüklenen çocuğun ifadesinin alınması veya sorgusu sırasında yanında
-bulunmak,
+b) Adli süreçteki çocuğun ifadesinin alınması veya sorgusu sırasında yanında
+bulunmak,15
 c) Bu Kanun kapsamında mahkemeler ve çocuk hâkimleri tarafından verilen diğer
 görevleri yerine getirmektir.
 (2) İlgililer, sosyal çalışma görevlilerinin çalışmaları sırasında kendilerine yardımcı
 olmak ve çocuk hakkında istenen bilgileri vermek zorundadır.
 (3) Sosyal çalışma görevlilerinin, görevleri sırasında yaptıkları ve hâkim tarafından
 takdir edilen masrafları Cumhuriyet başsavcılığının suçüstü ödeneğinden ödenir.
+
+14 7/11/2024 tarihli ve 7531 sayılı Kanunun 19 uncu maddesiyle birinci fıkrada yer alan “adliyelere”
+ibaresi “adli destek ve mağdur hizmetleri müdürlüğüne” şeklinde ve üçüncü fıkrada yer alan “Bu
+görevlilerin” ibaresi “Birinci fıkra kapsamındaki sosyal çalışma görevlilerinin” şeklinde
+değiştirilmiştir.
+15 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu bentte yer alan “Suça sürüklenen”
+ibaresi “Adli süreçteki” şeklinde değiştirilmiştir.
 
 MADDE 35 — Sosyal inceleme
 
@@ -457,8 +568,10 @@ anlam ve sonuçlarını algılama ve bu fiille ilgili olarak davranışlarını 
 mahkeme tarafından takdirinde göz önünde bulundurulur.
 (2) Derhâl tedbir alınmasını gerektiren durumlarda sosyal inceleme daha sonra da
 yaptırılabilir.
-(3) Mahkeme veya çocuk hâkimi tarafından çocuk hakkında sosyal inceleme
-yaptırılmaması hâlinde, gerekçesi kararda gösterilir.
+(3) (Değişik:8/8/2026-7593/13 md.) Onbeş yaşını doldurmamış çocuk hakkında
+sosyal inceleme yaptırılması zorunludur. Cumhuriyet savcısı, mahkeme veya çocuk hâkimi
+tarafından onbeş yaşını doldurmuş çocuk hakkında sosyal inceleme yaptırılmaması hâlinde,
+gerekçesi iddianamede veya kararda gösterilir.
 
 DÖRDÜNCÜ BÖLÜM
 Denetim
@@ -474,10 +587,10 @@ MADDE 37 — Denetim görevlisinin görevlendirilmesi
 
 (1) Denetim altına alınan çocukla ilgili olarak denetimli serbestlik ve
 yardım merkezi şube müdürlüğü tarafından bir denetim görevlisi görevlendirilir. Ancak,
-korunma ihtiyacı olan çocuklar veya suç tarihinde oniki yaşını bitirmemiş suça sürüklenen
+korunma ihtiyacı olan çocuklar veya suç tarihinde oniki yaşını bitirmemiş adli süreçteki
 çocuklar ile çocuğun aileye teslimi yönünde karar verilmesi hâlinde, bu çocuklar hakkında
 denetim görevi gözetim esaslarına göre Sosyal Hizmetler ve Çocuk Esirgeme Kurumu
-tarafından yerine getirilir.
+tarafından yerine getirilir.16
 (2) Görevlendirme sırasında çocuğun kişisel özellik ve ihtiyaçları dikkate alınır ve
 çocuğa kolay ulaşabilecek olanlar tercih edilir.
 
@@ -491,6 +604,9 @@ b) Çocuğa eğitim, iş, destek alabileceği kurumlar, hakları ve haklarını 
 konularında rehberlik etmek.
 c) İhtiyaç duyacağı hizmetlerden yararlanmasında çocuğa yardımcı olmak.
 d) Kaldığı yerleri ve ilişki kurduğu kişileri ziyaret ederek çocuğun içinde yaşadığı
+
+16 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen” ibaresi
+“adli süreçteki” şeklinde değiştirilmiştir.
 şartları, ailesi ve çevresiyle ilişkilerini, eğitim ve iş durumunu, boş zamanlarını değerlendirme
 faaliyetlerini yerinde incelemek.
 e) Alınan kararın uygulanmasını, bu uygulamanın sonuçlarını ve çocuk üzerindeki
@@ -508,17 +624,15 @@ MADDE 39 — Denetim plânı ve raporu
 
 (1) Çocuğa uygulanacak denetimin yöntemi, denetim görevlisince, sosyal
 incelemeyi yapan uzman veya sosyal çalışma görevlisi ile birlikte, görevlendirmeyi takip eden
-on gün içinde hazırlanacak bir plânla belirlenir.3
+on gün içinde hazırlanacak bir plânla belirlenir.17
 (2) Denetim plânı hazırlanırken;
 a) Çocuk hakkında alınan tedbirin amacı, niteliği ve süresi,
 b) Çocuğun ihtiyaçları,
 c) Çocuğun içinde bulunduğu tehlike hâlinin ciddiyeti,
 d) Çocuğun ana ve babası, vasisi, bakım ve gözetiminden sorumlu kimse tarafından
 çocuğa verilen desteğin derecesi,
-e) Suça sürüklenmesi sebebiyle tedbir alınmış ise suç teşkil eden fiilin mahiyeti,
-
-3 17/10/2019 tarihli ve 7188 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “mahkeme
-nezdindeki” ibaresi madde metninden çıkarılmıştır.
+e) Hakkında adli süreç yürütülmesi sebebiyle tedbir alınmış ise suç teşkil eden fiilin
+mahiyeti,18
 f) Çocuğun görüşü,
 Dikkate alınır.
 (3) Denetim plânı, mahkeme veya çocuk hâkimince onaylandıktan sonra derhâl
@@ -531,6 +645,11 @@ durum olup olmadığı ve istenen diğer hususlarda her ay, ayrıca talep hâlin
 MADDE 40 — Denetimin sona ermesi
 
 (1) Denetim, kararda öngörülen sürenin dolmasıyla sona erer. Tedbirden
+
+17 17/10/2019 tarihli ve 7188 sayılı Kanunun 37 nci maddesiyle bu fıkrada yer alan “mahkeme
+nezdindeki” ibaresi madde metninden çıkarılmıştır.
+18 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu bentte yer alan “Suça sürüklenmesi”
+ibaresi “Hakkında adli süreç yürütülmesi” şeklinde değiştirilmiştir.
 beklenen yararın elde edilmesi hâlinde denetim, sürenin dolmasından önce de kaldırılabilir.
 (2) Denetim, çocuğun başka bir suçtan dolayı tutuklanması veya cezasının yerine
 getirilmesine başlanmakla sona erer.
@@ -545,7 +664,7 @@ sosyal inceleme raporu ile denetim plânı ve raporu hakkında bilgi sahibi olma
 yararına aykırı olduğuna kanaat getirilirse, bunların incelenmesi kısmen veya tamamen
 yasaklanabilir.
 
-DÖRDÜNCÜ KISIM4
+DÖRDÜNCÜ KISIM19
 Çocuk Teslimi ve Çocukla Kişisel İlişki Kurulması
 Görevli ve yetkili birim
 
@@ -561,10 +680,6 @@ pedagog ve sosyal çalışmacı Adalet Bakanlığı tarafından görevlendirilir
 (3) Müdürlük bulunmayan yerlerde bu Kısım kapsamında yer alan görevler, Adalet
 Bakanlığınca belirlenen hukuk mahkemeleri yazı işleri müdürlüğü tarafından yerine getirilir.
 (4) İlam ve tedbir kararlarının yerine getirilmesinde çocuğun yerleşim yeri müdürlüğü
-
-4 24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle bu Kanuna 41 inci maddesinden
-sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
-Kısım olarak teselsül ettirilmiştir.
 yetkilidir.
 (5) İlam ve tedbir kararları müdürlük tarafından görevlendirilen psikolog, pedagog,
 sosyal çalışmacı, çocuk gelişimci ve rehber öğretmen gibi uzmanlar, uzmanın bulunmadığı
@@ -575,7 +690,13 @@ aldığı bir görevli listesi oluşturulur. Bu uzmanların yeterli sayıda olma
 öğretmenler de listeye dâhil edilir. Bu listede yer alan uzman ve öğretmenlerin görev
 yapacakları yer ve tarihler müdürlükler tarafından belirlenir.
 
-MADDE 41/B — Çocuk teslimine dair ilam veya tedbir kararlarının yerine getirilmesi
+Çocuk teslimine dair ilam veya tedbir kararlarının yerine getirilmesi
+
+19 24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle bu Kanuna 41 inci maddesinden
+sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
+Kısım olarak teselsül ettirilmiştir.
+
+MADDE 41/B
 
 (Ek:24/11/2021-7343/40 md.)
 (1) Çocuk teslimine dair ilam veya tedbir kararları, yükümlüsü tarafından rızasıyla
@@ -719,7 +840,7 @@ birinci daireye, o yerde aile mahkemesinin tek dairesi bulunması hâlinde asliy
 mahkemesine, aile mahkemesi hâkimi ile asliye hukuk mahkemesi hâkiminin aynı hâkim
 olması hâlinde ise en yakın aile mahkemesine veya asliye hukuk mahkemesine ivedilikle
 gönderir. İtiraz mercii, bir hafta içinde kararını verir. Merci, itirazı yerinde görürse işin esası
-hakkında karar verir. İtiraz üzerine verilen karar kesindir.5
+hakkında karar verir. İtiraz üzerine verilen karar kesindir.20
 
 Çocuk teslimi ve çocukla kişisel ilişki kurulmasına dair ilam veya tedbir
 kararlarının yerine getirilmesine muhalefet
@@ -735,9 +856,6 @@ cezalandırılır.
 getirilmesine ilişkin teslim emrine aykırı hareket edenler ile emrin gereğinin yerine
 getirilmesini engelleyenler, bir ay içinde yapılacak şikâyet üzerine, üç günden on güne kadar
 disiplin hapsiyle cezalandırılır.
-
-5 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu bu fıkranın birinci cümlesinde yer
-alan “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 (3) Kişisel ilişki kurulması için kendisine çocuk teslim edilen hak sahibi, ilam veya
 tedbir kararında belirtilen sürenin bitiminde çocuğu belirlenen yere getirmezse, bir ay içinde
 yapılacak şikâyet üzerine, fiil suç teşkil etse dahi, üç aya kadar disiplin hapsi ile cezalandırılır.
@@ -751,6 +869,9 @@ verileceği ihtar olunur. Mahkeme, duruşmaya gelen şikâyet olunanın, 5271 sa
 yapar; dosyadaki delilleri değerlendirir; şikâyet olunanın teslim emrine aykırı hareket ettiğini
 veya emrin gereğinin yerine getirilmesini engellediğini yahut sürenin bitiminde çocuğu
 belirlenen yere getirmediğini tespit ederse disiplin hapsi ile cezalandırılmasına, aksi takdirde
+
+20 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu bu fıkranın birinci cümlesinde yer
+alan “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 şikâyetin reddine karar verir.
 (6) Disiplin hapsi ile cezalandırmaya ilişkin kararlar, kesinleşmesini müteakip
 Cumhuriyet başsavcılığı tarafından infaz edilir. Bu kararlar kesinleştiği tarihten itibaren iki yıl
@@ -790,14 +911,14 @@ rakamının, görevlendirilen diğer kişilere ise (5000) gösterge rakamının 
 uygulanan katsayıyla çarpımı sonucu bulunacak tutarı geçemez. Bu ödemeden damga vergisi
 hariç herhangi bir vergi ve kesinti yapılmaz. Bu fıkra uyarınca yapılacak ödemelerden kadrolu
 veya sözleşmeli olup olmadığına bakılmaksızın görevlendirilen tüm personel yararlanır. Bu
-fıkranın uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığınca belirlenir.6
+fıkranın uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığınca belirlenir.21
 
 Yönetmelik
 MADDE 41/İ- (Ek:24/11/2021-7343/47 md.)
 (1) Bu Kısmın uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından
 çıkarılacak yönetmelikle belirlenir.
 
-BEŞİNCİ KISIM7
+BEŞİNCİ KISIM22
 Çeşitli Hükümler
 Uygulanacak hükümler
 
@@ -818,12 +939,6 @@ giderleri Devletçe ödenir. Ödenecek miktar mahkemece verilecek bir karar ile 
 malî durumunun müsait olması hâlinde, Devletçe ödenen meblağın tahsili için ilgililere rücu
 edilir.
 
-6 28/3/2023 tarihli ve 7445 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “hafta sonu ve
-resmî tatil günlerinde” ibaresi madde metninden çıkarılmıştır.
-7 24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle Kanununa 41 inci maddesinden
-sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
-Kısım olarak teselsül ettirilmiştir.
-
 MADDE 44 — Kamu görevlisi
 
 (1) Bu Kanun kapsamına giren görevlerle bağlantılı olarak kamu
@@ -837,6 +952,12 @@ tedbirlerden;
 a) (a) ve (e) bentlerinde yazılı danışmanlık ve barınma tedbirleri Milli Eğitim
 Bakanlığı, Sosyal Hizmetler ve Çocuk Esirgeme Kurumu ve yerel yönetimler,
 b) (b) bendinde yazılı eğitim tedbiri Milli Eğitim Bakanlığı ve Çalışma ve Sosyal
+
+21 28/3/2023 tarihli ve 7445 sayılı Kanunun 42 nci maddesiyle bu fıkrada yer alan “hafta sonu ve
+resmî tatil günlerinde” ibaresi madde metninden çıkarılmıştır.
+22 24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle Kanununa 41 inci maddesinden
+sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
+Kısım olarak teselsül ettirilmiştir.
 Güvenlik Bakanlığı,
 c) (c) bendinde yazılı bakım tedbiri Sosyal Hizmetler ve Çocuk Esirgeme Kurumu,
 d) (d) bendinde yazılı sağlık tedbiri Sağlık Bakanlığı,
@@ -847,8 +968,22 @@ görev alanına giren diğer hususlarla ilgili olarak Sosyal Hizmetler ve Çocuk
 Kurumu tarafından yapılan her türlü yardım ve destek talepleri Milli Eğitim Bakanlığı, İçişleri
 Bakanlığı, Sağlık Bakanlığı, ilgili diğer bakanlıklar ile kamu kurum ve kuruluşları tarafından
 geciktirilmeksizin yerine getirilir.
-(3) Bu tedbirlerin yerine getirilmesinde kurumların koordinasyonu Adalet Bakanlığınca
-sağlanır.
+(3) (Değişik:8/8/2026-7593/14 md.) Koruyucu ve destekleyici tedbirlerin ilgili kurum
+veya kuruluş tarafından yerine getirilmesi sırasında gerekmesi hâlinde kolluktan yardım
+istenebilir.
+(4) (Ek:8/8/2026-7593/14 md.) Koruyucu ve destekleyici tedbirlerin yerine
+getirilmesinde kurumların koordinasyonu merkezde Aile ve Sosyal Hizmetler Bakanlığı
+tarafından; il ve ilçelerde kurumların koordinasyonu ile takibi vali ve kaymakam tarafından
+sağlanır. Bu amaçla il ve ilçelerde sekretarya hizmetleri aile ve sosyal hizmetler il müdürlükleri
+tarafından yürütülür. Hâkim veya mahkeme tarafından verilen koruyucu ve destekleyici tedbir
+kararları, yerine getirilmek üzere ilgili kurum veya kuruluşa gönderilir.
+(5) (Ek:8/8/2026-7593/14 md.) Çocuk hakkında verilen koruyucu ve destekleyici tedbir
+kararlarının gereklerine aykırı hareket eden ana, baba, vasi veya bakım ve gözetiminden
+sorumlu kimse, fiil suç teşkil etse dahi ihlal edilen tedbirin niteliğine ve aykırılığın ağırlığına
+göre çocuk hâkimi kararıyla üç günden on güne kadar tazyik hapsi ile cezalandırılır. Bu
+kararlara karşı 14 üncü madde uyarınca itiraz yoluna gidilebilir. Tazyik hapsine ilişkin kararlar,
+kesinleşmesini müteakip Cumhuriyet başsavcılığı tarafından yerine getirilir. Bu kararlar çocuk
+hâkimi tarafından ilgili kuruma bildirilir.
 
 MADDE 46 — Kadrolar
 

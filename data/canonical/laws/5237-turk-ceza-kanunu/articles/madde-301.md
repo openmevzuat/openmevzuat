@@ -1,6 +1,9 @@
 # MADDE 301
 
 (Değişik: 30/4/2008-5759/1 md.)
+
+116 30/4/2008 tarihli ve 5759 sayılı Kanunun 1 inci maddesiyle bu madde başlığı “Türklüğü,
+Cumhuriyeti, Devletin kurum ve organlarını aşağılama” iken metne işlendiği şekilde değiştirilmiştir.
 (1) Türk Milletini, Türkiye Cumhuriyeti Devletini, Türkiye Büyük Millet Meclisini,
 Türkiye Cumhuriyeti Hükümetini ve Devletin yargı organlarını alenen aşağılayan kişi, altı
 aydan iki yıla kadar hapis cezası ile cezalandırılır.

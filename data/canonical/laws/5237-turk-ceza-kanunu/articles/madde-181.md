@@ -17,5 +17,5 @@ hakkında bunlara özgü güvenlik tedbirlerine hükmolunur.
 
 cezalandırılır.” ibaresi “altı aydan iki yıla kadar hapis cezası ile cezalandırılır.” şeklinde
 değiştirilmiştir.
-76 24/11/2016 tarihli ve 6763 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “idare eden kişi,”
+78 24/11/2016 tarihli ve 6763 sayılı Kanunun 16 ncı maddesiyle, bu fıkraya “idare eden kişi,”
 ibaresinden sonra gelmek üzere “üç aydan” ibaresi eklenmiştir.

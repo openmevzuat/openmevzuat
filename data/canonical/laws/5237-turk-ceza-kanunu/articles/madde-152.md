@@ -1,4 +1,4 @@
-# MADDE 152 — Mala zarar vermenin nitelikli halleri69
+# MADDE 152 — Mala zarar vermenin nitelikli halleri71
 
 (1) Mala zarar verme suçunun;
 a) Kamu kurum ve kuruluşlarına ait, kamu hizmetine tahsis edilmiş veya kamunun

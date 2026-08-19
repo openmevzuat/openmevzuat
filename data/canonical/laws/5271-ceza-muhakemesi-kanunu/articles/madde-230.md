@@ -1,4 +1,4 @@
-# MADDE 230
+# MADDE 230 — Hükmün gerekçesinde gösterilmesi gereken hususlar
 
 (1) Mahkûmiyet hükmünün gerekçesinde aşağıdaki hususlar gösterilir:
 a) İddia ve savunmada ileri sürülen görüşler.

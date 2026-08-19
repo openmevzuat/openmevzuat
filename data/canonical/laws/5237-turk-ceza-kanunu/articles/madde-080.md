@@ -22,7 +22,7 @@ BİRİNCİ BÖLÜM
 Hayata Karşı Suçlar
 Kasten öldürme
 
-29 6/12/2019 tarihli 7196 sayılı Kanunun 56 ncı maddesiyle bu fıkraya “üç yıldan sekiz yıla kadar
+31 6/12/2019 tarihli 7196 sayılı Kanunun 56 ncı maddesiyle bu fıkraya “üç yıldan sekiz yıla kadar
 hapis ve” ibaresinden sonra gelmek üzere “bin günden” ibaresi eklenmiştir.
-30 28/3/2023 tarihli ve 7445 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “üç yıldan” ibaresi
+32 28/3/2023 tarihli ve 7445 sayılı Kanunun 16 ncı maddesiyle bu fıkrada yer alan “üç yıldan” ibaresi
 “beş yıldan” şeklinde değiştirilmiştir.

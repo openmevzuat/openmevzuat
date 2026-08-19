@@ -2,10 +2,10 @@
 
 (1) Uzlaşma kapsamındaki suçlar hariç olmak üzere, yalnız adlî para
 cezasını gerektiren veya kanun maddesinde öngörülen hapis cezasının yukarı sınırı altı ayı
-aşmayan suçların faili;24
+aşmayan suçların faili;26
 a) Adlî para cezası maktu ise bu miktarı, değilse aşağı sınırını,
 b) Hapis cezasının aşağı sınırının karşılığı olarak her gün için yüz Türk Lirası üzerinden
-bulunacak miktarı,25
+bulunacak miktarı,27
 c) Hapis cezası ile birlikte adlî para cezası da öngörülmüş ise, hapis cezası için bu
 fıkranın (b) bendine göre belirlenecek miktar ile adlî para cezasının aşağı sınırını,
 Soruşturma giderleri ile birlikte, Cumhuriyet savcılığınca yapılacak tebliğ üzerine on
@@ -25,21 +25,21 @@ yapılmadan dava açılması veya dava konusu fiilin niteliğinin değişmesi su
 kapsamına giren bir suça dönüşmesi halinde de yukarıdaki fıkra uygulanır.
 (4) Suçla ilgili kanun maddesinde yukarı sınırı altı ayı aşmayan hapis cezası veya adlî
 para cezasından yalnız birinin uygulanabileceği hallerde ödenmesi gereken miktar, yukarıdaki
-fıkralara göre adlî para cezası esas alınarak belirlenir.26
+fıkralara göre adlî para cezası esas alınarak belirlenir.28
 (5) Bu madde gereğince kamu davasının açılmaması veya ortadan kaldırılması, kişisel
 hakkın istenmesine, malın geri alınmasına ve müsadereye ilişkin hükümleri etkilemez.
 (6) (Ek: 24/11/2016-6763/12 md.) Bu madde hükümleri;
-a) Bu Kanunda yer alan;27
+a) Bu Kanunda yer alan;29
 1. Yardım veya bildirim yükümlülüğünün yerine getirilmemesi (98 inci maddenin
 birinci fıkrası),
 
-24 24/11/2016 tarihli ve 6763 sayılı Kanunun 12 nci maddesiyle, bu maddenin birinci fıkrasında yer
+26 24/11/2016 tarihli ve 6763 sayılı Kanunun 12 nci maddesiyle, bu maddenin birinci fıkrasında yer
 alan “üç” ibaresi “altı” şeklinde, “yirmi” ibaresi “otuz” şeklinde değiştirilmiştir.
-25 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu bentte yer alan “otuz” ibaresi “yüz”
+27 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu bentte yer alan “otuz” ibaresi “yüz”
 şeklinde değiştirilmiştir.
-26 24/11/2016 tarihli ve 6763 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “üç” ibaresi
+28 24/11/2016 tarihli ve 6763 sayılı Kanunun 12 nci maddesiyle, bu fıkrada yer alan “üç” ibaresi
 “altı” şeklinde değiştirilmiştir.
-27 7/11/2024 tarihli ve 7531 sayılı Kanunun 15 inci maddesiyle bu bende (1) numaralı alt bendinden
+29 7/11/2024 tarihli ve 7531 sayılı Kanunun 15 inci maddesiyle bu bende (1) numaralı alt bendinden
 sonra gelmek üzere alt bent eklenmiş ve diğer alt bentler buna göre teselsül ettirilmiştir.
 2. (Ek:7/11/2024-7531/15 md.) (Değişik:24/12/2025-7571/16 md.) Hakaret (üçüncü
 fıkranın (a) bendi hariç, madde 125),

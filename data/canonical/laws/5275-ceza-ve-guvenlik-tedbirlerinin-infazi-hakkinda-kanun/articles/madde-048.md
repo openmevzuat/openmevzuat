@@ -4,13 +4,13 @@
 K.:2013/106 sayılı Kararı ile.)
 (2) Bir eylemden dolayı verilen disiplin cezası kesinleştikten sonra bu cezanın infazı
 tamamlanıp kaldırılması için dördüncü fıkrada belirtilen süreler geçinceye kadar yeniden disiplin
-cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.16
+cezasını gerektiren bir eylemde bulunan hükümlü hakkında, her defasında bir üst ceza uygulanır.17
 (3) Disiplin cezalarının infazı;
 a) Hücreye koyma ve odaya kapatma cezasının infazına, infaz hâkiminin onayı ile
 başlanır. Hücreye koyma ve odaya kapatma cezasına ilişkin diğer hükümler saklı kalmak
 üzere, kesinleşen disiplin cezalarının infazına derhâl başlanır. Birden fazla disiplin cezası
 verilmiş olması hâlinde, bu cezalar kesinleşme tarihleri sırasına göre ayrı ayrı infaz edilir. Bir
-cezanın infazı tamamlanmadan diğerinin infazına başlanmaz.17
+cezanın infazı tamamlanmadan diğerinin infazına başlanmaz.18
 b) Disiplin cezalarının tamamı infaz edilip kaldırılmadıkça koşullu salıverilme işlemi
 yapılmaz, ancak bu süre hakederek salıverme tarihini geçemez.
 c) Hücreye koyma cezasına ilişkin disiplin cezalarının infazından önce ve infazı
@@ -18,19 +18,9 @@ sırasında hükümlü, hekim tarafından muayene edilir. İlgilinin bu cezaya k
 anlaşılırsa cezanın infazı sonraya bırakılır veya hekiminin belirleyeceği aralıklarla infaz edilir.
 Koşullu salıverilme tarihine kadar hükümlünün iyileşemeyeceğinin tam teşekküllü Devlet
 veya üniversite hastanesi sağlık kurulu raporu ile saptanması hâlinde hücreye koyma cezası
-
-16 14/4/2020 tarihli ve 7242 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “kaldırılması için
-gerekli süre içinde” ibaresi “infazı tamamlanıp kaldırılması için dördüncü fıkrada belirtilen süreler
-geçinceye kadar” şeklinde değiştirilmiştir.
-17 14/4/2020 tarihli ve 7242 sayılı Kanunun 28 inci maddesiyle, bu fıkranın (a) bendine “Hücreye
-koyma” ibarelerinden sonra gelmek üzere “ve odaya kapatma” ibaresi eklenmiş ve fıkranın (c)
-bendinde yer alan “yerine ziyaretçi kabulünden yoksun bırakma cezası iki katı süreyle uygulanır.”
-ibaresi “yerine 44 üncü maddenin ikinci fıkrasının uygulandığı hâllerde iki ay, üçüncü fıkrasının
-uygulandığı hâllerde dört ay süreyle ziyaretçi kabulünden yoksun bırakma cezası uygulanır.” şeklinde
-değiştirilmiştir.
 infaz edilmez; yerine 44 üncü maddenin ikinci fıkrasının uygulandığı hâllerde iki ay, üçüncü
 fıkrasının uygulandığı hâllerde dört ay süreyle ziyaretçi kabulünden yoksun bırakma cezası
-uygulanır. Raporlar infaz dosyasına konulur.17
+uygulanır. Raporlar infaz dosyasına konulur.18
 (4) İnfaz edildiği tarihten itibaren disiplin cezasının kaldırılmasında ve iyi hâlin
 kazanılmasında aşağıda belirtilen süreler esas alınır;
 a) Kınama cezası onbeş gün,
@@ -42,6 +32,16 @@ f) Hücreye koyma cezası 44 üncü maddenin ikinci fıkrasındaki hâllerde alt
 fıkrasındaki hâllerde bir yıl,
 g) Hücre cezasına karşılık ziyaretçi kabulünden yoksun bırakma cezası, (f) bendinde
 belirtilen süre,
+
+17 14/4/2020 tarihli ve 7242 sayılı Kanunun 28 inci maddesiyle, bu fıkrada yer alan “kaldırılması için
+gerekli süre içinde” ibaresi “infazı tamamlanıp kaldırılması için dördüncü fıkrada belirtilen süreler
+geçinceye kadar” şeklinde değiştirilmiştir.
+18 14/4/2020 tarihli ve 7242 sayılı Kanunun 28 inci maddesiyle, bu fıkranın (a) bendine “Hücreye
+koyma” ibarelerinden sonra gelmek üzere “ve odaya kapatma” ibaresi eklenmiş ve fıkranın (c)
+bendinde yer alan “yerine ziyaretçi kabulünden yoksun bırakma cezası iki katı süreyle uygulanır.”
+ibaresi “yerine 44 üncü maddenin ikinci fıkrasının uygulandığı hâllerde iki ay, üçüncü fıkrasının
+uygulandığı hâllerde dört ay süreyle ziyaretçi kabulünden yoksun bırakma cezası uygulanır.” şeklinde
+değiştirilmiştir.
 Sonunda disiplin cezası almamak ve iyi hâlli olmak koşuluyla (a) ve (b) bentlerinde
 belirtilen cezalar kurum en üst amiri tarafından, diğer bentlerde belirtilen cezalar, kurumun en
 üst amirinin önerisi ve disiplin kurulu kararıyla kaldırılır.
@@ -58,6 +58,6 @@ Kendiliğinden kalkmış sayılır. (a) bendi hariç, bu fıkradaki diğer süre
 tarihinden, firar hâlinde infaz tarihinden itibaren başlar.
 (6) Çocuğun bulunduğu kurumun disiplin kurulu, kurum kurallarına uyma, iyileştirme
 programında ilerleme veya verilen ceza ile amaçlanan sonucun gerçekleşmesi durumunda,
-çocuk hakkında verilen disiplin cezasını süre koşulu aranmaksızın her zaman kaldırabilir.18
+çocuk hakkında verilen disiplin cezasını süre koşulu aranmaksızın her zaman kaldırabilir.19
 
 Yönetim tarafından alınabilecek tedbirler

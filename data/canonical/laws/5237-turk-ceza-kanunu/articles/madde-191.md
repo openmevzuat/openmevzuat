@@ -19,13 +19,13 @@ gerek görülmesi hâlinde denetimli serbestlik süresi içinde tedaviye tabi tu
 Cumhuriyet savcısı, erteleme süresi zarfında uyuşturucu veya uyarıcı madde kullanıp
 kullanmadığını tespit etmek için yılda en az iki defa şüphelinin ilgili kuruma sevkine karar
 
-84 15/8/2017 tarihli ve 694 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan ““on yıla kadar
+86 15/8/2017 tarihli ve 694 sayılı KHK’nin 138 inci maddesiyle, bu fıkrada yer alan ““on yıla kadar
 hapis” ibaresinden sonra gelmek üzere “ve bin günden onbin güne kadar adlî para” ibaresi eklenmiş,
 daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı Kanunun 133 üncü maddesiyle aynen kabul
 edilerek kanunlaşmıştır.
-85 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü
+87 29/6/2005 tarihli ve 5377 sayılı Kanunun 23 üncü maddesiyle, bu maddenin ikinci fıkrası üçüncü
 fıkra, üçüncü fıkrası ise ikinci fıkra olarak değiştirilmiştir.
-86 18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı “Kullanmak için
+88 18/6/2014 tarihli ve 6545 sayılı Kanunun 68 inci maddesiyle bu maddenin başlığı “Kullanmak için
 uyuşturucu veya uyarıcı madde satın almak, kabul etmek veya bulundurmak” iken metne işlendiği
 şekilde değiştirilmiştir.
 verir.

@@ -1,4 +1,4 @@
-# MADDE 73 — Soruşturulması ve kovuşturulması şikayete bağlı suçlar23
+# MADDE 73 — Soruşturulması ve kovuşturulması şikayete bağlı suçlar25
 
 (1) Soruşturulması ve kovuşturulması şikayete bağlı olan suç hakkında yetkili
 kimse altı ay içinde şikayette bulunmadığı takdirde soruşturma ve kovuşturma yapılamaz.

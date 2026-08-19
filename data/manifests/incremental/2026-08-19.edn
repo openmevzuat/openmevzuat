@@ -1,0 +1,55 @@
+{:snapshot/date "2026-08-19",
+ :snapshot/generated-at #inst "2026-08-19T05:19:39.785-00:00",
+ :generator/name "openmevzuat",
+ :generator/version "0.1.0",
+ :documents
+ [{:document/id "law/2828",
+   :document/title "SOSYAL HİZMETLER KANUNU",
+   :document/path "data/canonical/laws/2828-sosyal-hizmetler-kanunu",
+   :metadata/path
+   "data/metadata/laws/2828-sosyal-hizmetler-kanunu.edn",
+   :document/sha256
+   "f9ce303d78e44b8f9d1215fded3b834561eb900994c3000003911280e4fe2bd0"}
+  {:document/id "law/5237",
+   :document/title "Türk Ceza Kanunu",
+   :document/path "data/canonical/laws/5237-turk-ceza-kanunu",
+   :metadata/path "data/metadata/laws/5237-turk-ceza-kanunu.edn",
+   :document/sha256
+   "3a4e6cd86c48999ea945d3a8768a33a870b7827bf8de6fc3590f4ec8693ca386"}
+  {:document/id "law/5271",
+   :document/title "CEZA MUHAKEMESİ KANUNU",
+   :document/path "data/canonical/laws/5271-ceza-muhakemesi-kanunu",
+   :metadata/path "data/metadata/laws/5271-ceza-muhakemesi-kanunu.edn",
+   :document/sha256
+   "7639e70063efba9b95de34752402c05eefc9cfc88c63fc729c5dc4675348f3df"}
+  {:document/id "law/5275",
+   :document/title
+   "CEZA VE GÜVENLİK TEDBİRLERİNİN İNFAZI HAKKINDA KANUN",
+   :document/path
+   "data/canonical/laws/5275-ceza-ve-guvenlik-tedbirlerinin-infazi-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/5275-ceza-ve-guvenlik-tedbirlerinin-infazi-hakkinda-kanun.edn",
+   :document/sha256
+   "a49c70b69ac251eeb122b23ae5f3e39d7077adbedeec1960255c38e771b84913"}
+  {:document/id "law/5326",
+   :document/title "KABAHATLER KANUNU",
+   :document/path "data/canonical/laws/5326-kabahatler-kanunu",
+   :metadata/path "data/metadata/laws/5326-kabahatler-kanunu.edn",
+   :document/sha256
+   "73b5c71c200999f837c70f20749c2f822d3ea82599cc0c474319baf80cae9f89"}
+  {:document/id "law/5395",
+   :document/title "ÇOCUK KORUMA KANUNU",
+   :document/path "data/canonical/laws/5395-cocuk-koruma-kanunu",
+   :metadata/path "data/metadata/laws/5395-cocuk-koruma-kanunu.edn",
+   :document/sha256
+   "ef510d3adeb4efe67be3da989618db055c83e6183f9bf78b093b37e0affd72fc"}
+  {:document/id "law/6136",
+   :document/title
+   "ATEŞLİ SİLAHLAR VE BIÇAKLAR İLE DİĞER ALETLER HAKKINDA KANUN",
+   :document/path
+   "data/canonical/laws/6136-atesli-silahlar-ve-bicaklar-ile-diger-aletler-hakkinda-kanun",
+   :metadata/path
+   "data/metadata/laws/6136-atesli-silahlar-ve-bicaklar-ile-diger-aletler-hakkinda-kanun.edn",
+   :document/sha256
+   "661710c413b750d2aaabc0949e07de673dd018ab9b8e3c7df41d18257863f894"}],
+ :snapshot/scope :incremental}
