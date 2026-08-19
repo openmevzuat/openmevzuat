@@ -19,11 +19,10 @@ cümle:14/4/2020-7242/49 md.) Hükümlü hakkında ikinci defa tekerrür hüküm
 uygulanacağı hükümde belirtilir.62
 (4) İnfaz hâkimi, mükerrir hakkında cezanın infazının tamamlanmasından sonra
 başlamak ve bir yıldan az olmamak üzere denetim süresi belirler.63
-(5) Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin
-hükümler uygulanır.
-(6) İnfaz hâkimi, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir.
-Denetim süresi en fazla beş yıla kadar uzatılabilir.
 
+59 14/4/2020 tarihli ve 7242 sayılı Kanunun 48 inci maddesiyle, bu fıkrada yer alan “mahkemesi,”
+ibaresi “mahkemesinin bulunduğu yer infaz hâkimliği,” ve “belirlenen ilk derece mahkemesi” ibaresi
+“belirlenen infaz hâkimliği” şeklinde değiştirilmiştir.
 60 18/6/2014 tarihli be 6545 sayılı Kanunun 82 nci maddesiyle bu maddenin başlığında yer alan
 “Mükerrirlere” ibaresinden sonra gelmek üzere “ve bazı suç faillerine” ibaresi eklenmiştir.
 61 14/4/2020 tarihli ve 7242 sayılı Kanunun 49 uncu maddesiyle, bu fıkraya (b) bendinden sonra
@@ -34,6 +33,10 @@ hükümlü koşullu salıverilmez.” ibaresi “durumunda birinci fıkradaki ko
 uygulanır.” şeklinde değiştirilmiştir.
 63 14/4/2020 tarihli ve 7242 sayılı Kanunun 49 uncu maddesiyle, bu fıkralarda yer alan “Hâkim,”
 ibareleri “İnfaz hâkimi,” şeklinde değiştirilmiştir.
+(5) Tekerrür dolayısıyla belirlenen denetim süresinde, koşullu salıverilmeye ilişkin
+hükümler uygulanır.
+(6) İnfaz hâkimi, mükerrir hakkında denetim süresinin uzatılmasına karar verebilir.
+Denetim süresi en fazla beş yıla kadar uzatılabilir.
 (7) (Ek: 18/6/2014-6545/82 md.) Cezanın infazı tamamlandıktan sonra devam eden
 denetim süresi içinde, bu madde hükümlerine göre kendilerine yüklenen yükümlülüklere ve
 yasaklara aykırı hareket eden mükerrirler, infaz hâkimi kararı ile disiplin hapsine tabi tutulur.

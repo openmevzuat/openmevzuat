@@ -1,4 +1,4 @@
-# MADDE 282 — Suçtan kaynaklanan malvarlığı değerlerini aklama110
+# MADDE 282 — Suçtan kaynaklanan malvarlığı değerlerini aklama113
 
 (1) (Değişik: 26/6/2009 – 5918/5 md.) Alt sınırı altı ay veya daha fazla
 hapis cezasını gerektiren bir suçtan kaynaklanan malvarlığı değerlerini, yurt dışına çıkaran
@@ -11,6 +11,9 @@ bulunduran veya kullanan kişi iki yıldan beş yıla kadar hapis cezası ile ce
 (3) Bu suçun, kamu görevlisi tarafından veya belli bir meslek sahibi kişi tarafından bu
 mesleğin icrası sırasında işlenmesi halinde, verilecek hapis cezası yarı oranında artırılır.
 (4) Bu suçun, suç işlemek için teşkil edilmiş bir örgütün faaliyeti çerçevesinde
+
+113 26/6/2009 tarihli ve 5918 sayılı Kanunun 5 inci maddesiyle birinci fıkradan sonra gelmek üzere
+ikinci fıkra eklenmiş ve diğer fıkralar buna göre teselsül ettirilmiştir.
 işlenmesi halinde, verilecek ceza bir kat artırılır.
 (5) Bu suçun işlenmesi dolayısıyla tüzel kişiler hakkında bunlara özgü güvenlik
 tedbirlerine hükmolunur.

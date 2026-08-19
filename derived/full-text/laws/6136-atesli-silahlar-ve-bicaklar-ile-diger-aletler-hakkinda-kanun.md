@@ -432,6 +432,13 @@ Lirasından yirmibeşbin Türk Lirasına kadar idari para cezasına hükmolunur.
 (Ek fıkra:21/11/2024-7533/12 md.) Bu madde hükümlerine göre idari para cezası
 vermeye mülki idare amiri yetkilidir.
 
+MADDE 13/A
+
+(Ek:8/8/2026-7593/1 md.)
+Ateşli silahın dikkat ve özen yükümlülüğüne aykırı şekilde muhafaza edilmesi
+suretiyle çocuk tarafından ele geçirilmesine neden olan kişi, fiil daha ağır cezayı gerektiren
+başka bir suç oluşturmadığı takdirde bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.
+
 MADDE 14
 
 (Değişik: 23/1/2008-5728/157 md.)
@@ -498,14 +505,14 @@ hakkında ilgili kanunlarda belli edilen cezaların iki katı hükmolunur.13
 (A) ve (B) bentlerinde sayılan yerlerde 7 nci maddenin 1, 2, 3 ve 4 numaralı
 bentlerinde belirtilen, kişiler ile bu yerlerin güvenliği için görevli bulunan polis ve jandarma
 personeli, (C) bendinde sayılan yerlerde ise yalnız bu yerlerin güvenliği ile görevli bulunan
+
+13 23/1/2008 tarihli ve 5728 sayılı Kanunun 159 uncu maddesiyle bu fıkrada bulunan “264” ibaresi
+“174” şeklinde değiştirilmiştir.
 polis, jandarma ve Türkiye Büyük Millet Meclisi Mumafız Taburu personeli silahlarını
 taşıyabilirler.
 (Değişik dördüncü fıkra: 23/1/2008-5728/159 md.) (A), (B) ve (C) bentlerinde
 sayılan yerlere silahla giren veya buralarda silah taşıyan kişiler, fiilleri daha ağır cezayı
 gerektiren başka bir suç oluşturmadığı takdirde, elli günden az olmamak üzere adlî para cezası
-
-13 23/1/2008 tarihli ve 5728 sayılı Kanunun 159 uncu maddesiyle bu fıkrada bulunan “264” ibaresi
-“174” şeklinde değiştirilmiştir.
 ile cezalandırılır. Ayrıca, bu kişilerin silah ruhsatları bulundurmaya çevrilir. Önödeme veya
 mahkûmiyet kararındaki adlî para cezasının infaz edildiği veya düştüğü tarihten itibaren beş
 yıllık süre geçmediği takdirde, bu kişilere taşıma ruhsatı verilmez.
@@ -548,14 +555,12 @@ artırılır.
 EK MADDE 6
 
 (Ek : 12/5/l988 - 3448/2 md.; Değişik: 22/11/1990 - 3684/3 md.)14
-Milli İstihbarat Teşkilatının demirbaş silahları, yedek parça ve mermileri ile Teşkilat
-mensuplarının yurt içinden temin edecekleri veya yurt dışına gittiklerinde bir defaya mahsus
-olmak üzere gümrük vergi, resim ve harçlarını ödemek suretiyle getirecekler zati silah ve
 
 14 15/8/2017 tarihli ve 694 sayılı KHK’nin 21 inci maddesiyle, bu maddede yer alan “İçişleri
 Bakanlığının görüşü alınarak Milli İstihbarat Teşkilatı tarafından hazırlanıp Başbakanca” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı
-Kanunun 21 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+Milli İstihbarat Teşkilatının demirbaş silahları, yedek parça ve mermileri ile Teşkilat
+mensuplarının yurt içinden temin edecekleri veya yurt dışına gittiklerinde bir defaya mahsus
+olmak üzere gümrük vergi, resim ve harçlarını ödemek suretiyle getirecekler zati silah ve
 mermilerinin yurda sokulmasına dair usul ve esaslar Cumhurbaşkanınca onaylanan
 yönetmelikte belirtilir. Bu yönetmelik Resmi Gazetede yayımlanmaz.
 
@@ -592,14 +597,16 @@ mermiler, Türk Silahlı Kuvvetleri bünyesindeki subay, astsubay ve uzman erba�
 Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca temin edilen tabanca ve
 mermiler, kendi bünyelerindeki subay, astsubay, uzman jandarma ve uzman erbaşlara;
 Emniyet Genel Müdürlüğünce temin edilen tabanca ve mermiler, emniyet hizmetleri sınıfı
+
+“Cumhurbaşkanınca” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı
+Kanunun 21 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+15 2/7/2018 tarihli ve 703 sayılı KHK’nin 33 üncü maddesiyle, bu fıkrada yer alan “adı geçen İdarenin
+görüşü alınarak İçişleri Bakanlığınca hazırlanıp Bakanlar Kurulu Kararı ile” ibaresi
+“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 personeline; Ticaret Bakanlığınca satın alınan tabanca ve mermiler, Ticaret Bakanlığının
 merkez ve taşra teşkilatında silah taşıma yetkisini haiz personele, görevlerinde kullanmak
 üzere bedeli mukabili zati demirbaş silah olarak satılır. Satılan silahların ayrılma, ihraç ve
 benzeri sebeplerle geri alınma usul ve esasları ile satılma şekil ve şartları, zayi, hasar, onarım,
-
-15 2/7/2018 tarihli ve 703 sayılı KHK’nin 33 üncü maddesiyle, bu fıkrada yer alan “adı geçen İdarenin
-görüşü alınarak İçişleri Bakanlığınca hazırlanıp Bakanlar Kurulu Kararı ile” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 kadro standardı dışı bırakılması, eğitim ve görevde kullanılan mermilerin bedelli veya
 bedelsiz temini ve diğer hususlar çıkarılan yönetmeliklerle belirlenir.
 (Değişik ikinci fıkra: 14/7/2004-5217/16 md.) Bu Kanuna göre yapılan satışlardan
@@ -683,6 +690,9 @@ Yukarki fıkra hükmü mahfuz kalmak üzere ellerinde bu kanunla menedilen bıç
 benzerlerini bulunduranlar bu kanunun meriyete girdiği tarihten itibaren altı ay içinde mahalli
 zabıta makamlarına teslime mecburdurlar.
 
+16 28/3/2023 tarihli ve 7445 sayılı Kanunun 9 uncu maddesiyle bu fıkrasına “suçlar ile” ibaresinden
+sonra gelmek üzere “göçmen kaçakçılığı ve” ibaresi eklenmiştir.
+
 GEÇİCİ MADDE 3
 
 Bu Kanunun yürürlüğe girdiği tarihte meslek ve sanat erbabı
@@ -692,9 +702,6 @@ içinde müracaatı üzerine mahalli zabıtaca damgalanır.
 GEÇİCİ MADDE 4
 
 (Ek: 4/7/1956 - 6768/2 md.)
-
-16 28/3/2023 tarihli ve 7445 sayılı Kanunun 9 uncu maddesiyle bu fıkrasına “suçlar ile” ibaresinden
-sonra gelmek üzere “göçmen kaçakçılığı ve” ibaresi eklenmiştir.
 6136 sayılı kanunun geçici 1 inci ve 2 nci maddelerinde yazılı izin ve vesikaları
 zamanında almıyanlarla zabıta makamlarına teslim etmiyenler ve bu sebeple ellerinde
 vesikasız ateşli silahlarla mermilerini ve mezkür kanuna göre menedilmiş bıçak ve
@@ -778,14 +785,15 @@ Yürürlükten kaldırılan ek 3 üncü maddeye göre tabanca taşıma yetkisini
 bulunanların bu Kanunun yürürlüğe girdiği tarihten itibaren 30 gün içinde yetkili mercilere
 başvurmaları halinde 6136 sayılı Kanunun 7 nci maddesinin 3 numaralı bendi hükümlerine
 göre kendilerine taşıma veya bulundurma izin belgesi verilebilir.
+
+17 Anayasa Mahkemesinin 6/1/1999 tarih ve E.: 1996/68, K.: 1999/1 sayılı kararı ile bu fıkrada yer
+alan “Bakanlar Kurulunun tespit edeceği illerde” ibaresi iptal edilmiş olup metinden çıkarılmıştır.
+18 14/1/1998 tarih ve 4321 sayılı Kanun ile "45" gün ibaresi "90" gün olarak değiştirilmiştir.
 Taşıma veya bulundurma vesikasına bağlanamayan tabancalar sıkıyönetim
 komutanlıklarıyla mahalli mülki veya askeri makamlara teslim edilir.
 Bu şekilde teslim alınan silahların Makine ve Kimya Endüstrisi Kurumunca tespit
 olunacak bedelleri Devletçe sahiplerine ödenir.
 
-17 Anayasa Mahkemesinin 6/1/1999 tarih ve E.: 1996/68, K.: 1999/1 sayılı kararı ile bu fıkrada yer
-alan “Bakanlar Kurulunun tespit edeceği illerde” ibaresi iptal edilmiş olup metinden çıkarılmıştır.
-18 14/1/1998 tarih ve 4321 sayılı Kanun ile "45" gün ibaresi "90" gün olarak değiştirilmiştir.
 Ek Geçici Madde 2 – (Ek: 23/6/1981 - 2478/10 md.)
 6136 sayılı Kanun kapsamına alınan ve özellikleri İçişleri ve Gençlik ve Spor
 Bakanlıklarınca müştereken çıkarılacak yönetmelikte belirlenecek sporda kullanılan evvelce

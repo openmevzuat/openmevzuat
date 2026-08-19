@@ -8,6 +8,10 @@ alıkoyması halinde, üç aydan bir yıla kadar hapis cezasına hükmolunur.
 bitirmemiş ise ceza bir katı oranında artırılır.
 (3) (Ek: 6/12/2006 – 5560/10 md.) Kanunî temsilcisinin bilgisi veya rızası dışında evi
 terk eden çocuğu, rızasıyla da olsa, ailesini veya yetkili makamları durumdan haberdar etmeksizin
+
+99 8/8/2026 tarihli ve 7593 sayılı Kanunun 3 üncü maddesiyle bu maddenin birinci fıkrasında yer alan “bir yıla”
+ibaresi “üç aydan iki yıla”, ikinci fıkrasında yer alan “üç aydan bir yıla” ibaresi “altı aydan iki yıla”, üçüncü
+fıkrasında yer alan “üç aydan bir yıla” ibaresi “bir yıldan üç yıla” şeklinde değiştirilmiştir.
 yanında tutan kişi, şikâyet üzerine, üç aydan bir yıla kadar hapis cezası ile cezalandırılır.
 
 DOKUZUNCU BÖLÜM

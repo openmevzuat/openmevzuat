@@ -2,7 +2,7 @@
 
 (Değişik: 29/6/2005 – 5377/20 md.)
 (1) Hırsızlık, mala zarar verme, güveni kötüye kullanma, dolandırıcılık, hileli iflâs,
-taksirli iflâs (…)72 suçları tamamlandıktan sonra ve fakat bu nedenle hakkında kovuşturma
+taksirli iflâs (…)74 suçları tamamlandıktan sonra ve fakat bu nedenle hakkında kovuşturma
 başlamadan önce, failin, azmettirenin veya yardım edenin bizzat pişmanlık göstererek
 mağdurun uğradığı zararı aynen geri verme veya tazmin suretiyle tamamen gidermesi halinde,
 verilecek cezanın üçte ikisine kadarı indirilir.

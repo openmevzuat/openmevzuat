@@ -6,7 +6,7 @@ bedelini kabul ederek Kurumla kira sözleşmesi yapanlar veya Kurumun belirledi�
 kabul etmeyerek kira sözleşmesi yapmayanlardan taşınmaz malı henüz tahliye etmemiş
 bulunanlar, bu Kanunun yürürlüğe girdiği tarihten itibaren otuz gün içinde Kurum tarafından
 
-37 Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü
+38 Bu maddenin ikinci fıkrası ile ihdas olunan kadrolar, 13/12/1983 tarihli ve 190 sayılı KHK.'nin 13 üncü
 maddesi ile yürürlükten kaldırılmıştır.
 belirlenen kira bedellerine karşı sulh hukuk mahkemesine itiraz edebilirler. İtirazın yapılması
 halinde kiracılar, dava sonuna kadar Kurum tarafından belirlenen kirayı aylık olarak öderler ve

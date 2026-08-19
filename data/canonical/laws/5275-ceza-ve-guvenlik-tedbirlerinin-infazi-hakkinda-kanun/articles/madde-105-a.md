@@ -1,4 +1,4 @@
-# MADDE 105/A — Denetimli serbestlik tedbiri uygulanarak cezanın infazı44
+# MADDE 105/A — Denetimli serbestlik tedbiri uygulanarak cezanın infazı45
 
 (Ek: 5/4/2012-6291/1 md.)
 (1) (Değişik:14/4/2020-7242/46 md.) Hükümlülerin dış dünyaya uyumlarını sağlamak,
@@ -12,15 +12,15 @@ cümle:4/6/2025-7550/13 md.) Hükümlünün bu infaz usulünden yararlanabilmesi
 günden az olmamak üzere koşullu salıverilme tarihine kadar ceza infaz kurumunda geçirmesi
 gereken sürenin en az onda birini ceza infaz kurumunda geçirmiş olması gerekir.
 
-43 14/4/2020 tarihli ve 7242 sayılı Kanunun 45 inci maddesiyle, bu fıkraya “ücretsiz olarak”
+44 14/4/2020 tarihli ve 7242 sayılı Kanunun 45 inci maddesiyle, bu fıkraya “ücretsiz olarak”
 ibaresinden sonra gelmek üzere “iki saat çalışması karşılığı bir gün olmak üzere” ibaresi eklenmiştir.
-44 Bu maddenin uygulanması ile ilgili olarak, bu Kanuna 15/8/2016 tarihli ve 671 sayılı KHK ile
+45 Bu maddenin uygulanması ile ilgili olarak, bu Kanuna 15/8/2016 tarihli ve 671 sayılı KHK ile
 eklenen Geçici Madde 6’nın hükümlerine bakınız.
 (2) (Değişik:14/4/2020-7242/46 md.) Açık ceza infaz kurumuna ayrılma şartları
 oluşmasına karşın, iradesi dışındaki bir nedenle açık ceza infaz kurumuna ayrılamayan veya
 bu nedenle kapalı ceza infaz kurumuna geri gönderilen iyi hâlli hükümlüler, diğer şartları da
 taşımaları hâlinde, birinci fıkrada düzenlenen infaz usulünden yararlanabilirler.
-(3) Yukarıdaki fıkralarda düzenlenen infaz usulünden;45
+(3) Yukarıdaki fıkralarda düzenlenen infaz usulünden;46
 a) Sıfır-altı yaş grubunda çocuğu bulunan ve koşullu salıverilmesine iki yıl veya daha
 az süre kalan kadın hükümlüler,
 b) Maruz kaldıkları ağır bir hastalık, engellilik veya kocama nedeniyle hayatlarını yalnız
@@ -43,7 +43,7 @@ değiştirilebilir. (Ek cümle: 28/3/2023-7445/25 md.) Türk Ceza Kanununun 191 
 maddesinde yer alan kullanmak için uyuşturucu veya uyarıcı madde satın almak, kabul etmek
 veya bulundurmak ya da uyuşturucu veya uyarıcı madde kullanmak suçundan hükümlü
 olanlar ayrıca tedavi ve rehabilitasyon programlarına katılma yükümlülüğüne tabi tutulur.
-(6) Hükümlünün;46
+(6) Hükümlünün;47
 a) Ceza infaz kurumundan ayrıldıktan sonra, talebinde belirttiği denetimli serbestlik
 müdürlüğüne beş gün içinde müracaat etmemesi,
 b) Hakkında belirlenen yükümlülüklere, denetimli serbestlik müdürlüğünün hazırladığı
@@ -54,9 +54,9 @@ hâlinde, denetimli serbestlik müdürlüğünün talebi üzerine, koşullu sal�
 kadar olan cezasının infazı için açık ceza infaz kurumuna gönderilmesine, denetimli serbestlik
 müdürlüğünün bulunduğu yer infaz hâkimi tarafından karar verilir.
 
-45 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri
+46 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “sakatlık” ibareleri
 “engellilik” şeklinde değiştirilmiştir.
-46 14/4/2020 tarihli ve 7242 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “üç” ibaresi “beş”
+47 14/4/2020 tarihli ve 7242 sayılı Kanunun 46 ncı maddesiyle, bu fıkrada yer alan “üç” ibaresi “beş”
 ve “kapalı ceza infaz kurumuna gönderilmesine,” ibaresi “açık ceza infaz kurumuna gönderilmesine,
 denetimli serbestlik müdürlüğünün bulunduğu yer” şeklinde değiştirilmiştir.
 (7) (Yeniden Düzenleme:14/4/2020-7242/46 md.) Hükümlü hakkında denetimli
@@ -68,7 +68,7 @@ verilmesine yer olmadığı, davanın reddi veya düşme kararı verilmesi hâli
 cezasının infazına denetimli serbestlik tedbiri uygulanarak devam olunmasına infaz hâkimi
 tarafından karar verilir.
 (8) Denetimli serbestlik müdürlüğüne müracaat etmesi gereken sürenin bitiminden
-itibaren iki gün geçmiş olmasına karşın müracaat etmeyenler ile (…)47 ceza infaz kurumuna
+itibaren iki gün geçmiş olmasına karşın müracaat etmeyenler ile (…)48 ceza infaz kurumuna
 iade kararı verilmesine rağmen iki gün içinde en yakın Cumhuriyet başsavcılığına teslim
 olmayan hükümlüler hakkında, 5237 sayılı Türk Ceza Kanununun 292 nci ve 293 üncü
 maddelerinde yazılı hükümler uygulanır.

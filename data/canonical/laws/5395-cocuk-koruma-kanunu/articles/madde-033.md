@@ -4,7 +4,12 @@
 lisans öğrenimi görmüş olanlar arasından yeterli sayıda sosyal çalışma görevlisi mahkemelere
 görevlendirilmek üzere adli destek ve mağdur hizmetleri müdürlüğüne atanır. Atamada; çocuk
 ve aile sorunları ile çocuk hukuku ve çocuk suçluluğunun önlenmesi alanlarında lisansüstü
-eğitim yapmış olanlar tercih edilir.2
+
+12 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu fıkrada yer alan “suça sürüklenen”
+ibaresi “adli süreçteki” şeklinde değiştirilmiştir.
+13 17/10/2019 tarihli ve 7188 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan “atananların,”
+ibaresi “görevlendirilenlerin,” şeklinde değiştirilmiştir.
+eğitim yapmış olanlar tercih edilir.14
 (2) (Değişik:7/11/2024-7531/19 md.) Bu Kanun kapsamındaki tedbirleri uygulayan
 sosyal çalışma görevlileri ile adli destek ve mağdur hizmetleri müdürlüğü bünyesinde görev
 yapmakta olup da mahkemelere görevlendirilen sosyal çalışma görevlilerine almakta oldukları
@@ -18,15 +23,8 @@ bunlar tarafından yapılmasında fiilî veya hukukî bir engel bulunması ya da
 dalına ihtiyaç duyulması gibi durumlarda, diğer kamu kurum ve kuruluşlarında çalışanlar ile
 serbest meslek icra eden birinci fıkrada öngörülen nitelikleri haiz kimseler de sosyal çalışma
 görevlisi olarak görevlendirilebilirler. (Ek cümle:7/11/2024-7531/19 md.) Bu şekilde
-görevlendirilenlere ayrıca ikinci fıkra kapsamında ödeme yapılmaz.2
+görevlendirilenlere ayrıca ikinci fıkra kapsamında ödeme yapılmaz.14
 (4) Hakkında sosyal inceleme yapılacak çocuğun, incelemeye tâbi tutulacak çevresi
-
-1 17/10/2019 tarihli ve 7188 sayılı Kanunun 34 üncü maddesiyle bu fıkrada yer alan “atananların,”
-ibaresi “görevlendirilenlerin,” şeklinde değiştirilmiştir.
-2 7/11/2024 tarihli ve 7531 sayılı Kanunun 19 uncu maddesiyle birinci fıkrada yer alan “adliyelere”
-ibaresi “adli destek ve mağdur hizmetleri müdürlüğüne” şeklinde ve üçüncü fıkrada yer alan “Bu
-görevlilerin” ibaresi “Birinci fıkra kapsamındaki sosyal çalışma görevlilerinin” şeklinde
-değiştirilmiştir.
 mahkemenin yetki alanı dışında ise, davayı gören mahkemenin talimatına bağlı olarak
 çocuğun bulunduğu yerdeki mahkemece inceleme yaptırılır. Büyükşehir belediye sınırları
 içinde kalan yerlerde bu inceleme, davayı gören mahkemeye bağlı olarak çalışan sosyal

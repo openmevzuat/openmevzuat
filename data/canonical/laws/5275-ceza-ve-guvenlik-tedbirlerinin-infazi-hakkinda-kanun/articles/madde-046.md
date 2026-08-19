@@ -27,7 +27,7 @@ taşımak.
 kez tekrarlaması hâlinde, davranışının sonuçlarına ikinci kez dikkatinin çekilmesidir.
 (3) Onarma, tazmin etme ve eski hâle getirme: Disiplin cezası gerektiren eylemin
 sonuçlarının, istekli olması koşulu ile çocuk tarafından onarma, tazmin etme veya eski hâle
-getirme suretiyle giderilmesidir. Bu disiplin cezasını gerektiren eylemler şunlardır:11
+getirme suretiyle giderilmesidir. Bu disiplin cezasını gerektiren eylemler şunlardır:12
 a) Başkasına ait eşyayı izinsiz almak, kullanmak.
 b) İdarece alınan sağlık önlemlerine uymamak.
 c) Çevre temizliğine dikkat etmemek, kurumu ve çevresini kirletmek.
@@ -44,10 +44,6 @@ k) Üzerinde bulundurulmasına izin verilmeyen veya bulundurabileceğinden fazla
 veya para bulundurmak.
 l) Yasaklanmış her tür yayını kuruma veya kuruma bağlı yerlere sokmak veya yanında
 bulundurmak.
-
-11 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkranın (d) bendine “temizliğini”
-ibaresinden sonra gelmek üzere “veya kendi yaşam alanının temizliğini” ibaresi eklenmiş ve aynı
-fıkranın (ı) bendinde yer alan “Kurum” ibaresi “Resmî kurumlardan, kurum” şeklinde değiştirilmiştir.
 m) Kurum eşyasına, kendisinin veya arkadaşlarının araç ve gereçlerine ahlâk dışı,
 ideolojik veya siyasî amaç taşıyan resim, amblem ve benzerlerini yapmak, yazılar yazmak ve
 asmak.
@@ -60,13 +56,17 @@ ve sportif faaliyetlere katılmaktan yoksun bırakılmasıdır. Bu disiplin ceza
 eylemler şunlardır:
 a) Kumar oynamak.
 b) Kavga etmek.
+
+12 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkranın (d) bendine “temizliğini”
+ibaresinden sonra gelmek üzere “veya kendi yaşam alanının temizliğini” ibaresi eklenmiş ve aynı
+fıkranın (ı) bendinde yer alan “Kurum” ibaresi “Resmî kurumlardan, kurum” şeklinde değiştirilmiştir.
 c) Dikkatsiz davranışı sonucu başkalarının güvenliğini veya sağlığını tehlikeye düşürmek.
 d) Katıldığı kurum dışı faaliyetlerden zamanında dönmemek ve uyması gereken
 koşullara uymamak.
 e) Kullanması için kendisine verilen bir şeyi satmak veya başkasına vermek.
 f) Kurum veya dış güvenlik görevlilerine rüşvet vermek.
 g) Suç örgütlerine ait her türlü yayın, bez afiş, pankart, resim, sembol, işaret ve
-benzeri eşyayı kurumun herhangi bir yerine asmak veya teşhir etmek ya da bulundurmak.12
+benzeri eşyayı kurumun herhangi bir yerine asmak veya teşhir etmek ya da bulundurmak.13
 h) Katıldığı faaliyetlerin akışını ve düzenini engelleyici ve bozucu nitelikte kastî
 davranışlarda bulunmak, faaliyeti yürüten kişinin uyarısına rağmen bu davranışlarına devam
 etmek.
@@ -78,16 +78,7 @@ esaslı ayrıcalıkların otuz gün süre ile geri alınmasıdır.
 (7) İznin ertelenmesi veya ziyaretlerin kapalı şekilde yaptırılması: Disiplin cezasını
 gerektiren eylemin niteliğine ve ağırlık derecesine göre çocuğun izninin altmış güne kadar
 ertelenmesi veya kapalı ceza infaz kurumlarında açık ziyaretlerin altmış güne kadar kapalı
-şekilde yaptırılmasıdır. Bu disiplin cezasını gerektiren eylemler şunlardır:13
-
-12 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu bende “teşhir etmek” ibaresinden
-sonra gelmek üzere “ya da bulundurmak” ibaresi eklenmiştir.
-13 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “İznin ertelenmesi”
-ibaresinden sonra gelmek üzere “veya ziyaretlerin kapalı şekilde yaptırılması” ibaresi eklenmiş, aynı
-fıkrada yer alan “kadar ertelenmesidir.” ibaresi “kadar ertelenmesi veya kapalı ceza infaz
-kurumlarında açık ziyaretlerin altmış güne kadar kapalı şekilde yaptırılmasıdır.” şeklinde ve aynı
-fıkranın (e) bendinde yer alan “ve yeni gelenlere satmak.” ibaresi “veya satmak ya da maddi menfaat
-karşılığı diğer çocuklara kullandırmak.” şeklinde değiştirilmiştir.
+şekilde yaptırılmasıdır. Bu disiplin cezasını gerektiren eylemler şunlardır:14
 a) Diğer çocuklar üzerinde nüfuz kurmak ve husumet hislerini tahrike çalışmak,
 imtiyaz ve menfaat hırsları yaratmak.
 b) Her türlü bağımlılık yapıcı maddeyi kuruma getirmek, kullanmak, bulundurmak,
@@ -96,11 +87,20 @@ c) Başkalarına ait para ve eşyayı almak için zor kullanmak, haraç almak.
 d) Taarruz ve firara yarayacak ve gerektiğinde bu işler için kullanılabilecek madde ve
 aletleri yapmak, saklamak, bulundurmak.
 e) İdareye ait olup kendisine verilmemiş bulunan yatak, battaniye, karyola ve dolap gibi
-eşyayı zapt etmek veya satmak ya da maddi menfaat karşılığı diğer çocuklara kullandırmak.13
+eşyayı zapt etmek veya satmak ya da maddi menfaat karşılığı diğer çocuklara kullandırmak.14
 f) Kurum görevlilerine hakaret etmek, karşı gelmek.
 g) Başkalarının güvenliğini veya sağlığını tehlikeye sokan davranışlarda bulunmak.
 h) Mazeretsiz olarak izinden dönmesi gereken zamandan geç dönmek ve uyması
 gereken koşullara uymamak.
+
+13 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu bende “teşhir etmek” ibaresinden
+sonra gelmek üzere “ya da bulundurmak” ibaresi eklenmiştir.
+14 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkraya “İznin ertelenmesi”
+ibaresinden sonra gelmek üzere “veya ziyaretlerin kapalı şekilde yaptırılması” ibaresi eklenmiş, aynı
+fıkrada yer alan “kadar ertelenmesidir.” ibaresi “kadar ertelenmesi veya kapalı ceza infaz
+kurumlarında açık ziyaretlerin altmış güne kadar kapalı şekilde yaptırılmasıdır.” şeklinde ve aynı
+fıkranın (e) bendinde yer alan “ve yeni gelenlere satmak.” ibaresi “veya satmak ya da maddi menfaat
+karşılığı diğer çocuklara kullandırmak.” şeklinde değiştirilmiştir.
 ı) Kuruma yasak eşya sokmak, başkasına vermek veya satmak.
 j) Okul, işyeri gibi gitmesi gereken bir yere gitmemek, katılması gereken faaliyetlere
 katılmamak.
@@ -121,15 +121,10 @@ yahut amacı dışında kullanmak.
 çocuklara ayrılan bölümlerine altı ay, bu fıkrada sayılan disiplin eylemlerinin ikinci veya daha
 fazla tekrarı hâlinde ise bir yıl süre ile iadesidir. Çocuk, bu fıkra dışında işlenen disiplin
 suçları ve disiplin cezalarından dolayı çocuk kapalı infaz kurumuna iade edilemez. Kapalı
-ceza infaz kurumuna iadeyi gerektiren eylemler şunlardır:14
-
-14 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkranın birinci cümlesine “altı ay”
-ibaresinden sonra gelmek üzere “, bu fıkrada sayılan disiplin eylemlerinin ikinci veya daha fazla
-tekrarı hâlinde ise bir yıl” ibaresi ve aynı fıkranın (a) bendine “dışında” ibaresinden sonra gelmek
-üzere “başkasını neticesi sebebiyle ağırlaşmış şekilde yaralamak ya da” ibaresi eklenmiştir.
+ceza infaz kurumuna iadeyi gerektiren eylemler şunlardır:15
 a) Kurum içinde veya dışında başkasını neticesi sebebiyle ağırlaşmış şekilde
 yaralamak ya da yaralayıcı, öldürücü her türlü âlet, silâh ve patlayıcı madde kullanmak
-suretiyle herhangi bir kimseyi yaralamaya teşebbüs etmek, yaralamak.14
+suretiyle herhangi bir kimseyi yaralamaya teşebbüs etmek, yaralamak.15
 b) Bir kimseyi rızası hilafına alıkoymak.
 c) Şiddet ve tehdit ile kurum görevlilerinin görevini engellemek.
 d) Firara teşebbüs etmek veya firar etmek.
@@ -141,6 +136,11 @@ g) Adam öldürmek veya öldürmeye teşebbüs etmek.
 h) Cinsel saldırı, çocukların cinsel istismarı ve cinsel tacizde bulunmak veya bunlara
 teşebbüs ve bu tür davranışlara kışkırtmak.
 ı) Görevlilere, diğer çocuklara işkence yapmak veya yaptırmak.
+
+15 14/4/2020 tarihli ve 7242 sayılı Kanunun 26 ncı maddesiyle, bu fıkranın birinci cümlesine “altı ay”
+ibaresinden sonra gelmek üzere “, bu fıkrada sayılan disiplin eylemlerinin ikinci veya daha fazla
+tekrarı hâlinde ise bir yıl” ibaresi ve aynı fıkranın (a) bendine “dışında” ibaresinden sonra gelmek
+üzere “başkasını neticesi sebebiyle ağırlaşmış şekilde yaralamak ya da” ibaresi eklenmiştir.
 (9) Odaya kapatma cezası: Sekizinci fıkrada belirtilen kapalı infaz kurumunda bulunan
 çocuğun, aynı fıkrada belirtilen eylemlerde bulunması hâlinde, beş güne kadar açık havaya
 çıkma hakkı saklı kalmak üzere, gece ve gündüz tek başına bir odada tutulmasıdır. Bu ceza,

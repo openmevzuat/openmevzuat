@@ -1,4 +1,4 @@
-# MADDE 240 — Mal veya hizmet satımından kaçınma98
+# MADDE 240 — Mal veya hizmet satımından kaçınma101
 
 (1) Belli bir mal veya hizmeti satmaktan kaçınarak kamu için acil bir
 ihtiyacın ortaya çıkmasına neden olan kişi, bir yıldan üç yıla kadar hapis cezası ile cezalandırılır.

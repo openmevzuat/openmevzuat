@@ -19,7 +19,7 @@ cezası ile cezalandırılır.
 hapis ve beşbin güne kadar adlî para cezası ile cezalandırılır. Bu ürünleri ülkeye sokan,
 çoğaltan, satışa arz eden, satan, nakleden, depolayan, ihraç eden, bulunduran ya da başkalarının
 kullanımına sunan kişi, iki yıldan beş yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
-cezalandırılır.93
+cezalandırılır.95
 (4) Şiddet kullanılarak, hayvanlarla, ölmüş insan bedeni üzerinde veya doğal olmayan
 yoldan yapılan cinsel davranışlara ilişkin yazı, ses veya görüntüleri içeren ürünleri üreten,
 ülkeye sokan, satışa arz eden, satan, nakleden, depolayan, başkalarının kullanımına sunan
@@ -30,7 +30,7 @@ veya yayınlanmasına aracılık eden ya da çocukların görmesini, dinlemesini
 sağlayan kişi, altı yıldan on yıla kadar hapis ve beşbin güne kadar adlî para cezası ile
 cezalandırılır.
 
-93 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
+95 24/3/2016 tarihli ve 6698 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “çocukları” ibaresi
 “çocukları, temsili çocuk görüntülerini veya çocuk gibi görünen kişileri” şeklinde değiştirilmiştir.
 (6) Bu suçlardan dolayı, tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.

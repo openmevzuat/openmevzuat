@@ -8,4 +8,4 @@ işlenmiş ise; ölenin ikinci dereceye kadar üstsoy ve altsoyu, eş veya karde
 
 DOKUZUNCU BÖLÜM
 Özel Hayata ve Hayatın Gizli Alanına Karşı Suçlar
-Haberleşmenin gizliliğini ihlal57
+Haberleşmenin gizliliğini ihlal59

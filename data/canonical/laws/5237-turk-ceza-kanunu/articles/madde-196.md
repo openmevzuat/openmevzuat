@@ -7,5 +7,5 @@ DÖRDÜNCÜ BÖLÜM
 Kamu Güvenine Karşı Suçlar
 Parada sahtecilik
 
-87 24/11/2016 tarihli ve 6763 sayılı Kanunun 17 nci maddesiyle, bu fıkraya “makamlara” ibaresinden
+89 24/11/2016 tarihli ve 6763 sayılı Kanunun 17 nci maddesiyle, bu fıkraya “makamlara” ibaresinden
 sonra gelmek üzere “veya sağlık kuruluşlarına” ibaresi eklenmiştir.

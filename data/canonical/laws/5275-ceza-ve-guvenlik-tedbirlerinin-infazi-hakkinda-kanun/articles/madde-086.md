@@ -10,12 +10,6 @@ sokulamaz. Ziyaret ve görüşlerde hükümlülere para, kıymetli evrak ve eşy
 olursa olsun, ceza infaz kurumlarına girenler duyarlı kapıdan geçmek zorundadır. Bu kişilerin
 üstleri metal dedektörle aranır; eşyaları x-ray cihazından veya benzeri güvenlik sistemlerinden
 geçirilir, ayrıca şüphe hâlinde elle aranır. Bu cihazların bulunmadığı yerlerde arama ve
-
-31 Bu madde başlığı “Heyetlerin ceza infaz kurumlarını ziyaretleri” iken, 8/8/2011 tarihli ve 650 sayılı
-KHK’nin 28 inci maddesiyle metne işlendiği şekilde değiştirilmiş olup, daha sonra Anayasa
-Mahkemesi’nin 18/7/2012 tarihli ve E.: 2011/113 K.: 2012/108 sayılı Kararı ile bu maddenin başlığı
-ve birinci fıkrası iptal edilmiş ve 27/6/2013 tarihli ve 6494 sayılı Kanunun 26 ncı maddesiyle bu
-maddenin başlığı metne işlendiği şekilde yeniden düzenlenmiştir.
 kontrol elle yapılır. Ancak milletvekilleri, mülkî amirler, hâkim, Cumhuriyet savcıları ve bu
 sınıftan sayılanlar, avukatlar, noterler, ceza infaz kurumları ve tutukevleri kontrolörleri,
 izleme kurulu başkan ve üyeleri, uluslararası sözleşmelerle yetkileri tanınmış kişi ve

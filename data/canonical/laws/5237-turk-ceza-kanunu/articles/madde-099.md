@@ -10,7 +10,7 @@ yıla kadar hapis veya adlî para cezasına hükmolunur.
 uğramasına neden olmuşsa, kişi altı yıldan oniki yıla kadar hapis cezası ile cezalandırılır;
 fiilin kadının ölümüne neden olması halinde, onbeş yıldan yirmi yıla kadar hapis cezasına
 
-47 8/7/2021 tarihli ve 7331 sayılı Kanunun 8 inci maddesiyle, bu bende “eşe” ibaresinden sonra
+49 8/7/2021 tarihli ve 7331 sayılı Kanunun 8 inci maddesiyle, bu bende “eşe” ibaresinden sonra
 gelmek üzere “veya boşandığı eşe” ibaresi eklenmiştir.
 hükmolunur.
 (4) İkinci fıkrada yazılı fiil kadının beden veya ruh sağlığı bakımından bir zarara

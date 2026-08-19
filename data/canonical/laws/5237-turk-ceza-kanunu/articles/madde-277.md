@@ -1,13 +1,8 @@
-# MADDE 277 — Yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye teşebbüs107
+# MADDE 277 — Yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye teşebbüs110
 
 (Değişik: 2/7/2012-6352/90md.)
-(1) Görülmekte olan bir davada (…)108 gerçeğin ortaya çıkmasını engellemek veya bir
-
-106 3/11/2016 tarihli ve 6754 sayılı Kanunun 41 inci maddesiyle, bu fıkrada yer alan “bir yıldan üç
-yıla” ibaresi “üç yıldan yedi yıla” şeklinde değiştirilmiştir.
-107 2/7/2012 tarihli ve 6352 sayılı Kanunun 90 ıncı maddesiyle bu madde başlığı “Yargı görevi yapanı
-etkileme” iken metne işlendiği şekilde değiştirilmiştir.
-haksızlık oluşturmak amacıyla, davanın taraflarından birinin, (…)108 sanığın, katılanın veya
+(1) Görülmekte olan bir davada (…)111 gerçeğin ortaya çıkmasını engellemek veya bir
+haksızlık oluşturmak amacıyla, davanın taraflarından birinin, (…)111 sanığın, katılanın veya
 mağdurun lehine veya aleyhine sonuç doğuracak bir karar vermesi veya bir işlem tesis etmesi
 ya da beyanda bulunması için, yargı görevi yapanı, bilirkişiyi veya tanığı hukuka aykırı olarak
 etkilemeye teşebbüs eden kişi, iki yıldan dört yıla kadar hapis cezası ile cezalandırılır. (Ek

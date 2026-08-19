@@ -1,14 +1,14 @@
-# MADDE 220 — Suç işlemek amacıyla örgüt kurma8990
+# MADDE 220 — Suç işlemek amacıyla örgüt kurma9192
 
 (1) Kanunun suç saydığı fiilleri işlemek amacıyla örgüt kuranlar veya
 yönetenler, örgütün yapısı, sahip bulunduğu üye sayısı ile araç ve gereç bakımından amaç
 suçları işlemeye elverişli olması halinde, beş yıldan on yıla kadar hapis cezası ile
 cezalandırılır. Ancak, örgütün varlığı için üye sayısının en az üç kişi olması gerekir.
 
-89 14/4/2020 tarihli ve 7242 sayılı Kanunun 13 üncü maddesiyle, birinci fıkrada yer alan “iki yıldan
+91 14/4/2020 tarihli ve 7242 sayılı Kanunun 13 üncü maddesiyle, birinci fıkrada yer alan “iki yıldan
 altı yıla” ibaresi “dört yıldan sekiz yıla” ve ikinci fıkrada yer alan “bir yıldan üç yıla” ibaresi “iki
 yıldan dört yıla” şeklinde değiştirilmiştir.
-90 24/12/2025 tarihli ve 7571 sayılı Kanunun 20 nci maddesiyle bu maddenin birinci fıkrasında yer
+92 24/12/2025 tarihli ve 7571 sayılı Kanunun 20 nci maddesiyle bu maddenin birinci fıkrasında yer
 alan “dört yıldan sekiz yıla” ibaresi “beş yıldan on yıla”, ikinci fıkrasında yer alan “dört yıla”
 ibaresi “beş yıla”, üçüncü fıkrasında yer alan “dörtte birinden yarısına kadar” ibaresi “yarısı
 oranında” şeklinde değiştirilmiştir.
@@ -31,6 +31,6 @@ birlikte, örgüte bilerek ve isteyerek yardım eden kişi, örgüt üyesi olara
 (8) Örgütün cebir, şiddet veya tehdit içeren yöntemlerini meşru gösterecek veya
 övecek ya da bu yöntemlere başvurmayı teşvik edecek şekilde propagandasını yapan kişi, bir
 yıldan üç yıla kadar hapis cezası ile cezalandırılır. Bu suçun basın ve yayın yolu ile işlenmesi
-halinde, verilecek ceza yarı oranında artırılır.91
+halinde, verilecek ceza yarı oranında artırılır.93
 
 Etkin pişmanlık

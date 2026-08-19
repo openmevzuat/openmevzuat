@@ -4,9 +4,9 @@
 biçimde ya da kişilerde korku, kaygı veya panik yaratabilecek tarzda;
 a) Yangın çıkaran,
 
-72 2/7/2012 tarihli ve 6352 sayılı Kanunun 84 üncü maddesiye bu fıkrada yer alan “ve karşılıksız
+74 2/7/2012 tarihli ve 6352 sayılı Kanunun 84 üncü maddesiye bu fıkrada yer alan “ve karşılıksız
 yararlanma” ibaresi madde metninden çıkarılmıştır.
-73 24/12/2025 tarihli ve 7571 sayılı Kanunun 19 uncu maddesiyle birinci fıkrada yer alan “altı aydan
+75 24/12/2025 tarihli ve 7571 sayılı Kanunun 19 uncu maddesiyle birinci fıkrada yer alan “altı aydan
 üç yıla” ibaresi “bir yıldan beş yıla” şeklinde değiştirilmiş maddeye birinci fıkradan sonra gelmek
 üzere fıkra eklenmiş ve diğer fıkra buna göre teselsül ettirilmiştir.
 b) Bina çökmesine, toprak kaymasına, çığ düşmesine, sel veya taşkına neden olan,

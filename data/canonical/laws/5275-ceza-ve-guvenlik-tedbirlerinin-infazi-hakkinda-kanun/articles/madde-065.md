@@ -4,6 +4,9 @@
 bulunmayan sıfır-altı yaş grubundaki çocuklar, analarının yanında kalabilirler. Bu çocuklar
 gündüzleri ceza infaz kurumu bünyesindeki veya Sosyal Hizmetler ve Çocuk Esirgeme
 Kurumu veya diğer kurum ve kuruluşlara ait kreş ve gündüz bakımevlerinde barındırılırlar.
+
+27 2/7/2018 tarihli ve 700 sayılı KHK’nin 160 ıncı maddesiyle, bu fıkrada yer alan “Bakanlar
+Kurulunca” ibaresi “Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 (2) Analarının yanında kalan çocuklara, yaş ve durumlarına ve ihtiyaçlarına göre
 yiyecek ve içecek verilir.
 (3) Üç yaşını doldurmuş çocuklar, hâkim kararıyla çocuk yuvalarına veya yetiştirme

@@ -9,9 +9,6 @@ cezalandırılır.
 getirilmesine ilişkin teslim emrine aykırı hareket edenler ile emrin gereğinin yerine
 getirilmesini engelleyenler, bir ay içinde yapılacak şikâyet üzerine, üç günden on güne kadar
 disiplin hapsiyle cezalandırılır.
-
-5 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu bu fıkranın birinci cümlesinde yer
-alan “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 (3) Kişisel ilişki kurulması için kendisine çocuk teslim edilen hak sahibi, ilam veya
 tedbir kararında belirtilen sürenin bitiminde çocuğu belirlenen yere getirmezse, bir ay içinde
 yapılacak şikâyet üzerine, fiil suç teşkil etse dahi, üç aya kadar disiplin hapsi ile cezalandırılır.
@@ -25,6 +22,9 @@ verileceği ihtar olunur. Mahkeme, duruşmaya gelen şikâyet olunanın, 5271 sa
 yapar; dosyadaki delilleri değerlendirir; şikâyet olunanın teslim emrine aykırı hareket ettiğini
 veya emrin gereğinin yerine getirilmesini engellediğini yahut sürenin bitiminde çocuğu
 belirlenen yere getirmediğini tespit ederse disiplin hapsi ile cezalandırılmasına, aksi takdirde
+
+20 2/3/2024 tarihli ve 7499 sayılı Kanunun 37 nci maddesi ile bu bu fıkranın birinci cümlesinde yer
+alan “bir hafta” ibaresi “iki hafta” şeklinde değiştirilmiştir.
 şikâyetin reddine karar verir.
 (6) Disiplin hapsi ile cezalandırmaya ilişkin kararlar, kesinleşmesini müteakip
 Cumhuriyet başsavcılığı tarafından infaz edilir. Bu kararlar kesinleştiği tarihten itibaren iki yıl

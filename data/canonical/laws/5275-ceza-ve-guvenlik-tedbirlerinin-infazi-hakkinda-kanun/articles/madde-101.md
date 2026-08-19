@@ -2,8 +2,13 @@
 
 (1) Cezanın infazı sırasında, 98 ilâ 100 üncü maddeler gereğince
 mahkemeden veya infaz hâkimliğinden alınması gereken kararlar duruşma yapılmaksızın
+
+40 14/4/2020 tarihli ve 7242 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “mahkemeden”
+ibaresi “infaz hâkimliğinden” şeklinde değiştirilmiştir.
+41 14/4/2020 tarihli ve 7242 sayılı Kanunun 43 üncü maddesiyle, bu fıkrada yer alan “mahkemeden”
+ibaresi “infaz hâkimliğinden” şeklinde değiştirilmiştir.
 verilir. Karar verilmeden önce Cumhuriyet savcısı ve hükümlünün görüşlerini yazılı olarak
-bildirmeleri istenebilir.41
+bildirmeleri istenebilir.42
 (2) (Değişik:14/4/2020-7242/44 md.) 99 uncu madde gereğince cezaların toplanması
 gerektiğinde bu hususta hüküm verme yetkisi, en fazla cezaya hükmetmiş bulunan mahkemenin
 bulunduğu yer infaz hâkimliğine, bu durumda birden çok infaz hâkimliği yetkili ise son hükmü
@@ -23,10 +28,4 @@ Salıverilme Öncesi ve Sonrası Hükümlüye ve Eski Hükümlüye Yardım
 
 BİRİNCİ BÖLÜM
 İnfaz Kurumuna Dış Yardımlar ve Hükümlüler Arası Yardımlaşmalar
-
-39 14/4/2020 tarihli ve 7242 sayılı Kanunun 42 nci maddesiyle, bu fıkrada yer alan “mahkemeden”
-ibaresi “infaz hâkimliğinden” şeklinde değiştirilmiştir.
-40 14/4/2020 tarihli ve 7242 sayılı Kanunun 43 üncü maddesiyle, bu fıkrada yer alan “mahkemeden”
-ibaresi “infaz hâkimliğinden” şeklinde değiştirilmiştir.
-41 14/4/2020 tarihli ve 7242 sayılı Kanunun 44 üncü maddesiyle, bu fıkraya “mahkemeden”
-ibaresinden sonra gelmek üzere “veya infaz hâkimliğinden” ibaresi eklenmiştir.
+İnfaz kurumuna dış yardımlar

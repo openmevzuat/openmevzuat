@@ -8,7 +8,7 @@ olarak ödenen tutarlar birinci fıkrada belirtilen gelir ölçütünün geçild
 birlikte takip ve tahsil edilir. Söz konusu gelir ölçütünün bir kat veya daha fazla aşılması
 halinde yapılan yersiz ödemenin tamamı yasal faizi ile birlikte tahsil edilir. Bu maddenin
 yürürlüğe girdiği tarihten önce bu kapsamda tahsil edilmiş olan tutarlar bakımından ilgili
-kişiler lehine hiçbir şekilde alacak hakkı doğmaz.38
+kişiler lehine hiçbir şekilde alacak hakkı doğmaz.39
 
-38 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
+39 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu maddenin birinci fıkrasında yer alan
 “özürlüye” ibaresi “engelliye” şeklinde değiştirilmiştir.

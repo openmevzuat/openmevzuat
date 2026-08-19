@@ -14,7 +14,7 @@ amirinin kırksekiz saati geçmeyecek şekilde belirleyeceği süre içinde, nak
 kurumuna giriş yapması gerekir. Belirlenen sürelerde açık ceza infaz kurumuna giriş yapmayan
 hükümlüler hakkında 97 nci madde hükümleri uygulanır.
 (4) Görevli nezaretinde yapılan nakiller sırasında hükümlünün iaşe ve bedensel
-ihtiyaçları giderilir.21
+ihtiyaçları giderilir.22
 
 ÜÇÜNCÜ KISIM
 Ceza İnfaz Kurumunda Hükümlünün Hakları, Güvenceleri ve Kısıtlamalar

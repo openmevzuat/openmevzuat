@@ -1,8 +1,8 @@
-# MADDE 122 — Nefret ve ayırımcılık55
+# MADDE 122 — Nefret ve ayırımcılık57
 
 (Değişik: 2/3/2014-6529/15 md.)
 
-552/3/2014 tarihli ve 6529 sayılı Kanunun 15 inci maddesiyle bu madde başlığı “Ayırımcılık” iken,
+572/3/2014 tarihli ve 6529 sayılı Kanunun 15 inci maddesiyle bu madde başlığı “Ayırımcılık” iken,
 metne işlendiği şekilde değiştirilmiştir.
 (1) Dil, ırk, milliyet, renk, cinsiyet, engellilik, siyasi düşünce, felsefi inanç, din veya
 mezhep farklılığından kaynaklanan nefret nedeniyle;

@@ -19,7 +19,7 @@ olmadığına dair karar verilmiş olması koşuluyla; yalan tanıklık yapan ki
 hürriyetinden yoksun kılma suçuna ilişkin hükümlere göre dolaylı fail olarak sorumlu tutulur.
 (6) Aleyhine tanıklıkta bulunulan kimsenin ağırlaştırılmış müebbet hapis veya
 müebbet hapis cezasına mahkûmiyeti halinde, yirmi yıldan otuz yıla kadar hapis cezasına;
-(…)105 hükmolunur.
+(…)108 hükmolunur.
 (7) Aleyhine tanıklıkta bulunulan kimsenin mahkûm olduğu hapis cezasının infazına
 başlanmış ise, altıncı fıkraya göre verilecek ceza yarısı kadar artırılır.
 (8) Aleyhine tanıklıkta bulunulan kişi hakkında hapis cezası dışında adlî veya idari bir

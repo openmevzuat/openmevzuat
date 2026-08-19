@@ -9,14 +9,16 @@ mermiler, Türk Silahlı Kuvvetleri bünyesindeki subay, astsubay ve uzman erba�
 Jandarma Genel Komutanlığı ve Sahil Güvenlik Komutanlığınca temin edilen tabanca ve
 mermiler, kendi bünyelerindeki subay, astsubay, uzman jandarma ve uzman erbaşlara;
 Emniyet Genel Müdürlüğünce temin edilen tabanca ve mermiler, emniyet hizmetleri sınıfı
+
+“Cumhurbaşkanınca” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7078 sayılı
+Kanunun 21 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+15 2/7/2018 tarihli ve 703 sayılı KHK’nin 33 üncü maddesiyle, bu fıkrada yer alan “adı geçen İdarenin
+görüşü alınarak İçişleri Bakanlığınca hazırlanıp Bakanlar Kurulu Kararı ile” ibaresi
+“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 personeline; Ticaret Bakanlığınca satın alınan tabanca ve mermiler, Ticaret Bakanlığının
 merkez ve taşra teşkilatında silah taşıma yetkisini haiz personele, görevlerinde kullanmak
 üzere bedeli mukabili zati demirbaş silah olarak satılır. Satılan silahların ayrılma, ihraç ve
 benzeri sebeplerle geri alınma usul ve esasları ile satılma şekil ve şartları, zayi, hasar, onarım,
-
-15 2/7/2018 tarihli ve 703 sayılı KHK’nin 33 üncü maddesiyle, bu fıkrada yer alan “adı geçen İdarenin
-görüşü alınarak İçişleri Bakanlığınca hazırlanıp Bakanlar Kurulu Kararı ile” ibaresi
-“Cumhurbaşkanınca” şeklinde değiştirilmiştir.
 kadro standardı dışı bırakılması, eğitim ve görevde kullanılan mermilerin bedelli veya
 bedelsiz temini ve diğer hususlar çıkarılan yönetmeliklerle belirlenir.
 (Değişik ikinci fıkra: 14/7/2004-5217/16 md.) Bu Kanuna göre yapılan satışlardan

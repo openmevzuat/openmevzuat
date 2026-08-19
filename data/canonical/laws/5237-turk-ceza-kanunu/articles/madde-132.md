@@ -5,7 +5,7 @@ yıldan üç yıla kadar hapis cezası ile cezalandırılır. Bu gizlilik ihlali
 kaydı suretiyle gerçekleşirse, verilecek ceza bir kat artırılır.
 (2) Kişiler arasındaki haberleşme içeriklerini hukuka aykırı olarak ifşa eden kimse, iki
 
-57 2/7/2012 tarihli ve 6352 sayılı Kanunun 79 uncu maddesiyle, bu maddenin birinci fıkrasında yer
+59 2/7/2012 tarihli ve 6352 sayılı Kanunun 79 uncu maddesiyle, bu maddenin birinci fıkrasında yer
 alan “altı aydan iki yıla kadar hapis veya adlî para” ibaresi “bir yıldan üç yıla kadar hapis” ve “bir
 yıldan üç yıla kadar hapis cezasına hükmolunur” ibaresi ise “verilecek ceza bir kat artırılır” şeklinde;
 ikinci fıkrasında yer alan “bir yıldan üç yıla kadar hapis” ibaresi “iki yıldan beş yıla kadar hapis”

@@ -6,8 +6,5 @@ kâtibinin ve Kanunun zorunlu müdafiliği kabul ettiği hâllerde müdafiin haz
 mazeretsiz olarak duruşmaya gelmemesi veya duruşmayı terk etmesi halinde duruşmaya devam
 edilebilir.70
 (2) (Mülga: 18/6/2014 - 6545/103 md.)
-
-70 20/11/2017 tarihli ve 696 sayılı KHK’nin 96 ncı maddesiyle bu fıkrada yer alan “mazeretsiz
-olarak” ibaresinden sonra gelmek üzere “duruşmaya gelmemesi veya” ibaresi eklenmiştir.
 (3) Bir oturumda bitmeyecek davada, herhangi bir nedenle bulunamayacak üyenin
 yerine geçmek ve oya katılmak üzere yedek üye bulundurulabilir.

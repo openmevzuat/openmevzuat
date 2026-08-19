@@ -9,7 +9,7 @@ a) Silahla,
 b) Birden fazla kişi tarafından birlikte,
 c) Kişinin yerine getirdiği kamu görevi nedeniyle,
 d) Kamu görevinin sağladığı nüfuz kötüye kullanılmak suretiyle,
-e) Üstsoy, altsoy veya eşe ya da boşandığı eşe karşı,52
+e) Üstsoy, altsoy veya eşe ya da boşandığı eşe karşı,54
 f) Çocuğa ya da beden veya ruh bakımından kendini savunamayacak durumda bulunan
 kişiye karşı,
 İşlenmesi halinde, yukarıdaki fıkralara göre verilecek ceza bir kat artırılır.

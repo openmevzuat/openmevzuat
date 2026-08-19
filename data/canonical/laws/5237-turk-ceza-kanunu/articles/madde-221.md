@@ -15,10 +15,10 @@ gönüllü olarak teslim olup, örgütün yapısı ve faaliyeti çerçevesinde i
 vermesi halinde, hakkında örgüt kurmak, yönetmek veya örgüte üye olmak suçundan dolayı
 cezaya hükmolunmaz. Kişinin bu bilgileri yakalandıktan sonra vermesi halinde, hakkında bu
 
-91 11/4/2013 tarihli ve 6459 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “veya amacının”
+93 11/4/2013 tarihli ve 6459 sayılı Kanunun 11 inci maddesiyle, bu fıkrada yer alan “veya amacının”
 ibaresi “cebir, şiddet veya tehdit içeren yöntemlerini meşru gösterecek veya övecek ya da bu
 yöntemlere başvurmayı teşvik edecek şekilde” şeklinde değiştirilmiştir.
-suçtan dolayı verilecek cezada üçte birden dörtte üçe kadar indirim yapılır.92
+suçtan dolayı verilecek cezada üçte birden dörtte üçe kadar indirim yapılır.94
 (5) Etkin pişmanlıktan yararlanan kişiler hakkında bir yıl süreyle denetimli serbestlik
 tedbirine hükmolunur. Denetimli serbestlik tedbirinin süresi üç yıla kadar uzatılabilir.
 (6) (Ek: 6/12/2006 – 5560/8 md.) Kişi hakkında, bu maddedeki etkin pişmanlık

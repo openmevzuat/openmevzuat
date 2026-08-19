@@ -9,17 +9,19 @@ a) Türk Ceza Kanununda yer alan;
 2. Genel güvenliğin kasten tehlikeye sokulması (madde 170, birinci ve üçüncü fıkra),90
 3. Trafik güvenliğini tehlikeye sokma (madde 179, ikinci ve üçüncü fıkra),
 4. Gürültüye neden olma (madde 183),
+
+88 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “ilânına”
+ibaresinden sonra gelmek üzere “sulh ceza hâkimince veya” ibaresi eklenmiştir.
+89 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Mahkeme”
+ibaresi “Sulh ceza hâkimi veya mahkeme” şeklinde değiştirilmiştir.
+90 24/12/2025 tarihli ve 7571 sayılı Kanunun 23 üncü maddesiyle bu alt bentte yer alan “(madde
+170)” ibaresi “(madde 170, birinci ve üçüncü fıkra)” şeklinde değiştirilmiştir.
 5. Parada sahtecilik (madde 197, ikinci ve üçüncü fıkra),
 6. Mühür bozma (madde 203),
 7. Resmi belgenin düzenlenmesinde yalan beyan (madde 206),
 8. Kumar oynanması için yer ve imkan sağlama (madde 228, birinci fıkra),
 9. Başkasına ait kimlik veya kimlik bilgilerinin kullanılması (madde 268),
 suçları.
-
-89 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “Mahkeme”
-ibaresi “Sulh ceza hâkimi veya mahkeme” şeklinde değiştirilmiştir.
-90 24/12/2025 tarihli ve 7571 sayılı Kanunun 23 üncü maddesiyle bu alt bentte yer alan “(madde
-170)” ibaresi “(madde 170, birinci ve üçüncü fıkra)” şeklinde değiştirilmiştir.
 b) 10/7/1953 tarihli ve 6136 sayılı Ateşli Silahlar ve Bıçaklar ile Diğer Aletler
 Hakkında Kanunun 13 üncü maddesinin üçüncü fıkrası ile 15 inci maddesinin birinci, ikinci
 ve üçüncü fıkralarında belirtilen suçlar.91
@@ -50,18 +52,18 @@ yazılı olarak görevli mahkemeden talep eder. Talep yazısında;
 a) Şüphelinin kimliği ve müdafii,
 b) Mağdur veya suçtan zarar görenlerin kimliği ile varsa vekili veya kanuni temsilcisi,
 c) İsnat olunan suç ve ilgili kanun maddeleri,
-d) İsnat olunan suçun işlendiği yer, tarih ve zaman dilimi,
-e) Şüphelinin tutuklu olup olmadığı; tutuklanmış ise, gözaltına alma ve tutuklama
-tarihleri ile bunların süreleri,
-f) İsnat olunan suçu oluşturan olayların özeti,
-g) Üçüncü fıkrada belirtilen şartların gerçekleştiği,
-h) Belirlenen yaptırım ile beşinci ve altıncı fıkra uygulanmış ise bunlara ilişkin
 
 91 21/11/2024 tarihli ve 7533 sayılı Kanunun 34 üncü maddesi ile bu bentte yer alan “birinci, üçüncü
 ve beşinci fıkraları” ibaresi “üçüncü fıkrası” şeklinde değiştirilmiştir.
 92 8/7/2021 tarihli ve 7331 sayılı Kanunun 22 nci maddesiyle, bu fıkraya “temel cezadan” ibaresinden
 sonra gelmek üzere “ve koşulları bulunduğu takdirde zincirleme suça ilişkin hükümler uygulandıktan
 sonra belirlenen cezadan” ibaresi eklenmiştir.
+d) İsnat olunan suçun işlendiği yer, tarih ve zaman dilimi,
+e) Şüphelinin tutuklu olup olmadığı; tutuklanmış ise, gözaltına alma ve tutuklama
+tarihleri ile bunların süreleri,
+f) İsnat olunan suçu oluşturan olayların özeti,
+g) Üçüncü fıkrada belirtilen şartların gerçekleştiği,
+h) Belirlenen yaptırım ile beşinci ve altıncı fıkra uygulanmış ise bunlara ilişkin
 hususlar ve güvenlik tedbirleri,
 gösterilir. (Ek cümle:8/7/2021-7331/22 md.) Bu fıkraya aykırı olarak düzenlendiği,
 belirlenen yaptırımda maddi hata yapıldığı, yaptırım hakkında 231 inci veya Türk Ceza
@@ -89,10 +91,6 @@ girmeyen başka bir suçla birlikte işlenmiş olması hâlinde uygulanmaz.
 (12) Seri muhakeme usulü, yaş küçüklüğü ve akıl hastalığı (…)94 hâllerinde
 uygulanmaz.
 (13) Resmî mercilere beyan edilmiş olup da soruşturma dosyasında yer alan adreste
-bulunmama veya yurt dışında olma ya da başka bir nedenle şüpheliye ulaşılamaması hâlinde,
-seri muhakeme usulü uygulanmaz. 95
-(14) (Değişik:8/7/2021-7331/22 md.) Dokuzuncu fıkra kapsamında mahkemece
-kurulan hükme itiraz edilebilir. İtiraz mercii, itirazı üçüncü ve dokuzuncu fıkralardaki şartlar
 
 93 8/7/2021 tarihli ve 7331 sayılı Kanunun 22 nci maddesiyle, bu fıkrada yer alan “şartların
 gerçekleştiği ve eylemin seri muhakeme usulü kapsamında olduğu kanaatine varırsa talepte belirlenen
@@ -102,9 +100,10 @@ talep yazısında belirtilen yaptırımdan daha ağır olmamak üzere dört ila 
 doğrultusunda” şeklinde değiştirilmiştir.
 94 Anayasa Mahkemesinin 5/11/2024 Tarihli ve E: 2024/66, K: 2024/188 Sayılı Kararı ile bu fıkrada
 yer alan "… ile sağır ve dilsizlik..." ibaresi iptal edilmiştir.
-95 Anayasa Mahkemesinin 10/9/2025 Tarihli ve E: 2025/51, K: 2025/184 Sayılı Kararı ile bu fıkrada
-yer alan “ya da başka bir nedenle şüpheliye ulaşılamaması” ibaresi iptal edilmiştir. Bu Karar Resmî
-Gazete’de yayımlanmasından başlayarak dokuz ay sonra (3/9/2026) yürürlüğe girer.
+bulunmama veya yurt dışında olma ya da başka bir nedenle şüpheliye ulaşılamaması hâlinde,
+seri muhakeme usulü uygulanmaz. 95
+(14) (Değişik:8/7/2021-7331/22 md.) Dokuzuncu fıkra kapsamında mahkemece
+kurulan hükme itiraz edilebilir. İtiraz mercii, itirazı üçüncü ve dokuzuncu fıkralardaki şartlar
 yönünden inceler.
 (15) Bu maddenin uygulanmasına ilişkin usul ve esaslar Adalet Bakanlığı tarafından
 çıkarılan yönetmelikle belirlenir.

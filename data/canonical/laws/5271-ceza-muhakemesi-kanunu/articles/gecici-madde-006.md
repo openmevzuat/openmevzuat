@@ -10,13 +10,13 @@ değişiklikten önceki hükümlerin uygulanmasına devam olunur.
 b) Kovuşturmaya yer olmadığına dair karara itiraz süresine ilişkin olarak 173 üncü
 maddenin birinci fıkrasında yapılan değişiklik, 1/6/2024 tarihinde ve sonrasında verilen
 
-147 Anayasa Mahkemesinin 25/6/2020 tarihli ve E.:2020/16; K.:2020/33 sayılı Kararı ile bu fıkrada yer
+148 Anayasa Mahkemesinin 25/6/2020 tarihli ve E.:2020/16; K.:2020/33 sayılı Kararı ile bu fıkrada yer
 alan “kovuşturma evresine geçilmiş” ibaresinin aynı bentte yer alan "basit yargılama usulü"
 yönünden Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
-148 Anayasa Mahkemesinin 14/1/2021 tarihli ve E.:2020/81; K.:2021/4 sayılı Kararı ile bu fıkrada yer
+149 Anayasa Mahkemesinin 14/1/2021 tarihli ve E.:2020/81; K.:2021/4 sayılı Kararı ile bu fıkrada yer
 alan “…hükme bağlanmış…” ibaresinin aynı bentte yer alan "basit yargılama usulü" yönünden
 Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
-149 Anayasa Mahkemesinin 21/4/2022 tarihli ve E.:2020/87; K.:2022/44 sayılı Kararı ile bu bentte yer
+150 Anayasa Mahkemesinin 21/4/2022 tarihli ve E.:2020/87; K.:2022/44 sayılı Kararı ile bu bentte yer
 alan “…kovuşturma evresine geçilmiş, hükme bağlanmış…” ibaresinin "seri muhakeme usulü"
 yönünden Anayasa'ya aykırı olduğuna ve iptaline karar verilmiştir.
 kararlar hakkında uygulanır. Bu tarihten önce verilen kararlar hakkında bu maddeyi ihdas

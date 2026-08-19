@@ -118,9 +118,9 @@ hizmet kuruluşlarını,12
 harcamaların yapılması, takibi, denetlenmesi ve çocuk evleri arasındaki koordinasyonun
 sağlanması amacıyla oluşturulan merkezleri,
 17. (Ek:22/4/2026-7578/4 md.) “Çocuk Koruma İlk Müdahale ve Değerlendirme
-Merkezi”; Korunma ihtiyacı olan veya suça sürüklenen çocuklar hakkında uygun hizmet
-modeli belirleninceye veya mahkeme kararı alınıncaya kadar geçici bir süre barınma ve temel
-gereksinimleri karşılamak üzere açılan güvenlikli yatılı sosyal hizmet kuruluşlarını,
+Merkezi”; Korunma ihtiyacı olan veya adli süreçteki çocuklar hakkında uygun hizmet modeli
+belirleninceye veya mahkeme kararı alınıncaya kadar geçici bir süre barınma ve temel
+gereksinimleri karşılamak üzere açılan güvenlikli yatılı sosyal hizmet kuruluşlarını,13
 g) "Kurum"; bu Kanunla kurulan Sosyal Hizmetler ve Çocuk Esirgeme Kurumu Genel
 Müdürlüğünü,
 h) (Ek:22/4/2026-7578/4 md.) “İhtisaslaşma”; Çocuk bakım kuruluşlarının,
@@ -140,3 +140,8 @@ destekli kamera sistemlerince yapılan yerel kayıtların eş zamanlı olarak ak
 İfade eder.
 
 Genel esaslar:
+
+12 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu alt bentte yer alan “özürlü” ibaresi
+“engelli” şeklinde değiştirilmiştir.
+13 8/8/2026 tarihli ve 7593 sayılı Kanunun 15 inci maddesiyle bu alt bentte yer alan “suça
+sürüklenen” ibaresi “adli süreçteki” şeklinde değiştirilmiştir.

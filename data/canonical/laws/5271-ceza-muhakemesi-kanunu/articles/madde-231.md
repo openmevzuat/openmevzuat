@@ -10,15 +10,15 @@ bildirilir.
 suçtan dolayı yapılan yargılama sonunda hükmolunan ceza, iki yıl veya daha az süreli hapis
 veya adlî para cezası ise; mahkemece, hükmün açıklanmasının geri bırakılmasına karar
 verilebilir. Uzlaşmaya ilişkin hükümler saklıdır. Hükmün açıklanmasının geri bırakılması,
-müsadereye ilişkin hükümler hariç, kurulan hükmün sanık hakkında bir hukukî sonuç
-doğurmamasını ifade eder.
-(6) (Ek: 6/12/2006-5560/23 md.) (Değişik:16/7/2026-7589/15 md.) Hükmün
 
 76 Bu madde başlığı “Hükmün açıklanması” iken, 6/12/2006 tarihli ve 5560 sayılı Kanunun 23 üncü
 maddesiyle metne işlendiği şekilde değiştirilmiştir
 77 Anayasa Mahkemesinin 10/7/2025 tarihli ve E.: 2024/98, K.: 2025/149 sayılı Kararı ile bu maddenin 5 inci, 6
 ncı, 7 nci, 8 inci, 9 uncu, 10 uncu, 11 inci, 12 nci, 13 üncü ve 14 üncü fıkraları iptal edilmiştir. Bu Karar
 yayımlanmasından başlayarak dokuz ay sonra (30/9/2026) yürürlüğe girer.
+müsadereye ilişkin hükümler hariç, kurulan hükmün sanık hakkında bir hukukî sonuç
+doğurmamasını ifade eder.
+(6) (Ek: 6/12/2006-5560/23 md.) (Değişik:16/7/2026-7589/15 md.) Hükmün
 açıklanmasının geri bırakılmasına karar verilebilmesi için;
 a) Sanığın daha önce kasıtlı bir suçtan mahkûm olmamış bulunması,
 b) Mahkemece, sanığın kişilik özellikleri ile duruşmadaki tutum ve davranışları göz

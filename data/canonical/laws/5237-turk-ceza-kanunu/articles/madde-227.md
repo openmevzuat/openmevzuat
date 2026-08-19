@@ -23,6 +23,6 @@ suretiyle işlenmesi halinde, verilecek ceza yarı oranında artırılır.
 işlenmesi halinde, yukarıdaki fıkralara göre verilecek ceza yarı oranında artırılır.
 (7) Bu suçlardan dolayı, tüzel kişiler hakkında bunlara özgü güvenlik tedbirlerine
 hükmolunur.
-(8) Fuhşa sürüklenen kişi, tedaviye veya psikolojik terapiye tâbi tutulabilir.94
+(8) Fuhşa sürüklenen kişi, tedaviye veya psikolojik terapiye tâbi tutulabilir.96
 
-Kumar oynanması için yer ve imkan sağlama95
+Kumar oynanması için yer ve imkan sağlama97

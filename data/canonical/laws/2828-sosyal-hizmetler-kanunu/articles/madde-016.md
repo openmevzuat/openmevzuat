@@ -14,7 +14,7 @@ hükümlerine tabi olmaksızın ve Borçlar Kanunu hükümlerine göre sözleşm
 Bu kadroların % 30'u engellilikleri nedeniyle koruma kararı uzatılanlara tahsis edilir. Saat ücreti
 asgari ücretin aylık çalışma saati toplamına bölünmesi ile tespit edilir. Bir kadro karşılığında
 çalışma saati ile sınırlı olmak üzere birden fazla kişi çalıştırılabilir. Ancak kişi başına ayda 60
-saatin dışında ücret ödenemez.16
+saatin dışında ücret ödenemez.17
 (Ek: 14/3/1991 - 3703/4 md.; Mülga dördüncü fıkra: 3/6/2011-KHK-633/35 md.)
 (Ek: 14/3/1991 - 3703/4 md.; Mülga beşinci fıkra: 3/6/2011-KHK-633/35 md.)
 (Ek: 14/3/1991 - 3703/4 md.; Mülga altıncı fıkra: 3/6/2011-KHK-633/35 md.)

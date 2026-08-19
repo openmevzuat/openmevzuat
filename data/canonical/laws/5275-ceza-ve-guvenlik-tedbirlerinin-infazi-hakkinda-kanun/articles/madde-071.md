@@ -16,8 +16,3 @@ başarılı olabilmesi amacıyla hükümlünün izin, ziyaret ve görüşme hakl
 doğrultusunda geçici olarak kısıtlanabilir. Başka bir suçtan hükümlü olup uyuşturucu veya
 uyarıcı madde bağımlısı olduğu tespit edilen hükümlüler hakkında da bu fıkra hükmü
 uygulanır.
-
-Hükümlünün beslenmesi
-
-29 2/7/2018 tarihli ve 700 sayılı KHK’nin 160 ıncı maddesiyle, bu maddede yer alan “tüzükte” ibaresi
-“Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.

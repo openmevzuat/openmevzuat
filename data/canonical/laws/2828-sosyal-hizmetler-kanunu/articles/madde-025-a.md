@@ -27,11 +27,11 @@ eylemiyle bundan haksız bir şekilde yararlandığının Aile ve Sosyal Hizmetl
 tespit edilmesi hâlinde, Devletçe ödenen meblağın tahsili için ilgililere rücu edilir.
 
 Korunmaya, bakıma, yardıma ihtiyacı olan engelli, yaşlı ve diğer kişilere ilişkin
-hususlar:3233
+hususlar:3334
 
-31 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
+32 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesiyle, bu fıkrada yer alan “özürlü” ibaresi
 “engelli” şeklinde değiştirilmiştir.
-32 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin
+33 25/4/2013 tarihli ve 6462 sayılı Kanunun 1 inci maddesinde; bu Kanunun 26 ncı maddesinin
 başlığında ve birinci fıkrasında yer alan “özürlü” ibaresi “engelli” şeklinde … değiştirilmiştir.” hükmü
 yer almakla birlikte Meclis tutanakları, kanun gerekçesinin incelenmesiyle, madde başlığında yer alan
 “sakat” ibaresinin değiştirilmek istendiği tespit edilmiş ve düzenleme bu şekilde yapılmıştır.

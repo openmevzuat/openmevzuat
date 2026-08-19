@@ -2,7 +2,7 @@
 
 (1) Bir kimseyi cinsel amaçlı olarak taciz eden kişi hakkında, mağdurun
 şikayeti üzerine, üç aydan iki yıla kadar hapis cezasına veya adlî para cezasına fiilin çocuğa
-karşı işlenmesi hâlinde altı aydan üç yıla kadar hapis cezasına hükmolunur.50
+karşı işlenmesi hâlinde altı aydan üç yıla kadar hapis cezasına hükmolunur.52
 (2) (Değişik: 18/6/2014-6545/61 md.) Suçun;
 a) Kamu görevinin veya hizmet ilişkisinin ya da aile içi ilişkinin sağladığı kolaylıktan
 faydalanmak suretiyle,
@@ -12,9 +12,9 @@ c) Aynı işyerinde çalışmanın sağladığı kolaylıktan faydalanmak sureti
 d) Posta veya elektronik haberleşme araçlarının sağladığı kolaylıktan faydalanmak
 suretiyle,
 
-49 18/6/2014 tarihli ve 6545 sayılı Kanunun 60 ıncı maddesiyle bu fıkrada yer alan “altı aydan iki”
+51 18/6/2014 tarihli ve 6545 sayılı Kanunun 60 ıncı maddesiyle bu fıkrada yer alan “altı aydan iki”
 ibaresi “iki yıldan beş” şeklinde değiştirilmiştir.
-50 18/6/2014 tarihli ve 6545 sayılı Kanunun 61 inci maddesiyle bu fıkrada yer alan “hükmolunur”
+52 18/6/2014 tarihli ve 6545 sayılı Kanunun 61 inci maddesiyle bu fıkrada yer alan “hükmolunur”
 ibaresi “, “fiilin çocuğa karşı işlenmesi hâlinde altı aydan üç yıla kadar hapis cezasına hükmolunur”
 şeklinde değiştirilmiştir.
 e) Teşhir suretiyle,
@@ -24,4 +24,4 @@ verilecek ceza bir yıldan az olamaz.
 
 YEDİNCİ BÖLÜM
 Hürriyete Karşı Suçlar
-Tehdit51
+Tehdit53

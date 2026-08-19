@@ -5,7 +5,7 @@ bendinde yer alan kısa süreli hapis cezasının yaptırım seçeneklerinden ka
 çalıştırma; hükümlünün, ücretsiz olarak iki saat çalışması karşılığı bir gün olmak üzere bir
 kamu kurumunun veya kamu yararına hizmet veren bir özel kuruluşun belirli hizmetlerinde
 çalıştırılmasıdır. (Ek cümle:14/4/2020-7242/45 md.) Günlük çalışma süresi, en az iki saat ve
-en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir.43
+en fazla sekiz saat olacak şekilde denetimli serbestlik müdürlüğünce belirlenir.44
 (2) (Değişik:14/4/2020-7242/45 md.) Denetimli serbestlik müdürlükleri, bölgelerinde
 bulunan bu tür kurumlardan hükümlüleri ne suretle çalıştırabileceklerine dair bilgi alırlar ve
 hizmetler listesini oluştururlar.

@@ -25,8 +25,6 @@ karar verilebilir.
 (3) (Değişik:4/6/2025-7550/15 md.) Ağırlaştırılmış müebbet hapis cezasına mahkûm
 olanlar hariç olmak üzere hapis cezasına mahkûm olan veya adli para cezası infaz sürecinde
 hapis cezasına çevrilen hükümlülerden 16 ncı maddenin üçüncü fıkrasında belirlenen usule
-göre maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında
-hayatını yalnız idame ettiremeyeceği tespit edilen ve toplum güvenliği bakımından ağır ve
 
 64 2/7/2018 tarihli ve 700 sayılı KHK’nin 160 ıncı maddesiyle, bu maddede yer alan “tüzükte” ibaresi
 “Cumhurbaşkanınca çıkarılan yönetmelikte” şeklinde değiştirilmiştir.
@@ -36,6 +34,8 @@ bendinde yer alan “bir yıl,” ibaresi “üç yıl,”, (b) bendinde yer ala
 bendinde yer alan “dört yıl,” ibaresi “beş yıl,” şeklinde değiştirilmiş, dördüncü fıkrasında yer alan
 “üç yıl” ibaresi “beş yıl” şeklinde, yedinci fıkrasında yer alan “infaza açık ceza infaz kurumunda”
 ibaresi “infaza genel hükümlere göre ceza infaz kurumlarında” şeklinde değiştirilmiştir.
+göre maruz kaldığı ağır bir hastalık veya engellilik nedeniyle ceza infaz kurumu koşullarında
+hayatını yalnız idame ettiremeyeceği tespit edilen ve toplum güvenliği bakımından ağır ve
 somut tehlike oluşturmayacağı değerlendirilenlerin cezasının konutunda çektirilmesine infaz
 hâkimi tarafından karar verilebilir. Mahkûmun durumu, Cumhuriyet başsavcılığınca birer
 yıllık dönemlere göre 16 ncı maddenin üçüncü fıkrasında belirlenen usule göre incelettirilir.

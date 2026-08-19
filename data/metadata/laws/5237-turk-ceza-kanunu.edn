@@ -5,12 +5,12 @@
  :document/slug "5237-turk-ceza-kanunu",
  :document/path "data/canonical/laws/5237-turk-ceza-kanunu",
  :document/sha256
- "b18f90ba3afaf342033f35361afdf61523189cd8cdd7cbc44633f6ceba470d32",
+ "3a4e6cd86c48999ea945d3a8768a33a870b7827bf8de6fc3590f4ec8693ca386",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5237.pdf",
- :source/fetched-at #inst "2026-08-05T07:33:08.212-00:00",
- :openmevzuat/baseline-date "2026-08-05",
- :openmevzuat/generated-at #inst "2026-08-05T07:31:50.290-00:00",
+ :source/fetched-at #inst "2026-08-19T05:19:46.894-00:00",
+ :openmevzuat/baseline-date "2026-08-19",
+ :openmevzuat/generated-at #inst "2026-08-19T05:19:39.785-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -231,7 +231,7 @@
    :article/title "Yaş küçüklüğü",
    :article/path "articles/madde-031.md",
    :article/sha256
-   "52a69016100258d3e8eef4e8ce70aeb75a96718f2ceb3f4c881c80c84f4670b3"}
+   "e860ec3ae58583f9fd6f7a43cbc1c341b3e6e9486f1ebef335397675c503e931"}
   {:article/id "law/5237/article/32",
    :article/type :normal,
    :article/no "32",
@@ -245,7 +245,7 @@
    :article/title "Sağır ve dilsizlik",
    :article/path "articles/madde-033.md",
    :article/sha256
-   "e853d8b90ffc3e28963f42827a1318555757f9d6107911b2dbf6e6813629c4ce"}
+   "3829e150cf5e849d17dee27b403852cd6dc9e23d4896782e71e4142499ba15ed"}
   {:article/id "law/5237/article/34",
    :article/type :normal,
    :article/no "34",
@@ -260,7 +260,7 @@
    :article/title nil,
    :article/path "articles/madde-035.md",
    :article/sha256
-   "bfdd006eefb5cdaf7b65f7186d5677b940f624b2da3931fa8d9c4eb974043b88"}
+   "ba37e973049dff5c9438fa8e4790fa6d72803dbfe67c6a1b91361434d6a0068e"}
   {:article/id "law/5237/article/36",
    :article/type :normal,
    :article/no "36",
@@ -281,14 +281,14 @@
    :article/title "Azmettirme",
    :article/path "articles/madde-038.md",
    :article/sha256
-   "4dcbfe48965d32109e58c77b8709265e31f5739f7c9964d10098f52ca8fa3af4"}
+   "64fcc9c3b41dec8bcf427f86d630503415d5f62d5024d93a5ae69d6c334c2585"}
   {:article/id "law/5237/article/39",
    :article/type :normal,
    :article/no "39",
    :article/title "Yardım etme",
    :article/path "articles/madde-039.md",
    :article/sha256
-   "d6ac9ff3ca5eaf753fb7f6b0020a4ee4346f1d1c10c2ac99f26362b6ae98c48d"}
+   "6dc396a11606b4c9c9136dc997b6e96c47b08a8acef75503306caa0ebd9bd7d8"}
   {:article/id "law/5237/article/40",
    :article/type :normal,
    :article/no "40",
@@ -316,7 +316,7 @@
    :article/title "Zincirleme suç",
    :article/path "articles/madde-043.md",
    :article/sha256
-   "137e1b513e1160aae506f91bd0e5e1840830a4bfb54c4164fead8d7e264b9f24"}
+   "4ad2fb1139b16b5527a2a33c21f2109de0a63cfdf08569eb58090895291e7189"}
   {:article/id "law/5237/article/44",
    :article/type :normal,
    :article/no "44",
@@ -341,10 +341,10 @@
   {:article/id "law/5237/article/47",
    :article/type :normal,
    :article/no "47",
-   :article/title "Ağırlaştırılmış müebbet hapis cezası6",
+   :article/title "Ağırlaştırılmış müebbet hapis cezası8",
    :article/path "articles/madde-047.md",
    :article/sha256
-   "195dd055641fc6b5a7ff295bce6b82b67643fed05b03b0569b98215bccdac540"}
+   "eec35fe460301e3dafac34aea80d6727d84157bf2cbe8b003e5fe3fdee12922a"}
   {:article/id "law/5237/article/48",
    :article/type :normal,
    :article/no "48",
@@ -365,35 +365,35 @@
    :article/title "Kısa süreli hapis cezasına seçenek yaptırımlar",
    :article/path "articles/madde-050.md",
    :article/sha256
-   "ed3848378a8f1993a6d1e02dd0ee7f3dda976fe57d8ceff093b3cda583d199b9"}
+   "0b5e39939229ef95a665e6e10f05541111ff9b602ac9a6f0c9266c59dad47a50"}
   {:article/id "law/5237/article/51",
    :article/type :normal,
    :article/no "51",
    :article/title nil,
    :article/path "articles/madde-051.md",
    :article/sha256
-   "5392f200c2c0c9c22c1e9b78dac746d61d95f92a0364a2490a91b7972c2da76e"}
+   "88c091a04338b263a70a138662d77bc0c3445d45cc8b3b227230fbae11fa7047"}
   {:article/id "law/5237/article/52",
    :article/type :normal,
    :article/no "52",
    :article/title "Adlî para cezası",
    :article/path "articles/madde-052.md",
    :article/sha256
-   "0e4ff908bced38d6e4799e5acaf66b62a43f8c5a4ec0d2f453be05b89083b02f"}
+   "de7ffcfa36f865b15f9a79edecc1ac4f712ada2afdd4e461dde565d69ba54f15"}
   {:article/id "law/5237/article/53",
    :article/type :normal,
    :article/no "53",
    :article/title nil,
    :article/path "articles/madde-053.md",
    :article/sha256
-   "2a588b5d9af24ac8c5824f7130e13cf903ede2abe7e6005dc4a890270f1bfcbc"}
+   "133b2e30bb5d6b7cdb94ac16ea1b4bcfc16793b2f83e0312ffb9fee1bdb49940"}
   {:article/id "law/5237/article/54",
    :article/type :normal,
    :article/no "54",
    :article/title "Eşya müsaderesi",
    :article/path "articles/madde-054.md",
    :article/sha256
-   "6ab937cd54759fdb35568b3021eb2a7063f43206b6c43398d0bab35e2190a1a6"}
+   "657b0ed99e814872655ac65a3a509730e83a2bacbea80a11df77a7bebbea0216"}
   {:article/id "law/5237/article/55",
    :article/type :normal,
    :article/no "55",
@@ -411,10 +411,10 @@
   {:article/id "law/5237/article/57",
    :article/type :normal,
    :article/no "57",
-   :article/title "Akıl hastalarına özgü güvenlik tedbirleri16",
+   :article/title "Akıl hastalarına özgü güvenlik tedbirleri18",
    :article/path "articles/madde-057.md",
    :article/sha256
-   "b4608e7cdfcc3d1bfd15468e8bc7e636627d51be7e2cf6062203c1d31b2cdb8b"}
+   "c054653289a7355a67376691f20aa55c7769c2ff8276d223ea5f655ecf76386b"}
   {:article/id "law/5237/article/58",
    :article/type :normal,
    :article/no "58",
@@ -428,7 +428,7 @@
    :article/title "Sınır dışı edilme",
    :article/path "articles/madde-059.md",
    :article/sha256
-   "b48e2f99e2a548ba5be2d094431948f2cc1dd0f87157eb4ae6ca320e23de8a47"}
+   "e724b385b0ec49f7391f225fbc71553135a6fe360167fea132b31ef034b23cc9"}
   {:article/id "law/5237/article/60",
    :article/type :normal,
    :article/no "60",
@@ -442,21 +442,21 @@
    :article/title nil,
    :article/path "articles/madde-061.md",
    :article/sha256
-   "0790e01afa3481d85846d6642072ff345757e29d156377c2c79c9bdffcef0c35"}
+   "6e6afacce336f1b0d19638d1bb81ad161c1e622ba54f20a40231b2d749a3c069"}
   {:article/id "law/5237/article/62",
    :article/type :normal,
    :article/no "62",
    :article/title nil,
    :article/path "articles/madde-062.md",
    :article/sha256
-   "a8a48f9a3eb5525140a64d2a6105cfe1c090bdca9326a31f780d304eac31c7b9"}
+   "3f802096e189598a0fb0e854eccfdf25676410095c6456a7ff2ebc677d68e289"}
   {:article/id "law/5237/article/63",
    :article/type :normal,
    :article/no "63",
    :article/title nil,
    :article/path "articles/madde-063.md",
    :article/sha256
-   "c59619709819014e4faa588a255f556953f30f02e73c6a13825e4814bb4e2a82"}
+   "68d0c87423b727743ab15bcd174e696841393e63f0cb566d03d35099daaa6334"}
   {:article/id "law/5237/article/64",
    :article/type :normal,
    :article/no "64",
@@ -470,7 +470,7 @@
    :article/title "Af",
    :article/path "articles/madde-065.md",
    :article/sha256
-   "6f07507e2ec3ded70f95dc14c6a8a83dec69cc31599ba7753eaa74098ae8f481"}
+   "4332ee07240daa200399f2cd942cf8ef2b5f82cd72670d5c79bd054ecd981329"}
   {:article/id "law/5237/article/66",
    :article/type :normal,
    :article/no "66",
@@ -524,24 +524,24 @@
    :article/type :normal,
    :article/no "73",
    :article/title
-   "Soruşturulması ve kovuşturulması şikayete bağlı suçlar23",
+   "Soruşturulması ve kovuşturulması şikayete bağlı suçlar25",
    :article/path "articles/madde-073.md",
    :article/sha256
-   "6e0cd19cdc47219f88f5eafd74b2e54f48267875bdff60ada35f729bab9bd427"}
+   "0758376b0f1777bef41c0df4ed2b0470af52b036f5e162377641fb594b81f0e3"}
   {:article/id "law/5237/article/74",
    :article/type :normal,
    :article/no "74",
    :article/title "Dava veya cezanın düşmesinin etkisi",
    :article/path "articles/madde-074.md",
    :article/sha256
-   "786d0afec11ffef9b83e6b9f2f706b515a07108c3d416c64a3e7772418d13497"}
+   "76487f286adf4ec449c637c34cdd9d359784582a3c1ef49e096bb423a5952868"}
   {:article/id "law/5237/article/75",
    :article/type :normal,
    :article/no "75",
    :article/title nil,
    :article/path "articles/madde-075.md",
    :article/sha256
-   "5fa026e191da959fc89e668bebb52095cec6758176f5e62ae914153b571743b7"}
+   "7f97d871871b9db9065453303b51d58606a650e82a22698251ede9b0e1a62b93"}
   {:article/id "law/5237/article/76",
    :article/type :normal,
    :article/no "76",
@@ -562,21 +562,21 @@
    :article/title "Örgüt",
    :article/path "articles/madde-078.md",
    :article/sha256
-   "de86f4ac1dcf600b47623cc3f3b0a6973d4118f453e665ee6baa1432e27146cf"}
+   "4be77632b6555edd1d119d65507e43c0eb020db3757be7ea295a4e017da5b691"}
   {:article/id "law/5237/article/79",
    :article/type :normal,
    :article/no "79",
    :article/title nil,
    :article/path "articles/madde-079.md",
    :article/sha256
-   "e8b9e5e010f641c517a04c8876b82b75a6617ee406e564e3c86925cbb0457ee1"}
+   "360e66f97d95bb7e0e9ac320bf01fa4c751acf99b1b810e4f65007b51c3cff47"}
   {:article/id "law/5237/article/80",
    :article/type :normal,
    :article/no "80",
    :article/title "İnsan ticareti",
    :article/path "articles/madde-080.md",
    :article/sha256
-   "f0b85a4b533eee4050da34399f7cd9fc6e6e1eee6f41c54ae5564d79ba128ae8"}
+   "909ea58a89b3fc4e4ba293998454cc1eb113feca5aef8462e3e6ccbada495753"}
   {:article/id "law/5237/article/81",
    :article/type :normal,
    :article/no "81",
@@ -590,42 +590,42 @@
    :article/title "Nitelikli haller",
    :article/path "articles/madde-082.md",
    :article/sha256
-   "81e3226e81aa219a2e81d6a42145cf14b25e6879ebc85a8e6178d7638d89deee"}
+   "a4af1eef5e1961136be7d52286025e9ae6a5ea97859d5541dc0411a02fe51436"}
   {:article/id "law/5237/article/83",
    :article/type :normal,
    :article/no "83",
    :article/title "Kasten öldürmenin ihmali davranışla işlenmesi",
    :article/path "articles/madde-083.md",
    :article/sha256
-   "f8e4217ca3ec18d859b85485cbaf2dc8b068306de40339d58dc179395dde552a"}
+   "e7b0a7c3b0e5a0d29ddb60431d3acfd7adf352e973fffc345f524b7ca8da2f78"}
   {:article/id "law/5237/article/84",
    :article/type :normal,
    :article/no "84",
-   :article/title "İntihara yönlendirme34",
+   :article/title "İntihara yönlendirme36",
    :article/path "articles/madde-084.md",
    :article/sha256
-   "85502e7a189cad6117f816cb967e6582020b4f2cacb0b6822a3bf7c3c3c1ee1c"}
+   "43c583d0ff08cb778b84b690037e6912c5880109d5ab1266e0ad02b8c0ddae60"}
   {:article/id "law/5237/article/85",
    :article/type :normal,
    :article/no "85",
    :article/title "Taksirle öldürme",
    :article/path "articles/madde-085.md",
    :article/sha256
-   "53e2ee5e1ad0eecabf9f7d090a07b044c752004903924ef0011e7607630a6671"}
+   "2a1d8fe5721af32be54cd6f3c91ac47482c8dfddaa1a58575be61d9f978441c3"}
   {:article/id "law/5237/article/86",
    :article/type :normal,
    :article/no "86",
    :article/title nil,
    :article/path "articles/madde-086.md",
    :article/sha256
-   "fefe6d96b8c166a4a6c68aa58e0b95730817e27a82e8fa05499970c3cfbd89c2"}
+   "682299a5607d2986dad7ab32dcf6b0e541f7215d66af68123e362998a8fdd6c4"}
   {:article/id "law/5237/article/87",
    :article/type :normal,
    :article/no "87",
    :article/title nil,
    :article/path "articles/madde-087.md",
    :article/sha256
-   "6e58c9152eabe39ef3bd9f9b51841d930b85bfcc7606224bd8a3516137047957"}
+   "0f7cf7df00ec568dc620b9169740c533808d52ffe5336fd038c901ba65a770e0"}
   {:article/id "law/5237/article/88",
    :article/type :normal,
    :article/no "88",
@@ -639,7 +639,7 @@
    :article/title "Taksirle yaralama",
    :article/path "articles/madde-089.md",
    :article/sha256
-   "add55d75cdfcfe5d31f534a6e74ca0616353e7e8e465921f81899d600e28f261"}
+   "c269b8a584d6425b1d903311a64faa2735494e0aa5ebf14a75aacf349b30dc9c"}
   {:article/id "law/5237/article/90",
    :article/type :normal,
    :article/no "90",
@@ -688,7 +688,7 @@
    :article/title "Eziyet",
    :article/path "articles/madde-096.md",
    :article/sha256
-   "129df0cc87866653ec94d7aa3b9ec6bc6fd7f795c62e055aa464819adc3fb715"}
+   "d32569d9e3c5a49e44bdb6d23f27816fa8c04c6f62035f64edbadb53a95d0b6a"}
   {:article/id "law/5237/article/97",
    :article/type :normal,
    :article/no "97",
@@ -710,7 +710,7 @@
    :article/title nil,
    :article/path "articles/madde-099.md",
    :article/sha256
-   "faa649f20c677c3c8972f5ba0e3848ba96ab08ab7d07a250960fb1db6688286c"}
+   "1c7be2cb14ac43fccc23d0f04c14f2c5a2f7b2a6812533c790c037d4f97d8d7c"}
   {:article/id "law/5237/article/100",
    :article/type :normal,
    :article/no "100",
@@ -738,21 +738,21 @@
    :article/title "Çocukların cinsel istismarı",
    :article/path "articles/madde-103.md",
    :article/sha256
-   "2d981971209a6f64b39ff3ef936c4e2d72ab91bd2aaf9ace66e7e188e8add79a"}
+   "3da73c5e25a42b0595cf7995b1e8d22cb56833edca0bd21988621589c03cb9c6"}
   {:article/id "law/5237/article/104",
    :article/type :normal,
    :article/no "104",
    :article/title "Reşit olmayanla cinsel ilişki",
    :article/path "articles/madde-104.md",
    :article/sha256
-   "ed0e7e81df88a8391ede69aca57785e1f7c76994191f64f3f6e6c451b01f81b2"}
+   "2931853740c19e55d1557565e085180f5602d7770176eea3544adcce84d1dfbf"}
   {:article/id "law/5237/article/105",
    :article/type :normal,
    :article/no "105",
    :article/title "Cinsel taciz",
    :article/path "articles/madde-105.md",
    :article/sha256
-   "7f8d2bbef8dec004b7b67b6fe1cc0ec9e8fe29c50ca8642b3377d5138f17daea"}
+   "ec8ef7f9b0c8d95a3ae4d3efc97dba0fbad48b9c34367d249d1291d5a091e70c"}
   {:article/id "law/5237/article/106",
    :article/type :normal,
    :article/no "106",
@@ -773,14 +773,14 @@
    :article/title "Cebir",
    :article/path "articles/madde-108.md",
    :article/sha256
-   "97eb2198463b7604f02f3f740b926604bb8311b1dc32d3b6bedd11c5f802a7e4"}
+   "cd6db335e6d22f4570ff111090e5a2c76abdd443fe684788f29584f62492c1e0"}
   {:article/id "law/5237/article/109",
    :article/type :normal,
    :article/no "109",
    :article/title "Kişiyi hürriyetinden yoksun kılma",
    :article/path "articles/madde-109.md",
    :article/sha256
-   "fff41e9bfd48fb0d2cee8f6c94d4650f46390a083d4c8474d1e0d19fd647e093"}
+   "59c3a4441f6765b529551c5e8fda669fb0970aa9e47b1bafefb4af6f656925d8"}
   {:article/id "law/5237/article/110",
    :article/type :normal,
    :article/no "110",
@@ -795,7 +795,7 @@
    "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
    :article/path "articles/madde-111.md",
    :article/sha256
-   "f11f0366a98c67c932365524ffa23076c0bdbc081e49407357b87d8831be6ed5"}
+   "cb57f9c17ac7a06c054e4f10836ccc8c9bb0b646361eaa5c117a7ee1fc20f825"}
   {:article/id "law/5237/article/112",
    :article/type :normal,
    :article/no "112",
@@ -807,10 +807,10 @@
    :article/type :normal,
    :article/no "113",
    :article/title
-   "Kamu hizmetlerinden yararlanma hakkının engellenmesi54",
+   "Kamu hizmetlerinden yararlanma hakkının engellenmesi56",
    :article/path "articles/madde-113.md",
    :article/sha256
-   "762b95e9c02eff3a9060ca609842749184a2f167d6536752297a36fc81ea5f12"}
+   "8def9b7f4195d2c47372b802dee820dc10540ab62e90ac9075482f4d7d31bec9"}
   {:article/id "law/5237/article/114",
    :article/type :normal,
    :article/no "114",
@@ -825,7 +825,7 @@
    "İnanç, düşünce ve kanaat hürriyetinin kullanılmasını engelleme",
    :article/path "articles/madde-115.md",
    :article/sha256
-   "91b0a71487accec12ebfd030ff8015da6594eb08d47b3981cf3dcc2ecd81689c"}
+   "4a8ad23e613a1719f17aa06e4256728ed76ddaf68acda8176405e01d53c49915"}
   {:article/id "law/5237/article/116",
    :article/type :normal,
    :article/no "116",
@@ -871,10 +871,10 @@
   {:article/id "law/5237/article/122",
    :article/type :normal,
    :article/no "122",
-   :article/title "Nefret ve ayırımcılık55",
+   :article/title "Nefret ve ayırımcılık57",
    :article/path "articles/madde-122.md",
    :article/sha256
-   "122bc2572d0cbde83b4428ddb4f033b0e61ad1fd6239e44797a1868290424b0d"}
+   "30932e4b97d5f9e146eb8eaa53fb18e8ae41b362bf9ef0ad4e6bae971a3c2ca9"}
   {:article/id "law/5237/article/123",
    :article/type :normal,
    :article/no "123",
@@ -902,7 +902,7 @@
    :article/title nil,
    :article/path "articles/madde-125.md",
    :article/sha256
-   "96b9cc3420ee19537dfd77ca602d712cddc0e51fc15ef04aad9a2e0e143d34e4"}
+   "c7a187721cc51a3d7dc5b4dc7055c4fd128ea93c09d5626ba50c1bcd1b9a8c85"}
   {:article/id "law/5237/article/126",
    :article/type :normal,
    :article/no "126",
@@ -923,7 +923,7 @@
    :article/title "İddia ve savunma dokunulmazlığı",
    :article/path "articles/madde-128.md",
    :article/sha256
-   "772d819bb44043610eda7136c27a03e903b0be38df721ddcd00c79412562b12c"}
+   "44e7c5cdb2be948fe25ac33156f5b68801c640455f75835afcc0fdcdcf2bd674"}
   {:article/id "law/5237/article/129",
    :article/type :normal,
    :article/no "129",
@@ -944,43 +944,43 @@
    :article/title "Soruşturma ve kovuşturma koşulu",
    :article/path "articles/madde-131.md",
    :article/sha256
-   "9f0399e62645c9efdbbfef9c3065ff199f3ea7a35d459bf860910ed15b03c89f"}
+   "ed11ffd026988a663fa03df8a10aa43003d5adbbfc4952e8405fad9c64e2b21b"}
   {:article/id "law/5237/article/132",
    :article/type :normal,
    :article/no "132",
    :article/title nil,
    :article/path "articles/madde-132.md",
    :article/sha256
-   "9e0c7a09b8297f0505fef12333e7d15cd611a9c7e25008b6af0f83bd5c466bb4"}
+   "19e6d3dfbf153c1e1aaf745bc1c9b1dd125c39037bb63c08cecbc2303fb13684"}
   {:article/id "law/5237/article/133",
    :article/type :normal,
    :article/no "133",
    :article/title
-   "Kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması58",
+   "Kişiler arasındaki konuşmaların dinlenmesi ve kayda alınması60",
    :article/path "articles/madde-133.md",
    :article/sha256
-   "a22c178e7e0f92377391f383cc35dd6fbeafbec34c1e3ea76b13a2b0bb4d622e"}
+   "94384faad0619137d03b23ea35167ad2a9a3655977be8c636c7c8b9b8ffe14e2"}
   {:article/id "law/5237/article/134",
    :article/type :normal,
    :article/no "134",
    :article/title "Özel hayatın gizliliğini ihlal",
    :article/path "articles/madde-134.md",
    :article/sha256
-   "9aa0e9656c8a093a2f65e6f26a687b72dbb252d8454e14d57fdabccf5cdddc11"}
+   "b98fe798be18f01a1d0905e5b299b311f1052eeec6bc0a0e679423e768af5f66"}
   {:article/id "law/5237/article/135",
    :article/type :normal,
    :article/no "135",
    :article/title "Kişisel verilerin kaydedilmesi",
    :article/path "articles/madde-135.md",
    :article/sha256
-   "93bf7016014b9ffdf93c18817c36ec919b170634cf2cc2b1f0508b5e31fd0757"}
+   "19df84238e65b5ab489f3361a733d6cbeb4f2384c43497c41904fa6086816cea"}
   {:article/id "law/5237/article/136",
    :article/type :normal,
    :article/no "136",
    :article/title nil,
    :article/path "articles/madde-136.md",
    :article/sha256
-   "be479d5ff41aae3ce9c2a6eef3cb80c31ce92064f4635a404489a446513c0a09"}
+   "6552eaad257a65db810b181d6c509b3451fdafada98a38506d4a1e18b2506fba"}
   {:article/id "law/5237/article/137",
    :article/type :normal,
    :article/no "137",
@@ -994,7 +994,7 @@
    :article/title "Verileri yok etmeme",
    :article/path "articles/madde-138.md",
    :article/sha256
-   "7a21d4974f6298d482b79e3fc419fba13b2eaa65e30f21f532dd08a4989023c9"}
+   "b23c8c2ae5a65a25ffd58eb31afbe95decf1be1f03e80ad1f5a458df31b1e724"}
   {:article/id "law/5237/article/139",
    :article/type :normal,
    :article/no "139",
@@ -1009,7 +1009,7 @@
    "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
    :article/path "articles/madde-140.md",
    :article/sha256
-   "3228c096e01fc6b2e7bc624a050b6e452a6051ecbccaf6e0519f7847a455fdfa"}
+   "d20a837e00e88169925b1b884b47f9c0926b4ce1fb00f3ccaca5203174365100"}
   {:article/id "law/5237/article/141",
    :article/type :normal,
    :article/no "141",
@@ -1020,17 +1020,17 @@
   {:article/id "law/5237/article/142",
    :article/type :normal,
    :article/no "142",
-   :article/title "Nitelikli hırsızlık64",
+   :article/title "Nitelikli hırsızlık66",
    :article/path "articles/madde-142.md",
    :article/sha256
-   "cd4ad95e9137c973ba16a862f4cdb2e727a2a1bf6fd6f7afe49eca1ec4a52ebb"}
+   "68754ef5a2aa344b31a5fa8a1ce5980f6614d0e1f20ed288b00828d365149425"}
   {:article/id "law/5237/article/143",
    :article/type :normal,
    :article/no "143",
    :article/title "Suçun gece vakti işlenmesi",
    :article/path "articles/madde-143.md",
    :article/sha256
-   "e5e4747a526d3ac030d162fa7b15b0b2cd38b39e3c084033a1fc416af96acfbe"}
+   "a19f5cc6ea317a57c08f4c1319f2a3de92d9d28edb1eb07cd7b9cc6e3cd2184c"}
   {:article/id "law/5237/article/144",
    :article/type :normal,
    :article/no "144",
@@ -1058,7 +1058,7 @@
    :article/title "Zorunluluk hâli",
    :article/path "articles/madde-147.md",
    :article/sha256
-   "7e984696c7462810c454a5eca31659967d2997feba98ee5fe08d684c0eadfbe7"}
+   "5cb720cb821320f7d4bc90d213e1d977d8c0dc3a57dfed645eafbf6181492bd0"}
   {:article/id "law/5237/article/148",
    :article/type :normal,
    :article/no "148",
@@ -1079,7 +1079,7 @@
    :article/title "Daha az cezayı gerektiren hâl",
    :article/path "articles/madde-150.md",
    :article/sha256
-   "dc80e77561360c7942e8b43f08b737d6ba0c302a836c82e3abdf0a38bc14133c"}
+   "4d53e079baeffc45606fe8dde4069c5f85f7ca3a1d33eef4d60d687040ca2bce"}
   {:article/id "law/5237/article/151",
    :article/type :normal,
    :article/no "151",
@@ -1090,17 +1090,17 @@
   {:article/id "law/5237/article/152",
    :article/type :normal,
    :article/no "152",
-   :article/title "Mala zarar vermenin nitelikli halleri69",
+   :article/title "Mala zarar vermenin nitelikli halleri71",
    :article/path "articles/madde-152.md",
    :article/sha256
-   "574a1f35180d3091850b0c84c1cdfee2320bbccb443713ed8a42a779a6a296b9"}
+   "62aec67d08ec34d71003d7bb9e2956c8e7dd7cf9c223f8d94bece5c4efca3576"}
   {:article/id "law/5237/article/153",
    :article/type :normal,
    :article/no "153",
    :article/title "İbadethanelere ve mezarlıklara zarar verme",
    :article/path "articles/madde-153.md",
    :article/sha256
-   "d1849578f877a9bfbe01327707dfb9c08fed08e14d3e2f659de60d0d5e466952"}
+   "865e250ea35fe7171012bde650085eaa33f7f9b9666739be06277f6cdca85e07"}
   {:article/id "law/5237/article/154",
    :article/type :normal,
    :article/no "154",
@@ -1114,14 +1114,14 @@
    :article/title "Güveni kötüye kullanma",
    :article/path "articles/madde-155.md",
    :article/sha256
-   "ed6387352eca65d11429b7310c6c44ad7505041d0ff3d91f989f74bcca50a2fc"}
+   "0b119e7ce78c2d82f491884b0979a367be1ab4e85f6017e8344715c7447e949e"}
   {:article/id "law/5237/article/156",
    :article/type :normal,
    :article/no "156",
    :article/title "Bedelsiz senedi kullanma",
    :article/path "articles/madde-156.md",
    :article/sha256
-   "fc87016fd98428ea44b872df45fdc44fa54af1f0a48f40a23c95d422ab70efad"}
+   "8b206deaf6a0d9c6b289eabc360b832999633c87c1cfa0e4e32cdf19f00110ec"}
   {:article/id "law/5237/article/157",
    :article/type :normal,
    :article/no "157",
@@ -1135,7 +1135,7 @@
    :article/title "Nitelikli dolandırıcılık",
    :article/path "articles/madde-158.md",
    :article/sha256
-   "41f45b5241a4a9a1647376401a066cc4e8c99be443a1069156ae824ad234e1c2"}
+   "ecbcb04678a5bf348c556be74b923dfbdf62ada5fb4bcf64a4e398f4570f3924"}
   {:article/id "law/5237/article/159",
    :article/type :normal,
    :article/no "159",
@@ -1207,7 +1207,7 @@
    :article/title "Etkin pişmanlık",
    :article/path "articles/madde-168.md",
    :article/sha256
-   "1bc8b847aba35770368b689b5d103c6541b8db548cdf2479a9119f43136a7b23"}
+   "92d56fbb38a8b72df655781baf3d67d189eebeff86342489587b3cf5acc8200d"}
   {:article/id "law/5237/article/169",
    :article/type :normal,
    :article/no "169",
@@ -1215,14 +1215,14 @@
    "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
    :article/path "articles/madde-169.md",
    :article/sha256
-   "3252908a19674c1153e23029cf0f7868847a6609662054c491ee33636a2abe8e"}
+   "64030ef760a9f76f361ada4b1c9bbe35aef830672d7df9d24d5ad2d88223209c"}
   {:article/id "law/5237/article/170",
    :article/type :normal,
    :article/no "170",
    :article/title nil,
    :article/path "articles/madde-170.md",
    :article/sha256
-   "c302530ef294c0d875e59d2a71a1af1a337e5a0f9ccdea1b92e9180fcdbb36c9"}
+   "2f70bc62efee58bb3882cd4f25c0a8dffce92c68b1d7c35ab8255cea63a4aa46"}
   {:article/id "law/5237/article/171",
    :article/type :normal,
    :article/no "171",
@@ -1243,7 +1243,7 @@
    :article/title "Atom enerjisi ile patlamaya sebebiyet verme",
    :article/path "articles/madde-173.md",
    :article/sha256
-   "a47e23c00d961044309f0e7df1338f05db073b03250a16cd6abbe5b76346d107"}
+   "7979b37abf64670e65eb4b51807879f89cecf45b73bf658128a9fe4cc2253bc4"}
   {:article/id "law/5237/article/174",
    :article/type :normal,
    :article/no "174",
@@ -1281,14 +1281,14 @@
    :article/title "İşaret ve engel koymama",
    :article/path "articles/madde-178.md",
    :article/sha256
-   "c1cad5254034edb23b0fbe9cf494b55e37e4b52e8b9cdf805b0f27f8afb20575"}
+   "e0c3170d143414d4120650a4d8534b56402e71e7475ccd448dc57573ede2f6a1"}
   {:article/id "law/5237/article/179",
    :article/type :normal,
    :article/no "179",
    :article/title nil,
    :article/path "articles/madde-179.md",
    :article/sha256
-   "b28a2e0ea5fb946b69091810f934ca8be086c51582d24618ee3602581a2a9b40"}
+   "e8d009775ec756538969b8a091e48a0ec370b6f84ac36ccf89d2d43e3f544b82"}
   {:article/id "law/5237/article/180",
    :article/type :normal,
    :article/no "180",
@@ -1302,7 +1302,7 @@
    :article/title nil,
    :article/path "articles/madde-181.md",
    :article/sha256
-   "15715914169a9cca21081935dfc7083a1950c0760353717d8304fa602b9216c5"}
+   "e099e25213070f47f7e7403d4ebb4255e92be7a5f131b9a3be094b513345d90c"}
   {:article/id "law/5237/article/182",
    :article/type :normal,
    :article/no "182",
@@ -1350,10 +1350,10 @@
   {:article/id "law/5237/article/188",
    :article/type :normal,
    :article/no "188",
-   :article/title "Uyuşturucu veya uyarıcı madde imal ve ticareti7778",
+   :article/title "Uyuşturucu veya uyarıcı madde imal ve ticareti7980",
    :article/path "articles/madde-188.md",
    :article/sha256
-   "b0bab9379c8aeb7f575269108f026501c3e9218be46b5d4b674095a68d18a153"}
+   "83ebaca441c8ee7debb2a50253409e87268464306e2cdc019f8f666ab9fa7890"}
   {:article/id "law/5237/article/189",
    :article/type :normal,
    :article/no "189",
@@ -1361,28 +1361,28 @@
    "Tüzel kişiler hakkında güvenlik tedbiri uygulanması",
    :article/path "articles/madde-189.md",
    :article/sha256
-   "2d8d0d0f38a3b803d142cb5881e26b974546d8b930b2db7299d919de9de607a1"}
+   "3c49dd23fbe0bb8b0f7312517230b68b9ef81bd97ef4d02e4c1e09625eeec263"}
   {:article/id "law/5237/article/190",
    :article/type :normal,
    :article/no "190",
    :article/title nil,
    :article/path "articles/madde-190.md",
    :article/sha256
-   "25347a07d4785d655089b429b03ab472dc7f2be05cbbf12e1908438536dcfd42"}
+   "a83126feff1d28506a445fadb27cdc1c989ed77ea2eaaee0a66bdbe012b9eadd"}
   {:article/id "law/5237/article/191",
    :article/type :normal,
    :article/no "191",
    :article/title nil,
    :article/path "articles/madde-191.md",
    :article/sha256
-   "689cef04571431c986109788374e135b39e97d0c6108f2dfcec00dd9392c551b"}
+   "03c5b97cc66cfaa66c1b91ceb98da01633c7b18c147756f81241c97dbb2ea66f"}
   {:article/id "law/5237/article/192",
    :article/type :normal,
    :article/no "192",
    :article/title "Etkin pişmanlık",
    :article/path "articles/madde-192.md",
    :article/sha256
-   "91eeb798d979d51fd69323bba021fd533171851fa0c7115d62596625e682d22e"}
+   "87cc2bd092460382d72da1c3583d9ca97d0d0ad9dc3dd2d45ad7cbd71b16a6e9"}
   {:article/id "law/5237/article/193",
    :article/type :normal,
    :article/no "193",
@@ -1411,7 +1411,7 @@
    :article/title "Usulsüz ölü gömülmesi",
    :article/path "articles/madde-196.md",
    :article/sha256
-   "d188dccd696b431be2a58b8646f6b51cdcd0ab480c5119d998442de50db83ae8"}
+   "237082d720801f6d7fe8b890f97c067ff248e6f34da238eb34e0de664c1ea32a"}
   {:article/id "law/5237/article/197",
    :article/type :normal,
    :article/no "197",
@@ -1541,10 +1541,10 @@
   {:article/id "law/5237/article/215",
    :article/type :normal,
    :article/no "215",
-   :article/title "Suçu ve suçluyu övme88",
+   :article/title "Suçu ve suçluyu övme90",
    :article/path "articles/madde-215.md",
    :article/sha256
-   "3837df98aa56ff0ab834c159220d42e465a2ce3562339864d3738a4614439537"}
+   "9e9ee15d84e7840a2ef95e78257de5a7627f89759ab9bf083921df9a96f0df12"}
   {:article/id "law/5237/article/216",
    :article/type :normal,
    :article/no "216",
@@ -1565,7 +1565,7 @@
    :article/title "Halkı yanıltıcı bilgiyi alenen yayma",
    :article/path "articles/madde-217-a.md",
    :article/sha256
-   "c12feec9a7baae02193d1cb8659f5e0846840759ffee00c5028a6e5940d5d8e0"}
+   "99c65c173c939a876b9614f46e603872f2bec5bb02cd1dfb45634b838568e9da"}
   {:article/id "law/5237/article/218",
    :article/type :normal,
    :article/no "218",
@@ -1583,17 +1583,17 @@
   {:article/id "law/5237/article/220",
    :article/type :normal,
    :article/no "220",
-   :article/title "Suç işlemek amacıyla örgüt kurma8990",
+   :article/title "Suç işlemek amacıyla örgüt kurma9192",
    :article/path "articles/madde-220.md",
    :article/sha256
-   "72e2774154f42d5633168a627ce3d62ed28520ec4c28f3a6146632c827e760ac"}
+   "224b5c9ae78c5e825a3d453c8fd7c0bb2a5e167d36eb9b7b1ddc44eadc5b19e8"}
   {:article/id "law/5237/article/221",
    :article/type :normal,
    :article/no "221",
    :article/title nil,
    :article/path "articles/madde-221.md",
    :article/sha256
-   "8a7ec401149331a416f193e28d64ee79fe84e1c5b988c1188bf1f64423bd2dd3"}
+   "bec94587c35123f3f80066c61f1f7b2c060c00f2d54d928c3c18a345dc948da2"}
   {:article/id "law/5237/article/222",
    :article/type :normal,
    :article/no "222",
@@ -1615,7 +1615,7 @@
    "Kıt'a sahanlığında veya münhasır ekonomik bölgedeki sabit platformların işgali",
    :article/path "articles/madde-224.md",
    :article/sha256
-   "6bcdef2449420c504a3711c04a2521aafe6371b4111f71f213f1366bedb2e105"}
+   "5e79c2088fe30cfab0c6b016913f5d9f7d9ef941fd536c1bb70771a3bfb62bdc"}
   {:article/id "law/5237/article/225",
    :article/type :normal,
    :article/no "225",
@@ -1629,21 +1629,21 @@
    :article/title "Müstehcenlik",
    :article/path "articles/madde-226.md",
    :article/sha256
-   "9e0a10823fc84203a2868eb1fedcf53d9d86ec0e6e4b81026143251f92af68c8"}
+   "4963f8181c65a191f17e77be0d354914a3a6ca5fb8d5c88ac5bed9121f4b4fbf"}
   {:article/id "law/5237/article/227",
    :article/type :normal,
    :article/no "227",
    :article/title "Fuhuş",
    :article/path "articles/madde-227.md",
    :article/sha256
-   "02b03da2201770c1a56b0e73c36a0ba7a2c7165ae481700327580ea77a71be3a"}
+   "7877edf4adaca60007f1b36c20b0d57f9b55488db86339e6e9dc894e7946d5d3"}
   {:article/id "law/5237/article/228",
    :article/type :normal,
    :article/no "228",
    :article/title nil,
    :article/path "articles/madde-228.md",
    :article/sha256
-   "65e1227b6f8d7affeb4d90039c0b4d6402d9a072f6e0ec79f5186f7660d871e3"}
+   "284c7cef8ab2d553e2f53279aa686bf6a6f3939d6cf1db2091500a18a632f02d"}
   {:article/id "law/5237/article/229",
    :article/type :normal,
    :article/no "229",
@@ -1657,7 +1657,7 @@
    :article/title nil,
    :article/path "articles/madde-230.md",
    :article/sha256
-   "2369ffaed1bc896de926e5fec617385845d10ef8c8381cfb8a551d6853a998dd"}
+   "057f48975e90724860e67f7cab680597659436359bf35a0f99c990b5e64f4d2c"}
   {:article/id "law/5237/article/231",
    :article/type :normal,
    :article/no "231",
@@ -1675,17 +1675,17 @@
   {:article/id "law/5237/article/233",
    :article/type :normal,
    :article/no "233",
-   :article/title "Aile hukukundan kaynaklanan yükümlülüğün ihlali",
+   :article/title "Aile hukukundan kaynaklanan yükümlülüğün ihlali99",
    :article/path "articles/madde-233.md",
    :article/sha256
-   "5784cc8a894c468a83ba7097558e70cc293859fd049a4b70d5aaede9a6dd9499"}
+   "dab58f56b3e3fc698c3d050c71ae26db1f3d8dabea285668640dd9ed39d2fd42"}
   {:article/id "law/5237/article/234",
    :article/type :normal,
    :article/no "234",
    :article/title "Çocuğun kaçırılması ve alıkonulması",
    :article/path "articles/madde-234.md",
    :article/sha256
-   "cbe082af72e00e52e892920326a3790a92704323bdd55cefce03aafe006131d4"}
+   "0c78ba3c0ff9e7f7e861b6e71f6862e5803d3ed8052eb2767a4ba25c32fd154c"}
   {:article/id "law/5237/article/235",
    :article/type :normal,
    :article/no "235",
@@ -1703,38 +1703,38 @@
   {:article/id "law/5237/article/237",
    :article/type :normal,
    :article/no "237",
-   :article/title "Fiyatları etkileme97",
+   :article/title "Fiyatları etkileme100",
    :article/path "articles/madde-237.md",
    :article/sha256
-   "c7e0a9cb5d6d24d2ae26a885000478f212569acafd0178af2a810141d4718c8d"}
+   "12d0bf5d7e4a3aabe8e7e5157cd26d8cae8cf206bb48dced34bc2b9ed5962bd2"}
   {:article/id "law/5237/article/238",
    :article/type :normal,
    :article/no "238",
    :article/title "Kamuya gerekli şeylerin yokluğuna neden olma",
    :article/path "articles/madde-238.md",
    :article/sha256
-   "54ebae1bd0bcc840122e004c4b0aefa622100a0ae51ef70d8ea091874f93efe2"}
+   "9eeef08a359efa1b4b0704ee0a116e96ae73dd15e46268d93412936a710bb2f1"}
   {:article/id "law/5237/article/239",
    :article/type :normal,
    :article/no "239",
    :article/title nil,
    :article/path "articles/madde-239.md",
    :article/sha256
-   "a4e13e1832cdfa15e5129ba3fd3444d3ff580a37d020d890ebc096f961f0ba45"}
+   "a587451e013075bb096c0746eb2b4372c5e8f8ca5bc8b1a860d5efe87cc3f2ce"}
   {:article/id "law/5237/article/240",
    :article/type :normal,
    :article/no "240",
-   :article/title "Mal veya hizmet satımından kaçınma98",
+   :article/title "Mal veya hizmet satımından kaçınma101",
    :article/path "articles/madde-240.md",
    :article/sha256
-   "aa3a46ed9ac94657f3be0ef2fd6c61096484d2da71441d24e194fa4ebb02a6a4"}
+   "fcc6a99d3ccc11c4cb35238bf7abd1428fced037ebe987c68f196ebe1a21da40"}
   {:article/id "law/5237/article/241",
    :article/type :normal,
    :article/no "241",
    :article/title "Tefecilik",
    :article/path "articles/madde-241.md",
    :article/sha256
-   "df256719391594e6907dd9ee1e28452dd0a70fe71cbf5cdde861ba1c9aa361aa"}
+   "9cc87b4869c17c51e4f0f1a8bbbb354b7ad63541f0f9f6eee459132013fb5856"}
   {:article/id "law/5237/article/242",
    :article/type :normal,
    :article/no "242",
@@ -1749,7 +1749,7 @@
    :article/title nil,
    :article/path "articles/madde-243.md",
    :article/sha256
-   "8124cc4ca218d8c212a547b1cfeda4801ad9f2a077fd60e48ffa94cd237742c6"}
+   "47f92e750f131ad80596ed2f6f933eebe815ce7a44f647d61ecd0e0a4559d373"}
   {:article/id "law/5237/article/244",
    :article/type :normal,
    :article/no "244",
@@ -1764,7 +1764,7 @@
    :article/title "Banka veya kredi kartlarının kötüye kullanılması",
    :article/path "articles/madde-245.md",
    :article/sha256
-   "653ba68a9794d337e7a3babefaeb5bc5fb3cde4fc9f9a9a7d027a0ef63ab41bd"}
+   "8cca1edd4563c8ca84f2eac96ca8cd5ba951c8cb75c1cf31910d998393f7337e"}
   {:article/id "law/5237/article/245/A",
    :article/type :normal,
    :article/no "245/A",
@@ -1840,10 +1840,10 @@
   {:article/id "law/5237/article/255",
    :article/type :normal,
    :article/no "255",
-   :article/title "Nüfuz ticareti101",
+   :article/title "Nüfuz ticareti104",
    :article/path "articles/madde-255.md",
    :article/sha256
-   "04f8ab1de46a8d6d821e485482a35754a8f3de6344830422d8deefc8d2255b20"}
+   "ec1e5aa5d2a65bc27822fee674b82a836b1f038e8a2ff773510239dbf3eede74"}
   {:article/id "law/5237/article/256",
    :article/type :normal,
    :article/no "256",
@@ -1854,17 +1854,17 @@
   {:article/id "law/5237/article/257",
    :article/type :normal,
    :article/no "257",
-   :article/title "Görevi kötüye kullanma102",
+   :article/title "Görevi kötüye kullanma105",
    :article/path "articles/madde-257.md",
    :article/sha256
-   "8132b65eaeac39132c73d65352823b82b63271cea6f6d10ff7125cdceeb4bfce"}
+   "ae2255edaaf2d7c295372dc9ecc060ab75d834aa961f9be3f5e8a1c4136c87b8"}
   {:article/id "law/5237/article/258",
    :article/type :normal,
    :article/no "258",
    :article/title "Göreve ilişkin sırrın açıklanması",
    :article/path "articles/madde-258.md",
    :article/sha256
-   "0b98069876f70bff06a91f7eb24fdbffa3f25483c09f2e1f7766286848fd6c46"}
+   "e6f61a653c35898891b8b61bf01833eea689de3a00b55bd4b85d48408bb2565b"}
   {:article/id "law/5237/article/259",
    :article/type :normal,
    :article/no "259",
@@ -1927,7 +1927,7 @@
    :article/title nil,
    :article/path "articles/madde-267.md",
    :article/sha256
-   "e340a654a151c5ba7a5e9e827f44e33242c39bcb49b898e37f340aa5214f5a24"}
+   "19edd23b7a9eb76e030626339b8ef03070538eb6c5396cd9c5c4de339fc41126"}
   {:article/id "law/5237/article/268",
    :article/type :normal,
    :article/no "268",
@@ -1935,21 +1935,21 @@
    "Başkasına ait kimlik veya kimlik bilgilerinin kullanılması",
    :article/path "articles/madde-268.md",
    :article/sha256
-   "3b648f3038063f149acbaea6a6bcda7acb9410e26dbedbb431d28fd7edba3043"}
+   "b409e923248f751ec5441ebc9e60cb01a9c680365e38a90b9a579b590a65a2e1"}
   {:article/id "law/5237/article/269",
    :article/type :normal,
    :article/no "269",
    :article/title nil,
    :article/path "articles/madde-269.md",
    :article/sha256
-   "2d5d037f87da07920361aad59dccae78782654e998ce21d0d19552ac665850f2"}
+   "0b4239b9e26522de9d5b45bab449b91d391819249e76621ec47603e45064dd2d"}
   {:article/id "law/5237/article/270",
    :article/type :normal,
    :article/no "270",
    :article/title "Suç üstlenme",
    :article/path "articles/madde-270.md",
    :article/sha256
-   "e6086864799135446642b9168f5f1bf9ab00a3d5a1b8e504f48fd707e7d005ac"}
+   "04cd80d25613d5e1529c17f99b2219a1792638957b27dad59c9b337dade89775"}
   {:article/id "law/5237/article/271",
    :article/type :normal,
    :article/no "271",
@@ -1963,7 +1963,7 @@
    :article/title "Yalan tanıklık",
    :article/path "articles/madde-272.md",
    :article/sha256
-   "ef80b116ad404769be0f8c2519c68880a9a0dceebd93a49019deef7b5dd2dbf4"}
+   "866f5eb4b64ddaf02f56a1f8830ca900017316ab8e79e19b38c8d9a548fe3f3e"}
   {:article/id "law/5237/article/273",
    :article/type :normal,
    :article/no "273",
@@ -1971,7 +1971,7 @@
    "Şahsi cezasızlık veya cezanın azaltılmasını gerektiren sebepler",
    :article/path "articles/madde-273.md",
    :article/sha256
-   "1332da78656809020b60f1ee88e53a6507dfd241018a89d138ddab5c99695b12"}
+   "1bdc865876921e3499c3242bddf572f760567cdbb93b53ae55f1a9fc4a8af966"}
   {:article/id "law/5237/article/274",
    :article/type :normal,
    :article/no "274",
@@ -1992,36 +1992,36 @@
    :article/title "Gerçeğe aykırı bilirkişilik veya tercümanlık",
    :article/path "articles/madde-276.md",
    :article/sha256
-   "13e9536512a95b7c38bafe16d15cf61d7c0f20438e832e0ab98c60559d4558ee"}
+   "bc5dce1e14b2d84d8d93c5563b73e305386490d81cd1b6ffd91470c6a3c0c72b"}
   {:article/id "law/5237/article/277",
    :article/type :normal,
    :article/no "277",
    :article/title
-   "Yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye teşebbüs107",
+   "Yargı görevi yapanı, bilirkişiyi veya tanığı etkilemeye teşebbüs110",
    :article/path "articles/madde-277.md",
    :article/sha256
-   "f2203f6dd9bf46f1c75674c58059be9f6ac81a68cf0529227cd5aea9d85abf70"}
+   "b8e0235184c9907fd1fe14a4a3aed2a8a5054fcc9e90b61c47558e38f1259fa3"}
   {:article/id "law/5237/article/278",
    :article/type :normal,
    :article/no "278",
    :article/title "Suçu bildirmeme",
    :article/path "articles/madde-278.md",
    :article/sha256
-   "b80dc7abfbf0fa1dfa3d3caea1ab4171e6598913731c593f2d492eedca0f5ea0"}
+   "8cf26a387a41201822827300e8497731da8245b54be80c587f0d0a348d2da3fb"}
   {:article/id "law/5237/article/279",
    :article/type :normal,
    :article/no "279",
    :article/title "Kamu görevlisinin suçu bildirmemesi",
    :article/path "articles/madde-279.md",
    :article/sha256
-   "396ab715ad1376f3c8b9fcad8e1fffb87855963189a99086b6b0cab117f9edc7"}
+   "b06f4252a2b044397e892aba8759a76adc4c34244308d5046e6b51ac4f972a1d"}
   {:article/id "law/5237/article/280",
    :article/type :normal,
    :article/no "280",
    :article/title "Sağlık mesleği mensuplarının suçu bildirmemesi",
    :article/path "articles/madde-280.md",
    :article/sha256
-   "e63b284ddf67e34f9a19f2d5e4bfad2655f3dc961a5069c369e3aa03d7f2487d"}
+   "a9b2d13114a9fe4ac7db7a05f4801c09b8ddbe8179c783d4d366b2f587115faf"}
   {:article/id "law/5237/article/281",
    :article/type :normal,
    :article/no "281",
@@ -2033,17 +2033,17 @@
    :article/type :normal,
    :article/no "282",
    :article/title
-   "Suçtan kaynaklanan malvarlığı değerlerini aklama110",
+   "Suçtan kaynaklanan malvarlığı değerlerini aklama113",
    :article/path "articles/madde-282.md",
    :article/sha256
-   "83e844b6a59bce59cfd7d913e13f1850f24deb2e320699951c09a4745201349e"}
+   "96a602eefaf317df165b5bed641f526a7189cc24c92922ac279df48f35b8ef06"}
   {:article/id "law/5237/article/283",
    :article/type :normal,
    :article/no "283",
    :article/title "Suçluyu kayırma",
    :article/path "articles/madde-283.md",
    :article/sha256
-   "7eb6051702146ad1f2dd0c1f66603c23f79ebc4e5c9447a8df9fc9eddace807c"}
+   "9a2aaf3f64bcd98dc8ce08cabea6e116a27752ae0cdc845364ac479a20f27ab8"}
   {:article/id "law/5237/article/284",
    :article/type :normal,
    :article/no "284",
@@ -2071,7 +2071,7 @@
    :article/title "Genital muayene",
    :article/path "articles/madde-287.md",
    :article/sha256
-   "34f9dea03c2d6b96676ed7ceb971cdff0286e402ac6542cb996912ba22793a29"}
+   "a6e9fd14070ce6c23ba90b97eb10b68eef56e4225f64ee486ae5f3c588c5363d"}
   {:article/id "law/5237/article/288",
    :article/type :normal,
    :article/no "288",
@@ -2085,7 +2085,7 @@
    :article/title "Muhafaza görevini kötüye kullanma",
    :article/path "articles/madde-289.md",
    :article/sha256
-   "97555a298bd496537e4c65a6ed065ec8accf45cf7062d75ec00ba549daf0945b"}
+   "307653d508169f2eb637a96ce3c950ec8902ebad10ae723a28b069950690589f"}
   {:article/id "law/5237/article/290",
    :article/type :normal,
    :article/no "290",
@@ -2114,21 +2114,21 @@
    :article/title "Etkin pişmanlık",
    :article/path "articles/madde-293.md",
    :article/sha256
-   "1bc7d965fb0a60e2a69ec5aaa34463c4823887dfd1d9fb22a85c4b2c6b2c4384"}
+   "d302d5309bafaf6f3f671ab781dfbe9b24845f43c00e2fd0f21383e2809e5ad5"}
   {:article/id "law/5237/article/294",
    :article/type :normal,
    :article/no "294",
-   :article/title nil,
+   :article/title "Kaçmaya imkan sağlama",
    :article/path "articles/madde-294.md",
    :article/sha256
-   "950e605b6793d68ece285e986f9b5f20dee7fab4c29b479692cac97f7939f355"}
+   "70ea41562eb9fd09a47b6742dd59855087f67218133c2b49a604ee29ac6619f2"}
   {:article/id "law/5237/article/295",
    :article/type :normal,
    :article/no "295",
    :article/title "Muhafızın görevini kötüye kullanması",
    :article/path "articles/madde-295.md",
    :article/sha256
-   "92ff6fd5a5c83330b90a37c194837bae2d1dc618c85d4371df18f92523d263fc"}
+   "d443e6e7ebe22d5a778cf047ac34b98589fd090c08250d50141af562ba714b31"}
   {:article/id "law/5237/article/296",
    :article/type :normal,
    :article/no "296",
@@ -2163,21 +2163,21 @@
    :article/title "Devletin egemenlik alametlerini aşağılama",
    :article/path "articles/madde-300.md",
    :article/sha256
-   "dabb80c39b9a768e8f32cd0a95bb51d940c29d72cad2fccc1cadf7d31a6158f5"}
+   "b5f7158ac235e35ce1e2fb16131d8455df11aa9ddc9b211296eb4aad4c31cfee"}
   {:article/id "law/5237/article/301",
    :article/type :normal,
    :article/no "301",
    :article/title nil,
    :article/path "articles/madde-301.md",
    :article/sha256
-   "9a4ea340f97e3ee92e1b275468921cb0776646c9c2339b28b480d79742414ea0"}
+   "bb96acdc5d4b65459e55005a4f75432a1bcfd0039725826b1bbcd3c79d6e4a2f"}
   {:article/id "law/5237/article/302",
    :article/type :normal,
    :article/no "302",
    :article/title nil,
    :article/path "articles/madde-302.md",
    :article/sha256
-   "441649ef4b6b6df4a7d366d1e7e78c9200123d91e35fe43eb380662428c940c7"}
+   "d60dc88d0ce384f827ac022dc66baca29e3ce5d2699859a0b64c9541273d6368"}
   {:article/id "law/5237/article/303",
    :article/type :normal,
    :article/no "303",
@@ -2196,10 +2196,10 @@
    :article/type :normal,
    :article/no "305",
    :article/title
-   "Temel millî yararlara karşı faaliyette bulunmak için yarar sağlama114",
+   "Temel millî yararlara karşı faaliyette bulunmak için yarar sağlama117",
    :article/path "articles/madde-305.md",
    :article/sha256
-   "b5a66db9e8dfab35564447729d3772d1aed3c62eaa617cfa2b02bf557f1969b8"}
+   "9b7e0ab042cb7192741e500d18c3060db38f129674ea38b38a8d9d23ab295d04"}
   {:article/id "law/5237/article/306",
    :article/type :normal,
    :article/no "306",
@@ -2214,7 +2214,7 @@
    "Askerî tesisleri tahrip ve düşman askerî hareketleri yararına anlaşma",
    :article/path "articles/madde-307.md",
    :article/sha256
-   "175e48a4e7117220bb81ad147f412095bed8dbe39c914f556769c261e2dc7973"}
+   "be398eaff946e251ab18a1e14e62b34868fca375c1b1674717605baca7d230cf"}
   {:article/id "law/5237/article/308",
    :article/type :normal,
    :article/no "308",
@@ -2263,7 +2263,7 @@
    :article/title "Silâhlı örgüt",
    :article/path "articles/madde-314.md",
    :article/sha256
-   "11face39d63f8f9315fd56867ce2fae8e7fb46580df6654c444be7cf2a9ce651"}
+   "e7c910308ec8f6a96d29f852effc23634d2e5b33762a8245b39d7db0c9dab257"}
   {:article/id "law/5237/article/315",
    :article/type :normal,
    :article/no "315",
@@ -2277,7 +2277,7 @@
    :article/title "Suç için anlaşma",
    :article/path "articles/madde-316.md",
    :article/sha256
-   "128f84f8d433a6924e919f43d0388627ec585e77b055534402f6d16c0cd93590"}
+   "e39e7ff18c603470258bffd7066eb41947c929f804786251210b663af0c74c97"}
   {:article/id "law/5237/article/317",
    :article/type :normal,
    :article/no "317",
@@ -2291,7 +2291,7 @@
    :article/title "Halkı askerlikten soğutma",
    :article/path "articles/madde-318.md",
    :article/sha256
-   "d1f07b593e9a9ed3cc6e05031f0aab5ce7763a6d12d75238eed9636bc92ea55d"}
+   "e2d98aae528e71dc7edbf890a74e1d8875e529cddff955b7638f615684e0efd3"}
   {:article/id "law/5237/article/319",
    :article/type :normal,
    :article/no "319",
@@ -2484,11 +2484,11 @@
    :article/title "Yürürlük",
    :article/path "articles/madde-344.md",
    :article/sha256
-   "43d03ca9b442d072a368214657ae4cdf596d93c99d084b2010f09113e179e59d"}
+   "cbdb2d5752b6e952f3780f1a227ced46e9e38d390266a121b6bf837d1eec4d8f"}
   {:article/id "law/5237/article/345",
    :article/type :normal,
    :article/no "345",
    :article/title "Yürütme",
    :article/path "articles/madde-345.md",
    :article/sha256
-   "89e34803bfc12a9da514972ce5f71b2a0d61b8faed54537c9bf874cb5efcc80a"}]}
+   "bcb6c516f79d1d7bdfa1f6240c008f3ac3292fb2211128b135aceb1cd44984e2"}]}

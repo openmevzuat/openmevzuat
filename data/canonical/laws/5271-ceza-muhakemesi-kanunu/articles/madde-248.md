@@ -4,10 +4,11 @@
 gelmesini sağlamak amacıyla Türkiye'de bulunan mallarına, hak ve alacaklarına amaçla
 orantılı olarak Cumhuriyet savcısının istemi üzerine sulh ceza hâkimi veya mahkeme
 kararıyla elkonulabilir ve gerektiğinde idaresi için kayyım atanır. Elkoyma ve kayyım atama
-kararı müdafiine bildirilir.87
-(2) Birinci fıkra hükmü;
-a) Türk Ceza Kanununda tanımlanan;
 
+83 24/11/2016 tarihli ve 6763 sayılı Kanunun 32 nci maddesiyle, bu maddenin birinci fıkrasına
+“Hakkındaki” ibaresinden sonra gelmek üzere “soruşturmanın veya” ibaresi, “bu nedenle” ibaresinden
+sonra gelmek üzere “Cumhuriyet savcısı veya” ibaresi, ikinci fıkrasına “dolayı” ibaresinden sonra gelmek
+üzere “soruşturma veya” ibaresi, “olan” ibaresinden sonra gelmek üzere “şüpheli veya” ibaresi, “yetkili”
 ve “ise,” ibarelerinden sonra gelmek üzere “Cumhuriyet savcısı veya” ibaresi ve aynı fıkranın (a) bendine
 “gazete ile” ibaresinden sonra gelmek üzere “şüpheli veya” ibaresi eklenmiştir.
 84 Bu maddeye 25/5/2005 tarihli ve 5353 sayılı Kanunun 31 inci maddesiyle ikinci fıkra eklenmiş ve
@@ -20,9 +21,9 @@ sayılı Kanunun 11 inci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 “orantılı olarak” ibaresinden sonra gelmek üzere “Cumhuriyet savcısının istemi üzerine sulh ceza
 hâkimi veya” ibaresi eklenmiş; ikinci fıkrasının (a) bendine (16) numaralı alt bendinden sonra gelmek
 üzere (17) numaralı alt bent eklenmiş, diğer alt bentler buna göre teselsül ettirilmiştir.
-87 2/1/2017 tarihli ve 680 sayılı KHK’nin 13 üncü maddesiyle, bu fıkrada yer alan “Kaçak sanığın”
-ibaresi “Kaçağın” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
-Kanunun 12 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
+kararı müdafiine bildirilir.87
+(2) Birinci fıkra hükmü;
+a) Türk Ceza Kanununda tanımlanan;
 1. Soykırım ve insanlığa karşı suçlar (madde 76, 77, 78),
 2. Göçmen kaçakçılığı ve insan ticareti (madde 79, 80),
 3. Hırsızlık (madde 141, 142),
@@ -55,14 +56,15 @@ tanımlanan suçlar,
 Hakkında uygulanır.
 (3) Elkonulan mal, hak ve alacakların korunmasında, elkoymaya ilişkin hükümler
 uygulanır. Tedbirlere ilişkin kararların özetinin bir gazetede ilânına sulh ceza hâkimince veya
+
+87 2/1/2017 tarihli ve 680 sayılı KHK’nin 13 üncü maddesiyle, bu fıkrada yer alan “Kaçak sanığın”
+ibaresi “Kaçağın” şeklinde değiştirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7072 sayılı
+Kanunun 12 nci maddesiyle aynen kabul edilerek kanunlaşmıştır.
 mahkemece karar verilebilir.88
 (4) Kaçak yakalandığında veya kendiliğinden gelerek teslim olduğunda elkoymanın
 kaldırılmasına karar verilir.
 (5) Kaçak hakkında 100 üncü ve sonraki maddeler gereğince, sulh ceza hâkimi veya
 mahkeme tarafından yokluğunda tutuklama kararı verilebilir.
-
-88 24/11/2016 tarihli ve 6763 sayılı Kanunun 33 üncü maddesiyle, bu fıkrada yer alan “ilânına”
-ibaresinden sonra gelmek üzere “sulh ceza hâkimince veya” ibaresi eklenmiştir.
 (6) Sulh ceza hâkimi veya mahkeme elkoymaya karar verdiğinde, kaçağın yasal olarak
 bakmakla yükümlü bulunduğu yakınlarının alınan tedbirler nedeniyle yoksulluğa
 düşebileceklerini saptarsa, bunların geçimlerini sağlamak üzere, elkonulan mal varlığından

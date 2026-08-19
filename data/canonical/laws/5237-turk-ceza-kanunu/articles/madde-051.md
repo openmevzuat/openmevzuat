@@ -5,9 +5,9 @@ mahkûm edilen kişinin cezası ertelenebilir. Bu sürenin üst sınırı, fiili
 yaşını doldurmamış veya altmışbeş yaşını bitirmiş olan kişiler bakımından üç yıldır. Ancak,
 erteleme kararının verilebilmesi için kişinin;
 
-7 26/2/2008 tarihli ve 5739 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan "yaptırımın" ibaresi
+9 26/2/2008 tarihli ve 5739 sayılı Kanunun 4 üncü maddesiyle bu fıkrada yer alan "yaptırımın" ibaresi
 "tedbirin" olarak değiştirilmiştir.
-8 14/4/2020 tarihli ve 7242 sayılı Kanunun 8 inci maddesiyle, altıncı fıkrada yer alan “hükmü veren
+10 14/4/2020 tarihli ve 7242 sayılı Kanunun 8 inci maddesiyle, altıncı fıkrada yer alan “hükmü veren
 mahkeme” ibaresi “infaz hâkimliği” ve yedinci fıkrada yer alan “hükmü veren mahkemece” ibaresi
 “infaz hâkimliğince” şeklinde değiştirilmiştir.
 a) Daha önce kasıtlı bir suçtan dolayı üç aydan fazla hapis cezasına mahkûm
@@ -19,7 +19,7 @@ gerekir.
 önceki hale getirme veya tazmin suretiyle tamamen giderilmesi koşuluna bağlı tutulabilir. Bu
 durumda, koşul gerçekleşinceye kadar cezanın infaz kurumunda çektirilmesine devam edilir.
 Koşulun yerine getirilmesi halinde, infaz hâkimi kararıyla hükümlü infaz kurumundan derhal
-salıverilir.9
+salıverilir.11
 (3) Cezası ertelenen hükümlü hakkında, bir yıldan az, üç yıldan fazla olmamak üzere,
 bir denetim süresi belirlenir. Bu sürenin alt sınırı, mahkûm olunan ceza süresinden az olamaz.
 (4) Denetim süresi içinde;
@@ -36,19 +36,20 @@ görevlendirebilir. Bu kişi, kötü alışkanlıklardan kurtulmasını ve sorum
 hayat sürmesini temin hususunda hükümlüye öğütte bulunur; eğitim gördüğü kurum
 yetkilileri veya nezdinde çalıştığı kişilerle görüşerek, istişarelerde bulunur; hükümlünün
 davranışları, sosyal uyumu ve sorumluluk bilincindeki gelişme hakkında üçer aylık sürelerle
-rapor düzenleyerek infaz hâkimine verir.9
+rapor düzenleyerek infaz hâkimine verir.11
 (6) Mahkeme, hükümlünün kişiliğini ve sosyal durumunu göz önünde bulundurarak,
 denetim süresinin herhangi bir yükümlülük belirlemeden veya uzman kişi görevlendirmeden
 geçirilmesine de karar verebilir.
 (7) Hükümlünün denetim süresi içinde kasıtlı bir suç işlemesi veya kendisine yüklenen
 yükümlülüklere, infaz hâkiminin uyarısına rağmen, uymamakta ısrar etmesi halinde; ertelenen
 cezanın kısmen veya tamamen infaz kurumunda çektirilmesine infaz hâkimliğince karar
-verilir.10
-(8) Denetim süresi yükümlülüklere uygun veya iyi halli olarak geçirildiği takdirde,
+verilir.12
 
-9 14/4/2020 tarihli ve 7242 sayılı Kanunun 9 uncu maddesiyle, ikinci fıkrada yer alan “hakim” ibaresi
-“infaz hâkimi”, beşinci fıkrada yer alan “hakime” ibaresi “infaz hâkimine” şeklinde değiştirilmiştir.
-10 14/4/2020 tarihli ve 7242 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan “hakimin” ibaresi
+11 14/4/2020 tarihli ve 7242 sayılı Kanunun 9 uncu maddesiyle, ikinci fıkrada yer alan “hakim”
+ibaresi “infaz hâkimi”, beşinci fıkrada yer alan “hakime” ibaresi “infaz hâkimine” şeklinde
+değiştirilmiştir.
+12 14/4/2020 tarihli ve 7242 sayılı Kanunun 9 uncu maddesiyle, bu fıkrada yer alan “hakimin” ibaresi
 “infaz hâkiminin” şeklinde değiştirilmiş ve aynı fıkraya “çektirilmesine” ibaresinden sonra gelmek
 üzere “infaz hâkimliğince” ibaresi eklenmiştir.
+(8) Denetim süresi yükümlülüklere uygun veya iyi halli olarak geçirildiği takdirde,
 ceza infaz edilmiş sayılır.

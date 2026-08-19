@@ -7,11 +7,11 @@ uyulur.
 b) Gelir veya Kurumlar Vergisi mükellefleri tarafından Kurum ve kuruluşlarına
 makbuz karşılığında yapılacak nakdî ve aynî bağışlar Gelir ve Kurumlar Vergisi kanunları
 hükümlerine göre yıllık beyanname ile bildirilecek gelirlerden ve Kurum kazancından
-indirilir.20
+indirilir.21
 c) Kurum ve kuruluşlarınca hizmetin gereği olarak ithal edilen makine, teçhizat,
 malzeme ve yayınlar gümrük vergisi ve buna bağlı vergi, resim ve harçtan muaftır. Bu
 muafiyet hükümleri bağış ve yardım yoluyla gelen aynı cins malzemeler için şartsız olarak
-uygulanır.21
+uygulanır.22
 d) Türkiye Çocuk Esirgeme Kurumuna kanunlarla verilmiş olan imtiyazlar, Kurum
 için de aynen uygulanır.
 

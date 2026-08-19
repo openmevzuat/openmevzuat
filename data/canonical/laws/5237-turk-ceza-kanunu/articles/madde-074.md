@@ -9,5 +9,5 @@ etkilemez. Ancak, genel af halinde yargılama giderleri de istenemez.
 
 Önödeme
 
-23 19/12/2006 tarihli ve 5560 sayılı Kanunun 2 nci maddesiyle bu başlıkta yer alan “, uzlaşma” ibaresi
+25 19/12/2006 tarihli ve 5560 sayılı Kanunun 2 nci maddesiyle bu başlıkta yer alan “, uzlaşma” ibaresi
 metinden çıkarılmıştır.

@@ -8,12 +8,12 @@
  :document/path
  "data/canonical/laws/6136-atesli-silahlar-ve-bicaklar-ile-diger-aletler-hakkinda-kanun",
  :document/sha256
- "de5d7130c8999de012ee36d186b59822c1d009bb4e3b7d435e566732a1e3cd5e",
+ "661710c413b750d2aaabc0949e07de673dd018ab9b8e3c7df41d18257863f894",
  :source/name "Mevzuat Bilgi Sistemi",
  :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.3.6136.pdf",
- :source/fetched-at #inst "2026-07-16T02:58:02.403-00:00",
- :openmevzuat/baseline-date "2026-07-16",
- :openmevzuat/generated-at #inst "2026-07-16T02:57:18.377-00:00",
+ :source/fetched-at #inst "2026-08-19T05:20:10.179-00:00",
+ :openmevzuat/baseline-date "2026-08-19",
+ :openmevzuat/generated-at #inst "2026-08-19T05:19:39.785-00:00",
  :content/language "tr",
  :content/format :markdown,
  :content/granularity :article,
@@ -110,6 +110,13 @@
    :article/path "articles/madde-013.md",
    :article/sha256
    "f2c0d69f571114bd5d719e88c15a61adc98dbe1e9420f01f949b85d72a599dd8"}
+  {:article/id "law/6136/article/13/A",
+   :article/type :normal,
+   :article/no "13/A",
+   :article/title nil,
+   :article/path "articles/madde-013-a.md",
+   :article/sha256
+   "8149bbf3672fd5835f058eb2655444bd47aac13ef355e00b9b071b16f8e3e1c3"}
   {:article/id "law/6136/article/14",
    :article/type :normal,
    :article/no "14",
@@ -137,7 +144,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-001.md",
    :article/sha256
-   "50249ba158700b9ba71215580fdb5d0bce3bca336b76af39faa1c8656de9bfb9"}
+   "9f7578ff3fecade927efe1a8c79046a828e5be780ba8cb4fa5c5c8f0716dde7f"}
   {:article/id "law/6136/article/2",
    :article/type :additional,
    :article/no "2",
@@ -172,7 +179,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-006.md",
    :article/sha256
-   "7c125f3a6fe7c1b13b257a3cf4d21cf51ae2b5138047381aec441d22eef2e847"}
+   "a1aa55469d203dbaf47133fdb0cecd8159e0f12fdd4c88a2b86bd4ecbfc63d57"}
   {:article/id "law/6136/article/7",
    :article/type :additional,
    :article/no "7",
@@ -186,7 +193,7 @@
    :article/title nil,
    :article/path "articles/ek-madde-008.md",
    :article/sha256
-   "2b84b7a13780f9ef8a0828b3eb67c165d4b6427b4b1fc8c956391ba074ab320e"}
+   "53a13653904ccb0bcbeef1b920c581c7057e3476bd1315e056c88eb8b8240f59"}
   {:article/id "law/6136/article/9",
    :article/type :additional,
    :article/no "9",
@@ -228,7 +235,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-002.md",
    :article/sha256
-   "6ed009a195655009bbd24f32025018f5c40a168928e205ed980cba91c47ee97e"}
+   "888af89090edebdffe59bff58c8ad29bac56972ba35355cea2725cb70a5b67cb"}
   {:article/id "law/6136/article/3",
    :article/type :temporary,
    :article/no "3",
@@ -242,7 +249,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-004.md",
    :article/sha256
-   "cdce6bd849b6f78215df7615acee976bc08a404f33ab3d3fa9c49a8560ad2e38"}
+   "ac4ca3654b791dc94094b3e1255a44fb537443cbf85bab222440c82680360736"}
   {:article/id "law/6136/article/5",
    :article/type :temporary,
    :article/no "5",
@@ -284,7 +291,7 @@
    :article/title nil,
    :article/path "articles/gecici-madde-010.md",
    :article/sha256
-   "9e55a0131ff4af9f50432750ae32b956d0dd0b3df5aefdc139a18f346cd9fe46"}
+   "4a64daa8a071402e47c6742ee9f8101a1d3b96b78905630221575f7c96e6619e"}
   {:article/id "law/6136/article/17",
    :article/type :normal,
    :article/no "17",

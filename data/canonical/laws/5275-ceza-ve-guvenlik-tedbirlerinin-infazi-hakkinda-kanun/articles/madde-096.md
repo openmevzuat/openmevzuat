@@ -1,4 +1,4 @@
-# MADDE 96 — İş arama izni
+# MADDE 96
 
 (1) Ceza infaz kurumlarında hükümlülük sürelerinin en az altı ayını
 kesintisiz geçirmiş ve koşullu salıverilmelerine bir ay kalmış hükümlülere olağan

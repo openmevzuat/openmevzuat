@@ -1,8 +1,8 @@
 # MADDE 26 — Mahkemelerin görevi
 
 (1) Çocuk mahkemesi, asliye ceza mahkemesi ile sulh ceza mahkemesinin
-görev alanına giren suçlar bakımından, suça sürüklenen çocuklar hakkında açılacak davalara
-bakar.
+görev alanına giren suçlar bakımından, adli süreçteki çocuklar hakkında açılacak davalara
+bakar.10
 (2) Çocuk ağır ceza mahkemesi, çocuklar tarafından işlenen ve ağır ceza mahkemesinin
 görev alanına giren suçlarla ilgili davalara bakar.
 (3) Mahkemeler ve çocuk hâkimi, bu Kanunda ve diğer kanunlarda yer alan tedbirleri

@@ -1,8 +1,11 @@
-# MADDE 255 — Nüfuz ticareti101
+# MADDE 255 — Nüfuz ticareti104
 
 (Değişik: 2/7/2012-6352/89 md.)
 (1) Kamu görevlisi üzerinde nüfuz sahibi olduğundan bahisle, haksız bir işin
 gördürülmesi amacıyla girişimde bulunması için, doğrudan veya aracılar vasıtasıyla,
+
+104 2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
+iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
 kendisine veya bir başkasına menfaat temin eden kişi, iki yıldan beş yıla kadar hapis ve
 beşbin güne kadar adli para cezası ile cezalandırılır. Kişinin kamu görevlisi olması halinde,
 verilecek hapis cezası yarı oranında artırılır. İşinin gördürülmesi karşılığında veya
@@ -14,9 +17,6 @@ gibi cezaya hükmolunur.
 fakat bunun kabul edilmemesi ya da menfaat teklif veya vaadinde bulunulması ve fakat bunun
 kabul edilmemesi hallerinde, birinci fıkra hükmüne göre verilecek ceza yarı oranında indirilir.
 (4) Nüfuz ticareti suçuna aracılık eden kişi, müşterek fail olarak, birinci fıkrada
-
-101 2/7/2012 tarihli ve 6352 sayılı Kanunun 89 uncu maddesiyle bu madde başlığı “Yetkili olmadığı bir
-iş için yarar sağlama” iken, metne işlendiği şekilde değiştirilmiştir.
 belirtilen ceza ile cezalandırılır.
 (5) Nüfuz ticareti ilişkisinde dolaylı olarak kendisine menfaat sağlanan üçüncü gerçek
 kişi veya tüzel kişinin menfaati kabul eden yetkilileri, müşterek fail olarak, birinci fıkrada

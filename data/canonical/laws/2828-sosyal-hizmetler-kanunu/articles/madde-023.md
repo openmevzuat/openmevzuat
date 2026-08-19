@@ -5,7 +5,7 @@ bakımı ve yetiştirilmesi bu Kanuna göre kurulmuş kuruluşlarda olduğu kada
 denetim ve gözetiminde bir "Koruyucu Aile" tarafından da yerine getirilebilir. (Değişik ikinci
 cümle: 6/2/2014-6518/18 md.) Koruyucu aileye, korunmaya ihtiyacı olan çocuğun bakımı ve
 yetiştirilmesine karşılık olarak üçüncü fıkra kapsamında ödeme yapılabileceği gibi koruyucu
-aile bu işi gönüllü olarak da üstlenebilir.2526
+aile bu işi gönüllü olarak da üstlenebilir.2627
 (Ek fıkra:22/4/2026-7578/5 md.) Koruyucu aile sözleşmesi devam eden koruyucu
 ailelerde eşlerden birinin, sigortalı olarak ay içerisinde otuz günden az çalışması ya da tam
 gün çalışmaması sebebiyle isteğe bağlı sigortalı olanlar hariç olmak üzere, sosyal güvenlik
@@ -23,13 +23,13 @@ tutarlarına, yapılacak ödemelerin usul ve esası ile ikinci fıkra kapsamınd
 ödemelerine, koruyucu ailelerin seçimine, çocukla ilgili sorumluluklarına ve hizmetin
 işleyişine ilişkin usul ve esaslar, Hazine ve Maliye Bakanlığının uygun görüşü üzerine Aile ve
 Sosyal Hizmetler Bakanlığı tarafından çıkarılan yönetmelikle belirlenir ve bu kapsamda
-verilecek ödemelerden hiçbir kesinti yapılmaz.27
+verilecek ödemelerden hiçbir kesinti yapılmaz.28
 
-25 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri
+26 6/2/2014 tarihli ve 6518 sayılı Kanunun 30 uncu maddesiyle, bu fıkrada yer alan “muhtaç” ibareleri
 “ihtiyacı olan” şeklinde değiştirilmiştir.
-26 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan
+27 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkranın ikinci cümlesinde yer alan
 “ikinci” ibaresi “üçüncü” şeklinde değiştirilmiştir.
-27 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile”
+28 22/4/2026 tarihli ve 7578 sayılı Kanunun 5 inci maddesiyle bu fıkrada yer alan “usul ve esası ile”
 ibaresinden sonra gelmek üzere “ikinci fıkra kapsamında isteğe bağlı sigorta ödemelerine,” ibaresi
 
-Korunma kararının süresi ve kaldırılması:28
+Korunma kararının süresi ve kaldırılması:29

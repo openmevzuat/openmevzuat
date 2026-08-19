@@ -13,6 +13,10 @@ tutukevi olmaması,
 f) Mahkûmiyet sürelerine uygun hükümlülerin barındırıldığı bir kurum olması,
 g) Daha önce disiplin nedeniyle ayrılmak zorunda kaldıkları kurum olmaması,
 Gerekir. (Ek cümle : 24/1/2013-6411/7 md.) Çocuk hükümlüler ile maddi durumunun
-yetersiz olduğunu belgelendiren hükümlüler bakımından bu fıkranın (b) bendi uygulanmaz.20
+yetersiz olduğunu belgelendiren hükümlüler bakımından bu fıkranın (b) bendi uygulanmaz.21
 (2) Bu hükümlüler nakledildikleri kurumlarda, eğitim öğretim veya hastalık nedeniyle
 nakil hariç, bir yıl kalmak zorundadırlar. Çocuklar bakımından bu süre altı ay olarak uygulanır.
+
+21 17/6/2021 tarihli ve 7328 sayılı Kanunun 6 ncı maddesiyle, bu fıkraya “Çocuk hükümlüler”
+ibaresinden sonra gelmek üzere “ile maddi durumunun yetersiz olduğunu belgelendiren hükümlüler”
+ibaresi eklenmiştir.

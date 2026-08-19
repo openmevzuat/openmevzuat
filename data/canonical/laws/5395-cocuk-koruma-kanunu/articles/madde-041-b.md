@@ -1,4 +1,4 @@
-# MADDE 41/B — Çocuk teslimine dair ilam veya tedbir kararlarının yerine getirilmesi
+# MADDE 41/B
 
 (Ek:24/11/2021-7343/40 md.)
 (1) Çocuk teslimine dair ilam veya tedbir kararları, yükümlüsü tarafından rızasıyla

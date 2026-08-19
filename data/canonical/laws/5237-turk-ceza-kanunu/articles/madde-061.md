@@ -5,7 +5,7 @@ a) Suçun işleniş biçimini,
 b) Suçun işlenmesinde kullanılan araçları,
 c) Suçun işlendiği zaman ve yeri,
 
-17 17/6/2021 tarihli ve 7328 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “koşullu
+19 17/6/2021 tarihli ve 7328 sayılı Kanunun 5 inci maddesiyle, bu fıkrada yer alan “koşullu
 salıverilmeden yararlandıktan” ibaresi “denetimli serbestlik tedbiri uygulanarak cezasının infazına
 veya koşullu salıverilmesine karar verildikten” şeklinde değiştirilmiştir.
 d) Suçun konusunun önem ve değerini,
@@ -38,6 +38,6 @@ miktarın çarpılması suretiyle bulunur.
 öngörüldüğü suçlarda bu cezaya ilişkin gün biriminin alt sınırı, o suç tanımındaki hapis
 cezasının alt sınırından az; üst sınırı da, hapis cezasının üst sınırından fazla olamaz.
 (10) Kanunda açıkça yazılmış olmadıkça cezalar ne artırılabilir, ne eksiltilebilir, ne de
-değiştirilebilir.1819
+değiştirilebilir.2021
 
 Takdiri indirim nedenleri

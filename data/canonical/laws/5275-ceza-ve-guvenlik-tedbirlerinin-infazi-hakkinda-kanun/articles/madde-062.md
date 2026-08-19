@@ -4,9 +4,14 @@
 süresiz yayınlardan bedelini ödeyerek yararlanma hakkına sahiptir.
 (2) Resmî kurumlar, üniversiteler, kamu kurumu niteliğindeki meslek kuruluşları ile
 mahkemelerce yasaklanmamış olması koşuluyla Cumhurbaşkanınca vergi muafiyeti tanınan
+
+26 3/10/2016 tarihli ve 676 sayılı KHK’nin 6 ncı maddesiyle, bu maddeye (4) numaralı fıkradan sonra
+gelmek üzere (5), (6), (7), (8), (9), (10), (11) numaralı fıkralar eklenmiş ve mevcut (5) numaralı fıkra
+buna göre teselsül ettirilmiş, daha sonra bu hüküm 1/2/2018 tarihli ve 7070 sayılı Kanunun 6 ncı
+maddesiyle aynen kabul edilerek kanunlaşmıştır.
 vakıflar ve kamu yararına çalışan dernekler tarafından çıkartılan gazete, kitap ve basılı
 yayınlar, hükümlülere ücretsiz olarak ve serbestçe verilir. Eğitim ve öğretimine devam eden
-hükümlülerin ders kitapları denetime tâbi tutulamaz.26
+hükümlülerin ders kitapları denetime tâbi tutulamaz.27
 (3) (Değişik:14/4/2020-7242/32 md.) Kurum disiplinini, düzenini veya güvenliğini
 bozan ya da tehlikeye düşüren, hükümlülerin iyileştirilmesi amacına ulaşmayı zorlaştıran yahut
 müstehcen haber, yazı, fotoğraf ve yorumları kapsayan hiçbir yayın hükümlüye verilmez.

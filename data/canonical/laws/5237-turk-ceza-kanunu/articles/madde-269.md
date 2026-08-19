@@ -14,6 +14,12 @@ c) Hükmolunan cezanın infazına başlanması halinde, verilecek cezanın üçt
 fiil dolayısıyla;
 a) İdari yaptırıma karar verilmeden önce etkin pişmanlıkta bulunulması halinde,
 verilecek cezanın yarısı,
+
+106 Anayasa Mahkemesi’nin 10/4/2013 tarihli ve E.: 2013/14, K.: 2013/56 sayılı Kararı ile bu fıkranın
+“…süreli hapis cezasına mahkûmiyeti halinde, mahkûm olunan cezanın üçte ikisi kadar hapis
+cezasına…” ibaresi iptal edilmiştir.
+107 29/6/2005 tarihli ve 5377 sayılı Kanunun 30 uncu maddesiyle bu fıkrada geçen "bu kişiye" ibaresi
+"başkasına" olarak değiştirilmiştir.
 b) İdari yaptırım uygulandıktan sonra etkin pişmanlıkta bulunulması halinde, verilecek
 cezanın üçte biri,
 indirilebilir.

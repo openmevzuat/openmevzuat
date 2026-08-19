@@ -10,10 +10,6 @@ pedagog ve sosyal çalışmacı Adalet Bakanlığı tarafından görevlendirilir
 (3) Müdürlük bulunmayan yerlerde bu Kısım kapsamında yer alan görevler, Adalet
 Bakanlığınca belirlenen hukuk mahkemeleri yazı işleri müdürlüğü tarafından yerine getirilir.
 (4) İlam ve tedbir kararlarının yerine getirilmesinde çocuğun yerleşim yeri müdürlüğü
-
-4 24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle bu Kanuna 41 inci maddesinden
-sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
-Kısım olarak teselsül ettirilmiştir.
 yetkilidir.
 (5) İlam ve tedbir kararları müdürlük tarafından görevlendirilen psikolog, pedagog,
 sosyal çalışmacı, çocuk gelişimci ve rehber öğretmen gibi uzmanlar, uzmanın bulunmadığı
@@ -23,3 +19,9 @@ tarafından kamu kurum ve kuruluşlarında görevli, beşinci fıkrada belirtile
 aldığı bir görevli listesi oluşturulur. Bu uzmanların yeterli sayıda olmaması hâlinde
 öğretmenler de listeye dâhil edilir. Bu listede yer alan uzman ve öğretmenlerin görev
 yapacakları yer ve tarihler müdürlükler tarafından belirlenir.
+
+Çocuk teslimine dair ilam veya tedbir kararlarının yerine getirilmesi
+
+19 24/11/2021 tarihli ve 7343 sayılı Kanunun 39 uncu maddesiyle bu Kanuna 41 inci maddesinden
+sonra gelmek üzere başlığı ile birlikte Dördüncü Kısım eklenmiş, mevcut Dördüncü Kısım, Beşinci
+Kısım olarak teselsül ettirilmiştir.

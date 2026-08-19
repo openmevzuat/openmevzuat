@@ -8,7 +8,7 @@ mahkemesince re'sen incelenir.
 (3) Ancak;
 a) (Değişik: 31/3/2011-6217/23 md.) Hapis cezasından çevrilen adlî para cezaları
 hariç olmak üzere, sonuç olarak belirlenen onbeşbin Türk Lirası dâhil adlî para cezasına
-mahkûmiyet hükümlerine,114
+mahkûmiyet hükümlerine,115
 b) Üst sınırı beşyüz günü geçmeyen adlî para cezasını gerektiren suçlardan beraat
 hükümlerine,
 c) Kanunlarda kesin olduğu yazılı bulunan hükümlere,

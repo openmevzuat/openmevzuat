@@ -5,7 +5,7 @@ ve kayın hısımları ile vasisi veya kayyımı tarafından haftada bir kez ve 
 kabullerinde, zorunlu hâller dışında bir daha değiştirilmemek üzere, ad ve adreslerini
 bildirdiği en fazla üç kişi tarafından, yarım saatten az ve bir buçuk saatten fazla olmamak
 üzere çalışma saatleri içinde ziyaret edilebilir. (Ek cümle: 24/1/2013-6411/9 md.) Çocuk
-hükümlüler için ziyaret süresi bir saatten az, üç saatten fazla olmamak üzere belirlenir.30
+hükümlüler için ziyaret süresi bir saatten az, üç saatten fazla olmamak üzere belirlenir.31
 (2) Birinci fıkrada belirtilenler dışındaki kimselerin ziyaretine Cumhuriyet Başsavcılığı
 tarafından yazılı olarak izin verilebilir.
 (3) Görüşler, koşul ve süreleri Adalet Bakanlığınca hazırlanan yönetmelikle kapalı ve

@@ -1,4 +1,4 @@
-# MADDE 57 — Akıl hastalarına özgü güvenlik tedbirleri16
+# MADDE 57 — Akıl hastalarına özgü güvenlik tedbirleri18
 
 (1) Fiili işlediği sırada akıl hastası olan kişi hakkında, koruma ve tedavi
 amaçlı olarak güvenlik tedbirine hükmedilir. Hakkında güvenlik tedbirine hükmedilen akıl
@@ -6,7 +6,7 @@ hastaları, yüksek güvenlikli sağlık kurumlarında koruma ve tedavi altına 
 (2) Hakkında güvenlik tedbirine hükmedilmiş olan akıl hastası, yerleştirildiği kurumun
 sağlık kurulunca düzenlenen raporda toplum açısından tehlikeliliğinin ortadan kalktığının veya
 
-16 17/6/2021 tarihli ve 7328 sayılı Kanunun 4 üncü maddesiyle, ikinci ve yedinci fıkrada yer alan
+18 17/6/2021 tarihli ve 7328 sayılı Kanunun 4 üncü maddesiyle, ikinci ve yedinci fıkrada yer alan
 “mahkeme veya hakim” ibareleri “infaz hâkimi” şeklinde ve altıncı fıkrada yer alan “mahkeme”
 ibaresi “infaz hâkimi” şeklinde değiştirilmiş, maddenin beşinci fıkrasına “dayanılarak,” ibaresinden
 sonra gelmek üzere “infaz hâkimliğince” ibaresi eklenmiştir.
