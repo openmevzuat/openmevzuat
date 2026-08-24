@@ -1,0 +1,63 @@
+{:document/id "decree/khk-301",
+ :document/type :decree,
+ :document/number "301",
+ :document/title
+ "2547 SAYILI YÜKSEKÖĞRETİM KANUNUNUN İKİ MADDESİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-301-2547-sayili-yuksekogretim-kanununun-iki-maddesinin-degistirilmesine-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-301-2547-sayili-yuksekogretim-kanununun-iki-maddesinin-degistirilmesine-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "63638b05fa76fb70c6cc1db1a2a13a4775eab14de7040126a9d1f501d1d64a06",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.301.pdf",
+ :source/fetched-at #inst "2026-08-24T22:10:07.154-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-301/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete Tarihi : 21.12.1987 No : 19671",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cdf99ec7d2575037647f6fbda179d288c204352a2b88d04a0dd75e491d9f9d7e"}
+  {:article/id "decree/khk-301/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "add170ab595d68326a78bc45fe16c52223a7d55af6eca9ca2a50e8129b71a050"}
+  {:article/id "decree/khk-301/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "0ad41dfd7cefd5944d7ffeee8171944c9faee2585928e14a4c1ac889f53dcb57"}
+  {:article/id "decree/khk-301/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "d98499a0ae6bc49b25a8972b8308f74d9c83cc15c33eebdfd90971219c01daac"}
+  {:article/id "decree/khk-301/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e92f073a802a477d7d16f4a92a101ebdbdb7e4c0999c92d7c6619e1add9d4071"}
+  {:article/id "decree/khk-301/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0fbcc8362b9107bd9b96c2d808fe008402ce35c635e5d21c71d248c7efcd89dd"}]}

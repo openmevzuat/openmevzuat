@@ -1,0 +1,62 @@
+{:document/id "decree/khk-504",
+ :document/type :decree,
+ :document/number "504",
+ :document/title
+ "YEDİ İLDE BÜYÜKŞEHİR BELEDİYESİ KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-504-yedi-ilde-buyuksehir-belediyesi-kurulmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-504-yedi-ilde-buyuksehir-belediyesi-kurulmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "0c3ba07230e895abb9b20460a50a83d88fae216707ae5d5b4977ec27b48e559a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.504.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:51.276-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-504/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 33",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "d1eed9cd1658d05447280deaff91cef9768b68eee95f532ab4853d4cc9498749"}
+  {:article/id "decree/khk-504/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1cdb9ccd2d6aa5d5e4cecf459c50b129e53a05495b01b76e50881180aea561ad"}
+  {:article/id "decree/khk-504/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "e007d74037b6721fab30c3ab540e713c279a2d5818ed66c1ef034383b383e285"}
+  {:article/id "decree/khk-504/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "5608d5c7c4b1c24bd5d3ff798ebb9e7e4e4f0bf5e316f3b8fecafde1e307c51e"}
+  {:article/id "decree/khk-504/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dcc1471a6aa4b2a0a17153a46de095a289b0ef9358d53d49ff10b9e6dc20b3eb"}
+  {:article/id "decree/khk-504/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ec0de4f258f5fd3fd7e636c7eb73572a6c9c8bb19823693528d99eca23f1a3fd"}]}

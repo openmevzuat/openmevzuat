@@ -1,0 +1,253 @@
+{:document/id "decree/cbk-13",
+ :document/type :decree,
+ :document/number "13",
+ :document/title
+ "STRATEJİ VE BÜTÇE BAŞKANLIĞI TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 13)",
+ :document/slug
+ "cbk-13-strateji-ve-butce-baskanligi-teskilati-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-13",
+ :document/path
+ "data/canonical/decrees/cbk-13-strateji-ve-butce-baskanligi-teskilati-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-13",
+ :document/sha256
+ "71d16d9047e2fff838b50ab2cf2c1e1fc34ed75c69e6e84195398a44dcb75209",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.13.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:44.775-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-13/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "78d063af60e3ca2fd7cad2eff9ea3ffdb265e49ab34afffbbebf0f64d4b772f6"}
+  {:article/id "decree/cbk-13/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Başkanlığın görev ve yetkileri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "84719b86863a847749ba792f082192ef4c1d68e18d78ccf33beadda8eb50dee4"}
+  {:article/id "decree/cbk-13/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Başkan",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "90cf360986a4699a6bfcedcf0691f9104362696b7d2baa6ac4e8d4435132d4af"}
+  {:article/id "decree/cbk-13/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Başkan Yardımcıları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "d7efdf52d9537998f62ced1c0288501efdfc9c86db1037f4d712aedd88fde0eb"}
+  {:article/id "decree/cbk-13/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hizmet birimleri3",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "1d906766f07e2c608b3e073cab6ce9c9b4b859da79d708c5585f3056112410d4"}
+  {:article/id "decree/cbk-13/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a657b0c48d4e20effe7b7223f2c0957f3d3d4ab9d123face198ac98d824552d7"}
+  {:article/id "decree/cbk-13/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "Ekonomik Modelleme ve Konjonktür Değerlendirme Genel Müdürlüğü",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "21a72fa6af8b98aab7752a14406a93635a0fee57d9c41d4750ac0f1969e2fb7d"}
+  {:article/id "decree/cbk-13/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Bütçe Genel Müdürlüğü",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "a13c098603261c3085e9678adb8801bb474ce532191ac8c38a50eda847de8d5f"}
+  {:article/id "decree/cbk-13/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Sektörler ve Kamu Yatırımları Genel Müdürlüğü",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "c1d9973b5116d6a5e2d8b4198fbded89afc4ddad85adcd62ab785f6e21d09a8e"}
+  {:article/id "decree/cbk-13/article/9/A",
+   :article/type :normal,
+   :article/no "9/A",
+   :article/title
+   "İSEDAK ve Uluslararası Kalkınma İşbirliği Genel Müdürlüğü",
+   :article/path "articles/madde-009-a.md",
+   :article/sha256
+   "e4b90b2a9f1b6a83975d3fe0275368f8f32cba04feb027de49a4b8bd188ed0ce"}
+  {:article/id "decree/cbk-13/article/9/B",
+   :article/type :normal,
+   :article/no "9/B",
+   :article/title "Devlet Yardımları Genel Müdürlüğü",
+   :article/path "articles/madde-009-b.md",
+   :article/sha256
+   "651132cd7c3b739f1ff8b5a85d9e418a7030d8381decd7a27f1e2735541eba88"}
+  {:article/id "decree/cbk-13/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yönetim Hizmetleri Genel Müdürlüğü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "8e04e79855dccff0092c4cccf0117145c02223aeb9f8de7ada8d9eabbf4e7a32"}
+  {:article/id "decree/cbk-13/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Strateji Geliştirme Dairesi Başkanlığı",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "1e01e08c034630e361329f7f253efc1975c2cecc03d7c6bbfcaad398e55812ab"}
+  {:article/id "decree/cbk-13/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Hukuk Müşavirliği",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "7fff3d8931f717e2f4fcc63dc68567b75d10890a2316d00b873e069782c9fddc"}
+  {:article/id "decree/cbk-13/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Basın ve Halkla İlişkiler Müşavirliği",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "c0859c21e88d821972753f6cdb9bbe4f7517d9ec5c7d17a36127b5a529980c9f"}
+  {:article/id "decree/cbk-13/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Özel Kalem Müdürlüğü",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "5d95242847637a5fc2a83b9089b11ac5e99a3eabcca3605870e274f455ff8e47"}
+  {:article/id "decree/cbk-13/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Yurtdışı teşkilatı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "edf54c6a66afcf295e312fe3f6f9cd87d4e52f406eda393d02e1e81f86232928"}
+  {:article/id "decree/cbk-13/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Çalışma grupları",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "457d637767360f38d20c8c1233bf580efa327d1c707ea2c126e049a2cb3c283d"}
+  {:article/id "decree/cbk-13/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "İşbirliği",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8dbeb0768dd2ce1cc33b3d6081b7dd2ac3fdb4ff4d4a6e632c47d32243f4636d"}
+  {:article/id "decree/cbk-13/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Bilgi toplama",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "ffb328a707d0e23604e9d84cadf4274ae7d8818d4d57cc0f6497e03f66bd95c3"}
+  {:article/id "decree/cbk-13/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Değerlendirme raporları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "b4eb67b2364b99b069b45913c625f7a6c2f1d2a22266cc14834bfb531c00f655"}
+  {:article/id "decree/cbk-13/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Sözleşmeli personel",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "83c1e6d559e8e31bed8334a855826c34a23a40aa4289cab4c89fc59facbd5e12"}
+  {:article/id "decree/cbk-13/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yöneticilerin sorumlulukları",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "48051f449ee5c30d7f7688d9deffac7868f1514a09cab8985b5d0e26effe4c49"}
+  {:article/id "decree/cbk-13/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yetki devri",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "0827b38be79832d425475be535a939d0b4bf6212e78ac6237ba3b3366049a62c"}
+  {:article/id "decree/cbk-13/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Düzenleme yetkisi",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "072f863b6cc7df6b0c638ee09282eb8eaf41807469510d68838d2e186656652a"}
+  {:article/id "decree/cbk-13/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Uzman istihdamı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "69ec5033e9d9e459dc7291650f95832c8faa1f2800677c172ea8b8ac7b6b158e"}
+  {:article/id "decree/cbk-13/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Görevlendirme",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "dace87413ec4b32adb36904ea016d3635f168827650aef1ba8c0f80dbf89b65a"}
+  {:article/id "decree/cbk-13/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "83f8148f1f8e47d5014026beaa5e568a0052b07453f0ed8728ba2b8ed0276250"}
+  {:article/id "decree/cbk-13/article/26/A",
+   :article/type :normal,
+   :article/no "26/A",
+   :article/title nil,
+   :article/path "articles/madde-026-a.md",
+   :article/sha256
+   "ca7f5a7661a0acbba50bef92bd2c08e14ecd0fff4b1e1f96526f17dbc00c6ede"}
+  {:article/id "decree/cbk-13/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Değiştirilen hükümler",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "84f4e537d2be0769c9660ad2d76d61c777b89a98292704a7764d3d5f7af34777"}
+  {:article/id "decree/cbk-13/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "70a3872a0cf25263cdd81149c00a3eed8044d0ca8ec45ddd34b57d19adc43ade"}
+  {:article/id "decree/cbk-13/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "6d6a07f2d72841671fbd8cebf24b26daeb448c559830f2ef8e814994497d295e"}
+  {:article/id "decree/cbk-13/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürütme",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "52c8c25de8bf3a85cf3cd1a11d7433350a2995023ff7028cb9a65bcf22a337e7"}]}

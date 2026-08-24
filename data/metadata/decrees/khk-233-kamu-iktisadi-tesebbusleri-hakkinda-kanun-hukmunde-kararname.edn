@@ -1,0 +1,582 @@
+{:document/id "decree/khk-233",
+ :document/type :decree,
+ :document/number "233",
+ :document/title
+ "KAMU İKTİSADİ TEŞEBBÜSLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-233-kamu-iktisadi-tesebbusleri-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-233-kamu-iktisadi-tesebbusleri-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "c5a3e254d9f87207a8e432e8bede01954b19b3ccefcec37a34b4b77bbac6bb05",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.233.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:42.071-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-233/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kapsam ve Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "cf46fc15862233a509c54647e1327f4f64d7bf02e1e484aa3cd69b68f69d77be"}
+  {:article/id "decree/khk-233/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "fe1342905b6f94fce12842c2f8150ff03d46a6c067e18088c2f44a8bceb49eaa"}
+  {:article/id "decree/khk-233/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c0cf089ad0dbc05d221d2882035f644ad5a1d5d6d307d7ac26771189c7a43fd1"}
+  {:article/id "decree/khk-233/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "5c6979a15246b426ccdf139344bbfe3b3610fdd8a022bdc638fce8965478a7c3"}
+  {:article/id "decree/khk-233/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "2f9d3fc31369bb6677f027c6b367ca192fb6417cd23e95539b0994370428b342"}
+  {:article/id "decree/khk-233/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "afa7181069b6e67a8b7b50bfbb71ec6207608467a29da8f4f68ae310993996f2"}
+  {:article/id "decree/khk-233/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "cb74c7c8d3958fb05a64e5b24d30af48d9aa2321695636a4d94fba139d850c94"}
+  {:article/id "decree/khk-233/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "3dafea56b0dce09afa65f516676498d2e062fdca3155cba96bf9474eb3143702"}
+  {:article/id "decree/khk-233/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "892b013232384922b96c51afa8a7d5ace92752d2c2afb76902477207ef7741a9"}
+  {:article/id "decree/khk-233/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "75593a3b77e7969752121906ff78fc65913d9721cc0ab5b39ae6fdc91fa24e43"}
+  {:article/id "decree/khk-233/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "a54aea72ba23ecd5d029177ff244222f29184a721867b1515255ada89fa06e15"}
+  {:article/id "decree/khk-233/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "00207af67b066f988ec5a15e0018906d3ce88d959fe1e9c659867195ba41768f"}
+  {:article/id "decree/khk-233/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Teşebbüs Genel Müdürünün görev ve yetkileri:7",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "860f85ae580ef8b35d6f2b5dd94a5c9db0db7edee56f6709b7b27a48864074d7"}
+  {:article/id "decree/khk-233/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "79b2066a5b146d20763dcee638b268c29948b21f7b84e42c1560a00f8eedfde9"}
+  {:article/id "decree/khk-233/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title nil,
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "e6eeaf598b2acee54f1a87e7f8a3fb1c93332366c49378067d211146cce0d3c2"}
+  {:article/id "decree/khk-233/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "576e316b52333e7db7ee47b3e01dfa5f43a7c888ad86581c9c395a92f3d30a61"}
+  {:article/id "decree/khk-233/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "c59836ecca8cac7cc662e3c2b06c4603701a4e311e502e9056af4e98b678191a"}
+  {:article/id "decree/khk-233/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "8ac4683bd32d07d57451f444d0155d3b73dbbc20d88305bc1a813feb2c17128f"}
+  {:article/id "decree/khk-233/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title nil,
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "663ccac0d9adcabfbe02fcc42a35661e736fd8f979c22c4c6be3845744cafec2"}
+  {:article/id "decree/khk-233/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d4d06a046013f23e607a8e6129877e0ede5a87e575c0d2c6c78160b9f7b3a0ae"}
+  {:article/id "decree/khk-233/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Müessese Müdürünün görev ve yetkileri:8",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "0cd13014cd37a56e1c2a6ee91e2311fc0fbad8eaa01144223066e6363b66d327"}
+  {:article/id "decree/khk-233/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "7cc05d28a61fc9186c54a09f5df4cbfd07ed49aaf0b4d75d861b860cf70fdff2"}
+  {:article/id "decree/khk-233/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "7816298053470e34ece2685a29428643b9e5eaaf8f8385c530a42f647d83d710"}
+  {:article/id "decree/khk-233/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "5bb81bce1a88a493032751b4a28e4ae245cf6f3325f15c555610b52a7a47a726"}
+  {:article/id "decree/khk-233/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "6227e7143760c02923135869741dd73487f501b1952895ebd93da2bd5aca13ab"}
+  {:article/id "decree/khk-233/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "c18b3b025b1f02db2b0b2b4f5c4b6442d9ea09a77c2c609a4a5f3637596fe6e8"}
+  {:article/id "decree/khk-233/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "100da815f4ddf39a73ca7b7a37e1d9ea3a4ea2cc5ca15be263d10de46d7667e2"}
+  {:article/id "decree/khk-233/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title nil,
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "9e99f4d9cb0cac5c94c053b0e138a43f7b924bcffcf22ea94a4efc587946c658"}
+  {:article/id "decree/khk-233/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "21669d28d61191bd4c042bb7a9bdb9cc2fca3243321847cd9108e318f9dec603"}
+  {:article/id "decree/khk-233/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title nil,
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "b91378d65232a6ec0129597159f4d53974139b7dbadd5b9ef01b7d91ddefbad5"}
+  {:article/id "decree/khk-233/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "e22272bcf2dd995d63649d82581288ac3c10f5649802adbbfad15d8cb3361d7a"}
+  {:article/id "decree/khk-233/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title nil,
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "90ea9d7e60acea5dba62b3c6e44874e9ecba1f092e6e6107c1b050a59323f11d"}
+  {:article/id "decree/khk-233/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "3a694c3bf46ad92c6c3b902848d36b042f66832e71e02e859dd1e25ca5b69e1c"}
+  {:article/id "decree/khk-233/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title nil,
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "3b6d23f89135a31dd1a974a701df282c6d1be69c278ef379d20ba5dca0c1f0eb"}
+  {:article/id "decree/khk-233/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title
+   "Teşebbüslerin uygulayacakları fiyatlar ve görev zararı uygulaması:1112",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "79d567719c22b826da045f9d1c23b8d96b9403629c9709cc34d0c5ead1515ef5"}
+  {:article/id "decree/khk-233/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title nil,
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "4cff9bf09a37942d194436ad21ab7549b0252de17ec3e074aad7db9be68bb1df"}
+  {:article/id "decree/khk-233/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title nil,
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "e60eb8f852bed483c6ea4fc64fb9306c9c3106d7310b13672243147b4235026b"}
+  {:article/id "decree/khk-233/article/37/A",
+   :article/type :normal,
+   :article/no "37/A",
+   :article/title "Teşebbüslerin temettü ödemeleri",
+   :article/path "articles/madde-037-a.md",
+   :article/sha256
+   "a5dd1368393f7ad17c2cd1b35ccc4597532c69c1ade89e9eb4c40b22a754226b"}
+  {:article/id "decree/khk-233/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "b6dce46dcfa0b46d45513954010dd4b16fcf58648901199d835bd99df3b5e88d"}
+  {:article/id "decree/khk-233/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title nil,
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "8d03b502fefe187b0aed35f305c9db08343154027f4c33fecc4d96486c636e27"}
+  {:article/id "decree/khk-233/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "2d3100f31a06ce562108e275f75ec77205afa4086b93b8c9d8bfa503df9f4d93"}
+  {:article/id "decree/khk-233/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title nil,
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "870081b319027a7b04e76182e5a5f2a9a89954f5a2f589e8a80bc2a4d05077f7"}
+  {:article/id "decree/khk-233/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "İstihdam Şekilleri",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "55277c6812d0d585a130cd5c51bbf72d67ae43bd4355c0d642a7c4a0ddffd445"}
+  {:article/id "decree/khk-233/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Personel İhtiyacı",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "f2cb64526fe2a831e1531dcc3abc96431eeb983421c10aac625598d644d65871"}
+  {:article/id "decree/khk-233/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "İşe Alma",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "bac9060860a20503cf215aafbbb075c401394c0db7a3508c4c6e2920d7ada865"}
+  {:article/id "decree/khk-233/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Sözleşme Ücreti ve Diğer Haklar",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "53ab61046e5b281bb2c3c29b95ff5794b31b78fc640f46f797b3231019544ca6"}
+  {:article/id "decree/khk-233/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Prim ve Ödül",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "e92fa07a7acbe688f3bf7f43c0e10f7cb8b7cdd2baad1f28d905c742695579a2"}
+  {:article/id "decree/khk-233/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Teşebbüs Personelinin Yükümlülük ve Sorumlulukları",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "5c2caa2f2b34eca01181de5e2122ae75beb6d620325dccef4c9582c0d41ea66f"}
+  {:article/id "decree/khk-233/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Yurt Dışında Görevlendirme",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "ff3213caf1c09a23df84f825a8ab7fc62d26ebb09529798944e6de820f8de0f1"}
+  {:article/id "decree/khk-233/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "Başka İş ve Hizmet Yasağı",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "a5d3f44c451881eb48cfb733a0cb5ffc220c427b45a9f0f6be60e2ec1461a304"}
+  {:article/id "decree/khk-233/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title nil,
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "570dd1c65a7be576c256f4b63b0d562dc1f0702553a49d2057d3cf30278f1606"}
+  {:article/id "decree/khk-233/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Siyasi Faaliyet Yasağı",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "5c3fe9845c5b7d630e7220b6d55a4c30659b100778c2fb87de7842e714791c76"}
+  {:article/id "decree/khk-233/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Vekalet Ücreti",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "fbb7428be1707b0d12e770683c67840648ce7e8e9dd0ce0c42a3cb88217c93ac"}
+  {:article/id "decree/khk-233/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Yüksek Planlama Kurulunun Yetkisi",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "dc279e49292984af52f3b410534046c10855938116a74e0d3b2dec8ade0313a1"}
+  {:article/id "decree/khk-233/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title nil,
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "494bf461c66a1eab7ad794cce7ebe9fb71fc6cc89b9372f6a7fa9b7ee231ead7"}
+  {:article/id "decree/khk-233/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title nil,
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "457aaf8dc392d27c52b351dfe65232bbba55d80c8153165823c38ec816e8d9d0"}
+  {:article/id "decree/khk-233/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title nil,
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "5e06c9c98a1771dffd74e5f00c78c44b4f46f92c4f826928ec243f2e195e45a6"}
+  {:article/id "decree/khk-233/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title nil,
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "b501c06529aea16465e19a4967d893632df8e2c42bb312f6a7688bd6e4827c63"}
+  {:article/id "decree/khk-233/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title nil,
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "8a20a3ae8fb95e91d084a2dcc08de414744ecb4fac5e71cab93e7d35b19ceb2e"}
+  {:article/id "decree/khk-233/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title nil,
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "309c92299160ff4ddc8c69131a536c599fa8c62206f25c49bd5b45ac7713c114"}
+  {:article/id "decree/khk-233/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title nil,
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "4f0f6fa9450a9f68a93352e9d973e31ebc6dd64ec8d18bded10f8c5e68a6fe8b"}
+  {:article/id "decree/khk-233/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title nil,
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "a2691055dbd0f505a66b4d41367b7b57a21bb0883d9ba1647ad954be2b4bb886"}
+  {:article/id "decree/khk-233/article/62",
+   :article/type :normal,
+   :article/no "62",
+   :article/title nil,
+   :article/path "articles/madde-062.md",
+   :article/sha256
+   "d7894adb118960858083ef5d00ee9a1dfe1fd3ef96b5a03bc7646de092e96ca5"}
+  {:article/id "decree/khk-233/article/63",
+   :article/type :normal,
+   :article/no "63",
+   :article/title nil,
+   :article/path "articles/madde-063.md",
+   :article/sha256
+   "e701a71af29b6c79353d3fe7088ae69f23dc6683183fc8caffda4bf23c8ff5aa"}
+  {:article/id "decree/khk-233/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title
+   "Ek Madde – (Ek: 5/1/1988 - KHK - 308/16 md.; Mülga: 12/12/1991 - KHK-465/1 md.)",
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "52c9c4e1a1d7ec993bd55c42977231ff30c8cf9a5d2bbf3be2b4c0feaa529f40"}
+  {:article/id "decree/khk-233/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "5abc31756e6b3914b4abea3c8ddecf0034d37f36aac750d9aae58f640a30fa99"}
+  {:article/id "decree/khk-233/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "84413d52c16d6f81ab9e7c0f3b0877b3cc325f9886eb35501a335d2aa5c29a4a"}
+  {:article/id "decree/khk-233/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "831e3c274b46cd4a72ea4ecfa6db1f64604770f2e26f8071b1c83817505bb39f"}
+  {:article/id "decree/khk-233/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "7f28bb34f23e7310e8156ce132df97e745f86b1114934101b8802ddfb6f3f172"}
+  {:article/id "decree/khk-233/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "368d6517b6c6512eb00c2c996afb2a5c78b4b9ebad56f1410c452e796f60d242"}
+  {:article/id "decree/khk-233/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "c8b722e32a4a95ef5a0d1f9326779152e847dbffd888417d28a0180fac1e6804"}
+  {:article/id "decree/khk-233/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "37928d9fb6e947e3ae84ee553d5c7ac29d50d8077f8a26468b58c989cfa071de"}
+  {:article/id "decree/khk-233/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "818bcd3ca43c7eae2ac13dec58b6f28045d6be07e8ed8ffb4d762e0d77bc2f43"}
+  {:article/id "decree/khk-233/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "ead3f8f44e17a52385017ca4e988f7efefd78e3ce84d1c04747c9333638d3a38"}
+  {:article/id "decree/khk-233/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "877f40652ba65eb0a7dd47be48af3baf4246454c00822e0bf31c9184196b4b95"}
+  {:article/id "decree/khk-233/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "5e4005b22c4cb99aa46b5590fe1ab65b5af25504ee4bf0e2205d999c847e5f5b"}
+  {:article/id "decree/khk-233/article/64",
+   :article/type :normal,
+   :article/no "64",
+   :article/title nil,
+   :article/path "articles/madde-064.md",
+   :article/sha256
+   "828e95bb037921f5d4e6753859b11a2b1413a547a47cf41696f3cbaf8779e573"}
+  {:article/id "decree/khk-233/article/65",
+   :article/type :normal,
+   :article/no "65",
+   :article/title nil,
+   :article/path "articles/madde-065.md",
+   :article/sha256
+   "a298f1f90746f889788794da5dbdb64f5b9cba58f6f0cdf75c151fa8b438c918"}
+  {:article/id "decree/khk-233/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "053d245c3216d9050809bbd6b25eba051363e026c7b7e823561dfd61332d251f"}
+  {:article/id "decree/khk-233/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "6c452c04e070fa41915f67db73e0a6ccc6a89fefc6352aec0e60656617c4c0ff"}]}

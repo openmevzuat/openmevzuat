@@ -1,0 +1,48 @@
+{:document/id "decree/khk-285",
+ :document/type :decree,
+ :document/number "285",
+ :document/title
+ "OLAĞANÜSTÜ HAL BÖLGE VALİLİĞİ İHDASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-285-olaganustu-hal-bolge-valiligi-ihdasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-285-olaganustu-hal-bolge-valiligi-ihdasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "f5018cbedc66e4a105f3176e63a6eef83796065cc36d8a2c440d02d5a7ccacc1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.285.pdf",
+ :source/fetched-at #inst "2026-08-24T22:10:01.982-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-285/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "9138c7b3a84160849dcea364c755c9acaded080d95efd224db8f9d4c31858331"}
+  {:article/id "decree/khk-285/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "7c12ef3b253f3b512c59696e1363a8faa6ec3243a67d818a5e7bbb74c0a1d237"}
+  {:article/id "decree/khk-285/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "930c839b3292f47d5aec4202a18faa198ba0d759c0e0f7d22ad4e0101098cb6e"}
+  {:article/id "decree/khk-285/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "e6357c3eaf5dcb69ca12f573155f6d21a074fa0882d67783d884b922970034c0"}]}

@@ -1,0 +1,55 @@
+{:document/id "decree/khk-9",
+ :document/type :decree,
+ :document/number "9",
+ :document/title
+ "657 SAYILI DEVLET MEMURLARI KANUNUNUN 1327 SAYILI KANUNLA VE 6,7,8 SAYILI KANUN HÜKMÜNDE KARARNAMELERLE DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-9-657-sayili-devlet-memurlari-kanununun-1327-sayili-kanunla-ve-678-sayili-kanun-hukmunde-kararnamelerle-degisik-bazi-maddelerinin-degistirilmesine-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-9-657-sayili-devlet-memurlari-kanununun-1327-sayili-kanunla-ve-678-sayili-kanun-hukmunde-kararnamelerle-degisik-bazi-maddelerinin-degistirilmesine-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "03452511cb8a3c344bb837f20c03c31d5be58194a5f3318e1d4b939a3229bed3",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.9.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:34.626-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-9/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 13 Sh: 616",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "15157d0771894755fea10141e76daef3cf8762df54ac3992b6cddaaff12497c0"}
+  {:article/id "decree/khk-9/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "003b74912858ebbf531842b5e718b6cd42d23cdbe0d908112059183b27f88729"}
+  {:article/id "decree/khk-9/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "27524d07310ae2e1c7964d3017786f9cbd549b9fb6890cf3479eb9f52779b503"}
+  {:article/id "decree/khk-9/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "1510816e24b38c2aaaf6a4b8b49d174c4626480ef90548aca70fe8f1ee688e26"}
+  {:article/id "decree/khk-9/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "77d424509680c7bd198e07872c833a9bff1049403cf4e04fe3280fac2efd5125"}]}

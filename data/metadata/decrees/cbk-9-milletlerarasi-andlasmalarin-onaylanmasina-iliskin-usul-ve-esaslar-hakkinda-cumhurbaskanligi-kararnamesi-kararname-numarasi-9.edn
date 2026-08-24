@@ -1,0 +1,92 @@
+{:document/id "decree/cbk-9",
+ :document/type :decree,
+ :document/number "9",
+ :document/title
+ "MİLLETLERARASI ANDLAŞMALARIN ONAYLANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 9)",
+ :document/slug
+ "cbk-9-milletlerarasi-andlasmalarin-onaylanmasina-iliskin-usul-ve-esaslar-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-9",
+ :document/path
+ "data/canonical/decrees/cbk-9-milletlerarasi-andlasmalarin-onaylanmasina-iliskin-usul-ve-esaslar-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-9",
+ :document/sha256
+ "8bfb2caa23e0fbde860e222deca8b43614c9bf6a0df88a5c1ad62c6946c0195a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.9.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:31.455-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-9/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "İmza yetkisinin verilmesi",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7bc8514909ed17c1cc65f21514c830d30b8e6661021f70f2c61e766c556972e2"}
+  {:article/id "decree/cbk-9/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Onaylama ve onaylamanın uygun bulunması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "846ad0487f5dcda2e0731ec5d725f76dd885d0f266eba4df163d147354ef6034"}
+  {:article/id "decree/cbk-9/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Onaylama",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "177f47a2d709b9ee85d31b7422b5be5740df0afdaba14945e6dce6e0b55b5261"}
+  {:article/id "decree/cbk-9/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yayım",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "dc79cc1aea05e729f10716ef2739e0f0fe69bb9a2b0bc67613dfb25a22c61ae2"}
+  {:article/id "decree/cbk-9/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hazırlık çalışmaları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9b3b4b8a6ef549c1c9cc263039058467e4d8ffedd571a6370b6e471da7a67854"}
+  {:article/id "decree/cbk-9/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Türkiye Büyük Millet Meclisine gönderilecek andlaşmalar",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "832d96b949d411a912b475287fdd233f57882f9c9852be869da0a3ace16d2ce9"}
+  {:article/id "decree/cbk-9/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title
+   "NATO ile ilgili andlaşmaların yapılmasında Cumhurbaşkanının yetkisi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "0e52b95d105ad7affb0d0964fc9260a9486f8b1948f23dafbb3ff5cfc8e93d6a"}
+  {:article/id "decree/cbk-9/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Atıflar",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0508e0907713b6ec78e21f84d4400f4c4724594d4e045e13cb6bc89fa4c2c678"}
+  {:article/id "decree/cbk-9/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "3425d6f8f62e13b051a6370f64e1bb48556653a52ae85d3a76866d09804c273c"}
+  {:article/id "decree/cbk-9/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürütme",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c8396e62e1e5a6e32174b54bb76fb53056822a9bb0c2edb95ffd2ffd816b979f"}]}

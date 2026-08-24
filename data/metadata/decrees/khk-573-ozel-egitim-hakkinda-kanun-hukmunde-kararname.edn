@@ -1,0 +1,229 @@
+{:document/id "decree/khk-573",
+ :document/type :decree,
+ :document/number "573",
+ :document/title "ÖZEL EĞİTİM HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-573-ozel-egitim-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-573-ozel-egitim-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "74fc500ae4f084e2127e73acfd2889e003d2c39fe39f4eac4f9c74fa4c8cffd1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.573.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:04.183-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-573/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "043c77de3e8762928b305df794031ef8fe8d69ebc1aeaf1983311db24424447d"}
+  {:article/id "decree/khk-573/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "6eb9c83884a763f9dcda2a7d0b5f795a810d9535f0d0ef5a60f59a3751364128"}
+  {:article/id "decree/khk-573/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "5f1d9d95547d0097c2b9911a36b0818cb6935961c844b6f84f9d9ff563b85df3"}
+  {:article/id "decree/khk-573/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Özel eğitimin temel ilkeleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "f2f2167a41553ccc53a0d5c5038f0a61a3f0025bcc94c03f249947b48062f4a9"}
+  {:article/id "decree/khk-573/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "07253c854b80566e01eb71c03b635eafcc0106d7fae52d8abb203c2b255eae74"}
+  {:article/id "decree/khk-573/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Erken çocukluk dönemi eğitimi",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "b5ccea5dcc878a2aac93212e16906e0f543a895045024206d37a3f1e2cc987ca"}
+  {:article/id "decree/khk-573/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Okul öncesi eğitimi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "27a787fa3dacece81aed7b8268ba9991b71c20ce251b3f899dc7485ef91c8e89"}
+  {:article/id "decree/khk-573/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "İlköğretim",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "04372e0c63025b052483e9e6ed0da87ec3c7cfb05d9a3cbd893255301e6ed816"}
+  {:article/id "decree/khk-573/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Ortaöğretim",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "294ba04450a94bed8bf7495f63f6579da7895b82591b77dfba005c0ebfdb0141"}
+  {:article/id "decree/khk-573/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yükseköğretim",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "9e7e65eec239407d305a2c5457f7f0c38a9a76385ad15b85cae4985242b4c7d3"}
+  {:article/id "decree/khk-573/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yaygın eğitim",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0d045864a085578d9237cfa0958b096137239e23b298b4287cc52a8d7b8fbf1e"}
+  {:article/id "decree/khk-573/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "ad5e601ccf135be794646426a0e9667f12a11ce877b6c0ca7e0cd812d569b742"}
+  {:article/id "decree/khk-573/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Özel eğitim okullarında eğitim",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "af38c075903f1bdab692cdf0bb6054b729af5d484c6f50480d17c267205d5495"}
+  {:article/id "decree/khk-573/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Özel eğitim desteği",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "0f442ff547a00cf800c9ccab76b9fd0b1ab287601dfb7e3de301911446ad7d7a"}
+  {:article/id "decree/khk-573/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Eğitim programları",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "1f2d4e1d3186efb0cd68218e6c0405b9636bb830766d6e55eeed6ec63a2fe802"}
+  {:article/id "decree/khk-573/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Değerlendirme",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "fcf79e76a239bf220982aa8ead135a7dffc8e06bea64cc605c66f3fdeab5d23f"}
+  {:article/id "decree/khk-573/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "e875d25dfd152d2dedb5b50a19406dd20e70b92cb1593686d25a8880dfee4ce4"}
+  {:article/id "decree/khk-573/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "1f25cde9b80e97e6b0be5462e845edf073d1b8682f3bab91b145a6effe38426d"}
+  {:article/id "decree/khk-573/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Özel Eğitim Kurumları",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "f5c614eeee0db7211e0bedd103b852c1db47ca01905b8872eb97fd6b9a762899"}
+  {:article/id "decree/khk-573/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Diğer okul ve kurumlarda özel eğitim",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "1ae916765e8768f12bdc28eecd64b140a3859be90b64306659453ffe3d2b79fd"}
+  {:article/id "decree/khk-573/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title nil,
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "bac3667cd2eadcea926f7c5993637670c2c12df22b61412d436cbb650b2d89f0"}
+  {:article/id "decree/khk-573/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Rehberlik ve psikolojik danışma hizmetleri servisi",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d54bffe20f740bbc5c4ac93fd3cba266946b6ff0d2ba63413884ced137b7f914"}
+  {:article/id "decree/khk-573/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title nil,
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "1bb37e0d359312b31a0d7e803f2ce5b0c6d675dd22032579c80533018f62c2d7"}
+  {:article/id "decree/khk-573/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Resmi ve özel öğretim kurumlarında özel eğitim",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "9e1b64a5f1c800e3334f76bf8a8a8c349f7b967d168cb32863b80ee260d4e612"}
+  {:article/id "decree/khk-573/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Personel",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "344e28af66d9c15e23d13bd0fcce6ac9799d32545e15452ce0a6f763eb3db5d0"}
+  {:article/id "decree/khk-573/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Teftiş ve denetim",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "f7010ecc20f703b097f29ce6d319a8f361b1866498c9cfe11ba186082ccf46ed"}
+  {:article/id "decree/khk-573/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Özel eğitim araçları",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "45415ec183c5410e34ff69830afaf53b164a60c9b7cffc5823a70b6d951e2943"}
+  {:article/id "decree/khk-573/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Kaldırılan hükümler",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "271bc9588da1be3e09372dbb66412473ad3024f8a733caaa8a6ef1233e86ebaf"}
+  {:article/id "decree/khk-573/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "06cb17b5fa4056660f0152704ab21cddef0456d8beffe2514944038bf35724ef"}
+  {:article/id "decree/khk-573/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Yürütme",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "49374e6d8ea1477fb1aa95fae398ba1c7b52421c2bd15ae8a37edcd25e7726c9"}]}

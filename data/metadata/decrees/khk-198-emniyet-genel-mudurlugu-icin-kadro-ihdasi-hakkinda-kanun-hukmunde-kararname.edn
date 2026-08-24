@@ -1,0 +1,41 @@
+{:document/id "decree/khk-198",
+ :document/type :decree,
+ :document/number "198",
+ :document/title
+ "EMNİYET GENEL MÜDÜRLÜĞÜ İÇİN KADRO İHDASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-198-emniyet-genel-mudurlugu-icin-kadro-ihdasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-198-emniyet-genel-mudurlugu-icin-kadro-ihdasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "637bd19aadf3a2280fb7f31c273844eab60bc66fa27b8fbcfc57f8026ea22f4a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.198.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:40.197-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-198/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 23 Sh : 574",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "6d6c9b837c71367634ef9901d19441bbc3ca9768953fbc61f20ad3a1db6f055d"}
+  {:article/id "decree/khk-198/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dcc1471a6aa4b2a0a17153a46de095a289b0ef9358d53d49ff10b9e6dc20b3eb"}
+  {:article/id "decree/khk-198/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "bcba720697e19b62707f8e913ba551aadef1aa610059aa8f4ff0d88a034918f6"}]}

@@ -364,6 +364,86 @@
     (is (= ["law/t3-3201" "law/t5-3201"]
            (mapv :document/id (:documents catalog))))))
 
+(deftest decree-catalog-row-conversion
+  (let [document (catalog/decree-row->document
+                  {:mevzuatNo "703"
+                   :mevAdi "Anayasada Yapılan Değişikliklere Uyum Kararnamesi"
+                   :mevzuatTur 4
+                   :mevzuatTertip "5"
+                   :url "mevzuat?MevzuatNo=703&MevzuatTur=4&MevzuatTertip=5"
+                   :resmiGazeteTarihi "09.07.2018"
+                   :resmiGazeteSayisi "30473"}
+                  :khk)]
+    (is (= "decree/khk-703" (:document/id document)))
+    (is (= :decree (:document/type document)))
+    (is (= :khk (:decree/subtype document)))
+    (is (= "703" (:document/number document)))
+    (is (= "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.703.pdf"
+           (:source/url document)))))
+
+(deftest decree-catalog-separates-subtype-number-spaces
+  ;; KHK 1 and CBK 1 are different documents that share a number. Ids must not
+  ;; collide, or one would overwrite the other in the document map.
+  (let [catalog (catalog/decree-catalog-map
+                 {:khk [{:mevzuatNo "1" :mevAdi "KHK One" :mevzuatTur 4 :mevzuatTertip "5"}]
+                  :cbk [{:mevzuatNo "1" :mevAdi "CBK One" :mevzuatTur 19 :mevzuatTertip "5"}]}
+                 (java.util.Date. 0))]
+    (is (= ["decree/cbk-1" "decree/khk-1"]
+           (sort (mapv :document/id (:documents catalog)))))
+    (is (= 2 (:catalog/documents-total catalog)))
+    (is (= {:khk 1 :cbk 1} (into {} (:catalog/subtype-totals catalog))))))
+
+(deftest decree-catalog-keeps-tertip-collisions
+  (let [catalog (catalog/decree-catalog-map
+                 {:khk [{:mevzuatNo "91" :mevAdi "Tertip 5" :mevzuatTur 4 :mevzuatTertip "5"}
+                        {:mevzuatNo "91" :mevAdi "Tertip 3" :mevzuatTur 4 :mevzuatTertip "3"}]}
+                 (java.util.Date. 0))]
+    (is (= ["decree/khk-t3-91" "decree/khk-t5-91"]
+           (sort (mapv :document/id (:documents catalog)))))))
+
+(deftest all-decree-catalog-documents-prefers-configured-entries
+  (with-redefs [core/catalog-decree-documents
+                (fn []
+                  [{:document/id "decree/khk-703"
+                    :document/type :decree
+                    :decree/subtype :khk
+                    :document/number "703"
+                    :document/title "ANAYASADA YAPILAN DEĞİŞİKLİKLERE UYUM KARARNAMESİ"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.703.pdf"}
+                   {:document/id "decree/cbk-1"
+                    :document/type :decree
+                    :decree/subtype :cbk
+                    :document/number "1"
+                    :document/title "CUMHURBAŞKANLIĞI TEŞKİLATI HAKKINDA KARARNAME"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf"}])
+                core/configured-documents
+                (fn []
+                  [{:document/id "decree/khk-703"
+                    :document/type :decree
+                    :decree/subtype :khk
+                    :document/number "703"
+                    :document/title "Anayasada Yapılan Değişikliklere Uyum Kararnamesi"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.703.pdf"}])]
+    (let [documents (core/all-decree-catalog-documents)]
+      (is (= 2 (count documents)))
+      (is (= "Anayasada Yapılan Değişikliklere Uyum Kararnamesi"
+             (:document/title (first (filter #(= "decree/khk-703" (:document/id %))
+                                             documents))))))))
+
+(deftest all-decree-catalog-documents-tolerates-a-missing-catalog
+  ;; Decrees were configured by hand before the decree catalog existed, so a
+  ;; checkout that has never synced one must still resolve them.
+  (with-redefs [core/catalog-decree-documents (constantly [])
+                core/configured-documents
+                (fn []
+                  [{:document/id "decree/khk-703"
+                    :document/type :decree
+                    :decree/subtype :khk
+                    :document/number "703"
+                    :document/title "Anayasada Yapılan Değişikliklere Uyum Kararnamesi"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.703.pdf"}])]
+    (is (= ["decree/khk-703"] (mapv :document/id (core/all-decree-catalog-documents))))))
+
 (deftest selected-documents-use-catalog-and-configured-overrides
   (with-redefs [core/catalog-law-documents
                 (fn []
@@ -544,6 +624,7 @@
                     :document/number "193"
                     :document/title "Gelir Vergisi Kanunu"
                     :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.193.pdf"}])
+                core/catalog-decree-documents (constantly [])
                 core/document-on-disk?
                 (fn [document]
                   (= "data/metadata/laws/193-gelir-vergisi-kanunu.edn"

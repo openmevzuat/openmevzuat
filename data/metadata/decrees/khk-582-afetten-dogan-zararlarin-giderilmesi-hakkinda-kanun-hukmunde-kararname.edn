@@ -1,0 +1,55 @@
+{:document/id "decree/khk-582",
+ :document/type :decree,
+ :document/number "582",
+ :document/title
+ "AFETTEN DOĞAN ZARARLARIN GİDERİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-582-afetten-dogan-zararlarin-giderilmesi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-582-afetten-dogan-zararlarin-giderilmesi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "f04b050486d0ef0ad17ebf5f75b92693a8381b9cde9882d333c31ad5bc25b723",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.582.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:09.105-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-582/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 39",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "024e437dc5b7b6c45533b0e2e5867875e20680bbf6fadc21793e90e38c8a8908"}
+  {:article/id "decree/khk-582/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "a186787c28a6e8d54c97b133c36a13b833fad30479583fe4636c540e5616c464"}
+  {:article/id "decree/khk-582/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "533d95beb9e3b758a56a215c57a38adfd5e3760969e1f2c62b8c13fad0ccacc8"}
+  {:article/id "decree/khk-582/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7bc4aa2e51992136d4c14d25745021a6efd24171b7ba9b745491c7c217802576"}
+  {:article/id "decree/khk-582/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "051bb587521e04d7a604ab2283589cbef84ba59d22a94b804549ab62dd2ce611"}]}

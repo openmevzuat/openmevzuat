@@ -1,0 +1,569 @@
+{:document/id "decree/khk-399",
+ :document/type :decree,
+ :document/number "399",
+ :document/title
+ "KAMU İKTİSADİ TEŞEBBÜSLERİ PERSONEL REJİMİNİN DÜZENLENMESİ VE 233 SAYILI KANUN HÜKMÜNDE KARARNAMENİN BAZI MADDELERİNİN YÜRÜRLÜKTEN KALDIRILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-399-kamu-iktisadi-tesebbusleri-personel-rejiminin-duzenlenmesi-ve-233-sayili-kanun-hukmunde-kararnamenin-bazi-maddelerinin-yururlukten-kaldirilmasina-dair-kanun-hu-eb5851b38749",
+ :document/path
+ "data/canonical/decrees/khk-399-kamu-iktisadi-tesebbusleri-personel-rejiminin-duzenlenmesi-ve-233-sayili-kanun-hukmunde-kararnamenin-bazi-maddelerinin-yururlukten-kaldirilmasina-dair-kanun-hu-eb5851b38749",
+ :document/sha256
+ "d2fb3fd59744d7bece401e20eafa5fa97fc0a6db5f05f06bfef451b116137df1",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.399.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:36.796-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-399/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "89b1e73ed4a95b090a8aa3258d4dd317be8f96d48777c833535da33d71f28444"}
+  {:article/id "decree/khk-399/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Temel İlkeler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4c78af970a59e0fd6451a14f9caf66b08bbd88eabe0bf703228003399d804c98"}
+  {:article/id "decree/khk-399/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İstihdam Şekilleri",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9aaafc42d4d2bc9fc05becd41b6aedd190822562afd0e39321912964aa27b6dc"}
+  {:article/id "decree/khk-399/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "b1ae5e29e0db599c3a9cdf395a91db3c439920788462baea8de191f7af92838f"}
+  {:article/id "decree/khk-399/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "148663a7bb07f1b28bf4191770c5cdb1266ccf17d1571d2735a257fabbf3f5fd"}
+  {:article/id "decree/khk-399/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "İşe Alma",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "4ebe46f54a5bd50391788517303f891506e3cb69214222166e132a84797ae8eb"}
+  {:article/id "decree/khk-399/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "İşe Alınacaklarda Aranılacak Şartlar",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "a618d1b88203dd333797bb1b4da63d52498836cb961b475fbcee1c2103cf9683"}
+  {:article/id "decree/khk-399/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Sınav",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "b93883d3cd6dca38ab592a0d6bad5dc369452b0772ce23c657444b84cf5370e9"}
+  {:article/id "decree/khk-399/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Görev ve Yer Değişikliği",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "d5f12dff74d6727849e052d3e431f010bdc8a301d52fdb93f310b6ad43d56f9a"}
+  {:article/id "decree/khk-399/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "5436b61d6451863b376fdc775cd7ba2a7acaa71ac8616efe0d48a2bc28c47e64"}
+  {:article/id "decree/khk-399/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Teşebbüs Personelinin Yükümlülük ve Sorumlulukları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "b50b3356c90dec39ef2a69759ddfe4454573b431c1753880480ec744096c127c"}
+  {:article/id "decree/khk-399/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6aeb124f0262713501a674762a148001c9f29abda50f01156e53572a4b5cbc62"}
+  {:article/id "decree/khk-399/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Çekilme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "de74905dcf119591271b36572d17098258094156a32bff94117123e9cae1c7e4"}
+  {:article/id "decree/khk-399/article/13/A",
+   :article/type :normal,
+   :article/no "13/A",
+   :article/title "Sendika Kurma",
+   :article/path "articles/madde-013-a.md",
+   :article/sha256
+   "ee54da336c0a6cf8341b3869189a2d4e00f1952e99807b41301d1beb1407db83"}
+  {:article/id "decree/khk-399/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "9fbf6930a7672d492d24a782bd6ccbf06a975ee2e7e47b6bfebf1ba8f12b797d"}
+  {:article/id "decree/khk-399/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Başka İş ve Hizmet Yasağı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a24e68c456db56ae84c39f3157228122b4593164ec509dafe6679b9c10577c68"}
+  {:article/id "decree/khk-399/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Hediye Alma ve Menfaat Sağlama Yasağı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "d1ba1f0e65f86d21b9b7ef103dff5d974859800bf1ab22b46a5234803f079d39"}
+  {:article/id "decree/khk-399/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Basına Bilgi veya Demeç Verme Yasağı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8b04683f600ea6be35437056cdff665feb6e0ff87c90d10e46d9ca16ae44b2dd"}
+  {:article/id "decree/khk-399/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Siyasi Faaliyet Yasağı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "bb1522e2b61a2d99ca5b9c47bd9126aea8933a79331ddf56ae94805f45304c54"}
+  {:article/id "decree/khk-399/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Toplu Eylem ve Hareketlerde Bulunma Yasağı",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "461e4a6551306a43073e87e8390b4aa337158d54b3f6dfae3274a22b5f4ecfd0"}
+  {:article/id "decree/khk-399/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "1b4731a19bd1ce88b01dd957dd40dff2355fcbdba772049fe5bac61d7e2b6ccc"}
+  {:article/id "decree/khk-399/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yıllık İzin",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "04be02bc70ee60752e06265a6453e1187345d26587cb5c839744db91a7d7e002"}
+  {:article/id "decree/khk-399/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Mazeret İzni",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "a6752f7f5d05d36363cab19c3c1af744958d4ae978f21d7a3d53fa888096915c"}
+  {:article/id "decree/khk-399/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Diğer İzinler10",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "9fac2df2193fefed965120bc10a3c6cdb44bd7f52dfbf81d3371bb38eb671e6b"}
+  {:article/id "decree/khk-399/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Muvazzaf Askerlik",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "02e12adc72189698c8c745fae537f0b705ae8965a30af5dcb0d8e6a413c6ad8a"}
+  {:article/id "decree/khk-399/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "03fa58c2f597912ba58fa0b3988e7f5ba48e3fc68e87a9863a788bfe9a57b4e8"}
+  {:article/id "decree/khk-399/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Temel Ücret",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "40078eba628a659965131664e061538fc7539e1036b7e1a39e21a41f9073e494"}
+  {:article/id "decree/khk-399/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "937eae5f0deb5a747464a1ad526da813c04063da5bcde6da57227c53aada5505"}
+  {:article/id "decree/khk-399/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Kıdem Ücreti",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "e583d56602cf05fe989297979628aa15bcc05ed08dc02af4b8f6154436e89a26"}
+  {:article/id "decree/khk-399/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Ücretin Ödeme Zamanı",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "112d67d3c5dc72912d5be1fd3c46475f4e22f431558e6467871d3a363a4345db"}
+  {:article/id "decree/khk-399/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Fazla Çalışma ve Diğer Ödemeler",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "c7f587d54fb3f6e2bf857183342f0c1504cf556627cb9ffbf6b3bb919b181f8a"}
+  {:article/id "decree/khk-399/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Harcırah",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "782409b0ba8bba91b3b2264eab03eb9390d6428ba291c3b413de4bff1919c4e7"}
+  {:article/id "decree/khk-399/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Tedavi, Ölüm ve Cenaze Giderleri",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "7b705f01b79f4bd3bda4f24b6bc3af9409ec8258f70877728e70d93a08904ed5"}
+  {:article/id "decree/khk-399/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Sosyal Yardımlar",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "78c2481e2e811f3a842b2e071a76a15b7141311cd50f4c11c1fbc44118402737"}
+  {:article/id "decree/khk-399/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Çeşitli Kurul Başkan ve Üyelerinin Ücretleri14",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "05ec2f3beca8b0015ed18a25ba08d7590a4f3feba2f8edec96ba1a66a687f135"}
+  {:article/id "decree/khk-399/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Ödül",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "3a768854a0685f65cdff811b50557b745cf197d659f6edee32919031fc422f6f"}
+  {:article/id "decree/khk-399/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Diğer Sözleşme Ücretleri",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "e2ca310c33d6a2e16652c2010c47530ec5077abee1f0011a712605bf8761be64"}
+  {:article/id "decree/khk-399/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Vekalet Ücreti",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "fa07b06e95db68aa3d622582b6cc7bf586435abf7f52a22facf018d14869683b"}
+  {:article/id "decree/khk-399/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title nil,
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "d25b5020a36fb9e770c66bfc4a28282dc62cc8518cab4eff2b3590902b949bc0"}
+  {:article/id "decree/khk-399/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Sicil Dosyası",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "1a6406effb70ec3061294cd0de1d35c0f928fc8cee7dd929875a5dd1cb3d41aa"}
+  {:article/id "decree/khk-399/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title "Özlük ve Sicil Dosyasının Önemi",
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "798f61e7fdd960206a04829a88e7f303a076bb7fbd8d6dd1b0de47d9c68bdf36"}
+  {:article/id "decree/khk-399/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Sicil Amirleri ve Sicil Yönetmeliği",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "bbccc92f4a704466d76e6788ba3b79950253700d3c6053a35965f2df2ba6bdb6"}
+  {:article/id "decree/khk-399/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title nil,
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "20f37bdb8d5a14c6c94ced5108ca06587da5fb7ba4cbbbb8fc1cd4f82ec6fc62"}
+  {:article/id "decree/khk-399/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title
+   "Sicil ve Başarı Değerlemesi Sonucunda Yapılacak İşlem",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "beca132a75761873656787a612e166a27dd3bdf53bb9e08bca9a9821bb2db531"}
+  {:article/id "decree/khk-399/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title nil,
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "5984cdcb739c92f58ca23729f338c763552fb67c8c3bdafef0691dfb6d9608ed"}
+  {:article/id "decree/khk-399/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Sözleşmenin Feshi ve Sona Ermesi",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "abc996efd0dcece854de42921d450d5cfab1da86cdbbf9e8a7155181568fe5d4"}
+  {:article/id "decree/khk-399/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Savunma Hakkı",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "410c27cc2a5de0a97475220d2daefd67797a1dfe89fec9760e47cae487a23d46"}
+  {:article/id "decree/khk-399/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Disiplin Cezalarına İtiraz",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "a3cb83eb4d419c6e45d933a8c748e07dc2b66e891f1b22cb6d92660f6ff80bf6"}
+  {:article/id "decree/khk-399/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "Disiplin Cezalarının Kesinleşmesi",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "543741d3a8ee97cc3f148cd45f661f49450b0777016fc6f1bdad6f1b71bc4dc4"}
+  {:article/id "decree/khk-399/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title
+   "Ceza Kovuşturması ile Disiplin Kovuşturmasının Bir Arada Yürütülmesi",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "cac7e0ff95c87e464ff090a555f08d8cd2eaa4b23eb4d8595fb25607879b3570"}
+  {:article/id "decree/khk-399/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "Zamanaşımı",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "559e4818dc00d0317d9839ec049c56776743b0337fdd668760d57bc6c9083cfa"}
+  {:article/id "decree/khk-399/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title nil,
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "b5426400568edc7fc0cb1b2acfddaec15b257d0e106cd7a151eb393b1cd68175"}
+  {:article/id "decree/khk-399/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Yetkililer",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "8a61d2d4945b5a1050e789e4317ac369a9e6f7bb9e7d16cdadc6ee49196f1dc2"}
+  {:article/id "decree/khk-399/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Uygulanacağı Haller",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "cf80afac99abe671310c2cdf1393a6586a14e4d582282af352e59df33bf00698"}
+  {:article/id "decree/khk-399/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Görevden Uzaklaştırmada Amirin Sorumluluğu",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "54b9ec000d08f86f90072f531300a1e38f7d9e7a8beb0748ab4ca4b291284d8a"}
+  {:article/id "decree/khk-399/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title
+   "Görevden Uzaklaştırılan Sözleşmeli Personelin Hak ve Yükümlülüğü",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "b36f02676d17d4f007bba48a2d86f9fb3beafc290b1f140b6355e180e5e7b33b"}
+  {:article/id "decree/khk-399/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "Göreve Başlatma",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "48e71412dc5ac93472f872ec4a8c4a6728364994c80869d64d567ee3d50f2a33"}
+  {:article/id "decree/khk-399/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title nil,
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "6bcf22841710bd97a4b79adfd58eda54cb5255b0bd41da0e3aaf1fda3709cf6d"}
+  {:article/id "decree/khk-399/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Uygulamanın İzlenmesi",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "3367e931f827df1476258e28184f61c471ef518fe5f0dce03286c7f6e8bc3833"}
+  {:article/id "decree/khk-399/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Yürürlükten Kaldırılan Hükümler",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "97c589f6b781d901759b787002452886d79fd612a999388040323e2ed7e3b294"}
+  {:article/id "decree/khk-399/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "f413312530d6dc72fba275020a1bf7ec144a4b5b5d16038b68fd955e781a9ce7"}
+  {:article/id "decree/khk-399/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "264b2bf4a24e1f5d5f6daebfb08653fb89f93fbdf815f39205253f2f3eae61c5"}
+  {:article/id "decree/khk-399/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "617952f31fd943b18111ff04876f23749ca52639e14d09fa4383b57875bdf80c"}
+  {:article/id "decree/khk-399/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "8f8d984b21031b39df8fac19bec5ba127153bdce4c4a47a751dcdefbcac49764"}
+  {:article/id "decree/khk-399/article/5",
+   :article/type :additional,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/ek-madde-005.md",
+   :article/sha256
+   "e59a91e8287941aa807e626a781f1e0043b33c8baab4df1d721991a7efacffd2"}
+  {:article/id "decree/khk-399/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "fa7ac78f2209bc61008aec35e2677933f452a854416624273729059b3c7722e6"}
+  {:article/id "decree/khk-399/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "207156d14cd34ed4340c122e83a06270af40645e197d777ac20d5c1decec31bb"}
+  {:article/id "decree/khk-399/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "ab20980fa5d087ef337f787fdaa8c775b031a5eeff5fa85036a2c473824b7fdb"}
+  {:article/id "decree/khk-399/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "4746c10177a238ce49d9dafba09f04e85c8606dc00d956d755c9f177e3039486"}
+  {:article/id "decree/khk-399/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "5cec55655d94eb0b89ba020aa04061b05415c74cd3c7d29ac63a85fa73171d61"}
+  {:article/id "decree/khk-399/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "631f80ba8a11aef361ce7b106002501717d47aaf4a034f36f00a4b6b24eae3e3"}
+  {:article/id "decree/khk-399/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "708d78cc2e4f200f44936f030ddce3c8d5858bd6a3ee754491de1acbb4ed4d63"}
+  {:article/id "decree/khk-399/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "66d521d99640a4f8b86b3eb88c1ce82cee24e517904a5c0cf4c9e050485ee86a"}
+  {:article/id "decree/khk-399/article/9",
+   :article/type :temporary,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/gecici-madde-009.md",
+   :article/sha256
+   "5c2898878a2aef76b45909d5efe9c53766817bb5619387ffbc716acbc29043e3"}
+  {:article/id "decree/khk-399/article/10",
+   :article/type :temporary,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/gecici-madde-010.md",
+   :article/sha256
+   "cfd3d9ab13d7d08b29e1efe9707d9f82d1833c7a9618aac3ee0ff23522c85996"}
+  {:article/id "decree/khk-399/article/11",
+   :article/type :temporary,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/gecici-madde-011.md",
+   :article/sha256
+   "1b9033cc51e91ba2a47acf327d7879e74f955d9ac55f00d36114f865f770bd61"}
+  {:article/id "decree/khk-399/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "0eb43a7296bf207dd53d9cd0028e73f16c200adf9c8641dfa2e5b43bfd6e651d"}
+  {:article/id "decree/khk-399/article/61",
+   :article/type :normal,
+   :article/no "61",
+   :article/title "Yürütme",
+   :article/path "articles/madde-061.md",
+   :article/sha256
+   "897c914ecdfa77d647c8fea8e2d83129fae14a578b63da30da7f782d3f882fe2"}]}

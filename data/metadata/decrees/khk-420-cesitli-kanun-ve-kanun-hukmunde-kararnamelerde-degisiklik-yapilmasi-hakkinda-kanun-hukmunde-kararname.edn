@@ -1,0 +1,91 @@
+{:document/id "decree/khk-420",
+ :document/type :decree,
+ :document/number "420",
+ :document/title
+ "ÇEŞİTLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-420-cesitli-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-420-cesitli-kanun-ve-kanun-hukmunde-kararnamelerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "c04a8872bb2d89497ac472748cb859b2c22664f91f2161d2b18bccb18dd3daef",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.420.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:41.424-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-420/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete Tarihi : 13/4/1990 No : 20491 (Mükerrer)",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bcc6812a046ecadac6172e35a49e62e1f301070f7b4e7c1b6b84d6b711894e34"}
+  {:article/id "decree/khk-420/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3a30582e24ddf623626dadcc590c037bd01d043be87f39c4babfed255310e362"}
+  {:article/id "decree/khk-420/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9c2afa27da174d98041145be4300557dec186ae6497f754ecb918133d1b7a395"}
+  {:article/id "decree/khk-420/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "6894f4dea212da349eeeaf7b128111ae17ab25906c77eff6e23134c61c6740c3"}
+  {:article/id "decree/khk-420/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "6ef36d35945820cf5754cc7c342e23197049515441bdfae747998035162f95fb"}
+  {:article/id "decree/khk-420/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9cfda3d1bdd1889a56e72fe3e28f1c4b90554563fd7431eefad773bc924c15e1"}
+  {:article/id "decree/khk-420/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "1ddd68890e99910a905d958a3bf48731bd8de081c9e6be4b7f31cb8f596e2634"}
+  {:article/id "decree/khk-420/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title nil,
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "75daa140e6c2d951a35552d95249ed1d2e937a8df5f42c92c71a4b3465a432af"}
+  {:article/id "decree/khk-420/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "e77558180dd314adeaeb9d375ac48559dc3cfb4e7b952c6699097a6275a85b66"}
+  {:article/id "decree/khk-420/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "53e0ce3943a674c09a8a86fc608af8a9df29a7b5983f8bc2b84ad8885d90df37"}]}

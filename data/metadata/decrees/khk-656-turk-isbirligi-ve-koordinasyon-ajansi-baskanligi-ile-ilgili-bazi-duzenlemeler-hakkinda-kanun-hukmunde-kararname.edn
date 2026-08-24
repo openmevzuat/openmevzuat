@@ -1,0 +1,210 @@
+{:document/id "decree/khk-656",
+ :document/type :decree,
+ :document/number "656",
+ :document/title
+ "TÜRK İŞBİRLİĞİ VE KOORDİNASYON AJANSI BAŞKANLIĞI İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-656-turk-isbirligi-ve-koordinasyon-ajansi-baskanligi-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-656-turk-isbirligi-ve-koordinasyon-ajansi-baskanligi-ile-ilgili-bazi-duzenlemeler-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "0519cd365d4a3892d4f4836dadf01a4aee83c21e4ed9253f8cd6ff293b9fee80",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.656.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:39.586-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-656/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bbf4251808932e92a04507f41d4ef34772cf9c715e487cda9690924c9cc40078"}
+  {:article/id "decree/khk-656/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kuruluş ve teşkilat",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "dc08ba48cfd4dbcde769e6bc9d485ca1d433308c61edf6b88d9c7dd29b5714b4"}
+  {:article/id "decree/khk-656/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Görevler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3c53f0c48f64b98e7c178aa17ab39433392a879bf1bc747d04d0d9fa964b9ba2"}
+  {:article/id "decree/khk-656/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Başkan ve Başkan Yardımcıları",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4bb506bd638388f1cef6b8949d879c614d197abb258bf888412e83a045ac0220"}
+  {:article/id "decree/khk-656/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Hizmet birimleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "9ffbfb9d53919225e302e65ce59d420d2d6a041b6bb0bcb3494984bbaed10678"}
+  {:article/id "decree/khk-656/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Program Koordinasyon Ofisleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "06796d6bf2d4a8062f533c5682d0b36ba3b2badec6eb7c5da419f5b07655e7dd"}
+  {:article/id "decree/khk-656/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "05a011e6698c1c4d49ad449d943ca653691ffe6625fe9d5ea3bc0bf5d292944f"}
+  {:article/id "decree/khk-656/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Çalışma grupları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "548513d11a15f9616e9c1613af6e932d5c374431df78c909a4f19fb483c82454"}
+  {:article/id "decree/khk-656/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a415e116549bf041820b2199554e79745a26b1aaca45d30f48dd89d15faf5699"}
+  {:article/id "decree/khk-656/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yetki devri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "260172786ff6187c45d63088fabefc93abdb39623f488414c30bc993d5486e66"}
+  {:article/id "decree/khk-656/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "İşbirliği ve koordinasyon konusunda Başkanlığın görev, yetki ve sorumluluğu",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "35b06029f013c601aeb0cfd0b0242b5686b812d21d23a4baa02ae39c34e07c3e"}
+  {:article/id "decree/khk-656/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Düzenleme görev ve yetkisi",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "a750edd36f1c556ae440aaa8bbbec62a25bef237785dc9d72e4458d776d9df0a"}
+  {:article/id "decree/khk-656/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Proje, yayın ve tanıtım",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "f1de6141282293848b936e2ac48ce278688aa4292a94dbfce8c42ab7941fce53"}
+  {:article/id "decree/khk-656/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title nil,
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "4e664debdd0690e3704c1dec0e073e3e3acf88a8ae440528550ba6532a8d239e"}
+  {:article/id "decree/khk-656/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "62a337a002f6ba26335c9c9233fc2607415803f525a2312d8596d9915557d792"}
+  {:article/id "decree/khk-656/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Personel rejimi",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "a1bfb9c489487a92bdaf653a1c354269271da463f43e8e0747611102e789379e"}
+  {:article/id "decree/khk-656/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Görevlendirme",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "8b2825284d242fc15ed0f7344c82fecc47bb03958bc43eadc565498a3392f261"}
+  {:article/id "decree/khk-656/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title nil,
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "3c41f9efa6555da2d5c0c08172caec27999c03930c14c28b10e613c8fc5a80a0"}
+  {:article/id "decree/khk-656/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Kaynak yönetimi",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "37a11621a1947386c621f2f35506f45ed63e1edb806cbd7620a4318f807eaa6f"}
+  {:article/id "decree/khk-656/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "6a571de455a808f90e1b5e23379839af031f03bd4840ff83e091dfc8d321de08"}
+  {:article/id "decree/khk-656/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Düzenleyici işlemler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "7ef4739064176db3d4211e50a44643cf89618b2f93ac6fb7b4fedc4c37a91963"}
+  {:article/id "decree/khk-656/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Hak ve yetkilerin devri",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "7511a8023746a54cc2137088723cbf28eeafec5094161fd7233ad91512d74914"}
+  {:article/id "decree/khk-656/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Personelin devri",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "502d3424416d7d38391e07f275d5336f975775079a1b03f82c9c2699d2687d38"}
+  {:article/id "decree/khk-656/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "TİKA Uzmanlığına atanma",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "bbebf2bbc86782ec28308873e3302f200e1b1ef1911718464963d3a0dc6544eb"}
+  {:article/id "decree/khk-656/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Kadrolar",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "8b438ff9f7e0f0d0e2fdd2d1f08ab9676118493a7e2f0b9fdf7e3d5c754346ca"}
+  {:article/id "decree/khk-656/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ece3fb16816a677b7e1b3825e4bfdfe61b680ac053ee30d8d5877304021d9677"}
+  {:article/id "decree/khk-656/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Yürütme",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "2f979e9db5d337c4d45f71851ebb29923f937f021888e0906ed8ce9879d92198"}]}

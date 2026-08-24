@@ -1,0 +1,48 @@
+{:document/id "decree/cbk-148",
+ :document/type :decree,
+ :document/number "148",
+ :document/title
+ "TÜRKİYE OKUL SPORLARI FEDERASYONUNUN KAPATILMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 148)",
+ :document/slug
+ "cbk-148-turkiye-okul-sporlari-federasyonunun-kapatilmasi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-148",
+ :document/path
+ "data/canonical/decrees/cbk-148-turkiye-okul-sporlari-federasyonunun-kapatilmasi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-148",
+ :document/sha256
+ "91142ab32f2d441ed03cc04df0a2b842ba94382b5bd3a4400e4bc5a86cd4b692",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.148.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:29.984-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-148/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "7bc418c7b43135de9d0dbbdb9938f9b01ee3b1544716a0b54fdb39fd8d0fbb66"}
+  {:article/id "decree/cbk-148/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Türkiye Okul Sporları Federasyonunun kapatılması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "e5cae34a327dfbfbaf0a867c153ab763f6e3e86f5d16e8edb52f265204ed9ff5"}
+  {:article/id "decree/cbk-148/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c0478bcf09f74e0d8d9101ddb9f5dffcf58f7940e184fa9f6941e6c9656935d6"}
+  {:article/id "decree/cbk-148/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürütme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "159c1b2240726de70d28f26ae16b4c0afdfe6340c6f57dc26e53791b52f7d7d6"}]}

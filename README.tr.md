@@ -111,6 +111,7 @@ clojure -M:openmevzuat sync-catalog
 clojure -M:openmevzuat update
 clojure -M:openmevzuat update-configured
 clojure -M:openmevzuat update-laws 193 2918
+clojure -M:openmevzuat update-decrees
 clojure -M:openmevzuat update-all-laws
 clojure -M:openmevzuat update-all-laws --resume-from 702
 clojure -M:openmevzuat build
@@ -119,22 +120,28 @@ clojure -M:openmevzuat clean-derived
 
 `update` normal günlük akıştır:
 
-1. `data/catalog/laws.edn` içindeki resmi yürürlükteki Kanunlar kataloğunu yeniler;
-2. yenilenen kataloğu yerel metadata ile karşılaştırıp henüz kaydedilmemiş kanunları toplar;
+1. `data/catalog/laws.edn` içindeki Kanunlar kataloğunu ve `data/catalog/decrees.edn` içindeki KHK ve CBK kataloglarını yeniler;
+2. yenilenen katalogları yerel metadata ile karşılaştırıp henüz kaydedilmemiş belgeleri toplar;
 3. Resmî Gazete'yi son Yasama/Kanun kayıtları için sorgular;
 4. daha önce işlenmemiş değişiklik kanunlarını belirler;
 5. yalnızca bu yeni değişiklik kanunlarının `MADDE` girişlerini ayrıştırıp etkilenen mevzuat numaralarını çıkarır;
 6. bu numaraları yerel katalog ve yapılandırılmış kararnameler üzerinden çözer;
-7. etkilenen konsolide PDF'leri, 2. adımda bulunan kanunlarla birlikte çeker ve işler;
+7. etkilenen konsolide PDF'leri, 2. adımda bulunan belgelerle birlikte çeker ve işler;
 8. başarıyla işlenen değişiklik kanunlarını `data/state/resmigazete-amendments.edn` dosyasına kaydeder.
 
-2. adım şu nedenle vardır: Resmî Gazete akışı bir kanunu ancak yakın tarihli bir değişiklik kanunu onu değiştirdiğini belirttiğinde bulur. Hiçbir kanunu değiştirmeyen yeni bir kanun bu akış için görünmezdir ve katalog karşılaştırması olmadan hiç çekilmez. Karşılaştırma, katalog ve yapılandırılmış belgelerin birleştirilmiş kümesi üzerinden yapılır: yapılandırılmış bir kanun katalog kaydını geçersiz kılar ve ikisi aynı kanun için farklı başlıklar taşıyabilir; aksi halde zaten kayıtlı kanunlar eksik görünür.
+2. adım şu nedenle vardır: Resmî Gazete akışı bir kanunu ancak yakın tarihli bir değişiklik kanunu onu değiştirdiğini belirttiğinde bulur. Hiçbir kanunu değiştirmeyen yeni bir kanun bu akış için görünmezdir ve katalog karşılaştırması olmadan hiç çekilmez. Aynı durum kararnameler için daha da güçlü şekilde geçerlidir: KHK'ler ve Cumhurbaşkanlığı Kararnameleri kendi listelerinde yayımlanır ve bir Kanunlar katalog kaydında hiç anılmaz. Karşılaştırma, katalog ve yapılandırılmış belgelerin birleştirilmiş kümesi üzerinden yapılır: yapılandırılmış bir kanun katalog kaydını geçersiz kılar ve ikisi aynı kanun için farklı başlıklar taşıyabilir; aksi halde zaten kayıtlı kanunlar eksik görünür.
 
 `data/state/resmigazete-amendments.edn` dosyasını yalnızca değişiklikten etkilenen kanunlar ilerletebilir. 2. adımda eklenen bir kanun kendi dosyalarını yazar; bu yazımların sayılması, kendi kanunları hiç değişmemiş değişiklik kanunlarının işlenmiş sayılmasına yol açardı.
 
 Çözülemeyen etkilenen mevzuat kaldığı sürece 7. adım ilerlemez; bu durumda aynı değişiklik kanunları her çalışmada yeniden işlenir.
 
-`sync-catalog` yalnızca kataloğu günceller, PDF çekmez veya işlemez.
+`sync-catalog` yalnızca katalogları (`data/catalog/laws.edn` ve `data/catalog/decrees.edn`) günceller, PDF çekmez veya işlemez.
+
+Kararname kataloğu sitenin yayımladığı iki listeyi de kapsar: Kanun Hükmünde Kararnameler (`MevzuatTur=KHK`) ve Cumhurbaşkanlığı Kararnameleri (`MevzuatTur=CumhurbaskaniKararnameleri`). Uç nokta tanımadığı bir `MevzuatTur` değerine hata durumu yerine 200 durumuyla düz bir `FormValidate` gövdesi döner; bu nedenle bu parametre adlarının sitenin kendi form değerleriyle birebir eşleşmesi gerekir.
+
+KHK ve CBK numaraları ayrı numara uzaylarıdır — hem KHK 1 hem CBK 1 vardır — bu yüzden kararname kimlikleri alt türü taşır: `decree/khk-1` ve `decree/cbk-1`.
+
+`update-decrees` senkronize kararname kataloğundaki tüm KHK ve CBK'leri çeker ve işler.
 
 `update-configured` `resources/documents.edn` içindeki yapılandırılmış kaynakları çeker, metni normalize eder, maddeleri ayrıştırır, canonical dosyaları ve EDN meta verisini yazar. `build` bu akışın diğer adıdır.
 

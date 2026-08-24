@@ -1,0 +1,48 @@
+{:document/id "decree/khk-322",
+ :document/type :decree,
+ :document/number "322",
+ :document/title
+ "TÜRKİYE RADYO VE TELEVİZYON KANUNUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-322-turkiye-radyo-ve-televizyon-kanununun-bazi-maddelerinde-degisiklik-yapilmasina-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-322-turkiye-radyo-ve-televizyon-kanununun-bazi-maddelerinde-degisiklik-yapilmasina-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "5c49df851d0f13469140dac1c6fc872808941f480c805b99cee654a60bb2c314",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.322.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:24.670-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-322/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 27",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "58daa3d88654642bf91774565feab5b00ca43a9006703390c10ab73cdf3df8fe"}
+  {:article/id "decree/khk-322/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "302bbd562a432214f321ed52e85e19a9e55a6aaad6e5e50dddd356dee9071384"}
+  {:article/id "decree/khk-322/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7bc4aa2e51992136d4c14d25745021a6efd24171b7ba9b745491c7c217802576"}
+  {:article/id "decree/khk-322/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "051bb587521e04d7a604ab2283589cbef84ba59d22a94b804549ab62dd2ce611"}]}

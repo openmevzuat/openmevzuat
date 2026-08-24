@@ -1,0 +1,49 @@
+{:document/id "decree/khk-366",
+ :document/type :decree,
+ :document/number "366",
+ :document/title
+ "657 SAYILI DEVLET MEMURLARI KANUNU, 926 SAYILI TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU VE 3466 SAYILI UZMAN JANDARMA KANUNUNDA YER ALAN AYLIK GÖSTERGE RAKAMLA- RININ DEĞİŞTİRİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-366-657-sayili-devlet-memurlari-kanunu-926-sayili-turk-silahli-kuvvetleri-personel-kanunu-ve-3466-sayili-uzman-jandarma-kanununda-yer-alan-aylik-gosterge-rakamla-r-a5dfd9aef8a1",
+ :document/path
+ "data/canonical/decrees/khk-366-657-sayili-devlet-memurlari-kanunu-926-sayili-turk-silahli-kuvvetleri-personel-kanunu-ve-3466-sayili-uzman-jandarma-kanununda-yer-alan-aylik-gosterge-rakamla-r-a5dfd9aef8a1",
+ :document/sha256
+ "3444f99849a5e815496bfd99bb7bb4249ee07b49c19f29132424722c785fc82c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.366.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:28.860-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-366/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete Tarihi : 11/4/1989 No : 20136",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "051928d14fd62b159c18784a5f49bc14d66404207b4478a2f6f371ce4750a0f9"}
+  {:article/id "decree/khk-366/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "b6b7504c9d8d2bbe18adfa364b4281ac8338a2faa23acc61c3587a3768522beb"}
+  {:article/id "decree/khk-366/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4933419ef8357ba1187eec3d2ba555cf05a6d2af67bc0047de71db85f9f0939c"}
+  {:article/id "decree/khk-366/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "ec0de4f258f5fd3fd7e636c7eb73572a6c9c8bb19823693528d99eca23f1a3fd"}]}

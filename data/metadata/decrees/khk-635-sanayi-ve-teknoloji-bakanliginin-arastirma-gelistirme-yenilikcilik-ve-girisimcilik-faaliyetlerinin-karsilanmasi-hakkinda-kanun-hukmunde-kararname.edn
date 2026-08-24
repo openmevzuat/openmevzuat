@@ -1,0 +1,345 @@
+{:document/id "decree/khk-635",
+ :document/type :decree,
+ :document/number "635",
+ :document/title
+ "SANAYİ VE TEKNOLOJİ BAKANLIĞININ ARAŞTIRMA, GELİŞTİRME, YENİLİKÇİLİK VE GİRİŞİMCİLİK FAALİYETLERİNİN KARŞILANMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-635-sanayi-ve-teknoloji-bakanliginin-arastirma-gelistirme-yenilikcilik-ve-girisimcilik-faaliyetlerinin-karsilanmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-635-sanayi-ve-teknoloji-bakanliginin-arastirma-gelistirme-yenilikcilik-ve-girisimcilik-faaliyetlerinin-karsilanmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "3a413a844536d7270da35a4e7b1b2ef41ca276ef5658db24c76e0d739e17b6bf",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.635.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:21.922-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-635/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "31209f10a6d23ef43bd716673176cefaffc04885b3a5d6ebf22aa963ff8db354"}
+  {:article/id "decree/khk-635/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Görevler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4691558a7eb8d27c667e3a09191c4f73ff493022facced369c967dcee75d3dc5"}
+  {:article/id "decree/khk-635/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e63c4c13c1b2a534c2e5fa35a20cbfae4f42fb6d584ddd5b86dd8037ac73c483"}
+  {:article/id "decree/khk-635/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Bakan",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a259a331a0c3121a8293d737c78506c8f8b10d76c0fa93c6e05d26a0c6000fc6"}
+  {:article/id "decree/khk-635/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Müsteşar ve müsteşar yardımcıları",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "f66877cb5939f5ea3d037e230a70467509b4014fd80d2656f37ea6bdb0f699ce"}
+  {:article/id "decree/khk-635/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a5ae042b5070c7c4a31694ddb396959be030e9488b4eabe18c14f2a03221eb32"}
+  {:article/id "decree/khk-635/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Sanayi Genel Müdürlüğü",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "11f3cf08a3109a80d63a8517e8c29b7af393aa49c7292248c4152e347a4148b9"}
+  {:article/id "decree/khk-635/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Projelerin Karşılanması2",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ed44b81a37458ac8b37f05eea274530f8b9f2df71a7ae7fd6bc3b29744dd5b0e"}
+  {:article/id "decree/khk-635/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Sanayi Bölgeleri Genel Müdürlüğü",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a391e55982384ae2a8ff83a23f9b65313c7ee1c6561bd05fc05036ff7f40261c"}
+  {:article/id "decree/khk-635/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Metroloji ve Standardizasyon Genel Müdürlüğü",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3b9ea6ae5334ccc67c6c18f44c18568eda3fa80c94dbf4588b39cb777796c119"}
+  {:article/id "decree/khk-635/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Sanayi Ürünleri Güvenliği ve Denetimi Genel Müdürlüğü",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "db0b3ce41088cb8cbba081ce0fcdc31f8e8b225869b67526e956ef54c589db8d"}
+  {:article/id "decree/khk-635/article/11/A",
+   :article/type :normal,
+   :article/no "11/A",
+   :article/title "Verimlilik Genel Müdürlüğü",
+   :article/path "articles/madde-011-a.md",
+   :article/sha256
+   "448439906cadc9c441d9d6691436949a9bcb94fdc3e6f418d855d6e76f701099"}
+  {:article/id "decree/khk-635/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Avrupa Birliği ve Dış İlişkiler Genel Müdürlüğü",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "4768ca32e67ae88ff77358de318ecee39e5025c814e596554e318c761c5d25ad"}
+  {:article/id "decree/khk-635/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Rehberlik ve Teftiş Başkanlığı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "9a10b2156038909ad21632e559e23a41654b3aed3e656c267a3d9f7b3f49fc45"}
+  {:article/id "decree/khk-635/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Strateji Geliştirme Başkanlığı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "bad3f590b50989e3666f1315205cdbb92c1a67cc9fd5cbf84a8ac2baaa7508c0"}
+  {:article/id "decree/khk-635/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Hukuk Müşavirliği",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "d3fb42e86b0cd47bdeb84f1492e990d3e55401426a91b80b165da1ef6c96f85e"}
+  {:article/id "decree/khk-635/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Personel Dairesi Başkanlığı",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "9e6f136694bdc93153ba1a1380db5174b5262a83c7b0a4943e3cb89268ca4aaf"}
+  {:article/id "decree/khk-635/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Destek Hizmetleri Dairesi Başkanlığı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "7fe7b66fa8782fa2dc726640328ebee1d3cc2e49051fee9cf70835868c221964"}
+  {:article/id "decree/khk-635/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Bilgi İşlem Dairesi Başkanlığı",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "6fbc1223317c5b7a9c644cbcb2d396b2299163447e332581bcfd530fbdd417f6"}
+  {:article/id "decree/khk-635/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Basın ve Halkla İlişkiler Müşavirliği",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "f35672881de56c49539606c551d5ebd629801a6e522cc2827a31360a0fb3fb9d"}
+  {:article/id "decree/khk-635/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Özel Kalem Müdürlüğü",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "d7c1ed8b08d62610f4545fa4adef4c7f44d9078ec50d1375717346490a22f0b4"}
+  {:article/id "decree/khk-635/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Bakanlık Müşavirleri",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "ba45e6e843f0aeafb7875144cd4951a4a89b7db075b6431c54b9a062b2299945"}
+  {:article/id "decree/khk-635/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title nil,
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "ee599fa79bd20f08989b5c01087f946e0f5f23d3c4d4cd88f79bec774bdc5f16"}
+  {:article/id "decree/khk-635/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "Şûra ve çalışma grupları",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "951f1b852cf15053d512ab1fe2352e6dc26f0fd6a725cd3a6dff3b8a26170d5f"}
+  {:article/id "decree/khk-635/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "fb236cedee78c5a784be0d7c3177ed99b3e2b361e6a74b71048cc6470b0ad98e"}
+  {:article/id "decree/khk-635/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Yetki devri",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "20e5dffebb18518ee3751a5d74170bd633b3c4b28aa8aff873cb7295a00087d2"}
+  {:article/id "decree/khk-635/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title "Koordinasyon ve işbirliği",
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "a3290da436216de642af56eed831ee88acb718b304be1d47f0ff40d3f1a75006"}
+  {:article/id "decree/khk-635/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title "Düzenleme yetkisi",
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "b39204d24f354fbc35e0a25fd9b2cca1177d8bc6161e0dc160c27fc4f4eacdd8"}
+  {:article/id "decree/khk-635/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title "Küçük ve orta büyüklükteki işletmeler",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "bb19bae3a3670e8f208b6efbc2e6790f45a5ded4caab35e2977ef7e564f765cf"}
+  {:article/id "decree/khk-635/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title nil,
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "b946f55dac2ce0c362798026cbc813ac0c4586925bfbe0fdde951fa8282e4b4e"}
+  {:article/id "decree/khk-635/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "0794f85116a43e4adf342391f55c985ec1da0337fa2bc85f13ec8028db1aa633"}
+  {:article/id "decree/khk-635/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title "Sanayi ve Teknoloji Uzmanlığı5",
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "ee50185e09db9ae2ec9a7b21a4814339c1503daac9ae6c5331bda62ffe2d890f"}
+  {:article/id "decree/khk-635/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title "Ek ödeme",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "29d3914d40485b3b9fb485ee9d229c9b9a3f062cd28ef9b1d6ffa8e687781a20"}
+  {:article/id "decree/khk-635/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title nil,
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "0ae9e54479f6cd001cfacc01eb69868795575c7a836ac12e48542ac3b4c8cd94"}
+  {:article/id "decree/khk-635/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "96d46f5cc424ebdae25e60e218da0fa2ae5209df50f2e917c999e84d0d8d8846"}
+  {:article/id "decree/khk-635/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "e91f5bcac421285036765981d422dac145f6ac1384c046aa5463f5caa2bfa049"}
+  {:article/id "decree/khk-635/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Düzenleyici işlemler",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "c34f1a1530da4eeb2356e6dd1abb7f18c64f19e4c1afa45ad049c76eeddd0d25"}
+  {:article/id "decree/khk-635/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Hak ve yetkiler ile personelin devri",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "3829fd34c1f7d80f67fb3ee009c859dc3b5b9e707d7832967c6269c24e0eaf88"}
+  {:article/id "decree/khk-635/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title "Mevcut personel",
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "411c92bc4dbb0becf0ee26bc67e25e7969d57038efa7fa9e1412ff4ea1fbcd4f"}
+  {:article/id "decree/khk-635/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title "Kadro değişiklikleri",
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "ec9553b29ef1a9f81278b3a405104612c4d02824d53b6c84d8adc67db2519303"}
+  {:article/id "decree/khk-635/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title "Mevcut işlerin yürütülmesi",
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "83a3b5e3e35107674b19f01e47125b42f5ace873aaf9f13b8ff847d13cd47eb1"}
+  {:article/id "decree/khk-635/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title
+   "Millî Prodüktivite Merkezine ilişkin devir hükümleri",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "4ec541fc46a62acdc3e3ec5cca007a80b30a40f075a529b6330d089c3ec0b867"}
+  {:article/id "decree/khk-635/article/7",
+   :article/type :temporary,
+   :article/no "7",
+   :article/title
+   "İdari hizmet sözleşmesi ile çalışan personelin memur kadrolarına atanması",
+   :article/path "articles/gecici-madde-007.md",
+   :article/sha256
+   "5472e7825841b7727735c3fa272d9b7291eb0767ef48292b5edcfa7c0c68d53f"}
+  {:article/id "decree/khk-635/article/8",
+   :article/type :temporary,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/gecici-madde-008.md",
+   :article/sha256
+   "9370b3658a324a8f41d19f88202f4858d9fa42909ba514b7cbc1b7535a1f504b"}
+  {:article/id "decree/khk-635/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "b06bf478d4a0720b70e97967e2530e2375dce7b37313745e2918ddfbbee6eeb7"}
+  {:article/id "decree/khk-635/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Yürütme",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "70cb1f9ba007632f99abb8f4f7e12c843e15c93d3c543543e137dc744c0edf03"}]}

@@ -1,0 +1,48 @@
+{:document/id "decree/khk-471",
+ :document/type :decree,
+ :document/number "471",
+ :document/title
+ "190 SAYILI GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-471-190-sayili-genel-kadro-ve-usulu-hakkinda-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasina-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-471-190-sayili-genel-kadro-ve-usulu-hakkinda-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasina-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "d49b994c229a30aa4b0ca5f9a2ac854eff93b5a1c043736fd3727943643c2c78",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.471.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:46.603-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-471/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 31",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "a91f9e41e042028bd1fe8570c52970c955fd9b5818e4922743dae3dc85a9bed8"}
+  {:article/id "decree/khk-471/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "2590f1a2eda179d2811608abb2f3d59fa27b3b95cbf876e058abe7bd54f91035"}
+  {:article/id "decree/khk-471/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e92f073a802a477d7d16f4a92a101ebdbdb7e4c0999c92d7c6619e1add9d4071"}
+  {:article/id "decree/khk-471/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0fbcc8362b9107bd9b96c2d808fe008402ce35c635e5d21c71d248c7efcd89dd"}]}
