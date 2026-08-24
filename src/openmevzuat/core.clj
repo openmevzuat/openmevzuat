@@ -118,6 +118,45 @@
   (merged-documents (remove law-document? (configured-documents))
                     (all-law-catalog-documents)))
 
+(defn document-on-disk? [document]
+  (fs/exists? (fs/path (store/metadata-path document))))
+
+(defn missing-catalog-documents
+  "Catalog kanuns that have no canonical metadata on disk yet.
+
+  The Resmi Gazete flow only finds a kanun when some recent amendment law names
+  it as amended, so a newly published kanun that amends nothing is invisible to
+  it and would never be fetched. Comparing the synced catalog against local
+  metadata closes that gap.
+
+  The comparison runs over `all-law-catalog-documents` rather than the raw
+  catalog on purpose: a configured law overrides its catalog row there, and the
+  two can carry different titles for the same kanun. Slugs derive from the
+  title, so comparing against raw catalog rows reports laws like 193 and 926 as
+  missing when they are already stored under their configured slug."
+  ([]
+   (missing-catalog-documents (all-law-catalog-documents)))
+  ([documents]
+   (vec (remove document-on-disk? documents))))
+
+(defn changed-files-for-documents
+  "Changed-file count restricted to `document-ids`.
+
+  A single update run can render both amendment-affected kanuns and newly
+  detected catalog kanuns. The processed-amendment guard must only consider the
+  former, or a new kanun's writes would mark amendment laws processed whose own
+  kanuns never changed."
+  [update-result document-ids]
+  (->> (select-keys (:changed-files-by-document-id update-result) (set document-ids))
+       vals
+       (reduce + 0)))
+
+(defn print-new-catalog-documents! [documents]
+  (when (seq documents)
+    (println "New catalog kanuns not yet stored locally:" (count documents))
+    (doseq [document documents]
+      (println " -" (:document/id document) (or (:document/title document) "")))))
+
 (defn resolvable-documents
   "Documents an amendment law can name as affected. Amendment laws routinely
   change Kanun Hükmünde Kararnameler alongside kanuns, so configured decrees
@@ -579,11 +618,13 @@
            manifest-documents []
            document-changed-files 0
            articles-written 0
+           changed-files-by-document-id {}
            new-search-lines-by-document-id {}]
       (if-not remaining
         {:manifest-documents manifest-documents
          :document-changed-files document-changed-files
          :articles-written articles-written
+         :changed-files-by-document-id changed-files-by-document-id
          :new-search-lines-by-document-id new-search-lines-by-document-id}
         (let [document (first remaining)
               result (process-document! document run-at date index total)
@@ -595,6 +636,9 @@
                  (conj manifest-documents (:manifest-document result))
                  (+ document-changed-files (:changed-files result))
                  (+ articles-written (:articles-written result))
+                 (assoc changed-files-by-document-id
+                        (:document/id document)
+                        (:changed-files result))
                  (if merge-search?
                    (assoc new-search-lines-by-document-id
                           (:document/id document)
@@ -648,7 +692,8 @@
                         {:manifest-documents (into (:manifest-documents seeded)
                                                    (:manifest-documents processed))
                          :document-changed-files (:document-changed-files processed)
-                         :articles-written (:articles-written processed)}))
+                         :articles-written (:articles-written processed)
+                         :changed-files-by-document-id (:changed-files-by-document-id processed)}))
                     (process-documents! documents
                                         run-at
                                         date
@@ -678,6 +723,7 @@
        {:documents (:manifest-documents result)
         :search search-write
         :manifest manifest-write
+        :changed-files-by-document-id (:changed-files-by-document-id result)
         :summary {:documents total-documents
                   :resume/from-index resume-from-index
                   :articles-written (:articles-written result)
@@ -919,7 +965,10 @@
           (str "| " (str/join " | " (map markdown-cell row)) " |")))
        "\n"))
 
-(defn update-pr-body [changes documents unresolved update-result]
+(defn update-pr-body
+  ([changes documents unresolved update-result]
+   (update-pr-body changes documents unresolved [] update-result))
+  ([changes documents unresolved new-catalog-documents update-result]
   (let [summary (:summary update-result)
         amendment-laws (:amendment-laws changes)
         affected-laws (:affected-laws changes)
@@ -934,6 +983,13 @@
                           (str (:resmiGazeteTarihiFormatted law)
                                " / "
                                (:resmiGazeteSayisi law))])
+        new-catalog-rows (for [document new-catalog-documents]
+                           [(markdown-link (str (:document/number document)
+                                                " - "
+                                                (or (:document/title document)
+                                                    "Title unavailable"))
+                                           (:source/catalog-url document))
+                            (markdown-cell (:resmi-gazete/date document))])
         affected-rows (for [law affected-laws]
                         [(str (:law/number law)
                               " - "
@@ -947,6 +1003,7 @@
          "- New Resmi Gazete amendment laws: " (count amendment-laws) "\n"
          "- Previously processed amendment laws skipped: " skipped-amendment-laws "\n"
          "- Affected kanuns: " (count affected-laws) "\n"
+         "- New kanuns added from the catalog: " (count new-catalog-documents) "\n"
          "- Resolved documents: " (count documents) "\n"
          "- Unresolved affected laws: " (count unresolved) "\n"
          (when summary
@@ -956,6 +1013,14 @@
          (if (seq amendment-rows)
            (markdown-table ["Amendment law" "Resmi Gazete"] amendment-rows)
            "No new amendment laws were detected.\n")
+         "\n"
+         "## New Kanuns\n\n"
+         (if (seq new-catalog-rows)
+           (str (markdown-table ["Kanun" "Resmi Gazete"] new-catalog-rows)
+                "\n"
+                "> Published kanuns that were absent from this repository and were\n"
+                "> detected by comparing the synced catalog against local metadata.\n")
+           "No new kanuns were detected in the catalog.\n")
          "\n"
          "## Changed Kanuns\n\n"
          (if (seq affected-rows)
@@ -974,7 +1039,7 @@
                 "\n"
                 "> Processed amendment state was not advanced because unresolved affected\n"
                 "> laws remain. Every later run re-detects and re-renders these amendment\n"
-                "> laws until they resolve or leave the lookback window.\n")))))
+                "> laws until they resolve or leave the lookback window.\n"))))))
 
 (defn write-pr-body-when-configured! [body]
   (when-let [path (pr-body-output-path)]
@@ -1001,7 +1066,10 @@
                                                 (update-window-days))
         catalog-result (catalog/sync-laws!)
         changes (recent-unprocessed-changes! from to)
-        {:keys [documents unresolved]} (resolve-affected-laws (:affected-laws changes))]
+        {:keys [documents unresolved]} (resolve-affected-laws (:affected-laws changes))
+        new-catalog-documents (missing-catalog-documents)
+        affected-document-ids (set (map :document/id documents))
+        documents-to-update (merged-documents documents new-catalog-documents)]
     (println "OpenMevzuat update")
     (println "Mode: resmigazete-incremental")
     (println "Window:" (str from) "to" (str to))
@@ -1011,28 +1079,36 @@
     (println "New Resmi Gazete amendment laws:" (count (:amendment-laws changes)))
     (println "Affected laws:" (count (:affected-laws changes)))
     (println "Resolved documents:" (count documents))
+    (println "New catalog kanuns:" (count new-catalog-documents))
+    (print-new-catalog-documents! new-catalog-documents)
     (print-unresolved-affected-laws! unresolved)
-    (if (seq documents)
-      (let [update-result (update-documents! documents
+    (if (seq documents-to-update)
+      (let [update-result (update-documents! documents-to-update
                                              {:label "OpenMevzuat update"
                                               :merge-search? true
                                               :manifest-scope :incremental})
+            ;; Only the amendment-affected kanuns may advance processed state.
+            ;; With no affected documents there is nothing for the amendment
+            ;; laws to have changed, so they count as handled.
+            amendments-processed? (or (empty? documents)
+                                      (pos? (changed-files-for-documents
+                                             update-result
+                                             affected-document-ids)))
             processed-write (advance-processed-amendments! (:amendment-laws changes)
                                                            unresolved
                                                            date
-                                                           (pos? (get-in update-result
-                                                                         [:summary :changed-files]
-                                                                         0)))
+                                                           amendments-processed?)
             result (assoc update-result
                           :catalog catalog-result
                           :changes changes
                           :unresolved unresolved
+                          :new-catalog-documents new-catalog-documents
                           :processed-amendments processed-write)]
         (write-pr-body-when-configured!
-         (update-pr-body changes documents unresolved update-result))
+         (update-pr-body changes documents unresolved new-catalog-documents update-result))
         result)
       (do
-        (println "No affected laws to update.")
+        (println "No affected laws or new catalog kanuns to update.")
         (let [processed-write (advance-processed-amendments! (:amendment-laws changes)
                                                             unresolved
                                                             date
@@ -1040,10 +1116,11 @@
               result {:catalog catalog-result
                       :changes changes
                       :unresolved unresolved
+                      :new-catalog-documents new-catalog-documents
                       :processed-amendments processed-write
                       :skipped? true}]
           (write-pr-body-when-configured!
-           (update-pr-body changes documents unresolved nil))
+           (update-pr-body changes documents unresolved new-catalog-documents nil))
           result)))))
 
 (defn print-ex-data! [e]

@@ -128,12 +128,17 @@ clojure -M:openmevzuat clean-derived
 `update` is the normal daily flow:
 
 1. refresh the official active Kanunlar catalog in `data/catalog/laws.edn`;
-2. query Resmî Gazete for recent Yasama/Kanun rows;
-3. identify amendment laws that have not already been processed;
-4. parse only those new amendment laws' `MADDE` introductions and extract the affected base kanun numbers;
-5. resolve those numbers through the local catalog;
-6. fetch and render only the affected consolidated kanun PDFs;
-7. record successfully processed amendment laws in `data/state/resmigazete-amendments.edn`.
+2. compare the refreshed catalog against local metadata and collect kanuns that are not stored yet;
+3. query Resmî Gazete for recent Yasama/Kanun rows;
+4. identify amendment laws that have not already been processed;
+5. parse only those new amendment laws' `MADDE` introductions and extract the affected base kanun numbers;
+6. resolve those numbers through the local catalog;
+7. fetch and render the affected consolidated kanun PDFs together with any kanuns found in step 2;
+8. record successfully processed amendment laws in `data/state/resmigazete-amendments.edn`.
+
+Step 2 exists because the Resmî Gazete path only finds a kanun when a recent amendment law names it as amended. A newly published kanun that amends nothing is invisible to that path, so without a catalog comparison it would never be fetched. The comparison runs over the merged catalog-and-configured document set: a configured law overrides its catalog row, and the two can carry different titles for the same kanun, which would otherwise report already-stored laws as missing.
+
+Only the amendment-affected kanuns can advance `data/state/resmigazete-amendments.edn`. A kanun added by step 2 writes files of its own, and counting those writes would mark amendment laws as processed whose own kanuns never changed.
 
 The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`. The window intentionally overlaps previous runs; `data/state/resmigazete-amendments.edn` prevents the updater from re-fetching and re-rendering kanuns for amendment laws already handled in an earlier automated update.
 
