@@ -120,12 +120,17 @@ clojure -M:openmevzuat clean-derived
 `update` normal günlük akıştır:
 
 1. `data/catalog/laws.edn` içindeki resmi yürürlükteki Kanunlar kataloğunu yeniler;
-2. Resmî Gazete'yi son Yasama/Kanun kayıtları için sorgular;
-3. daha önce işlenmemiş değişiklik kanunlarını belirler;
-4. yalnızca bu yeni değişiklik kanunlarının `MADDE` girişlerini ayrıştırıp etkilenen mevzuat numaralarını çıkarır;
-5. bu numaraları yerel katalog ve yapılandırılmış kararnameler üzerinden çözer;
-6. yalnızca etkilenen konsolide PDF'leri çeker ve işler;
-7. başarıyla işlenen değişiklik kanunlarını `data/state/resmigazete-amendments.edn` dosyasına kaydeder.
+2. yenilenen kataloğu yerel metadata ile karşılaştırıp henüz kaydedilmemiş kanunları toplar;
+3. Resmî Gazete'yi son Yasama/Kanun kayıtları için sorgular;
+4. daha önce işlenmemiş değişiklik kanunlarını belirler;
+5. yalnızca bu yeni değişiklik kanunlarının `MADDE` girişlerini ayrıştırıp etkilenen mevzuat numaralarını çıkarır;
+6. bu numaraları yerel katalog ve yapılandırılmış kararnameler üzerinden çözer;
+7. etkilenen konsolide PDF'leri, 2. adımda bulunan kanunlarla birlikte çeker ve işler;
+8. başarıyla işlenen değişiklik kanunlarını `data/state/resmigazete-amendments.edn` dosyasına kaydeder.
+
+2. adım şu nedenle vardır: Resmî Gazete akışı bir kanunu ancak yakın tarihli bir değişiklik kanunu onu değiştirdiğini belirttiğinde bulur. Hiçbir kanunu değiştirmeyen yeni bir kanun bu akış için görünmezdir ve katalog karşılaştırması olmadan hiç çekilmez. Karşılaştırma, katalog ve yapılandırılmış belgelerin birleştirilmiş kümesi üzerinden yapılır: yapılandırılmış bir kanun katalog kaydını geçersiz kılar ve ikisi aynı kanun için farklı başlıklar taşıyabilir; aksi halde zaten kayıtlı kanunlar eksik görünür.
+
+`data/state/resmigazete-amendments.edn` dosyasını yalnızca değişiklikten etkilenen kanunlar ilerletebilir. 2. adımda eklenen bir kanun kendi dosyalarını yazar; bu yazımların sayılması, kendi kanunları hiç değişmemiş değişiklik kanunlarının işlenmiş sayılmasına yol açardı.
 
 Çözülemeyen etkilenen mevzuat kaldığı sürece 7. adım ilerlemez; bu durumda aynı değişiklik kanunları her çalışmada yeniden işlenir.
 

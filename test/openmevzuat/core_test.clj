@@ -508,6 +508,86 @@
         (is (= 1 (:amendment-laws/skipped changes)))
         (is (empty? (:amendment-laws changes)))))))
 
+(deftest missing-catalog-documents-finds-laws-absent-from-disk
+  (with-redefs [core/document-on-disk? (fn [document]
+                                         (not= "law/7595" (:document/id document)))]
+    (let [documents [{:document/id "law/2918" :document/title "Karayolları Trafik Kanunu"}
+                     {:document/id "law/7595" :document/title "Millî Dayanışma Kanunu"}]
+          missing (core/missing-catalog-documents documents)]
+      (is (= ["law/7595"] (mapv :document/id missing))))))
+
+(deftest missing-catalog-documents-is-empty-when-everything-is-stored
+  (with-redefs [core/document-on-disk? (constantly true)]
+    (is (= [] (core/missing-catalog-documents
+               [{:document/id "law/2918"} {:document/id "law/7595"}])))))
+
+(deftest missing-catalog-documents-uses-configured-titles
+  ;; A configured law overrides its catalog row, and the two can disagree on the
+  ;; title. Slugs derive from the title, so comparing against the raw catalog
+  ;; row would look for a slug that was never written and report a stored law as
+  ;; missing. law/193 is the real case: the catalog title carries a "(GVK)"
+  ;; suffix that the configured title does not.
+  (with-redefs [core/catalog-law-documents
+                (fn []
+                  [{:document/id "law/193"
+                    :document/type :law
+                    :document/number "193"
+                    :document/title "GELİR VERGİSİ KANUNU (GVK)"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.193.pdf"}])
+                core/configured-documents
+                (fn []
+                  [{:document/id "law/193"
+                    :document/type :law
+                    :document/number "193"
+                    :document/title "Gelir Vergisi Kanunu"
+                    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.4.193.pdf"}])
+                core/document-on-disk?
+                (fn [document]
+                  (= "data/metadata/laws/193-gelir-vergisi-kanunu.edn"
+                     (store/metadata-path document)))]
+    (is (= [] (core/missing-catalog-documents)))))
+
+(deftest changed-files-for-documents-ignores-documents-outside-the-set
+  (let [update-result {:changed-files-by-document-id {"law/193" 3
+                                                      "law/7595" 5}}]
+    (is (= 3 (core/changed-files-for-documents update-result #{"law/193"})))
+    (is (= 5 (core/changed-files-for-documents update-result #{"law/7595"})))
+    (is (= 8 (core/changed-files-for-documents update-result #{"law/193" "law/7595"})))
+    (is (= 0 (core/changed-files-for-documents update-result #{})))
+    (is (= 0 (core/changed-files-for-documents update-result #{"law/9999"})))))
+
+(deftest update-pr-body-lists-new-catalog-kanuns
+  (let [changes {:range/from "2026-08-01"
+                 :range/to "2026-08-24"
+                 :amendment-laws []
+                 :amendment-laws/detected 0
+                 :amendment-laws/skipped 0
+                 :affected-laws []}
+        body (core/update-pr-body changes
+                                  []
+                                  []
+                                  [{:document/id "law/7595"
+                                    :document/number "7595"
+                                    :document/title "Millî Dayanışma Kanunu"
+                                    :source/catalog-url "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7595"
+                                    :resmi-gazete/date "01.08.2026"}]
+                                  {:summary {:changed-files 6}})]
+    (is (str/includes? body "- New kanuns added from the catalog: 1"))
+    (is (str/includes? body "## New Kanuns"))
+    (is (str/includes? body "[7595 - Millî Dayanışma Kanunu](https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7595)"))
+    (is (str/includes? body "01.08.2026"))))
+
+(deftest update-pr-body-reports-no-new-catalog-kanuns
+  (let [changes {:range/from "2026-08-01"
+                 :range/to "2026-08-24"
+                 :amendment-laws []
+                 :amendment-laws/detected 0
+                 :amendment-laws/skipped 0
+                 :affected-laws []}
+        body (core/update-pr-body changes [] [] [] nil)]
+    (is (str/includes? body "- New kanuns added from the catalog: 0"))
+    (is (str/includes? body "No new kanuns were detected in the catalog."))))
+
 (deftest update-pr-body-lists-resmi-gazete-sources
   (let [amendment {:amendment/law-no "7555"
                    :amendment/title "Bazı Kanunlarda Değişiklik Yapılmasına Dair Kanun"
