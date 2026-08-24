@@ -1,3 +1,6 @@
+;; Copyright (c) 2026 OpenMevzuat contributors.
+;; SPDX-License-Identifier: AGPL-3.0-only
+
 (ns openmevzuat.parse
   (:require [clojure.string :as str]
             [openmevzuat.slug :as slug]))

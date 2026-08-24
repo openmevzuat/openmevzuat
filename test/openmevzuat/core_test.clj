@@ -1,3 +1,6 @@
+;; Copyright (c) 2026 OpenMevzuat contributors.
+;; SPDX-License-Identifier: AGPL-3.0-only
+
 (ns openmevzuat.core-test
   (:require [babashka.fs :as fs]
             [clojure.string :as str]

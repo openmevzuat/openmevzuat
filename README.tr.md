@@ -178,7 +178,13 @@ Günlük iş akışı çekme değişkenlerinin çoğu için ayarlanmış değerl
 
 ## Lisans ve Veri
 
-Proje kodu ve projeye özgü yapılandırılmış veriler, aksi belirtilmedikçe depo lisansı altındadır. Resmi hukuk metinleri resmi kamu kaynaklarına aittir.
+OpenMevzuat **AGPL-3.0-only** lisansı ile lisanslanmıştır. Lisansın tam metni [COPYING](COPYING) dosyasındadır; proje bildirimi [LICENSE](LICENSE) dosyasındadır.
+
+AGPL-3.0 madde 13 gereği, OpenMevzuat'ın değiştirilmiş bir sürümünü ağ üzerinden çalıştıran herkes, o sürümün tam kaynak kodunu kullanıcılarına sunmak zorundadır.
+
+Proje kodu ve projeye özgü yapılandırılmış veriler, aksi belirtilmedikçe AGPL-3.0-only altındadır. Resmi hukuk metinleri resmi kamu kaynaklarına aittir; bkz. [DATA_LICENSE](DATA_LICENSE).
+
+Fork ve türev çalışmalar telif bildirimini korumak, yapılan değişiklikleri belirtmek ve çalışmanın tamamını AGPL-3.0-only altında lisanslamak zorundadır. Bu şartlar kullanımınıza uymuyorsa [COMMERCIAL.md](COMMERCIAL.md) dosyasına bakınız.
 
 ## Uyarı
 

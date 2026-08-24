@@ -198,4 +198,10 @@ The daily workflow sets tuned values for most of the fetch variables; the defaul
 
 ## License and Data
 
-Project code and project-specific structured data are licensed under the repository license unless otherwise noted. Official legal texts remain attributable to their official public sources.
+OpenMevzuat is licensed under **AGPL-3.0-only**. The full license text is in [COPYING](COPYING); the project notice is in [LICENSE](LICENSE).
+
+Because AGPL-3.0 section 13 applies, anyone who runs a modified version of OpenMevzuat over a network must offer the complete corresponding source of that modified version to its users.
+
+Project code and project-specific structured data are licensed under AGPL-3.0-only unless otherwise noted. Official legal texts remain attributable to their official public sources; see [DATA_LICENSE](DATA_LICENSE).
+
+Forks and derivative works must retain the copyright notice, state that changes were made, and license the whole of the work under AGPL-3.0-only. See [COMMERCIAL.md](COMMERCIAL.md) if those terms do not fit your use.
