@@ -1,0 +1,125 @@
+{:document/id "decree/khk-658",
+ :document/type :decree,
+ :document/number "658",
+ :document/title
+ "TÜRKİYE SU ENSTİTÜSÜ HAKKINDA BAZI MALİ DÜZENLEMELERE DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-658-turkiye-su-enstitusu-hakkinda-bazi-mali-duzenlemelere-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-658-turkiye-su-enstitusu-hakkinda-bazi-mali-duzenlemelere-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "848ca635c8b2c6f86eed936ee6b2a5959675e88841060e3e9da74ef46ad54550",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.658.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:41.773-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-658/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "11f278872e1f9654c1f7f2572deacd396c7d0d7ac6410ed1c0c7b4b7afde01b3"}
+  {:article/id "decree/khk-658/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Görevler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "05aa8c548764ecfd6bb4d97eb479521b846b0adce3cba8cbaab97e3d5f101a9b"}
+  {:article/id "decree/khk-658/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Teşkilat",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d6d79091f08fa2b8c4cfd6a8a3be88abd804b78569b34228529f8cf269994c89"}
+  {:article/id "decree/khk-658/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yönlendirme Komitesi",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "871842dd6f57fc26119b8222498ebce3399c0955e9947e0aa88840b712ad22b7"}
+  {:article/id "decree/khk-658/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "262f4ac867eec173e43d6a273cc69ee87bc8ce40cf831598b024e07283309f1b"}
+  {:article/id "decree/khk-658/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Başkanlık",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "a2ca6a32a1df42b117e627f3f4786d4fe0831a38e995d7564ceb75cebbe6f33d"}
+  {:article/id "decree/khk-658/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Geçici ve sürekli kurullar ile çalışma grupları",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "70116154ac47eda1f94561b8d653fdde27f2bd1b137f14c02cd9e14fee9797f6"}
+  {:article/id "decree/khk-658/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yöneticilerin sorumlulukları ve yetki devri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "d22b4aa2c5580a7dbfa236c8d5eb7d627b46ff90663daa009d30387a19b527a2"}
+  {:article/id "decree/khk-658/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Atama",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "db11383acc4863ec90e5bc0d88e1ef50489bb9664b26b69e0cab6a52025872db"}
+  {:article/id "decree/khk-658/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Personel ve mali haklara ilişkin hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "299032034daf7089e9924e75c83bb18ad7c00ff71d7de45579fc0986fffa4e3c"}
+  {:article/id "decree/khk-658/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Gelirler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "36987edb3c6417f8116af2878a372444c81f977cbd46e77384021ff3bbe77cdd"}
+  {:article/id "decree/khk-658/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Eklenen hükümler",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "944fdb67263c7550969c402b8a1caea50e3bb20e718d8b9675876b6b465ceb1a"}
+  {:article/id "decree/khk-658/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş süreci",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "28e21eb3230897369c4d2f260379f37c96ea16e03250374fc6e94e57679380b8"}
+  {:article/id "decree/khk-658/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "98339c84f73476b7231ea7d8f293ff9a45ffeb181e54cac34b150877fc1fe112"}
+  {:article/id "decree/khk-658/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürütme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "93035f65093152afca665f0ac728e4a50a9776b375e5f7616aa3ff98f138aeee"}]}

@@ -1,0 +1,118 @@
+{:document/id "decree/cbk-171",
+ :document/type :decree,
+ :document/number "171",
+ :document/title
+ "AİLE ENSTİTÜSÜ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 171)",
+ :document/slug
+ "cbk-171-aile-enstitusu-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-171",
+ :document/path
+ "data/canonical/decrees/cbk-171-aile-enstitusu-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-171",
+ :document/sha256
+ "b10f4dc6cad7ba2cdfebdd3e88c71f7705acd1d09ff87aa20641e73cee9a87d9",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.171.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:32.248-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-171/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1ef2db4cc74f00c4866a2fee74975d093cca160919a52fe753aeb7df2c74f1e2"}
+  {:article/id "decree/cbk-171/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b418ac0628fae6ec83af59108a605a46fd6a9f2097f28031228eabc98fb4d057"}
+  {:article/id "decree/cbk-171/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "f6ab6ae0fe105d91d37b81b798863c5de998a505ca92cd2a9b0053c746233cb3"}
+  {:article/id "decree/cbk-171/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Enstitünün görev ve yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "2dd5c04dde762de74afd86b1a3130f5dc261656f241f91b38d699f35b9150f38"}
+  {:article/id "decree/cbk-171/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "a896597ab21014a866a0055630ad45074f41fbb86527f1c551c83035661294c8"}
+  {:article/id "decree/cbk-171/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Genel Müdürlük",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "227c9e32a584b5aaa4b4f75f750ca399dc67e3fb52c2435fd69d054e368ed7b3"}
+  {:article/id "decree/cbk-171/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "9ca4a5fcdc5cefa638cf04812eeb326b5cfe6dca5b445faaf51cec6b4f5e2df5"}
+  {:article/id "decree/cbk-171/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yönetim Kurulunun görev ve yetkileri",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "9bfeec2b147a7d22f96c25cb6a49a1859030bdd9b53d2e8a0d148be1447ab28d"}
+  {:article/id "decree/cbk-171/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Danışma Kurulu",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "31dfc0892cca40cb312b03edc5d4ec3005746edacadd3a43bf29ead64b7ae263"}
+  {:article/id "decree/cbk-171/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Danışma Kurulunun görev ve yetkileri",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "3bae2e8b3a20ef080f6b47c2d33843f6593c87d42d3ab10f4182847499080817"}
+  {:article/id "decree/cbk-171/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Uygulanacak ortak hükümler",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "d037691e4b079d3f8d5998aa483347d0b2396017459a3e0ded63fbf4055ddb88"}
+  {:article/id "decree/cbk-171/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "488c5cebbf36411e6e43214717cb5f32d5a5ebf5aad857a6dcb16eec3e95acf1"}
+  {:article/id "decree/cbk-171/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "479edce2a94c1cc5cd561335e52f580cc9aa485af8aa006f219ec0633df802ce"}
+  {:article/id "decree/cbk-171/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Yürütme",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "dccd244a39e84c8f4727374015b5687530a8e7e39ff78f0d9f3512b27e4f84bd"}]}

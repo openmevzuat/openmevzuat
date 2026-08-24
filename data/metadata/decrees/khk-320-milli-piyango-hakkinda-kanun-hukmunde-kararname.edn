@@ -1,0 +1,498 @@
+{:document/id "decree/khk-320",
+ :document/type :decree,
+ :document/number "320",
+ :document/title "MİLLİ PİYANGO HAKKINDA KANUN HÜKMÜNDE KARARNAME ",
+ :document/slug
+ "khk-320-milli-piyango-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-320-milli-piyango-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "8bebd451607a236c6f4980defbd7937be49e23cafa5cd13c4f18d56ec48d49fa",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.320.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:21.532-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-320/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve Kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "bd30db5b3850ed2b6c9d71234c16c4ca22f6ec3eea7bd838d51a1ac66dd591f7"}
+  {:article/id "decree/khk-320/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "352868cd29c9f1a9ffa7fefb0b44a9c18a80569e22d6c6dc2b85546498ec3784"}
+  {:article/id "decree/khk-320/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Görev",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "3e5161fc24dfa347b0a352212e49443a4d09c34d8214d39ce9a7db75f188683a"}
+  {:article/id "decree/khk-320/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Teşkilat",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "06b53543ca43ad70b69d60b9c95f7de8eddf1dfa369003d58b7529aec1e04f2e"}
+  {:article/id "decree/khk-320/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "63dca2f314a73fe6e950a03d4e5f3157e2c565faaca03eaf0a5059eb8a184b73"}
+  {:article/id "decree/khk-320/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetim Kurulunun Görevleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "7dddcda7d54b8a0f0974d114590be409005d434f059247085e04245aafe08b79"}
+  {:article/id "decree/khk-320/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "16ac823a1fd82623f12f3b4cd06635ef7d398a6dd20d1730d8de067d5f21c440"}
+  {:article/id "decree/khk-320/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "f25d700541dfbbb27dd4b9bcc780ec42b6d2f226f4b04bb6762673d3dc5cc48a"}
+  {:article/id "decree/khk-320/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Genel Müdür Yardımcıları",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "9fc44466fa05065e59a199aedf2325d1b23dbfc3c15ba8e72097cb77f9b4ead7"}
+  {:article/id "decree/khk-320/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title nil,
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "974e32f14133daf610c576b193a8946207e3a01a0bc1cd2926ca1146b9eb342c"}
+  {:article/id "decree/khk-320/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Piyango Dairesi Başkanlığı",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "0d5c10d9563cfc0f8f3ed8fa2ce236b4db69085cf4ff27a5426c5db0cceaf493"}
+  {:article/id "decree/khk-320/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Loto Dairesi Başkanlığı",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "02b04e5b1fa5b118e29b8499bee1d27b51956f5040937c4b4c33eb3f637e053f"}
+  {:article/id "decree/khk-320/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Bahisler ve Oyunlar Dairesi Başkanlığı",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "0da7ad7db84851a33a4c6e309ea16f10672cb30c932f57498033624406e72632"}
+  {:article/id "decree/khk-320/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "İkramiye Kontrol ve Çekilişler Dairesi Başkanlığı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "03b91a82656545d12d85303e87dd229c87b5d9adb17f572193559f096d76b1d8"}
+  {:article/id "decree/khk-320/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Talih Oyunları Dairesi Başkanlığı",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "a3fef728c39f325cf0d68a7bef93dfb1dee1019865baab377d4ef03b71732590"}
+  {:article/id "decree/khk-320/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "ef7a6d3dd412be1b870667e2b3269115f2386bfa6a53485f0c179a2ee8cc35de"}
+  {:article/id "decree/khk-320/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Teftiş Kurulu Başkanlığı",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "242ccdc89553f5058c684e1e883a18a3f2ac3158b79cd0bcab425a4701f940de"}
+  {:article/id "decree/khk-320/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title "Hukuk Müşavirliği",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "2fdd4df62e03633aab902609f7c26d58117d15629e18cced1959aca9eeafe632"}
+  {:article/id "decree/khk-320/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title
+   "Araştırma Planlama ve Koordinasyon Dairesi Başkanlığı",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "5b730b4e0e1786fafe8e9ae8c03328cb076819e781f35371934fdf82d4641541"}
+  {:article/id "decree/khk-320/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title nil,
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "69b5e7bcd7c11b6446e140b5b6662df24213877b2519d2e32bcb61343a08e4c5"}
+  {:article/id "decree/khk-320/article/21",
+   :article/type :normal,
+   :article/no "21",
+   :article/title "Muhasebe ve Mali İşler Dairesi Başkanlığı",
+   :article/path "articles/madde-021.md",
+   :article/sha256
+   "468a295b0c079a00e75f7bb25e48987c85186f2bd1007539c62e7e37fc68564d"}
+  {:article/id "decree/khk-320/article/22",
+   :article/type :normal,
+   :article/no "22",
+   :article/title "Personel ve Eğitim Dairesi Başkanlığı",
+   :article/path "articles/madde-022.md",
+   :article/sha256
+   "d694888fa97a2f5f55e6d42abad37e5a5a15c6ead668a0cb3790415b9d6d2bbf"}
+  {:article/id "decree/khk-320/article/23",
+   :article/type :normal,
+   :article/no "23",
+   :article/title "İdari İşler Dairesi Başkanlığı",
+   :article/path "articles/madde-023.md",
+   :article/sha256
+   "266f6fcb7c4196ae2ca11a2755dcd111cfa71ee8d8786eeda5f5113a6443ce84"}
+  {:article/id "decree/khk-320/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title "Bilgi İşlem Dairesi Başkanlığı",
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "c476ebf0d4b0d4892caafe0afb80d6a0ab5eb4b6f7c9941c59c280ad2d0d3757"}
+  {:article/id "decree/khk-320/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title "Savunma Uzmanlığı",
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "cc42e2ee6711cee00a66f2b0f54635a7aea9fb46ea832cbb3b28deabaebb1e54"}
+  {:article/id "decree/khk-320/article/26",
+   :article/type :normal,
+   :article/no "26",
+   :article/title nil,
+   :article/path "articles/madde-026.md",
+   :article/sha256
+   "884fea1d311568edf994b4db12715b77d39f1e81501b302b3c05ee25bc50f29e"}
+  {:article/id "decree/khk-320/article/27",
+   :article/type :normal,
+   :article/no "27",
+   :article/title nil,
+   :article/path "articles/madde-027.md",
+   :article/sha256
+   "484930343e287116a14b49072b78881072f4d3c4b25eb4d3dccc9c530a2e66dd"}
+  {:article/id "decree/khk-320/article/28",
+   :article/type :normal,
+   :article/no "28",
+   :article/title
+   "Koordinasyon ve İşbirliği Konusunda Genel Müdürlüğün Görev, Yetki ve sorumluluğu",
+   :article/path "articles/madde-028.md",
+   :article/sha256
+   "e6431967df8d107da25dc1f83479da1802c6e5a5e1852491a3f4801b395ba12e"}
+  {:article/id "decree/khk-320/article/29",
+   :article/type :normal,
+   :article/no "29",
+   :article/title "Düzenleme Görev ve Yetkisi",
+   :article/path "articles/madde-029.md",
+   :article/sha256
+   "0dfee3cd56ce4e9a570b4ff055bf70907c91ed10ea025f411af09a98255fc82c"}
+  {:article/id "decree/khk-320/article/30",
+   :article/type :normal,
+   :article/no "30",
+   :article/title "Yetki Devri",
+   :article/path "articles/madde-030.md",
+   :article/sha256
+   "945cb933a4d469bb29b82d5d1e8b0d1316bc689564cbdc5a7d55102c77fe664d"}
+  {:article/id "decree/khk-320/article/31",
+   :article/type :normal,
+   :article/no "31",
+   :article/title nil,
+   :article/path "articles/madde-031.md",
+   :article/sha256
+   "894c17050bd353861e8c2ed2b926c1e2f7e13bcd1bfc68bdc98e3213c800bf34"}
+  {:article/id "decree/khk-320/article/32",
+   :article/type :normal,
+   :article/no "32",
+   :article/title
+   "Talih Oyunları İşletmecilerinin Sorumluluk ve Yükümlülükleri",
+   :article/path "articles/madde-032.md",
+   :article/sha256
+   "5635e0542a6d093b6a40a3b1796705c106af39d574cc7195b158aa62d4b3f74b"}
+  {:article/id "decree/khk-320/article/33",
+   :article/type :normal,
+   :article/no "33",
+   :article/title "Giderlere Katılma Payı",
+   :article/path "articles/madde-033.md",
+   :article/sha256
+   "d671be8a1cf838929c080f9e43781cce5f7606ff03f87625c928615cb29682cc"}
+  {:article/id "decree/khk-320/article/34",
+   :article/type :normal,
+   :article/no "34",
+   :article/title "Denetim ile İlgili Giderler",
+   :article/path "articles/madde-034.md",
+   :article/sha256
+   "a54d9ce8601a9128916ded7943d81980a6f42bd4ef217cbffab7fd47d298ee23"}
+  {:article/id "decree/khk-320/article/35",
+   :article/type :normal,
+   :article/no "35",
+   :article/title "Talih Oyunları İşletmelerinin Denetimi",
+   :article/path "articles/madde-035.md",
+   :article/sha256
+   "e03d66690e5f60ec305d96f79e9c0469826ae359f244f50d254155e6c03b1b7b"}
+  {:article/id "decree/khk-320/article/36",
+   :article/type :normal,
+   :article/no "36",
+   :article/title "Talih Oyunları İşletmeleri ile İlgili Cezalar",
+   :article/path "articles/madde-036.md",
+   :article/sha256
+   "4b84da5f3c8ee5576ea1106d67d7a07e0a46b4dead5a64f8d4b14adf7e30419f"}
+  {:article/id "decree/khk-320/article/37",
+   :article/type :normal,
+   :article/no "37",
+   :article/title "Uyarma Cezası",
+   :article/path "articles/madde-037.md",
+   :article/sha256
+   "6997a73bbdd562803c876055a107aab70ff8888a6f92b47134cff49c2570a6b3"}
+  {:article/id "decree/khk-320/article/38",
+   :article/type :normal,
+   :article/no "38",
+   :article/title "Para Cezaları",
+   :article/path "articles/madde-038.md",
+   :article/sha256
+   "de7d03ba9c12ea5c069011e8f7bf873929d20829e8f856abe02a42a1791ee16a"}
+  {:article/id "decree/khk-320/article/39",
+   :article/type :normal,
+   :article/no "39",
+   :article/title "Cezalara İtiraz",
+   :article/path "articles/madde-039.md",
+   :article/sha256
+   "54c80d0dc0dd2aa4fb2dca2b5d8a16835ed52e63f96c7ac3adbd906a4d1c88d3"}
+  {:article/id "decree/khk-320/article/40",
+   :article/type :normal,
+   :article/no "40",
+   :article/title nil,
+   :article/path "articles/madde-040.md",
+   :article/sha256
+   "aaea5c3f4627e969eaa07ba835d1625ce62c781abf9ead789c4824a88141f64c"}
+  {:article/id "decree/khk-320/article/41",
+   :article/type :normal,
+   :article/no "41",
+   :article/title "Piyango Tertip ve Çekiliş Düzenleme Hakkı",
+   :article/path "articles/madde-041.md",
+   :article/sha256
+   "6c38ede9fde9728c56789439950c4dec44698122d029ef81f5a742acaa406161"}
+  {:article/id "decree/khk-320/article/42",
+   :article/type :normal,
+   :article/no "42",
+   :article/title "Yurtdışı Faaliyetler ve Ortaklıklar",
+   :article/path "articles/madde-042.md",
+   :article/sha256
+   "d255eb96060a06c61797f38e2ff721c09211f2ae4ff501432f979c0ac4dd91a4"}
+  {:article/id "decree/khk-320/article/43",
+   :article/type :normal,
+   :article/no "43",
+   :article/title "Devlet Garantisi",
+   :article/path "articles/madde-043.md",
+   :article/sha256
+   "a6b3f84b0af8715f3ba6147aca67920e77b5631cc5b247fcb209d65e0dba89ca"}
+  {:article/id "decree/khk-320/article/44",
+   :article/type :normal,
+   :article/no "44",
+   :article/title "Personel Rejimi",
+   :article/path "articles/madde-044.md",
+   :article/sha256
+   "98a8feb899b1008d0ef5121ab4c44c6af754377ffb0066075aeed7f8ad5fcf3f"}
+  {:article/id "decree/khk-320/article/45",
+   :article/type :normal,
+   :article/no "45",
+   :article/title "Sözleşmeli Personel",
+   :article/path "articles/madde-045.md",
+   :article/sha256
+   "f014b7e0c822dd5b879be9df10c3c5a5ee70a29bb1b85cfda780cff095c8fce5"}
+  {:article/id "decree/khk-320/article/46",
+   :article/type :normal,
+   :article/no "46",
+   :article/title "Atama",
+   :article/path "articles/madde-046.md",
+   :article/sha256
+   "59427d58f9eaff29dbbc1ad36b58f9912240642eaadbb02e86ba32518a78c0a8"}
+  {:article/id "decree/khk-320/article/47",
+   :article/type :normal,
+   :article/no "47",
+   :article/title "Bütçe",
+   :article/path "articles/madde-047.md",
+   :article/sha256
+   "1078a8ec6f4bce34be89d00b0376c17ab5f59bbb98fa883c73691bda780b2a5e"}
+  {:article/id "decree/khk-320/article/48",
+   :article/type :normal,
+   :article/no "48",
+   :article/title "İdare Safi Hasılatının Devri",
+   :article/path "articles/madde-048.md",
+   :article/sha256
+   "dbff0cd1a850a047711f9413fc60b6eccc8003ce1d14504b97f00797536bcd97"}
+  {:article/id "decree/khk-320/article/49",
+   :article/type :normal,
+   :article/no "49",
+   :article/title "İdare Mevduatı",
+   :article/path "articles/madde-049.md",
+   :article/sha256
+   "ab05f48825f48b327d8c2e296789ca38b6d26fb137a61ac3139e37348550b45a"}
+  {:article/id "decree/khk-320/article/50",
+   :article/type :normal,
+   :article/no "50",
+   :article/title "İkramiye Ödemeleri",
+   :article/path "articles/madde-050.md",
+   :article/sha256
+   "0a24af09a90c045e2243be47403485b4fb7bb96fe6c2e48e201ebdafa3b0aa9c"}
+  {:article/id "decree/khk-320/article/51",
+   :article/type :normal,
+   :article/no "51",
+   :article/title "Devlet Malı Sayılma",
+   :article/path "articles/madde-051.md",
+   :article/sha256
+   "34b3e363cbf925d3d841332c8eed1bc6ca337af28d4811f7289ff0204c7d020a"}
+  {:article/id "decree/khk-320/article/52",
+   :article/type :normal,
+   :article/no "52",
+   :article/title "Cezai Hükümler",
+   :article/path "articles/madde-052.md",
+   :article/sha256
+   "a8761319112c8fb0ab1d9f4b730a937d14f768503901867b81742f7dd9354732"}
+  {:article/id "decree/khk-320/article/53",
+   :article/type :normal,
+   :article/no "53",
+   :article/title "Vergi Muafiyeti",
+   :article/path "articles/madde-053.md",
+   :article/sha256
+   "0483fd2695d76de3432c1d9ff6dd998639d8a7b76bcf7cb65a62745dc4f53610"}
+  {:article/id "decree/khk-320/article/54",
+   :article/type :normal,
+   :article/no "54",
+   :article/title "Kadrolar",
+   :article/path "articles/madde-054.md",
+   :article/sha256
+   "75d44953fa458bc826692302637e711a3fc54859831d468af245f404101f0d66"}
+  {:article/id "decree/khk-320/article/55",
+   :article/type :normal,
+   :article/no "55",
+   :article/title "Çekilişlerin Yayını",
+   :article/path "articles/madde-055.md",
+   :article/sha256
+   "56314127458cda0c3241e9bae6f34c9d25e5147eb6786c591e40938df2b96c00"}
+  {:article/id "decree/khk-320/article/56",
+   :article/type :normal,
+   :article/no "56",
+   :article/title "İdare Kefalet Sandığı",
+   :article/path "articles/madde-056.md",
+   :article/sha256
+   "0cf5ffa82c08d7255ad03233e1886e1bb3995db37c5b796255aa822b52cc0f72"}
+  {:article/id "decree/khk-320/article/57",
+   :article/type :normal,
+   :article/no "57",
+   :article/title "Bilet ve Kuponların Saklanma Süreleri",
+   :article/path "articles/madde-057.md",
+   :article/sha256
+   "8af886d766aa2dac2f1d848c07c5d2b764b4fabb685e7b27cbc50c686dc19804"}
+  {:article/id "decree/khk-320/article/58",
+   :article/type :normal,
+   :article/no "58",
+   :article/title "Kaldırılan Hükümler",
+   :article/path "articles/madde-058.md",
+   :article/sha256
+   "3f93606df7422ab74a7a353b38bc698669de12cdd457de0ce0ebe51dde0a5b43"}
+  {:article/id "decree/khk-320/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "f0c7bf2e8e818ef6c1694f8d4bcfbb1aef9d21bde20ef347b313780c4e2931e3"}
+  {:article/id "decree/khk-320/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "cb811ee98dab2721b2f9bf990397c6eaaa8560a0000cb2ad085782bf96a0fd5b"}
+  {:article/id "decree/khk-320/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "6518a6d4b98bf1dbaa5d6c288396a1e1621333d4bafc06381c747ed8682c0dd9"}
+  {:article/id "decree/khk-320/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "130971381d90300a6aff86173b11fd3dce5a1a83a6f12ec3426803cb4aeff2fd"}
+  {:article/id "decree/khk-320/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "d12c59125f997daeeca8570a454c48ff5408805a90326f0608f537f787397f09"}
+  {:article/id "decree/khk-320/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "8a932f84cf59a45275b3a09b086ea0bdea629580d981e92ec8fe5e60bc44e138"}
+  {:article/id "decree/khk-320/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "0f36f6e717e0b0ed31d45ec66edb34f3c41572bf9303217ca1d664a872ce6a88"}
+  {:article/id "decree/khk-320/article/6",
+   :article/type :temporary,
+   :article/no "6",
+   :article/title "Mevcut işletim sözleşmesinin geçerliliği",
+   :article/path "articles/gecici-madde-006.md",
+   :article/sha256
+   "67a24c6348b85ecb3480ca23aa0ae47a04ab378d041dd19dbc9d26ba1fec7608"}
+  {:article/id "decree/khk-320/article/59",
+   :article/type :normal,
+   :article/no "59",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-059.md",
+   :article/sha256
+   "db9a6eab83dbda0dc574338649a2ce30a1afc7c9ae4c61d6dfbf3cbd7d96f696"}
+  {:article/id "decree/khk-320/article/60",
+   :article/type :normal,
+   :article/no "60",
+   :article/title "Yürütme",
+   :article/path "articles/madde-060.md",
+   :article/sha256
+   "cd2a1328d068030fbfb94a5b0d22d2c76f7a498e0294087863704af908e0167e"}]}

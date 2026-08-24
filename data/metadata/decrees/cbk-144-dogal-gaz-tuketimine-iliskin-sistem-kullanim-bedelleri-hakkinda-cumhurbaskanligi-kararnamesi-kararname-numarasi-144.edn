@@ -1,0 +1,55 @@
+{:document/id "decree/cbk-144",
+ :document/type :decree,
+ :document/number "144",
+ :document/title
+ "DOĞAL GAZ TÜKETİMİNE İLİŞKİN SİSTEM KULLANIM BEDELLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 144)",
+ :document/slug
+ "cbk-144-dogal-gaz-tuketimine-iliskin-sistem-kullanim-bedelleri-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-144",
+ :document/path
+ "data/canonical/decrees/cbk-144-dogal-gaz-tuketimine-iliskin-sistem-kullanim-bedelleri-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-144",
+ :document/sha256
+ "b731307de386cffeb1f0c164ef688fb4176de7e9f28bf0aaddb8796f8003d249",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.144.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:27.503-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-144/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "936c36f578ddacb2cbc662e9896f02c8871627621097def9b5de58539143a75c"}
+  {:article/id "decree/cbk-144/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Sistem kullanım bedellerinin karşılanması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "32b19213a38b7652536b5554fc8ea868c2d60c21099fd68d6397a5c47162a412"}
+  {:article/id "decree/cbk-144/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Uygulamaya ilişkin usul ve esaslar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "cd02e270f75ffc18c4132264dc3fb414e13ccc23623e75be9e7cc6be9b36a61e"}
+  {:article/id "decree/cbk-144/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "1859818f2c1f2ec3f0e2340179a6588ef8ea3b6531dd4c42b2ba528a8252b9ba"}
+  {:article/id "decree/cbk-144/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Yürütme",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "3c0db8e7980073c8865db2bf37b1bbc7777a4f7a83d1a070094266fa2ca5b7e8"}]}

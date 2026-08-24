@@ -1,0 +1,42 @@
+{:document/id "decree/cbk-62",
+ :document/type :decree,
+ :document/number "62",
+ :document/title
+ "TÜRKİYE CUMHURİYET MERKEZ BANKASI MECLİSİ ÜYELİĞİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 62)",
+ :document/slug
+ "cbk-62-turkiye-cumhuriyet-merkez-bankasi-meclisi-uyeligi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-62",
+ :document/path
+ "data/canonical/decrees/cbk-62-turkiye-cumhuriyet-merkez-bankasi-meclisi-uyeligi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-62",
+ :document/sha256
+ "f10dfc4bcb8f3c96324c65ebc4714504d725960936beecfce5d2b5ea66f1135b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.62.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:02.208-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-62/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 17/5/2020 - 31130",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "95af0f100921afab9da1af39adb477469e63b8fbda4ecac614df3c21dd41c497"}
+  {:article/id "decree/cbk-62/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "bbf867e8e8265c555b166f9eb54a9a45cd3a0b41c2db212e5c361171e3056458"}
+  {:article/id "decree/cbk-62/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "483cc19fd45801a5cfc326a9f46949ead0e56881f34d27a31f5e54b9f29e0187"}]}

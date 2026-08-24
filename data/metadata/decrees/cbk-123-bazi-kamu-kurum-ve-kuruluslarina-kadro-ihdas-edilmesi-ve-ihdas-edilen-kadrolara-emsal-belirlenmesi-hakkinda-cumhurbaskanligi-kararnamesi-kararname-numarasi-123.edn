@@ -1,0 +1,49 @@
+{:document/id "decree/cbk-123",
+ :document/type :decree,
+ :document/number "123",
+ :document/title
+ "BAZI KAMU KURUM VE KURULUŞLARINA KADRO İHDAS EDİLMESİ VE İHDAS EDİLEN KADROLARA EMSAL BELİRLENMESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 123)",
+ :document/slug
+ "cbk-123-bazi-kamu-kurum-ve-kuruluslarina-kadro-ihdas-edilmesi-ve-ihdas-edilen-kadrolara-emsal-belirlenmesi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-123",
+ :document/path
+ "data/canonical/decrees/cbk-123-bazi-kamu-kurum-ve-kuruluslarina-kadro-ihdas-edilmesi-ve-ihdas-edilen-kadrolara-emsal-belirlenmesi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-123",
+ :document/sha256
+ "a46b89b05857f786fbdd70b31dddc154f5b71d53e5bc7ce5317310d40eca6d74",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.123.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:22.131-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-123/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 15/2/2023 – 32105",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "e2f66a1b78bc6700ceea3d77b5c141a997c8f999d7df6f7e02b16a6533bf7acd"}
+  {:article/id "decree/cbk-123/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "968123ef60294a18b38759e4d71dc0f2ccbb19277002f3199417ea3d418eb8d9"}
+  {:article/id "decree/cbk-123/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8d84288dbbd29e08a2478f25c07ce6c8d05689b2482ea68c73f2349194e14500"}
+  {:article/id "decree/cbk-123/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "3eac0a2c04f951d2da1ff27b0e78029d5c949474b62ab6f1ac3db554d3ede27a"}]}

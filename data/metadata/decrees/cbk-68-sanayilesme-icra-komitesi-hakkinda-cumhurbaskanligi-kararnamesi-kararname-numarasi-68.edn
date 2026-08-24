@@ -1,0 +1,83 @@
+{:document/id "decree/cbk-68",
+ :document/type :decree,
+ :document/number "68",
+ :document/title
+ "SANAYİLEŞME İCRA KOMİTESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 68)",
+ :document/slug
+ "cbk-68-sanayilesme-icra-komitesi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-68",
+ :document/path
+ "data/canonical/decrees/cbk-68-sanayilesme-icra-komitesi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-68",
+ :document/sha256
+ "cc08102eee6434cc24fc4bf59c99ca42139288e1357684c3b63621551bb5f91a",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.68.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:07.310-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-68/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "157f12792f164a99812d324caeb21cfedb29b30cf8079d89f702c05426bb05e7"}
+  {:article/id "decree/cbk-68/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "08a80d63b04026d6b1fb009eb23e4d7f33901d38091927a92a2d836ed87ae490"}
+  {:article/id "decree/cbk-68/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "9b8ed1f5d00a040aec889167b1841a6525398d419430e96a85e59987140d724c"}
+  {:article/id "decree/cbk-68/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Komitenin oluşumu, görev ve yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "03b21580ef2fcb428d90d5b3e597379516dc58c3d7881a8bd39197e1d95c62a4"}
+  {:article/id "decree/cbk-68/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Sekretarya",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "8b18258a856686673a3cea82b53140c4c8cfd33aab78e1fe41dd520dc53575e8"}
+  {:article/id "decree/cbk-68/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Sanayileşme koordinasyon birimleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "33c1564506c476541dcf14ed972cae29f5d8487aed453d38963002fd04d43c38"}
+  {:article/id "decree/cbk-68/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Mali hükümler",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "06b4e026f7acdf73d81ec927b39a558286a442829a9d20ecbfdeaee9f199534d"}
+  {:article/id "decree/cbk-68/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "83322391f739734bc56d3afa1b11024fd4b3d408ee9f764f89b14a7c96421828"}
+  {:article/id "decree/cbk-68/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yürütme",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "018f10eb949e4016d3078cbdb8b472b0bc9d8f42a22b212777453974be3fa272"}]}

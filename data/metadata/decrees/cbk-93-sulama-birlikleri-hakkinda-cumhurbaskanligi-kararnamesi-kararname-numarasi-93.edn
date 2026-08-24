@@ -1,0 +1,55 @@
+{:document/id "decree/cbk-93",
+ :document/type :decree,
+ :document/number "93",
+ :document/title
+ "SULAMA BİRLİKLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 93)",
+ :document/slug
+ "cbk-93-sulama-birlikleri-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-93",
+ :document/path
+ "data/canonical/decrees/cbk-93-sulama-birlikleri-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-93",
+ :document/sha256
+ "c1b1c4ba22ba6c961618d852bcd873e950d57df448d29790fc3a1b299580dda8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.93.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:12.310-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-93/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4e6e350577e13cb8d4006bf81d0442782371f6d443a78ded51ae9f773905cc49"}
+  {:article/id "decree/cbk-93/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Sulama birlikleri",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "5fa850f9960e73665ae1e0b018914583f95dc5a43a61784a3932b94092ba5fc2"}
+  {:article/id "decree/cbk-93/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Devredilen sulama birlikleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "9c60a65898ef3e632b2e1d9dc23f229f42bb2ff57b6accaf0b8d5677b43648f1"}
+  {:article/id "decree/cbk-93/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c0478bcf09f74e0d8d9101ddb9f5dffcf58f7940e184fa9f6941e6c9656935d6"}
+  {:article/id "decree/cbk-93/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Yürütme",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "ddc271e4a9d7cca9b18f5275aaa876e2e8c0186434353ed4bc9fa54539903e1e"}]}

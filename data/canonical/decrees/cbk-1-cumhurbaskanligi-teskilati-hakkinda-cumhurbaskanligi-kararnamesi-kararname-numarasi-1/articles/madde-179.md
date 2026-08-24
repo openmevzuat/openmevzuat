@@ -1,0 +1,3 @@
+# MADDE 179 — Taşra Teşkilatı
+
+(1) Bakanlık taşra teşkilatı kurmaya yetkilidir.

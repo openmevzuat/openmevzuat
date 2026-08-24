@@ -1,0 +1,97 @@
+{:document/id "decree/cbk-8",
+ :document/type :decree,
+ :document/number "8",
+ :document/title
+ "YÜKSEK ASKERİ ŞÛRANIN KURULUŞ VE GÖREVLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 8)",
+ :document/slug
+ "cbk-8-yuksek-askeri-sranin-kurulus-ve-gorevleri-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-8",
+ :document/path
+ "data/canonical/decrees/cbk-8-yuksek-askeri-sranin-kurulus-ve-gorevleri-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-8",
+ :document/sha256
+ "5e25fdf466c1169772129e601d90004b9a8fecf98393bb4fc83733de37fba91b",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.8.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:27.124-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-8/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4d45dd53ff1d619aef97e47f24655a86dbd93dc3c243bc450f1df80899f7229c"}
+  {:article/id "decree/cbk-8/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Başkan ve üyeler",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "b0dbdaad769ad3f31c097f547c1a4c9747fcbdb3f76e6dfa0f80aa9718c6cce6"}
+  {:article/id "decree/cbk-8/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Görevler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "d76fbe926a6bfb107ae4d5249dde53bfcb68284e8040d5ad82c1b9165073a117"}
+  {:article/id "decree/cbk-8/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "7a68e2c8a5b34f6052bd610b1fb037d2fee84ce87fbc1fadfd819f8d52e6c8fa"}
+  {:article/id "decree/cbk-8/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Toplantı çokluğu ve oylama",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "37e09fe4da4a892a7e1d6db6456e97824f7845b86e08abac981f5d76b6af5d82"}
+  {:article/id "decree/cbk-8/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Sekretarya",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "338733d5556c6bf58ea8e3dcd66a43c6db44e2f948103882aba445928e1b5caf"}
+  {:article/id "decree/cbk-8/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kıdemsizlerin toplantıya katılamaması",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "6827aebebd7bdaced06c2a0a20cef130b44e8b7770f0c48936e9603d5823eea9"}
+  {:article/id "decree/cbk-8/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Kararların gizliliği",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "df56020deceec3aa07d4dd756088d7384b7fb3802e4fa848425b4d12b6bb34da"}
+  {:article/id "decree/cbk-8/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetim",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ba0b226a44f16141122dc2304c0a03252252d5ea13e288247f28ce526a4c71d0"}
+  {:article/id "decree/cbk-8/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c9d98d03c07c9e9421846bbdc1125429ac9116a10d170d3717d025694e829447"}
+  {:article/id "decree/cbk-8/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "cdf2200e7b03e11f1473ece3595648f0626dd889cb2b47704b627bc9d132e671"}]}

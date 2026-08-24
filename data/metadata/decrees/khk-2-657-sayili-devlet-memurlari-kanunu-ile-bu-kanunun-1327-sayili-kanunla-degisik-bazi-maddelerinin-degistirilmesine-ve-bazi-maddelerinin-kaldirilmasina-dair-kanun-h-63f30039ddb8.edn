@@ -1,0 +1,83 @@
+{:document/id "decree/khk-2",
+ :document/type :decree,
+ :document/number "2",
+ :document/title
+ "657 SAYILI DEVLET MEMURLARI KANUNU İLE BU KANUNUN 1327 SAYILI KANUNLA DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE VE BAZI MADDELERİNİN KALDIRILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-2-657-sayili-devlet-memurlari-kanunu-ile-bu-kanunun-1327-sayili-kanunla-degisik-bazi-maddelerinin-degistirilmesine-ve-bazi-maddelerinin-kaldirilmasina-dair-kanun-h-63f30039ddb8",
+ :document/path
+ "data/canonical/decrees/khk-2-657-sayili-devlet-memurlari-kanunu-ile-bu-kanunun-1327-sayili-kanunla-degisik-bazi-maddelerinin-degistirilmesine-ve-bazi-maddelerinin-kaldirilmasina-dair-kanun-h-63f30039ddb8",
+ :document/sha256
+ "f2cbe34cdfee6ce4df6c6b5eeb76e02039060a4dd7f1d1fb2d88752bb32a3982",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.2.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:10.132-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-2/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 12 Sh: 273",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "5622a4c3f906d38a7d0c280b8348ae9330b07edea3b8ef92902b85e3550818c3"}
+  {:article/id "decree/khk-2/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "952c64222e511fa55e6136b9d86fd3560bb0f5242f2f96af39c7ffd8fbcd188b"}
+  {:article/id "decree/khk-2/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "fdc2bfed570586145af22b84fc9f17356e714c5b5d27a18b650e0837a5ef56be"}
+  {:article/id "decree/khk-2/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "23e465c40b740466363f63cf3e466651ef05e1e1b70d5e8c62c55b49f961a613"}
+  {:article/id "decree/khk-2/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "aa73016c5fd29efc9ffb529a4160b7b5a55d3bfcc6fdf729cf04c76ff2f12106"}
+  {:article/id "decree/khk-2/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "3004b713bf2d855bbfc93a15ac371e417539d2ee7e8c35ebfa48b4e621fa355b"}
+  {:article/id "decree/khk-2/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "22133f5a3f76f88fa86f0c54946b299ed576da9a3bc22cc0bcaea33dfff5c103"}
+  {:article/id "decree/khk-2/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "493c41953ef01f729dfbd6c6c5791609184473a2776ddd8272ef2fcff5b63ca4"}
+  {:article/id "decree/khk-2/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "91c5f589686f10270bab84af9f62b2f05c65cb585a4aed5949794fb28bd2d32e"}]}

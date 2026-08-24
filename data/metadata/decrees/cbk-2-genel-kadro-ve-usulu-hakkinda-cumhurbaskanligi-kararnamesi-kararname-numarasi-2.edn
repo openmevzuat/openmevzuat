@@ -1,0 +1,197 @@
+{:document/id "decree/cbk-2",
+ :document/type :decree,
+ :document/number "2",
+ :document/title
+ "GENEL KADRO VE USULÜ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 2)",
+ :document/slug
+ "cbk-2-genel-kadro-ve-usulu-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-2",
+ :document/path
+ "data/canonical/decrees/cbk-2-genel-kadro-ve-usulu-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-2",
+ :document/sha256
+ "bf0e5b90eead1760495a3a5f5adbc2d7ba9f032b7db36a0108cbb56c21e35ed6",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.2.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:07.382-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-2/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "f1c46b826439d5a67b71825d32827dd2f6d8d297dd91d727c96049dd7a3b98da"}
+  {:article/id "decree/cbk-2/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Kapsam",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "52febcca9f7ecc3e08b002658801c8339ab875eeaca5ff1597981ba41dfdfe89"}
+  {:article/id "decree/cbk-2/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İstisnalar",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "6130a1c425d63126327f96a399f3b23cc7875a3202b482274b7348e327373938"}
+  {:article/id "decree/cbk-2/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "54bb4b8d9a6831b8c168901bf5b213e8ad56f234b8adaaa5c85ed3304aad57d7"}
+  {:article/id "decree/cbk-2/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Kadro ihdası",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "4f1649abb58866667818fcf467c19e673befed4c48e198b3a0b75eff5597fbcb"}
+  {:article/id "decree/cbk-2/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Kadroların dağılımı",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "db6c0818a38de1c5c8671513a39ad73a27b316995abec7eb70a3fcd9ef722fd0"}
+  {:article/id "decree/cbk-2/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Kadro değişikliği",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "83c9e1662dd64cd0842da244e305cb59a7ad04e968cf32b7b04851a06d1b68a6"}
+  {:article/id "decree/cbk-2/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title
+   "Sürekli işçi kadroları ve sözleşmeli personel pozisyonları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "e97595bdea9509b60be65a9643c33d8526dc8fb94b5ef9cc3b009546a060c211"}
+  {:article/id "decree/cbk-2/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a2af3499685845a6f38a9f2ceba4dc27eb66e5c6b8a24922434708269f300cf7"}
+  {:article/id "decree/cbk-2/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Kadro araştırmaları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "f9f533f30366ae0f2d6eed8282aa6b2215f48e884e794c7d7468482879198528"}
+  {:article/id "decree/cbk-2/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Açıktan ve nakil suretiyle atama sayıları",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "07bff5564b169f0be8de8ef87d3cb7b1bceae6bc85a0f81846fc1622d7952709"}
+  {:article/id "decree/cbk-2/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Bildirim",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "25adf9ff6aee91b4cda5d15646ff6cd2b68e7a6d410a4726b5a415068b07fb0b"}
+  {:article/id "decree/cbk-2/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "fdfd9866fedd8fa71180e4d2e7e15cda1c5203904572f712f41e84bf3e0d63e7"}
+  {:article/id "decree/cbk-2/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title "Bazı kurum kadro ve pozisyonları",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "d84c3e7beacd0a55c8d015346260cb6602ebb06ad8dc6cf44dcd971b8875ac8f"}
+  {:article/id "decree/cbk-2/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Atıflar",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "09c552b55634935e2495a6d90917efe7407045bbb3d9f5d4fb1c064140f185d7"}
+  {:article/id "decree/cbk-2/article/1",
+   :article/type :additional,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/ek-madde-001.md",
+   :article/sha256
+   "926a78a202372670517463733fd87bbd9aa013997954389a559c467d45f53202"}
+  {:article/id "decree/cbk-2/article/2",
+   :article/type :additional,
+   :article/no "2",
+   :article/title
+   "Düzenleyici ve denetleyici kurumların sürekli işçi kadroları",
+   :article/path "articles/ek-madde-002.md",
+   :article/sha256
+   "7c341bb411f8ee61bb106df96b52bcea491f21082d87a90d608d84d040e5e24d"}
+  {:article/id "decree/cbk-2/article/3",
+   :article/type :additional,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/ek-madde-003.md",
+   :article/sha256
+   "ddec2363e6ee8eba6161f4b77faa79f91096eb36f998afa3e2bdd2d090e7b92a"}
+  {:article/id "decree/cbk-2/article/4",
+   :article/type :additional,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/ek-madde-004.md",
+   :article/sha256
+   "5fdd1a306516e523d154caf635c1363e59e4f6c3a4f454050e7f9eb83054dfaa"}
+  {:article/id "decree/cbk-2/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "55348335460985fd5086e59db343232875f1f21f8e49b4da63c4031e48d4cb59"}
+  {:article/id "decree/cbk-2/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "5152f1bb6858ed1604f518094b97c4428876963b65f3a0f56cef87ccc612bfd4"}
+  {:article/id "decree/cbk-2/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "387851a6b1bb48b3af1e7849c1c646a736f2a420be4bd77e9fcc7d61e71ec1fa"}
+  {:article/id "decree/cbk-2/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "0cce7259015d868d0c37a966c6d4f7c340d06737dadb31bce45c25860c21c064"}
+  {:article/id "decree/cbk-2/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "56bb86cf66faaf4a9f071aee7468ee629c08cf8b843253aeeb8c3113154b4c01"}
+  {:article/id "decree/cbk-2/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title "Yürütme",
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "a23b952415408e2c4d15a044c9000919a96cc1b41a3ddffe9bbdbb8247cf5c57"}]}

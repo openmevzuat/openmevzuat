@@ -1,0 +1,83 @@
+{:document/id "decree/khk-584",
+ :document/type :decree,
+ :document/number "584",
+ :document/title
+ "BİR İL VE İKİ İLÇE KURULMASI VE 190 SAYILI KANUN HÜKMÜNDE, KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-584-bir-il-ve-iki-ilce-kurulmasi-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-584-bir-il-ve-iki-ilce-kurulmasi-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisiklik-yapilmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "e9b61fb656333ae36954e7b6475b6c17a30c1427aed672b366fcea6daa4118ab",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.584.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:11.541-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-584/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 39",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "2ce120514665935c0a704957675d3642f703308c364922cc64960396f3e1a3cf"}
+  {:article/id "decree/khk-584/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "d5701beed0dc4072aaa9b336c1bef35a2e7a9d4b8740b2c193bd0c1a64adcabe"}
+  {:article/id "decree/khk-584/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "f31b148ee36bd37a0516be5267711b8c328d5e90e23ea0bdc83dea8008d81e24"}
+  {:article/id "decree/khk-584/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "eb9f933f66610a1e80897019e1e2b64c1e7d35e720d9e4bb1bf1a829f0959e85"}
+  {:article/id "decree/khk-584/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "5bf8adfa04f8e5d0523788842e015c11eda2b293f1f5933da4315788d612c9af"}
+  {:article/id "decree/khk-584/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "59df12e0651530dad7b17ee082ceebf8d57a44324ee66b1e3e8c51e8c93be3b0"}
+  {:article/id "decree/khk-584/article/5",
+   :article/type :temporary,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/gecici-madde-005.md",
+   :article/sha256
+   "e4ffdb3cf2fcb929eb927ece0c44b0e983492629f9bf4324965a78a8403e41ac"}
+  {:article/id "decree/khk-584/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "c66fe973e3b7b1ec901c4567b037550e987d77e79c74148a345a5b129b97214f"}
+  {:article/id "decree/khk-584/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0fbcc8362b9107bd9b96c2d808fe008402ce35c635e5d21c71d248c7efcd89dd"}]}

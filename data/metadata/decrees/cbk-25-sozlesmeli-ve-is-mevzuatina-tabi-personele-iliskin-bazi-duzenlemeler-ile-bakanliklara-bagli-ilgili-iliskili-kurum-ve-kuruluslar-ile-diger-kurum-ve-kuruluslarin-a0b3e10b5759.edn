@@ -1,0 +1,49 @@
+{:document/id "decree/cbk-25",
+ :document/type :decree,
+ :document/number "25",
+ :document/title
+ "SÖZLEŞMELİ VE İŞ MEVZUATINA TABİ PERSONELE İLİŞKİN BAZI DÜZENLEMELER İLE BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİNDE DEĞİŞİKLİK YAPILMASINA DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 25)",
+ :document/slug
+ "cbk-25-sozlesmeli-ve-is-mevzuatina-tabi-personele-iliskin-bazi-duzenlemeler-ile-bakanliklara-bagli-ilgili-iliskili-kurum-ve-kuruluslar-ile-diger-kurum-ve-kuruluslarin-a0b3e10b5759",
+ :document/path
+ "data/canonical/decrees/cbk-25-sozlesmeli-ve-is-mevzuatina-tabi-personele-iliskin-bazi-duzenlemeler-ile-bakanliklara-bagli-ilgili-iliskili-kurum-ve-kuruluslar-ile-diger-kurum-ve-kuruluslarin-a0b3e10b5759",
+ :document/sha256
+ "3a789fe435c698f18a0645deadf3de989275576cf27935e16a471765e495d511",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.25.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:52.063-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-25/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazetenin Tarihi – Sayısı : 28/12/2018 - 30639",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "dbf82916db1d8928a8f253c536a79b805b01f6c2e55c53cefdcf83a80aafee21"}
+  {:article/id "decree/cbk-25/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "97a63934faf688c79d872de38973ad931f3479403928e5f8405bc242dce7999a"}
+  {:article/id "decree/cbk-25/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "537702fba3ce86085cc22adca0354788c2852bf0c2eb4b4d50a97746469eb6cf"}
+  {:article/id "decree/cbk-25/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "46df020d9e6fff66378b3cc914bce4f561209d83c17201ea01ff270afb21f8b1"}]}

@@ -1,0 +1,179 @@
+{:document/id "decree/khk-659",
+ :document/type :decree,
+ :document/number "659",
+ :document/title
+ "GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ VE ÖZEL BÜTÇELİ İDARELERDE HUKUK HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-659-genel-butce-kapsamindaki-kamu-idareleri-ve-ozel-butceli-idarelerde-hukuk-hizmetlerinin-yurutulmesine-iliskin-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-659-genel-butce-kapsamindaki-kamu-idareleri-ve-ozel-butceli-idarelerde-hukuk-hizmetlerinin-yurutulmesine-iliskin-kanun-hukmunde-kararname",
+ :document/sha256
+ "a53ef6d926473229ea801d4afa33ffc60fe835781dd494ba042a769f6b54347f",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.659.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:44.294-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-659/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam1",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "240842b8de0d2f9fa0b988d3553e894292164226409edb116fb74b7e7561e62c"}
+  {:article/id "decree/khk-659/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "3ef535c371ddefee52b96909b066384e8b3287c2351f7cfcd5515ba2f95004c9"}
+  {:article/id "decree/khk-659/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "İlkeler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "dae8cc7996b3e4589cef87b401c5a0c0fff8be693befa21957a1a5c252903c3e"}
+  {:article/id "decree/khk-659/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Hukuk birimlerinin görevleri2",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9aae31a402d1491f9386ad1b46c3000fae16cb1fe4ac2a7cfc30a11a917a1124"}
+  {:article/id "decree/khk-659/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Muhakemat hizmeti temini3",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "b63c6eeab262e47dc01f0e913a9ed214b8f28bc2aaf442be58cd9e7c8a22ca92"}
+  {:article/id "decree/khk-659/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "Takip ve temsil yetkileri ile bunların kapsamı, niteliği ve kullanılması",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3dea9394213e8f5e1689dc2eb07158130c407d2fec79cfc83d371fe4fe7c5682"}
+  {:article/id "decree/khk-659/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title nil,
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "dc2bfb49d770b67abad257c880b8673ccc554721635a2f4cf1597c2fd155c711"}
+  {:article/id "decree/khk-659/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Davaların açılması",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "ec3e4f45da7ee362b3e1fd8b9699d3a41cb63d34e2f4f633dfc75b5d01e3cbe6"}
+  {:article/id "decree/khk-659/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Adli uyuşmazlıklarda sulh",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "ec52f767c3271492209c03439c5632182fedefe6f9cea49c0b32e507bf453a63"}
+  {:article/id "decree/khk-659/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Adli uyuşmazlıklarda sulhün usul ve esasları",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "a2c1d46553b7071a4d423b4616c872191b775b783a29018cf7e52369edb3d767"}
+  {:article/id "decree/khk-659/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Adli uyuşmazlıkların sulh yoluyla halli, uzlaşma ve vazgeçme yetkileri",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "dc4300a762324720e8985b71b09809213ebdab45b7b4e89bb6754dfe30083783"}
+  {:article/id "decree/khk-659/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title
+   "İdari uyuşmazlıkların sulh yoluyla halli ve vazgeçme yetkileri",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "2164a2bcc9b6eee3a7e740f02b319c83786bdd80361046cfcd91a5d16f256a6c"}
+  {:article/id "decree/khk-659/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Dış temsilciliklerde görevlendirme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "3f742f59377c62b22265d9853d7311fb2d1fdea240e735144e0bed5a42709750"}
+  {:article/id "decree/khk-659/article/14",
+   :article/type :normal,
+   :article/no "14",
+   :article/title
+   "Davalardaki temsilin niteliği ve vekalet ücretine hükmedilmesi ve dağıtımı",
+   :article/path "articles/madde-014.md",
+   :article/sha256
+   "4952e4d3611d2567fa6dbc637707ab2be157c7930d6260880027df2268e67faf"}
+  {:article/id "decree/khk-659/article/15",
+   :article/type :normal,
+   :article/no "15",
+   :article/title "Parasal sınırlar",
+   :article/path "articles/madde-015.md",
+   :article/sha256
+   "4de14bf573c20f1e2b9c66605bf4e89d3792f29e4de44986005d774648b9bc45"}
+  {:article/id "decree/khk-659/article/16",
+   :article/type :normal,
+   :article/no "16",
+   :article/title nil,
+   :article/path "articles/madde-016.md",
+   :article/sha256
+   "4b35506daa6dde58a94d89ec0757b17c3fb6cc874a015d2547f9a2d846973e9e"}
+  {:article/id "decree/khk-659/article/17",
+   :article/type :normal,
+   :article/no "17",
+   :article/title nil,
+   :article/path "articles/madde-017.md",
+   :article/sha256
+   "2563c9bd7704b91fa688fd54ba263ba5d532e2ed7d7d85c8412115fff30006ea"}
+  {:article/id "decree/khk-659/article/18",
+   :article/type :normal,
+   :article/no "18",
+   :article/title
+   "Yürürlükten kaldırılan ve uygulanmayacak hükümler ile atıflar",
+   :article/path "articles/madde-018.md",
+   :article/sha256
+   "dda2f6f34508e9203cce7f6d60822fa316c42f7af511b8e891f359adf4f768d1"}
+  {:article/id "decree/khk-659/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Dosyaların devri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "615deb537920051c92cb0ed84c1773dece332f3ade226e1e34df6ba57da0be46"}
+  {:article/id "decree/khk-659/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title "Kadrolar",
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "337b0eda5a5c8cee41ff84298100ff27dd081266d45b8e4b2f82672d5f2c6e40"}
+  {:article/id "decree/khk-659/article/19",
+   :article/type :normal,
+   :article/no "19",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-019.md",
+   :article/sha256
+   "b1897ab7e204b68a3d56060d6f6b5b804941cc6a053335771a37b7c754c90269"}
+  {:article/id "decree/khk-659/article/20",
+   :article/type :normal,
+   :article/no "20",
+   :article/title "Yürütme",
+   :article/path "articles/madde-020.md",
+   :article/sha256
+   "5ae3ed980c947f9d781cdcebb9f1a6ba48d707367516e7758c389ca4ae6dfef6"}]}

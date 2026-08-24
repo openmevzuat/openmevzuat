@@ -1,0 +1,63 @@
+# KALKINMAYA İLİŞKİN BAZI KURULLAR HAKKINDA KANUN HÜKMÜNDE KARARNAME
+
+**Kararname No:** 641  
+**Tür:** Kanun Hükmünde Kararname  
+**Kaynak:** Mevzuat Bilgi Sistemi  
+**OpenMevzuat ID:** decree/khk-641  
+
+> This project is not an official source and does not provide legal advice. Verify against official sources.
+
+## Maddeler
+
+- [MADDE 1 — Amaç ve kapsam](articles/madde-001.md)
+- [MADDE 2 — Görevler](articles/madde-002.md)
+- [MADDE 3](articles/madde-003.md)
+- [MADDE 4 — Bakan](articles/madde-004.md)
+- [MADDE 5 — Müsteşar ve Müsteşar Yardımcıları](articles/madde-005.md)
+- [MADDE 6](articles/madde-006.md)
+- [MADDE 7 — Yıllık Programlar ve Konjonktür Değerlendirme Genel Müdürlüğü](articles/madde-007.md)
+- [MADDE 8 — Ekonomik Modeller ve Stratejik Araştırmalar Genel Müdürlüğü](articles/madde-008.md)
+- [MADDE 9 — İktisadi Sektörler ve Koordinasyon Genel Müdürlüğü](articles/madde-009.md)
+- [MADDE 10 — Sosyal Sektörler ve Koordinasyon Genel Müdürlüğü](articles/madde-010.md)
+- [MADDE 11 — Bölgesel Gelişme ve Yapısal Uyum Genel Müdürlüğü](articles/madde-011.md)
+- [MADDE 12 — Dış Ekonomik İlişkiler Genel Müdürlüğü](articles/madde-012.md)
+- [MADDE 13 — Yatırım Programlama, İzleme ve Değerlendirme Genel Müdürlüğü](articles/madde-013.md)
+- [MADDE 14 — Yönetim Hizmetleri Genel Müdürlüğü](articles/madde-014.md)
+- [MADDE 15 — Hukuk Müşavirliği](articles/madde-015.md)
+- [MADDE 16 — Strateji Geliştirme Dairesi Başkanlığı](articles/madde-016.md)
+- [MADDE 17 — Kurullar Sekreteryası Dairesi Başkanlığı](articles/madde-017.md)
+- [MADDE 18 — Basın ve Halkla İlişkiler Müşavirliği](articles/madde-018.md)
+- [MADDE 19 — Özel Kalem Müdürlüğü](articles/madde-019.md)
+- [MADDE 20 — Bakanlık Müşavirleri](articles/madde-020.md)
+- [MADDE 21](articles/madde-021.md)
+- [MADDE 22 — Yüksek Planlama Kurulu](articles/madde-022.md)
+- [MADDE 23 — Para-Kredi ve Koordinasyon Kurulu](articles/madde-023.md)
+- [MADDE 23/A — Bölgesel Gelişme Yüksek Kurulu ve Bölgesel Gelişme Komitesi](articles/madde-023-a.md)
+- [MADDE 24 — Kalkınma Araştırmaları Merkezi](articles/madde-024.md)
+- [MADDE 25](articles/madde-025.md)
+- [MADDE 26](articles/madde-026.md)
+- [MADDE 27 — Bilgi toplama](articles/madde-027.md)
+- [MADDE 28 — Koordinasyon](articles/madde-028.md)
+- [MADDE 29 — İktisadi, sosyal ve kültürel hedefler ile politikaların tespiti](articles/madde-029.md)
+- [MADDE 30 — Kalkınma planının hazırlanması ve kabulü](articles/madde-030.md)
+- [MADDE 31 — Orta Vadeli Programların hazırlanması ve kabulü](articles/madde-031.md)
+- [MADDE 32 — Yıllık Programların hazırlanması ve kabulü](articles/madde-032.md)
+- [MADDE 33 — Sözleşme ile araştırma, etüt ve proje yaptırma](articles/madde-033.md)
+- [MADDE 34](articles/madde-034.md)
+- [MADDE 35 — Yetki devri](articles/madde-035.md)
+- [MADDE 36 — Düzenleme yetkisi](articles/madde-036.md)
+- [MADDE 37](articles/madde-037.md)
+- [MADDE 38 — Planlama Uzmanlığı](articles/madde-038.md)
+- [MADDE 39 — Görevlendirme](articles/madde-039.md)
+- [MADDE 40 — Yurtdışına gönderilecek personel](articles/madde-040.md)
+- [MADDE 41 — Atama](articles/madde-041.md)
+- [MADDE 42 — Kadrolar](articles/madde-042.md)
+- [MADDE 43](articles/madde-043.md)
+- [GEÇİCİ MADDE 1 — Düzenleyici işlemler](articles/gecici-madde-001.md)
+- [GEÇİCİ MADDE 2 — Hak ve yetkiler](articles/gecici-madde-002.md)
+- [GEÇİCİ MADDE 3 — Personelin devri](articles/gecici-madde-003.md)
+- [GEÇİCİ MADDE 4 — Mevcut işlerin yürütülmesi](articles/gecici-madde-004.md)
+- [GEÇİCİ MADDE 5 — Yurtdışı teşkilatının düzenlenmesi](articles/gecici-madde-005.md)
+- [GEÇİCİ MADDE 6 — Kadro değişiklikleri](articles/gecici-madde-006.md)
+- [MADDE 44 — Yürürlük](articles/madde-044.md)
+- [MADDE 45 — Yürütme](articles/madde-045.md)

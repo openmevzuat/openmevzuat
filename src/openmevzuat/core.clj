@@ -65,6 +65,9 @@
 (defn catalog-law-documents []
   (or (catalog/law-documents) []))
 
+(defn catalog-decree-documents []
+  (or (catalog/decree-documents) []))
+
 (defn law-document? [document]
   (= :law (:document/type document)))
 
@@ -114,9 +117,24 @@
                                     catalog-documents)]
       (merged-documents catalog-documents configured-laws))))
 
+(defn all-decree-catalog-documents
+  "Synced decree catalog with configured decrees layered over it.
+
+  Unlike the law catalog this one may legitimately be absent: decrees were
+  configured by hand before the catalog existed, so a repository that has never
+  run a decree sync still has to work."
+  []
+  (let [configured-decrees (filter decree-document? (configured-documents))
+        configured-source-urls (source-url-set configured-decrees)
+        catalog-documents (remove #(contains? configured-source-urls (:source/url %))
+                                  (catalog-decree-documents))]
+    (merged-documents catalog-documents configured-decrees)))
+
 (defn all-catalog-documents []
-  (merged-documents (remove law-document? (configured-documents))
-                    (all-law-catalog-documents)))
+  (merged-documents (remove #(or (law-document? %) (decree-document? %))
+                            (configured-documents))
+                    (all-law-catalog-documents)
+                    (all-decree-catalog-documents)))
 
 (defn document-on-disk? [document]
   (fs/exists? (fs/path (store/metadata-path document))))
@@ -129,13 +147,19 @@
   it and would never be fetched. Comparing the synced catalog against local
   metadata closes that gap.
 
-  The comparison runs over `all-law-catalog-documents` rather than the raw
-  catalog on purpose: a configured law overrides its catalog row there, and the
-  two can carry different titles for the same kanun. Slugs derive from the
-  title, so comparing against raw catalog rows reports laws like 193 and 926 as
-  missing when they are already stored under their configured slug."
+  The comparison runs over the merged catalog-and-configured sets rather than
+  the raw catalogs on purpose: a configured document overrides its catalog row
+  there, and the two can carry different titles for the same document. Slugs
+  derive from the title, so comparing against raw catalog rows reports laws
+  like 193 and 926 as missing when they are already stored under their
+  configured slug.
+
+  Decrees are included: Kanun Hukmunde Kararnameler and Cumhurbaskanligi
+  Kararnameleri are published on their own lists and are never named by a
+  Kanunlar catalog row, so nothing else would ever notice a new one."
   ([]
-   (missing-catalog-documents (all-law-catalog-documents)))
+   (missing-catalog-documents (merged-documents (all-law-catalog-documents)
+                                                (all-decree-catalog-documents))))
   ([documents]
    (vec (remove document-on-disk? documents))))
 
@@ -153,7 +177,7 @@
 
 (defn print-new-catalog-documents! [documents]
   (when (seq documents)
-    (println "New catalog kanuns not yet stored locally:" (count documents))
+    (println "New catalog documents not yet stored locally:" (count documents))
     (doseq [document documents]
       (println " -" (:document/id document) (or (:document/title document) "")))))
 
@@ -164,7 +188,7 @@
   the Kanunlar catalog as law/2709, and adding it back would make every
   reference to 2709 ambiguous."
   []
-  (merged-documents (filter decree-document? (configured-documents))
+  (merged-documents (all-decree-catalog-documents)
                     (all-law-catalog-documents)))
 
 (defn selector->document-id [selector]
@@ -178,6 +202,7 @@
 (defn selected-documents [selectors]
   (let [ids (mapv selector->document-id selectors)
         by-id (document-map (merged-documents (catalog-law-documents)
+                                             (catalog-decree-documents)
                                              (configured-documents)))
         missing (remove #(contains? by-id %) ids)]
     (when (seq missing)
@@ -733,6 +758,18 @@
   (update-documents! (configured-documents)
                      {:label "OpenMevzuat update-configured"}))
 
+(defn sync-catalogs! []
+  (let [law-result (catalog/sync-laws!)
+        decree-result (catalog/sync-decrees!)]
+    {:laws law-result
+     :decrees decree-result}))
+
+(defn update-decrees! []
+  (update-documents! (all-decree-catalog-documents)
+                     {:label "OpenMevzuat update-decrees"
+                      :merge-search? true
+                      :manifest-scope :selected}))
+
 (defn update-laws! [selectors]
   (update-documents! (selected-documents selectors)
                      {:label "OpenMevzuat update-laws"
@@ -1064,7 +1101,7 @@
   (let [date (snapshot-date)
         {:keys [from to]} (rg/date-range-ending (LocalDate/parse date)
                                                 (update-window-days))
-        catalog-result (catalog/sync-laws!)
+        catalog-result (sync-catalogs!)
         changes (recent-unprocessed-changes! from to)
         {:keys [documents unresolved]} (resolve-affected-laws (:affected-laws changes))
         new-catalog-documents (missing-catalog-documents)
@@ -1073,13 +1110,14 @@
     (println "OpenMevzuat update")
     (println "Mode: resmigazete-incremental")
     (println "Window:" (str from) "to" (str to))
-    (println "Catalog documents:" (:documents catalog-result))
+    (println "Catalog kanuns:" (get-in catalog-result [:laws :documents]))
+    (println "Catalog decrees:" (get-in catalog-result [:decrees :documents]))
     (println "Resmi Gazete amendment laws detected:" (:amendment-laws/detected changes))
     (println "Previously processed amendment laws skipped:" (:amendment-laws/skipped changes))
     (println "New Resmi Gazete amendment laws:" (count (:amendment-laws changes)))
     (println "Affected laws:" (count (:affected-laws changes)))
     (println "Resolved documents:" (count documents))
-    (println "New catalog kanuns:" (count new-catalog-documents))
+    (println "New catalog documents:" (count new-catalog-documents))
     (print-new-catalog-documents! new-catalog-documents)
     (print-unresolved-affected-laws! unresolved)
     (if (seq documents-to-update)
@@ -1108,7 +1146,7 @@
          (update-pr-body changes documents unresolved new-catalog-documents update-result))
         result)
       (do
-        (println "No affected laws or new catalog kanuns to update.")
+        (println "No affected laws or new catalog documents to update.")
         (let [processed-write (advance-processed-amendments! (:amendment-laws changes)
                                                             unresolved
                                                             date
@@ -1150,13 +1188,14 @@
            (throw e)))))))
 
 (defn usage []
-  (println "Usage: clojure -M:openmevzuat <sync-catalog|update|update-configured|update-laws|update-all-laws|build|clean-derived>")
+  (println "Usage: clojure -M:openmevzuat <sync-catalog|update|update-configured|update-laws|update-decrees|update-all-laws|build|clean-derived>")
   (println)
   (println "Commands:")
-  (println "  sync-catalog             Fetch the official active Kanunlar catalog only.")
+  (println "  sync-catalog             Fetch the official Kanunlar, KHK and CBK catalogs only.")
   (println "  update                   Sync catalog, detect recent Resmi Gazete law amendments, update affected laws.")
   (println "  update-configured        Update configured documents from resources/documents.edn.")
   (println "  update-laws 193 2918     Incrementally update selected laws and merge search index rows.")
+  (println "  update-decrees           Fetch and render every KHK and CBK in the synced decree catalog.")
   (println "  update-all-laws          Explicit full rebuild of synced catalog laws plus configured non-laws.")
   (println "  update-all-laws --resume-from 702")
   (println "                           Seed prior documents locally, then continue full rebuild from progress index 702.")
@@ -1167,7 +1206,7 @@
 
 (defn -main [& args]
   (case (first args)
-    "sync-catalog" (catalog/sync-laws!)
+    "sync-catalog" (sync-catalogs!)
     "update" (update-or-skip-unreachable!)
     "update-configured" (update-or-skip-unreachable! configured-update!)
     "build" (update-or-skip-unreachable! configured-update!)
@@ -1176,6 +1215,7 @@
                      #(update-laws! (rest args)))
                     (do (usage)
                         (System/exit 1)))
+    "update-decrees" (update-or-skip-unreachable! update-decrees!)
     "update-all-laws" (update-or-skip-unreachable!
                        #(update-all-laws! (update-all-laws-options (rest args))))
     "clean-derived" (do (store/clean-derived!)

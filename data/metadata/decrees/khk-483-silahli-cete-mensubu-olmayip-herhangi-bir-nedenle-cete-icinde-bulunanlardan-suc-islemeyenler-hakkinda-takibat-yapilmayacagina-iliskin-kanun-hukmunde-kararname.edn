@@ -1,0 +1,49 @@
+{:document/id "decree/khk-483",
+ :document/type :decree,
+ :document/number "483",
+ :document/title
+ "SİLAHLI ÇETE MENSUBU OLMAYIP HERHANGİ BİR NEDENLE ÇETE İÇİNDE BULUNANLARDAN SUÇ İŞLEMEYENLER HAKKINDA TAKİBAT YAPILMAYACAĞINA İLİŞKİN KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-483-silahli-cete-mensubu-olmayip-herhangi-bir-nedenle-cete-icinde-bulunanlardan-suc-islemeyenler-hakkinda-takibat-yapilmayacagina-iliskin-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-483-silahli-cete-mensubu-olmayip-herhangi-bir-nedenle-cete-icinde-bulunanlardan-suc-islemeyenler-hakkinda-takibat-yapilmayacagina-iliskin-kanun-hukmunde-kararname",
+ :document/sha256
+ "ab09403abcd9caf9ac8a9219dda8565fcb97ab5a480ed3fdf030c247c59da5fe",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.483.pdf",
+ :source/fetched-at #inst "2026-08-24T22:26:49.089-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-483/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete Tarihi : 8.6.1993 No: 21601",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "72f36f956536ddee2427725cc97e03723e72af13805239ead24d1a440f5aa7d3"}
+  {:article/id "decree/khk-483/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "16dfc184644850eb410372abaeec261e25a9702e21fbf501b88dd7fa686084a3"}
+  {:article/id "decree/khk-483/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e92f073a802a477d7d16f4a92a101ebdbdb7e4c0999c92d7c6619e1add9d4071"}
+  {:article/id "decree/khk-483/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0fbcc8362b9107bd9b96c2d808fe008402ce35c635e5d21c71d248c7efcd89dd"}]}

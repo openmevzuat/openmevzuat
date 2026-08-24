@@ -1,0 +1,111 @@
+{:document/id "decree/cbk-38",
+ :document/type :decree,
+ :document/number "38",
+ :document/title
+ "KAPADOKYA ALAN BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 38)",
+ :document/slug
+ "cbk-38-kapadokya-alan-baskanligi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-38",
+ :document/path
+ "data/canonical/decrees/cbk-38-kapadokya-alan-baskanligi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-38",
+ :document/sha256
+ "78cc5dcbc63272daa1993443575d2e75bb6ec5dedb32204adfedd916bb397d1c",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.38.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:54.800-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-38/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "4169a75a0d459bcc21361fbfaf47e39ea9573bd104570c935e0d538b8c122877"}
+  {:article/id "decree/cbk-38/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "16e7e28c896624b10f612e3b8b1ef7dd7866a3910c2ca51f7c47f58620c728ee"}
+  {:article/id "decree/cbk-38/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Başkanlık",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "29feef652708c97948082ab1f650049313812d66a1d794de31eb1f7d155415c5"}
+  {:article/id "decree/cbk-38/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Başkanlığın görev ve yetkileri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "9a32be1354e76cf3fcfac5816c6c06146e057ae9ef2b124f2b9ffc67eda624b3"}
+  {:article/id "decree/cbk-38/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title nil,
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "171cefb4b6926c7b3b8e61ad623054b6a30953f6de0145b1ed43af26c24057e7"}
+  {:article/id "decree/cbk-38/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Hizmet birimlerinin görevleri",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "3ba3c3a86161d4fe1cc67548e019e2860e6475b314d302504d2a9a9eb7822c81"}
+  {:article/id "decree/cbk-38/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Başkanlık personeli",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "b0bbe93a379e2f1ca41faa555f74078dd03eece2d8b9d4caa0f843810f8a45a8"}
+  {:article/id "decree/cbk-38/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Çalışma grupları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "370c043c719accd13835a874b5ae70e7a136078453410efbf41998c6ed456c8f"}
+  {:article/id "decree/cbk-38/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Gelirler ve giderler",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "fff42eecf2e7717e574808852220397c636b8053d2b028d325a9ec02bc434e9d"}
+  {:article/id "decree/cbk-38/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Çeşitli hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "dbbe922232ed162f4aafbf2b0a414f7d1aa147d5969cae73c0ca48a78fd822b3"}
+  {:article/id "decree/cbk-38/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "4f820ff66acd60e6374d58b045f0108f29928157ea5aea091327d5916d2c8e0c"}
+  {:article/id "decree/cbk-38/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "bf79a6a37a78748587c44226ca133dfcaf2be539fa67f0e3a988db97d33c00f0"}
+  {:article/id "decree/cbk-38/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürütme",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "e46b428fbad4334a60ea33c1ca7dfc6f292fd0b6d0d807e14a5ab2785d65ded3"}]}

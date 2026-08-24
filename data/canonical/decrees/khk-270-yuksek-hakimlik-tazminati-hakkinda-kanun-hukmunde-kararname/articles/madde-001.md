@@ -1,0 +1,45 @@
+# MADDE 1 — V. Tertip Düsturun Cildi : 26
+
+Aşağıda unvanları yazılı görevlerde bulunanlara hizalarında gösterilen
+gösterge rakamlarının memur aylıklarına uygulanan katsayı ile çarpımı sonucu bulunan
+miktarda Yüksek Hakimlik Tazminatı ödenir. Bu tazminat damga vergisi hariç herhangi bir
+vergiye tabi tutulmaz ve ödemelerde aylıklara ilişkin hükümler uygulanır.
+(Değişik cetvel: 20/3/1997 - KHK - 570/1 md.)12
+
+Sıra No Kadro ve Görev Unvanı Tazminat Göstergeleri
+(…)1 Yargıtay Başkanı, Danıştay Başkanı, Sayış tay Başkanı
+1 17.000
+ve (…)1 Yargıtay Cumhuriyet Başsavcısı, Danıştay Başsavcısı
+(…)1 Yargıtay-Danıştay Birinci Başkan Vekilleri, Yargıtay
+Cumhuriyet Başsavcısı Vekili, Yargıtay-Danıştay-Sayıştay
+2 17.000
+Daire Başkanları, Yargıtay-Danıştay-Sayıştay Üyeleri, Adalet
+Bakanlığı Müsteşarı
+Birinci sınıf Hakim ve Savcılar (Birinci sınıf hakim ve
+savcılardan; Adalet Bakanlığında Bakanlık Yüksek Müşaviri,
+3 Müsteşar Yardımcısı, Teftiş Kurulu Başkanı, Genel Müdür, 7.000
+A.P.K. Kurulu Başkanı ve Müstakil Daire Başkanı görevini
+yapmakta olanlar dahil) ve Sayıştay Savcısı3
+Birinci sınıfa ayrılmış, bu sınıfa ayrıldığı tarihten itibaren
+de meslekte üç yılını doldurmuş Yargıtay ve Danıştay
+4 4.500
+Üyeliklerine seçilme hakkını da kaybetmemiş bulunan
+Hakim ve Savcılar3
+5 Birinci sınıfa ayrılmış diğer Hakim ve Savcılar 2.000
+(İptal: Anayasa Mahkemesinin 18/11/1998 tarihli ve
+6
+E.:1997/70, K.:1998/72 sayılı Kararı ile.)
+(İptal: Anayasa Mahkemesinin 18/11/1998 tarihli ve
+7
+E.:1997/71, K.:1998/73 sayılı Kararı ile.)
+Birinci sınıfa ayrılmış diğer Sayıştay meslek mensupları ve
+8 2.000
+Sayıştay Savcı Yardımcıları
+
+1 30/3/2011 tarihli ve 6216 sayılı Kanunun 75 inci maddesiyle, bu cetvelde yer alan “Anayasa Mahkemesi Başkanı,”,
+“Uyuşmazlık Mahkemesi Başkanı ile” ve “Anayasa Mahkemesi Üyeleri,” ibareleri madde metninden çıkarılmıştır.
+2 30/3/2023 tarihli ve 7447 sayılı Kanunun 16 ncı maddesiyle ekli cetvelin birinci ve ikinci sırasında yer alan
+tazminat göstergeleri (17.000) olarak değiştirilmiş, ikinci sırasında yer alan “Yargıtay-Danıştay-Sayıştay Daire
+Başkanları,” ibaresinden sonra gelmek üzere “Yargıtay-Danıştay-Sayıştay Üyeleri,” ibaresi eklenmiş ve üçüncü
+sırasında yer alan “Yargıtay-Danıştay-Sayıştay Üyeleri,” ibaresi cetvelden çıkarılmıştır.
+3 Bu sıraların uygulanması ile ilgili olarak 22/12/2005 tarihli ve 5435 sayılı Kanunun Geçici 1 inci maddesine bakınız.

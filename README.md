@@ -119,6 +119,7 @@ clojure -M:openmevzuat sync-catalog
 clojure -M:openmevzuat update
 clojure -M:openmevzuat update-configured
 clojure -M:openmevzuat update-laws 193 2918
+clojure -M:openmevzuat update-decrees
 clojure -M:openmevzuat update-all-laws
 clojure -M:openmevzuat update-all-laws --resume-from 702
 clojure -M:openmevzuat build
@@ -127,18 +128,20 @@ clojure -M:openmevzuat clean-derived
 
 `update` is the normal daily flow:
 
-1. refresh the official active Kanunlar catalog in `data/catalog/laws.edn`;
-2. compare the refreshed catalog against local metadata and collect kanuns that are not stored yet;
+1. refresh the official Kanunlar catalog in `data/catalog/laws.edn` and the KHK and CBK catalogs in `data/catalog/decrees.edn`;
+2. compare the refreshed catalogs against local metadata and collect documents that are not stored yet;
 3. query Resmî Gazete for recent Yasama/Kanun rows;
 4. identify amendment laws that have not already been processed;
 5. parse only those new amendment laws' `MADDE` introductions and extract the affected base kanun numbers;
 6. resolve those numbers through the local catalog;
-7. fetch and render the affected consolidated kanun PDFs together with any kanuns found in step 2;
+7. fetch and render the affected consolidated kanun PDFs together with any documents found in step 2;
 8. record successfully processed amendment laws in `data/state/resmigazete-amendments.edn`.
 
-Step 2 exists because the Resmî Gazete path only finds a kanun when a recent amendment law names it as amended. A newly published kanun that amends nothing is invisible to that path, so without a catalog comparison it would never be fetched. The comparison runs over the merged catalog-and-configured document set: a configured law overrides its catalog row, and the two can carry different titles for the same kanun, which would otherwise report already-stored laws as missing.
+Step 2 exists because the Resmî Gazete path only finds a kanun when a recent amendment law names it as amended. A newly published kanun that amends nothing is invisible to that path, so without a catalog comparison it would never be fetched. The same applies with more force to decrees: Kanun Hükmünde Kararnameler and Cumhurbaşkanlığı Kararnameleri are published on their own lists and are never named by a Kanunlar catalog row at all.
 
-Only the amendment-affected kanuns can advance `data/state/resmigazete-amendments.edn`. A kanun added by step 2 writes files of its own, and counting those writes would mark amendment laws as processed whose own kanuns never changed.
+The comparison runs over the merged catalog-and-configured document set: a configured document overrides its catalog row, and the two can carry different titles for the same document, which would otherwise report already-stored documents as missing.
+
+Only the amendment-affected kanuns can advance `data/state/resmigazete-amendments.edn`. A document added by step 2 writes files of its own, and counting those writes would mark amendment laws as processed whose own kanuns never changed.
 
 The default Resmî Gazete lookback window is 30 days. Override it with `OPENMEVZUAT_UPDATE_WINDOW_DAYS`. The window intentionally overlaps previous runs; `data/state/resmigazete-amendments.edn` prevents the updater from re-fetching and re-rendering kanuns for amendment laws already handled in an earlier automated update.
 
@@ -150,11 +153,17 @@ The `Test` GitHub Actions workflow runs `clojure -M:test` on pull requests and m
 
 The daily GitHub Actions workflow uses the generated report when it opens an automated update PR, then queues the PR for GitHub auto-merge. GitHub will merge it once the branch can be merged and any repository protection rules are satisfied. To make bot-created PRs trigger the `Clojure tests` pull request check, configure an `OPENMEVZUAT_BOT_TOKEN` repository secret with contents and pull request write access; otherwise the workflow falls back to `GITHUB_TOKEN`, which may not trigger follow-up workflows.
 
-`sync-catalog` fetches the official active Kanunlar catalog from mevzuat.gov.tr and writes `data/catalog/laws.edn`. It does not fetch or render law PDFs.
+`sync-catalog` fetches the official catalogs from mevzuat.gov.tr and writes `data/catalog/laws.edn` and `data/catalog/decrees.edn`. It does not fetch or render any PDFs.
+
+The decree catalog covers both decree lists the site publishes: Kanun Hükmünde Kararnameler (`MevzuatTur=KHK`) and Cumhurbaşkanlığı Kararnameleri (`MevzuatTur=CumhurbaskaniKararnameleri`). The endpoint answers an unrecognised `MevzuatTur` with a bare `FormValidate` body and a 200 status rather than an error, so these parameter names must match the site's own form values exactly.
+
+KHK and CBK numbers are separate number spaces — there is both a KHK 1 and a CBK 1 — so decree ids carry the subtype: `decree/khk-1` and `decree/cbk-1`.
+
+`update-decrees` fetches and renders every decree in the synced decree catalog, merging search index rows the same way `update-laws` does. It is the decree equivalent of a full backfill; routine decree changes arrive through `update`.
 
 `update-configured` fetches configured official sources from `resources/documents.edn`, normalizes text, parses articles, renders canonical files, writes EDN metadata, and regenerates derived outputs. `build` is an alias for this configured rebuild path.
 
-`update-laws` incrementally fetches and renders only the requested law numbers or document IDs, then merges those rows into the search index and writes a selected-update manifest under `data/manifests/selected/`. For example, `update-laws 2918` updates `law/2918`; tertip collision IDs from the catalog can be addressed as `update-laws t5-3201` or `update-laws law/t5-3201`.
+`update-laws` incrementally fetches and renders only the requested law numbers or document IDs (including decree IDs such as `decree/khk-655`), then merges those rows into the search index and writes a selected-update manifest under `data/manifests/selected/`. For example, `update-laws 2918` updates `law/2918`; tertip collision IDs from the catalog can be addressed as `update-laws t5-3201` or `update-laws law/t5-3201`.
 
 `update-all-laws` is the intentional full catalog rebuild path. It uses the synced catalog laws plus configured non-law documents, processes and writes one document at a time, and logs progress for each document. Reserve it for explicit full corpus refreshes or first-time backfills.
 

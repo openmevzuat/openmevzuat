@@ -1,0 +1,76 @@
+{:document/id "decree/khk-593",
+ :document/type :decree,
+ :document/number "593",
+ :document/title
+ "SAKARYA İLİNDE BÜYÜK ŞEHİR BELEDİYESİ KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-593-sakarya-ilinde-buyuk-sehir-belediyesi-kurulmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-593-sakarya-ilinde-buyuk-sehir-belediyesi-kurulmasi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "777803b1ce0cb2eb3f5bb2fbc41877c506742cd29d131474fd1dc3448b9f0f1e",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.593.pdf",
+ :source/fetched-at #inst "2026-08-24T22:27:14.016-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:26:19.600-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-593/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 39",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "023f121bd2319e7e65e58e48fe64b1a5a14a3ea505f4bdc36fd6ad0849af2bf4"}
+  {:article/id "decree/khk-593/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "4f522059b2b034ab4b6465cf2728afedf9964b4a9d17a60097493f3159c19a0b"}
+  {:article/id "decree/khk-593/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "d5085368b8a28b96530e5e47f7b104adfe52dac8c783402b2fb37b33caf0a8c0"}
+  {:article/id "decree/khk-593/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "a940118e86dd79f9814927fbd16a08c2a6009eb2d2416e98533c7550b1de6853"}
+  {:article/id "decree/khk-593/article/3",
+   :article/type :temporary,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/gecici-madde-003.md",
+   :article/sha256
+   "bca95719a20d5fbc2824ed01877d569d4d23452b1d7c5937eacb79bc040f193f"}
+  {:article/id "decree/khk-593/article/4",
+   :article/type :temporary,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/gecici-madde-004.md",
+   :article/sha256
+   "68935da6ea107c416c26a5747ddf5d96fef69ab51098175b425666c319f9f00b"}
+  {:article/id "decree/khk-593/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e92f073a802a477d7d16f4a92a101ebdbdb7e4c0999c92d7c6619e1add9d4071"}
+  {:article/id "decree/khk-593/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0fbcc8362b9107bd9b96c2d808fe008402ce35c635e5d21c71d248c7efcd89dd"}]}

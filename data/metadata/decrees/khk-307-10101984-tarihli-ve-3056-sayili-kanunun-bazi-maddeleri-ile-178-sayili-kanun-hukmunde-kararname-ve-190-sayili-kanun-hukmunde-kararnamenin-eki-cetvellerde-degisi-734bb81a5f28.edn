@@ -1,0 +1,62 @@
+{:document/id "decree/khk-307",
+ :document/type :decree,
+ :document/number "307",
+ :document/title
+ "10/10/1984 TARİHLİ VE 3056 SAYILI KANUNUN BAZI MADDELERİ İLE 178 SAYILI KANUN HÜKMÜNDE KARARNAME VE 190 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-307-10101984-tarihli-ve-3056-sayili-kanunun-bazi-maddeleri-ile-178-sayili-kanun-hukmunde-kararname-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisi-734bb81a5f28",
+ :document/path
+ "data/canonical/decrees/khk-307-10101984-tarihli-ve-3056-sayili-kanunun-bazi-maddeleri-ile-178-sayili-kanun-hukmunde-kararname-ve-190-sayili-kanun-hukmunde-kararnamenin-eki-cetvellerde-degisi-734bb81a5f28",
+ :document/sha256
+ "e65fcce7bcdea52f082aa902860fd443bdc0725ea57b003caea874432d33c766",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.307.pdf",
+ :source/fetched-at #inst "2026-08-24T22:10:12.074-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-307/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "813d5765c1afaa59068c26d400b4c2b63e3e4c91e119ede11ca3bd8f83f81b5e"}
+  {:article/id "decree/khk-307/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8a934dc2793a5c3810829b697139e5d151099cfac27473d7f9d88897ea5b16ae"}
+  {:article/id "decree/khk-307/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "4c1bb91b2b1e1256531ecded035c61b72303d4f810664d774a401425411f49a5"}
+  {:article/id "decree/khk-307/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title nil,
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "85ed6af38ab0007a118a04ce70abdb453f42f4ec635a67bfa3bd8c8798144392"}
+  {:article/id "decree/khk-307/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title nil,
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "de718f47e8a1029356865fc3641f82309fae76e2d48986e774e85d4ca0224080"}
+  {:article/id "decree/khk-307/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title nil,
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "6443516476bd6ba5befb810b072e7ebb96e1a8e346e96e11e962734ec9553d89"}]}

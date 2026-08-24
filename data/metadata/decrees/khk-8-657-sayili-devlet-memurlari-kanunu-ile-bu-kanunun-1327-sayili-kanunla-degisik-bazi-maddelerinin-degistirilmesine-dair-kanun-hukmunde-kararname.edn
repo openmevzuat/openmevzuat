@@ -1,0 +1,48 @@
+{:document/id "decree/khk-8",
+ :document/type :decree,
+ :document/number "8",
+ :document/title
+ "657 SAYILI DEVLET MEMURLARI KANUNU İLE BU KANUNUN 1327 SAYILI KANUNLA DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-8-657-sayili-devlet-memurlari-kanunu-ile-bu-kanunun-1327-sayili-kanunla-degisik-bazi-maddelerinin-degistirilmesine-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-8-657-sayili-devlet-memurlari-kanunu-ile-bu-kanunun-1327-sayili-kanunla-degisik-bazi-maddelerinin-degistirilmesine-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "bb2cb2a2628fb603a7fcfe0f0d82db8a3d043f1c063144252da7d9990aad87a2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.8.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:29.436-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-8/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 12 Sh: 3070",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "1bf4c2329a64dcc8a755323a1b56d1729f85881b21e19c23c2294a9ce61ff32f"}
+  {:article/id "decree/khk-8/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "76b60fb0cd3f4b4f1084df2dd6ac1ccb8c88980dfdc542b4fbb5439b70c0aa17"}
+  {:article/id "decree/khk-8/article/24",
+   :article/type :normal,
+   :article/no "24",
+   :article/title nil,
+   :article/path "articles/madde-024.md",
+   :article/sha256
+   "ca06b1800711b07a03c45ce2fb78607331a433eee02b3b32ba0cea4a96188890"}
+  {:article/id "decree/khk-8/article/25",
+   :article/type :normal,
+   :article/no "25",
+   :article/title nil,
+   :article/path "articles/madde-025.md",
+   :article/sha256
+   "381b248eec5213304cfd4b85c09124349aaed746e1672cb9859374eb3f621827"}]}

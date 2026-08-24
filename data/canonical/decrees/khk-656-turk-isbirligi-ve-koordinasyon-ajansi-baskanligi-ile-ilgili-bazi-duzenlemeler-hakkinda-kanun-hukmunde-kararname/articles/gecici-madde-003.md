@@ -1,0 +1,3 @@
+# GEÇİCİ MADDE 3 — Personelin devri
+
+(Mülga: 2/7/2018 – KHK-703/94 md.)

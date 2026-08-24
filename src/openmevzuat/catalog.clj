@@ -16,7 +16,27 @@
 (def law-catalog-url "https://www.mevzuat.gov.tr/#kanunlar")
 (def law-datatable-url "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable")
 (def law-catalog-path "data/catalog/laws.edn")
+(def decree-catalog-path "data/catalog/decrees.edn")
 (def default-page-size 100)
+
+(def law-mevzuat-tur
+  "MevzuatTur parameter for the active Kanunlar list."
+  "Kanun")
+
+(def decree-catalog-specs
+  "The two decree lists mevzuat.gov.tr publishes, in document-id order.
+
+  `:mevzuat/tur-parameter` is the MevzuatTur value the datatable endpoint
+  expects. The endpoint rejects an unknown value with a bare `FormValidate`
+  body rather than an error status, so these strings must match the site's own
+  form values exactly: Cumhurbaşkanlığı Kararnameleri are requested as
+  `CumhurbaskaniKararnameleri`, not the more obvious spelling."
+  [{:decree/subtype :khk
+    :mevzuat/tur-parameter "KHK"
+    :catalog/source-url "https://www.mevzuat.gov.tr/#kanunHukmundeKararnameler"}
+   {:decree/subtype :cbk
+    :mevzuat/tur-parameter "CumhurbaskaniKararnameleri"
+    :catalog/source-url "https://www.mevzuat.gov.tr/#cumhurbaskanligiKararnameleri"}])
 
 (defn- edn-str [value]
   (binding [*print-namespace-maps* false]
@@ -53,7 +73,7 @@
             :search {:value ""
                      :regex false}})))
 
-(defn- datatable-payload [draw start length]
+(defn- datatable-payload [draw start length mevzuat-tur]
   {:draw draw
    :columns (datatable-columns)
    :order []
@@ -61,7 +81,7 @@
    :length length
    :search {:value ""
             :regex false}
-   :parameters {:MevzuatTur "Kanun"
+   :parameters {:MevzuatTur mevzuat-tur
                 :YonetmelikMevzuatTur "OsmanliKanunu"
                 :AranacakIfade ""
                 :AranacakYer "2"
@@ -74,33 +94,47 @@
     (String. ^bytes body StandardCharsets/UTF_8)
     (str body)))
 
-(defn fetch-law-page! [start length draw]
-  (let [payload (datatable-payload draw start length)
+(defn fetch-catalog-page! [mevzuat-tur start length draw]
+  (let [payload (datatable-payload draw start length mevzuat-tur)
         response (fetch/request-with-retries!
                   law-datatable-url
                   #(http/post law-datatable-url (request-options payload %))
-                  {:message "Failed to fetch law catalog page"
-                   :context {:start start
+                  {:message "Failed to fetch catalog page"
+                   :context {:mevzuat-tur mevzuat-tur
+                             :start start
                              :length length
                              :draw draw}})
         status (:status response)
         text (bytes->text (:body response))]
     (when-not (<= 200 status 299)
-      (throw (ex-info "Failed to fetch law catalog page"
+      (throw (ex-info "Failed to fetch catalog page"
                       {:url law-datatable-url
+                       :mevzuat-tur mevzuat-tur
                        :status status
                        :start start
                        :length length
                        :body-preview (subs text 0 (min 300 (count text)))})))
-    (json/parse-string text true)))
+    (try
+      (json/parse-string text true)
+      (catch Exception _
+        ;; An unknown MevzuatTur is answered with a bare `FormValidate` body and
+        ;; a 200 status, so a parse failure here means the parameter was
+        ;; rejected rather than that the response was malformed.
+        (throw (ex-info "Catalog endpoint rejected the MevzuatTur parameter"
+                        {:url law-datatable-url
+                         :mevzuat-tur mevzuat-tur
+                         :body-preview (subs text 0 (min 300 (count text)))}))))))
 
-(defn fetch-law-rows! []
+(defn fetch-law-page! [start length draw]
+  (fetch-catalog-page! law-mevzuat-tur start length draw))
+
+(defn fetch-catalog-rows! [mevzuat-tur]
   (let [length (page-size)]
     (loop [draw 1
            start 0
            rows []
            total nil]
-      (let [page (fetch-law-page! start length draw)
+      (let [page (fetch-catalog-page! mevzuat-tur start length draw)
             page-rows (vec (:data page))
             total (or total (:recordsFiltered page) (:recordsTotal page) 0)
             rows (into rows page-rows)
@@ -111,6 +145,9 @@
            :records-filtered (:recordsFiltered page)
            :rows rows}
           (recur (inc draw) next-start rows total))))))
+
+(defn fetch-law-rows! []
+  (fetch-catalog-rows! law-mevzuat-tur))
 
 (defn absolute-url [url]
   (when (not-empty (str url))
@@ -157,6 +194,32 @@
      :resmi-gazete/date (:resmiGazeteTarihi row)
      :resmi-gazete/issue (:resmiGazeteSayisi row)
      :law/adoption-date (:kabulTarih row)))))
+
+(defn decree-catalog-document-id [row subtype duplicate-numbers]
+  (let [number (str (:mevzuatNo row))
+        prefix (str "decree/" (name subtype) "-")]
+    (if (contains? duplicate-numbers number)
+      (str prefix "t" (:mevzuatTertip row) "-" number)
+      (str prefix number))))
+
+(defn decree-row->document
+  ([row subtype]
+   (decree-row->document row subtype #{}))
+  ([row subtype duplicate-numbers]
+   (array-map
+    :document/id (decree-catalog-document-id row subtype duplicate-numbers)
+    :document/type :decree
+    :decree/subtype subtype
+    :document/number (str (:mevzuatNo row))
+    :document/title (:mevAdi row)
+    :source/id :mevzuat-gov-tr
+    :source/url (source-pdf-url row)
+    :source/catalog-url (absolute-url (:url row))
+    :mevzuat/tur (:mevzuatTur row)
+    :mevzuat/tertip (str (:mevzuatTertip row))
+    :resmi-gazete/date (:resmiGazeteTarihi row)
+    :resmi-gazete/issue (:resmiGazeteSayisi row)
+    :law/adoption-date (:kabulTarih row))))
 
 (defn- numeric-document-number [document]
   (parse-long-value (:document/number document) Long/MAX_VALUE))
@@ -230,3 +293,61 @@
            :records-total records-total
            :records-filtered records-filtered
            :catalog catalog)))
+
+(defn decree-catalog-documents [rows-by-subtype]
+  (->> decree-catalog-specs
+       (mapcat (fn [{:keys [decree/subtype]}]
+                 (let [rows (get rows-by-subtype subtype [])
+                       duplicate-numbers (duplicate-law-numbers rows)]
+                   (map #(decree-row->document % subtype duplicate-numbers) rows))))
+       distinct-documents
+       (sort-by (juxt #(name (:decree/subtype %))
+                      numeric-document-number
+                      :document/id))
+       vec))
+
+(defn decree-catalog-map [rows-by-subtype fetched-at]
+  (let [documents (decree-catalog-documents rows-by-subtype)
+        subtype-counts (into (array-map)
+                             (for [{:keys [decree/subtype]} decree-catalog-specs]
+                               [subtype (count (get rows-by-subtype subtype []))]))]
+    (array-map
+     :catalog/id :mevzuat-gov-tr/decrees
+     :catalog/type :decree
+     :catalog/source-urls (mapv :catalog/source-url decree-catalog-specs)
+     :catalog/api-url law-datatable-url
+     :catalog/fetched-at fetched-at
+     :catalog/records-total (reduce + 0 (vals subtype-counts))
+     :catalog/documents-total (count documents)
+     :catalog/subtype-totals subtype-counts
+     :documents documents)))
+
+(defn write-decree-catalog! [catalog]
+  (let [path (fs/path decree-catalog-path)
+        existing (read-catalog decree-catalog-path)
+        catalog (if (and existing (stable-catalog-content? existing catalog))
+                  (assoc catalog :catalog/fetched-at (:catalog/fetched-at existing))
+                  catalog)]
+    (fs/create-dirs (fs/parent path))
+    (spit (io/file (str path)) (edn-str catalog))
+    {:path (str path)
+     :documents (count (:documents catalog))}))
+
+(defn decree-documents
+  ([] (decree-documents decree-catalog-path))
+  ([path]
+   (:documents (read-catalog path))))
+
+(defn sync-decrees! []
+  (let [rows-by-subtype (into (array-map)
+                              (for [{:keys [decree/subtype mevzuat/tur-parameter]} decree-catalog-specs]
+                                [subtype (:rows (fetch-catalog-rows! tur-parameter))]))
+        catalog (decree-catalog-map rows-by-subtype (fetch/now-date))
+        write (write-decree-catalog! catalog)]
+    (println "OpenMevzuat decree catalog sync")
+    (doseq [{:keys [decree/subtype]} decree-catalog-specs]
+      (println (str "  " (str/upper-case (name subtype)) ":")
+               (count (get rows-by-subtype subtype []))))
+    (println "Documents:" (:documents write))
+    (println "Catalog:" (:path write))
+    (assoc write :catalog catalog)))

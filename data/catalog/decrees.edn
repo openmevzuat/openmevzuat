@@ -1,0 +1,1450 @@
+{:catalog/id :mevzuat-gov-tr/decrees,
+ :catalog/type :decree,
+ :catalog/source-urls
+ ["https://www.mevzuat.gov.tr/#kanunHukmundeKararnameler"
+  "https://www.mevzuat.gov.tr/#cumhurbaskanligiKararnameleri"],
+ :catalog/api-url
+ "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable",
+ :catalog/fetched-at #inst "2026-08-24T22:07:27.345-00:00",
+ :catalog/records-total 96,
+ :catalog/documents-total 96,
+ :catalog/subtype-totals {:khk 63, :cbk 33},
+ :documents
+ [{:document/id "decree/cbk-1",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "1",
+   :document/title
+   "CUMHURBAŞKANLIĞI TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 1)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.1.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=1&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "10.07.2018",
+   :resmi-gazete/issue "30474",
+   :law/adoption-date "10.07.2018"}
+  {:document/id "decree/cbk-2",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "2",
+   :document/title
+   "GENEL KADRO VE USULÜ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 2)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.2.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "10.07.2018",
+   :resmi-gazete/issue "30474",
+   :law/adoption-date "10.07.2018"}
+  {:document/id "decree/cbk-3",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "3",
+   :document/title
+   "ÜST KADEME KAMU YÖNETİCİLERİNİN ATANMALARINA İLİŞKİN USÛL VE ESASLAR İLE KAMU KURUM VE KURULUŞLARINDA ATAMA USÛLLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.3.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=3&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "10.07.2018",
+   :resmi-gazete/issue "30474",
+   :law/adoption-date "10.07.2018"}
+  {:document/id "decree/cbk-4",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "4",
+   :document/title
+   "BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 4)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.4.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=4&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-5",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "5",
+   :document/title
+   "DEVLET DENETLEME KURULU HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 5)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.5.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=5&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-6",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "6",
+   :document/title
+   "MİLLÎ GÜVENLİK KURULU GENEL SEKRETERLİĞİNİN TEŞKİLAT VE GÖREVLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 6)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.6.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=6&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-7",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "7",
+   :document/title
+   "SAVUNMA SANAYİİ BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 7)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.7.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-8",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "8",
+   :document/title
+   "YÜKSEK ASKERİ ŞÛRANIN KURULUŞ VE GÖREVLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 8)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.8.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-9",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "9",
+   :document/title
+   "MİLLETLERARASI ANDLAŞMALARIN ONAYLANMASINA İLİŞKİN USUL VE ESASLAR HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 9)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.9.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-10",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "10",
+   :document/title
+   "RESMÎ GAZETE HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 10)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.10.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=10&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.07.2018",
+   :resmi-gazete/issue "30479",
+   :law/adoption-date "15.07.2018"}
+  {:document/id "decree/cbk-11",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "11",
+   :document/title
+   "DEVLET ARŞİVLERİ BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 11)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.11.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=11&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "16.07.2018",
+   :resmi-gazete/issue "30480",
+   :law/adoption-date "16.07.2018"}
+  {:document/id "decree/cbk-12",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "12",
+   :document/title
+   "MİLLİ SARAYLAR İDARESİ BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 12)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.12.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=12&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "16.07.2018",
+   :resmi-gazete/issue "30480",
+   :law/adoption-date "16.07.2018"}
+  {:document/id "decree/cbk-13",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "13",
+   :document/title
+   "STRATEJİ VE BÜTÇE BAŞKANLIĞI TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 13)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.13.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=13&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "24.07.2018",
+   :resmi-gazete/issue "30388",
+   :law/adoption-date "23.07.2018"}
+  {:document/id "decree/cbk-14",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "14",
+   :document/title
+   "İLETİŞİM BAŞKANLIĞI TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 14)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.14.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=14&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "24.07.2018",
+   :resmi-gazete/issue "30488",
+   :law/adoption-date "23.07.2018"}
+  {:document/id "decree/cbk-23",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "23",
+   :document/title
+   "TÜRKİYE UZAY AJANSI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 23)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.23.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=23&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "13.12.2018",
+   :resmi-gazete/issue "30624",
+   :law/adoption-date "12.12.2018"}
+  {:document/id "decree/cbk-25",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "25",
+   :document/title
+   "SÖZLEŞMELİ VE İŞ MEVZUATINA TABİ PERSONELE İLİŞKİN BAZI DÜZENLEMELER İLE BAKANLIKLARA BAĞLI, İLGİLİ, İLİŞKİLİ KURUM VE KURULUŞLAR İLE DİĞER KURUM VE KURULUŞLARIN TEŞKİLATI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİNDE DEĞİŞİKLİK YAPILMASINA DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 25)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.25.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=25&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "28.12.2018",
+   :resmi-gazete/issue "30639",
+   :law/adoption-date "27.12.2018"}
+  {:document/id "decree/cbk-38",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "38",
+   :document/title
+   "KAPADOKYA ALAN BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 38)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.38.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=38&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "01.06.2019",
+   :resmi-gazete/issue "30791",
+   :law/adoption-date "31.05.2019"}
+  {:document/id "decree/cbk-47",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "47",
+   :document/title
+   "SİGORTACILIK VE ÖZEL EMEKLİLİK DÜZENLEME VE DENETLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 47)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.47.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=47&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "18.10.2019",
+   :resmi-gazete/issue "30922",
+   :law/adoption-date "17.10.2019"}
+  {:document/id "decree/cbk-49",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "49",
+   :document/title
+   "COĞRAFİ BİLGİ SİSTEMLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 49)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.49.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=49&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "07.11.2019",
+   :resmi-gazete/issue "30941",
+   :law/adoption-date "06.11.2019"}
+  {:document/id "decree/cbk-62",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "62",
+   :document/title
+   "TÜRKİYE CUMHURİYET MERKEZ BANKASI MECLİSİ ÜYELİĞİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 62)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.62.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=62&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "17.05.2020",
+   :resmi-gazete/issue "31130",
+   :law/adoption-date "16.05.2020"}
+  {:document/id "decree/cbk-63",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "63",
+   :document/title
+   "SUÇ MAĞDURLARININ DESTEKLENMESİNE DAİR CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 63)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.63.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=63&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "10.06.2020",
+   :resmi-gazete/issue "31151",
+   :law/adoption-date "09.06.2020"}
+  {:document/id "decree/cbk-68",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "68",
+   :document/title
+   "SANAYİLEŞME İCRA KOMİTESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 68)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.68.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=68&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "14.10.2020",
+   :resmi-gazete/issue "31274",
+   :law/adoption-date "13.10.2020"}
+  {:document/id "decree/cbk-77",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "77",
+   :document/title
+   "EKONOMİ KOORDİNASYON KURULU HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 77)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.77.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=77&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "30.06.2021",
+   :resmi-gazete/issue "31527",
+   :law/adoption-date "29.06.2021"}
+  {:document/id "decree/cbk-93",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "93",
+   :document/title
+   "SULAMA BİRLİKLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 93)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.93.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=93&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "19.02.2022",
+   :resmi-gazete/issue "31755",
+   :law/adoption-date "18.02.2022"}
+  {:document/id "decree/cbk-95",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "95",
+   :document/title
+   "NÜKLEER DÜZENLEME KURUMUNUN TEŞKİLAT VE GÖREVLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 95)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.95.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=95&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.03.2022",
+   :resmi-gazete/issue "31772",
+   :law/adoption-date "07.03.2022"}
+  {:document/id "decree/cbk-102",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "102",
+   :document/title
+   "DEVLET YARDIMLARININ UYGULANMASI, KOORDİNASYONU, İZLENMESİ VE DEĞERLENDİRİLMESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 102)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.102.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=102&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.06.2022",
+   :resmi-gazete/issue "31861",
+   :law/adoption-date "08.06.2022"}
+  {:document/id "decree/cbk-117",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "117",
+   :document/title
+   "ULUDAĞ ALAN BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 117)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.117.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=117&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "26.01.2023",
+   :resmi-gazete/issue "32085",
+   :law/adoption-date "25.01.2023"}
+  {:document/id "decree/cbk-123",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "123",
+   :document/title
+   "BAZI KAMU KURUM VE KURULUŞLARINA KADRO İHDAS EDİLMESİ VE İHDAS EDİLEN KADROLARA EMSAL BELİRLENMESİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 123)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.123.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=123&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "15.02.2023",
+   :resmi-gazete/issue "32105",
+   :law/adoption-date "14.02.2023"}
+  {:document/id "decree/cbk-144",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "144",
+   :document/title
+   "DOĞAL GAZ TÜKETİMİNE İLİŞKİN SİSTEM KULLANIM BEDELLERİ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 144)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.144.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=144&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "01.05.2023",
+   :resmi-gazete/issue "32177",
+   :law/adoption-date "30.04.2023"}
+  {:document/id "decree/cbk-148",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "148",
+   :document/title
+   "TÜRKİYE OKUL SPORLARI FEDERASYONUNUN KAPATILMASI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 148)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.148.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=148&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.06.2023",
+   :resmi-gazete/issue "32216",
+   :law/adoption-date "08.06.2023"}
+  {:document/id "decree/cbk-171",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "171",
+   :document/title
+   "AİLE ENSTİTÜSÜ HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 171)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.171.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=171&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "25.12.2024",
+   :resmi-gazete/issue "32763",
+   :law/adoption-date "24.12.2024"}
+  {:document/id "decree/cbk-172",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "172",
+   :document/title
+   "NÜFUS POLİTİKALARI KURULU HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 172)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.172.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=172&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "25.12.2024",
+   :resmi-gazete/issue "32763",
+   :law/adoption-date "24.12.2024"}
+  {:document/id "decree/cbk-177",
+   :document/type :decree,
+   :decree/subtype :cbk,
+   :document/number "177",
+   :document/title
+   "SİBER GÜVENLİK BAŞKANLIĞI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 177)",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.177.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=177&MevzuatTur=19&MevzuatTertip=5",
+   :mevzuat/tur 19,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.01.2025",
+   :resmi-gazete/issue "32776",
+   :law/adoption-date "07.01.2025"}
+  {:document/id "decree/khk-2",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "2",
+   :document/title
+   "657 SAYILI DEVLET MEMURLARI KANUNU İLE BU KANUNUN 1327 SAYILI KANUNLA DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE VE BAZI MADDELERİNİN KALDIRILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.2.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=2&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "30.12.1972",
+   :resmi-gazete/issue "14407",
+   :law/adoption-date "23.12.1972"}
+  {:document/id "decree/khk-8",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "8",
+   :document/title
+   "657 SAYILI DEVLET MEMURLARI KANUNU İLE BU KANUNUN 1327 SAYILI KANUNLA DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.8.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=8&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "18.10.1973",
+   :resmi-gazete/issue "14689",
+   :law/adoption-date "08.10.1973"}
+  {:document/id "decree/khk-9",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "9",
+   :document/title
+   "657 SAYILI DEVLET MEMURLARI KANUNUNUN 1327 SAYILI KANUNLA VE 6,7,8 SAYILI KANUN HÜKMÜNDE KARARNAMELERLE DEĞİŞİK BAZI MADDELERİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.9.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=9&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "19.01.1974",
+   :resmi-gazete/issue "14773",
+   :law/adoption-date "15.01.1974"}
+  {:document/id "decree/khk-124",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "124",
+   :document/title
+   "YÜKSEK ÖĞRETİM ÜST KURULUŞLARI İLE YÜKSEK ÖĞRETİM KURUMLARININ İDARİ TEŞKİLATI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.124.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=124&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "21.11.1983",
+   :resmi-gazete/issue "18228",
+   :law/adoption-date "07.10.1983"}
+  {:document/id "decree/khk-198",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "198",
+   :document/title
+   "EMNİYET GENEL MÜDÜRLÜĞÜ İÇİN KADRO İHDASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.198.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=198&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.05.1984",
+   :resmi-gazete/issue "18395",
+   :law/adoption-date "02.05.1984"}
+  {:document/id "decree/khk-233",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "233",
+   :document/title
+   "KAMU İKTİSADİ TEŞEBBÜSLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.233.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=233&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "18.06.1984",
+   :resmi-gazete/issue "18435 (Mükerrer)",
+   :law/adoption-date "08.06.1984"}
+  {:document/id "decree/khk-234",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "234",
+   :document/title
+   "DARPHANE VE DAMGA MATBAASI GENEL MÜDÜRLÜĞÜNE DAİR BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.234.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=234&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "18.06.1984",
+   :resmi-gazete/issue "18435 (Mükerrer)",
+   :law/adoption-date "08.06.1984"}
+  {:document/id "decree/khk-241",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "241",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.241.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=241&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "29.06.1984",
+   :resmi-gazete/issue "18446",
+   :law/adoption-date "26.06.1984"}
+  {:document/id "decree/khk-243",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "243",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.243.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=243&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "12.12.1984",
+   :resmi-gazete/issue "18603",
+   :law/adoption-date "29.11.1984"}
+  {:document/id "decree/khk-258",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "258",
+   :document/title
+   "MALİYE VE GÜMRÜK BAKANLIĞI PERSONELİNE ÖDENECEK EK ÜCRETE DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.258.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=258&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "25.08.1986",
+   :resmi-gazete/issue "19202",
+   :law/adoption-date "08.08.1986"}
+  {:document/id "decree/khk-269",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "269",
+   :document/title
+   "241 SAYILI KANUN HÜKMÜNDE KARARNAME, 657 SAYILI DEVLET MEMURLARI KANUNU İLE 926 SAYILI TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU VE 6245 SAYILI HARCIRAH KANUNUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.269.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=269&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.02.1987",
+   :resmi-gazete/issue "19360",
+   :law/adoption-date "23.01.1987"}
+  {:document/id "decree/khk-270",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "270",
+   :document/title
+   "YÜKSEK HAKİMLİK TAZMİNATI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.270.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=270&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.02.1987",
+   :resmi-gazete/issue "19360",
+   :law/adoption-date "23.01.1987"}
+  {:document/id "decree/khk-281",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "281",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ VE KAMU KURUM VE KURULUŞLARI İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.281.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=281&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "17.06.1987",
+   :resmi-gazete/issue "19490",
+   :law/adoption-date "15.08.1987"}
+  {:document/id "decree/khk-285",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "285",
+   :document/title
+   "OLAĞANÜSTÜ HAL BÖLGE VALİLİĞİ İHDASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.285.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=285&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "14.07.1987",
+   :resmi-gazete/issue "19517",
+   :law/adoption-date "10.07.1987"}
+  {:document/id "decree/khk-294",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "294",
+   :document/title
+   "17/7/1963 TARİHLİ VE 278 SAYILI TÜRKİYE BİLİMSEL VE TEKNİK ARAŞTIRMA KURUMU KANUNUNUN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.294.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=294&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "11.11.1987",
+   :resmi-gazete/issue "19631",
+   :law/adoption-date "21.10.1987"}
+  {:document/id "decree/khk-301",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "301",
+   :document/title
+   "2547 SAYILI YÜKSEKÖĞRETİM KANUNUNUN İKİ MADDESİNİN DEĞİŞTİRİLMESİNE DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.301.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=301&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "21.12.1987",
+   :resmi-gazete/issue "19671",
+   :law/adoption-date "02.12.1987"}
+  {:document/id "decree/khk-306",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "306",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.306.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=306&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "31.12.1987",
+   :resmi-gazete/issue "19681",
+   :law/adoption-date "30.12.1987"}
+  {:document/id "decree/khk-307",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "307",
+   :document/title
+   "10/10/1984 TARİHLİ VE 3056 SAYILI KANUNUN BAZI MADDELERİ İLE 178 SAYILI KANUN HÜKMÜNDE KARARNAME VE 190 SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.307.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=307&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "14.01.1987",
+   :resmi-gazete/issue "19694",
+   :law/adoption-date "04.01.1988"}
+  {:document/id "decree/khk-311",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "311",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.311.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=311&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "29.02.1988",
+   :resmi-gazete/issue "19740",
+   :law/adoption-date "14.01.1988"}
+  {:document/id "decree/khk-318",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "318",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.318.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=318&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "31.03.1988",
+   :resmi-gazete/issue "19771 (Mükerrer)",
+   :law/adoption-date "28.03.1988"}
+  {:document/id "decree/khk-320",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "320",
+   :document/title "MİLLİ PİYANGO HAKKINDA KANUN HÜKMÜNDE KARARNAME ",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.320.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=320&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "06.06.1988",
+   :resmi-gazete/issue "19834",
+   :law/adoption-date "04.04.1988"}
+  {:document/id "decree/khk-322",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "322",
+   :document/title
+   "TÜRKİYE RADYO VE TELEVİZYON KANUNUNUN BAZI MADDELERİNDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.322.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=322&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.05.1988",
+   :resmi-gazete/issue "19809",
+   :law/adoption-date "13.04.1988"}
+  {:document/id "decree/khk-351",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "351",
+   :document/title
+   "ÇEŞİTLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.351.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=351&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "30.12.1988",
+   :resmi-gazete/issue "20035 (Mükerrer)",
+   :law/adoption-date "23.12.1988"}
+  {:document/id "decree/khk-366",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "366",
+   :document/title
+   "657 SAYILI DEVLET MEMURLARI KANUNU, 926 SAYILI TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU VE 3466 SAYILI UZMAN JANDARMA KANUNUNDA YER ALAN AYLIK GÖSTERGE RAKAMLA- RININ DEĞİŞTİRİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.366.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=366&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "11.04.1989",
+   :resmi-gazete/issue "20136",
+   :law/adoption-date "10.04.1989"}
+  {:document/id "decree/khk-375",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "375",
+   :document/title
+   "657 SAYILI DEVLET MEMURLARI KANUNU, 926 SAYILI TÜRK SİLAHLI KUVVETLERİ PERSONEL KANUNU, 2802 SAYILI HAKİMLER VE SAVCILAR KANUNU, 2914 SAYILI YÜKSEKÖĞRETİM PERSONEL KANUNU, 5434 SAYILI T.C. EMEKLİ SANDIĞI KANUNU İLE DİĞER BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI, DEVLET MEMURLARI VE DİĞER KAMU GÖREVLİLERİNE MEMURİYET TABAN AYLIĞI VE KIDEM AYLIĞI İLE EK TAZMİNAT ÖDENMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.375.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=375&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "30.06.1989",
+   :resmi-gazete/issue "20211 (Mükerrer)",
+   :law/adoption-date "27.06.1989"}
+  {:document/id "decree/khk-383",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "383",
+   :document/title
+   "ÖZEL ÇEVRE KORUMA KURUMU BAŞKANLIĞI KURULMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.383.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=383&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "13.11.1989",
+   :resmi-gazete/issue "20341",
+   :law/adoption-date "19.10.1989"}
+  {:document/id "decree/khk-388",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "388",
+   :document/title
+   "GÜNEYDOĞU ANADOLU PROJESİ BÖLGE KALKINMA İDARESİ TEŞKİLATININ KURULUŞ VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.388.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=388&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "06.11.1989",
+   :resmi-gazete/issue "20334",
+   :law/adoption-date "27.10.1989"}
+  {:document/id "decree/khk-399",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "399",
+   :document/title
+   "KAMU İKTİSADİ TEŞEBBÜSLERİ PERSONEL REJİMİNİN DÜZENLENMESİ VE 233 SAYILI KANUN HÜKMÜNDE KARARNAMENİN BAZI MADDELERİNİN YÜRÜRLÜKTEN KALDIRILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.399.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=399&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "29.01.1990",
+   :resmi-gazete/issue "20417 (Mükerrer)",
+   :law/adoption-date "22.01.1990"}
+  {:document/id "decree/khk-417",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "417",
+   :document/title
+   "BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.417.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=417&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "11.04.1990",
+   :resmi-gazete/issue "20489",
+   :law/adoption-date "08.04.1990"}
+  {:document/id "decree/khk-420",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "420",
+   :document/title
+   "ÇEŞİTLİ KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.420.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=420&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "13.04.1990",
+   :resmi-gazete/issue "20491",
+   :law/adoption-date "12.04.1990"}
+  {:document/id "decree/khk-430",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "430",
+   :document/title
+   "OLAĞANÜSTÜ HAL BÖLGE VALİLİĞİ VE OLAĞANÜSTÜ HALİN DEVAMI SÜRESİNCE ALINACAK İLAVE TEDBİRLER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.430.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=430&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "16.12.1990",
+   :resmi-gazete/issue "20727",
+   :law/adoption-date "15.02.1990"}
+  {:document/id "decree/khk-471",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "471",
+   :document/title
+   "190 SAYILI GENEL KADRO VE USULÜ HAKKINDA KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.471.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=471&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "03.01.1992",
+   :resmi-gazete/issue "21100",
+   :law/adoption-date "20.12.1991"}
+  {:document/id "decree/khk-483",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "483",
+   :document/title
+   "SİLAHLI ÇETE MENSUBU OLMAYIP HERHANGİ BİR NEDENLE ÇETE İÇİNDE BULUNANLARDAN SUÇ İŞLEMEYENLER HAKKINDA TAKİBAT YAPILMAYACAĞINA İLİŞKİN KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.483.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=483&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.1993",
+   :resmi-gazete/issue "21601",
+   :law/adoption-date "25.05.1993"}
+  {:document/id "decree/khk-504",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "504",
+   :document/title
+   "YEDİ İLDE BÜYÜKŞEHİR BELEDİYESİ KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.504.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=504&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.09.1993",
+   :resmi-gazete/issue "21693",
+   :law/adoption-date "02.09.1993"}
+  {:document/id "decree/khk-527",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "527",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.527.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=527&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "20.05.1994",
+   :resmi-gazete/issue "21939 (Mükerrer)",
+   :law/adoption-date "18.05.1994"}
+  {:document/id "decree/khk-547",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "547",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.547.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=547&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.03.1995",
+   :resmi-gazete/issue "22222",
+   :law/adoption-date "23.02.1995"}
+  {:document/id "decree/khk-550",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "550",
+   :document/title
+   "SEKİZ İLÇE VE ÜÇ İL KURULMASI VE 190SAYILI KANUN HÜKMÜNDE KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.550.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=550&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "06.06.1995",
+   :resmi-gazete/issue "22305",
+   :law/adoption-date "03.06.1995"}
+  {:document/id "decree/khk-570",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "570",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİ İLE İLGİLİ BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.570.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=570&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "03.04.1997",
+   :resmi-gazete/issue "22953 (Mükerrer)",
+   :law/adoption-date "20.03.1997"}
+  {:document/id "decree/khk-573",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "573",
+   :document/title "ÖZEL EĞİTİM HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.573.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=573&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "06.06.1997",
+   :resmi-gazete/issue "23011 (Mükerrer)",
+   :law/adoption-date "30.05.1997"}
+  {:document/id "decree/khk-576",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "576",
+   :document/title
+   "DOĞAL AFETLERDE YAPILACAK YARDIMLARIN DÜZENLENMESİ İLE VERGİLERİN ÖDEME SÜRELERİNİN UZATILMASINA VE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.576.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=576&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "23.09.1999",
+   :resmi-gazete/issue "23825",
+   :law/adoption-date "14.09.1999"}
+  {:document/id "decree/khk-582",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "582",
+   :document/title
+   "AFETTEN DOĞAN ZARARLARIN GİDERİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.582.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=582&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "22.11.1999",
+   :resmi-gazete/issue "23884 (Mükerrer)",
+   :law/adoption-date "27.10.1999"}
+  {:document/id "decree/khk-584",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "584",
+   :document/title
+   "BİR İL VE İKİ İLÇE KURULMASI VE 190 SAYILI KANUN HÜKMÜNDE, KARARNAMENİN EKİ CETVELLERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.584.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=584&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.12.1999",
+   :resmi-gazete/issue "23901",
+   :law/adoption-date "03.12.1999"}
+  {:document/id "decree/khk-593",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "593",
+   :document/title
+   "SAKARYA İLİNDE BÜYÜK ŞEHİR BELEDİYESİ KURULMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.593.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=593&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "06.03.2000",
+   :resmi-gazete/issue "23985",
+   :law/adoption-date "14.01.2000"}
+  {:document/id "decree/khk-631",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "631",
+   :document/title
+   "MEMURLAR VE DİĞER KAMU GÖREVLİLERİNİN MALİ VE SOSYAL HAKLARINDA DÜZENLEMELER İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.631.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=631&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "13.07.2001",
+   :resmi-gazete/issue "24461 (Mükerrer)",
+   :law/adoption-date "04.07.2001"}
+  {:document/id "decree/khk-633",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "633",
+   :document/title
+   "SOSYAL HİZMETLER ALANINDA BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.633.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=633&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.2011",
+   :resmi-gazete/issue "27958 (Mükerrer)",
+   :law/adoption-date "03.06.2011"}
+  {:document/id "decree/khk-635",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "635",
+   :document/title
+   "SANAYİ VE TEKNOLOJİ BAKANLIĞININ ARAŞTIRMA, GELİŞTİRME, YENİLİKÇİLİK VE GİRİŞİMCİLİK FAALİYETLERİNİN KARŞILANMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.635.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=635&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.2011",
+   :resmi-gazete/issue "27958 (Mükerrer)",
+   :law/adoption-date "03.06.2011"}
+  {:document/id "decree/khk-637",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "637",
+   :document/title
+   "DESTEKLEME VE FİYAT İSTİKRAR FONU VE BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.637.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=637&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.2011",
+   :resmi-gazete/issue "27958 (Mükerrer)",
+   :law/adoption-date "03.06.2011"}
+  {:document/id "decree/khk-640",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "640",
+   :document/title
+   "GÜMRÜK PERSONELİ İLE BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.640.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=640&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.2011",
+   :resmi-gazete/issue "27958 (Mükerrer)",
+   :law/adoption-date "03.06.2011"}
+  {:document/id "decree/khk-641",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "641",
+   :document/title
+   "KALKINMAYA İLİŞKİN BAZI KURULLAR HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.641.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=641&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.2011",
+   :resmi-gazete/issue "27958 (Mükerrer)",
+   :law/adoption-date "03.06.2011"}
+  {:document/id "decree/khk-642",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "642",
+   :document/title
+   "DOĞU ANADOLU PROJESİ, DOĞU KARADENİZ PROJESİ VE KONYA OVASI PROJESİ BÖLGE KALKINMA İDARESİ BAŞKANLIKLARININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME   ",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.642.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=642&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "08.06.2011",
+   :resmi-gazete/issue "27958 (Mükerrer)",
+   :law/adoption-date "03.06.2011"}
+  {:document/id "decree/khk-649",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "649",
+   :document/title
+   "AVRUPA BİRLİĞİ BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME ",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.649.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=649&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "17.08.2011",
+   :resmi-gazete/issue "28028",
+   :law/adoption-date "09.08.2011"}
+  {:document/id "decree/khk-652",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "652",
+   :document/title
+   "ÖZEL BARINMA HİZMETİ VEREN KURUMLAR VE BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.652.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=652&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "14.09.2011",
+   :resmi-gazete/issue "28054",
+   :law/adoption-date "25.08.2011"}
+  {:document/id "decree/khk-655",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "655",
+   :document/title
+   "ULAŞTIRMA VE ALTYAPI ALANINA İLİŞKİN BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.655.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=655&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "01.11.2011",
+   :resmi-gazete/issue "28102 (Mükerrer)",
+   :law/adoption-date "26.09.2011"}
+  {:document/id "decree/khk-656",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "656",
+   :document/title
+   "TÜRK İŞBİRLİĞİ VE KOORDİNASYON AJANSI BAŞKANLIĞI İLE İLGİLİ BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.656.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=656&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103",
+   :law/adoption-date "24.10.2011"}
+  {:document/id "decree/khk-658",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "658",
+   :document/title
+   "TÜRKİYE SU ENSTİTÜSÜ HAKKINDA BAZI MALİ DÜZENLEMELERE DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.658.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=658&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103",
+   :law/adoption-date "27.10.2011"}
+  {:document/id "decree/khk-659",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "659",
+   :document/title
+   "GENEL BÜTÇE KAPSAMINDAKİ KAMU İDARELERİ VE ÖZEL BÜTÇELİ İDARELERDE HUKUK HİZMETLERİNİN YÜRÜTÜLMESİNE İLİŞKİN KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.659.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=659&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103",
+   :law/adoption-date "26.09.2011"}
+  {:document/id "decree/khk-660",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "660",
+   :document/title
+   "KAMU GÖZETİMİ,  MUHASEBE VE DENETİM STANDARTLARI KURUMUNUN TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME ",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.660.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=660&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103",
+   :law/adoption-date "29.10.2011"}
+  {:document/id "decree/khk-663",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "663",
+   :document/title
+   "SAĞLIK ALANINDA BAZI DÜZENLEMELER HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.663.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=663&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103 (Mükerrer)",
+   :law/adoption-date "11.10.2011"}
+  {:document/id "decree/khk-664",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "664",
+   :document/title
+   "ATATÜRK KÜLTÜR, DİL VE TARİH YÜKSEK KURUMU TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.664.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=664&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103 (Mükerrer)",
+   :law/adoption-date "11.10.2011"}
+  {:document/id "decree/khk-665",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "665",
+   :document/title
+   "ÇALIŞMA VE SOSYAL GÜVENLİK BAKANLIĞININ TEŞKİLAT VE GÖREVLERİ HAKKINDA KANUN İLE BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASINA DAİR KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.665.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=665&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "02.11.2011",
+   :resmi-gazete/issue "28103",
+   :law/adoption-date "11.10.2011"}
+  {:document/id "decree/khk-698",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "698",
+   :document/title
+   "477 SAYILI KANUN İLE BAZI KANUNLARDA DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.698.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=698&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "04.07.2018",
+   :resmi-gazete/issue "30468",
+   :law/adoption-date "02.07.2018"}
+  {:document/id "decree/khk-700",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "700",
+   :document/title
+   "ANAYASADA YAPILAN DEĞİŞİKLİKLERE UYUM SAĞLANMASI AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.700.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=700&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "07.07.2018",
+   :resmi-gazete/issue "30471 (Mükerrer)",
+   :law/adoption-date "02.07.2018"}
+  {:document/id "decree/khk-703",
+   :document/type :decree,
+   :decree/subtype :khk,
+   :document/number "703",
+   :document/title
+   "ANAYASADA YAPILAN DEĞİŞİKLİKLERE UYUM SAĞLANMASI AMACIYLA BAZI KANUN VE KANUN HÜKMÜNDE KARARNAMELERDE DEĞİŞİKLİK YAPILMASI HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.703.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=703&MevzuatTur=4&MevzuatTertip=5",
+   :mevzuat/tur 4,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "09.07.2018",
+   :resmi-gazete/issue "30473 (Mükerrer)",
+   :law/adoption-date "02.07.2018"}]}

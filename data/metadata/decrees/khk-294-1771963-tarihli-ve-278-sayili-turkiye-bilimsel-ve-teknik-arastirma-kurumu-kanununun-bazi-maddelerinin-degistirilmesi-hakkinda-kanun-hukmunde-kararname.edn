@@ -1,0 +1,56 @@
+{:document/id "decree/khk-294",
+ :document/type :decree,
+ :document/number "294",
+ :document/title
+ "17/7/1963 TARİHLİ VE 278 SAYILI TÜRKİYE BİLİMSEL VE TEKNİK ARAŞTIRMA KURUMU KANUNUNUN BAZI MADDELERİNİN DEĞİŞTİRİLMESİ HAKKINDA KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-294-1771963-tarihli-ve-278-sayili-turkiye-bilimsel-ve-teknik-arastirma-kurumu-kanununun-bazi-maddelerinin-degistirilmesi-hakkinda-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-294-1771963-tarihli-ve-278-sayili-turkiye-bilimsel-ve-teknik-arastirma-kurumu-kanununun-bazi-maddelerinin-degistirilmesi-hakkinda-kanun-hukmunde-kararname",
+ :document/sha256
+ "a10c712fbd72748634df4d64946500822bbaaa44e2f0c7030cabb0306f892fb8",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.294.pdf",
+ :source/fetched-at #inst "2026-08-24T22:10:04.816-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-294/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title
+   "Yayımlandığı Resmî Gazete Tarihi : 11.11.1987 No : 19631",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "fa5bdf20375ec3e0df63910821735eef5b8c6188c418215ad834aa3bc42ae40d"}
+  {:article/id "decree/khk-294/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title nil,
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "1fd4e2e48c7b516b3bf6fb28247a2a495797070b83992ff5b5600b634207a5b6"}
+  {:article/id "decree/khk-294/article/2",
+   :article/type :temporary,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/gecici-madde-002.md",
+   :article/sha256
+   "0f083f60f9bc4d22c544bc37d0f979fac5f39dab1855cc3ff30d829c14b15e03"}
+  {:article/id "decree/khk-294/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title nil,
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "6c0dacb3923baae45a3c39ed5c41555eea02ff25342847db4d14b78a2f122b44"}
+  {:article/id "decree/khk-294/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title nil,
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "352a57930c200ec10e02a9ebd7e212ab359be7e81c2ab67bd265d2341e8486ea"}]}

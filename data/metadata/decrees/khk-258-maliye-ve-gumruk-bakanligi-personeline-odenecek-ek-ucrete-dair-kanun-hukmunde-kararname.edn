@@ -1,0 +1,48 @@
+{:document/id "decree/khk-258",
+ :document/type :decree,
+ :document/number "258",
+ :document/title
+ "MALİYE VE GÜMRÜK BAKANLIĞI PERSONELİNE ÖDENECEK EK ÜCRETE DAİR KANUN HÜKMÜNDE KARARNAME",
+ :document/slug
+ "khk-258-maliye-ve-gumruk-bakanligi-personeline-odenecek-ek-ucrete-dair-kanun-hukmunde-kararname",
+ :document/path
+ "data/canonical/decrees/khk-258-maliye-ve-gumruk-bakanligi-personeline-odenecek-ek-ucrete-dair-kanun-hukmunde-kararname",
+ :document/sha256
+ "ca93dc10758473eada7bc4f2d2d7350a6a979aac7e3e68bb05a0f9f5291f97f2",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/4.5.258.pdf",
+ :source/fetched-at #inst "2026-08-24T22:09:52.539-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/khk-258/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "V. Tertip Düsturun Cildi : 25",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "67a5bf8997b4fc187dffd6cf82757cf78771b38fc5f8def35dc0a794ec35fea1"}
+  {:article/id "decree/khk-258/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title nil,
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "670406b2931b542d42ecfc76933b38cebd466599389dd4fd2d560e183b4704d6"}
+  {:article/id "decree/khk-258/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title nil,
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "e92f073a802a477d7d16f4a92a101ebdbdb7e4c0999c92d7c6619e1add9d4071"}
+  {:article/id "decree/khk-258/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title nil,
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "0fbcc8362b9107bd9b96c2d808fe008402ce35c635e5d21c71d248c7efcd89dd"}]}

@@ -1,0 +1,126 @@
+{:document/id "decree/cbk-23",
+ :document/type :decree,
+ :document/number "23",
+ :document/title
+ "TÜRKİYE UZAY AJANSI HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 23)",
+ :document/slug
+ "cbk-23-turkiye-uzay-ajansi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-23",
+ :document/path
+ "data/canonical/decrees/cbk-23-turkiye-uzay-ajansi-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-23",
+ :document/sha256
+ "d8d76359a02915a2e7fd8732c28f24e0374175172feb044d7b5de087047a9620",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.23.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:49.587-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-23/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç ve kapsam",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "824a9b0c14456349c6217d239d159dfdc99fb6e1ed440f6ac2ba7737a4a6a39a"}
+  {:article/id "decree/cbk-23/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Tanımlar",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "941c4b05bc93b95a5196cb289c158687fe5bdccfee45def206aa08b06fa06541"}
+  {:article/id "decree/cbk-23/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Kuruluş",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "87f593e6925e8adac70381872bb3ebbffc98b5d63322e3d111db2d4cc9400ddf"}
+  {:article/id "decree/cbk-23/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Ajansın görevleri",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "37bd386a4ed7a565d8ea81005c224ca15e75927413f2b63e280c5fe18e07eddd"}
+  {:article/id "decree/cbk-23/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "Ajansın organ ve birimleri",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "ac89bde837f908bff86eec8960fe6775317323eb7343d48344331283c00d8c4f"}
+  {:article/id "decree/cbk-23/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title "Yönetim Kurulu",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "ceda61140b510a869358c369361762a202066d72f7fd2112f018212c2596217c"}
+  {:article/id "decree/cbk-23/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Başkanlık",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "85a1f3b2b26138f4b602cbff060236d5a5a7511e788a753f478bf350af1d4028"}
+  {:article/id "decree/cbk-23/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Ajansın gelirleri ile bütçe esasları",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "06073dd3dcd2929eb217d5456138c5115050c69ffee5b55285fcae61a6a847f0"}
+  {:article/id "decree/cbk-23/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Destekler ve burslar",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "b3be2ba1627360473590db52bb881b2fe464de6b742072f146ea680e8c41e9aa"}
+  {:article/id "decree/cbk-23/article/9/A",
+   :article/type :normal,
+   :article/no "9/A",
+   :article/title "Uzman istihdamı",
+   :article/path "articles/madde-009-a.md",
+   :article/sha256
+   "4a3c6a6c57d9d1e1c6e94f9b71fc1f863d00b9a8aa84a9a272ab9c6379b04c9d"}
+  {:article/id "decree/cbk-23/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Personele ilişkin hükümler",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "491dcc2681d4c647b5d529bb036a0ec34f407b14cd9f4e2bfbf09e46eb12a749"}
+  {:article/id "decree/cbk-23/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title
+   "Değiştirilen ve yürürlükten kaldırılan hükümler ile atıflar",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "fc60a2a9dd52f13cb9f9aed87eed728ad7b73c481e4620a662928ee73b1356a2"}
+  {:article/id "decree/cbk-23/article/1",
+   :article/type :temporary,
+   :article/no "1",
+   :article/title "Geçiş hükümleri",
+   :article/path "articles/gecici-madde-001.md",
+   :article/sha256
+   "79466536e6aba54a94fc58c0c38ea1e8e898f793f5173e4e315cbe2f71dabe3c"}
+  {:article/id "decree/cbk-23/article/12",
+   :article/type :normal,
+   :article/no "12",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-012.md",
+   :article/sha256
+   "32b8a7a702f0a9319bf48d7c592f718a5d56f32da69c4f8492401f5712f9fef6"}
+  {:article/id "decree/cbk-23/article/13",
+   :article/type :normal,
+   :article/no "13",
+   :article/title "Yürütme",
+   :article/path "articles/madde-013.md",
+   :article/sha256
+   "84960ebcb9fb41b6abac22978b528073ba2da21964efe378d683bdd8d6fa370b"}]}

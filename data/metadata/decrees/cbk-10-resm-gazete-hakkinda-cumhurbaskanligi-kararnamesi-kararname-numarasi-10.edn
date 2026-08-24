@@ -1,0 +1,98 @@
+{:document/id "decree/cbk-10",
+ :document/type :decree,
+ :document/number "10",
+ :document/title
+ "RESMÎ GAZETE HAKKINDA CUMHURBAŞKANLIĞI KARARNAMESİ (KARARNAME NUMARASI: 10)",
+ :document/slug
+ "cbk-10-resm-gazete-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-10",
+ :document/path
+ "data/canonical/decrees/cbk-10-resm-gazete-hakkinda-cumhurbaskanligi-kararnamesi-kararname-numarasi-10",
+ :document/sha256
+ "07a5c4323f32e0717f807c1b2abd3e0051e83ebec4b02704add0542781dc0f27",
+ :source/name "Mevzuat Bilgi Sistemi",
+ :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/19.5.10.pdf",
+ :source/fetched-at #inst "2026-08-24T22:08:36.526-00:00",
+ :openmevzuat/baseline-date "2026-08-24",
+ :openmevzuat/generated-at #inst "2026-08-24T22:07:58.960-00:00",
+ :content/language "tr",
+ :content/format :markdown,
+ :content/granularity :article,
+ :articles
+ [{:article/id "decree/cbk-10/article/1",
+   :article/type :normal,
+   :article/no "1",
+   :article/title "Amaç",
+   :article/path "articles/madde-001.md",
+   :article/sha256
+   "37805a3490c61a7c8b777ef61df988fa6309e5ceacf2c422f62282d41a358e38"}
+  {:article/id "decree/cbk-10/article/2",
+   :article/type :normal,
+   :article/no "2",
+   :article/title "Resmî Gazete’nin yayımlanması",
+   :article/path "articles/madde-002.md",
+   :article/sha256
+   "69f22a74873952e13f5dab1b7c15f87dbc37d9e21b7a2d5e37edcb74c64e917c"}
+  {:article/id "decree/cbk-10/article/3",
+   :article/type :normal,
+   :article/no "3",
+   :article/title "Resmî Gazete’nin yayımlanacağı günler",
+   :article/path "articles/madde-003.md",
+   :article/sha256
+   "8dae11ef86d98d478b7618a6b3f0002f4e3e0319b8d8ebbed341d0f58764f729"}
+  {:article/id "decree/cbk-10/article/4",
+   :article/type :normal,
+   :article/no "4",
+   :article/title "Resmî Gazete’nin içeriği",
+   :article/path "articles/madde-004.md",
+   :article/sha256
+   "a327b914e825d377c15569557f357c76b5d020b864ac9de560016ca095c09d65"}
+  {:article/id "decree/cbk-10/article/5",
+   :article/type :normal,
+   :article/no "5",
+   :article/title "İlanlar",
+   :article/path "articles/madde-005.md",
+   :article/sha256
+   "82a60993180df6f17186ec578ca9e7bc9b6b04def7f77f85732cf8431d599746"}
+  {:article/id "decree/cbk-10/article/6",
+   :article/type :normal,
+   :article/no "6",
+   :article/title
+   "İnceleme üzerine Resmî Gazete’de yayımlanacak düzenlemeler",
+   :article/path "articles/madde-006.md",
+   :article/sha256
+   "7f0755444fc4093136937133b5ccb6713213555badb304de63f2589ba94dd9a5"}
+  {:article/id "decree/cbk-10/article/7",
+   :article/type :normal,
+   :article/no "7",
+   :article/title "Mevzuatın yürürlüğe girmesi",
+   :article/path "articles/madde-007.md",
+   :article/sha256
+   "d9ba1f84f11df8337d5ea77e1dd5ca33e0813072936c9e21d76de95296bb8f40"}
+  {:article/id "decree/cbk-10/article/8",
+   :article/type :normal,
+   :article/no "8",
+   :article/title "Mevzuat Bilgi Sistemi",
+   :article/path "articles/madde-008.md",
+   :article/sha256
+   "0ff114fd2b4802e9ea810b5950491753c3a329cdcbeae39fe9397eaaa1b8ca48"}
+  {:article/id "decree/cbk-10/article/9",
+   :article/type :normal,
+   :article/no "9",
+   :article/title "Yönetmelik",
+   :article/path "articles/madde-009.md",
+   :article/sha256
+   "a33cc27a70f86abf32fbdbcf6a3ab28eff530677c6e8acc1f28cf7f2fb34cefc"}
+  {:article/id "decree/cbk-10/article/10",
+   :article/type :normal,
+   :article/no "10",
+   :article/title "Yürürlük",
+   :article/path "articles/madde-010.md",
+   :article/sha256
+   "c9d98d03c07c9e9421846bbdc1125429ac9116a10d170d3717d025694e829447"}
+  {:article/id "decree/cbk-10/article/11",
+   :article/type :normal,
+   :article/no "11",
+   :article/title "Yürütme",
+   :article/path "articles/madde-011.md",
+   :article/sha256
+   "cdf2200e7b03e11f1473ece3595648f0626dd889cb2b47704b627bc9d132e671"}]}
