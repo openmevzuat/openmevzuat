@@ -3,7 +3,7 @@
  :catalog/source-url "https://www.mevzuat.gov.tr/#kanunlar",
  :catalog/api-url
  "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable",
- :catalog/fetched-at #inst "2026-08-19T05:19:28.639-00:00",
+ :catalog/fetched-at #inst "2026-10-23T09:39:58.462-00:00",
  :catalog/records-total 916,
  :catalog/documents-total 916,
  :catalog/duplicate-numbers
@@ -7241,7 +7241,7 @@
    :document/type :law,
    :document/number "5102",
    :document/title
-   "YÜKSEK ÖĞRENİM ÖĞRENCİLERİNE BURS KREDİ VERİLMESİNE İLİŞKİN KANUN",
+   "YÜKSEK ÖĞRENİM ÖĞRENCİLERİNE BURS, KREDİ VERİLMESİNE İLİŞKİN KANUN",
    :source/id :mevzuat-gov-tr,
    :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.5102.pdf",
    :source/catalog-url
