@@ -3,9 +3,9 @@
  :catalog/source-url "https://www.mevzuat.gov.tr/#kanunlar",
  :catalog/api-url
  "https://www.mevzuat.gov.tr/Anasayfa/MevzuatDatatable",
- :catalog/fetched-at #inst "2026-10-23T09:39:58.462-00:00",
- :catalog/records-total 916,
- :catalog/documents-total 916,
+ :catalog/fetched-at #inst "2026-10-27T10:07:03.332-00:00",
+ :catalog/records-total 917,
+ :catalog/documents-total 917,
  :catalog/duplicate-numbers
  ["7"
   "477"
@@ -12514,4 +12514,18 @@
    :mevzuat/tertip "5",
    :resmi-gazete/date "18.08.2026",
    :resmi-gazete/issue "33344",
-   :law/adoption-date "10.08.2026"}]}
+   :law/adoption-date "10.08.2026"}
+  {:document/id "law/7596",
+   :document/type :law,
+   :document/number "7596",
+   :document/title
+   "TASFİYESİNE KARAR VERİLEN BAZI YATIRIM FONLARI HAKKINDA KANUN",
+   :source/id :mevzuat-gov-tr,
+   :source/url "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.7596.pdf",
+   :source/catalog-url
+   "https://www.mevzuat.gov.tr/mevzuat?MevzuatNo=7596&MevzuatTur=1&MevzuatTertip=5",
+   :mevzuat/tur 1,
+   :mevzuat/tertip "5",
+   :resmi-gazete/date "27.10.2026",
+   :resmi-gazete/issue "33413",
+   :law/adoption-date "22.10.2026"}]}
